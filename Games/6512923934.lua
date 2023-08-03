@@ -1,2 +1,4 @@
 
-addscript(6512923934, "Current Game","Auto click", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20click391.lua", "https://scriptblox.com/script/x750000000-Clicks-Ultra-Clicker-Simulator-Auto-click-5056")
+addscript(6512923934, "Current Game","Infinite Twitter code pets", "Uploaded by Itz505 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Twitter%20code%20pets405.lua", "https://scriptblox.com/script/x750000000-Clicks-Ultra-Clicker-Simulator-Wont-let-me-say-it-in-here-4996")
+    addscriptexist(6512923934, "Auto click", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20click448.lua", "https://scriptblox.com/script/x750000000-Clicks-Ultra-Clicker-Simulator-Auto-click-5056")
+                                

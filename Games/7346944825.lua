@@ -1,0 +1,2 @@
+
+addscript(7346944825, "Current Game","Farm Survivals", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Survivals391.lua", "https://scriptblox.com/script/Nextbot-Invasion-Nico's-Nextbots-Farm-Survivals-4511")

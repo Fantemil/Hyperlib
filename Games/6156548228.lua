@@ -1,2 +1,2 @@
 
-addscript(6156548228, "Current Game","Remove AFK Detecting", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20AFK%20Detecting297.lua", "https://scriptblox.com/script/Vibe-Place-Remove-AFK-Detecting-6491")
+addscript(6156548228, "Current Game","Remove AFK Detecting", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20AFK%20Detecting874.lua", "https://scriptblox.com/script/Vibe-Place-Remove-AFK-Detecting-6491")

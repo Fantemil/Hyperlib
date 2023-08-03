@@ -1,0 +1,2 @@
+
+addscript(7326500950, "Current Game","NOT MINE", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOT%20MINE701.lua", "https://scriptblox.com/script/Untitled-Melee-Game-NOT-MINE-4460")

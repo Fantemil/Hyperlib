@@ -1,0 +1,2 @@
+
+addscript(7225720036, "Current Game","auto stuff yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20stuff%20yes410.lua", "https://scriptblox.com/script/UPD3-Mining-Saga!-auto-stuff-yes-4721")

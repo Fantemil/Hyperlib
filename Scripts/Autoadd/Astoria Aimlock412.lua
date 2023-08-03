@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://iidentity.github.io/Astoria/Scripts/Aimlock"))()

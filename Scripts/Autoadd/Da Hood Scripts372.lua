@@ -1,0 +1,52 @@
+ChariotsWare: loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Rippeed/DaHoodinary/main/chariotsware"))()
+Arctic: loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/PolarWasHere/Arctic/main/Arctic"))()
+AimWare: loadstring(game:HttpGet('https://pastebin.com/raw/fg0C9NSS'))()
+SpaceX: loadstring(game:HttpGet("https://raw.githubusercontent.com/spacexrandom/Lua/main/DaHood", true))()
+NossWare: loadstring(game:HttpGet("https://raw.githubusercontent.com/Nosssa/NossLock/main/WinterTime"))()
+FakeMacro: loadstring(game:HttpGet("https://pastebin.com/raw/ifkkdq8a"))()
+Vortex: loadstring(game:HttpGet("https://raw.githubusercontent.com/ImagineProUser/vortexdahood/main/vortex", true))()
+Faded Lock: 
+_G.HideToggle = "RightShift" -- You can put any keybind
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/FadedLock/main/YesEpic"))()
+Raycodex: loadstring(game:GetObjects("rbxassetid://5812737894")[1].Source)()
+ZellHub: loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxHackerProLuaStuff/zellhubnew/main/SCRIPTPRO.lua"))()
+Lazium: loadstring(game:HttpGet"https://raw.githubusercontent.com/CheapeeWastaken/Lazium/main/TheMain")()
+SwagMode: loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SwagModeV002'))()
+SwagMode Old: loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/OldSwagmode'))()
+Swagmode AdminFly: loadstring(game:HttpGet('https://raw.githubusercontent.com/22kristina/swag/main/admin_fly'))()
+SwagModeCrasher: loadstring(game:HttpGet('https://raw.githubusercontent.com/lerkermer/lua-projects/master/SuperCustomServerCrasher'))()
+Faded: 
+_G.Toggles = "V" -- You can put any keybind
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NighterEpic/Faded/main/YesEpic", true))()
+Zapped: loadstring(game:HttpGet('https://ekso.gq/raw/relases/zapped.lua'))()
+RayX: loadstring(game:HttpGet('https://raw.githubusercontent.com/SpaceYes/Lua/Main/DaHood.Lua'))()
+DimagX: loadstring(game:HttpGet('https://raw.githubusercontent.com/Dimag16/DimagX_NEW/main/dimagx', true))()
+Pluto: loadstring(game:HttpGet('https://raw.githubusercontent.com/SpacedYes/lua-projects/master/DaHood.Lua'))()
+Legacy Hub: loadstring(game:HttpGet('https://raw.githubusercontent.com/compwnter/destiny/main/loader'))();
+DaHubV3:
+ getgenv().Toggle = "v"--Must be lowercase
+getgenv().Intro = false
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoUGotbannedlol/DaHubV3/main/Launch"))()
+enclosed: loadstring(game:HttpGet('https://raw.githubusercontent.com/dylannpro123/enclosed/main/enclosed'))()
+TheWare AimLock: loadstring(game:HttpGet('https://raw.githubusercontent.com/coolmanstrongsuperman/lol/main/TheWare'))()
+RaceModex AimLock: loadstring(game:HttpGet("https://raw.githubusercontent.com/racemodex/my-scripts/master/dahoodaimlock", true))()
+RaceModex AutoFarm: loadstring(game:HttpGet("https://pastebin.com/raw/74VJ07iY", true))()
+Crostide's Selling GUI: 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/cdhc/main/gui"))()
+CROSTIDE'S CASH COUNTER: loadstring(game:HttpGet("https://raw.githubusercontent.com/Crostide/Counter/main/Cash"))()
+Raycodex AutoDropCash Script: loadstring(game:HttpGet(("https://raw.githubusercontent.com/Raycodex/Exploiting/main/Roblox/Da%20Hood%20Auto%20Cash%20Drop"), true))()
+Crimskid: loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteisveryepic/crimskid/main/da%20hood"))()
+ServerCrasher: loadstring(game:HttpGet('https://raw.githubusercontent.com/NoobieDev2009/StrikeHub/main/CrashV2', true))()
+BuyGUI: loadstring(game:HttpGet("https://pastebin.com/raw/rm1wey57"))()
+StrikeHub: loadstring(game:HttpGet('https://raw.githubusercontent.com/DEV-TK02/StrikeHub/main/Loader'))()
+SVANHUB V1.1: loadstring(game:HttpGet("https://raw.githubusercontent.com/svan1lol/svanhub/main/svanhubdahood.lua", true))()
+LATES GUI: loadstring(game:HttpGet("https://raw.githubusercontent.com/Impulseonyoutube/scripts/main/dahood"))()
+VenX: loadstring(game:HttpGet("https://raw.githubusercontent.com/Impulseonyoutube/VENX/main/subtoimpulseyea.lua"))()
+Lanxilty: loadstring(game:HttpGet("https://raw.githubusercontent.com/cjdjmj/new-ui-godmode/main/README.md", true))()
+IPen: loadstring(game:HttpGet("https://raw.githubusercontent.com/SuxOngW/Potential_/main/Dahood/UPSIPen.lua"))()
+DGcommunity: loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Margman/whynot/main/Da%20hood%20script%202022"))()
+MangoTarget UI: loadstring(game:HttpGet("https://raw.githubusercontent.com/rogelioajax/lua/main/Target"))()
+MangoHub: loadstring(game:HttpGet("https://raw.githubusercontent.com/rogelioajax/lua/main/MangoHub"))()
+Draco's Mod Menu: loadstring(game:HttpGet("https://raw.githubusercontent.com/Manny72911/modmenu/main/modmenu"))()
+DaHood Gui V.1: loadstring(game:HttpGet("https://raw.githubusercontent.com/HoodVortexFBI/5238523594202942149452385235942029421494523852359420294214945238523594202942149452385235942029421494/main/523852359420294214945238523594202942149452385235942029421494523852359420294214945238523594202942149452385235942029421494523852359420294214945238523594202942149452385235942029421494523852359420294214945238523594202942149.lua"))()
+Avatars Stealer: loadstring("\108\111\97\100\115\116\114\105\110\103\40\103\97\109\101\58\72\116\116\112\71\101\116\40\34\104\116\116\112\115\58\47\47\114\97\119\46\103\105\116\104\117\98\117\115\101\114\99\111\110\116\101\110\116\46\99\111\109\47\73\110\118\111\111\107\101\114\49\49\47\79\117\116\102\105\116\47\109\97\105\110\47\79\117\116\102\105\116\67\111\112\105\101\114\46\108\117\97\34\44\32\116\114\117\101\41\41\40\41\10")()

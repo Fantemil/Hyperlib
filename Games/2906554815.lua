@@ -1,0 +1,2 @@
+
+addscript(2906554815, "Current Game"," SWAT XP Giver", "Uploaded by DrifterX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20SWAT%20XP%20Giver717.lua", "https://scriptblox.com/script/S.W.A.T-Simulator-SWAT-XP-Giver!-3822")

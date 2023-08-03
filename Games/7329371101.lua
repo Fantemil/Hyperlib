@@ -1,0 +1,2 @@
+
+addscript(7329371101, "Current Game","SuperFast AutoFarm AutoSell Fast Money Upgrades", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SuperFast%20AutoFarm%20AutoSell%20Fast%20Money%20Upgrades565.lua", "https://scriptblox.com/script/Airplane-Attack-Simulator-SuperFast-AutoFarm-AutoSell-Fast-Money-Upgrades-3117")

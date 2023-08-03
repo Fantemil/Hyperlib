@@ -1,0 +1,2 @@
+
+addscript(7285447838, "Current Game","GUI", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI261.lua", "https://scriptblox.com/script/Tokyo-Saga-BIG-UPDATE!-GUI-5195")

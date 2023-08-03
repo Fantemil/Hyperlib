@@ -1,2 +1,2 @@
 
-addscript(5076734934, "Current Game","Script", "Uploaded by aoilol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script145.lua", "https://scriptblox.com/script/Rooms-Script-6612")
+addscript(5076734934, "Current Game","Script", "Uploaded by aoilol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script541.lua", "https://scriptblox.com/script/Rooms-Script-6612")

@@ -1,0 +1,2 @@
+
+addscript(9955279341, "Current Game","Gui", "Uploaded by Kirito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui490.lua", "https://scriptblox.com/script/New-Custom-and-Codes!-Infinity-Sea-2-Gui-5907")

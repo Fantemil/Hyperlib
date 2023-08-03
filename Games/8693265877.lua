@@ -1,0 +1,2 @@
+
+addscript(8693265877, "Current Game","Quick Script", "Uploaded by MakerScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quick%20Script35.lua", "https://scriptblox.com/script/Dyl's-Difficulty-Chart-BETA-Quick-Script-3780")

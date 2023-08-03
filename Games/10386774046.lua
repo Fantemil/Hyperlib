@@ -1,0 +1,2 @@
+
+addscript(10386774046, "Current Game","INSANE REACH", "Uploaded by Crispy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSANE%20REACH498.lua", "https://scriptblox.com/script/x1.5-Legend-Magician-INSANE-REACH-5377")

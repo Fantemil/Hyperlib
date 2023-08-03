@@ -1,0 +1,2 @@
+
+addscript(7986132460, "Current Game","OP", "Uploaded by nuggetxzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP158.lua", "https://scriptblox.com/script/Cannon-Simulator-OP-5623")

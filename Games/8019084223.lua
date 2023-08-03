@@ -1,0 +1,2 @@
+
+addscript(8019084223, "Current Game","Decent GUI For Adventure Mode", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decent%20GUI%20For%20Adventure%20Mode625.lua", "https://scriptblox.com/script/Learning-with-Pibby-FLEETWAY-SONIC-Decent-GUI-For-Adventure-Mode-5031")

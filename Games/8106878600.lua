@@ -1,0 +1,2 @@
+
+addscript(8106878600, "Current Game","Most op script", "Uploaded by dunkhaun123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Most%20op%20script113.lua", "https://scriptblox.com/script/Magic-Clicker-Most-op-script!-3693")

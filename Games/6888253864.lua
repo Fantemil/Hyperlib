@@ -1,0 +1,2 @@
+
+addscript(6888253864, "Current Game","Candy Farm", "Uploaded by viktor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Farm421.lua", "https://scriptblox.com/script/Wacky-Wizards-GHOST-Candy-Farm-6499")

@@ -1,0 +1,4 @@
+
+addscript(8707573053, "Current Game","Damage people from the distance", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Damage%20people%20from%20the%20distance365.lua", "https://scriptblox.com/script/nowhere-Damage-people-from-the-distance-4506")
+    addscriptexist(8707573053, "Farm bottles", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20bottles877.lua", "https://scriptblox.com/script/nowhere-Farm-bottles-4507")
+                                

@@ -1,2 +1,0 @@
-
-addscript(9495369236, "Current Game","Auto Pick up and exp and coins etc", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pick%20up%20and%20exp%20and%20coins%20etc508.lua", "https://scriptblox.com/script/Cartoon-Network-Game-On-Auto-Pick-up-and-exp-and-coins-etc-12159")

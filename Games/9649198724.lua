@@ -1,0 +1,2 @@
+
+addscript(9649198724, "Current Game","Inf Coins", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Coins32.lua", "https://scriptblox.com/script/RELEASE!-My-Kennel!-Inf-Coins-6476")

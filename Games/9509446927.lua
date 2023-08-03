@@ -1,0 +1,2 @@
+
+addscript(9509446927, "Current Game","InfiniteStats", "Uploaded by LeadMarker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteStats49.lua", "https://scriptblox.com/script/Fruit-Piece-OPEN-TESTING-InfiniteStats-3488")

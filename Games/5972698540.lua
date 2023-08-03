@@ -1,0 +1,2 @@
+
+addscript(5972698540, "Current Game","Auto complet obby", "Uploaded by afrakristof2008 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20complet%20obby695.lua", "https://scriptblox.com/script/Easy-Obby!-NEW-STAGES-Auto-complet-obby-4587")

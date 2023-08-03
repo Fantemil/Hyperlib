@@ -1,0 +1,2 @@
+
+addscript(990364410, "Current Game","Survive the Night GUI", "Uploaded by Sayori on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20the%20Night%20GUI756.lua", "https://scriptblox.com/script/Survive-the-Night-The-Rake-Survive-the-Night-GUI-6251")

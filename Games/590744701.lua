@@ -1,0 +1,2 @@
+
+addscript(590744701, "Current Game","autowin", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autowin354.lua", "https://scriptblox.com/script/RBLXWare-autowin-5593")

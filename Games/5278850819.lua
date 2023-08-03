@@ -1,2 +1,8 @@
 
-addscript(5278850819, "Current Game","stay alive and flex your time on others Script", "Uploaded by Kara on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stay%20alive%20and%20flex%20your%20time%20on%20others%20Script366.lua", "https://scriptblox.com/script/stay-alive-and-flex-your-time-on-others-stay-alive-and-flex-your-time-on-others-Script-4524")
+addscript(5278850819, "Current Game","Nasıl kuruluyor yoruma yaz ben bimiyorum", "Uploaded by bsyenihesap02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nas%C4%B1l%20kuruluyor%20yoruma%20yaz%20ben%20bimiyorum714.lua", "https://scriptblox.com/script/stay-alive-and-flex-your-time-on-others-Kahraman-Merkezi-V1.5-4034")
+    addscriptexist(5278850819, "Anticheat bypass", "Uploaded by e621 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheat%20bypass341.lua", "https://scriptblox.com/script/stay-alive-and-flex-your-time-on-others-Anticheat-bypass-4329")
+                                
+    addscriptexist(5278850819, "stay alive gui", "Uploaded by mekhi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stay%20alive%20gui806.lua", "https://scriptblox.com/script/stay-alive-and-flex-your-time-on-others-stay-alive-gui-4681")
+                                
+    addscriptexist(5278850819, "stay alive and flex your time on others Script", "Uploaded by Kara on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stay%20alive%20and%20flex%20your%20time%20on%20others%20Script198.lua", "https://scriptblox.com/script/stay-alive-and-flex-your-time-on-others-stay-alive-and-flex-your-time-on-others-Script-4524")
+                                

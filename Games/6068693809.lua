@@ -1,0 +1,2 @@
+
+addscript(6068693809, "Current Game","break bot", "Uploaded by peppermint on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/break%20bot635.lua", "https://scriptblox.com/script/enceladus-but-he's-real-break-bot-5091")

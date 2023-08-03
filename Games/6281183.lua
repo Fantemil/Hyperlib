@@ -1,0 +1,2 @@
+
+addscript(6281183, "Current Game","script", "Uploaded by rypp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script2.lua", "https://scriptblox.com/script/The-Longest-Hole-In-Roblox-script-5051")

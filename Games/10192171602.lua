@@ -1,0 +1,2 @@
+
+addscript(10192171602, "Current Game","Turbos Murder Mystery game deleted R15 10M coins", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turbos%20Murder%20Mystery%20game%20deleted%20R15%2010M%20coins39.lua", "https://scriptblox.com/script/BACK-Turbo's-Murder-Mystery-(R15)-Turbos-R15-Free-10M-Coins-4478")

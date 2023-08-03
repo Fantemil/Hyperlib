@@ -1,2 +1,2 @@
 
-addscript(2685347741, "Current Game","men", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/men675.lua", "https://scriptblox.com/script/Remnant-Route-1-Ghost-Simulator-men-5332")
+addscript(2685347741, "Current Game","men", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/men863.lua", "https://scriptblox.com/script/Remnant-Route-1-Ghost-Simulator-men-5332")

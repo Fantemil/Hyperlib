@@ -1,2 +1,6 @@
 
-addscript(10631181587, "Current Game","Script auto", "Uploaded by JustRiux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20auto209.lua", "https://scriptblox.com/script/UPD-1.1.0Stone-Miner-Simulator-2-Script-auto-6247")
+addscript(10631181587, "Current Game","Open INFINITE Battle Pass Eggs For FREE", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20INFINITE%20Battle%20Pass%20Eggs%20For%20FREE122.lua", "https://scriptblox.com/script/UPD-1.1.0Stone-Miner-Simulator-2-Open-Battle-Pass-Egg-For-FREE-6082")
+    addscriptexist(10631181587, "Script auto", "Uploaded by JustRiux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20auto444.lua", "https://scriptblox.com/script/UPD-1.1.0Stone-Miner-Simulator-2-Script-auto-6247")
+                                
+    addscriptexist(10631181587, "Inf Rebirth Tokens And Gems", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Rebirth%20Tokens%20And%20Gems622.lua", "https://scriptblox.com/script/UPD-1.1.0Stone-Miner-Simulator-2-Inf-Rebirth-Tokens-And-Gems-5884")
+                                

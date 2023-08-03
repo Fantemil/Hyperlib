@@ -1,2 +1,0 @@
-
-addscript(13215924926, "Current Game","High", "Uploaded by jamarcushayes21 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/High653.lua", "https://scriptblox.com/script/SCHOOL-RP-V3-LIBRARY-High-12143")

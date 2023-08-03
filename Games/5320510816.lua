@@ -1,0 +1,2 @@
+
+addscript(5320510816, "Current Game","Auto", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto842.lua", "https://scriptblox.com/script/Farm-Life-Tycoon-Auto-4434")

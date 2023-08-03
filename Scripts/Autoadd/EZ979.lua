@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/itzRolf/Utilities/main/Goal%20Kick%20Simulator/main.lua',true))()

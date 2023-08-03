@@ -1,0 +1,2 @@
+
+addscript(164430409, "Current Game","Dark House GUI", "Uploaded by timmy282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20House%20GUI123.lua", "https://scriptblox.com/script/ALONE-IN-A-DARK-HOUSE-Horror-VR-Voice-Drk-GUI-4657")

@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.PlayerGui["AdminGui"].TextButton.Visible = true

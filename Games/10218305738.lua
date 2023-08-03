@@ -1,0 +1,2 @@
+
+addscript(10218305738, "Current Game","Unlimited steps", "Uploaded by DannyH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20steps342.lua", "https://scriptblox.com/script/Limited-Steps!-LAB-Un-steps-4449")

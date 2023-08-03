@@ -1,0 +1,2 @@
+
+addscript(221718525, "Current Game","Auto Farm Script", "Uploaded by KabutoViastos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Script192.lua", "https://scriptblox.com/script/Ninja-Tycoon-(v4.1)-Auto-Farm-Script-4516")

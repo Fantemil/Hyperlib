@@ -1,0 +1,2 @@
+
+addscript(3963432370, "Current Game","autofarm", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm938.lua", "https://scriptblox.com/script/Candy-Collecting-Simulator-NEW-GAME-CHECK-DESC-autofarm-3880")

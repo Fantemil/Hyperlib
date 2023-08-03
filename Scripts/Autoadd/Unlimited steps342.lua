@@ -1,0 +1,1 @@
+local a=game.Players.LocalPlayer.Character;a.HumanoidRootPart:Destroy()local b=a.Humanoid;b.Parent=game.ServerStorage;b.Parent=a

@@ -1,0 +1,4 @@
+
+addscript(8508303900, "Current Game","free tanks", "Uploaded by loyalxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20tanks719.lua", "https://scriptblox.com/script/UPDATE-15-Tower-of-Flood-Escape-2-free-tanks-5904")
+    addscriptexist(8508303900, "inf boost and pretty much anything", "Uploaded by loyal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20boost%20and%20pretty%20much%20anything828.lua", "https://scriptblox.com/script/UPDATE-15-Tower-of-Flood-Escape-2-inf-boost-and-pretty-much-anything-5036")
+                                

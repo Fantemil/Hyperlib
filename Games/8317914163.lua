@@ -1,2 +1,4 @@
 
-addscript(8317914163, "Current Game","OP GUI", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI124.lua", "https://scriptblox.com/script/Liberty-Island-Tycoon-CODE-OP-GUI-6429")
+addscript(8317914163, "Current Game","Give All Gamepasses Inf Coin Multiples  MORE GUI", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20All%20Gamepasses%20Inf%20Coin%20Multiples%20%20MORE%20GUI831.lua", "https://scriptblox.com/script/Liberty-Island-Tycoon-CODE-OP-GUI-6391")
+    addscriptexist(8317914163, "OP GUI", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI539.lua", "https://scriptblox.com/script/Liberty-Island-Tycoon-CODE-OP-GUI-6429")
+                                

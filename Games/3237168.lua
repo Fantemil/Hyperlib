@@ -1,0 +1,4 @@
+
+addscript(3237168, "Current Game","Piece Get Fruit Script", "Uploaded by Mango_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Piece%20Get%20Fruit%20Script532.lua", "https://scriptblox.com/script/One-Piece:-Legendary-Piece-Get-Fruit-Script-5639")
+    addscriptexist(3237168, "One Piece Legendary OP Script", "Uploaded by Khiiem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20Piece%20Legendary%20OP%20Script215.lua", "https://scriptblox.com/script/One-Piece:-Legendary-Ture-5130")
+                                

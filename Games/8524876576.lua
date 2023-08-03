@@ -1,0 +1,2 @@
+
+addscript(8524876576, "Current Game","Infinite Coins", "Uploaded by diepedyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins977.lua", "https://scriptblox.com/script/Glider-Simulator-WORLD-2-Infinite-Coins-3158")

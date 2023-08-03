@@ -1,2 +1,4 @@
 
-addscript(8605603204, "Current Game","script", "Uploaded by 1_qx3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script592.lua", "https://scriptblox.com/script/Mecha-SimulatorBeta-script-3518")
+addscript(8605603204, "Current Game","script", "Uploaded by 1_qx3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script596.lua", "https://scriptblox.com/script/Mecha-SimulatorBeta-script-3518")
+    addscriptexist(8605603204, "Simulator Script  INFINITE LEVELS COINS AND GEMS", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simulator%20Script%20%20INFINITE%20LEVELS%20COINS%20AND%20GEMS511.lua", "https://scriptblox.com/script/Mecha-SimulatorBeta-Simulator-Script-or-INFINITE-LEVELS-COINS-AND-GEMS-3483")
+                                

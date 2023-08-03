@@ -1,2 +1,2 @@
 
-addscript(1927139201, "Current Game","Loop opening and closing doors in", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loop%20opening%20and%20closing%20doors%20in622.lua", "https://scriptblox.com/script/Day-of-Dusk-The-Border-(Beta)-Loop-opening-and-closing-doors-in-4969")
+addscript(1927139201, "Current Game","Loop opening and closing doors in", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loop%20opening%20and%20closing%20doors%20in553.lua", "https://scriptblox.com/script/Day-of-Dusk-The-Border-(Beta)-Loop-opening-and-closing-doors-in-4969")

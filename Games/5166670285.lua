@@ -1,2 +1,2 @@
 
-addscript(5166670285, "Current Game","Collect all badg3s", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all%20badg3s272.lua", "https://scriptblox.com/script/12003-Badge-Walk-Free-Badges-Collect-all-s-5928")
+addscript(5166670285, "Current Game","Collect all badg3s", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all%20badg3s631.lua", "https://scriptblox.com/script/12003-Badge-Walk-Free-Badges-Collect-all-s-5928")

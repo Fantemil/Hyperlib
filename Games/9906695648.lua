@@ -1,0 +1,2 @@
+
+addscript(9906695648, "Current Game","Infinite Stats", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stats759.lua", "https://scriptblox.com/script/Survive-the-RISING-SLIME!-Infinite-Stats-4824")

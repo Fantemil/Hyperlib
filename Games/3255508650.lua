@@ -1,0 +1,2 @@
+
+addscript(3255508650, "Current Game","Kanto", "Uploaded by Adrian3LY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kanto251.lua", "https://scriptblox.com/script/NEW-maps-brawl-2-Kanto-4298")

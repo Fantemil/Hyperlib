@@ -1,0 +1,2 @@
+
+addscript(5801327531, "Current Game","Auto Win", "Uploaded by nacker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win579.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Auto-Win-4433")

@@ -1,2 +1,0 @@
-
-addscript(11727501024, "Current Game","Crt Mgnet", "Uploaded by Ytsmells123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crt%20Mgnet988.lua", "https://scriptblox.com/script/Create-a-Cart-Ride!-Crt-Mgnet-11960")

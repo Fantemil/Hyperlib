@@ -1,0 +1,2 @@
+
+addscript(14086581572, "Current Game","Moon Executor", "Uploaded by ZxroHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moon%20Executor293.lua", "https://scriptblox.com/script/Altitorture-2-Player-Obby-Moon-Executor-6557")

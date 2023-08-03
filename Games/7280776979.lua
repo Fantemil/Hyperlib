@@ -1,0 +1,2 @@
+
+addscript(7280776979, "Current Game","INF Coins", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Coins963.lua", "https://scriptblox.com/script/Hyundai-Mobility-Adventure-INF-Coins-4191")

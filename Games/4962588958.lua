@@ -1,2 +1,2 @@
 
-addscript(4962588958, "Current Game","AutoFarm V2", "Uploaded by tjjj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20V2193.lua", "https://scriptblox.com/script/Teamwork-Obby-2-Player-Obby-winFarm-5468")
+addscript(4962588958, "Current Game","AutoFarm V2", "Uploaded by tjjj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20V249.lua", "https://scriptblox.com/script/Teamwork-Obby-2-Player-Obby-winFarm-5468")

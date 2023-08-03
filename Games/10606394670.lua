@@ -1,2 +1,2 @@
 
-addscript(10606394670, "Current Game","Inf Money", "Uploaded by zebforsus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money783.lua", "https://scriptblox.com/script/1k-Event!Pet-Pharmica-Inf-Money-5258")
+addscript(10606394670, "Current Game","Inf Money", "Uploaded by zebforsus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money883.lua", "https://scriptblox.com/script/1k-Event!Pet-Pharmica-Inf-Money-5258")

@@ -1,0 +1,2 @@
+
+addscript(3475397644, "Current Game","solstice", "Uploaded by eixotic07 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/solstice249.lua", "https://scriptblox.com/script/SOLSTICE!-Dragon-Adventures-solstice-5228")

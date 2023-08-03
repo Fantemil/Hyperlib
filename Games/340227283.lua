@@ -1,0 +1,2 @@
+
+addscript(340227283, "Current Game","AIMBOT AND HITBOX EXTENDER SCRIPT", "Uploaded by Crispy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBOT%20AND%20HITBOX%20EXTENDER%20SCRIPT902.lua", "https://scriptblox.com/script/RoBowling-AIMBOT-AND-HITBOX-EXTENDER-SCRIPT-5401")

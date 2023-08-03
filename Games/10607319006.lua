@@ -1,0 +1,2 @@
+
+addscript(10607319006, "Current Game","Admin Panel goku", "Uploaded by Vige on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel%20goku589.lua", "https://scriptblox.com/script/Badman-Test-Admin-Panel-goku-5226")

@@ -1,2 +1,2 @@
 
-addscript(11308951249, "Current Game","you win ig", "Uploaded by sharmarkadan31 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/you%20win%20ig245.lua", "https://scriptblox.com/script/(200m)-obby-but-you're-a-bird-you-win-ig-6572")
+addscript(11308951249, "Current Game","you win ig", "Uploaded by sharmarkadan31 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/you%20win%20ig366.lua", "https://scriptblox.com/script/(200m)-obby-but-you're-a-bird-you-win-ig-6572")

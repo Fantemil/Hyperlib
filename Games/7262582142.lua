@@ -1,0 +1,2 @@
+
+addscript(7262582142, "Current Game","Get all tools Infinite ink auto refill", "Uploaded by JolcnScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20tools%20Infinite%20ink%20auto%20refill132.lua", "https://scriptblox.com/script/ART-MAZE-Paint-Simulator-Get-all-tools-Infinite-ink-auto-refill-4509")

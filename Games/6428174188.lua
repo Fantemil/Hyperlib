@@ -1,0 +1,2 @@
+
+addscript(6428174188, "Current Game","works all rpg game", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/works%20all%20rpg%20game544.lua", "https://scriptblox.com/script/(UPDATE)-LOST-RPG-get-all-weapons-5629")

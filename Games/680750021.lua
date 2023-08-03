@@ -1,0 +1,2 @@
+
+addscript(680750021, "Current Game","GUI", "Uploaded by tmenqaptl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI983.lua", "https://scriptblox.com/script/OUTFITS!-Case-Clicker-GUI-5931")

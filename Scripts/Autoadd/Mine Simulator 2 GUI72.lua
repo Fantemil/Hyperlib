@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/halloweevn/RobloxScripts/main/Mining%20Simulator%202/src'))()

@@ -1,0 +1,2 @@
+
+addscript(2166944189, "Current Game","Infinite Levels  Buy everything for 0", "Uploaded by WyvX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Levels%20%20Buy%20everything%20for%200185.lua", "https://scriptblox.com/script/Firefighters!-or-Infinite-Levels-%2B-Buy-everything-for-0dollar-3438")

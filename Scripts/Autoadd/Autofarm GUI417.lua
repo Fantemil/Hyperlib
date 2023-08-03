@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Kelvinouo/Hub/master/SCR%20Auto%20Drive'),true))()

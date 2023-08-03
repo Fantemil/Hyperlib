@@ -1,0 +1,2 @@
+
+addscript(6490016198, "Current Game","OP SLAYER Tycoon script", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SLAYER%20Tycoon%20script821.lua", "https://scriptblox.com/script/Slayer-Tycoon-(v1.3)-OP-SLAYER-Tycoon-script-4430")

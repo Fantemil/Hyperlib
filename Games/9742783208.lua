@@ -1,0 +1,2 @@
+
+addscript(9742783208, "Current Game","Raise A Yippee  1 SCRIPT", "Uploaded by dexx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Yippee%20%201%20SCRIPT815.lua", "https://scriptblox.com/script/Raise-a-Yippee-RELEASE-BEST-SCRIPT-5677")

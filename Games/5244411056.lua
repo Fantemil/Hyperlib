@@ -1,0 +1,2 @@
+
+addscript(5244411056, "Current Game","Auto Marker", "Uploaded by zoltcn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Marker990.lua", "https://scriptblox.com/script/Bloxy-Bingo-Auto-Marker-6393")

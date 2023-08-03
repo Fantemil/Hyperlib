@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/LizardScripts/LizardHub/main/LizardHub.lua'),true))()

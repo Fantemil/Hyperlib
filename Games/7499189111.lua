@@ -1,0 +1,2 @@
+
+addscript(7499189111, "Current Game","GuiScript", "Uploaded by Legendary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GuiScript826.lua", "https://scriptblox.com/script/BIG-UPDATE-Encounters-GuiScript-4251")

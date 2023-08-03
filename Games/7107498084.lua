@@ -1,0 +1,2 @@
+
+addscript(7107498084, "Current Game","Anime Battle Simulator Script  INFINITE YEN INFINITE GEMS KILL AURA  MORE", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battle%20Simulator%20Script%20%20INFINITE%20YEN%20INFINITE%20GEMS%20KILL%20AURA%20%20MORE986.lua", "https://scriptblox.com/script/RELEASE-Anime-Battle-Tycoon-Anime-Battle-Simulator-Script-or-INFINITE-YEN-INFINITE-GEMS-KILL-AURA-and-MORE!-3445")

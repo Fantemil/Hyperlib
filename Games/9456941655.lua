@@ -1,0 +1,2 @@
+
+addscript(9456941655, "Current Game","Kill All", "Uploaded by liam3566 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All601.lua", "https://scriptblox.com/script/PUBG-or-bbjy-alarb-Kill-All-3458")

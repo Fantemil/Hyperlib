@@ -1,2 +1,2 @@
 
-addscript(4601704679, "Current Game","10 Chapters Auto Farm", "Uploaded by Sina_GamerGG on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/10%20Chapters%20Auto%20Farm630.lua", "https://scriptblox.com/script/Bakon-EVENT-10-Chapters-Auto-Farm-5828")
+addscript(4601704679, "Current Game","10 Chapters Auto Farm", "Uploaded by Sina_GamerGG on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/10%20Chapters%20Auto%20Farm323.lua", "https://scriptblox.com/script/Bakon-EVENT-10-Chapters-Auto-Farm-5828")

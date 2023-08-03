@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ReeAndArceus/BAPN-Script/main/BAPN"))()

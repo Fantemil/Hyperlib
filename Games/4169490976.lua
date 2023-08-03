@@ -1,2 +1,2 @@
 
-addscript(4169490976, "Current Game","Mortem metallum get every weapon", "Uploaded by justanormaldude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20metallum%20get%20every%20weapon620.lua", "https://scriptblox.com/script/Mortem-Metallum-Alpha-Mortem-metallum-dupe-all-weapons-3967")
+addscript(4169490976, "Current Game","Mortem metallum get every weapon", "Uploaded by justanormaldude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mortem%20metallum%20get%20every%20weapon651.lua", "https://scriptblox.com/script/Mortem-Metallum-Alpha-Mortem-metallum-dupe-all-weapons-3967")

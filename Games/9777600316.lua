@@ -1,2 +1,4 @@
 
-addscript(9777600316, "Current Game","Semi patched", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Semi%20patched856.lua", "https://scriptblox.com/script/Yoru-Rework-My-Freak-Ghoul-2-Inf-stats-dash-fixed-6498")
+addscript(9777600316, "Current Game","prolly gonna get patched", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prolly%20gonna%20get%20patched650.lua", "https://scriptblox.com/script/Yoru-Rework-My-Freak-Ghoul-2-prolly-gonna-get-patched-6490")
+    addscriptexist(9777600316, "Semi patched", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Semi%20patched654.lua", "https://scriptblox.com/script/Yoru-Rework-My-Freak-Ghoul-2-Inf-stats-dash-fixed-6498")
+                                

@@ -1,4 +1,4 @@
 
-addscript(8704181738, "Current Game","ROBLOX Tien Tien Script Free Yoru", "Uploaded by xWNGx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX%20Tien%20Tien%20Script%20Free%20Yoru320.lua", "https://scriptblox.com/script/GEAR-5-THUNDER-SWORD-Tien-Tien-Piece-ROBLOX-Tien-Tien-Script-Free-Yoru-5453")
-    addscriptexist(8704181738, "Tien Gamepass Sword", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Gamepass%20Sword279.lua", "https://scriptblox.com/script/Dough-%2B-Chop-Fruit-Tien-Tien-Piece-Tien-Gamepass-Sword-5404")
+addscript(8704181738, "Current Game","Tien Gamepass Sword", "Uploaded by 3quinox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tien%20Gamepass%20Sword739.lua", "https://scriptblox.com/script/Dough-%2B-Chop-Fruit-Tien-Tien-Piece-Tien-Gamepass-Sword-5404")
+    addscriptexist(8704181738, "ROBLOX Tien Tien Script Free Yoru", "Uploaded by xWNGx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX%20Tien%20Tien%20Script%20Free%20Yoru17.lua", "https://scriptblox.com/script/GEAR-5-THUNDER-SWORD-Tien-Tien-Piece-ROBLOX-Tien-Tien-Script-Free-Yoru-5453")
                                 

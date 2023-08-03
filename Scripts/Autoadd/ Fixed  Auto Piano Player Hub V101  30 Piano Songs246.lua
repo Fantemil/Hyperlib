@@ -1,0 +1,3 @@
+-- Join on my Discord Server https://discord.gg/swcBwK7UNn
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HubbyScripts/Auto-Piano-Hub-V6/main/Auto%20Piano%20Hub%20V7"))()

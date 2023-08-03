@@ -1,0 +1,2 @@
+
+addscript(7253840385, "Current Game","OP MENU", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20MENU896.lua", "https://scriptblox.com/script/NEW-CODE!-Zombie-Survival-OP-MENU-4322")

@@ -1,0 +1,2 @@
+
+addscript(5130498426, "Current Game","AoTInsertplayground Script OP", "Uploaded by tuisiengh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AoTInsertplayground%20Script%20OP855.lua", "https://scriptblox.com/script/AoT:Insertplaygroundgamehere-AoT:Insertplayground-Script-(OP)-3201")

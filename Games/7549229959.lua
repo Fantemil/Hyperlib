@@ -1,2 +1,2 @@
 
-addscript(7549229959, "Current Game","OP Squid Gui", "Uploaded by afrakristof2008 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Squid%20Gui956.lua", "https://scriptblox.com/script/Squid-Game-OP-Squid-Gui-Fly-Patched-4359")
+addscript(7549229959, "Current Game","OP Squid Gui", "Uploaded by afrakristof2008 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Squid%20Gui113.lua", "https://scriptblox.com/script/Squid-Game-OP-Squid-Gui-Fly-Patched-4359")

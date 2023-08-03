@@ -1,2 +1,2 @@
 
-addscript(5365215822, "Current Game","No Anti Cheat", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Anti%20Cheat472.lua", "https://scriptblox.com/script/Sword-Fighting-Baseplate-No-Anti-Cheat-4489")
+addscript(5365215822, "Current Game","No Anti Cheat", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Anti%20Cheat885.lua", "https://scriptblox.com/script/Sword-Fighting-Baseplate-No-Anti-Cheat-4489")

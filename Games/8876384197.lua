@@ -1,0 +1,2 @@
+
+addscript(8876384197, "Current Game","Reach Script NOT MINE", "Uploaded by owns on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reach%20Script%20NOT%20MINE909.lua", "https://scriptblox.com/script/x10-steal-time-from-others-and-flex-your-sword-Reach-Script-5437")

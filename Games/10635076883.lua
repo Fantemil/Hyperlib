@@ -1,0 +1,2 @@
+
+addscript(10635076883, "Current Game","GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI846.lua", "https://scriptblox.com/script/Gummy-Bear-Tycoon-2x-GUI-6505")

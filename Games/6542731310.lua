@@ -1,0 +1,2 @@
+
+addscript(6542731310, "Current Game","unlock all level areas dg", "Uploaded by Danielgamer9799 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlock%20all%20level%20areas%20dg969.lua", "https://scriptblox.com/script/Update-16-Dogecoin-Mining-Tycoon-unlock-all-level-areas-dg-5310")

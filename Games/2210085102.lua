@@ -1,2 +1,2 @@
 
-addscript(2210085102, "Current Game","war", "Uploaded by itselvinxd3950 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/war553.lua", "https://scriptblox.com/script/Naval-Warfare-war-6498")
+addscript(2210085102, "Current Game","war", "Uploaded by itselvinxd3950 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/war388.lua", "https://scriptblox.com/script/Naval-Warfare-war-6498")

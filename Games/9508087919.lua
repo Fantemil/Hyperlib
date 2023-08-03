@@ -1,2 +1,4 @@
 
-addscript(9508087919, "Current Game","FREE GAMEPASSES", "Uploaded by Haxolotl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GAMEPASSES227.lua", "https://scriptblox.com/script/Apeirophobia-The-End-UPDATE-FREE-GAMEPASSES-3719")
+addscript(9508087919, "Current Game","FREE GAMEPASSES", "Uploaded by Haxolotl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GAMEPASSES760.lua", "https://scriptblox.com/script/Apeirophobia-The-End-UPDATE-FREE-GAMEPASSES-3719")
+    addscriptexist(9508087919, "Apeirophobia Gui Patched", "Uploaded by Leemovski on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apeirophobia%20Gui%20Patched85.lua", "https://scriptblox.com/script/Apeirophobia-The-End-UPDATE-Apeirophobia-Gui-*WORKING*-3859")
+                                

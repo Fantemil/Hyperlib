@@ -1,2 +1,2 @@
 
-addscript(7169897329, "Current Game","INF Screams ANY Character", "Uploaded by I92140I9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Screams%20ANY%20Character979.lua", "https://scriptblox.com/script/Nanny-HORROR-INF-Screams-ANY-Character-5915")
+addscript(7169897329, "Current Game","INF Screams ANY Character", "Uploaded by I92140I9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Screams%20ANY%20Character568.lua", "https://scriptblox.com/script/Nanny-HORROR-INF-Screams-ANY-Character-5915")

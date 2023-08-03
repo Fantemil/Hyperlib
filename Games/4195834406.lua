@@ -1,0 +1,2 @@
+
+addscript(4195834406, "Current Game","Dragon ball farm", "Uploaded by Marski on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20ball%20farm851.lua", "https://scriptblox.com/script/RANKED-SEASONS-Dragon-Ball-Online-Generations-Dragon-ball-farm-6481")

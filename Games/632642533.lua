@@ -1,0 +1,2 @@
+
+addscript(632642533, "Current Game","DeadMist 2 Beta Script", "Uploaded by YummyNoice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadMist%202%20Beta%20Script216.lua", "https://scriptblox.com/script/ARENA-MODE-DeadMist-2-Beta-Script-3489")

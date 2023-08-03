@@ -1,0 +1,2 @@
+
+addscript(5313094691, "Current Game","Infinite Money", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money421.lua", "https://scriptblox.com/script/Candy-Speed-Simulator-PETS!-Infinite-Money-5563")

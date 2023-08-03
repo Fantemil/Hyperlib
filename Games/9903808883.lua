@@ -1,0 +1,2 @@
+
+addscript(9903808883, "Current Game","Fst NPCS", "Uploaded by LEO004 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fst%20NPCS980.lua", "https://scriptblox.com/script/CO-OP-Build-a-Market-Tycoon-Fst-NPCS-4497")

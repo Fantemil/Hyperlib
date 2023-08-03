@@ -1,0 +1,2 @@
+
+addscript(1204176775, "Current Game","gun simulator script", "Uploaded by pichie09cool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gun%20simulator%20script701.lua", "https://scriptblox.com/script/Gun-Simulator-roblox-script-3292")

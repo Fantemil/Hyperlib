@@ -1,0 +1,2 @@
+
+addscript(7664413141, "Current Game","autofarm gun powder for humans team", "Uploaded by orbit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20gun%20powder%20for%20humans%20team425.lua", "https://scriptblox.com/script/Creeper-Chaos-Beta-autofarm-gun-powder-for-humans-team-3539")

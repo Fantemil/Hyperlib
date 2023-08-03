@@ -1,0 +1,2 @@
+
+addscript(9123070854, "Current Game","Thingz Script", "Uploaded by ScriptCreator124514 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thingz%20Script833.lua", "https://scriptblox.com/script/Site-19-Thingz:-Advanced-Thingz-Script-3167")

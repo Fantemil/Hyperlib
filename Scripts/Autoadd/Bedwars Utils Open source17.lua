@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/blinx-co/roblox/main/BedWarsAutoQueueOpenSource.lua', true))()

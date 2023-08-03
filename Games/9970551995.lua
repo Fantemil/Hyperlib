@@ -1,2 +1,4 @@
 
-addscript(9970551995, "Current Game","Infinite Money", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money779.lua", "https://scriptblox.com/script/GOLEMS!-Touch-The-Grass-Simulator!-Infinite-Money-5069")
+addscript(9970551995, "Current Game","Infinite Money", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money417.lua", "https://scriptblox.com/script/GOLEMS!-Touch-The-Grass-Simulator!-Infinite-Money-5069")
+    addscriptexist(9970551995, "some auto stuff yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/some%20auto%20stuff%20yes2.lua", "https://scriptblox.com/script/GOLEMS!-Touch-The-Grass-Simulator!-some-auto-stuff-yes-5104")
+                                

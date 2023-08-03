@@ -1,0 +1,2 @@
+
+addscript(7426523309, "Current Game","Redeem all codes", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redeem%20all%20codes496.lua", "https://scriptblox.com/script/Clean-Up-Roblox!-Redeem-all-codes-4477")

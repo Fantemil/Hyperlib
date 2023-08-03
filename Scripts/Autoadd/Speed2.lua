@@ -1,0 +1,1 @@
+game.Workspace.ur username.Humanoid.WalkSpeed = 9999999999999

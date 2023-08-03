@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/Sir-Kirito/MyScripts/blob/main/AnimeAdventuresAutoErwin.lua'))()

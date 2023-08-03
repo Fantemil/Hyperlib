@@ -1,0 +1,2 @@
+
+addscript(9807416796, "Current Game","De Hood GUI", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/De%20Hood%20GUI579.lua", "https://scriptblox.com/script/AVATAR-EDITOR!-De-Hood-GUI-5606")

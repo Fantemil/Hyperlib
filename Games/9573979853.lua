@@ -1,2 +1,2 @@
 
-addscript(9573979853, "Current Game","SCRIPT", "Uploaded by mylegianonzaga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT391.lua", "https://scriptblox.com/script/UPD-1.4-Revengers-Dispute-ALPHA-SCRIPT-4766")
+addscript(9573979853, "Current Game","SCRIPT", "Uploaded by mylegianonzaga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT403.lua", "https://scriptblox.com/script/UPD-1.4-Revengers-Dispute-ALPHA-SCRIPT-4766")

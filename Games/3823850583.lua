@@ -1,0 +1,2 @@
+
+addscript(3823850583, "Current Game","REALEASE AUTOFARM CRASH GAME", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALEASE%20AUTOFARM%20CRASH%20GAME941.lua", "https://scriptblox.com/script/Street-Simulator-coming-soon-6082")

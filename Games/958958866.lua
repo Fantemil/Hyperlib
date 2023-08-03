@@ -1,0 +1,2 @@
+
+addscript(958958866, "Current Game","Project Synergy", "Uploaded by Kasma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Synergy816.lua", "https://scriptblox.com/script/Dead-By-Roblox-Project-Synergy-4942")

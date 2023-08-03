@@ -1,2 +1,2 @@
 
-addscript(5970745461, "Current Game","kill aura", "Uploaded by 2k949 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20aura327.lua", "https://scriptblox.com/script/Minerblocks-kill-aura-3722")
+addscript(5970745461, "Current Game","kill aura", "Uploaded by 2k949 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20aura202.lua", "https://scriptblox.com/script/Minerblocks-kill-aura-3722")

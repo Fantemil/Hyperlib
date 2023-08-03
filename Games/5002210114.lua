@@ -1,0 +1,2 @@
+
+addscript(5002210114, "Current Game","Tp to items", "Uploaded by Alleexxii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tp%20to%20items893.lua", "https://scriptblox.com/script/Kitty-Tp-to-items-4791")

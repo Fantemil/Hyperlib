@@ -1,0 +1,4 @@
+
+addscript(9717733062, "Current Game","Threat your roommate for cash", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Threat%20your%20roommate%20for%20cash736.lua", "https://scriptblox.com/script/Raise-a-Kreek-Thret-your-roommte-for-csh-3209")
+    addscriptexist(9717733062, "Get Inf Money READ DESC", "Uploaded by Gumball on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Inf%20Money%20READ%20DESC847.lua", "https://scriptblox.com/script/Raise-a-Kreek-get-100b-money-3230")
+                                

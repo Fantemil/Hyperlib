@@ -1,0 +1,2 @@
+
+addscript(9282309028, "Current Game","INF MONEY RANKS", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY%20RANKS463.lua", "https://scriptblox.com/script/Rocket-Rush-Simulator-INF-MONEY-RANKS-3405")

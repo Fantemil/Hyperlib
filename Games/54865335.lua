@@ -1,2 +1,4 @@
 
-addscript(54865335, "Current Game","Ultimate Driving insta truck unload script", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Driving%20insta%20truck%20unload%20script932.lua", "https://scriptblox.com/script/Ultimate-Driving:-Westover-Islands-Ultimate-Driving-insta-truck-unload-script-3287")
+addscript(54865335, "Current Game","Ultimate Driving insta truck unload script", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Driving%20insta%20truck%20unload%20script833.lua", "https://scriptblox.com/script/Ultimate-Driving:-Westover-Islands-Ultimate-Driving-insta-truck-unload-script-3287")
+    addscriptexist(54865335, "Ultimate Driving Insta Load truck script", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Driving%20Insta%20Load%20truck%20script623.lua", "https://scriptblox.com/script/Ultimate-Driving:-Westover-Islands-Ultimate-Driving-Insta-Load-truck-script-3288")
+                                

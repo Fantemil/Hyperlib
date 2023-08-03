@@ -1,0 +1,2 @@
+
+addscript(9112775301, "Current Game","Auto Steal Cash Kinda Useless", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Steal%20Cash%20Kinda%20Useless599.lua", "https://scriptblox.com/script/Free-Macro-Da-Hood-Fights-Auto-Steal-Cash-Kin-Useless-5760")

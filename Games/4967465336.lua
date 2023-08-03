@@ -1,0 +1,2 @@
+
+addscript(4967465336, "Current Game","Script", "Uploaded by Dababybaby269 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script116.lua", "https://scriptblox.com/script/Ray's-Mod-Script-5130")

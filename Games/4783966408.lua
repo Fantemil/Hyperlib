@@ -1,0 +1,2 @@
+
+addscript(4783966408, "Current Game","OP Auto Farm Coins  Auto Hard Obby ", "Uploaded by squidard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm%20Coins%20%20Auto%20Hard%20Obby%20391.lua", "https://scriptblox.com/script/Plates-of-Fate:-Remastered-OP-Auto-Farm-Coins-(-Auto-Hard-Obby-)-3497")

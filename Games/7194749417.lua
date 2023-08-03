@@ -1,0 +1,2 @@
+
+addscript(7194749417, "Current Game","Kill All", "Uploaded by aeth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All452.lua", "https://scriptblox.com/script/Strawberry-Jam-(OPTIONAL-BLOOD)-Kill-All-3584")

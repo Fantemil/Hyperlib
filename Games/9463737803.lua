@@ -1,0 +1,2 @@
+
+addscript(9463737803, "Current Game","WimbleWorld Script", "Uploaded by YOU_CEF on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WimbleWorld%20Script25.lua", "https://scriptblox.com/script/WimbleWorld-Script-3555")

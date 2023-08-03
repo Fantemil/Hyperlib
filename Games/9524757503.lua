@@ -1,2 +1,6 @@
 
-addscript(9524757503, "Current Game","Get free item right now", "Uploaded by demokritoss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20free%20item%20right%20now119.lua", "https://scriptblox.com/script/iHeartLand:-Music-Tycoon-FEAT.-LAUV-Get-free-item-right-now-5838")
+addscript(9524757503, "Current Game","iHeartRadio Headphone Auto Finish FREE AVATAR ITEM", "Uploaded by crimewave on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHeartRadio%20Headphone%20Auto%20Finish%20FREE%20AVATAR%20ITEM908.lua", "https://scriptblox.com/script/iHeartLand:-Music-Tycoon-FEAT.-LAUV-iHeartRadio-Headphone-Auto-Finish-FREE-AVATAR-ITEM-5839")
+    addscriptexist(9524757503, "FREE ITEMS", "Uploaded by Finny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20ITEMS760.lua", "https://scriptblox.com/script/iHeartLand:-Music-Tycoon-FREE-ITEMS-6054")
+                                
+    addscriptexist(9524757503, "Get free item right now", "Uploaded by demokritoss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20free%20item%20right%20now854.lua", "https://scriptblox.com/script/iHeartLand:-Music-Tycoon-FEAT.-LAUV-Get-free-item-right-now-5838")
+                                

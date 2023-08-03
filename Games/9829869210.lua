@@ -1,0 +1,2 @@
+
+addscript(9829869210, "Current Game","Infinite Money by Kono Subarashii", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money%20by%20Kono%20Subarashii501.lua", "https://scriptblox.com/script/Karate-Kick-Simulator-Infinite-Money-by-Kono-Subarashii-4919")

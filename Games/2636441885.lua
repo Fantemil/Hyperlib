@@ -1,0 +1,2 @@
+
+addscript(2636441885, "Current Game","Gui script", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20script203.lua", "https://scriptblox.com/script/Speed-City-Gui-script-4078")

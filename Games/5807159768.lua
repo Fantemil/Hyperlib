@@ -1,0 +1,2 @@
+
+addscript(5807159768, "Current Game","OVERPOWERED Kanto", "Uploaded by donk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OVERPOWERED%20Kanto641.lua", "https://scriptblox.com/script/Hard-Time-BETA-Kanto-3727")

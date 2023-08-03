@@ -1,2 +1,0 @@
-
-addscript(8617208257, "Current Game","Dupe", "Uploaded by ApiAccount on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe308.lua", "https://scriptblox.com/script/UPDATE-SOON-Banning-Simulator-X-Dupe-11863")

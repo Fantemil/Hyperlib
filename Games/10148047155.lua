@@ -1,2 +1,2 @@
 
-addscript(10148047155, "Current Game","Autofarm money Autobuy", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20money%20Autobuy803.lua", "https://scriptblox.com/script/Car-Mechanic-Tycoon-Autofarm-money-Autobuy-5753")
+addscript(10148047155, "Current Game","Autofarm money Autobuy", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20money%20Autobuy559.lua", "https://scriptblox.com/script/Car-Mechanic-Tycoon-Autofarm-money-Autobuy-5753")

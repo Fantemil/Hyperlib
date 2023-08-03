@@ -1,0 +1,2 @@
+
+addscript(6439292574, "Current Game","Levelling", "Uploaded by Gobble on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Levelling570.lua", "https://scriptblox.com/script/REAWAKENING-SOLO-BLOX-LEVELING-Levelling-3189")

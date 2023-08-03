@@ -1,2 +1,2 @@
 
-addscript(6865268099, "Current Game","reposted", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reposted176.lua", "https://scriptblox.com/script/NEW-Next-Door-(Story)-s-6561")
+addscript(6865268099, "Current Game","reposted", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reposted377.lua", "https://scriptblox.com/script/NEW-Next-Door-(Story)-s-6561")

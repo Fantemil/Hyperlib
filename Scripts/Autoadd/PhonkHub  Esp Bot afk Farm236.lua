@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Kargomil/PhonkScriptV.1/0e6aa8c8cd6886ae45d26eeeaa99e6c6b4d60cb9/EvadeScript"))()

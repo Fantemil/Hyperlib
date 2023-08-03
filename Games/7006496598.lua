@@ -1,0 +1,2 @@
+
+addscript(7006496598, "Current Game","really epic script", "Uploaded by MasterOogway on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/really%20epic%20script327.lua", "https://scriptblox.com/script/Bleeding-Blades-ALPHA-really-epic-script-6485")

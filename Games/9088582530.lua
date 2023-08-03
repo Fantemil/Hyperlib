@@ -1,2 +1,2 @@
 
-addscript(9088582530, "Current Game","inf money", "Uploaded by yuuix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money303.lua", "https://scriptblox.com/script/raise-a-doggo-THE-OUTSIDE-UPDATE-inf-money-3708")
+addscript(9088582530, "Current Game","inf money", "Uploaded by yuuix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money192.lua", "https://scriptblox.com/script/raise-a-doggo-THE-OUTSIDE-UPDATE-inf-money-3708")

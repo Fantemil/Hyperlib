@@ -1,0 +1,2 @@
+
+addscript(5534174456, "Current Game","Auto", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto209.lua", "https://scriptblox.com/script/Tropical-Resort-Tycoon-Auto-4431")

@@ -1,2 +1,2 @@
 
-addscript(8369888266, "Current Game","Gui", "Uploaded by Doku on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui486.lua", "https://scriptblox.com/script/BABY!-Redcliff-City-RP-Gui-6261")
+addscript(8369888266, "Current Game","Gui", "Uploaded by Doku on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui554.lua", "https://scriptblox.com/script/BABY!-Redcliff-City-RP-Gui-6261")

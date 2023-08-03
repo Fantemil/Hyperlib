@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer:Kick("[DWC] discord.gg/trolimon")

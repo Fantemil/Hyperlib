@@ -1,0 +1,4 @@
+
+addscript(9291030453, "Current Game","Get all letters", "Uploaded by pepes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20letters343.lua", "https://scriptblox.com/script/The-Chainsmokers-Concert-Experience-Get-all-letters-in-5513")
+    addscriptexist(9291030453, "AUTO EVENT super op", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20EVENT%20super%20op395.lua", "https://scriptblox.com/script/The-Chainsmokers-Concert-Experience-AUTO-EVENT-5577")
+                                

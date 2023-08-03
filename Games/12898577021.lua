@@ -1,2 +1,0 @@
-
-addscript(12898577021, "Current Game","UCT XTREME Gui", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UCT%20XTREME%20Gui595.lua", "https://scriptblox.com/script/(MAJOR-UPDATE)-UnderTale:-Cringe-Timeline-UCT-XTREME-Gui-11927")

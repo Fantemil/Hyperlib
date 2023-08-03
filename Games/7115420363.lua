@@ -1,0 +1,2 @@
+
+addscript(7115420363, "Current Game","Working VR Script FE UNIVERSAL SCRIPT", "Uploaded by BlitzoRodeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Working%20VR%20Script%20FE%20UNIVERSAL%20SCRIPT757.lua", "https://scriptblox.com/script/The-Booth-Plaza-Working-VR-Script-(FE)-UNIVERSAL-SCRIPT-3877")

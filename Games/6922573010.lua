@@ -1,2 +1,2 @@
 
-addscript(6922573010, "Current Game","Simple script", "Uploaded by goofygoober24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20script324.lua", "https://scriptblox.com/script/Soccer-Legends-BETA-Simple-script-5998")
+addscript(6922573010, "Current Game","Simple script", "Uploaded by goofygoober24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20script692.lua", "https://scriptblox.com/script/Soccer-Legends-BETA-Simple-script-5998")

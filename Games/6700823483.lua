@@ -1,2 +1,4 @@
 
-addscript(6700823483, "Current Game"," Everyone", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Everyone908.lua", "https://scriptblox.com/script/(UPDATE!)-Idiotic-Investing-*****-Everyone-6427")
+addscript(6700823483, "Current Game"," Everyone", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Everyone140.lua", "https://scriptblox.com/script/(UPDATE!)-Idiotic-Investing-*****-Everyone-6427")
+    addscriptexist(6700823483, "Show prices of drawings", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Show%20prices%20of%20drawings583.lua", "https://scriptblox.com/script/(UPDATE!)-Idiotic-Investing-Show-prices-of-drawings-4998")
+                                

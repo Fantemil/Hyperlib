@@ -1,2 +1,2 @@
 
-addscript(10037235473, "Current Game","AUTO FARM SCRIPT", "Uploaded by YNWMELLY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20SCRIPT445.lua", "https://scriptblox.com/script/UPD-New-York:-The-Hood-AUTO-FARM-SCRIPT-6136")
+addscript(10037235473, "Current Game","AUTO FARM SCRIPT", "Uploaded by YNWMELLY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20SCRIPT739.lua", "https://scriptblox.com/script/UPD-New-York:-The-Hood-AUTO-FARM-SCRIPT-6136")

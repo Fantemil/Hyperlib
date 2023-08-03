@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/itzRolf/Utilities/main/Rebirth%20Simulator%20X/main.lua")()

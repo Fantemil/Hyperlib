@@ -1,2 +1,2 @@
 
-addscript(2627036812, "Current Game","good farm script easy coins and kills haha", "Uploaded by MasterOogway on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20farm%20script%20easy%20coins%20and%20kills%20haha237.lua", "https://scriptblox.com/script/NEW-MAP-Zulu-Wars-good-farm-script-easy-coins-and-kills-haha-6486")
+addscript(2627036812, "Current Game","good farm script easy coins and kills haha", "Uploaded by MasterOogway on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20farm%20script%20easy%20coins%20and%20kills%20haha782.lua", "https://scriptblox.com/script/NEW-MAP-Zulu-Wars-good-farm-script-easy-coins-and-kills-haha-6486")

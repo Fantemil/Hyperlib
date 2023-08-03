@@ -1,0 +1,2 @@
+
+addscript(10321372166, "Current Game","BlackTrap jmes", "Uploaded by jmes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackTrap%20jmes464.lua", "https://scriptblox.com/script/PSX-Hardcore-BlackTrap-jmes-5575")

@@ -1,2 +1,2 @@
 
-addscript(1069607513, "Current Game","Innovation Hub V1", "Uploaded by Innovation on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Innovation%20Hub%20V1333.lua", "https://scriptblox.com/script/Action!-Innovation-Hub-V1-6561")
+addscript(1069607513, "Current Game","Innovation Hub V1", "Uploaded by Innovation on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Innovation%20Hub%20V1246.lua", "https://scriptblox.com/script/Action!-Innovation-Hub-V1-6561")

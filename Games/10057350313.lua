@@ -1,0 +1,2 @@
+
+addscript(10057350313, "Current Game","Script", "Uploaded by phyouthcenter1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script925.lua", "https://scriptblox.com/script/UPGRADES-Ore-Smelting-Tycoon-Script-4672")

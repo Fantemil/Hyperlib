@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Cokaaola/Coke-Hub/main/coke-hub.lua?token=GHSAT0AAAAAABVL3K2DCHPT3A5CWYPK2SQQYVAIOUA'))()

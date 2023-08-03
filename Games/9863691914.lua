@@ -1,0 +1,2 @@
+
+addscript(9863691914, "Current Game","script by Serpex on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20by%20Serpex%20on%20v3rmillion743.lua", "https://scriptblox.com/script/NEW-Backrooms-Morphs-script-by-Serpex-on-v3rmillion-5356")

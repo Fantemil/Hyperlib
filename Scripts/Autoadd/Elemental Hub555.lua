@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/LRHUBEDIT/ElementalHubScripts/main/ElementalHubV1.txt",true))()

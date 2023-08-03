@@ -1,0 +1,2 @@
+
+addscript(7783741, "Current Game","INF Rebirths get on leaderboard easily", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Rebirths%20get%20on%20leaderboard%20easily607.lua", "https://scriptblox.com/script/(BACKROOMS)-Scary-Elevator!-*NEW-KILLERS*-INF-Rebirths-4387")

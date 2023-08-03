@@ -1,2 +1,2 @@
 
-addscript(7167319176, "Current Game","Chicago Remastered", "Uploaded by scripter4863 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered423.lua", "https://scriptblox.com/script/GET-READYChicago-Remastered-Chicago-Remastered-5698")
+addscript(7167319176, "Current Game","Chicago Remastered", "Uploaded by scripter4863 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chicago%20Remastered838.lua", "https://scriptblox.com/script/GET-READYChicago-Remastered-Chicago-Remastered-5698")

@@ -1,2 +1,0 @@
-
-addscript(12860097191, "Current Game","Auto Complete", "Uploaded by Lagun on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete904.lua", "https://scriptblox.com/script/Escape-Prison-Obby!-NEW!-Auto-Complete-11333")

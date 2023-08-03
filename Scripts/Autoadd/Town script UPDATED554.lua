@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RieScript/Scripts/main/TownUPDATE.lua"))()

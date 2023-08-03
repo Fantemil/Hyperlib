@@ -1,2 +1,2 @@
 
-addscript(180364455, "Current Game","Survive Anticheat bypass", "Uploaded by King_JAH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20Anticheat%20bypass449.lua", "https://scriptblox.com/script/Survive-The-Disasters-2-Survive-Anticheat-bypass-5900")
+addscript(180364455, "Current Game","Survive Anticheat bypass", "Uploaded by King_JAH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20Anticheat%20bypass131.lua", "https://scriptblox.com/script/Survive-The-Disasters-2-Survive-Anticheat-bypass-5900")

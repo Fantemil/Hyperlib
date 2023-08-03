@@ -1,2 +1,2 @@
 
-addscript(8929050629, "Current Game","Money Weapons Foods OP", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Weapons%20Foods%20OP269.lua", "https://scriptblox.com/script/Mo's-Academy-(Beta)-Money-Weapons-Foods-OP-6350")
+addscript(8929050629, "Current Game","Money Weapons Foods OP", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Weapons%20Foods%20OP562.lua", "https://scriptblox.com/script/Mo's-Academy-(Beta)-Money-Weapons-Foods-OP-6350")

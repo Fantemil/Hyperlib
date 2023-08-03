@@ -1,4 +1,4 @@
 
-addscript(9157870347, "Current Game","whybiee Autofarm GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/whybiee%20Autofarm%20GUI512.lua", "https://scriptblox.com/script/NEW!-Pet-Adventures-Simulator!-whybiee-Autofarm-GUI-5069")
-    addscriptexist(9157870347, "use before patch", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/use%20before%20patch566.lua", "https://scriptblox.com/script/NEW!-Pet-Adventures-Simulator!-use-before-patch-4734")
+addscript(9157870347, "Current Game","use before patch", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/use%20before%20patch332.lua", "https://scriptblox.com/script/NEW!-Pet-Adventures-Simulator!-use-before-patch-4734")
+    addscriptexist(9157870347, "whybiee Autofarm GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/whybiee%20Autofarm%20GUI866.lua", "https://scriptblox.com/script/NEW!-Pet-Adventures-Simulator!-whybiee-Autofarm-GUI-5069")
                                 

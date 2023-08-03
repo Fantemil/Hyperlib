@@ -1,0 +1,2 @@
+
+addscript(7602959145, "Current Game","erererere", "Uploaded by alotalot9733 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/erererere921.lua", "https://scriptblox.com/script/the-rotting-grave-erererere-4484")

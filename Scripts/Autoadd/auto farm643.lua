@@ -1,0 +1,2 @@
+--Go to website : https://bit.ly/3Sywi4b
+--Get Script : https://pastebin.com/raw/jKk3Hvjj

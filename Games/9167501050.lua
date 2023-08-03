@@ -1,0 +1,2 @@
+
+addscript(9167501050, "Current Game","script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script583.lua", "https://scriptblox.com/script/Lightsaber-Arena-script-3715")

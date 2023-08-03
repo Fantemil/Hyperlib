@@ -1,2 +1,2 @@
 
-addscript(4522347649, "Current Game","Lag Game", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Game464.lua", "https://scriptblox.com/script/FREE-ADMIN-Free-Admin-Lag-Game-5898")
+addscript(4522347649, "Current Game","Lag Game", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Game400.lua", "https://scriptblox.com/script/FREE-ADMIN-Free-Admin-Lag-Game-5898")

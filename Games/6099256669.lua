@@ -1,0 +1,2 @@
+
+addscript(6099256669, "Current Game","items utofrmWorking", "Uploaded by halloweengaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/items%20utofrmWorking215.lua", "https://scriptblox.com/script/Big-Update-%2B-7-X-Event-A-Menacing-Timeline-items-utofrmWorking-3263")

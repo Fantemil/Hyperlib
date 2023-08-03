@@ -1,0 +1,2 @@
+
+addscript(8563844698, "Current Game","Break Leaderboard", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20Leaderboard664.lua", "https://scriptblox.com/script/Drop-The-Number!-BIG-SALE!-Get-top-leaderboard-4993")

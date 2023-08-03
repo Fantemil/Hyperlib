@@ -1,2 +1,2 @@
 
-addscript(8891045283, "Current Game","Find all Bacons", "Uploaded by crimewave on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20all%20Bacons415.lua", "https://scriptblox.com/script/110-Find-The-Bacons-Find-all-Bacons-5680")
+addscript(8891045283, "Current Game","Find all Bacons", "Uploaded by crimewave on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20all%20Bacons694.lua", "https://scriptblox.com/script/110-Find-The-Bacons-Find-all-Bacons-5680")

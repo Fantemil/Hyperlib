@@ -1,0 +1,4 @@
+
+addscript(9941633436, "Current Game"," simulator script ig", "Uploaded by kash on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20simulator%20script%20ig133.lua", "https://scriptblox.com/script/2x-Rank-Simulator-******-simulator-script-ig-6505")
+    addscriptexist(9941633436, "inf gems and autoclick stars", "Uploaded by domianjacksonthe3rd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20gems%20and%20autoclick%20stars515.lua", "https://scriptblox.com/script/2x-Rank-Simulator-inf-gems-and-autoclick-stars-6503")
+                                

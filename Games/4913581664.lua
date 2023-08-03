@@ -1,2 +1,0 @@
-
-addscript(4913581664, "Current Game","Rdite Script", "Uploaded by nuffty12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rdite%20Script149.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Rdite-Script-11015")

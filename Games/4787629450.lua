@@ -1,0 +1,2 @@
+
+addscript(4787629450, "Current Game","Warrior Hub NOT MINE", "Uploaded by ilyyAlex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Warrior%20Hub%20NOT%20MINE894.lua", "https://scriptblox.com/script/BOOGA-BOOGA-Classic-Warrior-Hub-4293")

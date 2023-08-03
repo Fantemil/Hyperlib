@@ -1,0 +1,2 @@
+
+addscript(2772610559, "Current Game","Script", "Uploaded by vdms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script462.lua", "https://scriptblox.com/script/Farming-and-Friends-Script-5088")

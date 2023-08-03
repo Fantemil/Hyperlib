@@ -1,0 +1,2 @@
+
+addscript(6249640453, "Current Game","Infinite money", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money40.lua", "https://scriptblox.com/script/Classic-Retro-Craftwars-Infinite-money-4319")

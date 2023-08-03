@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXploiterYT/scripts/main/limited%20jumps",true))()

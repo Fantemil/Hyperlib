@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rubicmaster/my_scripts/main/Dragon_ball_rage"))()

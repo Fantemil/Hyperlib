@@ -1,0 +1,2 @@
+
+addscript(7177449900, "Current Game","kill all", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20all601.lua", "https://scriptblox.com/script/(Remake)-Murderers-VS-Sheriffs-kill-all!-3321")

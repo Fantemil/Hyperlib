@@ -1,2 +1,2 @@
 
-addscript(7444263453, "Current Game","Infinite Cash", "Uploaded by Xangalix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash44.lua", "https://scriptblox.com/script/UPDATE-5-Jetpack-Jumpers-Infinite-Cash-6551")
+addscript(7444263453, "Current Game","Infinite Cash", "Uploaded by Xangalix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash293.lua", "https://scriptblox.com/script/UPDATE-5-Jetpack-Jumpers-Infinite-Cash-6551")

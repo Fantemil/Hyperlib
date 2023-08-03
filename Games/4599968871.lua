@@ -1,0 +1,2 @@
+
+addscript(4599968871, "Current Game"," simple autarm", "Uploaded by WickyPicky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20simple%20autarm32.lua", "https://scriptblox.com/script/ISLAND-Tower-of-Hell-Easy-simple-autarm-3842")

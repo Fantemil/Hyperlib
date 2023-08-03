@@ -1,0 +1,2 @@
+
+addscript(1052294222, "Current Game","Soler Skip Quiz Scriptauto Rank", "Uploaded by troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Soler%20Skip%20Quiz%20Scriptauto%20Rank935.lua", "https://scriptblox.com/script/247-Get-a-Job-at-Solera-Hotels-and-Resorts!-Soler-Skip-Quiz-Scriptuto-Rnk-3894")

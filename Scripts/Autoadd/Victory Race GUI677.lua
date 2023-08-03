@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nehsxy/Roblox-Scripts/main/Victory%20race.lua"))()

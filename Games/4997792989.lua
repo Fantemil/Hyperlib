@@ -1,0 +1,2 @@
+
+addscript(4997792989, "Current Game","INF Money", "Uploaded by I92140I9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Money319.lua", "https://scriptblox.com/script/Homeless-Simulator-In-Russia-INF-Money-5899")

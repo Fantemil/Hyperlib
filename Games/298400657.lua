@@ -1,0 +1,2 @@
+
+addscript(298400657, "Current Game","GUI Legacy", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20Legacy127.lua", "https://scriptblox.com/script/UPDATE!-Dragon-Ball-Final-Remastered-GUI-Legacy-5657")

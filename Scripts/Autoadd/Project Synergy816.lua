@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/I2345/Project-Synergy/main/main.lua'),true))()

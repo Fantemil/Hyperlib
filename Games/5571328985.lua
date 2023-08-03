@@ -1,0 +1,2 @@
+
+addscript(5571328985, "Current Game","Roblox Script", "Uploaded by machoman21 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Script939.lua", "https://scriptblox.com/script/Bloodlines-Roblox-Script-4409")

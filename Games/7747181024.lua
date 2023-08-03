@@ -1,0 +1,2 @@
+
+addscript(7747181024, "Current Game","Annoy Players", "Uploaded by CoconutMother9000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Annoy%20Players179.lua", "https://scriptblox.com/script/Slapping-Calamity-Annoy-Players-4450")

@@ -1,2 +1,4 @@
 
-addscript(2185497593, "Current Game","Auto Pickup Coins", "Uploaded by dexx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pickup%20Coins74.lua", "https://scriptblox.com/script/Arcade-Island-X:-Working-Arcade-Auto-Pickup-Coins-5838")
+addscript(2185497593, "Current Game","Auto Pickup Coins", "Uploaded by dexx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pickup%20Coins118.lua", "https://scriptblox.com/script/Arcade-Island-X:-Working-Arcade-Auto-Pickup-Coins-5838")
+    addscriptexist(2185497593, "Autofarm money and XP", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20money%20and%20XP536.lua", "https://scriptblox.com/script/Arcade-Island-X:-Working-Arcade-Autofarm-money-and-XP-5770")
+                                

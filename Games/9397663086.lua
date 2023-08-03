@@ -1,0 +1,6 @@
+
+addscript(9397663086, "Current Game","Ultra Hub CRACKED Ninja Trailing Sim SKIDDED HUB", "Uploaded by TrixAde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Hub%20CRACKED%20Ninja%20Trailing%20Sim%20SKIDDED%20HUB48.lua", "https://scriptblox.com/script/UPD-2!-Ninja-Training-Simulator-Ultra-Hub-CRACKED-Tapping-Simulator-SKIDDED-HUB-4493")
+    addscriptexist(9397663086, "Ninja Training Simulator", "Uploaded by Bvlyn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20Training%20Simulator517.lua", "https://scriptblox.com/script/UPD-2!-Ninja-Training-Simulator-Ninja-Training-Simulator-4297")
+                                
+    addscriptexist(9397663086, "OP FARM", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FARM691.lua", "https://scriptblox.com/script/UPD-2!-Ninja-Training-Simulator-OP-FARM-4433")
+                                

@@ -1,0 +1,2 @@
+
+addscript(9037855749, "Current Game","Demon slayer game script  4PHLA", "Uploaded by muzscripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20slayer%20game%20script%20%204PHLA12.lua", "https://scriptblox.com/script/NEW-Demon-Slayer:-Legacy-or-Script-3105")

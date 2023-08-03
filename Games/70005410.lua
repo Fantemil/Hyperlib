@@ -1,0 +1,2 @@
+
+addscript(70005410, "Current Game","Prop Chams", "Uploaded by HeHyHaxep on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prop%20Chams363.lua", "https://scriptblox.com/script/Blox-Hunt-or-v2.7.25-Prop-Chams-3377")

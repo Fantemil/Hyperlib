@@ -1,0 +1,2 @@
+
+addscript(5045567407, "Current Game","Paint entire world instantly", "Uploaded by CraX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Paint%20entire%20world%20instantly297.lua", "https://scriptblox.com/script/Nations-Roleplay-Paint-entire-world-instantly-4579")

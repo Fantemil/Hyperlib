@@ -1,0 +1,2 @@
+
+addscript(5150267415, "Current Game","Finish the gme OP", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finish%20the%20gme%20OP531.lua", "https://scriptblox.com/script/steal-a-bank-to-get-some-beans-Finish-the-gme-OP-6520")

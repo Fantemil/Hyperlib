@@ -1,0 +1,2 @@
+
+addscript(2778230703, "Current Game","Floofys UwU Gui Wip", "Uploaded by bubbahaynes33075 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Floofys%20UwU%20Gui%20Wip846.lua", "https://scriptblox.com/script/TranZit:-Remastered-Floofys-UwU-Gui-(Wip)-3578")

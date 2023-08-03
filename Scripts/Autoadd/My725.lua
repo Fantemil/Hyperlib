@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WetCheezit/My-Hero-Mania/main/.lua"))()

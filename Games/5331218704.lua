@@ -1,0 +1,2 @@
+
+addscript(5331218704, "Current Game","yrey rerertwe", "Uploaded by alotalot9733 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yrey%20rerertwe41.lua", "https://scriptblox.com/script/FOT-yrey-rerertwe-4469")

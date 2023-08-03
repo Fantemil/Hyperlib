@@ -1,0 +1,2 @@
+
+addscript(8458333139, "Current Game","Auto Stuff", "Uploaded by zenya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stuff481.lua", "https://scriptblox.com/script/1-LIFE-Auto-Stuff-5375")

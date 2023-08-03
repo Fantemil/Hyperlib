@@ -1,0 +1,2 @@
+
+addscript(2295122555, "Current Game","Nova V8", "Uploaded by Seby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nova%20V8945.lua", "https://scriptblox.com/script/Project-JoJo-Nova-V8-3689")

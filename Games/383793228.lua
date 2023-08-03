@@ -1,2 +1,4 @@
 
-addscript(383793228, "Current Game","infinite money with one click", "Uploaded by skyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20money%20with%20one%20click168.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Baby-infinite-money-with-one-click-6245")
+addscript(383793228, "Current Game","INF MONEY", "Uploaded by VoidSkids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY147.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Baby-INF-MONEY-3942")
+    addscriptexist(383793228, "infinite money with one click", "Uploaded by skyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20money%20with%20one%20click763.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Baby-infinite-money-with-one-click-6245")
+                                

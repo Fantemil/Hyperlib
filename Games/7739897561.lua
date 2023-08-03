@@ -1,0 +1,2 @@
+
+addscript(7739897561, "Current Game","impossible squid game hub", "Uploaded by ToleCans on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/impossible%20squid%20game%20hub437.lua", "https://scriptblox.com/script/Impossible-Squid-game-(hub)-3125")

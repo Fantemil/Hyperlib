@@ -1,2 +1,2 @@
 
-addscript(6159892946, "Current Game","Autoplayer", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoplayer583.lua", "https://scriptblox.com/script/Aim-Trainer-Autoplayer-6515")
+addscript(6159892946, "Current Game","Autoplayer", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoplayer341.lua", "https://scriptblox.com/script/Aim-Trainer-Autoplayer-6515")

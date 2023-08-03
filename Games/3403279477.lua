@@ -1,0 +1,2 @@
+
+addscript(3403279477, "Current Game","INF ITEMS ID AND INF LIFE", "Uploaded by Romi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20ITEMS%20ID%20AND%20INF%20LIFE524.lua", "https://scriptblox.com/script/Creeper-Aw-man-2.15-Part-1-INF-ITEMS-ID-AND-INF-LIFE-4659")

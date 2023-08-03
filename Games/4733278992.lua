@@ -1,2 +1,4 @@
 
-addscript(4733278992, "Current Game","OP KILL AURA", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20KILL%20AURA107.lua", "https://scriptblox.com/script/FLOOR-14Sword-Blox-Online:-Rebirth-KILL-AURA-4819")
+addscript(4733278992, "Current Game","OP KILL AURA", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20KILL%20AURA216.lua", "https://scriptblox.com/script/FLOOR-14Sword-Blox-Online:-Rebirth-KILL-AURA-4819")
+    addscriptexist(4733278992, "GUI LOTS OF FEATURES  GET 10 FISH EVERY 4 MINS  OVERPOWERED FREE SCRIPT", "Uploaded by LilUziWrld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20LOTS%20OF%20FEATURES%20%20GET%2010%20FISH%20EVERY%204%20MINS%20%20OVERPOWERED%20FREE%20SCRIPT705.lua", "https://scriptblox.com/script/FLOOR-14Sword-Blox-Online:-Rebirth-GUI-LOTS-OF-FEATURES-GET-10-FISH-EVERY-4-MINS!-OVERPOWERED-FREE-SCRIPT-3560")
+                                

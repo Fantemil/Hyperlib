@@ -1,0 +1,2 @@
+
+addscript(10420509126, "Current Game","Infinite", "Uploaded by Miya_AtsumuXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite619.lua", "https://scriptblox.com/script/Coin-Simulator-Demo-Infinite-5016")

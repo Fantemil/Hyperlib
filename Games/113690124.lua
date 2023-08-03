@@ -1,0 +1,2 @@
+
+addscript(113690124, "Current Game","script reuplaod", "Uploaded by hiff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20reuplaod385.lua", "https://scriptblox.com/script/Noob-Onslaught-Classic-script-reuplaod-5638")

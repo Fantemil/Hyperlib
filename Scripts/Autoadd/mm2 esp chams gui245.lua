@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/TheXploiterYT/scripts/raw/main/mm2chams",true))()

@@ -1,0 +1,2 @@
+
+addscript(10364927844, "Current Game","Auto Farm  Open Source", "Uploaded by Uzu0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20%20Open%20Source392.lua", "https://scriptblox.com/script/15X-Elemental-Fighting-Simulator-Auto-Farm-6345")

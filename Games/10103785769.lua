@@ -1,0 +1,2 @@
+
+addscript(10103785769, "Current Game","GUI Closed", "Uploaded by eeee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20Closed414.lua", "https://scriptblox.com/script/Controllable-Roblox-Bot-Early-Beta-GUI-4892")

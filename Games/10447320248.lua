@@ -1,2 +1,2 @@
 
-addscript(10447320248, "Current Game","Inf Money", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money677.lua", "https://scriptblox.com/script/Hide-and-Seek-Skill-Battle-Inf-Money-5922")
+addscript(10447320248, "Current Game","Inf Money", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money370.lua", "https://scriptblox.com/script/Hide-and-Seek-Skill-Battle-Inf-Money-5922")

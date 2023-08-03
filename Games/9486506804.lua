@@ -1,2 +1,4 @@
 
-addscript(9486506804, "Current Game","AutoGrab all Words Teleport Script", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoGrab%20all%20Words%20Teleport%20Script907.lua", "https://scriptblox.com/script/FIFA-World-AutoGrab-all-Words-Teleport-Script-6499")
+addscript(9486506804, "Current Game","AutoGrab all Words Teleport Script", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoGrab%20all%20Words%20Teleport%20Script615.lua", "https://scriptblox.com/script/FIFA-World-AutoGrab-all-Words-Teleport-Script-6499")
+    addscriptexist(9486506804, "COLLECT ALL SCAVENGER HUNT FREE UGC ITEM", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COLLECT%20ALL%20SCAVENGER%20HUNT%20FREE%20UGC%20ITEM966.lua", "https://scriptblox.com/script/FIFA-World-COLLECT-ALL-SCAVENGER-HUNT-6576")
+                                

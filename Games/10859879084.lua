@@ -1,2 +1,2 @@
 
-addscript(10859879084, "Current Game","Batukam Sim unlock robux char", "Uploaded by YRRALD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Batukam%20Sim%20unlock%20robux%20char228.lua", "https://scriptblox.com/script/NEW-Lord-Boros-Simulator-Batukam-Sim-unlock-robux-char-6424")
+addscript(10859879084, "Current Game","Batukam Sim unlock robux char", "Uploaded by YRRALD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Batukam%20Sim%20unlock%20robux%20char369.lua", "https://scriptblox.com/script/NEW-Lord-Boros-Simulator-Batukam-Sim-unlock-robux-char-6424")

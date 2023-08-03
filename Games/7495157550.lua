@@ -1,0 +1,2 @@
+
+addscript(7495157550, "Current Game","Get all items in any mania kit game", "Uploaded by yomanisaac on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20items%20in%20any%20mania%20kit%20game997.lua", "https://scriptblox.com/script/THE-END-Undertale-The-Return-of-Monster-Get-all-items-in-any-mania-kit-game-5152")

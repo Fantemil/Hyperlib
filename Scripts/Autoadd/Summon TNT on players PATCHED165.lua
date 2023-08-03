@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CoconutMother9000/Roblox-Games/main/BlastBattles.lua'))()

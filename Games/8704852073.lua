@@ -1,0 +1,2 @@
+
+addscript(8704852073, "Current Game","secret dev code", "Uploaded by baksff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/secret%20dev%20code655.lua", "https://scriptblox.com/script/Gun-Factory-Tycoon-secret-dev-code-4009")

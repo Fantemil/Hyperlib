@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/qtoolnlocknfly/main/qtoolnlocknfly", true))()

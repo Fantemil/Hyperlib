@@ -1,0 +1,4 @@
+
+addscript(970962039, "Current Game","Change Everybodys Sign Text", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20Everybodys%20Sign%20Text220.lua", "https://scriptblox.com/script/Limited-Time-Change-Everybodys-Sign-Text-4854")
+    addscriptexist(970962039, "Change everyones sign text to whatever", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20everyones%20sign%20text%20to%20whatever576.lua", "https://scriptblox.com/script/Limited-Time-Change-everyones-sign-text-to-whatever-4452")
+                                

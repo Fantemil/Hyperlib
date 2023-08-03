@@ -1,0 +1,2 @@
+
+addscript(9051087354, "Current Game","Rosu auto player", "Uploaded by Tokyo2k2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rosu%20auto%20player31.lua", "https://scriptblox.com/script/PandR-rosu!mania-7.32-Music-%2B-Rhythm-Rosu-auto-player-4312")

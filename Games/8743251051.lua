@@ -1,0 +1,2 @@
+
+addscript(8743251051, "Current Game","G0D Mode", "Uploaded by MrVoz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G0D%20Mode264.lua", "https://scriptblox.com/script/BETA-Avalanche-***-Mode-3994")

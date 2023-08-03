@@ -1,0 +1,2 @@
+
+addscript(9630689264, "Current Game","Hood Genesis OPEN SOURCE COME SKID IT", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hood%20Genesis%20OPEN%20SOURCE%20COME%20SKID%20IT14.lua", "https://scriptblox.com/script/(STOMP-EFFECTS!)-Hood-Genesis-OPEN-SOURCE-COME-SKID-IT-5893")

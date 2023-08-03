@@ -1,0 +1,2 @@
+
+addscript(9940051005, "Current Game","auto collector by Monkey  on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20collector%20by%20Monkey%20%20on%20v3rmillion537.lua", "https://scriptblox.com/script/x4-Blox-Legends-auto-collector-by-Monkey-******-on-v3rmillion-5286")

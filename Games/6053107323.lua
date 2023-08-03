@@ -1,0 +1,2 @@
+
+addscript(6053107323, "Current Game","RAKE OP GUI", "Uploaded by xlowyzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAKE%20OP%20GUI315.lua", "https://scriptblox.com/script/THE-RAKE:-Noob-Edition-RAKE-OP-GUI-3763")

@@ -1,2 +1,0 @@
-
-addscript(1696916806, "Current Game","Gun mod", "Uploaded by real_real on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20mod300.lua", "https://scriptblox.com/script/Base-Raiders-Gun-mod-12196")

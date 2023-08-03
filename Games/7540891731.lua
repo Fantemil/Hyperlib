@@ -1,2 +1,2 @@
 
-addscript(7540891731, "Current Game"," Light  Light OutlawsHub OP Script", "Uploaded by c00dy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Light%20%20Light%20OutlawsHub%20OP%20Script518.lua", "https://scriptblox.com/script/Red-Light-Green-Light-OutlawsHub-OP-Script-3805")
+addscript(7540891731, "Current Game"," Light  Light OutlawsHub OP Script", "Uploaded by c00dy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Light%20%20Light%20OutlawsHub%20OP%20Script376.lua", "https://scriptblox.com/script/Red-Light-Green-Light-OutlawsHub-OP-Script-3805")

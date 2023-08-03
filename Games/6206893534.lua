@@ -1,0 +1,2 @@
+
+addscript(6206893534, "Current Game","no mercy", "Uploaded by SABIN13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20mercy593.lua", "https://scriptblox.com/script/Cobra-Kai-Karate-no-mercy-6563")

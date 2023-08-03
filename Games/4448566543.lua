@@ -1,2 +1,2 @@
 
-addscript(4448566543, "Current Game","OP GUI", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI466.lua", "https://scriptblox.com/script/Banana-Eats-OP-GUI-4823")
+addscript(4448566543, "Current Game","OP GUI", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI45.lua", "https://scriptblox.com/script/Banana-Eats-OP-GUI-4823")

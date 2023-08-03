@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/Margman/whynot/main/Da%20hood%20script%202022"))()

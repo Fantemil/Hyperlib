@@ -1,2 +1,2 @@
 
-addscript(5042581461, "Current Game","Cruise Story Script", "Uploaded by Lxvy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cruise%20Story%20Script880.lua", "https://scriptblox.com/script/Cruise-Story-Overpowered-Script-4868")
+addscript(5042581461, "Current Game","Cruise Story Script", "Uploaded by Lxvy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cruise%20Story%20Script989.lua", "https://scriptblox.com/script/Cruise-Story-Overpowered-Script-4868")

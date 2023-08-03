@@ -1,12 +1,30 @@
 
-addscript(9872472334, "Current Game","PhonkHub  Esp Bot afk Farm", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PhonkHub%20%20Esp%20Bot%20afk%20Farm236.lua", "https://scriptblox.com/script/UPDATE-Evade-AfkFarm-Esp-6536")
-    addscriptexist(9872472334, "Evade GUI by Cesare on v3rmillion KEY ON V3RMILLION POST", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GUI%20by%20Cesare%20on%20v3rmillion%20KEY%20ON%20V3RMILLION%20POST391.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-GUI-by-Cesare-on-v3rmillion-KEY-ON-DESC-5357")
+addscript(9872472334, "Current Game","Smoxhub script", "Uploaded by Pro_scripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoxhub%20script51.lua", "https://scriptblox.com/script/UPDATE-Evade-Smoxhub-script-5664")
+    addscriptexist(9872472334, "OP UNPATCHED NEW SCRIPT GUI", "Uploaded by batusd3009 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20UNPATCHED%20NEW%20SCRIPT%20GUI328.lua", "https://scriptblox.com/script/UPDATE-Evade-op-UNPATCHED-NEW-SCRIPT-GUI-5564")
                                 
-    addscriptexist(9872472334, "OP UNPATCHED NEW SCRIPT GUI", "Uploaded by batusd3009 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20UNPATCHED%20NEW%20SCRIPT%20GUI842.lua", "https://scriptblox.com/script/UPDATE-Evade-op-UNPATCHED-NEW-SCRIPT-GUI-5564")
+    addscriptexist(9872472334, "EVADE CREDIT TO SCRIPTPASTEBIN", "Uploaded by owns on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EVADE%20CREDIT%20TO%20SCRIPTPASTEBIN793.lua", "https://scriptblox.com/script/UPDATE-Evade-233232323-5610")
                                 
-    addscriptexist(9872472334, "Evade Auto Farm", "Uploaded by Xai_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm642.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-Auto-Farm-6117")
+    addscriptexist(9872472334, "Hydra Hub", "Uploaded by Robobo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hydra%20Hub639.lua", "https://scriptblox.com/script/UPDATE-Evade-Hydra-Hub-5162")
                                 
-    addscriptexist(9872472334, "Evad GUI", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evad%20GUI619.lua", "https://scriptblox.com/script/UPDATE-Evade-***-Mode-6224")
+    addscriptexist(9872472334, "Evade UPDATED OP UNPATCHED GUI OBJECTIVE ESP ADDED", "Uploaded by pepes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20UPDATED%20OP%20UNPATCHED%20GUI%20OBJECTIVE%20ESP%20ADDED770.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-UPDATED-5514")
                                 
-    addscriptexist(9872472334, "Free Respawn", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Respawn180.lua", "https://scriptblox.com/script/UPDATE-Evade-Free-Respawn-5345")
+    addscriptexist(9872472334, "Evade GUI by Cesare on v3rmillion KEY ON V3RMILLION POST", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20GUI%20by%20Cesare%20on%20v3rmillion%20KEY%20ON%20V3RMILLION%20POST318.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-GUI-by-Cesare-on-v3rmillion-KEY-ON-DESC-5357")
+                                
+    addscriptexist(9872472334, "GOOD EVADE SCRIPT", "Uploaded by xlowyzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOOD%20EVADE%20SCRIPT858.lua", "https://scriptblox.com/script/UPDATE-Evade-GOOD-EVADE-SCRIPT-5793")
+                                
+    addscriptexist(9872472334, "Evade Script Hydra network", "Uploaded by sussyboiOG on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Script%20Hydra%20network857.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-Script-Hydra-network-6075")
+                                
+    addscriptexist(9872472334, "Auto quadruple trouble", "Uploaded by s1mp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20quadruple%20trouble624.lua", "https://scriptblox.com/script/UPDATE-Evade-Auto-quadruple-trouble-6171")
+                                
+    addscriptexist(9872472334, "Evade Auto Farm", "Uploaded by Xai_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm580.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-Auto-Farm-6117")
+                                
+    addscriptexist(9872472334, "Evade Script GUI", "Uploaded by Distinct on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Script%20GUI86.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-Script-GUi-5127")
+                                
+    addscriptexist(9872472334, "Free Respawn", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Respawn509.lua", "https://scriptblox.com/script/UPDATE-Evade-Free-Respawn-5345")
+                                
+    addscriptexist(9872472334, "Evade  THE 1 FREE GUI SCRIPT  TONS OF FEATURES ", "Uploaded by Real_King on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20%20THE%201%20FREE%20GUI%20SCRIPT%20%20TONS%20OF%20FEATURES%20255.lua", "https://scriptblox.com/script/UPDATE-Evade-Evade-5359")
+                                
+    addscriptexist(9872472334, "Evad GUI", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evad%20GUI550.lua", "https://scriptblox.com/script/UPDATE-Evade-***-Mode-6224")
+                                
+    addscriptexist(9872472334, "HamstaGang GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HamstaGang%20GUI369.lua", "https://scriptblox.com/script/UPDATE-Evade-HamstaGang-GUI-5068")
                                 

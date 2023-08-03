@@ -1,0 +1,2 @@
+
+addscript(9826342485, "Current Game","inf money", "Uploaded by BigChickens3012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money57.lua", "https://scriptblox.com/script/raise-a-doge-inf-money-3318")

@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerGui.gf.Enabled = true

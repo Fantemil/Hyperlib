@@ -1,2 +1,2 @@
 
-addscript(2901172949, "Current Game","Camera ESP", "Uploaded by choke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camera%20ESP393.lua", "https://scriptblox.com/script/In-Plain-Sight-2-Camera-ESP-3778")
+addscript(2901172949, "Current Game","Camera ESP", "Uploaded by choke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camera%20ESP558.lua", "https://scriptblox.com/script/In-Plain-Sight-2-Camera-ESP-3778")

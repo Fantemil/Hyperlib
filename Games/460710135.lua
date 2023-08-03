@@ -1,0 +1,2 @@
+
+addscript(460710135, "Current Game","motg gui", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/motg%20gui28.lua", "https://scriptblox.com/script/Mount-of-the-Gods-motg-gui-6500")

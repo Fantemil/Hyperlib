@@ -1,0 +1,2 @@
+
+addscript(7551121821, "Current Game","Slient aim", "Uploaded by zaee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slient%20aim415.lua", "https://scriptblox.com/script/Decaying-Winter-Slient-aim-3512")

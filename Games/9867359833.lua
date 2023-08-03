@@ -1,0 +1,2 @@
+
+addscript(9867359833, "Current Game","afy", "Uploaded by afyW on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/afy29.lua", "https://scriptblox.com/script/Development-Liftoff-Basketball-afy-4428")

@@ -1,2 +1,2 @@
 
-addscript(10146432319, "Current Game","Auto Event Free avatar item", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Event%20Free%20avatar%20item977.lua", "https://scriptblox.com/script/Guacathon-with-Denzel-Curry-Auto-Event-Free-avatar-item-4668")
+addscript(10146432319, "Current Game","Auto Event Free avatar item", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Event%20Free%20avatar%20item198.lua", "https://scriptblox.com/script/Guacathon-with-Denzel-Curry-Auto-Event-Free-avatar-item-4668")

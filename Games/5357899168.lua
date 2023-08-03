@@ -1,0 +1,2 @@
+
+addscript(5357899168, "Current Game","Good GUI", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20GUI101.lua", "https://scriptblox.com/script/Dinosaur-Arcade-BETA-Good-GUI-4071")

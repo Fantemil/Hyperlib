@@ -1,0 +1,2 @@
+
+addscript(7026533870, "Current Game","inf stamina", "Uploaded by gbad8220 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20stamina772.lua", "https://scriptblox.com/script/THE-RAKE:-Kill-Edition-inf-stamina-3691")

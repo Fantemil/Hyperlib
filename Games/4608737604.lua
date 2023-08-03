@@ -1,2 +1,2 @@
 
-addscript(4608737604, "Current Game","Auto pickup every gun", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20pickup%20every%20gun280.lua", "https://scriptblox.com/script/fight-Auto-pickup-every-gun-6006")
+addscript(4608737604, "Current Game","Auto pickup every gun", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20pickup%20every%20gun915.lua", "https://scriptblox.com/script/fight-Auto-pickup-every-gun-6006")

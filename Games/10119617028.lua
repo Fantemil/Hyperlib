@@ -1,0 +1,2 @@
+
+addscript(10119617028, "Current Game","RocketX Hub", "Uploaded by zer_rip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RocketX%20Hub601.lua", "https://scriptblox.com/script/Airsoft-Center-RocketX-Hub-5563")

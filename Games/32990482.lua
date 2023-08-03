@@ -1,0 +1,2 @@
+
+addscript(32990482, "Current Game","Server Crasher", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Crasher9.lua", "https://scriptblox.com/script/Flood-Escape-Classic-Server-Crasher-4234")

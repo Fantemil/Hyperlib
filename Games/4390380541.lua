@@ -1,4 +1,2 @@
 
-addscript(4390380541, "Current Game","Very OP script For Farm", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20script%20For%20Farm754.lua", "https://scriptblox.com/script/Rumble-Quest-Very-OP-script-For-Farm-12181")
-    addscriptexist(4390380541, "Very OP Copy the script before i deleting", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Copy%20the%20script%20before%20i%20deleting261.lua", "https://scriptblox.com/script/Rumble-Quest-Runble-Very-OP-Copy-the-script-before-i-deleting-6600")
-                                
+addscript(4390380541, "Current Game","Very OP Copy the script before i deleting", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Copy%20the%20script%20before%20i%20deleting797.lua", "https://scriptblox.com/script/Rumble-Quest-Runble-Very-OP-Copy-the-script-before-i-deleting-6600")

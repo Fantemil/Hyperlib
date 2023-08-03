@@ -1,0 +1,4 @@
+
+addscript(2817130270, "Current Game","Inf bag pack and Unlimited Coins", "Uploaded by TheInfGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20bag%20pack%20and%20Unlimited%20Coins275.lua", "https://scriptblox.com/script/!-Digging-Simulator-Inf-bag-pack-and-Unlimited-Coins-5288")
+    addscriptexist(2817130270, "sim inf money by teemsploit also kys roblox", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sim%20inf%20money%20by%20teemsploit%20also%20kys%20roblox324.lua", "https://scriptblox.com/script/!-Digging-Simulator-sim-inf-money-by-teemsploit-also-kys-roblox-5281")
+                                

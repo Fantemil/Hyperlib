@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Yaki-0/Project-Charlie/main/AUT.lua", true))()

@@ -1,0 +1,2 @@
+
+addscript(2845217850, "Current Game","idk", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/idk135.lua", "https://scriptblox.com/script/Hat-Simulator-idk-3948")

@@ -1,2 +1,2 @@
 
-addscript(5116869569, "Current Game","Doodle Catching And Rebattler Autofarm", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20Catching%20And%20Rebattler%20Autofarm215.lua", "https://scriptblox.com/script/Doodle-World-Codes!-Doodle-Catching-And-Rebattler-Autofarm-5822")
+addscript(5116869569, "Current Game","Doodle Catching And Rebattler Autofarm", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doodle%20Catching%20And%20Rebattler%20Autofarm668.lua", "https://scriptblox.com/script/Doodle-World-Codes!-Doodle-Catching-And-Rebattler-Autofarm-5822")

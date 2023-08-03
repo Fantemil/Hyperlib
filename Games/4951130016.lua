@@ -1,0 +1,2 @@
+
+addscript(4951130016, "Current Game","INF HEALTH THANK ME", "Uploaded by SpikeyYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20HEALTH%20THANK%20ME935.lua", "https://scriptblox.com/script/The-Kinetic-Abilities-INF-HEALTH-THANK-ME-3863")

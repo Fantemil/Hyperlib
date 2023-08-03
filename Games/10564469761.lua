@@ -1,0 +1,2 @@
+
+addscript(10564469761, "Current Game","Auto Buy Merchant", "Uploaded by 03ss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Buy%20Merchant900.lua", "https://scriptblox.com/script/Pet-Simulator-Z-(SMALL-GAMES)-Auto-Buy-Merchant-4926")

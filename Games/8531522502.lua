@@ -1,2 +1,2 @@
 
-addscript(8531522502, "Current Game","become bunpup for trolling if you want", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/become%20bunpup%20for%20trolling%20if%20you%20want790.lua", "https://scriptblox.com/script/Facility-Of-Redemption-V3.3.9-(TRUE-FINAL-UPDATE!)-become-bunpup-for-trolling-if-you-want-11944")
+addscript(8531522502, "Current Game","The ok", "Uploaded by Erykytgamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20ok926.lua", "https://scriptblox.com/script/Facility-Of-Redemption-V3.3.5-(Huge-Update!)-The-ok-5135")

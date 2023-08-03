@@ -1,2 +1,2 @@
 
-addscript(10753832846, "Current Game","Damage Loop", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Damage%20Loop486.lua", "https://scriptblox.com/script/GLOBAL-Axe-Gui-Factory-Damage-Loop-5911")
+addscript(10753832846, "Current Game","Damage Loop", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Damage%20Loop905.lua", "https://scriptblox.com/script/GLOBAL-Axe-Gui-Factory-Damage-Loop-5911")

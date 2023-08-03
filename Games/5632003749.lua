@@ -1,2 +1,2 @@
 
-addscript(5632003749, "Current Game","Autofarm", "Uploaded by halloweengaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm401.lua", "https://scriptblox.com/script/UT:-Sands-REMAKE-Autofarm-4887")
+addscript(5632003749, "Current Game","Autofarm", "Uploaded by halloweengaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm594.lua", "https://scriptblox.com/script/UT:-Sands-REMAKE-Autofarm-4887")

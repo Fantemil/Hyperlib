@@ -1,0 +1,2 @@
+
+addscript(4087265156, "Current Game","VERTIGO  Script Undetected OP FEATURES", "Uploaded by aeth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERTIGO%20%20Script%20Undetected%20OP%20FEATURES865.lua", "https://scriptblox.com/script/VERTIGO-or-Script-Undetected-OP-FEATURES.-3458")

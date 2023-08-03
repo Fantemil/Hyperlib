@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://fern.wtf/scripts/nico_bot.lua", true))()

@@ -1,0 +1,2 @@
+
+addscript(2961583129, "Current Game","esp", "Uploaded by xkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/esp116.lua", "https://scriptblox.com/script/pass-bomb-thing-TESTING-esp-3151")

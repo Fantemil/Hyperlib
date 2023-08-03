@@ -1,0 +1,2 @@
+
+addscript(10105990977, "Current Game","GET ALL ITEMS WITHOUT SPENDING COINS", "Uploaded by Ducky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20ALL%20ITEMS%20WITHOUT%20SPENDING%20COINS575.lua", "https://scriptblox.com/script/Samsung-Space-Tycoon-(GET-ALL-ITEMS-WITHOUT-SPENDING-COINS)-4092")

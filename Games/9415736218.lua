@@ -1,2 +1,2 @@
 
-addscript(9415736218, "Current Game","Infinite Golden Eggs", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Golden%20Eggs52.lua", "https://scriptblox.com/script/Sushi-Restaurant-Tycoon-Infinite-Golden-Eggs-6390")
+addscript(9415736218, "Current Game","Infinite Golden Eggs", "Uploaded by dielan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Golden%20Eggs145.lua", "https://scriptblox.com/script/Sushi-Restaurant-Tycoon-Infinite-Golden-Eggs-6390")

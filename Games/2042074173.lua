@@ -1,0 +1,2 @@
+
+addscript(2042074173, "Current Game","Auto make posts", "Uploaded by baksff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20make%20posts673.lua", "https://scriptblox.com/script/Dancing-Simulator-Auto-make-posts-4246")

@@ -1,0 +1,2 @@
+
+addscript(8888833403, "Current Game","script By iceh", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20By%20iceh592.lua", "https://scriptblox.com/script/ROBET-MIDNIGHT-SALE-script-By-iceh-4925")

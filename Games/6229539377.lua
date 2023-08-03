@@ -1,0 +1,2 @@
+
+addscript(6229539377, "Current Game","ruin the game lol OP", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ruin%20the%20game%20lol%20OP643.lua", "https://scriptblox.com/script/Naruto-Fighting-Arena-ruin-the-game-lol-OP-3197")

@@ -1,0 +1,2 @@
+
+addscript(447452406, "Current Game","rizzhub FIXED", "Uploaded by rizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rizzhub%20FIXED291.lua", "https://scriptblox.com/script/Robloxian-High-School-rizzhub-(only-supports-)-3677")

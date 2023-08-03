@@ -1,2 +1,4 @@
 
-addscript(9744954014, "Current Game","Tha Hood GodMode Inf Ammo", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20GodMode%20Inf%20Ammo708.lua", "https://scriptblox.com/script/100B-Event-%2B-Zombie-Animation-THA-HOOD!!!-Hood-***-Mode-Inf-Ammo-5626")
+addscript(9744954014, "Current Game","MMA And Meatball Script", "Uploaded by MMAKINGDOM on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MMA%20And%20Meatball%20Script657.lua", "https://scriptblox.com/script/100B-Event-%2B-Zombie-Animation-THA-HOOD!!!-MMA-And-Meatball-Script-5648")
+    addscriptexist(9744954014, "Tha Hood GodMode Inf Ammo", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Hood%20GodMode%20Inf%20Ammo247.lua", "https://scriptblox.com/script/100B-Event-%2B-Zombie-Animation-THA-HOOD!!!-Hood-***-Mode-Inf-Ammo-5626")
+                                

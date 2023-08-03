@@ -1,0 +1,2 @@
+
+addscript(8668673762, "Current Game","Op scripts", "Uploaded by Guelgamesbr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20scripts412.lua", "https://scriptblox.com/script/Us-Are-Toys-CHAPTER-2-Op-scripts-4752")

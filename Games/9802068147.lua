@@ -1,0 +1,2 @@
+
+addscript(9802068147, "Current Game","AutoBuy", "Uploaded by Noctural on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoBuy758.lua", "https://scriptblox.com/script/MEDIEVAL-Museum-Tycoon!-AutoBuy-5118")

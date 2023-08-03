@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SpikeyROBLOX/scripts/main/inf%20health%20TKA'))()

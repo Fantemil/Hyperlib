@@ -1,0 +1,2 @@
+
+addscript(7229868106, "Current Game","OP SCRIPT", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT349.lua", "https://scriptblox.com/script/X999-Rebirths!-Rebirth-Simulator-X-OP-SCRIPT-4434")

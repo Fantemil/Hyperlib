@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zerrip/AirsoftCenterCheat/main/AirsoftCenter.lua",true))()

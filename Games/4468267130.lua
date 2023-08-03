@@ -1,2 +1,2 @@
 
-addscript(4468267130, "Current Game","Basic Script", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basic%20Script809.lua", "https://scriptblox.com/script/Extreme-Sprinting-Simulator-Basic-Script-4300")
+addscript(4468267130, "Current Game","Basic Script", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basic%20Script277.lua", "https://scriptblox.com/script/Extreme-Sprinting-Simulator-Basic-Script-4300")

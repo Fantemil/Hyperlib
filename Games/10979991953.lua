@@ -1,0 +1,2 @@
+
+addscript(10979991953, "Current Game","Autofarm", "Uploaded by Yzidro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm232.lua", "https://scriptblox.com/script/Max-Speed-UPDATE!-Autofarm-6504")

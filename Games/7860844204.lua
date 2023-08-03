@@ -1,2 +1,4 @@
 
-addscript(7860844204, "Current Game","life sentence auto workout by tam", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/life%20sentence%20auto%20workout%20by%20tam139.lua", "https://scriptblox.com/script/Life-Sentence-life-sentence-auto-workout-by-tam-4916")
+addscript(7860844204, "Current Game","life sentence auto workout by tam", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/life%20sentence%20auto%20workout%20by%20tam970.lua", "https://scriptblox.com/script/Life-Sentence-life-sentence-auto-workout-by-tam-4916")
+    addscriptexist(7860844204, "Kanto Script GodMode", "Uploaded by donk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kanto%20Script%20GodMode81.lua", "https://scriptblox.com/script/Life-Sentence-Kanto-Script-4957")
+                                

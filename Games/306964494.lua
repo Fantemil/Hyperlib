@@ -1,4 +1,4 @@
 
-addscript(306964494, "Current Game","Heal Loomians Instantly", "Uploaded by Seby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heal%20Loomians%20Instantly89.lua", "https://scriptblox.com/script/(Atlanthian-City)-Loomian-Legacy-Heal-s-Instantly-3687")
-    addscriptexist(306964494, "Script for this game", "Uploaded by jordanisgoat0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20for%20this%20game190.lua", "https://scriptblox.com/script/(Atlanthian-City)-Loomian-Legacy-Script-for-this-game-3693")
+addscript(306964494, "Current Game","Script for this game", "Uploaded by jordanisgoat0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20for%20this%20game143.lua", "https://scriptblox.com/script/(Atlanthian-City)-Loomian-Legacy-Script-for-this-game-3693")
+    addscriptexist(306964494, "Heal Loomians Instantly", "Uploaded by Seby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Heal%20Loomians%20Instantly193.lua", "https://scriptblox.com/script/(Atlanthian-City)-Loomian-Legacy-Heal-s-Instantly-3687")
                                 

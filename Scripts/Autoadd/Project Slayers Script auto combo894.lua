@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/toaie0112/Turtle-Hub/main/ps%20auto%20combo'))()

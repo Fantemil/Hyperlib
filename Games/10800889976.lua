@@ -1,0 +1,2 @@
+
+addscript(10800889976, "Current Game","Anti afk for most games", "Uploaded by Tortus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20afk%20for%20most%20games94.lua", "https://scriptblox.com/script/Monke-nextbot-Anti-afk-for-anygame-5915")

@@ -1,2 +1,2 @@
 
-addscript(5918187182, "Current Game","GMING STORE inf money not mine", "Uploaded by frm410 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GMING%20STORE%20inf%20money%20not%20mine639.lua", "https://scriptblox.com/script/BUILD-A-GAMING-PC-STORE!-GMING-STORE-inf-money-not-mine-4368")
+addscript(5918187182, "Current Game","GMING STORE inf money not mine", "Uploaded by frm410 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GMING%20STORE%20inf%20money%20not%20mine102.lua", "https://scriptblox.com/script/BUILD-A-GAMING-PC-STORE!-GMING-STORE-inf-money-not-mine-4368")

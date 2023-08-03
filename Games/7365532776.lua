@@ -1,0 +1,2 @@
+
+addscript(7365532776, "Current Game","w", "Uploaded by alotalot9733 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/w50.lua", "https://scriptblox.com/script/Angry-Birds:-Bird-Island-w-4426")

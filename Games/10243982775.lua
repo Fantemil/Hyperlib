@@ -1,2 +1,4 @@
 
-addscript(10243982775, "Current Game","script by Atomicals on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20by%20Atomicals%20on%20v3rmillion992.lua", "https://scriptblox.com/script/MELEES-RedBox-2-script-by-Atomicals-on-v3rmillion-4980")
+addscript(10243982775, "Current Game","infinite ammo", "Uploaded by moon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20ammo207.lua", "https://scriptblox.com/script/MELEES-RedBox-2-infinite-ammo-5599")
+    addscriptexist(10243982775, "script by Atomicals on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20by%20Atomicals%20on%20v3rmillion786.lua", "https://scriptblox.com/script/MELEES-RedBox-2-script-by-Atomicals-on-v3rmillion-4980")
+                                

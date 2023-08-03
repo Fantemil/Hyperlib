@@ -1,0 +1,2 @@
+
+addscript(9616411936, "Current Game","Auto Collect tokens free item", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20tokens%20free%20item7.lua", "https://scriptblox.com/script/Man-City-Blue-Moon-Auto-Collect-tokens-free-item-4294")

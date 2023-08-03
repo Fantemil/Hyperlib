@@ -1,2 +1,2 @@
 
-addscript(8731279652, "Current Game","reach", "Uploaded by ziraniumdev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reach313.lua", "https://scriptblox.com/script/Sword-Fight-and-Steal-Time-reach-3791")
+addscript(8731279652, "Current Game","reach", "Uploaded by ziraniumdev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reach600.lua", "https://scriptblox.com/script/Sword-Fight-and-Steal-Time-reach-3791")

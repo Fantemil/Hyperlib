@@ -1,0 +1,2 @@
+
+addscript(9544620334, "Current Game","autofarm", "Uploaded by dMg8uVvzbn0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm64.lua", "https://scriptblox.com/script/Secrets-Find-the-Turtles-217-autofarm-3317")

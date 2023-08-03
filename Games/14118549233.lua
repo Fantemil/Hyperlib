@@ -1,2 +1,0 @@
-
-addscript(14118549233, "Current Game","Beachball Autofarm for BGSR", "Uploaded by Netflix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beachball%20Autofarm%20for%20BGSR124.lua", "https://scriptblox.com/script/SUMMER-Bubble-Gum-Simulator-Reborn-Beachball-Autofarm-11988")

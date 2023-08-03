@@ -1,2 +1,2 @@
 
-addscript(8657766101, "Current Game","free gamepass", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20gamepass700.lua", "https://scriptblox.com/script/Marvellous-Playground-Darth-Vader-EARLY-TESTING!-free-gamepass-thanos-not-working-5408")
+addscript(8657766101, "Current Game","free gamepass", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20gamepass389.lua", "https://scriptblox.com/script/Marvellous-Playground-Darth-Vader-EARLY-TESTING!-free-gamepass-thanos-not-working-5408")

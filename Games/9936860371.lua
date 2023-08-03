@@ -1,0 +1,2 @@
+
+addscript(9936860371, "Current Game","OP Script Auto Farm more", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20Auto%20Farm%20more895.lua", "https://scriptblox.com/script/Egg-Packing-Tycoon-OP-Script-4434")

@@ -1,0 +1,2 @@
+
+addscript(7300121704, "Current Game","Silent Aim for", "Uploaded by Legendary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20for448.lua", "https://scriptblox.com/script/BUG-FIXES-Prison-Life-Testing-Silent-Aim-for-4142")

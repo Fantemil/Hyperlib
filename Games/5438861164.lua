@@ -1,0 +1,2 @@
+
+addscript(5438861164, "Current Game","basic inf coins script", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/basic%20inf%20coins%20script323.lua", "https://scriptblox.com/script/Sacrifice-Sanctuary-basic-inf-coins-script-4360")

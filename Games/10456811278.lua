@@ -1,2 +1,2 @@
 
-addscript(10456811278, "Current Game","AUTO FARM", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM340.lua", "https://scriptblox.com/script/Milk-Tycoon-UPDATE!-AUTO-FARM-5965")
+addscript(10456811278, "Current Game","AUTO FARM", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM425.lua", "https://scriptblox.com/script/Milk-Tycoon-UPDATE!-AUTO-FARM-5965")

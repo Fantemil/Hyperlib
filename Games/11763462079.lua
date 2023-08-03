@@ -1,2 +1,0 @@
-
-addscript(11763462079, "Current Game","script", "Uploaded by PopSmoke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script732.lua", "https://scriptblox.com/script/Fart-Race-Jurassic-Land-script-10832")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0rohb/Admin-Hub-v1.5/main/AdminHub"))()

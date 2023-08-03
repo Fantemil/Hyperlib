@@ -1,2 +1,2 @@
 
-addscript(13924946576, "Current Game","Dignus Esp", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dignus%20Esp220.lua", "https://scriptblox.com/script/dingus-Dignus-Esp-6556")
+addscript(13924946576, "Current Game","Dignus Esp", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dignus%20Esp801.lua", "https://scriptblox.com/script/dingus-Dignus-Esp-6556")

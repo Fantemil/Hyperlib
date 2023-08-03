@@ -1,2 +1,4 @@
 
-addscript(5505830188, "Current Game","script autofarm", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20autofarm297.lua", "https://scriptblox.com/script/SHOP-Arcane-Oblivion-RPG-script-autofarm-5625")
+addscript(5505830188, "Current Game","get best sword not repost fixing this dumbass script", "Uploaded by kash on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20best%20sword%20not%20repost%20fixing%20this%20dumbass%20script250.lua", "https://scriptblox.com/script/SHOP-Arcane-Oblivion-RPG-get-best-sword-not-repost-fixing-this-dumbass-script-5622")
+    addscriptexist(5505830188, "script autofarm", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20autofarm292.lua", "https://scriptblox.com/script/SHOP-Arcane-Oblivion-RPG-script-autofarm-5625")
+                                

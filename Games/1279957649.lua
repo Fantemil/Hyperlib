@@ -1,0 +1,2 @@
+
+addscript(1279957649, "Current Game","NO Fog  NO Foggy Weather", "Uploaded by ch_S on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20Fog%20%20NO%20Foggy%20Weather759.lua", "https://scriptblox.com/script/The-Fog-NO-NO-gy-Wear-3512")

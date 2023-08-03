@@ -1,0 +1,4 @@
+
+addscript(9190926538, "Current Game","much faster than dogshit devil script", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/much%20faster%20than%20dogshit%20devil%20script99.lua", "https://scriptblox.com/script/Toy-Fighters-much-faster-than-dogshit-devil-script-4225")
+    addscriptexist(9190926538, "Script Gui autofarm autoopen etc", "Uploaded by indopl346 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Gui%20autofarm%20autoopen%20etc633.lua", "https://scriptblox.com/script/Toy-Fighters-Script-Gui-autofarm-autoopen-etc..-4180")
+                                

@@ -1,0 +1,2 @@
+
+addscript(2756861770, "Current Game","2 Equip Any", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2%20Equip%20Any274.lua", "https://scriptblox.com/script/Blob-Simulator-2!-2-Equip-Any-3974")

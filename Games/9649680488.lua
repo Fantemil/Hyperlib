@@ -1,4 +1,4 @@
 
-addscript(9649680488, "Current Game","Ez Wins", "Uploaded by Sizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Wins227.lua", "https://scriptblox.com/script/NEW-Backrooms-Race-Clicker-Ez-Wins-6110")
-    addscriptexist(9649680488, "How Much Clicks You Want Per Click", "Uploaded by sunken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Much%20Clicks%20You%20Want%20Per%20Click553.lua", "https://scriptblox.com/script/NEW-Backrooms-Race-Clicker-How-Much-Clicks-You-Want-Per-Click-6099")
+addscript(9649680488, "Current Game","How Much Clicks You Want Per Click", "Uploaded by sunken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/How%20Much%20Clicks%20You%20Want%20Per%20Click99.lua", "https://scriptblox.com/script/NEW-Backrooms-Race-Clicker-How-Much-Clicks-You-Want-Per-Click-6099")
+    addscriptexist(9649680488, "Ez Wins", "Uploaded by Sizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Wins122.lua", "https://scriptblox.com/script/NEW-Backrooms-Race-Clicker-Ez-Wins-6110")
                                 

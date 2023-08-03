@@ -1,2 +1,2 @@
 
-addscript(9017974931, "Current Game","script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script34.lua", "https://scriptblox.com/script/Valoblox-script-3685")
+addscript(9017974931, "Current Game","script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script467.lua", "https://scriptblox.com/script/Valoblox-script-3685")

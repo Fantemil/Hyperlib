@@ -1,0 +1,2 @@
+
+addscript(8436975214, "Current Game","Unlock all cars", "Uploaded by Metin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20all%20cars632.lua", "https://scriptblox.com/script/2X-CASH-Dangerous-Speeds-Unlock-all-cars-5471")

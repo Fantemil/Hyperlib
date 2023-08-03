@@ -1,0 +1,2 @@
+
+addscript(8678267493, "Current Game","high or short", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/high%20or%20short353.lua", "https://scriptblox.com/script/Difficulty-Fling-Simulator-Small-update-(beta)-Small-update-beta-4352")

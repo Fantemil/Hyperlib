@@ -1,0 +1,2 @@
+
+addscript(6242296404, "Current Game","Finish Script", "Uploaded by p1nkscriptblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finish%20Script204.lua", "https://scriptblox.com/script/Happy-Runner-Finish-Script-4634")

@@ -1,0 +1,2 @@
+
+addscript(1217895158, "Current Game","auto rank", "Uploaded by daudnasir90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20rank502.lua", "https://scriptblox.com/script/Venti-Cafe-auto-rank-5002")

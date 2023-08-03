@@ -1,2 +1,2 @@
 
-addscript(9658251985, "Current Game","SCRIPT", "Uploaded by YummyNoice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT465.lua", "https://scriptblox.com/script/The-Rake-Kill-Test-Fixed-SCRIPT-5456")
+addscript(9658251985, "Current Game","SCRIPT", "Uploaded by YummyNoice on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT406.lua", "https://scriptblox.com/script/The-Rake-Kill-Test-Fixed-SCRIPT-5456")

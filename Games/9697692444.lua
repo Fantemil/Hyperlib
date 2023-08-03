@@ -1,0 +1,2 @@
+
+addscript(9697692444, "Current Game","inf money", "Uploaded by yuuix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money314.lua", "https://scriptblox.com/script/Raise-a-Sans-BIG-UPDATE-inf-money-3704")

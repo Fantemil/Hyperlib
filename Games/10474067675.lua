@@ -1,2 +1,4 @@
 
-addscript(10474067675, "Current Game","Finish parkour", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finish%20parkour62.lua", "https://scriptblox.com/script/If-You-Fall-You-Get-Banned-(EXTREME-OBBY)-Finish-parkour-5378")
+addscript(10474067675, "Current Game","Finish parkour", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finish%20parkour735.lua", "https://scriptblox.com/script/If-You-Fall-You-Get-Banned-(EXTREME-OBBY)-Finish-parkour-like-13-level-5026")
+    addscriptexist(10474067675, "Stupid game", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stupid%20game429.lua", "https://scriptblox.com/script/If-You-Fall-You-Get-Banned-(EXTREME-OBBY)-Script-POWERFULL-ANTICHEAT-BYPASS-5035")
+                                

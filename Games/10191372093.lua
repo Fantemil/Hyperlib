@@ -1,0 +1,2 @@
+
+addscript(10191372093, "Current Game","Guillotine Tycoon Autofarm", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Guillotine%20Tycoon%20Autofarm815.lua", "https://scriptblox.com/script/Guillotine-Tycoon-Guillotine-Tycoon-Autofarm-4520")

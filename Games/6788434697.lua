@@ -1,2 +1,2 @@
 
-addscript(6788434697, "Current Game","OP GUI", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI906.lua", "https://scriptblox.com/script/AniPhobia-OP-GUI-4318")
+addscript(6788434697, "Current Game","OP GUI", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI985.lua", "https://scriptblox.com/script/AniPhobia-OP-GUI-4318")

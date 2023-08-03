@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trexxus/HOODMODDEDLOCK_UPDATED/main/lock.lua"))()

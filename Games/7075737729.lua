@@ -1,0 +1,8 @@
+
+addscript(7075737729, "Current Game","Hoop central op op script", "Uploaded by jordanisgoat0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20central%20op%20op%20script648.lua", "https://scriptblox.com/script/MEGA-UPDATE-Hoop-Central-6-Pre-Alpha-Hoop-central-op-op-script-3270")
+    addscriptexist(7075737729, "Hoop central 6 script by Kurz", "Uploaded by kenshi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20central%206%20script%20by%20Kurz462.lua", "https://scriptblox.com/script/MEGA-UPDATE-Hoop-Central-6-Pre-Alpha-Hoop-central-6-script-by-Kurz-4608")
+                                
+    addscriptexist(7075737729, "NEW Hoop Central 6 Script GUI", "Uploaded by NOT4UBRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Hoop%20Central%206%20Script%20GUI155.lua", "https://scriptblox.com/script/MEGA-UPDATE-Hoop-Central-6-Pre-Alpha-NEW-Hoop-Central-6-Script-GUI-3731")
+                                
+    addscriptexist(7075737729, "Hoop Central 6 Alpha GUI", "Uploaded by NOT4UBRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Central%206%20Alpha%20GUI7.lua", "https://scriptblox.com/script/MEGA-UPDATE-Hoop-Central-6-Pre-Alpha-Hoop-Central-6-Alpha-GUI-4034")
+                                

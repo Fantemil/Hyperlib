@@ -1,0 +1,2 @@
+
+addscript(9170761016, "Current Game","EZ", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EZ120.lua", "https://scriptblox.com/script/500K-EVENT-Magic-Clicker!-EZ-4432")

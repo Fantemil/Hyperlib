@@ -1,0 +1,2 @@
+
+addscript(7183242684, "Current Game","simulator By bboodyy on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simulator%20By%20bboodyy%20on%20v3rmillion303.lua", "https://scriptblox.com/script/UFO-Strength-Training-Simulator!-simulator-By-bboodyy-on-v3rmillion-4941")

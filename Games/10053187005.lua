@@ -1,0 +1,2 @@
+
+addscript(10053187005, "Current Game","OP Gui NOT MINE", "Uploaded by ilyyAlex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui%20NOT%20MINE836.lua", "https://scriptblox.com/script/Counter-Blox:-Reimagined-OP-Gui-4554")

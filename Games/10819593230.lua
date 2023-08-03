@@ -1,0 +1,6 @@
+
+addscript(10819593230, "Current Game","CHECK MY OTHER SCRIPT FOR THIS GAME", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHECK%20MY%20OTHER%20SCRIPT%20FOR%20THIS%20GAME81.lua", "https://scriptblox.com/script/SLICE-PVP-ALPHA-Server-Destroyer-5568")
+    addscriptexist(10819593230, "DESTROY SERVER INF HEALTH OP GUI NEW  v114", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DESTROY%20SERVER%20INF%20HEALTH%20OP%20GUI%20NEW%20%20v114938.lua", "https://scriptblox.com/script/SLICE-PVP-ALPHA-BEST-GUI-OUT-THERE-5632")
+                                
+    addscriptexist(10819593230, "Some scripts for this trash game", "Uploaded by oksghde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Some%20scripts%20for%20this%20trash%20game845.lua", "https://scriptblox.com/script/SLICE-PVP-ALPHA-Some-scripts-for-this-trash-game-5578")
+                                

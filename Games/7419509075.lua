@@ -1,0 +1,4 @@
+
+addscript(7419509075, "Current Game","gui", "Uploaded by Gumball on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui793.lua", "https://scriptblox.com/script/cart-ride-around-used-car-battery-gui-4425")
+    addscriptexist(7419509075, "cart ride around car battery script", "Uploaded by adios on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cart%20ride%20around%20car%20battery%20script129.lua", "https://scriptblox.com/script/cart-ride-around-used-car-battery-cart-ride-around-car-battery-script-5856")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DignityDC/Collect-All-Pets-AutoFarm-GUI/main/Collectallpetsui'))()

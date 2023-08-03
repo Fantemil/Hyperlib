@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vozoid/scripts/master/elemental-grind-game.lua", true))()

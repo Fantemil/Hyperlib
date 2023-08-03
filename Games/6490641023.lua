@@ -1,0 +1,2 @@
+
+addscript(6490641023, "Current Game","Autofarm", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm351.lua", "https://scriptblox.com/script/Mega-Tower-Obby-365-Stages!-Autofarm-5169")

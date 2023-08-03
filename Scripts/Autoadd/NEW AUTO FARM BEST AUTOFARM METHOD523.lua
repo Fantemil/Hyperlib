@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiseValco/scripts/main/bms.lua"))()

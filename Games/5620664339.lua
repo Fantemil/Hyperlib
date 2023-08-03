@@ -1,0 +1,6 @@
+
+addscript(5620664339, "Current Game","GUI INFINITE CASH TROLL ANTI STOMP", "Uploaded by CODE on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20INFINITE%20CASH%20TROLL%20ANTI%20STOMP696.lua", "https://scriptblox.com/script/RoStreets-ALPHA-RoStreets-GUI-INFINITE-CASH-TROLL-ANTI-STOMP-INF-ENERGY-and-GET-ALL-ITEMS-3300")
+    addscriptexist(5620664339, "INFINITE ENERGY GET ALL ITEMSDONT USE HITBOX EXTENDER  MORE", "Uploaded by Horrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20ENERGY%20GET%20ALL%20ITEMSDONT%20USE%20HITBOX%20EXTENDER%20%20MORE177.lua", "https://scriptblox.com/script/RoStreets-ALPHA-INFINITE-ENERGY-GET-ALL-ITEMS-HITBOX-EXTENDER-and-MORE!-3258")
+                                
+    addscriptexist(5620664339, "RoStreets script by Aidez on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoStreets%20script%20by%20Aidez%20on%20v3rmillion749.lua", "https://scriptblox.com/script/RoStreets-ALPHA-RoStreets-script-by-Aidez-on-v3rmillion-5046")
+                                

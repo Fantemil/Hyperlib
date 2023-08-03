@@ -1,0 +1,2 @@
+
+addscript(137877687, "Current Game","UPDATE RoCitizens GUI", "Uploaded by Empire4946 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATE%20RoCitizens%20GUI214.lua", "https://scriptblox.com/script/RoCitizens-AUTOFARM-GUI-5289")

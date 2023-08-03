@@ -1,2 +1,0 @@
-
-addscript(12359884880, "Current Game","Simple Script", "Uploaded by Eskey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script770.lua", "https://scriptblox.com/script/SUMMER!-%2B1-Speed-Race-Simple-Script-11447")

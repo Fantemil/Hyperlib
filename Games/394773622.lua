@@ -1,2 +1,2 @@
 
-addscript(394773622, "Current Game","Revenge of the slimes not mine", "Uploaded by satoson168 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Revenge%20of%20the%20slimes%20not%20mine685.lua", "https://scriptblox.com/script/REVENGE-OF-THE-SLIMES!!!-slimes-script-5185")
+addscript(394773622, "Current Game","Revenge of the slimes not mine", "Uploaded by satoson168 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Revenge%20of%20the%20slimes%20not%20mine47.lua", "https://scriptblox.com/script/REVENGE-OF-THE-SLIMES!!!-slimes-script-5185")

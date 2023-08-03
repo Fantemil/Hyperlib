@@ -1,0 +1,2 @@
+
+addscript(281489669, "Current Game","Cheat Menu", "Uploaded by 6Foot4Honda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheat%20Menu135.lua", "https://scriptblox.com/script/SPELLS-Wizard-Tycoon-2-Player-Cheat-Menu-3125")

@@ -1,2 +1,4 @@
 
-addscript(8762785110, "Current Game","HitBox Extender Synapse Only No poor people allowed", "Uploaded by Cale on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HitBox%20Extender%20Synapse%20Only%20No%20poor%20people%20allowed884.lua", "https://scriptblox.com/script/Survival-Games-Ultimate-HitBox-Extender-for-:D-3539")
+addscript(8762785110, "Current Game","Hitbox Extender", "Uploaded by Alaric on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20Extender641.lua", "https://scriptblox.com/script/Survival-Games-Ultimate-Hitbox-Extender-3435")
+    addscriptexist(8762785110, "HitBox Extender Synapse Only No poor people allowed", "Uploaded by Cale on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HitBox%20Extender%20Synapse%20Only%20No%20poor%20people%20allowed865.lua", "https://scriptblox.com/script/Survival-Games-Ultimate-HitBox-Extender-for-:D-3539")
+                                

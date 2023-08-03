@@ -1,0 +1,2 @@
+
+addscript(9199347284, "Current Game","Give badge", "Uploaded by scriptposter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20badge864.lua", "https://scriptblox.com/script/TV-Watching-Give-badge-3345")

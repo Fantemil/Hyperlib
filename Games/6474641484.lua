@@ -1,0 +1,2 @@
+
+addscript(6474641484, "Current Game","AUTOWIN", "Uploaded by lobox920 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOWIN200.lua", "https://scriptblox.com/script/Log's-Difficulty-Chart-Obby-or-NO-STOP-AUTOWIN-4791")

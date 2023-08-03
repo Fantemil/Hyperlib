@@ -1,0 +1,2 @@
+
+addscript(8705534359, "Current Game","Infinite coins", "Uploaded by Femboyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20coins914.lua", "https://scriptblox.com/script/Shopping-Cart-Simulator!-Infinite-coins-5131")

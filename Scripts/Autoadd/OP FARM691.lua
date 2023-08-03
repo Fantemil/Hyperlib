@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/itzRolf/Utilities/main/Ninja%20Training%20Simulator/main.lua")()

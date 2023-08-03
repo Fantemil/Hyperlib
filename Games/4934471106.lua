@@ -1,0 +1,2 @@
+
+addscript(4934471106, "Current Game","My", "Uploaded by alot6060 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My725.lua", "https://scriptblox.com/script/CODEMy-Hero-Mania-My-3152")

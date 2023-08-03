@@ -1,2 +1,2 @@
 
-addscript(9787091365, "Current Game","Balloon Hub l made by Redawesome7", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balloon%20Hub%20l%20made%20by%20Redawesome7556.lua", "https://scriptblox.com/script/V1.1-Ninja-Storm-simulator-Balloon-Hub-l-made-by-Redawesome7-6069")
+addscript(9787091365, "Current Game","Balloon Hub l made by Redawesome7", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Balloon%20Hub%20l%20made%20by%20Redawesome7383.lua", "https://scriptblox.com/script/V1.1-Ninja-Storm-simulator-Balloon-Hub-l-made-by-Redawesome7-6069")

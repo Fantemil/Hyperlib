@@ -1,0 +1,2 @@
+
+addscript(413424176, "Current Game","Infinite Cash I think", "Uploaded by Chig_Bungus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20I%20think658.lua", "https://scriptblox.com/script/Clone-Tycoon-2-Infinite-Cash-(I-think)-3100")

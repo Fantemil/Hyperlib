@@ -1,0 +1,2 @@
+
+addscript(8950974597, "Current Game","Auto Farm and Auto Collect Orbs", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Collect%20Orbs752.lua", "https://scriptblox.com/script/UPD-2!-Anime-Speed-Simulator-Auto-Farm-and-Auto-Collect-Orbs-4404")

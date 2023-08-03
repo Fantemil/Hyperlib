@@ -1,0 +1,2 @@
+
+addscript(5023820864, "Current Game","Trade Tower GUI", "Uploaded by RBLX_File on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Tower%20GUI975.lua", "https://scriptblox.com/script/BUNDLES-%2B-NEW-YEARS-Trade-Tower-Trade-Tower-GUI-5406")

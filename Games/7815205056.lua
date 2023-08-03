@@ -1,0 +1,2 @@
+
+addscript(7815205056, "Current Game","Legacy Engine", "Uploaded by LeanNBud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legacy%20Engine714.lua", "https://scriptblox.com/script/Budokai-Alpha-v.55-SALE!!-Legacy-Engine-4236")

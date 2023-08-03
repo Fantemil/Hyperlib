@@ -1,2 +1,2 @@
 
-addscript(5783581, "Current Game","TPS Script bc why not", "Uploaded by Daxx3rScriptsLOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Script%20bc%20why%20not843.lua", "https://scriptblox.com/script/TPS:-Ultimate-Soccer-TPS-Script-bc-why-not-5748")
+addscript(5783581, "Current Game","TPS Script bc why not", "Uploaded by Daxx3rScriptsLOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20Script%20bc%20why%20not163.lua", "https://scriptblox.com/script/TPS:-Ultimate-Soccer-TPS-Script-bc-why-not-5748")

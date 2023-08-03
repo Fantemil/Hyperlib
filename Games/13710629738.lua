@@ -1,0 +1,2 @@
+
+addscript(13710629738, "Current Game","All Morphs and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Morphs%20and%20more236.lua", "https://scriptblox.com/script/TEAM-ALIEN-OBBY!-(TEAMWORK-OBBY)-All-Morphs-and-more-6615")

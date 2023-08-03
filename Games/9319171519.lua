@@ -1,0 +1,2 @@
+
+addscript(9319171519, "Current Game","Auto Win Script", "Uploaded by pepes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Script994.lua", "https://scriptblox.com/script/Bridge-Run-Auto-Win-Script-5556")

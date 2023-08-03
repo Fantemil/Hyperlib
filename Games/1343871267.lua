@@ -1,0 +1,4 @@
+
+addscript(1343871267, "Current Game","REOPENED FMR GUI From the creator of AFD and FMR scriptinfinite yield Context in description", "Uploaded by RandomUser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REOPENED%20FMR%20GUI%20From%20the%20creator%20of%20AFD%20and%20FMR%20scriptinfinite%20yield%20Context%20in%20description179.lua", "https://scriptblox.com/script/GLAMROCK-FREDDY!!!-Fredbear's-Mega-Roleplay-REOPENED!-FMR-GUI-3762")
+    addscriptexist(1343871267, "Small GUI for this game", "Uploaded by person_with_wifi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Small%20GUI%20for%20this%20game559.lua", "https://scriptblox.com/script/GLAMROCK-FREDDY!!!-Fredbear's-Mega-Roleplay-Small-GUI-for-this-game-5768")
+                                

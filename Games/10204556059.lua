@@ -1,0 +1,2 @@
+
+addscript(10204556059, "Current Game","event script", "Uploaded by RandomPerson on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/event%20script688.lua", "https://scriptblox.com/script/NARS-Color-Quest-event-script-4295")

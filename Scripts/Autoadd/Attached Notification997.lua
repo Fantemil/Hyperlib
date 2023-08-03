@@ -1,0 +1,1 @@
+game:GetService("StarterGui"):SetCore("SendNotification", {Title = "Attached", Text = "Attached! Ready to execute!", Duration = 5})

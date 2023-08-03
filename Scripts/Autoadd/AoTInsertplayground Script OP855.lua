@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/KirbleSensei/3244138266fcd097ad2b3e8973f6a900/raw/e71f6ac0d09146a93f3665f4721911f8b0c5772e/AoT%2520GUI%2520Obfuscated.lua"))()

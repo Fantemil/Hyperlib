@@ -1,0 +1,2 @@
+
+addscript(8491627378, "Current Game","Script", "Uploaded by amogusreal63 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script420.lua", "https://scriptblox.com/script/(2x-Wins-%2B-1.18)Monkey-Sans-an-the-Door-Script-4119")

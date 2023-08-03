@@ -1,0 +1,2 @@
+
+addscript(4983006874, "Current Game","Script", "Uploaded by sqpeedyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script423.lua", "https://scriptblox.com/script/NGU-CLICKER-SIMULATOR-Script-6073")

@@ -1,0 +1,2 @@
+
+addscript(10261818242, "Current Game","Auto Sell and OBBY finish", "Uploaded by Mauling on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Sell%20and%20OBBY%20finish969.lua", "https://scriptblox.com/script/Donut-Factory-Tycoon-Auto-Sell-and-OBBY-finish-6096")

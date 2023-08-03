@@ -1,0 +1,2 @@
+
+addscript(6808416928, "Current Game","SILENT AIM", "Uploaded by CODE on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SILENT%20AIM824.lua", "https://scriptblox.com/script/NEW-ZONE-Aimblox-BETA-SILENT-AIM-3301")

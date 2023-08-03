@@ -1,2 +1,2 @@
 
-addscript(8511615377, "Current Game","Gui Script", "Uploaded by 1UpBunny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20Script264.lua", "https://scriptblox.com/script/Panik-HALLOWEEN!-Gui-Script-6046")
+addscript(8511615377, "Current Game","Gui Script", "Uploaded by 1UpBunny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20Script316.lua", "https://scriptblox.com/script/Panik-HALLOWEEN!-Gui-Script-6046")

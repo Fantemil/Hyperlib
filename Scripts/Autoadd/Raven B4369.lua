@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://gist.githubusercontent.com/goinglikeatrainlol/c2821be2dda4beb4c2b8c5f237ee2921/raw/374c8fc7951eb477140519c8bbd0a607c86d3c30/Raven%2520B4"))()

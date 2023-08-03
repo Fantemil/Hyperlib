@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ImMejor35/cracked/main/Pog%20Hub.cracked'))()

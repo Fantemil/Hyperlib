@@ -1,2 +1,4 @@
 
-addscript(9701909530, "Current Game","Free Legendary Fruit", "Uploaded by Luni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Legendary%20Fruit569.lua", "https://scriptblox.com/script/Top-Piece-UPDATE-Free-Legendary-Fruit-3462")
+addscript(9701909530, "Current Game","Free Legendary Fruit", "Uploaded by Luni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Legendary%20Fruit449.lua", "https://scriptblox.com/script/Top-Piece-UPDATE-Free-Legendary-Fruit-3462")
+    addscriptexist(9701909530, "GIVE ALL LEGENDARY FRUIT  One makes the server slow if you wanna be trolling ", "Uploaded by Luni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GIVE%20ALL%20LEGENDARY%20FRUIT%20%20One%20makes%20the%20server%20slow%20if%20you%20wanna%20be%20trolling%20396.lua", "https://scriptblox.com/script/Top-Piece-TORI-GIVE-ALL-LEGENDARY-FRUIT-or-One-makes-the-server-slow-if-you-wanna-be-trolling-greater:)-3675")
+                                

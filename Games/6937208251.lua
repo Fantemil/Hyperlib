@@ -1,0 +1,2 @@
+
+addscript(6937208251, "Current Game","VADER Star Wars Battleground Script", "Uploaded by crykidz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VADER%20Star%20Wars%20Battleground%20Script174.lua", "https://scriptblox.com/script/VADER-Star-Wars:-Battleground-*Script*-4265")

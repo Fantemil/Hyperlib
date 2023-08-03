@@ -1,0 +1,2 @@
+
+addscript(9771703133, "Current Game","Infinite CashMoney", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20CashMoney650.lua", "https://scriptblox.com/script/Raised-By-Floppa-Infinite-CashMoney-3873")

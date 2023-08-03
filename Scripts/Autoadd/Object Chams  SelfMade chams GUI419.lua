@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jar3d1337/Scripts/main/Object%20Chams", true))()

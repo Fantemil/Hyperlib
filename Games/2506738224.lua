@@ -1,0 +1,2 @@
+
+addscript(2506738224, "Current Game","Anti Cheat Bypass", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Cheat%20Bypass361.lua", "https://scriptblox.com/script/Fallen-(FIXED!)-Anti-Cheat-Bypass-5200")

@@ -1,2 +1,2 @@
 
-addscript(6048230437, "Current Game","op", "Uploaded by goofygoober24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op343.lua", "https://scriptblox.com/script/(ANCIENT-SHRINE)-Crawl-ALPHA-op-6492")
+addscript(6048230437, "Current Game","op", "Uploaded by goofygoober24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op892.lua", "https://scriptblox.com/script/(ANCIENT-SHRINE)-Crawl-ALPHA-op-6492")

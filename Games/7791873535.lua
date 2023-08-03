@@ -1,0 +1,2 @@
+
+addscript(7791873535, "Current Game","inf money", "Uploaded by Globe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money282.lua", "https://scriptblox.com/script/REALISTIC-HOOD-inf-money-3196")

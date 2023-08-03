@@ -1,0 +1,4 @@
+
+addscript(6742735263, "Current Game","Summon TNT on players PATCHED", "Uploaded by CoconutMother9000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Summon%20TNT%20on%20players%20PATCHED165.lua", "https://scriptblox.com/script/Blast-Battles-Summon-TNT-on-players-3766")
+    addscriptexist(6742735263, "Crash server spam players spectate", "Uploaded by Exxen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crash%20server%20spam%20players%20spectate509.lua", "https://scriptblox.com/script/Blast-Battles-Crash-server-spam-players-spectate-3916")
+                                

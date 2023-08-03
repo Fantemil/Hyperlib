@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NUTellaVING/Scriptblox/main/01AWS.lua"))()

@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").RemoteObjects.DanceGameCash:FireServer(100000000)

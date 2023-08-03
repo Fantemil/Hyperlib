@@ -1,0 +1,4 @@
+
+addscript(5857759558, "Current Game","INF Wheel SpinFast Lvl up auto pick up coinsgems Eggs Teleportion", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Wheel%20SpinFast%20Lvl%20up%20auto%20pick%20up%20coinsgems%20Eggs%20Teleportion766.lua", "https://scriptblox.com/script/Sword-Masters-Simulator-Fast-Lvl-up-auto-pick-up-coinsgems-Eggs-Teleportion-3422")
+    addscriptexist(5857759558, "AutoFarm Mobs", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Mobs884.lua", "https://scriptblox.com/script/Sword-Masters-Simulator-AutoFarm-Mobs-3420")
+                                

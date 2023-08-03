@@ -1,2 +1,2 @@
 
-addscript(394846350, "Current Game","Jump Simulator AutoFarm", "Uploaded by tjjj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Simulator%20AutoFarm716.lua", "https://scriptblox.com/script/Jump-Simulator-AutoFarm-5453")
+addscript(394846350, "Current Game","Jump Simulator AutoFarm", "Uploaded by tjjj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jump%20Simulator%20AutoFarm994.lua", "https://scriptblox.com/script/Jump-Simulator-AutoFarm-5453")

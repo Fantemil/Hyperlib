@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Aidez/untitled_melee_game/main/main_script'),true))()

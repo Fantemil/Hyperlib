@@ -1,0 +1,2 @@
+
+addscript(2569453732, "Current Game","Gui", "Uploaded by Piece on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui147.lua", "https://scriptblox.com/script/Nukes-Rise-of-Nations-Gui-6195")

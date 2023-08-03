@@ -1,2 +1,4 @@
 
-addscript(4851363266, "Current Game","Boxed Hub MyPark", "Uploaded by tyreseathisdeepestd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxed%20Hub%20MyPark386.lua", "https://scriptblox.com/script/MyPark-Testing-Phase-2-Boxed-Hub-MyPark-5977")
+addscript(4851363266, "Current Game","Boxed Hub MyPark", "Uploaded by tyreseathisdeepestd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boxed%20Hub%20MyPark336.lua", "https://scriptblox.com/script/MyPark-Testing-Phase-2-Boxed-Hub-MyPark-5977")
+    addscriptexist(4851363266, "MyPark Testing Phase 2 GUI", "Uploaded by NOT4UBRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MyPark%20Testing%20Phase%202%20GUI641.lua", "https://scriptblox.com/script/MyPark-Testing-Phase-2-MyPark-Testing-Phase-2-GUI-3733")
+                                

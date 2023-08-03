@@ -1,2 +1,2 @@
 
-addscript(3432786397, "Current Game","Harked SS", "Uploaded by rosethiaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harked%20SS653.lua", "https://scriptblox.com/script/Pet-Mining-Simulator-Harked-SS-5364")
+addscript(3432786397, "Current Game","Harked SS", "Uploaded by rosethiaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harked%20SS634.lua", "https://scriptblox.com/script/Pet-Mining-Simulator-Harked-SS-5364")

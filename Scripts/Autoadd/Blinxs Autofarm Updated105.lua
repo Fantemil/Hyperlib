@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/blinx-co/CobaltV2/main/Scripts/ClickingMadness.lua', true))()

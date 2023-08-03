@@ -1,2 +1,2 @@
 
-addscript(10243005569, "Current Game","spawner print only works in the linked game", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/spawner%20print%20only%20works%20in%20the%20linked%20game778.lua", "https://scriptblox.com/script/Custom-BGS-Pet-Hatching-Simulator-spawner-(print-only-works-in-the-linked-game!)-4216")
+addscript(10243005569, "Current Game","spawner print only works in the linked game", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/spawner%20print%20only%20works%20in%20the%20linked%20game70.lua", "https://scriptblox.com/script/Custom-BGS-Pet-Hatching-Simulator-spawner-(print-only-works-in-the-linked-game!)-4216")

@@ -1,0 +1,2 @@
+
+addscript(9819654737, "Current Game","Open Source GUI", "Uploaded by d1vine_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20GUI550.lua", "https://scriptblox.com/script/Raise-A-Sonic-CYBERTRUCK-Open-Source-GUI-4343")

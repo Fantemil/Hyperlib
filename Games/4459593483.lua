@@ -1,0 +1,2 @@
+
+addscript(4459593483, "Current Game","Open Source Ore and Ingredient farm teleports etc", "Uploaded by Keybrew on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20Ore%20and%20Ingredient%20farm%20teleports%20etc660.lua", "https://scriptblox.com/script/FORCE-PRE-ALPHA-Open-Source-Ore-and-Ingredient-farm-teleports-etc-3595")

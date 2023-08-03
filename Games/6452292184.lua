@@ -1,0 +1,2 @@
+
+addscript(6452292184, "Current Game","auto farm", "Uploaded by KR4SK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm929.lua", "https://scriptblox.com/script/Speed-Runner!-auto-farm-5368")

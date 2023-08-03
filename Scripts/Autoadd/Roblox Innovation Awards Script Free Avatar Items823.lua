@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jeux45/Innovation_Awards/main/Script", true))()

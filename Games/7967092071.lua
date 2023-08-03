@@ -1,0 +1,2 @@
+
+addscript(7967092071, "Current Game","Auto Type Answers", "Uploaded by ComplexSlayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Type%20Answers534.lua", "https://scriptblox.com/script/Guess-the-Emoji-Auto-Type-Answers-3440")

@@ -1,0 +1,2 @@
+
+addscript(1458767429, "Current Game","Anime Battle Arena", "Uploaded by Z9G3B on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Battle%20Arena380.lua", "https://scriptblox.com/script/MASHandGUTS-ABA-Anime-Battle-Arena-3765")

@@ -1,2 +1,4 @@
 
-addscript(6717367660, "Current Game","Script  INFINITE MONEY  SERVERSIDED", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20INFINITE%20MONEY%20%20SERVERSIDED944.lua", "https://scriptblox.com/script/Happy-Land-Script-or-INFINITE-MONEY-SERVERSIDED-3396")
+addscript(6717367660, "Current Game","Infinite money script", "Uploaded by oWDev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money%20script733.lua", "https://scriptblox.com/script/Happy-Land-Infinite-money-script-3388")
+    addscriptexist(6717367660, "Script  INFINITE MONEY  SERVERSIDED", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20INFINITE%20MONEY%20%20SERVERSIDED764.lua", "https://scriptblox.com/script/Happy-Land-Script-or-INFINITE-MONEY-SERVERSIDED-3396")
+                                

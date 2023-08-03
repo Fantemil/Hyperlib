@@ -1,0 +1,2 @@
+
+addscript(5307215810, "Current Game","infinite ammo", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20ammo596.lua", "https://scriptblox.com/script/Randomizer-(V.0.2.1d)-infinite-ammo-4908")

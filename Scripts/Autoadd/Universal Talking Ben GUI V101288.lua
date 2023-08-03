@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scowscripts/scowsscripts/main/ben%3F/Script", true))()

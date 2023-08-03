@@ -1,0 +1,2 @@
+
+addscript(8321875194, "Current Game","Epic Gui", "Uploaded by BIox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Epic%20Gui363.lua", "https://scriptblox.com/script/Rocket-Ragdoll-Epic-Gui-4855")

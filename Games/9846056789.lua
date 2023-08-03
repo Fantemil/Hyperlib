@@ -1,0 +1,2 @@
+
+addscript(9846056789, "Current Game","Pls  AntiAfk", "Uploaded by uzee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20%20AntiAfk555.lua", "https://scriptblox.com/script/BLOCK-DROP-PLS-STEAL-(AntiAfk)-4088")

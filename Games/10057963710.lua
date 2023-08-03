@@ -1,0 +1,2 @@
+
+addscript(10057963710, "Current Game","complete the event", "Uploaded by LEO004 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/complete%20the%20event602.lua", "https://scriptblox.com/script/George-Ezra's-Gold-Rush-Kid-Experience-complete-the-event-4463")

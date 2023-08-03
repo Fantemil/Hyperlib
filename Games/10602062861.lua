@@ -1,2 +1,2 @@
 
-addscript(10602062861, "Current Game","Autofarm everything", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20everything473.lua", "https://scriptblox.com/script/Amazon-Trip-Around-the-Blox-Autofarm-everything-6308")
+addscript(10602062861, "Current Game","Autofarm everything", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20everything657.lua", "https://scriptblox.com/script/Amazon-Trip-Around-the-Blox-Autofarm-everything-6308")

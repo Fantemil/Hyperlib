@@ -1,0 +1,2 @@
+
+addscript(7211666966, "Current Game","Farming", "Uploaded by Nadir_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming116.lua", "https://scriptblox.com/script/Tower-of-Jump-FREE-HALOS-Farming-3134")

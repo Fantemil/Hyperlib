@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/castycheat/cb-r-script/main/Protected%20(21).lua"))()

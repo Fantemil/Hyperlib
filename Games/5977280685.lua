@@ -1,0 +1,2 @@
+
+addscript(5977280685, "Current Game","AutoSwing For", "Uploaded by nareddysamhith20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSwing%20For920.lua", "https://scriptblox.com/script/Ninja-Legends-2-AutoSwing-For-3448")

@@ -1,1 +1,0 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Cranium1214/TOO-EZ/main/loader.lua'),true))()

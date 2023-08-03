@@ -1,0 +1,4 @@
+
+addscript(7397915958, "Current Game","Old universl admin panel", "Uploaded by amcoolguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20universl%20admin%20panel10.lua", "https://scriptblox.com/script/100x-%2B-FREE-ZENITHOld-A-Universal-Time-Old-universl-dmin-pnel-5420")
+    addscriptexist(7397915958, "scare script", "Uploaded by _______ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/scare%20script838.lua", "https://scriptblox.com/script/100x-%2B-FREE-ZENITHOld-A-Universal-Time-scre-script-4785")
+                                

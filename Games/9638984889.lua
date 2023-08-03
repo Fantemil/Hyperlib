@@ -1,0 +1,2 @@
+
+addscript(9638984889, "Current Game","Go outside and rob the bank Inf cash", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Go%20outside%20and%20rob%20the%20bank%20Inf%20cash244.lua", "https://scriptblox.com/script/Deserted-Resturaunt-UPD-Go-outside-and-rob-the-bank-(Inf-cash)-3239")

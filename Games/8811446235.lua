@@ -1,2 +1,4 @@
 
-addscript(8811446235, "Current Game","FORT BLOX OP SCRIPT", "Uploaded by Turi_ip_ip_ip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORT%20BLOX%20OP%20SCRIPT891.lua", "https://scriptblox.com/script/MAP-UPDATE!-Fortblox-FORT-BLOX-OP-SCRIPT-6130")
+addscript(8811446235, "Current Game","FORT BLOX OP SCRIPT", "Uploaded by Turi_ip_ip_ip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORT%20BLOX%20OP%20SCRIPT299.lua", "https://scriptblox.com/script/MAP-UPDATE!-Fortblox-FORT-BLOX-OP-SCRIPT-6130")
+    addscriptexist(8811446235, "FORTBLOX ADMIN LOOT TP", "Uploaded by D1SCIPLE on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FORTBLOX%20ADMIN%20LOOT%20TP901.lua", "https://scriptblox.com/script/MAP-UPDATE!-Fortblox-FORTBLOX-ADMIN-LOOT-TP-4374")
+                                

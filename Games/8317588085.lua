@@ -1,0 +1,2 @@
+
+addscript(8317588085, "Current Game","Script not mine", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20not%20mine702.lua", "https://scriptblox.com/script/Block-Tycoon-BERRIES-Script-not-mine-4886")

@@ -1,0 +1,4 @@
+
+addscript(9926433554, "Current Game","Inf Money", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money823.lua", "https://scriptblox.com/script/Blast-Mining-Simulator-Inf-Money-4625")
+    addscriptexist(9926433554, "NEW AUTO FARM BEST AUTOFARM METHOD", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20AUTO%20FARM%20BEST%20AUTOFARM%20METHOD523.lua", "https://scriptblox.com/script/Blast-Mining-Simulator-Auto-Farm-Script-4629")
+                                

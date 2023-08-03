@@ -1,2 +1,2 @@
 
-addscript(9447079542, "Current Game","project mugetsu spin", "Uploaded by cilginlarulkesi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/project%20mugetsu%20spin771.lua", "https://scriptblox.com/script/UPDATE-1-PM-project-mugetsu-spin-6594")
+addscript(9447079542, "Current Game","project mugetsu spin", "Uploaded by cilginlarulkesi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/project%20mugetsu%20spin311.lua", "https://scriptblox.com/script/UPDATE-1-PM-project-mugetsu-spin-6594")

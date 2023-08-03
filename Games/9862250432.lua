@@ -1,2 +1,2 @@
 
-addscript(9862250432, "Current Game","Nation RP", "Uploaded by Parcero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nation%20RP385.lua", "https://scriptblox.com/script/Nations-Roleplay-2-Nation-RP-6545")
+addscript(9862250432, "Current Game","Nation RP", "Uploaded by Parcero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nation%20RP73.lua", "https://scriptblox.com/script/Nations-Roleplay-2-Nation-RP-6545")

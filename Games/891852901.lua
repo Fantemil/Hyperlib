@@ -1,2 +1,4 @@
 
-addscript(891852901, "Current Game","OP AUTOFARM AND MORE FIBER HUB", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20AND%20MORE%20FIBER%20HUB728.lua", "https://scriptblox.com/script/Greenville-OP-AUTOFARM-AND-MORE-FIBER-HUB-11576")
+addscript(891852901, "Current Game","HexHub GV", "Uploaded by okrblx1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HexHub%20GV678.lua", "https://scriptblox.com/script/(NEW-APARTMENTS-CARS-%2B-More!)-Greenville-HexHub-Suite-4702")
+    addscriptexist(891852901, "GreenVille CAR MODIFICATION", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GreenVille%20CAR%20MODIFICATION936.lua", "https://scriptblox.com/script/Greenville-CAR-MODIFICATION-4203")
+                                

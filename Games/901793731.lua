@@ -1,0 +1,2 @@
+
+addscript(901793731, "Current Game","DDay Script", "Uploaded by Fliqpy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DDay%20Script112.lua", "https://scriptblox.com/script/D-DAY-DDay-Script-4267")

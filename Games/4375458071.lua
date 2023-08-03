@@ -1,0 +1,2 @@
+
+addscript(4375458071, "Current Game","elemental grind game", "Uploaded by llcrazylordllpc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/elemental%20grind%20game388.lua", "https://scriptblox.com/script/Elemental-Grind-Game-elemental-grind-game-3426")

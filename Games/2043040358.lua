@@ -1,0 +1,2 @@
+
+addscript(2043040358, "Current Game","autofarms PATCHED  ill update once the game isnt dead anymore", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarms%20PATCHED%20%20ill%20update%20once%20the%20game%20isnt%20dead%20anymore823.lua", "https://scriptblox.com/script/Vyyrahk-City-PUBLIC-RELEASE!-a-few-auto-farms-ill-add-more-when-i-bother-3906")

@@ -1,0 +1,2 @@
+
+addscript(10861112990, "Current Game","Infinite coins but open source", "Uploaded by artallodoingstuff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20coins%20but%20open%20source514.lua", "https://scriptblox.com/script/Update-Anime-Artifacts-Simulator-2-Infinite-coins-but-open-source-5979")

@@ -1,0 +1,2 @@
+
+addscript(9519765175, "Current Game","Strong Grinders 2 FIXED", "Uploaded by azicity23 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strong%20Grinders%202%20FIXED195.lua", "https://scriptblox.com/script/Update4-Strength-Grinders-2-Grinder-3629")

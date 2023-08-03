@@ -1,0 +1,2 @@
+
+addscript(9120036461, "Current Game","Infinite money", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money141.lua", "https://scriptblox.com/script/Simple-Basketball-Infinite-money-5199")

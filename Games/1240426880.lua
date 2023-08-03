@@ -1,0 +1,2 @@
+
+addscript(1240426880, "Current Game","Auto Money Collector", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Money%20Collector72.lua", "https://scriptblox.com/script/Home-Tycoon-2.0-CARS-Auto-Money-Collector-3145")

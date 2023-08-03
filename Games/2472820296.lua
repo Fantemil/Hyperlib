@@ -1,0 +1,2 @@
+
+addscript(2472820296, "Current Game","roblox ultimate lifting simulator op script", "Uploaded by pichie2012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20ultimate%20lifting%20simulator%20op%20script377.lua", "https://scriptblox.com/script/2X-LIFT!-Ultimate-Lifting-Simulator-roblox-op-script-5832")

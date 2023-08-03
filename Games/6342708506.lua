@@ -1,0 +1,2 @@
+
+addscript(6342708506, "Current Game","Mass dm", "Uploaded by TheCrazyInsanity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20dm627.lua", "https://scriptblox.com/script/Roblox-Chat-Simulator-2-Mass-dm-3990")

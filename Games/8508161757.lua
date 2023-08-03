@@ -1,2 +1,6 @@
 
-addscript(8508161757, "Current Game","Sorta Infinite Money", "Uploaded by Gumball on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sorta%20Infinite%20Money795.lua", "https://scriptblox.com/script/Raise-an-Albert-(PRIVATE-MULTIPLAYER!)-another-inf-money-script-3276")
+addscript(8508161757, "Current Game","Raise An Albert Script  INFINITE MONEY", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20An%20Albert%20Script%20%20INFINITE%20MONEY176.lua", "https://scriptblox.com/script/Raise-an-Albert-(PRIVATE-MULTIPLAYER!)-Raise-An-Albert-Script-or-INFINITE-MONEY-3311")
+    addscriptexist(8508161757, "Infinite money", "Uploaded by Femboyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money885.lua", "https://scriptblox.com/script/Raise-an-Albert-(PRIVATE-MULTIPLAYER!)-Infinite-money-5130")
+                                
+    addscriptexist(8508161757, "Sorta Infinite Money", "Uploaded by Gumball on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sorta%20Infinite%20Money524.lua", "https://scriptblox.com/script/Raise-an-Albert-(PRIVATE-MULTIPLAYER!)-another-inf-money-script-3276")
+                                

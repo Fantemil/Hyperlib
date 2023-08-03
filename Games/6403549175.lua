@@ -1,2 +1,2 @@
 
-addscript(6403549175, "Current Game","Inf Gems DONT USEPatched", "Uploaded by TheKingWhoNeverDie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Gems%20DONT%20USEPatched824.lua", "https://scriptblox.com/script/Plane-Shooter-Inf-Gems-6458")
+addscript(6403549175, "Current Game","Inf Gems DONT USEPatched", "Uploaded by TheKingWhoNeverDie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Gems%20DONT%20USEPatched235.lua", "https://scriptblox.com/script/Plane-Shooter-Inf-Gems-6458")

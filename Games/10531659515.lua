@@ -1,0 +1,2 @@
+
+addscript(10531659515, "Current Game","Shovel Battles OP GUI", "Uploaded by TalkGravity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shovel%20Battles%20OP%20GUI821.lua", "https://scriptblox.com/script/Shovel-Battles-REVAMP-SOON...-Shovel-Battles-OP-GUI-5870")

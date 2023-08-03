@@ -1,0 +1,2 @@
+
+addscript(9635904979, "Current Game","Collect all", "Uploaded by pepes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all607.lua", "https://scriptblox.com/script/BADGES-SOON-Find-The-Sonic-Morphs-155-Collect-all-5524")

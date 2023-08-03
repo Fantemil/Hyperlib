@@ -1,0 +1,4 @@
+
+addscript(9704893711, "Current Game","infinite money", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20money950.lua", "https://scriptblox.com/script/10B-Event-%2B-Free-Zombie-Animation-Dha-Hood-infinite-money-5290")
+    addscriptexist(9704893711, "inf money", "Uploaded by skietaps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money587.lua", "https://scriptblox.com/script/10B-Event-%2B-Free-Zombie-Animation-Dha-Hood-inf-money-5147")
+                                

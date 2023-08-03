@@ -1,0 +1,2 @@
+
+addscript(3764370335, "Current Game","Get all food", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20food891.lua", "https://scriptblox.com/script/Grow-A-Brick-Get-ll-food-4878")

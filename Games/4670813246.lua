@@ -1,0 +1,2 @@
+
+addscript(4670813246, "Current Game","Item Enlarger", "Uploaded by ReWriter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Enlarger479.lua", "https://scriptblox.com/script/Hole-Simulator-Script-3546")

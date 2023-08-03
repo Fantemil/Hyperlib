@@ -1,2 +1,0 @@
-
-addscript(6075270490, "Current Game","Complete All Levels", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Complete%20All%20Levels924.lua", "https://scriptblox.com/script/Teamwork-Puzzles-Complete-All-Levels-12196")

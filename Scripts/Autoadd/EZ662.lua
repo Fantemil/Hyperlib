@@ -1,1 +1,0 @@
-loadstring(game:HttpGet"https://raw.githubusercontent.com/itzRolf/Utilities/main/Eating%20Simulator/main.lua")()

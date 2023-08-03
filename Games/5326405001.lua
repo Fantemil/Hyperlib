@@ -1,2 +1,4 @@
 
-addscript(5326405001, "Current Game","Base Battles Script FIXED by serpex on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Script%20FIXED%20by%20serpex%20on%20v3rmillion108.lua", "https://scriptblox.com/script/UPDATE-Base-Battles-Base-Battles-Script-FIXED-by-serpex-on-v3rmillion-5368")
+addscript(5326405001, "Current Game","Base Battles Script FIXED by serpex on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20Battles%20Script%20FIXED%20by%20serpex%20on%20v3rmillion447.lua", "https://scriptblox.com/script/UPDATE-Base-Battles-Base-Battles-Script-FIXED-by-serpex-on-v3rmillion-5368")
+    addscriptexist(5326405001, "Base battles script by Serpex on v3rmillion", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Base%20battles%20script%20by%20Serpex%20on%20v3rmillion112.lua", "https://scriptblox.com/script/UPDATE-Base-Battles-Base-battles-script-by-Serpex-on-v3rmillion-5338")
+                                

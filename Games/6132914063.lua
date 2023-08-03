@@ -1,2 +1,2 @@
 
-addscript(6132914063, "Current Game","lol script might crash server idk", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lol%20script%20might%20crash%20server%20idk305.lua", "https://scriptblox.com/script/Shortcut-Obby-lol-script-might-crash-server-idk-3793")
+addscript(6132914063, "Current Game","lol script might crash server idk", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lol%20script%20might%20crash%20server%20idk175.lua", "https://scriptblox.com/script/Shortcut-Obby-lol-script-might-crash-server-idk-3793")

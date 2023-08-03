@@ -1,0 +1,2 @@
+
+addscript(5683833663, "Current Game","OP Script", "Uploaded by Pro_scripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script775.lua", "https://scriptblox.com/script/Ragdoll-Engine-OP-Script-4043")

@@ -1,1 +1,0 @@
- loadstring(game:HttpGet('https://raw.githubusercontent.com/RaCc0oN1/RobloxObf/main/MainHub'))()

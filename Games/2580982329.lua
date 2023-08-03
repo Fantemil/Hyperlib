@@ -1,0 +1,2 @@
+
+addscript(2580982329, "Current Game","Random Autofarm", "Uploaded by zebforsus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20Autofarm956.lua", "https://scriptblox.com/script/UPDATETexting-Simulator-Random-Autofarm-5259")

@@ -1,0 +1,2 @@
+
+addscript(2984072291, "Current Game","Zombie Stories  Silent Aim  ESP", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zombie%20Stories%20%20Silent%20Aim%20%20ESP374.lua", "https://scriptblox.com/script/Zombie-Stories-Silent-Aim-and-ESP-4187")

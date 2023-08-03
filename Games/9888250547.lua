@@ -1,0 +1,2 @@
+
+addscript(9888250547, "Current Game","VoidScripts Z", "Uploaded by VoidSkids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VoidScripts%20Z754.lua", "https://scriptblox.com/script/Strong-Simulator-Z-VoidScripts-Sim-4786")

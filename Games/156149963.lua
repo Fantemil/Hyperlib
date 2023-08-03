@@ -1,0 +1,2 @@
+
+addscript(156149963, "Current Game","cras1h the whole game script", "Uploaded by SMUG_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cras1h%20the%20whole%20game%20script992.lua", "https://scriptblox.com/script/Car-Crash-Simulator-UPDATE-16.6-all-servers-script-5902")

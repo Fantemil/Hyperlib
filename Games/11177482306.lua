@@ -1,0 +1,2 @@
+
+addscript(11177482306, "Current Game","OP Autofarm", "Uploaded by lobox920 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm803.lua", "https://scriptblox.com/script/Streetz-War-COMEBACK!-OP-Autofarm-6397")

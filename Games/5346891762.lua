@@ -1,0 +1,2 @@
+
+addscript(5346891762, "Current Game","bridge worm HD admin", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bridge%20worm%20HD%20admin111.lua", "https://scriptblox.com/script/or-Bridge-Worm-or-bridge-worm-HD-admin-4220")

@@ -1,0 +1,2 @@
+
+addscript(7491927311, "Current Game","Anticheat bypass", "Uploaded by e621 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheat%20bypass643.lua", "https://scriptblox.com/script/SKINS-Undertale-Test-Place-Reborn-Anticheat-bypass-4153")

@@ -1,0 +1,2 @@
+
+addscript(9500891570, "Current Game","LizardHub V1", "Uploaded by Lizard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LizardHub%20V1803.lua", "https://scriptblox.com/script/Admin-guns!-(35)-LizardHub-V1-3164")

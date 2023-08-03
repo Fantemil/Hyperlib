@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uzu01/script/main/AnimeAdventures2.lua"))()

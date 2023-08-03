@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scowscripts/scowsscripts/main/TDS_PlaceAnything/Script", true))()

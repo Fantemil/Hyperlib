@@ -1,2 +1,2 @@
 
-addscript(2041312716, "Current Game","REAL GAME IS BACK", "Uploaded by GoldenCheats on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REAL%20GAME%20IS%20BACK156.lua", "https://scriptblox.com/script/Ragdoll-Engine:-Legacy-REAL-ENGINE-IS-BACK-5957")
+addscript(2041312716, "Current Game","REAL GAME IS BACK", "Uploaded by GoldenCheats on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REAL%20GAME%20IS%20BACK52.lua", "https://scriptblox.com/script/Ragdoll-Engine:-Legacy-REAL-ENGINE-IS-BACK-5957")

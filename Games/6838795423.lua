@@ -1,0 +1,2 @@
+
+addscript(6838795423, "Current Game","auto buy for another player we will delete later ok guys", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20buy%20for%20another%20player%20we%20will%20delete%20later%20ok%20guys665.lua", "https://scriptblox.com/script/Warm-Isolation-auto-buy-for-another-player-5574")

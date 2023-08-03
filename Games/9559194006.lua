@@ -1,2 +1,2 @@
 
-addscript(9559194006, "Current Game","Place Rose On All Graves", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Place%20Rose%20On%20All%20Graves830.lua", "https://scriptblox.com/script/social-experiment-Place-Rose-On-All-Graves-4423")
+addscript(9559194006, "Current Game","Place Rose On All Graves", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Place%20Rose%20On%20All%20Graves60.lua", "https://scriptblox.com/script/social-experiment-Place-Rose-On-All-Graves-4423")

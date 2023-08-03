@@ -1,0 +1,2 @@
+
+addscript(696347899, "Current Game","Autofarm GUI", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20GUI417.lua", "https://scriptblox.com/script/V1.9-Stepford-County-Railway-Autofarm-GUI-5068")

@@ -1,0 +1,2 @@
+
+addscript(8308074824, "Current Game","Infinite Stats", "Uploaded by sirgavingraham on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stats98.lua", "https://scriptblox.com/script/Arms-Strong-Meme-Piece-Infinite-Stats-6406")

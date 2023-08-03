@@ -1,0 +1,2 @@
+
+addscript(6329844902, "Current Game","Ocean Hub Raging Seas Script", "Uploaded by teres on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ocean%20Hub%20Raging%20Seas%20Script444.lua", "https://scriptblox.com/script/Last-Pirates-Ocean-Hub-3983")

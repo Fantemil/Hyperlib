@@ -1,0 +1,2 @@
+
+addscript(6681032961, "Current Game","Infinite Money", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money953.lua", "https://scriptblox.com/script/Museum-Tycoon-Infinite-Money-5119")

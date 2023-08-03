@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/iHavoc101/Miscellaneous-Releases/main/CRIMINAL%20VS%20SWAT.lua"))()

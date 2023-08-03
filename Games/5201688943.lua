@@ -1,0 +1,2 @@
+
+addscript(5201688943, "Current Game","op gui", "Uploaded by skietaps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20gui879.lua", "https://scriptblox.com/script/Da-hood-aim-op-gui-5149")

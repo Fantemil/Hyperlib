@@ -1,0 +1,2 @@
+
+addscript(10447882390, "Current Game","autofarm by xDuky", "Uploaded by ImAnSkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20by%20xDuky392.lua", "https://scriptblox.com/script/NEW!-Zombie-Research-Tycoon-autofarm-by-xDuky-4924")

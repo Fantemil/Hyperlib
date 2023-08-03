@@ -1,2 +1,2 @@
 
-addscript(7863262550, "Current Game","OP GET ALL WEAPONS AND MORE", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GET%20ALL%20WEAPONS%20AND%20MORE139.lua", "https://scriptblox.com/script/Fort-Blox-OP-GET-ALL-WEAPONS-AND-MOR-5053")
+addscript(7863262550, "Current Game","OP GET ALL WEAPONS AND MORE", "Uploaded by Rtxyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GET%20ALL%20WEAPONS%20AND%20MORE869.lua", "https://scriptblox.com/script/Fort-Blox-OP-GET-ALL-WEAPONS-AND-MOR-5053")

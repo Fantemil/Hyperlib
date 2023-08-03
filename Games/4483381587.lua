@@ -1,2 +1,4 @@
 
-addscript(4483381587, "Current Game","Dummy Spawner", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dummy%20Spawner827.lua", "https://scriptblox.com/script/a-literal-baseplate.-Dummy-Spwner-4785")
+addscript(4483381587, "Current Game","anti afk script for every game", "Uploaded by Tokyo2k2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20afk%20script%20for%20every%20game710.lua", "https://scriptblox.com/script/a-literal-baseplate.-nti-fk-script-for-every-gme-4311")
+    addscriptexist(4483381587, "Dummy Spawner", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dummy%20Spawner304.lua", "https://scriptblox.com/script/a-literal-baseplate.-Dummy-Spwner-4785")
+                                

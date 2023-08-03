@@ -1,2 +1,2 @@
 
-addscript(10492810428, "Current Game","auto stuff", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20stuff213.lua", "https://scriptblox.com/script/PRESTIGES!-Toy-Empire-Tycoon-auto-stuff-5591")
+addscript(10492810428, "Current Game","auto stuff", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20stuff373.lua", "https://scriptblox.com/script/PRESTIGES!-Toy-Empire-Tycoon-auto-stuff-5591")

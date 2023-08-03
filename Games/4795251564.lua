@@ -1,0 +1,2 @@
+
+addscript(4795251564, "Current Game","my friend wants me to upload his script", "Uploaded by AXDWT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/my%20friend%20wants%20me%20to%20upload%20his%20script215.lua", "https://scriptblox.com/script/BUILDBlocks!-my-friend-wants-me-to-upload-his-script-4079")

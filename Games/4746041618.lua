@@ -1,0 +1,2 @@
+
+addscript(4746041618, "Current Game","Esp", "Uploaded by albertasus888 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp668.lua", "https://scriptblox.com/script/Steel-Titans-(Beta-2.2.5)-Esp-5161")

@@ -1,2 +1,2 @@
 
-addscript(2561448528, "Current Game","Inf Cash OP", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Cash%20OP372.lua", "https://scriptblox.com/script/Your-Local-Mechanic-Inf-Cash-OP-6266")
+addscript(2561448528, "Current Game","Inf Cash OP", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Cash%20OP247.lua", "https://scriptblox.com/script/Your-Local-Mechanic-Inf-Cash-OP-6266")

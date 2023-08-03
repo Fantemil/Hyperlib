@@ -1,0 +1,2 @@
+
+addscript(9677464361, "Current Game","Basketball Pro Simulator  Script  FIXED", "Uploaded by joelgibson12342 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basketball%20Pro%20Simulator%20%20Script%20%20FIXED111.lua", "https://scriptblox.com/script/NEW-Basketball-Pro-Simulator-Script-3419")

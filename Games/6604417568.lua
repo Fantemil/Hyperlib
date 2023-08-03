@@ -1,2 +1,4 @@
 
-addscript(6604417568, "Current Game","Free XRay Gamepass OPEN SOURCE", "Uploaded by Ali_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20XRay%20Gamepass%20OPEN%20SOURCE191.lua", "https://scriptblox.com/script/Minerscave-1.3-Free-XRay-Gamepass-OPEN-SOURCE-3728")
+addscript(6604417568, "Current Game","Free XRay Gamepass OPEN SOURCE", "Uploaded by Ali_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20XRay%20Gamepass%20OPEN%20SOURCE929.lua", "https://scriptblox.com/script/Minerscave-1.3-Free-XRay-Gamepass-OPEN-SOURCE-3728")
+    addscriptexist(6604417568, "Kill Aura Anti Fall Damage", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Anti%20Fall%20Damage624.lua", "https://scriptblox.com/script/Minerscave-1.3-Kill-Aura-Anti-Fall-Damage-3359")
+                                

@@ -1,0 +1,2 @@
+
+addscript(3840352284, "Current Game","Inf Stamina", "Uploaded by Miya_AtsumuXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stamina894.lua", "https://scriptblox.com/script/Volleyball-4.2-Inf-Stamina-6535")

@@ -1,0 +1,2 @@
+
+addscript(2577040780, "Current Game","GUI", "Uploaded by bop_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI772.lua", "https://scriptblox.com/script/Eviction-Notice-GUI-5450")

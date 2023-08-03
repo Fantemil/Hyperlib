@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/juNstring/cracks/main/TinyTask%20Hub/loader.lua"))()

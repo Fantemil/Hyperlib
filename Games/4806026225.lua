@@ -1,2 +1,2 @@
 
-addscript(4806026225, "Current Game","Script AntiAFK Autofarm MOB MULTIPLIE", "Uploaded by kjumelive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20AntiAFK%20Autofarm%20MOB%20MULTIPLIE803.lua", "https://scriptblox.com/script/Defender's-Depot-Tower-Defense-Script-AntiAFK-Autofarm-MOB-MULTIPLIE-4019")
+addscript(4806026225, "Current Game","Script AntiAFK Autofarm MOB MULTIPLIE", "Uploaded by kjumelive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20AntiAFK%20Autofarm%20MOB%20MULTIPLIE491.lua", "https://scriptblox.com/script/Defender's-Depot-Tower-Defense-Script-AntiAFK-Autofarm-MOB-MULTIPLIE-4019")

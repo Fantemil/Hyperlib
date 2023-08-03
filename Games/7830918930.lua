@@ -1,0 +1,2 @@
+
+addscript(7830918930, "Current Game","SRM Hub  Collect All Letters Collect Gems Tp to Finish", "Uploaded by Bebedi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SRM%20Hub%20%20Collect%20All%20Letters%20Collect%20Gems%20Tp%20to%20Finish613.lua", "https://scriptblox.com/script/Gucci-Town-SRM-Hub-oror-Collect-All-Letters-Collect-Gems-Tp-to-Finish-3266")

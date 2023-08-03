@@ -1,0 +1,2 @@
+
+addscript(10570021130, "Current Game","PIZZA AUTOFARM", "Uploaded by lobox920 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PIZZA%20AUTOFARM201.lua", "https://scriptblox.com/script/London-New-Journey-PIZZA-AUTOFARM-4928")

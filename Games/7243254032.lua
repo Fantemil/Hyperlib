@@ -1,2 +1,2 @@
 
-addscript(7243254032, "Current Game","script", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script861.lua", "https://scriptblox.com/script/Bloody-Baseplate-script-6048")
+addscript(7243254032, "Current Game","script", "Uploaded by AggressiveDude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script39.lua", "https://scriptblox.com/script/Bloody-Baseplate-script-6048")

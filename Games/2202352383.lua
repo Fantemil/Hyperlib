@@ -1,0 +1,4 @@
+
+addscript(2202352383, "Current Game","SPTS", "Uploaded by arafalnahian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPTS551.lua", "https://scriptblox.com/script/Super-Power-Training-Simulator-SPTS-3600")
+    addscriptexist(2202352383, " Super Power Training Simulator", "Uploaded by maxkakkad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Super%20Power%20Training%20Simulator78.lua", "https://scriptblox.com/script/Super-Power-Training-Simulator-Super-Power-Training-Simulator-3738")
+                                

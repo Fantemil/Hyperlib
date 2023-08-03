@@ -1,2 +1,2 @@
 
-addscript(8376378000, "Current Game","collect 75 check desc for more info", "Uploaded by Infleter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/collect%2075%20check%20desc%20for%20more%20info348.lua", "https://scriptblox.com/script/VOLCANO-Find-the-Stickmen-(96)-collect-75-check-desc-for-more-info-5578")
+addscript(8376378000, "Current Game","collect 75 check desc for more info", "Uploaded by Infleter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/collect%2075%20check%20desc%20for%20more%20info886.lua", "https://scriptblox.com/script/VOLCANO-Find-the-Stickmen-(96)-collect-75-check-desc-for-more-info-5578")

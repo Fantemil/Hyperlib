@@ -1,0 +1,2 @@
+
+addscript(1405116413, "Current Game","Simulator Auto farm", "Uploaded by LEO004 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simulator%20Auto%20farm433.lua", "https://scriptblox.com/script/Pirate-Simulator!-Simulator-Auto-farm-4509")

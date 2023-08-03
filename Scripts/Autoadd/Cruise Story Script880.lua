@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lx-vy/Cruise-Story-GUI/main/Source"))()

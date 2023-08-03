@@ -1,0 +1,2 @@
+
+addscript(5841008297, "Current Game","No Blindness No First Person View  No Max Zoom Distance", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Blindness%20No%20First%20Person%20View%20%20No%20Max%20Zoom%20Distance84.lua", "https://scriptblox.com/script/Obby-BUT-random-event-happens-every-5-seconds-No-Blindness-No-First-Person-View-No-Max-Zoom-Distance-3931")

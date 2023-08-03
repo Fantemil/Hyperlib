@@ -1,0 +1,2 @@
+
+addscript(8377686524, "Current Game","Cool script is not my", "Uploaded by Pro85 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20script%20is%20not%20my1.lua", "https://scriptblox.com/script/ERUPT-BALLISTIC-FIXED-Undertale:-Last-Reset-Cool-script-is-not-my-3123")

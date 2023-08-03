@@ -1,0 +1,2 @@
+
+addscript(9927535243, "Current Game","auto mine auto sell yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20mine%20auto%20sell%20yes406.lua", "https://scriptblox.com/script/UPD3-Miner's-Galore-Simulator-auto-mine-auto-sell-yes-4693")

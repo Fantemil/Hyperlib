@@ -1,0 +1,2 @@
+
+addscript(7441104257, "Current Game","op scripts", "Uploaded by Guelgamesbr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20scripts192.lua", "https://scriptblox.com/script/Rickey-Rat-CHAPTER-3-op-scripts-4716")

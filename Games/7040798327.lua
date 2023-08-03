@@ -1,0 +1,4 @@
+
+addscript(7040798327, "Current Game","Script Brookhaven ZOMBIE", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Brookhaven%20ZOMBIE544.lua", "https://scriptblox.com/script/PETS!BrookhavenRP-Zombie-Invasion-Script-brookheaven-4232")
+    addscriptexist(7040798327, "fixed this guys script", "Uploaded by Ali_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fixed%20this%20guys%20script941.lua", "https://scriptblox.com/script/PETS!BrookhavenRP-Zombie-Invasion-fixed-this-guy's-script-4242")
+                                

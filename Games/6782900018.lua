@@ -1,0 +1,2 @@
+
+addscript(6782900018, "Current Game","moony fe hub", "Uploaded by ihateniggers on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/moony%20fe%20hub41.lua", "https://scriptblox.com/script/Everygame!-moony-fe-hub-3143")

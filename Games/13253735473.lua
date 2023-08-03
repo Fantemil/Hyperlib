@@ -1,12 +1,8 @@
 
-addscript(13253735473, "Current Game","Updated Astral pro LEGIT", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20Astral%20pro%20LEGIT238.lua", "https://scriptblox.com/script/Trident-Survival-V2-Updated-Astral-pro-LEGIT-12177")
-    addscriptexist(13253735473, "Just hitbox and esp", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20hitbox%20and%20esp31.lua", "https://scriptblox.com/script/Trident-Survival-V2-Just-hitbox-and-esp-11504")
+addscript(13253735473, "Current Game","Actor bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actor%20bypass254.lua", "https://scriptblox.com/script/Trident-Survival-V2-Actor-bypass-6589")
+    addscriptexist(13253735473, "FREE and PAID Float ", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20and%20PAID%20Float%20855.lua", "https://scriptblox.com/script/Trident-Survival-V2-FREE-and-PAID-Float-*****-6595")
                                 
-    addscriptexist(13253735473, "Bypass update", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypass%20update843.lua", "https://scriptblox.com/script/Trident-Survival-V2-Bypass-update-11862")
+    addscriptexist(13253735473, "Astral pro Crack", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Astral%20pro%20Crack38.lua", "https://scriptblox.com/script/Trident-Survival-V2-Astral-pro-Crack-6591")
                                 
-    addscriptexist(13253735473, "Leaked i found in discord", "Uploaded by yoyoyoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leaked%20i%20found%20in%20discord9.lua", "https://scriptblox.com/script/Trident-Survival-V2-Leaked-i-found-in-discord-11313")
-                                
-    addscriptexist(13253735473, "Actor bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actor%20bypass979.lua", "https://scriptblox.com/script/Trident-Survival-V2-Actor-bypass-6589")
-                                
-    addscriptexist(13253735473, "FREE and PAID Float ", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20and%20PAID%20Float%20276.lua", "https://scriptblox.com/script/Trident-Survival-V2-FREE-and-PAID-Float-*****-6595")
+    addscriptexist(13253735473, "Karma wtf use actor bypass to work", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Karma%20wtf%20use%20actor%20bypass%20to%20work430.lua", "https://scriptblox.com/script/Trident-Survival-V2-Karma-wtf-use-actor-bypass-to-work-6587")
                                 

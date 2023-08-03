@@ -1,0 +1,2 @@
+
+addscript(10541365934, "Current Game","Auto Farm and Auto Sell APPLES AND BANANAS", "Uploaded by pepes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Sell%20APPLES%20AND%20BANANAS783.lua", "https://scriptblox.com/script/Alex's-Backyard-Farming-Simulator-Pet-fusion-Auto-Farm-and-Auto-Sell-APPLES-AND-BANANAS-5598")

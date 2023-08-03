@@ -1,2 +1,2 @@
 
-addscript(9157605735, "Current Game","Cmds op script", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cmds%20op%20script521.lua", "https://scriptblox.com/script/MiscGunTest:X-(NEW-UPDATE)-Cmds-op-script-5023")
+addscript(9157605735, "Current Game","Cmds op script", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cmds%20op%20script40.lua", "https://scriptblox.com/script/MiscGunTest:X-(NEW-UPDATE)-Cmds-op-script-5023")

@@ -1,2 +1,2 @@
 
-addscript(3678761576, "Current Game","Script", "Uploaded by moughazihind on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script926.lua", "https://scriptblox.com/script/EASTERN-FRONT-ENTRENCHED-WW1-ALPHA-Script-6577")
+addscript(3678761576, "Current Game","Script", "Uploaded by moughazihind on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script686.lua", "https://scriptblox.com/script/EASTERN-FRONT-ENTRENCHED-WW1-ALPHA-Script-6577")

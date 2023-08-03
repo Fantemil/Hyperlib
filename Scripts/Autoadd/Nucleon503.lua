@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zywuss/NucleonPublic/main/Script.lua", true))()

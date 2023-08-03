@@ -1,0 +1,2 @@
+
+addscript(9565884687, "Current Game","Power Clicker Simular Autofarm Script", "Uploaded by exsicybis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Power%20Clicker%20Simular%20Autofarm%20Script796.lua", "https://scriptblox.com/script/(Hacker-Event)-Power-Clicker-Simular!-Simular-Autofarm-Script-3564")

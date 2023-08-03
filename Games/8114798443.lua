@@ -1,0 +1,2 @@
+
+addscript(8114798443, "Current Game","Sim Script", "Uploaded by skietaps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sim%20Script56.lua", "https://scriptblox.com/script/Webman-Simulator-Sim-Script-4934")

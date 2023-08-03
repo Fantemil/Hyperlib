@@ -1,0 +1,2 @@
+
+addscript(4855457388, "Current Game","Demon Fall Script", "Uploaded by itselvinxd3950 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Fall%20Script903.lua", "https://scriptblox.com/script/Demonfall-2.65-Demon-Fall-Script-6131")

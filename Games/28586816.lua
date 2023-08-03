@@ -1,0 +1,2 @@
+
+addscript(28586816, "Current Game","Autofarm points and level", "Uploaded by Foreverekk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20points%20and%20level614.lua", "https://scriptblox.com/script/Get-Eaten!-Autofarm-points-and-level-5770")

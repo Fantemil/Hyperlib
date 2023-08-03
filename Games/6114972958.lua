@@ -1,0 +1,2 @@
+
+addscript(6114972958, "Current Game","NEW BEST SCRIPT", "Uploaded by Nuker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20BEST%20SCRIPT101.lua", "https://scriptblox.com/script/Initial-D:-Touge-Legends-LEGACY-NEW-BEST-SCRIPT-5059")

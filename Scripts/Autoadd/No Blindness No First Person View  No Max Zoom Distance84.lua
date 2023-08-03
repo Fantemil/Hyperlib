@@ -1,0 +1,1 @@
+if(game.Players.LocalPlayer.PlayerGui:FindFirstChild('Blind')) then game.Players.LocalPlayer.PlayerGui.Blind:Destroy()end spawn(function()while true do wait()game.Players.LocalPlayer.CameraMaxZoomDistance=math.huge game.Players.LocalPlayer.CameraMinZoomDistance=0 end end)

@@ -1,0 +1,2 @@
+
+addscript(7243949835, "Current Game","JYDY FULLBRIGHT", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JYDY%20FULLBRIGHT500.lua", "https://scriptblox.com/script/JUDY-FULLBRIGHT-4354")

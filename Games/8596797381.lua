@@ -1,2 +1,2 @@
 
-addscript(8596797381, "Current Game","GUI", "Uploaded by NOT4UBRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI47.lua", "https://scriptblox.com/script/Northside-Chicago-GUI-6577")
+addscript(8596797381, "Current Game","GUI", "Uploaded by NOT4UBRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI641.lua", "https://scriptblox.com/script/Northside-Chicago-GUI-6577")

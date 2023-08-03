@@ -1,0 +1,1 @@
+game.ReplicatedStorage.addXP:FireServer(5000)

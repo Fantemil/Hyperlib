@@ -1,2 +1,0 @@
-
-addscript(10919241870, "Current Game","auto orb collect", "Uploaded by scab on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20orb%20collect477.lua", "https://scriptblox.com/script/EXPANSION!-Rarity-Factory-Tycoon-auto-orb-collect-11896")

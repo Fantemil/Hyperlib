@@ -1,0 +1,2 @@
+
+addscript(1535701761, "Current Game","script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script993.lua", "https://scriptblox.com/script/The-Clown-Killings-Reborn-NEW-MAPS!-script-3592")

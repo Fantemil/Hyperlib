@@ -1,4 +1,4 @@
 
-addscript(4499822233, "Current Game","Easy Inf Money Lol", "Uploaded by amradham503 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Inf%20Money%20Lol129.lua", "https://scriptblox.com/script/Star-Wars-Bounty-Hunters:-Outer-Rim-ALPHA-Easy-Inf-Money-Lol-6382")
-    addscriptexist(4499822233, "Kill All inf money", "Uploaded by Alleexxii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20inf%20money729.lua", "https://scriptblox.com/script/Star-Wars-Bounty-Hunters:-Outer-Rim-ALPHA-Kill-All-inf-money-4790")
+addscript(4499822233, "Current Game","Easy Inf Money Lol", "Uploaded by amradham503 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Inf%20Money%20Lol629.lua", "https://scriptblox.com/script/Star-Wars-Bounty-Hunters:-Outer-Rim-ALPHA-Easy-Inf-Money-Lol-6382")
+    addscriptexist(4499822233, "Kill All inf money", "Uploaded by Alleexxii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20inf%20money590.lua", "https://scriptblox.com/script/Star-Wars-Bounty-Hunters:-Outer-Rim-ALPHA-Kill-All-inf-money-4790")
                                 

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Deez-Nuts445/Noob-s-Script-Hub-GUI/main/src.lua"))()

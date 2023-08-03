@@ -1,0 +1,2 @@
+
+addscript(4710186309, "Current Game","Anti cheat bypass UPDATE", "Uploaded by CoconutMother9000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20cheat%20bypass%20UPDATE697.lua", "https://scriptblox.com/script/SOLAR-ABILITY-Slap-Battles:-Killstreak-Simulator-Anti-cheat-bypass-4921")

@@ -1,0 +1,2 @@
+
+addscript(9396463375, "Current Game","Infinite Vouchers and Coins", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Vouchers%20and%20Coins952.lua", "https://scriptblox.com/script/PETS!-Mining-Empire-Infinite-Vouchers-and-Coins-3934")

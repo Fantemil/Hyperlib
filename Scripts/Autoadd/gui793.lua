@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SchollerScripts/simple-gui-scripts/main/cart-ride-around-used-car-battery.lua", true))()

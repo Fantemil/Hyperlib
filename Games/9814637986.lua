@@ -1,2 +1,2 @@
 
-addscript(9814637986, "Current Game","Admin Panel", "Uploaded by TheUnusualUsername on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel530.lua", "https://scriptblox.com/script/Slap-Battles:-Average-FanMade-DISCONTINUED!-Admin-Panel-5751")
+addscript(9814637986, "Current Game","Admin Panel", "Uploaded by TheUnusualUsername on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel59.lua", "https://scriptblox.com/script/Slap-Battles:-Average-FanMade-DISCONTINUED!-Admin-Panel-5751")

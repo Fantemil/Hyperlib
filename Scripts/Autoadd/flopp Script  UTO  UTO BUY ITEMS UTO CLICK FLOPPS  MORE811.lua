@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zzerexx/scripts/main/Games/raise_a_floppa_2.lua"))()

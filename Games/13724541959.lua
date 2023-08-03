@@ -1,2 +1,0 @@
-
-addscript(13724541959, "Current Game","Yeat Hub", "Uploaded by vernyfx666 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yeat%20Hub686.lua", "https://scriptblox.com/script/NEW-Anime-World-Yeat-Hub-11573")

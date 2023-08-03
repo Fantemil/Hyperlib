@@ -1,0 +1,2 @@
+
+addscript(10646916820, "Current Game","Clicks Forever OP", "Uploaded by Ishi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicks%20Forever%20OP763.lua", "https://scriptblox.com/script/Muscle-Race-Clicker-Clicks-Forever-OP-6094")

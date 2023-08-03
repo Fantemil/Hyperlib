@@ -1,0 +1,2 @@
+
+addscript(8592703594, "Current Game","ADMIN KICK ALL  INFINITE STATS", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADMIN%20KICK%20ALL%20%20INFINITE%20STATS58.lua", "https://scriptblox.com/script/(Balance-Update)-Undertale-:-Unexplained-Anomalies-Kick-All-5053")

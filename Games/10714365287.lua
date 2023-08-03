@@ -1,0 +1,2 @@
+
+addscript(10714365287, "Current Game","Gui Script Keyless", "Uploaded by King_Shmuck on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20Script%20Keyless543.lua", "https://scriptblox.com/script/UPD1-Anime-Race-Clicker-Gui-Script-Keyless-6489")

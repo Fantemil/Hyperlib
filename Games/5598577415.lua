@@ -1,2 +1,0 @@
-
-addscript(5598577415, "Current Game","TOO EZ Hub", "Uploaded by Cranium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TOO%20EZ%20Hub898.lua", "https://scriptblox.com/script/FREE-PET-Frog-Simulator-TOO-EZ-Hub-10758")

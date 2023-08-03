@@ -1,2 +1,0 @@
-
-addscript(12067094710, "Current Game","event items", "Uploaded by EgyBestBuddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/event%20items357.lua", "https://scriptblox.com/script/Pancake-Empire-Tower-Tycoon-event-items-11101")

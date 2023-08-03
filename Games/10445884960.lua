@@ -1,0 +1,2 @@
+
+addscript(10445884960, "Current Game","free sounds", "Uploaded by Itz505 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20sounds190.lua", "https://scriptblox.com/script/(Update)I-Show-Speed-Dance-free-sounds-4876")

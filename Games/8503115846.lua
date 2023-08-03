@@ -1,2 +1,0 @@
-
-addscript(8503115846, "Current Game","Infinite Spin n Reveal Route and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Spin%20n%20Reveal%20Route%20and%20more67.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge!-(Squid-Game)-Infinite-Spin-n-Reveal-Route-and-more-11862")

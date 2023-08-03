@@ -1,0 +1,2 @@
+
+addscript(7261493042, "Current Game","another path revealing script", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/another%20path%20revealing%20script805.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-another-path-revealing-script-3686")

@@ -1,0 +1,2 @@
+
+addscript(9555732501, "Current Game","nfs autofarmteleport any training area", "Uploaded by daksdiciple on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nfs%20autofarmteleport%20any%20training%20area722.lua", "https://scriptblox.com/script/Nen-Fighting-Simulator-sim-autofarmteleport-any-training-area-3554")

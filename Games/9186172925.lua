@@ -1,0 +1,2 @@
+
+addscript(9186172925, "Current Game","Admin panel", "Uploaded by oksghde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20panel741.lua", "https://scriptblox.com/script/The-Rake-Remastered-Kill-Test-!!!ADMIN-PANEL!!!-3602")

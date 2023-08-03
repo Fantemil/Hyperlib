@@ -1,0 +1,2 @@
+
+addscript(9529019408, "Current Game","ROBLOX AUTO OPEN", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX%20AUTO%20OPEN988.lua", "https://scriptblox.com/script/UPDATE-5!-Zombie-Army-Simulator-ROBLOX-AUTO-OPEN-4438")

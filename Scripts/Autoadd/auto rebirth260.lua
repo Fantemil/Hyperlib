@@ -1,5 +1,12 @@
---just a simple script, btw if you change true to false it wont do sh
-_G.AutoReb = true
-    while _G.AutoReb == true do wait()
-    game:GetService("ReplicatedStorage").Package.Events.reb:InvokeServer()
+local RunService = game:GetService("RunService")
+_G.yes = true
+local speedyboi
+function Ez()
+if _G.yes == true then
+game:GetService("ReplicatedStorage").GlobalFunctions.AddPlayerSpeed:FireServer(9e999, 0)
+game:GetService("ReplicatedStorage").GlobalFunctions.RebirthPlayerCallFromClient:FireServer()
+else
+   speedyboi:Disconnect()
 end
+end
+speedyboi = RunService.Heartbeat:Connect(Ez)

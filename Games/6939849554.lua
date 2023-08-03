@@ -1,2 +1,2 @@
 
-addscript(6939849554, "Current Game","auto obby", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20obby776.lua", "https://scriptblox.com/script/Cart-Ride-Tycoon-thru-a-Cave-2-auto-obby-5213")
+addscript(6939849554, "Current Game","auto obby", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20obby760.lua", "https://scriptblox.com/script/Cart-Ride-Tycoon-thru-a-Cave-2-auto-obby-5213")

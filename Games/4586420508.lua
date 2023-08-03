@@ -1,0 +1,2 @@
+
+addscript(4586420508, "Current Game","Noxu Hub", "Uploaded by NoxuScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noxu%20Hub939.lua", "https://scriptblox.com/script/Speed-Simulator-Noxu:-Hub-3762")

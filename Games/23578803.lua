@@ -1,2 +1,2 @@
 
-addscript(23578803, "Current Game","Easy Money Lol", "Uploaded by amradham503 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Money%20Lol295.lua", "https://scriptblox.com/script/Hotel-Elephant-Easy-Money-Lol-6297")
+addscript(23578803, "Current Game","Easy Money Lol", "Uploaded by amradham503 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Money%20Lol841.lua", "https://scriptblox.com/script/Hotel-Elephant-Easy-Money-Lol-6297")

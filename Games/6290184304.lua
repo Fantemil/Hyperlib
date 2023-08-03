@@ -1,2 +1,2 @@
 
-addscript(6290184304, "Current Game","my pxt shop Infinite Cash NOT MINE", "Uploaded by frm410 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/my%20pxt%20shop%20Infinite%20Cash%20NOT%20MINE603.lua", "https://scriptblox.com/script/NEW!-My-Pet-Shop-Tycoon-Pxt-Infinite-Cash-NOT-MINE-4372")
+addscript(6290184304, "Current Game","my pxt shop Infinite Cash NOT MINE", "Uploaded by frm410 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/my%20pxt%20shop%20Infinite%20Cash%20NOT%20MINE92.lua", "https://scriptblox.com/script/NEW!-My-Pet-Shop-Tycoon-Pxt-Infinite-Cash-NOT-MINE-4372")

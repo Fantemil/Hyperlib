@@ -1,2 +1,8 @@
 
-addscript(6938803436, "Current Game","OP Anime dimensions script", "Uploaded by Ulti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Anime%20dimensions%20script218.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-OP-Anime-dimensions-script-6279")
+addscript(6938803436, "Current Game","OP Anime dimensions script", "Uploaded by Ulti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Anime%20dimensions%20script557.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-OP-Anime-dimensions-script-6279")
+    addscriptexist(6938803436, "autofarm", "Uploaded by Xai_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm343.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-autofarm-6278")
+                                
+    addscriptexist(6938803436, "Anime Dimensions Simulator Script  AUTO PLAY AUTO SKILLS TELEPORT  MORE", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Dimensions%20Simulator%20Script%20%20AUTO%20PLAY%20AUTO%20SKILLS%20TELEPORT%20%20MORE617.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-Anime-Dimensions-Simulator-Script-or-AUTO-PLAY-AUTO-SKILLS-TELEPORT-and-MORE!-3323")
+                                
+    addscriptexist(6938803436, "ADS Script gui", "Uploaded by YOU_CEF on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADS%20Script%20gui942.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-ADS-Script-gui-3874")
+                                

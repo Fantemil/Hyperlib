@@ -1,1 +1,0 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Amenteshades/alsscript/main/animelegendsim.lua", true))()

@@ -1,2 +1,2 @@
 
-addscript(233727153, "Current Game","AutoPlay  FIXED", "Uploaded by Risimiya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoPlay%20%20FIXED605.lua", "https://scriptblox.com/script/Piano-Keyboard-v1.1-AutoPlay-3653")
+addscript(233727153, "Current Game","AutoPlay  FIXED", "Uploaded by Risimiya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoPlay%20%20FIXED27.lua", "https://scriptblox.com/script/Piano-Keyboard-v1.1-AutoPlay-3653")

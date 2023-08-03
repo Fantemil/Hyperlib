@@ -1,6 +1,6 @@
 
-addscript(8130299583, "Current Game","Trident Survival", "Uploaded by Xany on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival968.lua", "https://scriptblox.com/script/Trident-Survival-Trident-Survival-5594")
-    addscriptexist(8130299583, "Aimbot ESP Fast Break BEST GUI", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20ESP%20Fast%20Break%20BEST%20GUI534.lua", "https://scriptblox.com/script/Trident-Survival-Aimbot-ESP-Fast-Break-BEST-GUI-5649")
+addscript(8130299583, "Current Game","Aimbot ESP Fast Break BEST GUI", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20ESP%20Fast%20Break%20BEST%20GUI291.lua", "https://scriptblox.com/script/Trident-Survival-Aimbot-ESP-Fast-Break-BEST-GUI-5649")
+    addscriptexist(8130299583, "OP GUI  Aimbot Silent Aim ESP Free Cam Noclip and MORE", "Uploaded by HamstaGang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20%20Aimbot%20Silent%20Aim%20ESP%20Free%20Cam%20Noclip%20and%20MORE626.lua", "https://scriptblox.com/script/Trident-Survival-GUI-5546")
                                 
-    addscriptexist(8130299583, "OP GUI  Aimbot Silent Aim ESP Free Cam Noclip and MORE", "Uploaded by HamstaGang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20%20Aimbot%20Silent%20Aim%20ESP%20Free%20Cam%20Noclip%20and%20MORE215.lua", "https://scriptblox.com/script/Trident-Survival-GUI-5546")
+    addscriptexist(8130299583, "Trident Survival", "Uploaded by Xany on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trident%20Survival263.lua", "https://scriptblox.com/script/Trident-Survival-Trident-Survival-5594")
                                 

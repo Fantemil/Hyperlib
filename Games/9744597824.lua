@@ -1,2 +1,2 @@
 
-addscript(9744597824, "Current Game","Anime Game OP SCRIPT READ DESC", "Uploaded by Leechy_Exploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Game%20OP%20SCRIPT%20READ%20DESC465.lua", "https://scriptblox.com/script/UPD-2-Sea-Piece-Anime-Game-OP-SCRIPT-READ-DESC-4750")
+addscript(9744597824, "Current Game","Anime Game OP SCRIPT READ DESC", "Uploaded by Leechy_Exploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Game%20OP%20SCRIPT%20READ%20DESC682.lua", "https://scriptblox.com/script/UPD-2-Sea-Piece-Anime-Game-OP-SCRIPT-READ-DESC-4750")

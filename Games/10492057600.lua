@@ -1,0 +1,2 @@
+
+addscript(10492057600, "Current Game","DISCONTINUED", "Uploaded by Mr_Nuts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DISCONTINUED797.lua", "https://scriptblox.com/script/raise-a-silly-cat-******-script-5302")

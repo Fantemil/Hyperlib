@@ -1,0 +1,2 @@
+
+addscript(5991163185, "Current Game","Spray Paint  Falseban Players Method", "Uploaded by garfieldcatto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spray%20Paint%20%20Falseban%20Players%20Method349.lua", "https://scriptblox.com/script/(SEWER)-Spray-Paint!-Spray-Paint-or-Falseban-Players-Method-3732")

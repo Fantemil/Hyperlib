@@ -1,2 +1,0 @@
-
-addscript(11872917490, "Current Game","Item Webhook", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Webhook725.lua", "https://scriptblox.com/script/Fabled-Legacy!-Item-Webhook-11785")

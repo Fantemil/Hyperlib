@@ -1,0 +1,2 @@
+
+addscript(6551809638, "Current Game","very quick auto farm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20quick%20auto%20farm%20yes953.lua", "https://scriptblox.com/script/Farming-Adventures!-(UPDATE)-very-quick-auto-farm-yes-4310")

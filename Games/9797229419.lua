@@ -1,0 +1,4 @@
+
+addscript(9797229419, "Current Game","Festival Tycoon Buy All Buttons", "Uploaded by kooggy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Festival%20Tycoon%20Buy%20All%20Buttons327.lua", "https://scriptblox.com/script/BETA-Festival-Tycoon!-Festival-Tycoon-Buy-All-Buttons-5569")
+    addscriptexist(9797229419, "MMA GUI", "Uploaded by MMAKINGDOM on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MMA%20GUI358.lua", "https://scriptblox.com/script/BETA-Festival-Tycoon!-MMA-GUI-5558")
+                                

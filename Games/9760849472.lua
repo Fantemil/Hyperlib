@@ -1,0 +1,2 @@
+
+addscript(9760849472, "Current Game","UFO Speed  UFO Hight  Auto Crate  Auto Egg", "Uploaded by liam3566 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UFO%20Speed%20%20UFO%20Hight%20%20Auto%20Crate%20%20Auto%20Egg885.lua", "https://scriptblox.com/script/UPDATE-UFO-Universe-X-3459")

@@ -1,0 +1,2 @@
+
+addscript(5965591336, "Current Game","INFINITE BOOST", "Uploaded by Horrid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20BOOST618.lua", "https://scriptblox.com/script/FIXED-Soul-War-INFINITE-BOOST-3257")

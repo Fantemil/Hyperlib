@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fortniteisveryepic/dhm/main/crimskid%20free"))()

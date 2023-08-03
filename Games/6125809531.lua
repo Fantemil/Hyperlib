@@ -1,0 +1,2 @@
+
+addscript(6125809531, "Current Game","Op script", "Uploaded by mikcodytizon5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script624.lua", "https://scriptblox.com/script/Untitled-Attack-On-Titan-Op-script-3249")

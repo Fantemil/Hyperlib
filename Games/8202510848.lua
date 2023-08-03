@@ -1,0 +1,2 @@
+
+addscript(8202510848, "Current Game","Infinite script", "Uploaded by Pro_scripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20script460.lua", "https://scriptblox.com/script/Guerra-de-Torres-Admin-Panel-4042")

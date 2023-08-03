@@ -1,0 +1,2 @@
+
+addscript(168556275, "Current Game","Dex v4", "Uploaded by abdulrezzakyb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dex%20v4707.lua", "https://scriptblox.com/script/Baseplate-Dex-v4-3498")

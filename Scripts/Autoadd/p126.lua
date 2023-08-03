@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noRynx/miningsim/main/projectslayers"))()

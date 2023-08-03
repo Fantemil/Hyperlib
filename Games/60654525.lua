@@ -1,2 +1,4 @@
 
-addscript(60654525, "Current Game","Unlimited gold", "Uploaded by Setsuwa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20gold243.lua", "https://scriptblox.com/script/The-Legendary-Swords-RPG-Unlimited-gold-3351")
+addscript(60654525, "Current Game","Unlimited gold", "Uploaded by Setsuwa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20gold23.lua", "https://scriptblox.com/script/The-Legendary-Swords-RPG-Unlimited-gold-3351")
+    addscriptexist(60654525, "inf Money dead game but fun Open Source", "Uploaded by VoidSkids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20Money%20dead%20game%20but%20fun%20Open%20Source285.lua", "https://scriptblox.com/script/The-Legendary-Swords-RPG-inf-Money-(dead-game-but-fun)-Open-Source-4232")
+                                

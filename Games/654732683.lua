@@ -1,0 +1,2 @@
+
+addscript(654732683, "Current Game","car crusher 2 script", "Uploaded by Lolek_Gaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/car%20crusher%202%20script761.lua", "https://scriptblox.com/script/Car-Crushers-2-car-crusher-2-script-4598")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/QuiKzyy/Scripts/main/Power%20Clicker%20Simular.lua"))()

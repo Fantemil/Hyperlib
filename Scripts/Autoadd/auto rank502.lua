@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Event:FireServer()

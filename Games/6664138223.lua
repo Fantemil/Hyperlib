@@ -1,0 +1,2 @@
+
+addscript(6664138223, "Current Game","script", "Uploaded by quilll457 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script162.lua", "https://scriptblox.com/script/RIOT-Beta-v3.0-script-4137")

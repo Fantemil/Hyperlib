@@ -1,0 +1,2 @@
+
+addscript(8506369721, "Current Game","Ambatukam inf rebirths script", "Uploaded by YRRALD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ambatukam%20inf%20rebirths%20script536.lua", "https://scriptblox.com/script/dig-to-china-(Major-Update)-Ambatukam-inf-rebirths-script-4298")

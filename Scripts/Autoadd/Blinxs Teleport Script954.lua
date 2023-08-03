@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/blinx-co/CobaltV2/blob/main/Scripts/PetSimulatorXTeleport',true))()

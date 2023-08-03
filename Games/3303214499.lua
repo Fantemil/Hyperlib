@@ -1,2 +1,4 @@
 
-addscript(3303214499, "Current Game","FE Admin script", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Admin%20script873.lua", "https://scriptblox.com/script/4x-EVENT-A-Bizarre-Day:-Act-2-FE-Admin-script-4803")
+addscript(3303214499, "Current Game","FE Admin script", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Admin%20script447.lua", "https://scriptblox.com/script/4x-EVENT-A-Bizarre-Day:-Act-2-FE-Admin-script-4803")
+    addscriptexist(3303214499, "FE High lag script", "Uploaded by lol_ok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20High%20lag%20script17.lua", "https://scriptblox.com/script/4x-EVENT-A-Bizarre-Day:-Act-2-High-lg-script-4779")
+                                

@@ -1,0 +1,2 @@
+
+addscript(9681073174, "Current Game","Blinxs AutoFarm 2", "Uploaded by blinx1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blinxs%20AutoFarm%202356.lua", "https://scriptblox.com/script/UPD-2.5-Gym-Training-Simulator-Blinx's-AutoFarm-2-3387")

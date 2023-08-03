@@ -1,0 +1,2 @@
+
+addscript(8160862936, "Current Game","Super Eater AUTOFARM", "Uploaded by uzee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Eater%20AUTOFARM747.lua", "https://scriptblox.com/script/SUPER-EATER-SIMULATOR-(AUTOFARM)-4010")

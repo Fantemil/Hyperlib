@@ -1,0 +1,2 @@
+
+addscript(8982709021, "Current Game","Youtube Life Script", "Uploaded by SCRIPTS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Youtube%20Life%20Script335.lua", "https://scriptblox.com/script/YouTube-Life!-NEW-Youtube-Life-Script!-3376")

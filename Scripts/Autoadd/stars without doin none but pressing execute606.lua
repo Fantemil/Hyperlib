@@ -1,0 +1,1 @@
+while task.wait() do local Event = game:GetService("ReplicatedStorage")["Lu_RS"].shared.assets.remotes["click_RE"] Event:FireServer() end

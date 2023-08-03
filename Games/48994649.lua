@@ -1,0 +1,2 @@
+
+addscript(48994649, "Current Game","Gun Mod", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Mod972.lua", "https://scriptblox.com/script/BLOODFEST-Huge-update!-Gun-Mod-4031")

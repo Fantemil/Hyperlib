@@ -1,0 +1,2 @@
+
+addscript(2986677229, "Current Game","OP CHECK DESCRIPTION PLS", "Uploaded by 2ddr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20CHECK%20DESCRIPTION%20PLS320.lua", "https://scriptblox.com/script/2x-Credits!-Giant-Simulator-OP-CHECK-DESCRIPTION-PLS-6026")

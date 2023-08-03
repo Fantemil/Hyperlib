@@ -1,0 +1,2 @@
+
+addscript(4853191911, "Current Game","Custom things for characters gui V075", "Uploaded by sonicthebadscripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20things%20for%20characters%20gui%20V075905.lua", "https://scriptblox.com/script/v1.25-Sonic.exe-RP-Custom-things-for-characters-script-6520")

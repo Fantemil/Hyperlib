@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Amourousity/DOORS/main/Source.lua")(--[[Do breaker minigame:]] true)

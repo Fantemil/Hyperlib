@@ -1,0 +1,2 @@
+
+addscript(9943374061, "Current Game","Auto Collect For Weird Game", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20For%20Weird%20Game185.lua", "https://scriptblox.com/script/Planet-Oof-Auto-Collect-For-Weird-Game-5100")

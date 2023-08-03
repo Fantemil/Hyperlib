@@ -1,0 +1,2 @@
+
+addscript(9243187709, "Current Game","Kill Aura and AC Bypass", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20and%20AC%20Bypass617.lua", "https://scriptblox.com/script/Update-Log-%2B-New-Badges-Pedagondia-Faunas-Kill-Aura-and-AC-Bypass-5124")

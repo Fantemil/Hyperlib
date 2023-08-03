@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/itzRolf/Utilities/main/Strongman%20Simulator/main.lua")()

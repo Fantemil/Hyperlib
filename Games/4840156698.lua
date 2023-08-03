@@ -1,0 +1,2 @@
+
+addscript(4840156698, "Current Game","script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script170.lua", "https://scriptblox.com/script/Pets!-Homework-Lifting-Simulator-script-4163")

@@ -1,2 +1,2 @@
 
-addscript(4240267866, "Current Game","AntiCheat Bypass", "Uploaded by Empire4946 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AntiCheat%20Bypass989.lua", "https://scriptblox.com/script/WRESTLEMANIA-WWE-2K22-or-Roblox-Wrestling-AntiCheat-Bypass-6081")
+addscript(4240267866, "Current Game","AntiCheat Bypass", "Uploaded by Empire4946 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AntiCheat%20Bypass701.lua", "https://scriptblox.com/script/WRESTLEMANIA-WWE-2K22-or-Roblox-Wrestling-AntiCheat-Bypass-6081")

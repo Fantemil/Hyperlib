@@ -1,0 +1,2 @@
+
+addscript(6186867282, "Current Game","4PHLA", "Uploaded by muzscripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/4PHLA465.lua", "https://scriptblox.com/script/LIGHTNING-DRAGON-SLAYER-MAGIC-Project-XL-v5.3-4PHLA-3264")

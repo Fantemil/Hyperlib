@@ -1,0 +1,2 @@
+
+addscript(4064107022, "Current Game","admin script", "Uploaded by George on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20script706.lua", "https://scriptblox.com/script/PROJECT-SUBMUS-ACCUDO-DEMO-admin-script-3956")

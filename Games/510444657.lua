@@ -1,0 +1,2 @@
+
+addscript(510444657, "Current Game","OP GUI FOR CRIMINAL VS SWAT", "Uploaded by lucarioplayz9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20FOR%20CRIMINAL%20VS%20SWAT835.lua", "https://scriptblox.com/script/CRIMINAL-VS.-SWAT-OP-GUI-FOR-CRIMINAL-VS-SWAT-4292")

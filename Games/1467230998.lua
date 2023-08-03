@@ -1,0 +1,2 @@
+
+addscript(1467230998, "Current Game","Name players anything", "Uploaded by Zeta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Name%20players%20anything440.lua", "https://scriptblox.com/script/TROOP-LIFE-Name-players-anything-3399")

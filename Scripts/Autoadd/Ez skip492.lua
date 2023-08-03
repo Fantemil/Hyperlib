@@ -1,0 +1,1 @@
+game.Workspace.UserHere(NOT DISPLAY NAME).Humanoid.Health = 0

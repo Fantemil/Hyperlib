@@ -1,2 +1,2 @@
 
-addscript(14745996, "Current Game","Gun Testing Gui", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Testing%20Gui716.lua", "https://scriptblox.com/script/NPC-Gun-Testing-GUI-5454")
+addscript(14745996, "Current Game","Gun Testing Gui", "Uploaded by MeatBall_Is_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20Testing%20Gui825.lua", "https://scriptblox.com/script/NPC-Gun-Testing-GUI-5454")

@@ -1,0 +1,4 @@
+
+addscript(8596411742, "Current Game","INF MONEY", "Uploaded by Exxen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY790.lua", "https://scriptblox.com/script/Barb-Blox-Lane-Clothing-Rob-All-ATMS-3805")
+    addscriptexist(8596411742, "Barb Blox kill all money etc", "Uploaded by garfieldcatto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Barb%20Blox%20kill%20all%20money%20etc700.lua", "https://scriptblox.com/script/Barb-Blox-Lane-Clothing-Barb-Blox-kill-all-money-etc-3745")
+                                

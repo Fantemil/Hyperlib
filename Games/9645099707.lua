@@ -1,0 +1,6 @@
+
+addscript(9645099707, "Current Game","Only Fruit legendary without money", "Uploaded by zRetiredBot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Only%20Fruit%20legendary%20without%20money920.lua", "https://scriptblox.com/script/Update-3-Viet-Piece-Only-Fruit-legendary-3637")
+    addscriptexist(9645099707, "Infinite Levels and Money", "Uploaded by UserWithNoLife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Levels%20and%20Money194.lua", "https://scriptblox.com/script/Update-3-Viet-Piece-Infinite-Levels-and-Money-3624")
+                                
+    addscriptexist(9645099707, "Viet Piece  Get any fruit", "Uploaded by malakiathaxton on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Viet%20Piece%20%20Get%20any%20fruit41.lua", "https://scriptblox.com/script/Update-3-Viet-Piece-Viet-Piece-or-Get-any-fruit-3630")
+                                

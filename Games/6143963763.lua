@@ -1,2 +1,2 @@
 
-addscript(6143963763, "Current Game","Untitled Combat Arena  Script  AUTOFARM MONEY", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Combat%20Arena%20%20Script%20%20AUTOFARM%20MONEY390.lua", "https://scriptblox.com/script/J.-MORI-UCA-Untitled-Combat-Arena-()-Script-or-AUTOFARM-MONEY-3390")
+addscript(6143963763, "Current Game","Untitled Combat Arena  Script  AUTOFARM MONEY", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20Combat%20Arena%20%20Script%20%20AUTOFARM%20MONEY984.lua", "https://scriptblox.com/script/J.-MORI-UCA-Untitled-Combat-Arena-()-Script-or-AUTOFARM-MONEY-3390")

@@ -1,0 +1,2 @@
+
+addscript(3738091713, "Current Game","BL GUI", "Uploaded by bop_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BL%20GUI504.lua", "https://scriptblox.com/script/Boxing-League-BL-GUI-5335")

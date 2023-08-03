@@ -1,0 +1,2 @@
+
+addscript(8447279898, "Current Game","Get lots of money", "Uploaded by VampireKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20lots%20of%20money895.lua", "https://scriptblox.com/script/the-useless-printer-game-v1.2.5-Gain-daily-reward-4330")

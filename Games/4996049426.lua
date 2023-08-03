@@ -1,0 +1,2 @@
+
+addscript(4996049426, "Current Game","Star Tower Defense SO MANY FEATURES", "Uploaded by uzee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Tower%20Defense%20SO%20MANY%20FEATURES187.lua", "https://scriptblox.com/script/RUMBLE-All-Star-Tower-Defense-Star-Tower-Defense-(SO-MANY-FEATURES)-4095")

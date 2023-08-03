@@ -1,2 +1,2 @@
 
-addscript(7877006504, "Current Game","ignite all fireworks", "Uploaded by real on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ignite%20all%20fireworks820.lua", "https://scriptblox.com/script/(The-NUKE)Fireworks-ignite-all-fireworks-4955")
+addscript(7877006504, "Current Game","ignite all fireworks", "Uploaded by real on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ignite%20all%20fireworks928.lua", "https://scriptblox.com/script/(The-NUKE)Fireworks-ignite-all-fireworks-4955")

@@ -1,0 +1,2 @@
+
+addscript(8137333410, "Current Game","Auto painter", "Uploaded by CraX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20painter672.lua", "https://scriptblox.com/script/Color-by-number-Auto-painter-4581")

@@ -1,0 +1,1 @@
+game.Workspace.YourNameHere.FallDamageScript:Remove()

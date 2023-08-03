@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DripCat/DripHub-Beta-/main/Prison%20Life", true))()

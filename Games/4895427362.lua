@@ -1,0 +1,2 @@
+
+addscript(4895427362, "Current Game","autofarm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20yes359.lua", "https://scriptblox.com/script/UPDATES!-Roman-Empire-Roleplay-autofarm-yes-4312")

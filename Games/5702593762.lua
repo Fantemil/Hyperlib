@@ -1,0 +1,2 @@
+
+addscript(5702593762, "Current Game","autofarm and more", "Uploaded by rypp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20and%20more182.lua", "https://scriptblox.com/script/Climb-1000-Stairs-autofarm-and-more-3329")

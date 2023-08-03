@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sinscrips/roblox-scripts/main/Zombie%20Survival.lua', true))()

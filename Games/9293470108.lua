@@ -1,0 +1,2 @@
+
+addscript(9293470108, "Current Game","e", "Uploaded by Syobos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/e883.lua", "https://scriptblox.com/script/Syobos's-Place-e-4381")

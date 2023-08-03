@@ -1,2 +1,2 @@
 
-addscript(9605515605, "Current Game","INF MONEY", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY546.lua", "https://scriptblox.com/script/F3-Sword-Lands-Simulator-Alpha-INF-MONEY-4896")
+addscript(9605515605, "Current Game","INF MONEY", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY412.lua", "https://scriptblox.com/script/F3-Sword-Lands-Simulator-Alpha-INF-MONEY-4896")

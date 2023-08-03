@@ -1,0 +1,2 @@
+
+addscript(1629847577, "Current Game","pro db script ot mie ", "Uploaded by antoniodallypro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pro%20db%20script%20ot%20mie%20403.lua", "https://scriptblox.com/script/Dragon-Ball-N-(BETA)-pro-db-script-4592")

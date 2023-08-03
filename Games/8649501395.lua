@@ -1,0 +1,2 @@
+
+addscript(8649501395, "Current Game","AUTO COLLECT MONEY AUTO BUY COLLECT ALL FOOTBALLS", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20COLLECT%20MONEY%20AUTO%20BUY%20COLLECT%20ALL%20FOOTBALLS802.lua", "https://scriptblox.com/script/NFL-Tycoon-AUTO-COLLECT-MONEY-AUTO-BUY-COLLECT-ALL-FOOTBALLS-6351")

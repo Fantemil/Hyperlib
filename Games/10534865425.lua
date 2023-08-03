@@ -1,2 +1,0 @@
-
-addscript(10534865425, "Current Game","RaCc0oN Hub", "Uploaded by RaCc0oN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RaCc0oN%20Hub852.lua", "https://scriptblox.com/script/2X-Hoop-Simulator!-RaCc0oN-Hub-11688")

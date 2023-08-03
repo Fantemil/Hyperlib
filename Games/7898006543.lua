@@ -1,2 +1,2 @@
 
-addscript(7898006543, "Current Game","very op auto farm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20op%20auto%20farm%20yes606.lua", "https://scriptblox.com/script/UPD-Mushroom-Simulator-very-op-auto-farm-yes-4622")
+addscript(7898006543, "Current Game","very op auto farm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20op%20auto%20farm%20yes854.lua", "https://scriptblox.com/script/UPD-Mushroom-Simulator-very-op-auto-farm-yes-4622")

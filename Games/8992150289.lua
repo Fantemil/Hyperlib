@@ -1,0 +1,2 @@
+
+addscript(8992150289, "Current Game","Script GUI  BEST AUTO FARM GUI  OVERPOWERED", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20GUI%20%20BEST%20AUTO%20FARM%20GUI%20%20OVERPOWERED645.lua", "https://scriptblox.com/script/Anime-Sword-Simulator-Script-GUI-or-BEST-AUTO-FARM-GUI-OVERPOWERED-3398")

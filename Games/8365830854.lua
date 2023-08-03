@@ -1,0 +1,2 @@
+
+addscript(8365830854, "Current Game","Encanto GUI Updated", "Uploaded by Magixxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Encanto%20GUI%20Updated669.lua", "https://scriptblox.com/script/Era-Of-Encanto-GUI-(Updated!)-3425")

@@ -1,0 +1,2 @@
+
+addscript(7047488135, "Current Game","HUGE UI", "Uploaded by I92140I9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HUGE%20UI843.lua", "https://scriptblox.com/script/Speed-Run-Simulator-HUGE-UI-5908")

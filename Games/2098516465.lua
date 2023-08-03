@@ -1,2 +1,4 @@
 
-addscript(2098516465, "Current Game","Free Items Event OPEN CODE", "Uploaded by MakerScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Items%20Event%20OPEN%20CODE685.lua", "https://scriptblox.com/script/Roblox-High-School-2-Free-Items-Event-4175")
+addscript(2098516465, "Current Game","Free Items Event OPEN CODE", "Uploaded by MakerScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Items%20Event%20OPEN%20CODE360.lua", "https://scriptblox.com/script/Roblox-High-School-2-Free-Items-Event-4175")
+    addscriptexist(2098516465, "FREE UGC item", "Uploaded by ziroponto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20UGC%20item905.lua", "https://scriptblox.com/script/Roblox-High-School-2-FREE-UGC-item-4321")
+                                

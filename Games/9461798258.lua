@@ -1,0 +1,4 @@
+
+addscript(9461798258, "Current Game","Raise A Granny INF MONEY", "Uploaded by peachedsoul on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20A%20Granny%20INF%20MONEY246.lua", "https://scriptblox.com/script/Raise-a-Granny-Raise-A-Granny-INF-MONEY-3250")
+    addscriptexist(9461798258, "Raise a Granny OP Auto Farm", "Uploaded by FunniGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raise%20a%20Granny%20OP%20Auto%20Farm132.lua", "https://scriptblox.com/script/Raise-a-Granny-Raise-a-Granny-OP-Auto-Farm!-3440")
+                                

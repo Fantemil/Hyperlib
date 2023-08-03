@@ -1,0 +1,2 @@
+
+addscript(9103898828, "Current Game","script", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script535.lua", "https://scriptblox.com/script/Rogue-Demon-script-3682")

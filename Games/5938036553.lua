@@ -1,2 +1,0 @@
-
-addscript(5938036553, "Current Game","Hitbox expander and ESP", "Uploaded by MDZZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20expander%20and%20ESP440.lua", "https://scriptblox.com/script/FRONTLINES-Hit-box-expander-and-ESP-11529")
