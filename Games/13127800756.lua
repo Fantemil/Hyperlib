@@ -16,3 +16,5 @@ addscriptexist(13127800756, "ARM WRESTLE SIMULATOR 1 OP SCRIPT", "Uploaded by Li
                                 
 addscriptexist(13127800756, "ARM WRESTLING SIMULATOR  1 OP SRIPT", "Uploaded by Linest on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARM%20WRESTLING%20SIMULATOR%20%201%20OP%20SRIPT194.lua", "https://rscripts.net/script/arm-wrestling-simulator-1-op-sript-3958")
                                 
+addscriptexist(13127800756, "Auto F Speed Jump", "Uploaded by Yipoppo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20F%20Speed%20Jump15.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-F-Speed-Jump-6642")
+                                

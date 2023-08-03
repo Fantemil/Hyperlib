@@ -1,0 +1,2 @@
+
+addscript(13729859660, "Current Game","Re uploading", "Uploaded by artemohtenko1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Re%20uploading982.lua", "https://scriptblox.com/script/Skibi-Toilet-Game-(Episode-54)-Re-uploading-6641")

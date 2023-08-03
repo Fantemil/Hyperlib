@@ -3515,5 +3515,41 @@
         "hub": false,
         "gameid": "8534845015",
         "game": true
+    },
+    "Item Webhook": {
+        "origin": "https://scriptblox.com/script/COUNTDOWN-Fabled-Legacy!-Item-Webhook-6638",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Webhook258.lua",
+        "author": "Uploaded by Pryxo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11872917490",
+        "game": true
+    },
+    "X HUB": {
+        "origin": "https://scriptblox.com/script/Sword-Fight-and-Steal-Time-ing-X-hub-6639",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20HUB314.lua",
+        "author": "Uploaded by XxXxJanesXxXx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8731279652",
+        "game": true
+    },
+    "Auto F Speed Jump": {
+        "origin": "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-F-Speed-Jump-6642",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20F%20Speed%20Jump15.lua",
+        "author": "Uploaded by Yipoppo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13127800756",
+        "game": true
+    },
+    "Re uploading": {
+        "origin": "https://scriptblox.com/script/Skibi-Toilet-Game-(Episode-54)-Re-uploading-6641",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Re%20uploading982.lua",
+        "author": "Uploaded by artemohtenko1 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13729859660",
+        "game": true
     }
 }
