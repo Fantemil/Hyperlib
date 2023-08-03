@@ -201,7 +201,6 @@ getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
 
 
-
 local Player = Window:NewTab("Player/General")
 local PlayerSection = Player:NewSection("Player")
 local GeneralSection = Player:NewSection("General")
@@ -225,6 +224,8 @@ getgenv().guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the
         guireloader:UpdateButton("Reloading...")
         wait(1)
         getgenv().hyperlibgui:Destroy()
+        getgenv().hyperlibreload = true
+
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
     end)
 end)
@@ -558,3 +559,19 @@ else
     bigRedItalicText("There were no scripts found for this game!")
 end
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()')
+pcall(function()
+    if getgenv().hyperlibreload == true then
+        getgenv().hyperlibreload = false
+        spawn(function()
+            UpdateWindowTitle(version .. " was successfully reloaded!")
+            wait(0.2)
+            UpdateWindowTitle( version .. " was successfully reloaded!!")
+            wait(0.2)
+            UpdateWindowTitle(version .. " was successfully reloaded!!!")
+            wait(3)
+            UpdateWindowTitle(version)
+        end
+
+        )
+    end
+end)
