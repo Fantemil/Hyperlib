@@ -9,7 +9,7 @@ You will never need a key and i will never obfuscate the script. Hyperlib on its
 
 # Checklist
 
-- [ ] More Things at the Player Tab
+- [x] More Things at the Player Tab
 - [x] Adding Gamehubs automatically through the bot
 
 # Hyperlib is special! But i need help.
@@ -34,14 +34,15 @@ I need a lot of help improving the Hub! If you want to contribute then please se
 ## The Status Tab
 Check when the last Update was
 
-<img width="567" alt="Status Tab" src="https://user-images.githubusercontent.com/69359704/224020811-1a881935-d289-4342-ab5b-001a2ae1f1de.png">
+<img width="554" alt="Status Tab" src="https://github.com/Fantemil/Hyperlib/assets/69359704/9a19d050-8f1b-40bf-80ea-534833f2ae8a">
 
 
 
 ## The Player Tab
 This is the Player Tab
 
-<img width="553" alt="Player Section" src="https://user-images.githubusercontent.com/69359704/192143370-bf5d67f6-9740-443c-9b2a-949463a13fc9.png">
+<img width="571" alt="Player Tab" src="https://github.com/Fantemil/Hyperlib/assets/69359704/ce0e011b-5254-42b1-b8dd-5c385bc8e65b">
+
 
 You can change Basic Stuff there
 
@@ -66,7 +67,7 @@ You can find Keybinds here. Change Keybinds by clicking on them, then click your
 ## The Credits Tab
 Credits and my Discord User can be found here
 
-<img width="544" alt="Credits" src="https://user-images.githubusercontent.com/69359704/192143609-d69da7ec-84a2-444a-b8a2-3d79bec8a8ed.png">
+<img width="555" alt="Credits Tab" src="https://github.com/Fantemil/Hyperlib/assets/69359704/f566e6de-a06b-4c75-97d8-0b5ebe178641">
 
 ## The Game Tab
 
