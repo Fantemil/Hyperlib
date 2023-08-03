@@ -565,8 +565,8 @@ pcall(function()
         spawn(function()
             wait(1)
             bigGreenItalicText("Successfully reloaded Hyperlib!")
-            UpdateWindowTitle("Succesful reload!")
-            wait(3)
+            UpdateWindowTitle("Successful Reload!")
+            wait(5)
             UpdateWindowTitle(version)
         end
 
