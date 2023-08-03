@@ -554,9 +554,23 @@ if success then
     end
     print("Loaded game specific scripts")
     bigGreenItalicText("There were scripts found for this game!")
+    if getgenv().hyperlibreload == false then
+        spawn(function()
+            UpdateWindowTitle("Found Scripts for this game!")
+
+        end)
+
+    end
 else
     print("Failed to load game specific scripts")
     bigRedItalicText("There were no scripts found for this game!")
+    if getgenv().hyperlibreload == false then
+        spawn(function()
+            UpdateWindowTitle("No Scripts found for this game!")
+
+        end)
+
+    end
 end
 queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()')
 pcall(function()
