@@ -18,3 +18,5 @@ addscriptexist(13127800756, "ARM WRESTLING SIMULATOR  1 OP SRIPT", "Uploaded by 
                                 
 addscriptexist(13127800756, "Auto F Speed Jump", "Uploaded by Yipoppo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20F%20Speed%20Jump15.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-F-Speed-Jump-6642")
                                 
+addscriptexist(13127800756, "Pikachu Hub", "Uploaded by KokuThePikachu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pikachu%20Hub89.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Pikachu-Hub-6652")
+                                

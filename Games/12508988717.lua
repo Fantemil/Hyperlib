@@ -1,0 +1,2 @@
+
+addscript(12508988717, "Current Game","Teleports and Free Passes", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20and%20Free%20Passes312.lua", "https://scriptblox.com/script/Stud-Jump-Teleports-and-Free-Passes-6643")

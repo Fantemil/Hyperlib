@@ -178,3 +178,5 @@ addscriptexist(2753915549, "Space Hub OVERPOWERED", "Uploaded by Lucas on rscrip
                                 
 addscriptexist(2753915549, "Space Hub INSANE GUI", "Uploaded by Lucas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20INSANE%20GUI842.lua", "https://rscripts.net/script/space-hub-insane-gui-3046")
                                 
+addscriptexist(2753915549, "BLCK HUB", "Uploaded by hassanamrabdou78 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLCK%20HUB592.lua", "https://scriptblox.com/script/Blox-Fruits-BLCK-HUB-6654")
+                                

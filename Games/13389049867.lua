@@ -1,0 +1,2 @@
+
+addscript(13389049867, "Current Game","Infinite Cash n Free Gift and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20n%20Free%20Gift%20and%20more393.lua", "https://scriptblox.com/script/1percent-Win-Obby-Infinite-Cash-n-Free-Gift-and-more-6645")

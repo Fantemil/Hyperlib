@@ -1,0 +1,2 @@
+
+addscript(13504308791, "Current Game","Instant Win n Get Gears and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Get%20Gears%20and%20more127.lua", "https://scriptblox.com/script/Climb-Rocks-to-VIP-Obby-Instant-Win-n-Get-Gears-and-more-6651")

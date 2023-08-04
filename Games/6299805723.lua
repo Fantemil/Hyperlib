@@ -8,3 +8,5 @@ addscript(6299805723, "Current Game","SCRIPT AFS MOBILE E PC", "Uploaded by OTIM
                                 
 addscriptexist(6299805723, "Anime Fighters Simulator Auto Farm Auto Meteor Auto Skip Room", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20Auto%20Meteor%20Auto%20Skip%20Room305.lua", "https://rscripts.net/script/anime-fighters-simulator-auto-farm-auto-meteor-auto-skip-room-4155")
                                 
+addscriptexist(6299805723, "Auto Farm Mobs list", "Uploaded by Yipoppo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Mobs%20list792.lua", "https://scriptblox.com/script/Tower-Buff-%2Bx5-Drop-Anime-Fighters-Simulator-Auto-Farm-Mobs-list-6644")
+                                

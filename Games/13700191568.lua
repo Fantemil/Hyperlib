@@ -1,0 +1,2 @@
+
+addscript(13700191568, "Current Game","Infinite Gifts n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gifts%20n%20Instant%20Win%20and%20more45.lua", "https://scriptblox.com/script/Climb-Wall-For-VIP-Obby-Infinite-Gifts-n-Instant-Win-and-more-6651")

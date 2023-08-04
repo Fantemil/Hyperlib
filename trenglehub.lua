@@ -1,6 +1,6 @@
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +2: 03.08.2023 23:01:23"
+lastupdate = "GMT +2: 04.08.2023 12:05:01"
 --^^^dont touch ^^^
 getgenv().hubscripts = {
     allscripts = {}
@@ -202,6 +202,16 @@ end
 function UpdateWindowTitle(title)
     getgenv().hyperlibguititle.Text = title
 end
+function sortHubs()
+    table.sort(getgenv().hubscripts.allscripts, function(a, b)
+        return a.title < b.title
+    end)
+end
+function sortUni()
+    table.sort(getgenv().uniscripts.allscripts, function(a, b)
+        return a.title < b.title
+    end)
+end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
@@ -211,6 +221,8 @@ if getgenv().hyperlibblock == nil then
 else 
     if getgenv().hyperlibblock == true then
         getgenv().hyperlibgui:Destroy()
+        bigRedItalicText("Another Hyperlib instance is already running! Closing your new one...")
+        return
     elseif getgenv().hyperlibblock == false then
         getgenv().hyperlibblock = true
     end
@@ -261,17 +273,20 @@ getgenv().loadedgeneral = false
 getgenv().loadedhub = false
 
 
+-- preloading the universal scripts into memory
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
+sortUni()
+-- preloading the game hubs into memory
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
+sortHubs()
+
+
 getgenv().generalscripts = Window:NewTab("Universal")
 getgenv().generalscriptssection = generalscripts:NewSection("---Universal Scripts---")
+getgenv().generalscriptsallloaded = false
 getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universal Scripts", "Loads all Universal Scripts", function()
     if getgenv().loadedgeneral == false then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/universal.lua"))()
-        local function sortScripts()
-            table.sort(getgenv().uniscripts.allscripts, function(a, b)
-                return a.title < b.title
-            end)
-        end
-        sortScripts()
+      
         local ongoingexecution = false
         for i, v in pairs(getgenv().uniscripts.allscripts) do
             getgenv().generalscriptssection:NewLabel(v.title)
@@ -344,13 +359,8 @@ getgenv().gamehubs = Window:NewTab("Game Hubs")
 getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
 getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
     if getgenv().loadedhub == false then
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Games/hub.lua"))()
-        local function sortHubs()
-            table.sort(getgenv().hubscripts.allscripts, function(a, b)
-                return a.title < b.title
-            end)
-        end
-        sortHubs()
+       
+      
         local ongoingexecution = false
         for i, v in pairs(getgenv().hubscripts.allscripts) do
             getgenv().gamehubsection:NewLabel(v.title)

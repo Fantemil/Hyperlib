@@ -3551,5 +3551,120 @@
         "hub": false,
         "gameid": "13729859660",
         "game": true
+    },
+    "Infinite Cash n Free Gift and more": {
+        "origin": "https://scriptblox.com/script/1percent-Win-Obby-Infinite-Cash-n-Free-Gift-and-more-6645",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20n%20Free%20Gift%20and%20more393.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13389049867",
+        "game": true
+    },
+    "Instant Win n Get Gears and more": {
+        "origin": "https://scriptblox.com/script/Climb-Rocks-to-VIP-Obby-Instant-Win-n-Get-Gears-and-more-6651",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Get%20Gears%20and%20more127.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13504308791",
+        "game": true
+    },
+    "Teleports and Free Passes": {
+        "origin": "https://scriptblox.com/script/Stud-Jump-Teleports-and-Free-Passes-6643",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20and%20Free%20Passes312.lua",
+        "author": "Uploaded by brudda on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12508988717",
+        "game": true
+    },
+    "Free Limited P3T": {
+        "origin": "https://scriptblox.com/script/Grimace-Race-Free-Limited-P3T-6642",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Limited%20P3T117.lua",
+        "author": "Uploaded by NOOB on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13973120326",
+        "game": true
+    },
+    "Instant Finish All Levels": {
+        "origin": "https://scriptblox.com/script/Teamwork-Puzzles-Instant-Finish-All-Levels-6647",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Finish%20All%20Levels283.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6075270490",
+        "game": true
+    },
+    "koth": {
+        "origin": "https://scriptblox.com/script/Universal-Script-koth-6649",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/koth944.lua",
+        "author": "Uploaded by XxXxJanesXxXx on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Infinite Gifts n Instant Win and more": {
+        "origin": "https://scriptblox.com/script/Climb-Wall-For-VIP-Obby-Infinite-Gifts-n-Instant-Win-and-more-6651",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gifts%20n%20Instant%20Win%20and%20more45.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13700191568",
+        "game": true
+    },
+    "SCRIPT": {
+        "origin": "https://scriptblox.com/script/ARMOR-Build-to-Survive-the-Robots-SCRIPT-6646",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT61.lua",
+        "author": "Uploaded by F_hub99 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11005222274",
+        "game": true
+    },
+    "Dex Explorer v2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Dex-Explorer-v2-6653",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dex%20Explorer%20v2614.lua",
+        "author": "Uploaded by vxsty on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Infinite Gear n Instant Win and more": {
+        "origin": "https://scriptblox.com/script/Climb-2000-Stairs-to-VIP-Obby-Infinite-Gear-n-Instant-Win-and-more-6648",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gear%20n%20Instant%20Win%20and%20more29.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10129750406",
+        "game": true
+    },
+    "Auto Farm Mobs list": {
+        "origin": "https://scriptblox.com/script/Tower-Buff-%2Bx5-Drop-Anime-Fighters-Simulator-Auto-Farm-Mobs-list-6644",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Mobs%20list792.lua",
+        "author": "Uploaded by Yipoppo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6299805723",
+        "game": true
+    },
+    "BLCK HUB": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BLCK-HUB-6654",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLCK%20HUB592.lua",
+        "author": "Uploaded by hassanamrabdou78 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Pikachu Hub": {
+        "origin": "https://scriptblox.com/script/Arm-Wrestle-Simulator-Pikachu-Hub-6652",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pikachu%20Hub89.lua",
+        "author": "Uploaded by KokuThePikachu on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13127800756",
+        "game": true
     }
 }
