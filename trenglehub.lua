@@ -1,3 +1,37 @@
+function bigRedItalicText(text)
+    pcall(function()
+        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+            Text = text,
+            Color = Color3.fromRGB(255, 0, 0), -- set the color to red
+            Font = Enum.Font.SourceSansItalic,
+            TextTransparency = 0,
+            TextStrokeTransparency = 0,
+            TextScaled = false,
+            TextWrapped = false,
+            TextXAlignment = Enum.TextXAlignment.Center,
+            TextYAlignment = Enum.TextYAlignment.Center,
+            TextStrokeColor3 = Color3.new(0, 0, 0),
+            FontSize = Enum.FontSize.Size48,
+        })
+    end)
+end
+
+
+-- check if getgenv().hyperlibreload exists
+if getgenv().hyperlibreload == nil then
+    getgenv().hyperlibreload = false
+end
+if getgenv().hyperlibblock == nil then
+    getgenv().hyperlibblock = true
+else 
+    if getgenv().hyperlibblock == true then
+        bigRedItalicText("Another Hyperlib instance is already running! Aborting...")
+        return
+    elseif getgenv().hyperlibblock == false then
+        getgenv().hyperlibblock = true
+    end
+end
+
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
 lastupdate = "GMT +2: 04.08.2023 12:05:01"
@@ -11,10 +45,6 @@ getgenv().uniscripts = {
 version = "Hyperlib V.3.3"
 getgenv().statusdict = {}
 
--- check if getgenv().hyperlibreload exists
-if getgenv().hyperlibreload == nil then
-    getgenv().hyperlibreload = false
-end
 
 
 function getLocalPlayerName()
@@ -123,23 +153,7 @@ function bigBlueItalicText(text)
         })
     end)
 end
-function bigRedItalicText(text)
-    pcall(function()
-        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
-            Text = text,
-            Color = Color3.fromRGB(255, 0, 0), -- set the color to red
-            Font = Enum.Font.SourceSansItalic,
-            TextTransparency = 0,
-            TextStrokeTransparency = 0,
-            TextScaled = false,
-            TextWrapped = false,
-            TextXAlignment = Enum.TextXAlignment.Center,
-            TextYAlignment = Enum.TextYAlignment.Center,
-            TextStrokeColor3 = Color3.new(0, 0, 0),
-            FontSize = Enum.FontSize.Size48,
-        })
-    end)
-end
+
 
 
 
@@ -216,17 +230,6 @@ local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fante
 getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
 -- check if getgenv().hyperlibblock exists
-if getgenv().hyperlibblock == nil then
-    getgenv().hyperlibblock = true
-else 
-    if getgenv().hyperlibblock == true then
-        getgenv().hyperlibgui:Destroy()
-        bigRedItalicText("Another Hyperlib instance is already running! Closing your new one...")
-        return
-    elseif getgenv().hyperlibblock == false then
-        getgenv().hyperlibblock = true
-    end
-end
 
 local Player = Window:NewTab("Player/General")
 local PlayerSection = Player:NewSection("Player")
