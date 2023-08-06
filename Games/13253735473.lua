@@ -8,3 +8,13 @@ addscript(13253735473, "Current Game","Actor bypass", "Uploaded by ratsssstts on
                                 
     addscriptexist(13253735473, "Yoyoyoo Ts bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yoyoyoo%20Ts%20bypass398.lua", "https://scriptblox.com/script/Trident-Survival-V2-Yoyoyoo-Ts-bypass-6631")
                                 
+addscriptexist(13253735473, "LOOK IN DESCRIPTION", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOOK%20IN%20DESCRIPTION74.lua", "https://scriptblox.com/script/Trident-Survival-V2-LOOK-IN-DESCRIPTION-6689")
+                                
+addscriptexist(13253735473, "vital pro free", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/vital%20pro%20free423.lua", "https://scriptblox.com/script/Trident-Survival-V2-vital-pro-free-6673")
+                                
+addscriptexist(13253735473, "pickles pub crack", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pickles%20pub%20crack587.lua", "https://scriptblox.com/script/Trident-Survival-V2-pickles-pub-crack-6707")
+                                
+addscriptexist(13253735473, "Actor bypasssssss", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actor%20bypasssssss34.lua", "https://scriptblox.com/script/Trident-Survival-V2-Actor-bypasssssss-6672")
+                                
+addscriptexist(13253735473, "astral pro crack CHECK DESCRIPTION", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/astral%20pro%20crack%20CHECK%20DESCRIPTION968.lua", "https://scriptblox.com/script/Trident-Survival-V2-astral-pro-crack-CHECK-DESCRIPTION-6697")
+                                

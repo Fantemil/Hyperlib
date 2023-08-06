@@ -66,3 +66,11 @@ addscriptexist(142823291, "Murder Mystery 2 ESP Fake Knife Get Xbox Knife", "Upl
                                 
 addscriptexist(142823291, "Murder Mystery 2 GUI", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20GUI169.lua", "https://rscripts.net/script/murder-mystery-2-gui-3184")
                                 
+addscriptexist(142823291, "Ken Esp mm Sheriff and er", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20Esp%20mm%20Sheriff%20and%20er455.lua", "https://scriptblox.com/script/Murder-Mystery-2-Ken-Esp-mm-Sheriff-and-er-6681")
+                                
+addscriptexist(142823291, "Scrip Esp teleport to the killer", "Uploaded by poosyks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scrip%20Esp%20teleport%20to%20the%20killer482.lua", "https://scriptblox.com/script/Murder-Mystery-2-Scrip-Esp-teleport-to-the-killer-6713")
+                                
+addscriptexist(142823291, "Auto Farm Esp Speed", "Uploaded by klar12xR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Esp%20Speed345.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Esp-Speed-6727")
+                                
+addscriptexist(142823291, "MM Script", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Script122.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Script-6677")
+                                

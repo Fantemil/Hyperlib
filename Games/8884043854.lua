@@ -1,0 +1,2 @@
+
+addscript(8884043854, "Current Game","Ken Fortblox", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20Fortblox539.lua", "https://scriptblox.com/script/SEASON!-FORTBLOX!-Ken-Fortblox-6685")

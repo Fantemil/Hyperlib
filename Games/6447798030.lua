@@ -10,3 +10,5 @@ addscript(6447798030, "Current Game","LORD X AUTOFARM PATCHED SINCE THEY DELETE 
                                 
     addscriptexist(6447798030, "gui", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui270.lua", "https://scriptblox.com/script/MIND-GAMESor-Funky-Friday-gui-5330")
                                 
+addscriptexist(6447798030, "Auto Player Mobile", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player%20Mobile374.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-6721")
+                                

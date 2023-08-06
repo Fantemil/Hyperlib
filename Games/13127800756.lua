@@ -20,3 +20,7 @@ addscriptexist(13127800756, "Auto F Speed Jump", "Uploaded by Yipoppo on scriptb
                                 
 addscriptexist(13127800756, "Pikachu Hub", "Uploaded by KokuThePikachu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pikachu%20Hub89.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Pikachu-Hub-6652")
                                 
+addscriptexist(13127800756, "Auto hatch egg and more", "Uploaded by soopilsw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20hatch%20egg%20and%20more925.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-hatch-egg-and-more-6711")
+                                
+addscriptexist(13127800756, "NebulaHub", "Uploaded by moreiraleaaa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NebulaHub610.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-NebulaHub-6663")
+                                

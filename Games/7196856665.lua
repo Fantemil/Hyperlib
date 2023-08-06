@@ -1,0 +1,2 @@
+
+addscript(7196856665, "Current Game","Script PC only", "Uploaded by XxXxJanesXxXx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20PC%20only824.lua", "https://scriptblox.com/script/Wave-Sword-Bots-Game-Script-PC-only-6703")

@@ -18,3 +18,5 @@ addscriptexist(920587237, "Adopt Me PetFarm AutoFarmBaby Auto Heal Other And Mor
                                 
 addscriptexist(920587237, "Adopt Me Autofarm Baby Mode", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Autofarm%20Baby%20Mode833.lua", "https://rscripts.net/script/adopt-me-autofarm-baby-mode-3492")
                                 
+addscriptexist(920587237, "AutoFarmBaby Farming", "Uploaded by Ekat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarmBaby%20Farming891.lua", "https://scriptblox.com/script/Adopt-Me!-AutoFarmBaby-Farming-6695")
+                                

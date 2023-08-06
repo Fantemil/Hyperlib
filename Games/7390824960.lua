@@ -1,0 +1,2 @@
+
+addscript(7390824960, "Current Game","Op Script", "Uploaded by zaee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script444.lua", "https://scriptblox.com/script/RELEASE!-Fire-Force-Online-Op-Script-6725")

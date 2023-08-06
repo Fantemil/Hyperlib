@@ -1,0 +1,2 @@
+
+addscript(5275822877, "Current Game","All Gear n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Gear%20n%20Instant%20Win%20and%20more155.lua", "https://scriptblox.com/script/Cart-%2B-Car-Ride-into-GigaNoob-All-Gear-n-Instant-Win-and-more-6658")

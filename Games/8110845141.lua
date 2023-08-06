@@ -1,0 +1,2 @@
+
+addscript(8110845141, "Current Game","script SOURCE CODE", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20SOURCE%20CODE169.lua", "https://scriptblox.com/script/POOP-WITH-FRIENDS-script-SOURCE-CODE-6693")

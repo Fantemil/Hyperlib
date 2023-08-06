@@ -1,0 +1,2 @@
+
+addscript(10006547495, "Current Game","Ken map town", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20map%20town368.lua", "https://scriptblox.com/script/SeekSurvive-the-Haunted-TownBeta-Ken-map-town-6684")

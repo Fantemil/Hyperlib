@@ -1,0 +1,2 @@
+
+addscript(9332885675, "Current Game","DevWare modded", "Uploaded by devxternal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevWare%20modded698.lua", "https://scriptblox.com/script/FIXED-Prison-Life-v3-DevWare-modded-6720")

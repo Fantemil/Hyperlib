@@ -1,0 +1,2 @@
+
+addscript(12407250267, "Current Game","Ken", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken179.lua", "https://scriptblox.com/script/Keys-Season-4-Ken-6710")

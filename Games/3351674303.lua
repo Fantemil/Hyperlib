@@ -14,3 +14,5 @@ addscriptexist(3351674303, "Wheel Hub FreePaidUniversal Script Hub", "Uploaded b
                                 
 addscriptexist(3351674303, "Driving Empire Best Afk Farm Script   50M Per Day", "Uploaded by capi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Best%20Afk%20Farm%20Script%20%20%2050M%20Per%20Day310.lua", "https://rscripts.net/script/driving-empire-best-afk-farm-script-50m-per-day-3135")
                                 
+addscriptexist(3351674303, "Best Autofarm Millions overnight", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarm%20Millions%20overnight106.lua", "https://scriptblox.com/script/NEW-Driving-Empire-Best-Autofarm-Millions-overnight-6706")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gussywussylol/Grimace/main/GrimaceUpdate1.lua", true))()

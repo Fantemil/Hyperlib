@@ -180,3 +180,11 @@ addscriptexist(2753915549, "Space Hub INSANE GUI", "Uploaded by Lucas on rscript
                                 
 addscriptexist(2753915549, "BLCK HUB", "Uploaded by hassanamrabdou78 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLCK%20HUB592.lua", "https://scriptblox.com/script/Blox-Fruits-BLCK-HUB-6654")
                                 
+addscriptexist(2753915549, "Sonic Hub", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Hub945.lua", "https://scriptblox.com/script/Blox-Fruits-Sonic-Hub-6725")
+                                
+addscriptexist(2753915549, "New script with great autofarm functionality", "Uploaded by nikkkae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20script%20with%20great%20autofarm%20functionality41.lua", "https://scriptblox.com/script/Blox-Fruits-New-script-with-great-autofarm-functionality-6726")
+                                
+addscriptexist(2753915549, "Auto Stats Auto Buy Fruit Sniper More", "Uploaded by rooikizxc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stats%20Auto%20Buy%20Fruit%20Sniper%20More637.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Stats-Auto-Buy-Fruit-Sniper-More-6664")
+                                
+addscriptexist(2753915549, "Auto Farm Auto Saber Auto Pole", "Uploaded by Niliker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Saber%20Auto%20Pole19.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Auto-Saber-Auto-Pole-6712")
+                                

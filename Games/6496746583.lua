@@ -1,0 +1,2 @@
+
+addscript(6496746583, "Current Game","Stage Slider n Auto Stage and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stage%20Slider%20n%20Auto%20Stage%20and%20more388.lua", "https://scriptblox.com/script/Escape-The-World-Obby-Mega-Easy-Stage-Slider-n-Auto-Stage-and-more-6727")

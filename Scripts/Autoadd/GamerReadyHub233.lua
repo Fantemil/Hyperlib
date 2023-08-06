@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerReady/GamerReadyHub-Free/main/GamerReadyHub-Free", true))()

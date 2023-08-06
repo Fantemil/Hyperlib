@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('loadstring(game:HttpGet('https://raw.githubusercontent.com/poolist/tolis/main/77_TNII5YQRKVN0X8.lua'))()

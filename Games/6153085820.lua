@@ -1,0 +1,2 @@
+
+addscript(6153085820, "Current Game","FREE UGC QUICK", "Uploaded by reubxclasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20UGC%20QUICK318.lua", "https://scriptblox.com/script/Color-Blox-FREE-UGC-QUICK-6661")

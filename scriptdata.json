@@ -3666,5 +3666,825 @@
         "hub": false,
         "gameid": "13127800756",
         "game": true
+    },
+    "VIP Room n Auto Win and more": {
+        "origin": "https://scriptblox.com/script/Easy-Stud-Jumps-Obby-VIP-Room-n-Auto-Win-and-more-6728",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Auto%20Win%20and%20more493.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11166344460",
+        "game": true
+    },
+    "Teleports walkspeed more": {
+        "origin": "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Teleports-walkspeed-more-6717",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20walkspeed%20more117.lua",
+        "author": "Uploaded by gooliuks on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12355337193",
+        "game": true
+    },
+    "SScripts": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SScripts-6729",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SScripts176.lua",
+        "author": "Uploaded by NecoChan on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "coco hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-coco-hub-6702",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/coco%20hub298.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Sonic Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Sonic-Hub-6725",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Hub945.lua",
+        "author": "Uploaded by J_Paste on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "esp": {
+        "origin": "https://scriptblox.com/script/Universal-Script-esp-6701",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/esp676.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "LOOK IN DESCRIPTION": {
+        "origin": "https://scriptblox.com/script/Trident-Survival-V2-LOOK-IN-DESCRIPTION-6689",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOOK%20IN%20DESCRIPTION74.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13253735473",
+        "game": true
+    },
+    "TriggerBot Reposted": {
+        "origin": "https://scriptblox.com/script/Universal-Script-TriggerBot-Reposted-6681",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TriggerBot%20Reposted207.lua",
+        "author": "Uploaded by IMMORTALZ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "yuto hub afs": {
+        "origin": "https://scriptblox.com/script/Tower-Buff-%2Bx5-Drop-Anime-Fighters-Simulator-yuto-hub-afs-6670",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yuto%20hub%20afs387.lua",
+        "author": "Uploaded by felipethomepc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6299805723",
+        "game": true
+    },
+    "Ken Fling universal": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ken-Fling-universal-6709",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20Fling%20universal465.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Script with lots of features": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-Script-with-lots-of-features-6711",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20with%20lots%20of%20features937.lua",
+        "author": "Uploaded by Hiklerx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
+    },
+    "Script PC only": {
+        "origin": "https://scriptblox.com/script/Wave-Sword-Bots-Game-Script-PC-only-6703",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20PC%20only824.lua",
+        "author": "Uploaded by XxXxJanesXxXx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7196856665",
+        "game": true
+    },
+    "Best Script For This Game": {
+        "origin": "https://scriptblox.com/script/In-Plain-Sight-2-Best-Script-For-This-Game-6660",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20For%20This%20Game345.lua",
+        "author": "Uploaded by sirxrer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2901172949",
+        "game": true
+    },
+    "New Hub all working": {
+        "origin": "https://scriptblox.com/script/Summer-UPD-%2B-Event-Anime-Fighters-Simulator-New-Hub-all-working-6710",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub%20all%20working302.lua",
+        "author": "Uploaded by MilkyWay00o on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6299805723",
+        "game": true
+    },
+    "VIP Room n All Gear and more": {
+        "origin": "https://scriptblox.com/script/Ultra-Easy-Obby-VIP-Room-n-All-Gear-and-more-6659",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20All%20Gear%20and%20more339.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13048729872",
+        "game": true
+    },
+    "Overpowered Autofarm": {
+        "origin": "https://scriptblox.com/script/Zombie-Attack-Overpowered-Autofarm-6661",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overpowered%20Autofarm610.lua",
+        "author": "Uploaded by zerticzy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1240123653",
+        "game": true
+    },
+    "Elemental hub Open Source cracked": {
+        "origin": "https://scriptblox.com/script/Double-Down-Elemental-hub-Open-Source-cracked-6671",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20hub%20Open%20Source%20cracked818.lua",
+        "author": "Uploaded by GamerReadyHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9476339275",
+        "game": true
+    },
+    "Best Autofarm Millions overnight": {
+        "origin": "https://scriptblox.com/script/NEW-Driving-Empire-Best-Autofarm-Millions-overnight-6706",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarm%20Millions%20overnight106.lua",
+        "author": "Uploaded by zerticzy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3351674303",
+        "game": true
+    },
+    "hitbox expander": {
+        "origin": "https://scriptblox.com/script/Universal-Script-hitbox-expander-6698",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hitbox%20expander963.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Movies Script": {
+        "origin": "https://scriptblox.com/script/Total-Roblox-Drama-Movies-Script-6694",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Movies%20Script287.lua",
+        "author": "Uploaded by vicesilly on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4889315193",
+        "game": true
+    },
+    "Op Script": {
+        "origin": "https://scriptblox.com/script/RELEASE!-Fire-Force-Online-Op-Script-6725",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script444.lua",
+        "author": "Uploaded by zaee on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7390824960",
+        "game": true
+    },
+    "Ken Koblox and Headless respawn": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ken-Koblox-and-Headless-respawn-6712",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20Koblox%20and%20Headless%20respawn335.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Ken all chapter Control": {
+        "origin": "https://scriptblox.com/script/The-Mimic-Ken-all-chapter-Control-6680",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20all%20chapter%20Control854.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6243699076",
+        "game": true
+    },
+    "Limited UGC": {
+        "origin": "https://scriptblox.com/script/PLS-DONATE-Limited-UGC-6668",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20UGC642.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737602449",
+        "game": true
+    },
+    "AFK WORLD HOPPER": {
+        "origin": "https://scriptblox.com/script/ABA-CELL-%2B-KISAME-%2B-ARLONG-%2B-OGUN-AFK-WORLD-HOPPER-6698",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AFK%20WORLD%20HOPPER733.lua",
+        "author": "Uploaded by Smug on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1458767429",
+        "game": true
+    },
+    "Hit box remake": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hit-box-remake-6723",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hit%20box%20remake510.lua",
+        "author": "Uploaded by jamarcushayes31 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Bronx GUI FREE": {
+        "origin": "https://scriptblox.com/script/BUG-FIXES-South-Bronx:-The-Trenches-Bronx-GUI-FREE-6675",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bronx%20GUI%20FREE104.lua",
+        "author": "Uploaded by Shag420 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10179538382",
+        "game": true
+    },
+    "Auto Farm Xp Auto Respawn Bunny Hop": {
+        "origin": "https://scriptblox.com/script/Evade-Auto-Farm-Xp-Auto-Respawn-Bunny-Hop-6716",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Xp%20Auto%20Respawn%20Bunny%20Hop862.lua",
+        "author": "Uploaded by Ggglxi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9872472334",
+        "game": true
+    },
+    "Owl hud Original": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Owl-hud-Original-6666",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Owl%20hud%20Original504.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "FREE UGC QUICK": {
+        "origin": "https://scriptblox.com/script/Color-Blox-FREE-UGC-QUICK-6661",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20UGC%20QUICK318.lua",
+        "author": "Uploaded by reubxclasher on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6153085820",
+        "game": true
+    },
+    "femware": {
+        "origin": "https://scriptblox.com/script/2x-Criminality-femware-6700",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/femware73.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4588604953",
+        "game": true
+    },
+    "New script with great autofarm functionality": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-New-script-with-great-autofarm-functionality-6726",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20script%20with%20great%20autofarm%20functionality41.lua",
+        "author": "Uploaded by nikkkae on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "FREE GUI": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-FREE-GUI-6727",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI625.lua",
+        "author": "Uploaded by Nicuse on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
+    },
+    "Script Gui": {
+        "origin": "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Script-Gui-6726",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Gui87.lua",
+        "author": "Uploaded by zaee on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12355337193",
+        "game": true
+    },
+    "Speed tool": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Speed-tool-6656",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20tool982.lua",
+        "author": "Uploaded by jamarcushayes31 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Inf Stats Repost": {
+        "origin": "https://scriptblox.com/script/F2P-UPDATE-Egg-Hatching-Simulator-2-Inf-Stats-Repost-6658",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stats%20Repost30.lua",
+        "author": "Uploaded by dampedapple on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9998509496",
+        "game": true
+    },
+    "Auto Stats Auto Buy Fruit Sniper More": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Auto-Stats-Auto-Buy-Fruit-Sniper-More-6664",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stats%20Auto%20Buy%20Fruit%20Sniper%20More637.lua",
+        "author": "Uploaded by rooikizxc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Esp": {
+        "origin": "https://scriptblox.com/script/dingus-Esp-6664",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp624.lua",
+        "author": "Uploaded by Kargoligach on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13924946576",
+        "game": true
+    },
+    "vital pro free": {
+        "origin": "https://scriptblox.com/script/Trident-Survival-V2-vital-pro-free-6673",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/vital%20pro%20free423.lua",
+        "author": "Uploaded by ratsssstts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13253735473",
+        "game": true
+    },
+    "Auto hatch egg and more": {
+        "origin": "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-hatch-egg-and-more-6711",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20hatch%20egg%20and%20more925.lua",
+        "author": "Uploaded by soopilsw on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13127800756",
+        "game": true
+    },
+    "Universal Shift Lock": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-Shift-Lock-6655",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Shift%20Lock282.lua",
+        "author": "Uploaded by axezive on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto Win UI": {
+        "origin": "https://scriptblox.com/script/GODS-WILL-***-Auto-Win-6724",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20UI41.lua",
+        "author": "Uploaded by ZaNoob023621 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12826178482",
+        "game": true
+    },
+    "Key System Quite Good": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Key-System-Quite-Good-6706",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Key%20System%20Quite%20Good800.lua",
+        "author": "Uploaded by _Flames on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "pickles pub crack": {
+        "origin": "https://scriptblox.com/script/Trident-Survival-V2-pickles-pub-crack-6707",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pickles%20pub%20crack587.lua",
+        "author": "Uploaded by ratsssstts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13253735473",
+        "game": true
+    },
+    "Inf stats": {
+        "origin": "https://scriptblox.com/script/F2P-UPDATE-Egg-Hatching-Simulator-2-Inf-stats-6655",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20stats5.lua",
+        "author": "Uploaded by EVilDragon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9998509496",
+        "game": true
+    },
+    "Parvus Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Parvus-Hub-6660",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parvus%20Hub392.lua",
+        "author": "Uploaded by AlexR32 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Free limited Megal loffy": {
+        "origin": "https://scriptblox.com/script/Grimace-Race-Free-limited-Megal-loffy-6662",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20limited%20Megal%20loffy909.lua",
+        "author": "Uploaded by owenhotshots on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13973120326",
+        "game": true
+    },
+    "Teleports Spam Fire More": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Teleports-Spam-Fire-More-6713",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20Spam%20Fire%20More565.lua",
+        "author": "Uploaded by Jimmper on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "Ken map town": {
+        "origin": "https://scriptblox.com/script/SeekSurvive-the-Haunted-TownBeta-Ken-map-town-6684",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20map%20town368.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10006547495",
+        "game": true
+    },
+    "OP GET ALL ADDON FOR FREE Copy the script before i deleting": {
+        "origin": "https://scriptblox.com/script/Ray's-Mod-OP-GET-ALL-ADDON-FOR-FREE-Copy-the-script-before-i-deleting-6675",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GET%20ALL%20ADDON%20FOR%20FREE%20Copy%20the%20script%20before%20i%20deleting691.lua",
+        "author": "Uploaded by HelloWorld_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4967465336",
+        "game": true
+    },
+    "Scrip Esp teleport to the killer": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Scrip-Esp-teleport-to-the-killer-6713",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scrip%20Esp%20teleport%20to%20the%20killer482.lua",
+        "author": "Uploaded by poosyks on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "Script": {
+        "origin": "https://scriptblox.com/script/ChicBlocko-BETA-Script-6676",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script16.lua",
+        "author": "Uploaded by zaee on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9196514723",
+        "game": true
+    },
+    "just some speed": {
+        "origin": "https://scriptblox.com/script/Universal-Script-just-some-speed-6659",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/just%20some%20speed75.lua",
+        "author": "Uploaded by beluga_white_editon on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Flames Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Flames-Hub-6728",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flames%20Hub214.lua",
+        "author": "Uploaded by FlamesW on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "All Gear n Instant Win and more": {
+        "origin": "https://scriptblox.com/script/Cart-%2B-Car-Ride-into-GigaNoob-All-Gear-n-Instant-Win-and-more-6658",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Gear%20n%20Instant%20Win%20and%20more155.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5275822877",
+        "game": true
+    },
+    "Actor bypasssssss": {
+        "origin": "https://scriptblox.com/script/Trident-Survival-V2-Actor-bypasssssss-6672",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actor%20bypasssssss34.lua",
+        "author": "Uploaded by ratsssstts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13253735473",
+        "game": true
+    },
+    "Ken": {
+        "origin": "https://scriptblox.com/script/Keys-Season-4-Ken-6710",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken179.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12407250267",
+        "game": true
+    },
+    "astral pro crack CHECK DESCRIPTION": {
+        "origin": "https://scriptblox.com/script/Trident-Survival-V2-astral-pro-crack-CHECK-DESCRIPTION-6697",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/astral%20pro%20crack%20CHECK%20DESCRIPTION968.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13253735473",
+        "game": true
+    },
+    "Lott Grab All Claim All House Rainbow Car": {
+        "origin": "https://scriptblox.com/script/Berry-Avenue-RP-Lott-Grab-All-Claim-All-House-Rainbow-Car-6714",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lott%20Grab%20All%20Claim%20All%20House%20Rainbow%20Car623.lua",
+        "author": "Uploaded by Bloxs123 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8481844229",
+        "game": true
+    },
+    "Script Farming Selected Mobs": {
+        "origin": "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-Script-Farming-Selected-Mobs-6709",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Farming%20Selected%20Mobs617.lua",
+        "author": "Uploaded by soolinig on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11545598432",
+        "game": true
+    },
+    "universal arceus": {
+        "origin": "https://scriptblox.com/script/Universal-Script-universal-arceus-6669",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/universal%20arceus427.lua",
+        "author": "Uploaded by jamarcushayes31 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Free roblox kit": {
+        "origin": "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Free-roblox-kit-6688",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20roblox%20kit112.lua",
+        "author": "Uploaded by ARobloxScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
+    },
+    "Stage Slider n Auto Stage and more": {
+        "origin": "https://scriptblox.com/script/Escape-The-World-Obby-Mega-Easy-Stage-Slider-n-Auto-Stage-and-more-6727",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stage%20Slider%20n%20Auto%20Stage%20and%20more388.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6496746583",
+        "game": true
+    },
+    "KATERHUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-KATERHUB-6696",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KATERHUB536.lua",
+        "author": "Uploaded by Katers_BIG_CAT_MAN on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Script OP": {
+        "origin": "https://scriptblox.com/script/NEW-Zombie-Uprising-Script-OP-6693",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20OP866.lua",
+        "author": "Uploaded by ZaNoob023621 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4972091010",
+        "game": true
+    },
+    "NEW SCRIPT UP THIS ONES PATCH Dupe n custom n give all": {
+        "origin": "https://scriptblox.com/script/Grimace-Race-Dupe-n-custom-n-give-all-and-more-6669",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20SCRIPT%20UP%20THIS%20ONES%20PATCH%20Dupe%20n%20custom%20n%20give%20all398.lua",
+        "author": "Uploaded by guss on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13973120326",
+        "game": true
+    },
+    "Sirius": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Sirius-6661",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius334.lua",
+        "author": "Uploaded by shlex on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "anti afk": {
+        "origin": "https://scriptblox.com/script/Universal-Script-anti-afk-6699",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20afk172.lua",
+        "author": "Uploaded by ChickenAndChips on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "ui": {
+        "origin": "https://scriptblox.com/script/Apeirophobia-ui-6707",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ui371.lua",
+        "author": "Uploaded by profressionalgaymer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10277607801",
+        "game": true
+    },
+    "AutoFarmBaby Farming": {
+        "origin": "https://scriptblox.com/script/Adopt-Me!-AutoFarmBaby-Farming-6695",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarmBaby%20Farming891.lua",
+        "author": "Uploaded by Ekat on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "920587237",
+        "game": true
+    },
+    "All Morph n Instant Win and more": {
+        "origin": "https://scriptblox.com/script/Escape-Baby-Bobby-Daycare!-(FIRST-PERSON-OBBY)-All-Morph-n-Instant-Win-and-more-6662",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Morph%20n%20Instant%20Win%20and%20more939.lua",
+        "author": "Uploaded by KhSaeed90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12090482034",
+        "game": true
+    },
+    "Auto Farm Esp Speed": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Esp-Speed-6727",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Esp%20Speed345.lua",
+        "author": "Uploaded by klar12xR on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "NebulaHub": {
+        "origin": "https://scriptblox.com/script/Arm-Wrestle-Simulator-NebulaHub-6663",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NebulaHub610.lua",
+        "author": "Uploaded by moreiraleaaa on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13127800756",
+        "game": true
+    },
+    "Universal Auto Farm": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-Auto-Farm-6726",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Auto%20Farm311.lua",
+        "author": "Uploaded by IMMORTALZ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto Farm Auto Saber Auto Pole": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Auto-Saber-Auto-Pole-6712",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Saber%20Auto%20Pole19.lua",
+        "author": "Uploaded by Niliker on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Auto Player Mobile": {
+        "origin": "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-6721",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player%20Mobile374.lua",
+        "author": "Uploaded by yuuiz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6447798030",
+        "game": true
+    },
+    "Esp Kill All ye it cool": {
+        "origin": "https://scriptblox.com/script/dingus-Esp-Kill-All-ye-it-cool-6678",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20Kill%20All%20ye%20it%20cool489.lua",
+        "author": "Uploaded by sirxrer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13924946576",
+        "game": true
+    },
+    "Script Anti Cheat Bypass Inf Fly Spider": {
+        "origin": "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Script-Anti-Cheat-Bypass-Inf-Fly-Spider-6715",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Anti%20Cheat%20Bypass%20Inf%20Fly%20Spider85.lua",
+        "author": "Uploaded by killhod on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
+    },
+    "NOTH HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NOTH-HUB-6724",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOTH%20HUB392.lua",
+        "author": "Uploaded by vugiakhiem2121 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Ken Fortblox": {
+        "origin": "https://scriptblox.com/script/SEASON!-FORTBLOX!-Ken-Fortblox-6685",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20Fortblox539.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8884043854",
+        "game": true
+    },
+    "Ken Hud": {
+        "origin": "https://scriptblox.com/script/Grimace-Race-HUD-6668",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20Hud532.lua",
+        "author": "Uploaded by ScriptNoKeys on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13973120326",
+        "game": true
+    },
+    "Gamepass Morph Script": {
+        "origin": "https://scriptblox.com/script/Skibi-Toilets:-Universe-UPDATE-Morph-Script-6657",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gamepass%20Morph%20Script730.lua",
+        "author": "Uploaded by LxghtSvde2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13755645186",
+        "game": true
+    },
+    "UPDATED WORKING AFTER PATCH dupe n custom n more": {
+        "origin": "https://scriptblox.com/script/Grimace-Race-UPDATED-WORKING-AFTER-PATCH-dupe-n-custom-n-more-6705",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20WORKING%20AFTER%20PATCH%20dupe%20n%20custom%20n%20more973.lua",
+        "author": "Uploaded by guss on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13973120326",
+        "game": true
+    },
+    "Eduards Hub V2 UI Revamp": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Eduards-Hub-V2-UI-Revamp-6729",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eduards%20Hub%20V2%20UI%20Revamp420.lua",
+        "author": "Uploaded by EduardLOL on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Fe Creature": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-Creature-6661",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20Creature637.lua",
+        "author": "Uploaded by Innovation on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Skidded IY Repost": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Skidded-IY-Repost-6680",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skidded%20IY%20Repost36.lua",
+        "author": "Uploaded by IMMORTALZ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "VERY OP SCRIPT": {
+        "origin": "https://scriptblox.com/script/UPD9Every-Second-%2B1-Ki-in-DBZ-VERY-OP-SCRIPT-6722",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20OP%20SCRIPT24.lua",
+        "author": "Uploaded by Succuh on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12524383962",
+        "game": true
+    },
+    "Cat Hub V2 Visual": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Cat-Hub-V2-Visual-6663",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Hub%20V2%20Visual166.lua",
+        "author": "Uploaded by Senpaigmx on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "GamerReadyHub": {
+        "origin": "https://scriptblox.com/script/Double-Down-GamerReadyHub-6664",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GamerReadyHub233.lua",
+        "author": "Uploaded by GamerReadyHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9476339275",
+        "game": true
+    },
+    "MM Script": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-MM-Script-6677",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Script122.lua",
+        "author": "Uploaded by lewa on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "autofarm": {
+        "origin": "https://scriptblox.com/script/FREE-UGC-War-Tycoon-autofarm-6696",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm700.lua",
+        "author": "Uploaded by tomergamertv on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4639625707",
+        "game": true
+    },
+    "Creepy Chat FE": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Creepy-Chat-FE-6674",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creepy%20Chat%20FE63.lua",
+        "author": "Uploaded by Steve on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "script SOURCE CODE": {
+        "origin": "https://scriptblox.com/script/POOP-WITH-FRIENDS-script-SOURCE-CODE-6693",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20SOURCE%20CODE169.lua",
+        "author": "Uploaded by botbrostopusing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8110845141",
+        "game": true
+    },
+    "DevWare modded": {
+        "origin": "https://scriptblox.com/script/FIXED-Prison-Life-v3-DevWare-modded-6720",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevWare%20modded698.lua",
+        "author": "Uploaded by devxternal on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9332885675",
+        "game": true
     }
 }

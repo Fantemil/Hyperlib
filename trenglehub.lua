@@ -1,6 +1,6 @@
 function bigRedItalicText(text)
     pcall(function()
-        game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
+lastupdate = "GMT +2: 06.08.2023 18:46:53"
             Text = text,
             Color = Color3.fromRGB(255, 0, 0), -- set the color to red
             Font = Enum.Font.SourceSansItalic,

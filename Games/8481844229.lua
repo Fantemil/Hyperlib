@@ -1,0 +1,2 @@
+
+addscript(8481844229, "Current Game","Lott Grab All Claim All House Rainbow Car", "Uploaded by Bloxs123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lott%20Grab%20All%20Claim%20All%20House%20Rainbow%20Car623.lua", "https://scriptblox.com/script/Berry-Avenue-RP-Lott-Grab-All-Claim-All-House-Rainbow-Car-6714")

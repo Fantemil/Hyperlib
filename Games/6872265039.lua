@@ -62,3 +62,7 @@ addscriptexist(6872265039, "BedWars Anti Cheat Bypass Inf Fly Spider", "Uploaded
                                 
 addscriptexist(6872265039, "BEDWARS SERVER CRASHER", "Uploaded by GamingResources on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEDWARS%20SERVER%20CRASHER982.lua", "https://rscripts.net/script/bedwars-server-crasher-3530")
                                 
+addscriptexist(6872265039, "Free roblox kit", "Uploaded by ARobloxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20roblox%20kit112.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Free-roblox-kit-6688")
+                                
+addscriptexist(6872265039, "Script Anti Cheat Bypass Inf Fly Spider", "Uploaded by killhod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Anti%20Cheat%20Bypass%20Inf%20Fly%20Spider85.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Script-Anti-Cheat-Bypass-Inf-Fly-Spider-6715")
+                                

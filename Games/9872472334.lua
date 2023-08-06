@@ -32,3 +32,5 @@ addscriptexist(9872472334, "ANAL HUB  Evade", "Uploaded by someone8045 on rscrip
                                 
 addscriptexist(9872472334, "Evade Gift Auto Farm", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Gift%20Auto%20Farm653.lua", "https://rscripts.net/script/evade-gift-auto-farm-3138")
                                 
+addscriptexist(9872472334, "Auto Farm Xp Auto Respawn Bunny Hop", "Uploaded by Ggglxi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Xp%20Auto%20Respawn%20Bunny%20Hop862.lua", "https://scriptblox.com/script/Evade-Auto-Farm-Xp-Auto-Respawn-Bunny-Hop-6716")
+                                

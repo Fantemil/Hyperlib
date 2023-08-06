@@ -1,0 +1,2 @@
+
+addscript(13048729872, "Current Game","VIP Room n All Gear and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20All%20Gear%20and%20more339.lua", "https://scriptblox.com/script/Ultra-Easy-Obby-VIP-Room-n-All-Gear-and-more-6659")

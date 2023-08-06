@@ -1,0 +1,2 @@
+
+addscript(12090482034, "Current Game","All Morph n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Morph%20n%20Instant%20Win%20and%20more939.lua", "https://scriptblox.com/script/Escape-Baby-Bobby-Daycare!-(FIRST-PERSON-OBBY)-All-Morph-n-Instant-Win-and-more-6662")

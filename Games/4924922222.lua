@@ -14,3 +14,5 @@ addscriptexist(4924922222, "Brookhaven Kill All Freee GamePass Admin Panel", "Up
                                 
 addscriptexist(4924922222, "IceHub  Brookhaven RP", "Uploaded by Icy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20%20Brookhaven%20RP101.lua", "https://rscripts.net/script/icehub-brookhaven-rp-3474")
                                 
+addscriptexist(4924922222, "Teleports Spam Fire More", "Uploaded by Jimmper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20Spam%20Fire%20More565.lua", "https://scriptblox.com/script/Brookhaven-RP-Teleports-Spam-Fire-More-6713")
+                                

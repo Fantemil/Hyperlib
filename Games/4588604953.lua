@@ -6,3 +6,5 @@ addscript(4588604953, "Current Game","OP SCRIPT", "Uploaded by RonBon on scriptb
                                 
     addscriptexist(4588604953, "Alternative all OP features", "Uploaded by poweringn3t on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alternative%20all%20OP%20features525.lua", "https://scriptblox.com/script/SUMMER-Criminality-Alternative-all-OP-features-4305")
                                 
+addscriptexist(4588604953, "femware", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/femware73.lua", "https://scriptblox.com/script/2x-Criminality-femware-6700")
+                                

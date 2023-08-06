@@ -10,3 +10,7 @@ addscriptexist(6299805723, "Anime Fighters Simulator Auto Farm Auto Meteor Auto 
                                 
 addscriptexist(6299805723, "Auto Farm Mobs list", "Uploaded by Yipoppo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Mobs%20list792.lua", "https://scriptblox.com/script/Tower-Buff-%2Bx5-Drop-Anime-Fighters-Simulator-Auto-Farm-Mobs-list-6644")
                                 
+addscriptexist(6299805723, "yuto hub afs", "Uploaded by felipethomepc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yuto%20hub%20afs387.lua", "https://scriptblox.com/script/Tower-Buff-%2Bx5-Drop-Anime-Fighters-Simulator-yuto-hub-afs-6670")
+                                
+addscriptexist(6299805723, "New Hub all working", "Uploaded by MilkyWay00o on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub%20all%20working302.lua", "https://scriptblox.com/script/Summer-UPD-%2B-Event-Anime-Fighters-Simulator-New-Hub-all-working-6710")
+                                
