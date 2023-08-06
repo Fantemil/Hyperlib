@@ -12,3 +12,5 @@ addscript(10903978962, "Current Game","Sheep Tycoon Gui", "Uploaded by Doku on s
                                 
     addscriptexist(10903978962, "Get free Wool OP", "Uploaded by Tamachiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20free%20Wool%20OP260.lua", "https://scriptblox.com/script/NEW-Sheep-Tycoon-Get-free-Wool-6178")
                                 
+addscriptexist(10903978962, "Sheep Tycoon  Insurgent Hub", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20%20Insurgent%20Hub188.lua", "https://rscripts.net/script/sheep-tycoon-insurgent-hub-4163")
+                                

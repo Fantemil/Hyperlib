@@ -18,3 +18,7 @@ addscriptexist(185655149, "ILLUSION BLOXBURG PIZZA DELIVERY AUTOFARM", "Uploaded
                                 
 addscriptexist(185655149, "Pluto Welcome To Bloxburg", "Uploaded by notIvan on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pluto%20Welcome%20To%20Bloxburg920.lua", "https://rscripts.net/script/pluto-welcome-to-bloxburg-3999")
                                 
+addscriptexist(185655149, "Bloxburg AutoBuild And Autofarm", "Uploaded by Lucid64428ca2025d9 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburg%20AutoBuild%20And%20Autofarm980.lua", "https://rscripts.net/script/bloxburg-autobuild-and-autofarm-3793")
+                                
+addscriptexist(185655149, "Bloxburger Bloxburg Autofarm Autobuild Script", "Uploaded by nyz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburger%20Bloxburg%20Autofarm%20Autobuild%20Script667.lua", "https://rscripts.net/script/bloxburger-bloxburg-autofarm-autobuild-script-3968")
+                                

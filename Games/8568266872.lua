@@ -1,0 +1,4 @@
+
+addscript(8568266872, "Current Game","Kill Monsters To Save Princess", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20To%20Save%20Princess538.lua", "https://rscripts.net/script/kill-monsters-to-save-princess-3500")
+addscriptexist(8568266872, "Kill Monsters To Save The Princess Hub", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Monsters%20To%20Save%20The%20Princess%20Hub745.lua", "https://rscripts.net/script/kill-monsters-to-save-the-princess-hub-3587")
+                                

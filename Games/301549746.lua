@@ -20,3 +20,7 @@ addscriptexist(301549746, "Seere CounterBloxS 1 Script", "Uploaded by sufi on rs
                                 
 addscriptexist(301549746, "Counter Blox Godmode", "Uploaded by sufi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20Godmode501.lua", "https://rscripts.net/script/counter-blox-godmode-3326")
                                 
+addscriptexist(301549746, "BoggleWare CBRO Cheat", "Uploaded by Ragggy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoggleWare%20CBRO%20Cheat499.lua", "https://rscripts.net/script/boggleware-cbro-cheat-3282")
+                                
+addscriptexist(301549746, "Counter Blox  Gun Mods", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20%20Gun%20Mods604.lua", "https://rscripts.net/script/counter-blox-gun-mods-3230")
+                                

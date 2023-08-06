@@ -1,0 +1,2 @@
+
+addscript(7848359510, "Current Game","Free Gamepasses  Dumb Game", "Uploaded by FxckIs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Gamepasses%20%20Dumb%20Game911.lua", "https://rscripts.net/script/free-gamepasses-dumb-game-3427")

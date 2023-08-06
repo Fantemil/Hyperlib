@@ -1,0 +1,2 @@
+
+addscript(11227601015, "Current Game","Iicrrbii Universal Work", "Uploaded by SladeYT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iicrrbii%20Universal%20Work986.lua", "https://rscripts.net/script/iicrrbii-universal-work-3146")

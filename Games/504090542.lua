@@ -1,0 +1,2 @@
+
+addscript(504090542, "Current Game","Battleship Battle Script BEST SCRIPT FOR GAME", "Uploaded by Duo on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battleship%20Battle%20Script%20BEST%20SCRIPT%20FOR%20GAME842.lua", "https://rscripts.net/script/battleship-battle-script-best-script-for-game-3905")

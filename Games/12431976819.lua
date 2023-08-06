@@ -1,0 +1,2 @@
+
+addscript(12431976819, "Current Game","Sea Piece 2 Script  FruitChest Autofarm  More", "Uploaded by Jumble on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Piece%202%20Script%20%20FruitChest%20Autofarm%20%20More70.lua", "https://rscripts.net/script/sea-piece-2-script-fruitchest-autofarm-more-3560")

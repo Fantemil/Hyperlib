@@ -10,3 +10,5 @@ addscript(9992339729, "Current Game","SizzWub", "Uploaded by Sizz on scriptblox.
                                 
     addscriptexist(9992339729, "Best script For This game", "Uploaded by milowreisler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20For%20This%20game149.lua", "https://scriptblox.com/script/Longest-Answer-Wins-Best-script-For-This-game-5891")
                                 
+addscriptexist(9992339729, "Longest Answer Wins AutoFarm AutoWin", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Longest%20Answer%20Wins%20AutoFarm%20AutoWin45.lua", "https://rscripts.net/script/longest-answer-wins-autofarm-autowin-3242")
+                                

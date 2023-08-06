@@ -20,3 +20,7 @@ addscriptexist(3101667897, "Legends Of Speed OP Auto Farm", "Uploaded by AlonE o
                                 
 addscriptexist(3101667897, "Legends Of Speed   Autofarm Open Source", "Uploaded by kareem on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20%20%20Autofarm%20Open%20Source178.lua", "https://rscripts.net/script/legends-of-speed-autofarm-open-source-3160")
                                 
+addscriptexist(3101667897, "This Is The Best Script For Legends Of Speed", "Uploaded by M0RKUTE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/This%20Is%20The%20Best%20Script%20For%20Legends%20Of%20Speed413.lua", "https://rscripts.net/script/this-is-the-best-script-for-legends-of-speed-3952")
+                                
+addscriptexist(3101667897, "Legends Of Speed Autofarm", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Autofarm461.lua", "https://rscripts.net/script/legends-of-speed-autofarm-3437")
+                                

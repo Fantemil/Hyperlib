@@ -74,3 +74,9 @@ addscriptexist(142823291, "Auto Farm Esp Speed", "Uploaded by klar12xR on script
                                 
 addscriptexist(142823291, "MM Script", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Script122.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Script-6677")
                                 
+addscriptexist(142823291, "Lunar Hub Murder Mystery 2", "Uploaded by Pops on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20Hub%20Murder%20Mystery%202598.lua", "https://rscripts.net/script/lunar-hub-murder-mystery-2-3617")
+                                
+addscriptexist(142823291, "Unbeatable 1 TopRated Free MM2 Coin Farm Script", "Uploaded by JensCoding on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unbeatable%201%20TopRated%20Free%20MM2%20Coin%20Farm%20Script927.lua", "https://rscripts.net/script/unbeatable-1-top-rated-free-mm2-coin-farm-script-3866")
+                                
+addscriptexist(142823291, "Murder Mystery 2 OP", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20OP947.lua", "https://rscripts.net/script/murder-mystery-2-op-3490")
+                                

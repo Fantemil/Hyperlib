@@ -42,3 +42,9 @@ addscriptexist(4616652839, "NEW Shindo Life Teleport Locations Script  NOW FOR A
                                 
 addscriptexist(4616652839, "Project Nexus", "Uploaded by Demm on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus830.lua", "https://rscripts.net/script/project-nexus-3226")
                                 
+addscriptexist(4616652839, "OP SL SCRIPT WITH INF SPINS", "Uploaded by Corrupt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SL%20SCRIPT%20WITH%20INF%20SPINS968.lua", "https://rscripts.net/script/op-sl-script-with-inf-spins-3835")
+                                
+addscriptexist(4616652839, "NEW Shindo Life INFINITE Jump Script ", "Uploaded by capybara on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Shindo%20Life%20INFINITE%20Jump%20Script%2095.lua", "https://rscripts.net/script/new-shindo-life-infinite-jump-script-3361")
+                                
+addscriptexist(4616652839, "New Shindo Life Script Platinium Hub", "Uploaded by Drazox on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Shindo%20Life%20Script%20Platinium%20Hub674.lua", "https://rscripts.net/script/new-shindo-life-script-platinium-hub-3072")
+                                

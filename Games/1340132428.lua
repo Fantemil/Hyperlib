@@ -1,0 +1,2 @@
+
+addscript(1340132428, "Current Game","1 Armored Patrol GUI V3", "Uploaded by 1NO on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Armored%20Patrol%20GUI%20V3583.lua", "https://rscripts.net/script/1-armored-patrol-gui-v3-3068")

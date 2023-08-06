@@ -1,0 +1,2 @@
+
+addscript(8592863835, "Current Game","Uzu Scripts  Magnet Simulator 2", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Uzu%20Scripts%20%20Magnet%20Simulator%20245.lua", "https://rscripts.net/script/uzu-scripts-magnet-simulator-2-4131")

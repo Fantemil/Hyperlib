@@ -8,3 +8,5 @@ addscript(2474168535, "Current Game","Update Speed Aimbot ESP Teleports and More
                                 
     addscriptexist(2474168535, "OP SCRIPT", "Uploaded by Medellin_R on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT783.lua", "https://scriptblox.com/script/Westbound-OP-SCRIPT-6504")
                                 
+addscriptexist(2474168535, "WestboundPro V165", "Uploaded by aleksandar on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WestboundPro%20V165544.lua", "https://rscripts.net/script/westboundpro-v165-3363")
+                                

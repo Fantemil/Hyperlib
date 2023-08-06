@@ -18,3 +18,7 @@ addscriptexist(6284583030, "LKHUB  Insane Script Hub For Multiple Games", "Uploa
                                 
 addscriptexist(6284583030, "PET SIMULATOR X  OP SCRIPT", "Uploaded by MHD444 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PET%20SIMULATOR%20X%20%20OP%20SCRIPT385.lua", "https://rscripts.net/script/pet-simulator-x-op-script-3450")
                                 
+addscriptexist(6284583030, "Lux  Pet Simulator X", "Uploaded by RogueRam on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lux%20%20Pet%20Simulator%20X237.lua", "https://rscripts.net/script/lux-pet-simulator-x-3569")
+                                
+addscriptexist(6284583030, "Pet Simulator X Created By BloodBath9170", "Uploaded by BloodBath on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Created%20By%20BloodBath9170685.lua", "https://rscripts.net/script/pet-simulator-x-created-by-bloodbath9170-3528")
+                                

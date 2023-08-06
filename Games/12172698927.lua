@@ -1,0 +1,2 @@
+
+addscript(12172698927, "Current Game","Sword Race INF Money Auto RebirthAuto Egg", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Race%20INF%20Money%20Auto%20RebirthAuto%20Egg342.lua", "https://rscripts.net/script/sword-race-inf-money-auto-rebirthauto-egg-3447")

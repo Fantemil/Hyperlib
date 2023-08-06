@@ -8,3 +8,5 @@ addscript(8726743209, "Current Game","WIP GUI", "Uploaded by Shag420 on scriptbl
                                 
     addscriptexist(8726743209, "Autofarm GUI", "Uploaded by 1UpBunny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20GUI542.lua", "https://scriptblox.com/script/Refinery-Caves-Autofarm-GUI-6493")
                                 
+addscriptexist(8726743209, "Refinery Caves  Best Script Atm", "Uploaded by GamingResources on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Refinery%20Caves%20%20Best%20Script%20Atm723.lua", "https://rscripts.net/script/refinery-caves-best-script-atm-3449")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zCurryz/CurryHub/main/Loader"))()

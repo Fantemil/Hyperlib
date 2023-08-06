@@ -20,3 +20,5 @@ addscriptexist(920587237, "Adopt Me Autofarm Baby Mode", "Uploaded by ImperialEx
                                 
 addscriptexist(920587237, "AutoFarmBaby Farming", "Uploaded by Ekat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarmBaby%20Farming891.lua", "https://scriptblox.com/script/Adopt-Me!-AutoFarmBaby-Farming-6695")
                                 
+addscriptexist(920587237, "Prodigy X AdoptMe Adopt Me Adopt Me Pet Autofarm Auto Neon Auto Trade And More", "Uploaded by ReQiuYTPL on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prodigy%20X%20AdoptMe%20Adopt%20Me%20Adopt%20Me%20Pet%20Autofarm%20Auto%20Neon%20Auto%20Trade%20And%20More625.lua", "https://rscripts.net/script/prodigy-x-adoptme-adopt-me-adopt-me-pet-autofarm-auto-neon-auto-trade-and-more-3172")
+                                

@@ -1,0 +1,2 @@
+
+addscript(13461044782, "Current Game","Every Second You Jump Higher", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Jump%20Higher574.lua", "https://rscripts.net/script/every-second-you-jump-higher-3981")

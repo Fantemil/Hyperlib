@@ -1,0 +1,2 @@
+
+addscript(10967799786, "Current Game","Pet Lifting Simulator OP Script", "Uploaded by Drazox on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Lifting%20Simulator%20OP%20Script43.lua", "https://rscripts.net/script/pet-lifting-simulator-op-script-3064")

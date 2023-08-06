@@ -10,3 +10,5 @@ addscript(9049840490, "Current Game","AstralHook", "Uploaded by d1vine_ on scrip
                                 
     addscriptexist(9049840490, "Phantom Hub  CHECK DESCRIPTION", "Uploaded by desty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Hub%20%20CHECK%20DESCRIPTION230.lua", "https://scriptblox.com/script/NEW-RACE!-Sonic-Speed-Simulator-Phantom-Hub-5452")
                                 
+addscriptexist(9049840490, "Sonic Speed Simulator", "Uploaded by BismaAkmal on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator333.lua", "https://rscripts.net/script/sonic-speed-simulator-3988")
+                                

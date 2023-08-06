@@ -8,3 +8,5 @@ addscript(6728870912, "Current Game","AutoFarm Webhook Item Farm", "Uploaded by 
                                 
 addscriptexist(6728870912, "World Of Stands  Chest Autofarm", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stands%20%20Chest%20Autofarm399.lua", "https://rscripts.net/script/world-of-stands-chest-autofarm-3192")
                                 
+addscriptexist(6728870912, "World Of Stand Auto Chest", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stand%20Auto%20Chest89.lua", "https://rscripts.net/script/world-of-stand-auto-chest-4214")
+                                

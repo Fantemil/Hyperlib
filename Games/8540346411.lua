@@ -18,3 +18,11 @@ addscriptexist(8540346411, "Auto Farm Egg Hunt EvENT", "Uploaded by Toddy on rsc
                                 
 addscriptexist(8540346411, "Op Script For Rebirth Champions X", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script%20For%20Rebirth%20Champions%20X610.lua", "https://rscripts.net/script/op-script-for-rebirth-champions-x-3471")
                                 
+addscriptexist(8540346411, "Rebirth Champions X Script Finish The Game In A Minute", "Uploaded by Drazox on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20Script%20Finish%20The%20Game%20In%20A%20Minute272.lua", "https://rscripts.net/script/rebirth-champions-x-script-finish-the-game-in-a-minute-3060")
+                                
+addscriptexist(8540346411, "OPEN SOURCE  KYLEES HUB  Rebirth Champions X  100M EVENT", "Uploaded by Kylee on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20%20KYLEES%20HUB%20%20Rebirth%20Champions%20X%20%20100M%20EVENT602.lua", "https://rscripts.net/script/open-source-kylees-hub-rebirth-champions-x-100m-event-3007")
+                                
+addscriptexist(8540346411, "Insane Script For Rebirth Champions X", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20Script%20For%20Rebirth%20Champions%20X786.lua", "https://rscripts.net/script/insane-script-for-rebirth-champions-x-3535")
+                                
+addscriptexist(8540346411, "Rebirth Champions X AUTO FARMING  MORE FREE GUI SCRIPT", "Uploaded by Curry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20AUTO%20FARMING%20%20MORE%20FREE%20GUI%20SCRIPT79.lua", "https://rscripts.net/script/rebirth-champions-x-auto-farming-more-free-gui-script-2995")
+                                

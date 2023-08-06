@@ -1,0 +1,2 @@
+
+addscript(11302865934, "Current Game","Every Second You Get 1 HP Autofarm And Some More", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20HP%20Autofarm%20And%20Some%20More141.lua", "https://rscripts.net/script/every-second-you-get-1-hp-autofarm-and-some-more-3196")

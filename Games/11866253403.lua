@@ -1,0 +1,2 @@
+
+addscript(11866253403, "Current Game","Ragdoll Jump Race OP Gui", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ragdoll%20Jump%20Race%20OP%20Gui471.lua", "https://rscripts.net/script/ragdoll-jump-race-op-gui-3102")

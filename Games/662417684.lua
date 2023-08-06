@@ -10,3 +10,5 @@ addscript(662417684, "Current Game","Op its working", "Uploaded by amcoolguy on 
                                 
     addscriptexist(662417684, "battleground script", "Uploaded by AzureClips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/battleground%20script91.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Battleground-6143")
                                 
+addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds309.lua", "https://rscripts.net/script/lucky-blocks-battlegrounds-3786")
+                                

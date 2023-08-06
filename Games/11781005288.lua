@@ -1,0 +1,2 @@
+
+addscript(11781005288, "Current Game","1 Jetpack Fuel Per Second Autofarm Etc", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Jetpack%20Fuel%20Per%20Second%20Autofarm%20Etc990.lua", "https://rscripts.net/script/1-jetpack-fuel-per-second-autofarm-etc-3412")

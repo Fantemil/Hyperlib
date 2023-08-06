@@ -62,3 +62,9 @@ addscriptexist(6516141723, "DOORS  NEW Script", "Uploaded by n00dy on rscripts.n
                                 
 addscriptexist(6516141723, "Doors Auto Farm", "Uploaded by Reddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20Auto%20Farm32.lua", "https://rscripts.net/script/doors-auto-farm-3200")
                                 
+addscriptexist(6516141723, "Doors  ESP For Almost Everything Alot More", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doors%20%20ESP%20For%20Almost%20Everything%20Alot%20More872.lua", "https://rscripts.net/script/doors-esp-for-almost-everything-alot-more-3417")
+                                
+addscriptexist(6516141723, "OP Doors Entity Spawner", "Uploaded by Lucas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Doors%20Entity%20Spawner701.lua", "https://rscripts.net/script/op-doors-entity-spawner-3432")
+                                
+addscriptexist(6516141723, "Roblox Doors Auto Death Farm", "Uploaded by EE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Doors%20Auto%20Death%20Farm357.lua", "https://rscripts.net/script/roblox-doors-auto-death-farm-3428")
+                                

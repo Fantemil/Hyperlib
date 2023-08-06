@@ -1,0 +1,2 @@
+
+addscript(11162791099, "Current Game","Insane Script For Free Hatchers", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20Script%20For%20Free%20Hatchers160.lua", "https://rscripts.net/script/insane-script-for-free-hatchers-3675")

@@ -4,3 +4,5 @@ addscriptexist(10449761463, "Script with lots of features", "Uploaded by Hiklerx
                                 
 addscriptexist(10449761463, "FREE GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI625.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FREE-GUI-6727")
                                 
+addscriptexist(10449761463, "The Strongest Battlegrounds AutoFarm Hit Aura Auto Safe  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Strongest%20Battlegrounds%20AutoFarm%20Hit%20Aura%20Auto%20Safe%20%20More25.lua", "https://rscripts.net/script/the-strongest-battlegrounds-autofarm-hit-aura-auto-safe-more-4202")
+                                

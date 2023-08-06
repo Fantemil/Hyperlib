@@ -4,3 +4,5 @@ addscript(335760407, "Current Game","Script nvm", "Uploaded by Daxx3rScriptsLOL 
                                 
     addscriptexist(335760407, "Another Street soccer script", "Uploaded by Daxx3rScriptsLOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Another%20Street%20soccer%20script145.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-Another-Street-soccer-script-6519")
                                 
+addscriptexist(335760407, "Street Soccer Script", "Uploaded by hussain on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Street%20Soccer%20Script605.lua", "https://rscripts.net/script/street-soccer-script-3116")
+                                

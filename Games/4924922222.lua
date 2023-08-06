@@ -16,3 +16,5 @@ addscriptexist(4924922222, "IceHub  Brookhaven RP", "Uploaded by Icy on rscripts
                                 
 addscriptexist(4924922222, "Teleports Spam Fire More", "Uploaded by Jimmper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20Spam%20Fire%20More565.lua", "https://scriptblox.com/script/Brookhaven-RP-Teleports-Spam-Fire-More-6713")
                                 
+addscriptexist(4924922222, "Brookhaven RP Teleports Spam Fire More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Teleports%20Spam%20Fire%20More105.lua", "https://rscripts.net/script/brookhaven-rp-teleports-spam-fire-more-4205")
+                                

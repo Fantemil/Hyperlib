@@ -108,3 +108,11 @@ addscriptexist(286090429, "Argon Hub  Arsenal", "Uploaded by McletsHacksYT on rs
                                 
 addscriptexist(286090429, "Arsenal Script  Silent Aimbot ESP Kill Aura Gun Mods And More", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Script%20%20Silent%20Aimbot%20ESP%20Kill%20Aura%20Gun%20Mods%20And%20More15.lua", "https://rscripts.net/script/arsenal-script-silent-aimbot-esp-kill-aura-gun-mods-and-more-3023")
                                 
+addscriptexist(286090429, "Arsenal Op Script Yes", "Uploaded by JustARandomBacon on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Op%20Script%20Yes296.lua", "https://rscripts.net/script/arsenal-op-script-yes-3920")
+                                
+addscriptexist(286090429, "Arsenal DevHub OP GUIs", "Uploaded by HevX on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20DevHub%20OP%20GUIs216.lua", "https://rscripts.net/script/arsenal-devhub-op-guis-3183")
+                                
+addscriptexist(286090429, "Arsenal Script AIMBOT ESP PATCHED", "Uploaded by PEKKA on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arsenal%20Script%20AIMBOT%20ESP%20PATCHED975.lua", "https://rscripts.net/script/arsenal-script-aimbot-esp-patched-3078")
+                                
+addscriptexist(286090429, "Strike Hub  Arsenal", "Uploaded by MHD444 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strike%20Hub%20%20Arsenal836.lua", "https://rscripts.net/script/strike-hub-arsenal-3063")
+                                

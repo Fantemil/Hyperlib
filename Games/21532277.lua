@@ -14,3 +14,5 @@ addscript(21532277, "Current Game","Im just bored so i found this", "Uploaded by
                                 
     addscriptexist(21532277, "OP Undetected Script", "Uploaded by RonBon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Undetected%20Script930.lua", "https://scriptblox.com/script/Notoriety-Notoriety-5744")
                                 
+addscriptexist(21532277, " 1 Notoriety Autofarm", "Uploaded by 1NO on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%201%20Notoriety%20Autofarm696.lua", "https://rscripts.net/script/1-notoriety-autofarm-3094")
+                                

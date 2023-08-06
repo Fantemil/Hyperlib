@@ -80,3 +80,41 @@ addscriptexist(, "Sasdoors V13  Doors Gui", "Uploaded by sashaa on rscripts.net"
                                 
 addscriptexist(, "Every Second You Get 1 Jump Power", "Uploaded by J on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20Jump%20Power416.lua", "https://rscripts.net/script/every-second-you-get-1-jump-power-3207")
                                 
+addscriptexist(, "Hoop Simulator  MaddHub Free Key", "Uploaded by maddjester on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoop%20Simulator%20%20MaddHub%20Free%20Key267.lua", "https://rscripts.net/script/hoop-simulator-maddhub-free-key-4206")
+                                
+addscriptexist(, "Tapping Simulator  Wheat Hub", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tapping%20Simulator%20%20Wheat%20Hub550.lua", "https://rscripts.net/script/tapping-simulator-wheat-hub-3710")
+                                
+addscriptexist(, "Create A Cart Ride MAGNETIC WHEELS", "Uploaded by rylvns on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Create%20A%20Cart%20Ride%20MAGNETIC%20WHEELS461.lua", "https://rscripts.net/script/create-a-cart-ride-magnetic-wheels-3964")
+                                
+addscriptexist(, "Pets Simulator X Anti Stealer", "Uploaded by russian on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pets%20Simulator%20X%20Anti%20Stealer523.lua", "https://rscripts.net/script/pets-simulator-x-anti-stealer-3551")
+                                
+addscriptexist(, "Mage Tycoon  Wheat Hub", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mage%20Tycoon%20%20Wheat%20Hub990.lua", "https://rscripts.net/script/mage-tycoon-wheat-hub-3711")
+                                
+addscriptexist(, "Phantom Forces  Fast Animations Open Source", "Uploaded by The3Bakers on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Fast%20Animations%20Open%20Source512.lua", "https://rscripts.net/script/phantom-forces-fast-animations-open-source-3170")
+                                
+addscriptexist(, "Local Hub  Build A Boat For Treasure", "Uploaded by Zoi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Local%20Hub%20%20Build%20A%20Boat%20For%20Treasure906.lua", "https://rscripts.net/script/local-hub-build-a-boat-for-treasure-3194")
+                                
+addscriptexist(, "Sword Fighters Simulator  MaddHub Free Key", "Uploaded by maddjester on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Fighters%20Simulator%20%20MaddHub%20Free%20Key778.lua", "https://rscripts.net/script/sword-fighters-simulator-maddhub-free-key-4007")
+                                
+addscriptexist(, "Military Tycoon Event Farm", "Uploaded by OopssSorry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Military%20Tycoon%20Event%20Farm213.lua", "https://rscripts.net/script/military-tycoon-event-farm-3248")
+                                
+addscriptexist(, "Local Hub  KAT", "Uploaded by Zoi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Local%20Hub%20%20KAT843.lua", "https://rscripts.net/script/local-hub-kat-3195")
+                                
+addscriptexist(, "Pixel Piece FULL AUTOFARM", "Uploaded by kyoichi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20Piece%20FULL%20AUTOFARM536.lua", "https://rscripts.net/script/pixel-piece-full-autofarm-3285")
+                                
+addscriptexist(, " Arm Wrestle Simulator  Unity Demo  Serverside  Dupe Kick Inf Items ", "Uploaded by Baller on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Arm%20Wrestle%20Simulator%20%20Unity%20Demo%20%20Serverside%20%20Dupe%20Kick%20Inf%20Items%20585.lua", "https://rscripts.net/script/arm-wrestle-simulator-unity-demo-serverside-dupe-kick-inf-items-4169")
+                                
+addscriptexist(, "Phantom Forces  Movement Changer Open Source", "Uploaded by The3Bakers on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Movement%20Changer%20Open%20Source441.lua", "https://rscripts.net/script/phantom-forces-movement-changer-open-source-3254")
+                                
+addscriptexist(, "Phantom Forces  Hit Box Expander Open Source", "Uploaded by The3Bakers on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Hit%20Box%20Expander%20Open%20Source522.lua", "https://rscripts.net/script/phantom-forces-hit-box-expander-open-source-3164")
+                                
+addscriptexist(, "Phantom Forces  Silent Aim Open Source", "Uploaded by The3Bakers on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Silent%20Aim%20Open%20Source116.lua", "https://rscripts.net/script/phantom-forces-silent-aim-open-source-3104")
+                                
+addscriptexist(, "School Of Hierarchy Mob Farm  Boxes Farm  Potential Script  No Cooldown ETC", "Uploaded by KylnDantas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/School%20Of%20Hierarchy%20Mob%20Farm%20%20Boxes%20Farm%20%20Potential%20Script%20%20No%20Cooldown%20ETC767.lua", "https://rscripts.net/script/school-of-hierarchy-mob-farm-boxes-farm-potential-script-no-cooldown-etc-3105")
+                                
+addscriptexist(, "Ohio Money Farm  Collect Items  Fly  Noclip ETC", "Uploaded by KylnDantas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Money%20Farm%20%20Collect%20Items%20%20Fly%20%20Noclip%20ETC141.lua", "https://rscripts.net/script/ohio-money-farm-collect-items-fly-noclip-etc-3100")
+                                
+addscriptexist(, "Reach Script And Anti Cheat BypasserAntiban", "Uploaded by FxckIs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reach%20Script%20And%20Anti%20Cheat%20BypasserAntiban148.lua", "https://rscripts.net/script/reach-script-and-anti-cheat-bypasserantiban-3451")
+                                
+addscriptexist(, "Best Script For The Game", "Uploaded by FxckIs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20For%20The%20Game623.lua", "https://rscripts.net/script/best-script-for-the-game-3296")
+                                

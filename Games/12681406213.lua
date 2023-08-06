@@ -1,2 +1,4 @@
 
 addscript(12681406213, "Current Game","Kill To Save Anime Girl  Auto Farm", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20To%20Save%20Anime%20Girl%20%20Auto%20Farm216.lua", "https://rscripts.net/script/kill-to-save-anime-girl-auto-farm-3640")
+addscriptexist(12681406213, "New Kill To Save Anime Girl Script", "Uploaded by Drazox6430920f61339 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Kill%20To%20Save%20Anime%20Girl%20Script524.lua", "https://rscripts.net/script/new-kill-to-save-anime-girl-script-3696")
+                                

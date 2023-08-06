@@ -1,0 +1,2 @@
+
+addscript(10889408214, "Current Game","DEFLECT  Legit Auto Deflect  Perfect Auto Deflect  Hitbox Expander  Lag Server", "Uploaded by KylnDantas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEFLECT%20%20Legit%20Auto%20Deflect%20%20Perfect%20Auto%20Deflect%20%20Hitbox%20Expander%20%20Lag%20Server825.lua", "https://rscripts.net/script/deflect-legit-auto-deflect-perfect-auto-deflect-hitbox-expander-lag-server-3166")

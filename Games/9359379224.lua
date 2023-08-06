@@ -1,0 +1,2 @@
+
+addscript(9359379224, "Current Game","Ascend  Coin  Gummy  Starfall Autofarm", "Uploaded by szze on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ascend%20%20Coin%20%20Gummy%20%20Starfall%20Autofarm17.lua", "https://rscripts.net/script/ascend-coin-gummy-starfall-autofarm-3313")

@@ -1,0 +1,6 @@
+
+addscript(11063612131, "Current Game","Every Second You Get 1 JumpPower Script Hub", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20JumpPower%20Script%20Hub448.lua", "https://rscripts.net/script/every-second-you-get-1-jumppower-script-hub-3646")
+addscriptexist(11063612131, "Every Second You Get 1 Jump Power  Nihub", "Uploaded by ni7kobv on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20Jump%20Power%20%20Nihub911.lua", "https://rscripts.net/script/every-second-you-get-1-jump-power-nihub-3025")
+                                
+addscriptexist(11063612131, "Every Second You Get 1 Jump Power AUTO FARM  AUTO REBIRTH  MORE", "Uploaded by Curry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20Jump%20Power%20AUTO%20FARM%20%20AUTO%20REBIRTH%20%20MORE501.lua", "https://rscripts.net/script/every-second-you-get-1-jump-power-auto-farm-auto-rebirth-more-3010")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/discopro/gunmod/main/mod.lua"))()

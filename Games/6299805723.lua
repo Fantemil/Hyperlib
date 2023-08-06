@@ -14,3 +14,5 @@ addscriptexist(6299805723, "yuto hub afs", "Uploaded by felipethomepc on scriptb
                                 
 addscriptexist(6299805723, "New Hub all working", "Uploaded by MilkyWay00o on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub%20all%20working302.lua", "https://scriptblox.com/script/Summer-UPD-%2B-Event-Anime-Fighters-Simulator-New-Hub-all-working-6710")
                                 
+addscriptexist(6299805723, "Anime Fighters Simulator Auto Farm Mobs Leave Room", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Fighters%20Simulator%20Auto%20Farm%20Mobs%20Leave%20Room839.lua", "https://rscripts.net/script/anime-fighters-simulator-auto-farm-mobs-leave-room-4173")
+                                

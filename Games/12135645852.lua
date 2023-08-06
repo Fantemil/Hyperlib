@@ -2,3 +2,5 @@
 addscript(12135645852, "Current Game","PN", "Uploaded by Afyyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PN887.lua", "https://scriptblox.com/script/DARK-WORLD-Anime-Catching-Simulator-PN-6625")
 addscriptexist(12135645852, "Best Anime Catching Simulator Script", "Uploaded by Drazox6430920f61339 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Anime%20Catching%20Simulator%20Script595.lua", "https://rscripts.net/script/best-anime-catching-simulator-script-3780")
                                 
+addscriptexist(12135645852, "Leave On Overnight Anime Catching Simulator Script For Mobile  PC Autofarm", "Uploaded by tozxart on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leave%20On%20Overnight%20Anime%20Catching%20Simulator%20Script%20For%20Mobile%20%20PC%20Autofarm42.lua", "https://rscripts.net/script/leave-on-overnight-anime-catching-simulator-script-for-mobile-pc-autofarm-4074")
+                                

@@ -8,3 +8,5 @@ addscriptexist(893973440, "Flee The Facility Bypass Anti Cheat", "Uploaded by Im
                                 
 addscriptexist(893973440, "Flee The Facility OP", "Uploaded by OneProtocol on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20OP66.lua", "https://rscripts.net/script/flee-the-facility-op-3887")
                                 
+addscriptexist(893973440, "Flee The Facility REWORK Free Code", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20REWORK%20Free%20Code603.lua", "https://rscripts.net/script/flee-the-facility-rework-free-code-4145")
+                                

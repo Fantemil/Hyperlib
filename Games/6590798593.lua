@@ -1,0 +1,2 @@
+
+addscript(6590798593, "Current Game","1 Waterloo At Home GUI", "Uploaded by 1NO on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Waterloo%20At%20Home%20GUI852.lua", "https://rscripts.net/script/1-waterloo-at-home-gui-3110")

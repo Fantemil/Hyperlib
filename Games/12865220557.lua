@@ -1,0 +1,2 @@
+
+addscript(12865220557, "Current Game","PG Park Script  Instant Wins Swiffer Obby", "Uploaded by BismaAkmal on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PG%20Park%20Script%20%20Instant%20Wins%20Swiffer%20Obby486.lua", "https://rscripts.net/script/pg-park-script-instant-wins-swiffer-obby-3991")

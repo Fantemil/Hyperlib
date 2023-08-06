@@ -358,3 +358,11 @@ addscriptexist(2788229376, "MOBILE SUPPORT Zinc Hub V33", "Uploaded by MontyBudg
                                 
 addscriptexist(2788229376, "DA HOOD ABYS FREE INTERNAL SCRIPT", "Uploaded by zerotop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DA%20HOOD%20ABYS%20FREE%20INTERNAL%20SCRIPT684.lua", "https://rscripts.net/script/da-hood-abys-free-internal-script-3329")
                                 
+addscriptexist(2788229376, "OP DH Zinc Hub V28 NEW FEATURES  LOTS MORE", "Uploaded by MontyBudget on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DH%20Zinc%20Hub%20V28%20NEW%20FEATURES%20%20LOTS%20MORE958.lua", "https://rscripts.net/script/op-dh-zinc-hub-v28-new-features-lots-more-3339")
+                                
+addscriptexist(2788229376, "DH Zinc Hub V295 OP", "Uploaded by MontyBudget on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DH%20Zinc%20Hub%20V295%20OP745.lua", "https://rscripts.net/script/dh-zinc-hub-v295-op-3374")
+                                
+addscriptexist(2788229376, "Nova Gui V3  OP  FREE  DA HOOD", "Uploaded by Icxy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nova%20Gui%20V3%20%20OP%20%20FREE%20%20DA%20HOOD101.lua", "https://rscripts.net/script/nova-gui-v3-op-free-da-hood-3035")
+                                
+addscriptexist(2788229376, "FREE DA HOOD SCRIPT UI PARADOX", "Uploaded by zerotop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20DA%20HOOD%20SCRIPT%20UI%20PARADOX670.lua", "https://rscripts.net/script/free-da-hood-script-ui-paradox-3327")
+                                

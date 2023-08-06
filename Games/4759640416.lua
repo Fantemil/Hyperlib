@@ -1,0 +1,2 @@
+
+addscript(4759640416, "Current Game","The Underground War 2 Flag TP", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Underground%20War%202%20Flag%20TP849.lua", "https://rscripts.net/script/the-underground-war-2-flag-tp-3377")

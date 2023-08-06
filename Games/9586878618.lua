@@ -1,0 +1,2 @@
+
+addscript(9586878618, "Current Game","Inazuma Rebirth Money Farm  Level Farm  Speed Farm  Stamina Farm  Dribble Farm", "Uploaded by KylnDantas on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inazuma%20Rebirth%20Money%20Farm%20%20Level%20Farm%20%20Speed%20Farm%20%20Stamina%20Farm%20%20Dribble%20Farm84.lua", "https://rscripts.net/script/inazuma-rebirth-money-farm-level-farm-speed-farm-stamina-farm-dribble-farm-3076")

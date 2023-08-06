@@ -1,0 +1,2 @@
+
+addscript(7722306047, "Current Game","Pet Simulator X  Booth Sniper Key System 3 Days", "Uploaded by Lewmr on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20%20Booth%20Sniper%20Key%20System%203%20Days400.lua", "https://rscripts.net/script/pet-simulator-x-booth-sniper-key-system-3-days-3661")

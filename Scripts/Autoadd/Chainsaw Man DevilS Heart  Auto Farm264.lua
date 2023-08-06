@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gist.githubusercontent.com/broreallyplayingthisgame/676288ad21dd687e3b1de31467561d97/raw/'))()

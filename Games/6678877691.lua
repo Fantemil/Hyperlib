@@ -10,3 +10,5 @@ addscript(6678877691, "Current Game","Script Rage Bot", "Uploaded by CerRexior o
                                 
 addscriptexist(6678877691, "ZoWare Script OP Constantly Bypassed", "Uploaded by Slayn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZoWare%20Script%20OP%20Constantly%20Bypassed944.lua", "https://rscripts.net/script/zoware-script-op-constantly-bypassed-3337")
                                 
+addscriptexist(6678877691, "ZO SAMURAI  Killaura", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20%20Killaura779.lua", "https://rscripts.net/script/zo-samurai-killaura-3438")
+                                

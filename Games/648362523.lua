@@ -18,3 +18,5 @@ addscript(648362523, "Current Game","Breaking point inf coins", "Uploaded by Cro
                                 
 addscriptexist(648362523, "Breaking Point  Wheat Hub", "Uploaded by MaGiXx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20%20Wheat%20Hub721.lua", "https://rscripts.net/script/breaking-point-wheat-hub-3796")
                                 
+addscriptexist(648362523, "Breaking Point 250K Coins Per Hour", "Uploaded by Reddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20250K%20Coins%20Per%20Hour961.lua", "https://rscripts.net/script/breaking-point-250k-coins-per-hour-3202")
+                                

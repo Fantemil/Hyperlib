@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Every-Second-You-Jump-Higher-/main/Main", true))()

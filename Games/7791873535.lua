@@ -1,2 +1,4 @@
 
 addscript(7791873535, "Current Game","inf money", "Uploaded by Globe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money282.lua", "https://scriptblox.com/script/REALISTIC-HOOD-inf-money-3196")
+addscriptexist(7791873535, "REALISTIC HOOD AUTOFARM 1MIL IN UNDER 2 MINS", "Uploaded by kareem on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REALISTIC%20HOOD%20AUTOFARM%201MIL%20IN%20UNDER%202%20MINS256.lua", "https://rscripts.net/script/realistic-hood-autofarm-1mil-in-under-2-mins-3140")
+                                

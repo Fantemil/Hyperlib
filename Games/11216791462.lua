@@ -1,0 +1,2 @@
+
+addscript(11216791462, "Current Game","Hungry Pigs Script", "Uploaded by Appelman on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hungry%20Pigs%20Script135.lua", "https://rscripts.net/script/hungry-pigs-script-3211")

@@ -1,2 +1,4 @@
 
 addscript(13947485744, "Current Game","Infinite Coins And Much More For Shuriken Throwing Simulator", "Uploaded by ShadowLurker on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20And%20Much%20More%20For%20Shuriken%20Throwing%20Simulator176.lua", "https://rscripts.net/script/infinite-coins-and-much-more-for-shuriken-throwing-simulator-3995")
+addscriptexist(13947485744, "INFINITE POWER NEW Shuriken Throwing Simulator", "Uploaded by yanis on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20POWER%20NEW%20Shuriken%20Throwing%20Simulator741.lua", "https://rscripts.net/script/infinite-power-new-shuriken-throwing-simulator-3992")
+                                

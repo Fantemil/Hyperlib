@@ -1,0 +1,2 @@
+
+addscript(5780309044, "Current Game","Stands Awakening Event Boss GUI", "Uploaded by 3itx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20Boss%20GUI534.lua", "https://rscripts.net/script/stands-awakening-event-boss-gui-3558")

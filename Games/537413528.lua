@@ -64,3 +64,7 @@ addscriptexist(537413528, "Build A Boat 2023 OP Script   ", "Uploaded by SladeYT
                                 
 addscriptexist(537413528, "Build A Boat For Treasure Gui", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Gui716.lua", "https://rscripts.net/script/build-a-boat-for-treasure-gui-3113")
                                 
+addscriptexist(537413528, "BEST SCRIPT FOR BUILD A BOAT FOR TREASURE WITH OP FEATURES", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20BUILD%20A%20BOAT%20FOR%20TREASURE%20WITH%20OP%20FEATURES684.lua", "https://rscripts.net/script/best-script-for-build-a-boat-for-treasure-with-op-features-3648")
+                                
+addscriptexist(537413528, "Build A Boat For Treasure GUI  Auto Quest Auto Farm Functions ClickDetectors", "Uploaded by SladeYT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GUI%20%20Auto%20Quest%20Auto%20Farm%20Functions%20ClickDetectors536.lua", "https://rscripts.net/script/build-a-boat-for-treasure-gui-auto-quest-auto-farm-functions-clickdetectors-3148")
+                                

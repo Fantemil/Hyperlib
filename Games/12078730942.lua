@@ -1,0 +1,2 @@
+
+addscript(12078730942, "Current Game","Genshin Verse Gem Autofarm", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genshin%20Verse%20Gem%20Autofarm648.lua", "https://rscripts.net/script/genshin-verse-gem-autofarm-3599")

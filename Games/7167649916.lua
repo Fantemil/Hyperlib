@@ -1,0 +1,2 @@
+
+addscript(7167649916, "Current Game","Trophy Script Hub OP", "Uploaded by Beatorld on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trophy%20Script%20Hub%20OP69.lua", "https://rscripts.net/script/trophy-script-hub-op-3298")

@@ -1,2 +1,4 @@
 
 addscript(11746859781, "Current Game","Bubble Gum Clicker Auto Spin Wheel Auto Blow Bubble Auto Claim Daily Gifts", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Auto%20Spin%20Wheel%20Auto%20Blow%20Bubble%20Auto%20Claim%20Daily%20Gifts272.lua", "https://rscripts.net/script/bubble-gum-clicker-auto-spin-wheel-auto-blow-bubble-auto-claim-daily-gifts-3401")
+addscriptexist(11746859781, "Bubble Gum Clicker Script", "Uploaded by Jumble on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bubble%20Gum%20Clicker%20Script580.lua", "https://rscripts.net/script/bubble-gum-clicker-script-3319")
+                                

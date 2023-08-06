@@ -188,3 +188,13 @@ addscriptexist(2753915549, "Auto Stats Auto Buy Fruit Sniper More", "Uploaded by
                                 
 addscriptexist(2753915549, "Auto Farm Auto Saber Auto Pole", "Uploaded by Niliker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Saber%20Auto%20Pole19.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Auto-Saber-Auto-Pole-6712")
                                 
+addscriptexist(2753915549, "Void Hub V3 Keyless", "Uploaded by Efes on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Hub%20V3%20Keyless572.lua", "https://rscripts.net/script/void-hub-v3-keyless-3652")
+                                
+addscriptexist(2753915549, "NEW BLOX FRUITS SCRIPT INSANE AUTO FARM TELEPORTS AUTO BOSS FRUIT SNIPES AUTO DUNGEON AUTO BF MASTERY GUN MASTERY INFINITE OBSERVATION AND MORE", "Uploaded by arlists on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20BLOX%20FRUITS%20SCRIPT%20INSANE%20AUTO%20FARM%20TELEPORTS%20AUTO%20BOSS%20FRUIT%20SNIPES%20AUTO%20DUNGEON%20AUTO%20BF%20MASTERY%20GUN%20MASTERY%20INFINITE%20OBSERVATION%20AND%20MORE895.lua", "https://rscripts.net/script/new-blox-fruits-script-insane-auto-farm-teleports-auto-boss-fruit-snipes-auto-dungeon-auto-bf-mastery-gun-mastery-infinite-observation-and-more-4207")
+                                
+addscriptexist(2753915549, "Blox Fruits Fruit Finder Created By Blood Bath", "Uploaded by BloodBath on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Fruit%20Finder%20Created%20By%20Blood%20Bath803.lua", "https://rscripts.net/script/blox-fruits-fruit-finder-created-by-blood-bath-3615")
+                                
+addscriptexist(2753915549, "Blox Fruits SCRIPT Pc AutoFarm LevelDevil FruitGun MasteryMore FREE", "Uploaded by PEKKA on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20SCRIPT%20Pc%20AutoFarm%20LevelDevil%20FruitGun%20MasteryMore%20FREE477.lua", "https://rscripts.net/script/blox-fruits-script-pc-autofarm-leveldevil-fruitgun-masterymore-free-3366")
+                                
+addscriptexist(2753915549, "Playback Hub Insane Bloxfruit Gui", "Uploaded by krtitcs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Playback%20Hub%20Insane%20Bloxfruit%20Gui854.lua", "https://rscripts.net/script/playback-hub-insane-bloxfruit-gui-3049")
+                                

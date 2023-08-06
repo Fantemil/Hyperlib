@@ -1,0 +1,2 @@
+
+addscript(3857052864, "Current Game","The Rake Fan Remake  Insurgent Hub", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Rake%20Fan%20Remake%20%20Insurgent%20Hub781.lua", "https://rscripts.net/script/the-rake-fan-remake-insurgent-hub-4172")

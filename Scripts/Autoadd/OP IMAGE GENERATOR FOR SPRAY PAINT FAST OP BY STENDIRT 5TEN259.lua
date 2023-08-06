@@ -1,0 +1,1 @@
+-- SCRIPT IS IN THIS LINK IT'S 5 DOLLARS https://www.stenutilities.com/invite/spraypaint OR https://discord.gg/JvreyJztNn

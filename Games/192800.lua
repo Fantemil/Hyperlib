@@ -12,3 +12,5 @@ addscript(192800, "Current Game","statement GUI", "Uploaded by V3rmScriptsUpload
                                 
     addscriptexist(192800, "Get Chest  Trophy", "Uploaded by DasMerciful on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Chest%20%20Trophy384.lua", "https://scriptblox.com/script/MAZE-Work-at-a-Pizza-Place-Get-ll-Chest-nd-Trophy-6076")
                                 
+addscriptexist(192800, "Vip Item Buyer For Work At A Pizza Palce", "Uploaded by hussain on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vip%20Item%20Buyer%20For%20Work%20At%20A%20Pizza%20Palce415.lua", "https://rscripts.net/script/vip-item-buyer-for-work-at-a-pizza-palce-3547")
+                                

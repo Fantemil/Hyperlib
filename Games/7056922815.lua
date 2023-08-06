@@ -8,3 +8,5 @@ addscript(7056922815, "Current Game","AutoFarm Auto Quest Auto Equip", "Uploaded
                                 
     addscriptexist(7056922815, "Open Source Mob Aura", "Uploaded by Keybrew on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20Mob%20Aura380.lua", "https://scriptblox.com/script/RELEASE-ALPHA-Reaper-2-Open-Source-Mob-Aura-3387")
                                 
+addscriptexist(7056922815, "Reaper 2  AutoFarm AutoQuest Teleports", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%202%20%20AutoFarm%20AutoQuest%20Teleports416.lua", "https://rscripts.net/script/reaper-2-autofarm-autoquest-teleports-3030")
+                                

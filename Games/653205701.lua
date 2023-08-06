@@ -1,0 +1,2 @@
+
+addscript(653205701, "Current Game","Going Rouge  Fort Martin And Rouge Script", "Uploaded by 0UT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Going%20Rouge%20%20Fort%20Martin%20And%20Rouge%20Script159.lua", "https://rscripts.net/script/going-rouge-fort-martin-and-rouge-script-3623")

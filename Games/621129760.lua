@@ -34,3 +34,5 @@ addscriptexist(621129760, "Small Kat Script Fire", "Uploaded by bandruf on rscri
                                 
 addscriptexist(621129760, "BandrufHubV2  Kat OP SCRIPT HUB", "Uploaded by bandruf on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BandrufHubV2%20%20Kat%20OP%20SCRIPT%20HUB327.lua", "https://rscripts.net/script/bandrufhubv2-kat-op-script-hub-3897")
                                 
+addscriptexist(621129760, "Tracer  KAT Loads Of Features BEST", "Uploaded by sunken on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tracer%20%20KAT%20Loads%20Of%20Features%20BEST521.lua", "https://rscripts.net/script/tracer-kat-loads-of-features-best-3208")
+                                

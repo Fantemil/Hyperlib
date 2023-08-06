@@ -1,0 +1,2 @@
+
+addscript(7267631004, "Current Game","Auto Grab With Keybind And Radius", "Uploaded by FxckIs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Grab%20With%20Keybind%20And%20Radius328.lua", "https://rscripts.net/script/auto-grab-with-keybind-and-radius-3636")

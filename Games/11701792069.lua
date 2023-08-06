@@ -1,0 +1,2 @@
+
+addscript(11701792069, "Current Game","Snow Plow Simulator Script GUI", "Uploaded by Untoast on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Script%20GUI713.lua", "https://rscripts.net/script/snow-plow-simulator-script-gui-3203")

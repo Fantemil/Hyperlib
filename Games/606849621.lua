@@ -24,3 +24,13 @@ addscript(606849621, "Current Game","Autoarrest", "Uploaded by troll on scriptbl
                                 
 addscriptexist(606849621, "Project Auto Autorob And Auto Arrest", "Uploaded by snipehype200 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Auto%20Autorob%20And%20Auto%20Arrest342.lua", "https://rscripts.net/script/project-auto-autorob-and-auto-arrest-4142")
                                 
+addscriptexist(606849621, "NEW Jailbreak SCRIPT SKY HUB AUTO FARM TELEPORTS KILL AURA SILENT AIM VEHICLE MODS INFINITE NITRO NUKE OPEN ALL DOORS GATES AND CELLS AND MORE", "Uploaded by arlists on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Jailbreak%20SCRIPT%20SKY%20HUB%20AUTO%20FARM%20TELEPORTS%20KILL%20AURA%20SILENT%20AIM%20VEHICLE%20MODS%20INFINITE%20NITRO%20NUKE%20OPEN%20ALL%20DOORS%20GATES%20AND%20CELLS%20AND%20MORE32.lua", "https://rscripts.net/script/new-jailbreak-script-sky-hub-auto-farm-teleports-kill-aura-silent-aim-vehicle-mods-infinite-nitro-nuke-open-all-doors-gates-and-cells-and-more-4208")
+                                
+addscriptexist(606849621, "New Insane Script Hub For Roblox Very Fast Auto Farm", "Uploaded by arlists on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Insane%20Script%20Hub%20For%20Roblox%20Very%20Fast%20Auto%20Farm823.lua", "https://rscripts.net/script/new-insane-script-hub-for-roblox-very-fast-auto-farm-4028")
+                                
+addscriptexist(606849621, "Salazar Hub  Jailbreak", "Uploaded by prometh on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Salazar%20Hub%20%20Jailbreak469.lua", "https://rscripts.net/script/salazar-hub-jailbreak-3769")
+                                
+addscriptexist(606849621, "ICE TRAY V3 JAILBREAK SCRIPT", "Uploaded by alex9 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ICE%20TRAY%20V3%20JAILBREAK%20SCRIPT280.lua", "https://rscripts.net/script/ice-tray-v3-jailbreak-script-3006")
+                                
+addscriptexist(606849621, "Jailbreak AutoRobAutoFarm", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20AutoRobAutoFarm769.lua", "https://rscripts.net/script/jailbreak-autorobautofarm-3398")
+                                

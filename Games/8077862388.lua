@@ -1,0 +1,2 @@
+
+addscript(8077862388, "Current Game","The W Script  OP Aimbot ESP Gun Mods Misc", "Uploaded by Duxkyx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20W%20Script%20%20OP%20Aimbot%20ESP%20Gun%20Mods%20Misc219.lua", "https://rscripts.net/script/the-w-script-op-aimbot-esp-gun-mods-misc-3736")

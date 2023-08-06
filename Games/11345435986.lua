@@ -1,0 +1,2 @@
+
+addscript(11345435986, "Current Game","Chainsaw Man DevilS Heart  Auto Farm", "Uploaded by afy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chainsaw%20Man%20DevilS%20Heart%20%20Auto%20Farm264.lua", "https://rscripts.net/script/chainsaw-man-devils-heart-auto-farm-3352")

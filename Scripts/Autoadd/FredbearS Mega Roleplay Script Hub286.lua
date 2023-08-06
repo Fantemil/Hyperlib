@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Fredbear-s-Mega-Roleplay/main/Main", true))()

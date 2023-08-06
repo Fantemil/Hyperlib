@@ -1,0 +1,2 @@
+
+addscript(11997674134, "Current Game","INF CASH WASTELAND SLIENT AIM AND MORE", "Uploaded by Rtxyy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20CASH%20WASTELAND%20SLIENT%20AIM%20AND%20MORE229.lua", "https://rscripts.net/script/inf-cash-wasteland-slient-aim-and-more-3601")

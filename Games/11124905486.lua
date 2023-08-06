@@ -1,0 +1,2 @@
+
+addscript(11124905486, "Current Game","Shoot People Off A Map Simulator", "Uploaded by Rtxyy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shoot%20People%20Off%20A%20Map%20Simulator732.lua", "https://rscripts.net/script/shoot-people-off-a-map-simulator-3633")

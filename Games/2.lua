@@ -4,3 +4,5 @@ addscriptexist(2, "FLMK  A Good Script For Auto Farm For The Game Fruit Battlegr
                                 
 addscriptexist(2, "Eclipse Hub UNIVERSAL 10 Games Supported KICK BLIND RESET ALL IN MM2", "Uploaded by queqoc on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20Hub%20UNIVERSAL%2010%20Games%20Supported%20KICK%20BLIND%20RESET%20ALL%20IN%20MM2215.lua", "https://rscripts.net/script/eclipse-hub-universal-10-games-supported-kick-blind-reset-all-in-mm2-3058")
                                 
+addscriptexist(2, "Drivers Paradise Event Currency Script", "Uploaded by ShadowLurker on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drivers%20Paradise%20Event%20Currency%20Script294.lua", "https://rscripts.net/script/drivers-paradise-event-currency-script-3119")
+                                

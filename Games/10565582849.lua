@@ -1,0 +1,2 @@
+
+addscript(10565582849, "Current Game","Button Simulator 2023", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Button%20Simulator%202023967.lua", "https://rscripts.net/script/button-simulator-2023-3510")

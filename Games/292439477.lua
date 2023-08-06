@@ -44,3 +44,5 @@ addscriptexist(292439477, "Phantom Forces  Third Person OPEN SOURCE", "Uploaded 
                                 
 addscriptexist(292439477, "Phantom Forces AimBot ESP", "Uploaded by Superbia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20AimBot%20ESP922.lua", "https://rscripts.net/script/phantom-forces-aimbot-esp-3215")
                                 
+addscriptexist(292439477, "Phantom Forces  Gun Mods OPEN SOURCE", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Gun%20Mods%20OPEN%20SOURCE922.lua", "https://rscripts.net/script/phantom-forces-gun-mods-open-source-3344")
+                                

@@ -1,0 +1,2 @@
+
+addscript(10521031051, "Current Game","Anime Simulator  Auto Farm", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anime%20Simulator%20%20Auto%20Farm864.lua", "https://rscripts.net/script/anime-simulator-auto-farm-3639")

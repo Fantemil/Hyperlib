@@ -6,3 +6,5 @@ addscriptexist(11545598432, "Kidachi  Anime Fighting Simulator X", "Uploaded by 
                                 
 addscriptexist(11545598432, "Script Farming Selected Mobs", "Uploaded by soolinig on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Farming%20Selected%20Mobs617.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-Script-Farming-Selected-Mobs-6709")
                                 
+addscriptexist(11545598432, "Super Striker League Animations ESP More", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20Animations%20ESP%20More518.lua", "https://rscripts.net/script/super-striker-league-animations-esp-more-4174")
+                                

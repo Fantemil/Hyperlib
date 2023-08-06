@@ -24,3 +24,9 @@ addscriptexist(13127800756, "Auto hatch egg and more", "Uploaded by soopilsw on 
                                 
 addscriptexist(13127800756, "NebulaHub", "Uploaded by moreiraleaaa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NebulaHub610.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-NebulaHub-6663")
                                 
+addscriptexist(13127800756, "NEW Inclusive Platinum Hub", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Inclusive%20Platinum%20Hub385.lua", "https://rscripts.net/script/new-inclusive-platinum-hub-4157")
+                                
+addscriptexist(13127800756, "ARM WRESTLE SIMULATOR  UNLOCK WORLD  AUTO FARM  DINO WORLD  ANTI AFK", "Uploaded by 0kxn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARM%20WRESTLE%20SIMULATOR%20%20UNLOCK%20WORLD%20%20AUTO%20FARM%20%20DINO%20WORLD%20%20ANTI%20AFK427.lua", "https://rscripts.net/script/arm-wrestle-simulator-unlock-world-auto-farm-dino-world-anti-afk-4209")
+                                
+addscriptexist(13127800756, "ShinyTool OP SCRIPT", "Uploaded by Linest on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinyTool%20OP%20SCRIPT587.lua", "https://rscripts.net/script/shinytool-op-script-3929")
+                                

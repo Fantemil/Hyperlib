@@ -1,0 +1,2 @@
+
+addscript(11523066819, "Current Game","Best Op Script For Tower Merge Simulator", "Uploaded by MigueI on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Op%20Script%20For%20Tower%20Merge%20Simulator160.lua", "https://rscripts.net/script/best-op-script-for-tower-merge-simulator-3540")

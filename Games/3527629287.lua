@@ -18,3 +18,5 @@ addscript(3527629287, "Current Game","Big Paintball OP AIMBOT 2022", "Uploaded b
                                 
 addscriptexist(3527629287, "Kidachi  Big Paintball", "Uploaded by Deity on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20%20Big%20Paintball339.lua", "https://rscripts.net/script/kidachi-big-paintball-4017")
                                 
+addscriptexist(3527629287, "Best BIG PAINTBALL Script Out There", "Uploaded by M0RKUTE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20BIG%20PAINTBALL%20Script%20Out%20There259.lua", "https://rscripts.net/script/best-big-paintball-script-out-there-3951")
+                                

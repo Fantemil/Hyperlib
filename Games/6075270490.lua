@@ -1,2 +1,4 @@
 
 addscript(6075270490, "Current Game","Instant Finish All Levels", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Finish%20All%20Levels283.lua", "https://scriptblox.com/script/Teamwork-Puzzles-Instant-Finish-All-Levels-6647")
+addscriptexist(6075270490, "Teamwork Puzzles AutofarmAutocomplete", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Puzzles%20AutofarmAutocomplete6.lua", "https://rscripts.net/script/teamwork-puzzles-autofarmautocomplete-3355")
+                                

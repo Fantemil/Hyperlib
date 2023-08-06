@@ -8,3 +8,5 @@ addscript(4588604953, "Current Game","OP SCRIPT", "Uploaded by RonBon on scriptb
                                 
 addscriptexist(4588604953, "femware", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/femware73.lua", "https://scriptblox.com/script/2x-Criminality-femware-6700")
                                 
+addscriptexist(4588604953, "Moonlight  Best Free Criminality Script", "Uploaded by Globe on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moonlight%20%20Best%20Free%20Criminality%20Script313.lua", "https://rscripts.net/script/moonlight-best-free-criminality-script-3571")
+                                

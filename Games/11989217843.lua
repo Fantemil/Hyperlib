@@ -1,0 +1,2 @@
+
+addscript(11989217843, "Current Game","COLLECT CARD  OXYGEN", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COLLECT%20CARD%20%20OXYGEN307.lua", "https://rscripts.net/script/collect-card-oxygen-3343")

@@ -1,0 +1,2 @@
+
+addscript(4508456371, "Current Game","Shortest Answer Wins OP Script", "Uploaded by LoodyXmer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortest%20Answer%20Wins%20OP%20Script964.lua", "https://rscripts.net/script/shortest-answer-wins-op-script-3302")

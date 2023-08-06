@@ -1,0 +1,2 @@
+
+addscript(10586791219, "Current Game","Best Anime Combat Script Ever", "Uploaded by Drazox6430920f61339 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Anime%20Combat%20Script%20Ever755.lua", "https://rscripts.net/script/best-anime-combat-script-ever-3801")

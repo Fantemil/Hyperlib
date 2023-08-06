@@ -1,0 +1,2 @@
+
+addscript(9874911474, "Current Game","Tha Bronx 2 Script OP", "Uploaded by sadeshusband on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tha%20Bronx%202%20Script%20OP464.lua", "https://rscripts.net/script/tha-bronx-2-script-op-3214")

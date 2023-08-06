@@ -1,0 +1,2 @@
+
+addscript(11581747218, "Current Game","SCP Warfare Tycoon Infinite Money READ INSTRUCTIONS", "Uploaded by Crossi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20Warfare%20Tycoon%20Infinite%20Money%20READ%20INSTRUCTIONS273.lua", "https://rscripts.net/script/scp-warfare-tycoon-infinite-money-read-instructions-3062")

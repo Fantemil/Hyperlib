@@ -1,0 +1,1 @@
+Join the Discord server to receive the script with proof from CashApp

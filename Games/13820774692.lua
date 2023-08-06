@@ -1,0 +1,2 @@
+
+addscript(13820774692, "Current Game","Rap Battle Simulator  RaCc0oN Hub", "Uploaded by racc0on on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rap%20Battle%20Simulator%20%20RaCc0oN%20Hub274.lua", "https://rscripts.net/script/rap-battle-simulator-racc0on-hub-4210")
