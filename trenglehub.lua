@@ -1,6 +1,5 @@
 
 
-
 lastupdate = "GMT +2: 06.08.2023 21:14:43"
 function bigRedItalicText(text)
     pcall(function()
@@ -18,6 +17,12 @@ function bigRedItalicText(text)
             FontSize = Enum.FontSize.Size48,
         })
     end)
+    
+    pcall(function()
+        game.TextChatService.TextChannels.RBXSystem:DisplaySystemMessage("<font color=\"rgb(255, 0, 0)\">" .. text .. "</font> ")
+    
+    end)
+   
 end
 
 
@@ -64,6 +69,9 @@ function bigRedText(text)
             FontSize = Enum.FontSize.Size48,
         })
     end)
+        pcall(function()
+            game.TextChatService.TextChannels.RBXSystem:DisplaySystemMessage("<font color=\"rgb(255, 0, 0)\">".. text .. "</font> ")
+        end)
 end
 local function formatTimeForUser(lastupdate)
     local function parseDateTime(dateTimeStr)
@@ -108,7 +116,7 @@ function bigGreenItalicText(text)
     pcall(function()
         game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
             Text = text,
-            Color = Color3.fromRGB(0, 255, 0), -- set the color to blue
+            Color = Color3.fromRGB(0, 255, 0), -- set the color to green
             Font = Enum.Font.SourceSansItalic,
             TextTransparency = 0,
             TextStrokeTransparency = 0,
@@ -120,6 +128,10 @@ function bigGreenItalicText(text)
             FontSize = Enum.FontSize.Size48,
         })
     end)
+    
+        pcall(function()
+            game.TextChatService.TextChannels.RBXSystem:DisplaySystemMessage("<font color=\"rgb(0, 255, 0)\">" .. text .. "</font> ")
+        end)
 end
 -- Create the clearChat() function
 function clearChat()
@@ -136,6 +148,9 @@ function clearChat()
                 Font = Enum.Font.SourceSans,
                 FontSize = Enum.FontSize.Size18,
             })
+        end)
+        pcall (function()
+            game.TextChatService.TextChannels.RBXSystem:DisplaySystemMessage("‎")
         end)
     end
 end
@@ -156,6 +171,10 @@ function bigBlueItalicText(text)
             FontSize = Enum.FontSize.Size48,
         })
     end)
+    
+        pcall(function()
+            game.TextChatService.TextChannels.RBXSystem:DisplaySystemMessage("<font color=\"rgb(0, 162, 255)\">".. text .. "</font> ")
+        end)
 end
 
 
@@ -266,6 +285,7 @@ getgenv().guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
     end)
 end)
+
 PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
     game.Players.LocalPlayer.Character.Humanoid.WalkSpeed = v
 end)
@@ -436,7 +456,7 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
     end
 end)
 
-Statstab = Window:NewTab("Statistics")
+Statstab = Window:NewTab("Informations")
 local StatusSection = Statstab:NewSection("---Last Update---")
 StatusSection:NewLabel(formatTimeForUser(lastupdate))
 local Keybinds = Window:NewTab("Keybinds")
