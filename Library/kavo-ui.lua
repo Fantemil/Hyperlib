@@ -2641,6 +2641,13 @@ function Kavo.CreateLib(kavName, themeList)
                 		label.Text = "  "..newText
                 	end
                 end	
+                function labelFunctions:RemoveLabel()
+                	label:Destroy()
+                    updateSectionFrame()
+                    UpdateSize()
+                    
+
+                end
                 return labelFunctions
             end	
             return Elements
