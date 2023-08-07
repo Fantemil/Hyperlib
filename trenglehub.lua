@@ -24,8 +24,57 @@ function bigRedItalicText(text)
     end)
    
 end
+function getGUIs(parent)
+    local guis = {}
+    
+    for _, gui in pairs(parent:GetChildren()) do
+        if gui:IsA("GuiBase2d") or gui:IsA("BillboardGui") then
+            table.insert(guis, gui)
+        end
+    end
 
+    return guis
+end 
 
+getgenv().coreGui = game:GetService("CoreGui")
+
+function checkAndManageGUIs()
+    local currentGUIs = getGUIs(coreGui)
+    
+    -- Identify new GUIs
+    local newGUIs = {}
+    for _, gui in pairs(currentGUIs) do
+        if not table.find(previousGUIs, gui) then
+            table.insert(newGUIs, gui)
+        end
+    end
+    
+    -- Remove old GUIs
+    for _, gui in pairs(previousGUIs) do
+        if not table.find(currentGUIs, gui) then
+            print("Found new Guis")
+            gui:Destroy()  -- Remove GUI
+        end
+    end
+    
+    -- Kill new GUIs
+    for _, gui in pairs(newGUIs) do
+        gui:Destroy()  -- Kill new GUI
+    end
+
+    previousGUIs = currentGUIs  -- Update previousGUIs for the next iteration
+end
+function ManagerRefreshGuis()
+    for gui, _ in pairs(guitrackedbyhyperlib) do
+            if not table.find(currentGUIs, gui) then
+                -- if the gui was removed, remove the guiLabel and guiButton
+                guitrackedbyhyperlib[gui][1]:RemoveLabel()
+                guitrackedbyhyperlib[gui][2]:RemoveButton()
+                -- remove the entry from guitrackedbyhyperlib
+                guitrackedbyhyperlib[gui] = nil
+            end
+    end
+end
 -- check if getgenv().hyperlibreload exists
 if getgenv().hyperlibreload == nil then
     getgenv().hyperlibreload = false
@@ -54,7 +103,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.3"
+version = "Hyperlib V.3.4"
 getgenv().statusdict = {}
 
 
@@ -255,11 +304,16 @@ end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
+-- getgenv().hyperlibgui.DisplayOrder = 999999999999999999
+getgenv().hyperlibgui.ZIndexBehavior = Enum.ZIndexBehavior.Global
+local topZIndex = 2147483647 
+
 -- check if getgenv().hyperlibblock exists
 
 local Player = Window:NewTab("Player/General")
 local PlayerSection = Player:NewSection("Player")
 local GeneralSection = Player:NewSection("General")
+
 GeneralSection:NewButton("Rejoin", "Rejoins the game", function()
     getgenv().hyperlibblock = false
     game:GetService("TeleportService"):Teleport(game.PlaceId, game.Players.LocalPlayer)
@@ -395,7 +449,7 @@ getgenv().generalscripts = Window:NewTab("Universal")
 getgenv().generalscriptssection = generalscripts:NewSection("---Universal Scripts---")
 getgenv().generalscriptsallloaded = false
 getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universal Scripts", "Loads all Universal Scripts", function()
-    if getgenv().loadedgeneral == false then
+ 
       
         local ongoingexecution = false
         for i, v in pairs(getgenv().uniscripts.allscripts) do
@@ -455,20 +509,13 @@ getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universa
             wait(3)
             UpdateWindowTitle(version)
         end)
-    else
-        bigRedItalicText("You have already loaded all Universal Scripts!")
-        spawn(function()
-            getgenv().generalload:UpdateButton("Already Loaded!")
-            wait(5)
-            getgenv().generalload:UpdateButton("Finished loading!")
-        end)
-    end
+        getgenv().generalload:RemoveButton()
+    
 
 end)
 getgenv().gamehubs = Window:NewTab("Game Hubs")
 getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
 getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
-    if getgenv().loadedhub == false then
        
       
         local ongoingexecution = false
@@ -529,14 +576,9 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
             wait(3)
             UpdateWindowTitle(version)
         end)
-    else
-        bigRedItalicText("You have already loaded the Game Hubs!")
-        spawn(function()
-            getgenv().hubload:UpdateButton("Already Loaded!")
-            wait(5)
-            getgenv().hubload:UpdateButton("Finished loading!")
-        end)
-    end
+        getgenv().hubload:RemoveButton()
+       
+    
 end)
 
 Statstab = Window:NewTab("Informations")
@@ -756,6 +798,97 @@ pcall (function()
         end
 
         )
+    end
+
+end)
+
+getgenv().ExploitManager = Window:NewTab("GUI Manager")
+getgenv().ExploitManagerSection = ExploitManager:NewSection("---Exploit Manager---")
+getgenv().ExploitManagerInformation = ExploitManagerSection:NewLabel("You can kill other Exploit GUIs here")
+getgenv().ExploitManagerKillAll = ExploitManagerSection:NewButton("Kill all Exploit GUIs", "Kills all GUIs that were made after the execution of Hyperlib", function()
+    -- for every entry in the dictionary guitrackedbyhyperlib
+    for gui, _ in pairs(guitrackedbyhyperlib) do
+        -- destroy the gui
+        gui:Destroy()
+        -- remove the guiLabel and guiButton
+        guitrackedbyhyperlib[gui][1]:RemoveLabel()
+        guitrackedbyhyperlib[gui][2]:RemoveButton()
+        -- remove the entry from guitrackedbyhyperlib
+        guitrackedbyhyperlib[gui] = nil
+    end
+    
+    spawn(function()
+        wait(0.5)
+        bigGreenItalicText("Successfully killed all other GUIs!")
+        UpdateWindowTitle("Successfully killed GUIs!")
+        wait(3)
+        UpdateWindowTitle(version)
+    end)
+        
+
+    
+end)
+
+spawn(function()
+    wait(3)
+    local coreGui = game:GetService("CoreGui")
+    getgenv().previousGUIs = getGUIs(coreGui)  -- Store previous Core GUIs here
+    local newGUIs = {}
+    local alreadyfound = false
+    getgenv().guitrackedbyhyperlib = {}
+    while true do
+        local trackedisempty = true
+        getgenv().currentGUIs = getGUIs(coreGui)
+        -- check if any GUIs were added
+        for _, gui in pairs(currentGUIs) do
+            if not table.find(previousGUIs, gui) then
+                table.insert(newGUIs, gui)
+            end
+        end
+        -- if newGUis is not empty
+        if #newGUIs > 0 then
+            trackedisempty = false
+            -- for each gui make a textlabel with the name of the gui and a remove gui button
+            for _, gui in pairs(newGUIs) do
+                -- check if gui is the same as getgenv().hyperlibgui if it is not then run
+                if gui ~= getgenv().hyperlibgui then
+                    --check if gui already tracked if not  run
+                    -- do this with a for loop and set a bool value already foudn
+
+                    for gui2, _ in pairs(guitrackedbyhyperlib) do
+                        -- if the key is the same as the gui then set alreadyfound to true (do not compare the values)
+                        --access the gui at guitrackedbyhyperlib[gui2][5]
+                        if gui2 == gui then
+                            alreadyfound = true
+                        end
+                    end
+                      
+                    if alreadyfound == false then
+
+                        local guiName = gui.Name
+                        local guiType = gui.ClassName
+                        local guiLabel = ExploitManagerSection:NewLabel(guiName .. " (" .. guiType .. ")")
+                        local guiButton = ExploitManagerSection:NewButton("Remove", "Removes the GUI", function()
+                            gui:Destroy()
+                            -- remove the gui entry from guitrackedbyhyperlib
+                            ManagerRefreshGuis()
+                            bigGreenItalicText("Successfully removed " .. guiName .. " (" .. guiType .. ")!")
+                        end)
+                        -- make a entry to gutrackedbyhyperlib with {gui object : { guiLabel, guiButton }}
+                        guitrackedbyhyperlib[gui] = {guiLabel, guiButton, guiName, guiType, gui}
+                    end
+                end
+
+            end
+            newGUIs = {}  -- Reset newGUIs table
+        end
+        -- check if any GUIs were removed by checking if all gui objects that were tracked by hyperlib are still in the currentGUIs table
+        ManagerRefreshGuis()
+        -- if there are no GUIs left that are tracked by hyperlib, make a new label
+        
+
+        previousGUIs = currentGUIs  
+        wait(5)
     end
 
 end)
