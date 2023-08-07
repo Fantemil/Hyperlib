@@ -30,6 +30,9 @@ end
 if getgenv().hyperlibreload == nil then
     getgenv().hyperlibreload = false
 end
+if getgenv().serverhoptolow == nil then
+    getgenv().serverhoptolow = false
+end
 if getgenv().hyperlibblock == nil then
     getgenv().hyperlibblock = true
 else 
@@ -284,6 +287,86 @@ getgenv().guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the
 
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
     end)
+end)
+getgenv().serverhopperlower = GeneralSection:NewButton("Server Hop to empty Server" , "Hop to another Server thats as empty as it can be", function() 
+    local PlaceID = game.PlaceId
+    local AllIDs = {}
+    local foundAnything = ""
+    local actualHour = os.date("!*t").hour
+    local Deleted = false
+ 
+    function TPReturner()
+        local Site;
+        if foundAnything == "" then
+            Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+        else
+            Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' .. PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+        end
+        local ID = ""
+        if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+            foundAnything = Site.nextPageCursor
+        end
+        local num = 0;
+        for i,v in pairs(Site.data) do
+            local Possible = true
+            ID = tostring(v.id)
+            if tonumber(v.maxPlayers) > tonumber(v.playing) then
+                for _,Existing in pairs(AllIDs) do
+                    if num ~= 0 then
+                        if ID == tostring(Existing) then
+                            Possible = false
+                        end
+                    else
+                        if tonumber(actualHour) ~= tonumber(Existing) then
+                            local delFile = pcall(function()
+                                AllIDs = {}
+                                table.insert(AllIDs, actualHour)
+                            end)
+                        end
+                    end
+                    num = num + 1
+                end
+                if Possible == true then
+                    table.insert(AllIDs, ID)
+                    wait()
+                    pcall(function()
+                        wait()
+                        getgenv().serverhoptolow = true
+                        bigGreenItalicText("Teleporting now!")
+                        game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, ID, game.Players.LocalPlayer)
+
+                    end)
+                    wait(4)
+                end
+            end
+        end
+    end
+
+    function Teleport()
+        while wait() do
+            pcall(function()
+                TPReturner()
+                if foundAnything ~= "" then
+                    TPReturner()
+                end
+            end)
+        end
+    end
+    spawn(function()
+        while true do
+            getgenv().serverhopperlower:UpdateButton("Teleporting")
+            wait(0.1)
+            getgenv().serverhopperlower:UpdateButton("Teleporting.")
+            wait(0.1)
+            getgenv().serverhopperlower:UpdateButton("Teleporting..")
+            wait(0.1)
+            getgenv().serverhopperlower:UpdateButton("Teleporting...")
+            wait(0.1)
+            
+        end
+    end)
+    bigGreenItalicText("Teleporting to a Server with the lowest amount of players...")
+    Teleport()
 end)
 
 PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
@@ -623,7 +706,7 @@ if success then
     end
     print("Loaded game specific scripts")
     bigGreenItalicText("There were scripts found for this game!")
-    if getgenv().hyperlibreload == false then
+    if getgenv().hyperlibreload == false and  getgenv().serverhoptolow == false then
         spawn(function()
             UpdateWindowTitle("Found Scripts for this game!")
             wait(3)
@@ -657,4 +740,22 @@ pcall(function()
 
         )
     end
+    
+end)
+pcall (function()
+    if getgenv().serverhoptolow == true then
+        -- determine the amount of players in the server
+        local playercount = #game:GetService("Players"):GetPlayers()
+        getgenv().serverhoptolow = false
+        spawn(function()
+            wait(0.5)
+            bigGreenItalicText("Successfully hopped to a Server with " .. playercount .. " players!")
+            UpdateWindowTitle("Hopped to Server with " .. playercount .. " players!")
+            wait(5)
+            UpdateWindowTitle(version)
+        end
+
+        )
+    end
+
 end)
