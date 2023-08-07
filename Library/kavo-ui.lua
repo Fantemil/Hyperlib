@@ -773,6 +773,11 @@ function Kavo.CreateLib(kavName, themeList)
                 function ButtonFunction:UpdateButton(newTitle)
                     btnInfo.Text = newTitle
                 end
+                function ButtonFunction:RemoveButton()
+                    buttonElement:Destroy()
+                    updateSectionFrame()
+                    UpdateSize()
+                end
                 return ButtonFunction
             end
 
