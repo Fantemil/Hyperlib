@@ -1,0 +1,2 @@
+
+addscript(164051105, "Current Game","Working script", "Uploaded by Unc0dXd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Working%20script476.lua", "https://scriptblox.com/script/Super-Bomb-Survival-Working-script-6823")

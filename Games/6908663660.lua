@@ -1,0 +1,2 @@
+
+addscript(6908663660, "Current Game","Ore ESP", "Uploaded by Netflix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ore%20ESP981.lua", "https://scriptblox.com/script/REx:-Reborn-Ore-ESP-6765")

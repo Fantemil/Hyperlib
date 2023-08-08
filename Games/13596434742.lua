@@ -1,0 +1,2 @@
+
+addscript(13596434742, "Current Game","GUI Inf Money Auto Tap More", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20Inf%20Money%20Auto%20Tap%20More672.lua", "https://scriptblox.com/script/100K-Event-Mystery-Clickers-GUI-Inf-Money-Auto-Tap-More-6812")

@@ -1,0 +1,2 @@
+
+addscript(13910706751, "Current Game","Skibi Battle Simulator Script", "Uploaded by lku on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibi%20Battle%20Simulator%20Script921.lua", "https://rscripts.net/script/skibi-battle-simulator-script-4195")

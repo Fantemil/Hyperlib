@@ -8,3 +8,7 @@ addscriptexist(11545598432, "Script Farming Selected Mobs", "Uploaded by soolini
                                 
 addscriptexist(11545598432, "Super Striker League Animations ESP More", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Striker%20League%20Animations%20ESP%20More518.lua", "https://rscripts.net/script/super-striker-league-animations-esp-more-4174")
                                 
+addscriptexist(11545598432, "fighter script NOt mine", "Uploaded by Virge_Rogue on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fighter%20script%20NOt%20mine230.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-fighter-script-NOt-mine-6754")
+                                
+addscriptexist(11545598432, "Cool script with autofarm and more", "Uploaded by hamaskjx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20script%20with%20autofarm%20and%20more856.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-Cool-script-with-autofarm-and-more-6746")
+                                

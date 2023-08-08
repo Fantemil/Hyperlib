@@ -1,2 +1,4 @@
 
 addscript(13755645186, "Current Game","Gamepass Morph Script", "Uploaded by LxghtSvde2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gamepass%20Morph%20Script730.lua", "https://scriptblox.com/script/Skibi-Toilets:-Universe-UPDATE-Morph-Script-6657")
+addscriptexist(13755645186, "Op d toilet script", "Uploaded by LxghtSvde2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20d%20toilet%20script899.lua", "https://scriptblox.com/script/Skibi-Toilets:-Universe-UPDATE-Op-d-toilet-script-6816")
+                                

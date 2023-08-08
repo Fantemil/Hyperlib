@@ -34,3 +34,5 @@ addscriptexist(606849621, "ICE TRAY V3 JAILBREAK SCRIPT", "Uploaded by alex9 on 
                                 
 addscriptexist(606849621, "Jailbreak AutoRobAutoFarm", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jailbreak%20AutoRobAutoFarm769.lua", "https://rscripts.net/script/jailbreak-autorobautofarm-3398")
                                 
+addscriptexist(606849621, "Script Anti Cheat Bypass Front Flip Auto Arrest", "Uploaded by hoodwich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Anti%20Cheat%20Bypass%20Front%20Flip%20Auto%20Arrest520.lua", "https://scriptblox.com/script/Jailbreak-Script-Anti-Cheat-Bypass-Front-Flip-Auto-Arrest-6819")
+                                

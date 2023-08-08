@@ -118,3 +118,11 @@ addscriptexist(, "Reach Script And Anti Cheat BypasserAntiban", "Uploaded by Fxc
                                 
 addscriptexist(, "Best Script For The Game", "Uploaded by FxckIs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20For%20The%20Game623.lua", "https://rscripts.net/script/best-script-for-the-game-3296")
                                 
+addscriptexist(, "Laundry Simulator FULL AUTOFARM", "Uploaded by rylvns on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Laundry%20Simulator%20FULL%20AUTOFARM402.lua", "https://rscripts.net/script/laundry-simulator-full-autofarm-4224")
+                                
+addscriptexist(, "Bedwars Smoke Config", "Uploaded by smokexdev on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20Smoke%20Config328.lua", "https://rscripts.net/script/bedwars-smoke-config-4212")
+                                
+addscriptexist(, "Type Race AUTO TYPE", "Uploaded by rylvns on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20Race%20AUTO%20TYPE895.lua", "https://rscripts.net/script/type-race-auto-type-4225")
+                                
+addscriptexist(, "New Script For Dingus", "Uploaded by MrXrer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20For%20Dingus119.lua", "https://rscripts.net/script/new-script-for-dingus-4199")
+                                

@@ -1,0 +1,2 @@
+
+addscript(13959733470, "Current Game","Autofarm", "Uploaded by tomergamertv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm315.lua", "https://scriptblox.com/script/FREE-UGC-Puppy-Tycoon-Autofarm-6762")

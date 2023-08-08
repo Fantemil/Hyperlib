@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bardium/one-punch-hero/main/main.lua'))()

@@ -68,3 +68,7 @@ addscriptexist(6516141723, "OP Doors Entity Spawner", "Uploaded by Lucas on rscr
                                 
 addscriptexist(6516141723, "Roblox Doors Auto Death Farm", "Uploaded by EE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Doors%20Auto%20Death%20Farm357.lua", "https://rscripts.net/script/roblox-doors-auto-death-farm-3428")
                                 
+addscriptexist(6516141723, "Script Fullbright Instant Interact More", "Uploaded by humanx121 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Fullbright%20Instant%20Interact%20More364.lua", "https://scriptblox.com/script/DOORS-Script-Fullbright-Instant-Interact-More-6779")
+                                
+addscriptexist(6516141723, "DOORS Fullbright Instant Interact  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Instant%20Interact%20%20More890.lua", "https://rscripts.net/script/doors-fullbright-instant-interact-more-4221")
+                                

@@ -68,3 +68,7 @@ addscriptexist(537413528, "BEST SCRIPT FOR BUILD A BOAT FOR TREASURE WITH OP FEA
                                 
 addscriptexist(537413528, "Build A Boat For Treasure GUI  Auto Quest Auto Farm Functions ClickDetectors", "Uploaded by SladeYT on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20GUI%20%20Auto%20Quest%20Auto%20Farm%20Functions%20ClickDetectors536.lua", "https://rscripts.net/script/build-a-boat-for-treasure-gui-auto-quest-auto-farm-functions-clickdetectors-3148")
                                 
+addscriptexist(537413528, "Build A Boat For Treasure Server Crasher Open Sourced", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Server%20Crasher%20Open%20Sourced268.lua", "https://rscripts.net/script/build-a-boat-for-treasure-server-crasher-open-sourced-4100")
+                                
+addscriptexist(537413528, "Build A Boat For Treasure Auto Farm Speed Jump Auto Gold", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Speed%20Jump%20Auto%20Gold89.lua", "https://rscripts.net/script/build-a-boat-for-treasure-auto-farm-speed-jump-auto-gold-4177")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scripthubekitten/ScripthubV2keylessBETA/main/ScripthubV2keylessBETA"))()

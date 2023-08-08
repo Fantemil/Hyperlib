@@ -52,3 +52,7 @@ addscriptexist(155615604, "BEST PRISON LIFE OVERPOWERED GUI", "Uploaded by iki o
                                 
 addscriptexist(155615604, "Prison Life Op Gui PATCHED", "Uploaded by PEKKA on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prison%20Life%20Op%20Gui%20PATCHED449.lua", "https://rscripts.net/script/prison-life-op-gui-patched-3165")
                                 
+addscriptexist(155615604, "Lightux Kill All Fly and More", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightux%20Kill%20All%20Fly%20and%20More82.lua", "https://scriptblox.com/script/Prison-Life-Lightux-hub-Kill-All-Fly-and-More-6792")
+                                
+addscriptexist(155615604, "Rawnder X credits to Rawnder", "Uploaded by brickplanetrocks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rawnder%20X%20credits%20to%20Rawnder703.lua", "https://scriptblox.com/script/Prison-Life-Rawnder-X-credits-to-Rawnder-6733")
+                                

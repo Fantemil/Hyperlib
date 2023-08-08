@@ -46,3 +46,7 @@ addscript(1224212277, "Current Game","ProBaconHub X RubyHub", "Uploaded by aymar
                                 
 addscriptexist(1224212277, "ProBaconHub  Mad City", "Uploaded by ProBacon on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBaconHub%20%20Mad%20City120.lua", "https://rscripts.net/script/probaconhub-mad-city-4082")
                                 
+addscriptexist(1224212277, "Script Auto Rob No Serverhop", "Uploaded by yookillstool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Rob%20No%20Serverhop331.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-Script-Auto-Rob-No-Serverhop-6808")
+                                
+addscriptexist(1224212277, "Pro Bacon Hub  Mad City", "Uploaded by ProBacon on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pro%20Bacon%20Hub%20%20Mad%20City894.lua", "https://rscripts.net/script/pro-bacon-hub-mad-city-4196")
+                                

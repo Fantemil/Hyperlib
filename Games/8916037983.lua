@@ -8,3 +8,5 @@ addscript(8916037983, "Current Game","Text Changer", "Uploaded by Jeux on script
                                 
 addscriptexist(8916037983, "Auto Draw  Copy Any Image", "Uploaded by Noctural on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Draw%20%20Copy%20Any%20Image633.lua", "https://rscripts.net/script/auto-draw-copy-any-image-4043")
                                 
+addscriptexist(8916037983, "DEMONIC HUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEMONIC%20HUB82.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-DEMONIC-HUB-6787")
+                                

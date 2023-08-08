@@ -366,3 +366,5 @@ addscriptexist(2788229376, "Nova Gui V3  OP  FREE  DA HOOD", "Uploaded by Icxy o
                                 
 addscriptexist(2788229376, "FREE DA HOOD SCRIPT UI PARADOX", "Uploaded by zerotop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20DA%20HOOD%20SCRIPT%20UI%20PARADOX670.lua", "https://rscripts.net/script/free-da-hood-script-ui-paradox-3327")
                                 
+addscriptexist(2788229376, "AIM VIEWER DA HOOD SCRIPT", "Uploaded by Malene12345 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIM%20VIEWER%20DA%20HOOD%20SCRIPT343.lua", "https://rscripts.net/script/aim-viewer-da-hood-script-4153")
+                                

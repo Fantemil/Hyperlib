@@ -12,3 +12,7 @@ addscript(662417684, "Current Game","Op its working", "Uploaded by amcoolguy on 
                                 
 addscriptexist(662417684, "LUCKY BLOCKS Battlegrounds", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LUCKY%20BLOCKS%20Battlegrounds309.lua", "https://rscripts.net/script/lucky-blocks-battlegrounds-3786")
                                 
+addscriptexist(662417684, "Void Kill Spawn Hitbox More", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Kill%20Spawn%20Hitbox%20More369.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Void-Kill-Spawn-Hitbox-More-6820")
+                                
+addscriptexist(662417684, "Lucky Blocks Overpowered Void Kill Spawn Blocks Hitbox And More", "Uploaded by iki on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lucky%20Blocks%20Overpowered%20Void%20Kill%20Spawn%20Blocks%20Hitbox%20And%20More511.lua", "https://rscripts.net/script/lucky-blocks-overpowered-void-kill-spawn-blocks-hitbox-and-more-4227")
+                                

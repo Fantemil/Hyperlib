@@ -1,0 +1,2 @@
+
+addscript(1527587182, "Current Game","Only Up Blox Teleport  Autofarm", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Only%20Up%20Blox%20Teleport%20%20Autofarm144.lua", "https://rscripts.net/script/only-up-blox-teleport-autofarm-4226")

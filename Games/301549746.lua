@@ -24,3 +24,5 @@ addscriptexist(301549746, "BoggleWare CBRO Cheat", "Uploaded by Ragggy on rscrip
                                 
 addscriptexist(301549746, "Counter Blox  Gun Mods", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Counter%20Blox%20%20Gun%20Mods604.lua", "https://rscripts.net/script/counter-blox-gun-mods-3230")
                                 
+addscriptexist(301549746, "Reupload Of Sirex Ware V3 Leaked", "Uploaded by TheLeakerOfScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reupload%20Of%20Sirex%20Ware%20V3%20Leaked655.lua", "https://scriptblox.com/script/Counter-Blox-Reupload-Of-Sirex-Ware-V3-Leaked-6739")
+                                

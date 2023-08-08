@@ -80,3 +80,7 @@ addscriptexist(142823291, "Unbeatable 1 TopRated Free MM2 Coin Farm Script", "Up
                                 
 addscriptexist(142823291, "Murder Mystery 2 OP", "Uploaded by ImperialExploits on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20OP947.lua", "https://rscripts.net/script/murder-mystery-2-op-3490")
                                 
+addscriptexist(142823291, "Open Source remaked", "Uploaded by Unc0dXd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20remaked436.lua", "https://scriptblox.com/script/Murder-Mystery-2-Open-Source-remaked-6763")
+                                
+addscriptexist(142823291, "Auto Farm Coins Godmode More", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Coins%20Godmode%20More798.lua", "https://rscripts.net/script/auto-farm-coins-godmode-more-4176")
+                                

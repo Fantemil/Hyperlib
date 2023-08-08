@@ -1,0 +1,2 @@
+
+addscript(11470428326, "Current Game","Aimbot", "Uploaded by Level100bray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot460.lua", "https://scriptblox.com/script/Rooftop-2-(Basketball)-Aimbot-6756")

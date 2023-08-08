@@ -16,3 +16,5 @@ addscriptexist(3351674303, "Driving Empire Best Afk Farm Script   50M Per Day", 
                                 
 addscriptexist(3351674303, "Best Autofarm Millions overnight", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarm%20Millions%20overnight106.lua", "https://scriptblox.com/script/NEW-Driving-Empire-Best-Autofarm-Millions-overnight-6706")
                                 
+addscriptexist(3351674303, "Driving Empire Overpowered Autofarm Car Mods Arrest All MORE", "Uploaded by iki on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Overpowered%20Autofarm%20Car%20Mods%20Arrest%20All%20MORE511.lua", "https://rscripts.net/script/driving-empire-overpowered-autofarm-car-mods-arrest-all-more-4200")
+                                

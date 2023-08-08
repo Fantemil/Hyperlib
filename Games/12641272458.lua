@@ -4,3 +4,5 @@ addscriptexist(12641272458, "Teamwork Puzzles 2 Obby Script", "Uploaded by SoTru
                                 
 addscriptexist(12641272458, "Teamwork Puzzles 2 Unofficial", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamwork%20Puzzles%202%20Unofficial340.lua", "https://rscripts.net/script/teamwork-puzzles-2-unofficial-3814")
                                 
+addscriptexist(12641272458, "Egoistic Hub", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egoistic%20Hub171.lua", "https://scriptblox.com/script/Teamwork-Puzzles-2-(Obby)-Egoistic-Hub-6729")
+                                

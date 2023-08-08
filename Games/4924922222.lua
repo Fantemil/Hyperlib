@@ -18,3 +18,9 @@ addscriptexist(4924922222, "Teleports Spam Fire More", "Uploaded by Jimmper on s
                                 
 addscriptexist(4924922222, "Brookhaven RP Teleports Spam Fire More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20RP%20Teleports%20Spam%20Fire%20More105.lua", "https://rscripts.net/script/brookhaven-rp-teleports-spam-fire-more-4205")
                                 
+addscriptexist(4924922222, "The best Script", "Uploaded by doolfisip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20best%20Script309.lua", "https://scriptblox.com/script/Brookhaven-RP-The-best-Script-6817")
+                                
+addscriptexist(4924922222, "PormansUtility", "Uploaded by robloxiel2212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PormansUtility937.lua", "https://scriptblox.com/script/Brookhaven-RP-PormansUtility-6777")
+                                
+addscriptexist(4924922222, "Random Brookhaven Script", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20Brookhaven%20Script815.lua", "https://rscripts.net/script/random-brookhaven-script-4216")
+                                

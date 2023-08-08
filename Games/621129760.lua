@@ -36,3 +36,5 @@ addscriptexist(621129760, "BandrufHubV2  Kat OP SCRIPT HUB", "Uploaded by bandru
                                 
 addscriptexist(621129760, "Tracer  KAT Loads Of Features BEST", "Uploaded by sunken on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tracer%20%20KAT%20Loads%20Of%20Features%20BEST521.lua", "https://rscripts.net/script/tracer-kat-loads-of-features-best-3208")
                                 
+addscriptexist(621129760, "Crate Teleporter", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Teleporter554.lua", "https://scriptblox.com/script/KAT-Crate-Teleporter-6781")
+                                

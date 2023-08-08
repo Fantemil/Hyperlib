@@ -4,3 +4,5 @@ addscriptexist(12135645852, "Best Anime Catching Simulator Script", "Uploaded by
                                 
 addscriptexist(12135645852, "Leave On Overnight Anime Catching Simulator Script For Mobile  PC Autofarm", "Uploaded by tozxart on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leave%20On%20Overnight%20Anime%20Catching%20Simulator%20Script%20For%20Mobile%20%20PC%20Autofarm42.lua", "https://rscripts.net/script/leave-on-overnight-anime-catching-simulator-script-for-mobile-pc-autofarm-4074")
                                 
+addscriptexist(12135645852, "Auto Hatch Auto Rank Up and More", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Hatch%20Auto%20Rank%20Up%20and%20More397.lua", "https://scriptblox.com/script/HUGE-HERO-Anime-Catching-Simulator-Auto-Hatch-Auto-Rank-Up-and-More-6791")
+                                

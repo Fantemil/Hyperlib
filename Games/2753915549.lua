@@ -198,3 +198,13 @@ addscriptexist(2753915549, "Blox Fruits SCRIPT Pc AutoFarm LevelDevil FruitGun M
                                 
 addscriptexist(2753915549, "Playback Hub Insane Bloxfruit Gui", "Uploaded by krtitcs on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Playback%20Hub%20Insane%20Bloxfruit%20Gui854.lua", "https://rscripts.net/script/playback-hub-insane-bloxfruit-gui-3049")
                                 
+addscriptexist(2753915549, "URANIUM hub premium crack", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/URANIUM%20hub%20premium%20crack266.lua", "https://scriptblox.com/script/Blox-Fruits-URANIUM-hub-premium-crack-6793")
+                                
+addscriptexist(2753915549, "MTriet Hub", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MTriet%20Hub177.lua", "https://scriptblox.com/script/Blox-Fruits-MTriet-Hub-6777")
+                                
+addscriptexist(2753915549, "NEW best Script", "Uploaded by alopingors on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20best%20Script415.lua", "https://scriptblox.com/script/Blox-Fruits-NEW-best-Script-6786")
+                                
+addscriptexist(2753915549, "BUTIF script hub", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BUTIF%20script%20hub211.lua", "https://scriptblox.com/script/Blox-Fruits-BUTIF-script-hub-6802")
+                                
+addscriptexist(2753915549, "Auto Quest Auto Farm Level Auto Farm Bone", "Uploaded by romagayX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Quest%20Auto%20Farm%20Level%20Auto%20Farm%20Bone801.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Quest-Auto-Farm-Level-Auto-Farm-Bone-6742")
+                                

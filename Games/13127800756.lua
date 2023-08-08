@@ -30,3 +30,11 @@ addscriptexist(13127800756, "ARM WRESTLE SIMULATOR  UNLOCK WORLD  AUTO FARM  DIN
                                 
 addscriptexist(13127800756, "ShinyTool OP SCRIPT", "Uploaded by Linest on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShinyTool%20OP%20SCRIPT587.lua", "https://rscripts.net/script/shinytool-op-script-3929")
                                 
+addscriptexist(13127800756, "Script Click Auto Spin Auto More", "Uploaded by hoodwich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Click%20Auto%20Spin%20Auto%20More968.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Script-Click-Auto-Spin-Auto-More-6820")
+                                
+addscriptexist(13127800756, "Script Auto Spin Auto", "Uploaded by Niliker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Spin%20Auto624.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Script-Auto-Spin-Auto-6748")
+                                
+addscriptexist(13127800756, "Auto Train Auto Auto Redeem Daily", "Uploaded by nimirrow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Train%20Auto%20Auto%20Redeem%20Daily509.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Train-Auto-Auto-Redeem-Daily-6731")
+                                
+addscriptexist(13127800756, " Arm Wrestle Simulator  Unity Demo  Serverside  Dupe Kick Inf Items ", "Uploaded by Baller on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Arm%20Wrestle%20Simulator%20%20Unity%20Demo%20%20Serverside%20%20Dupe%20Kick%20Inf%20Items%20689.lua", "https://rscripts.net/script/arm-wrestle-simulator-unity-demo-serverside-dupe-kick-inf-items-4132")
+                                

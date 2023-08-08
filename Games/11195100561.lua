@@ -1,0 +1,2 @@
+
+addscript(11195100561, "Current Game","Instantaneous AutoUsage Of Items", "Uploaded by SharpedMasked on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instantaneous%20AutoUsage%20Of%20Items319.lua", "https://rscripts.net/script/instantaneous-auto-usage-of-items-4034")

@@ -1,0 +1,2 @@
+
+addscript(4170762574, "Current Game","GUI", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI95.lua", "https://scriptblox.com/script/Hello-Neighbor-full-game-NEW-UPDATE-GUI-6822")

@@ -66,3 +66,9 @@ addscriptexist(6872265039, "Free roblox kit", "Uploaded by ARobloxScripter on sc
                                 
 addscriptexist(6872265039, "Script Anti Cheat Bypass Inf Fly Spider", "Uploaded by killhod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Anti%20Cheat%20Bypass%20Inf%20Fly%20Spider85.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Script-Anti-Cheat-Bypass-Inf-Fly-Spider-6715")
                                 
+addscriptexist(6872265039, "Script Anti Void Chest Stealer", "Uploaded by alopingors on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Anti%20Void%20Chest%20Stealer810.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Script-Anti-Void-Chest-Stealer-6807")
+                                
+addscriptexist(6872265039, "With this script all beds are yours Description", "Uploaded by nekochax on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/With%20this%20script%20all%20beds%20are%20yours%20Description472.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-With-this-script-all-beds-are-yours-Description-6730")
+                                
+addscriptexist(6872265039, "BedWars Kill Aura Custom Godmode Full Disaber  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kill%20Aura%20Custom%20Godmode%20Full%20Disaber%20%20More124.lua", "https://rscripts.net/script/bedwars-kill-aura-custom-godmode-full-disaber-more-4215")
+                                

@@ -34,3 +34,5 @@ addscriptexist(9872472334, "Evade Gift Auto Farm", "Uploaded by muz on rscripts.
                                 
 addscriptexist(9872472334, "Auto Farm Xp Auto Respawn Bunny Hop", "Uploaded by Ggglxi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Xp%20Auto%20Respawn%20Bunny%20Hop862.lua", "https://scriptblox.com/script/Evade-Auto-Farm-Xp-Auto-Respawn-Bunny-Hop-6716")
                                 
+addscriptexist(9872472334, "Auto Farm Cash Afk Farm Speed", "Uploaded by Patriot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Cash%20Afk%20Farm%20Speed612.lua", "https://scriptblox.com/script/Evade-Auto-Farm-Cash-Afk-Farm-Speed-6737")
+                                

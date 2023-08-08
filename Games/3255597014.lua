@@ -1,0 +1,2 @@
+
+addscript(3255597014, "Current Game","Power Simulator Script", "Uploaded by Svawes on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Power%20Simulator%20Script324.lua", "https://rscripts.net/script/power-simulator-script-4222")

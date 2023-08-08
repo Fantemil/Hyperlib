@@ -1,0 +1,2 @@
+
+addscript(6839171747, "Current Game","auto walk and win", "Uploaded by profressionalgaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20walk%20and%20win38.lua", "https://scriptblox.com/script/DOORS-auto-walk-and-win-6782")

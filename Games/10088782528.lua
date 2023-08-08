@@ -1,0 +1,2 @@
+
+addscript(10088782528, "Current Game","Autofarm Script", "Uploaded by eldargaming1231 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Script808.lua", "https://scriptblox.com/script/One-Punch-Hero-Script-6816")

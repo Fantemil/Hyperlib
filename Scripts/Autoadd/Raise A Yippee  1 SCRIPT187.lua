@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BinaryDex/Scripts/main/Cloud/Raise_A_Yippee.lua'))()

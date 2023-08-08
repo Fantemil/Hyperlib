@@ -1,2 +1,4 @@
 
 addscript(10033487652, "Current Game","FULL AUTO EASY SCRIPT", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FULL%20AUTO%20EASY%20SCRIPT795.lua", "https://scriptblox.com/script/RELEASE!-Tap-League!-FULL-AUTO-EASY-SCRIPT-4426")
+addscriptexist(10033487652, "PenhuinHubForgame", "Uploaded by jamsonffff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PenhuinHubForgame940.lua", "https://scriptblox.com/script/5M-EVENT!-Clicker-League-PenhuinHubForgame-6790")
+                                

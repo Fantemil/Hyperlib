@@ -1,0 +1,2 @@
+
+addscript(9834528893, "Current Game","1 Jump Every Second", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20Jump%20Every%20Second26.lua", "https://rscripts.net/script/1-jump-every-second-4219")

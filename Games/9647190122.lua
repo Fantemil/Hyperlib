@@ -1,2 +1,4 @@
 
 addscript(9647190122, "Current Game","Autofarm Maxs Glitch Per Difficulty Chart Obby", "Uploaded by Duo on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Maxs%20Glitch%20Per%20Difficulty%20Chart%20Obby538.lua", "https://rscripts.net/script/autofarm-maxs-glitch-per-difficulty-chart-obby-4182")
+addscriptexist(9647190122, "Auto Farm Rebirths", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Rebirths424.lua", "https://scriptblox.com/script/Max's-Glitch-Per-Difficulty-Chart-Obby-Auto-Farm-Rebirths-6817")
+                                

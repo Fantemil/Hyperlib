@@ -6,3 +6,5 @@ addscript(6938803436, "Current Game","OP Anime dimensions script", "Uploaded by 
                                 
     addscriptexist(6938803436, "ADS Script gui", "Uploaded by YOU_CEF on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADS%20Script%20gui942.lua", "https://scriptblox.com/script/2X-EXP-or-Anime-Dimensions-Simulator-ADS-Script-gui-3874")
                                 
+addscriptexist(6938803436, "Auto Dodge Anime Dimensions Simulator Script For Mobile  PC Autofarm AFK Farming", "Uploaded by tozxart on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dodge%20Anime%20Dimensions%20Simulator%20Script%20For%20Mobile%20%20PC%20Autofarm%20AFK%20Farming714.lua", "https://rscripts.net/script/auto-dodge-anime-dimensions-simulator-script-for-mobile-pc-autofarm-afk-farming-4073")
+                                

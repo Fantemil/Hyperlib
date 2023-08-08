@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/antipipka/roblox/main/Build%20A%20Boat%20For%20Treasure.lua"))()

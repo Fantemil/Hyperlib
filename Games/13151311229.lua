@@ -1,0 +1,2 @@
+
+addscript(13151311229, "Current Game","script", "Uploaded by valentinojeavlie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script74.lua", "https://scriptblox.com/script/speed-demon-boss-fight-(real)-script-6794")
