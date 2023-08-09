@@ -1,0 +1,2 @@
+
+addscript(12357508217, "Current Game","Infinite Gifts n All Badges and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gifts%20n%20All%20Badges%20and%20more899.lua", "https://scriptblox.com/script/Chill-Obby-Infinite-Gifts-n-All-Badges-and-more-6842")

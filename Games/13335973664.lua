@@ -1,0 +1,2 @@
+
+addscript(13335973664, "Current Game","Energy Simulator  RaCc0oN Hub", "Uploaded by racc0on on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Energy%20Simulator%20%20RaCc0oN%20Hub385.lua", "https://rscripts.net/script/energy-simulator-racc0on-hub-4235")

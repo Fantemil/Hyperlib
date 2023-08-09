@@ -1,0 +1,2 @@
+
+addscript(5777099015, "Current Game","Instant Win n Collect and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Collect%20and%20more190.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-Instant-Win-n-Collect-and-more-6841")

@@ -36,3 +36,9 @@ addscriptexist(606849621, "Jailbreak AutoRobAutoFarm", "Uploaded by Timsaay on r
                                 
 addscriptexist(606849621, "Script Anti Cheat Bypass Front Flip Auto Arrest", "Uploaded by hoodwich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Anti%20Cheat%20Bypass%20Front%20Flip%20Auto%20Arrest520.lua", "https://scriptblox.com/script/Jailbreak-Script-Anti-Cheat-Bypass-Front-Flip-Auto-Arrest-6819")
                                 
+addscriptexist(606849621, "project auto autorob and autoarrest", "Uploaded by snipehype200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/project%20auto%20autorob%20and%20autoarrest119.lua", "https://scriptblox.com/script/Jailbreak-project-auto-autorob-and-autoarrest-6846")
+                                
+addscriptexist(606849621, "OP Free Autorob and Autoarrest", "Uploaded by troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Free%20Autorob%20and%20Autoarrest781.lua", "https://scriptblox.com/script/Jailbreak-OP-Free-Autorob-and-Autoarrest-6833")
+                                
+addscriptexist(606849621, "OP Free Autorob and Autoarrest", "Uploaded by troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Free%20Autorob%20and%20Autoarrest986.lua", "https://scriptblox.com/script/Jailbreak-OP-Free-Autorob-and-Autoarrest-6833")
+                                

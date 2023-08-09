@@ -1,0 +1,2 @@
+
+addscript(13555613865, "Current Game","Unlock Gamepass Morphs V2", "Uploaded by artemohtenko1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Gamepass%20Morphs%20V2426.lua", "https://scriptblox.com/script/skibi-toilet-Unlock-Gamepass-Morphs-V2-6842")

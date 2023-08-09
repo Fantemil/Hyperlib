@@ -1,0 +1,4 @@
+
+addscript(11364814984, "Current Game","SCP 323 GUI BECOME 323 KILL PLAYERS AND MORE", "Uploaded by doober4373 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCP%20323%20GUI%20BECOME%20323%20KILL%20PLAYERS%20AND%20MORE958.lua", "https://scriptblox.com/script/Area-Omega-SCP-323-GUI-BECOME-323-KILL-PLAYERS-AND-MORE-6829")
+addscriptexist(11364814984, "AREA OMEGA  SCP 323 GUI    GET 323 HEAD KILL PLAYERS WITH 323  MORE", "Uploaded by kolonto on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AREA%20OMEGA%20%20SCP%20323%20GUI%20%20%20%20GET%20323%20HEAD%20KILL%20PLAYERS%20WITH%20323%20%20MORE552.lua", "https://rscripts.net/script/area-omega-scp-323-gui-get-323-head-kill-players-with-323-more-4229")
+                                

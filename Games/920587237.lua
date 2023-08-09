@@ -24,3 +24,5 @@ addscriptexist(920587237, "Prodigy X AdoptMe Adopt Me Adopt Me Pet Autofarm Auto
                                 
 addscriptexist(920587237, "Script Auto Open Gifts", "Uploaded by soolkijh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Open%20Gifts846.lua", "https://scriptblox.com/script/Adopt-Me!-Script-Auto-Open-Gifts-6743")
                                 
+addscriptexist(920587237, "New Hub", "Uploaded by Patriot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub505.lua", "https://scriptblox.com/script/Adopt-Me!-New-Hub-6834")
+                                

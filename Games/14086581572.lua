@@ -1,2 +1,4 @@
 
 addscript(14086581572, "Current Game","Moon Executor", "Uploaded by ZxroHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moon%20Executor293.lua", "https://scriptblox.com/script/Altitorture-2-Player-Obby-Moon-Executor-6557")
+addscriptexist(14086581572, "Bypass Cops n Instant Win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypass%20Cops%20n%20Instant%20Win%20and%20more250.lua", "https://scriptblox.com/script/400-Altitorture-2-Player-Obby-Bypass-Cops-n-Instant-Win-and-more-6853")
+                                

@@ -1,0 +1,2 @@
+
+addscript(13076380114, "Current Game","Auto Block", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Block330.lua", "https://scriptblox.com/script/COSMETICS-Heroes-Battlegrounds-Auto-Block-6825")

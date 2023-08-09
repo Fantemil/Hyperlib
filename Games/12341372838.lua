@@ -1,0 +1,3 @@
+
+addscript(12341372838, "Current Game","Card Blitz The Best Pls Buy Me Script", "Uploaded by iploggercom on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Card%20Blitz%20The%20Best%20Pls%20Buy%20Me%20Script268.lua", "https://rscripts.net/script/card-blitz-the-best-pls-buy-me-script-4230")
+addscript(12341372838, "Current Game","Card Blitz The Best Pls Buy Me Script", "Uploaded by iploggercom on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Card%20Blitz%20The%20Best%20Pls%20Buy%20Me%20Script117.lua", "https://rscripts.net/script/card-blitz-the-best-pls-buy-me-script-4230")

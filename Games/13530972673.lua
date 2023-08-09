@@ -1,0 +1,2 @@
+
+addscript(13530972673, "Current Game","Script", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script931.lua", "https://scriptblox.com/script/The-Never-Ending-Train-Ride-Script-6844")

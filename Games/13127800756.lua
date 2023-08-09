@@ -38,3 +38,5 @@ addscriptexist(13127800756, "Auto Train Auto Auto Redeem Daily", "Uploaded by ni
                                 
 addscriptexist(13127800756, " Arm Wrestle Simulator  Unity Demo  Serverside  Dupe Kick Inf Items ", "Uploaded by Baller on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Arm%20Wrestle%20Simulator%20%20Unity%20Demo%20%20Serverside%20%20Dupe%20Kick%20Inf%20Items%20689.lua", "https://rscripts.net/script/arm-wrestle-simulator-unity-demo-serverside-dupe-kick-inf-items-4132")
                                 
+addscriptexist(13127800756, "ARM WRESTLE SIMULATOR  AUTO PET DELETE  AUTO FARM FIGHT", "Uploaded by 0kxn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARM%20WRESTLE%20SIMULATOR%20%20AUTO%20PET%20DELETE%20%20AUTO%20FARM%20FIGHT447.lua", "https://rscripts.net/script/arm-wrestle-simulator-auto-pet-delete-auto-farm-fight-4233")
+                                

@@ -72,3 +72,5 @@ addscriptexist(6872265039, "With this script all beds are yours Description", "U
                                 
 addscriptexist(6872265039, "BedWars Kill Aura Custom Godmode Full Disaber  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20Kill%20Aura%20Custom%20Godmode%20Full%20Disaber%20%20More124.lua", "https://rscripts.net/script/bedwars-kill-aura-custom-godmode-full-disaber-more-4215")
                                 
+addscriptexist(6872265039, "Best Script", "Uploaded by yookiltools on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script586.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Best-Script-6836")
+                                

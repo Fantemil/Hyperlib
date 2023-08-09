@@ -24,3 +24,7 @@ addscriptexist(4924922222, "PormansUtility", "Uploaded by robloxiel2212 on scrip
                                 
 addscriptexist(4924922222, "Random Brookhaven Script", "Uploaded by someone8045 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20Brookhaven%20Script815.lua", "https://rscripts.net/script/random-brookhaven-script-4216")
                                 
+addscriptexist(4924922222, "chatbypasser", "Uploaded by brasheargage452 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/chatbypasser314.lua", "https://scriptblox.com/script/Brookhaven-RP-chatbypasser-6851")
+                                
+addscriptexist(4924922222, "all emotes", "Uploaded by brasheargage452 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20emotes269.lua", "https://scriptblox.com/script/Brookhaven-RP-all-emotes-6849")
+                                

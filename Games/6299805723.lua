@@ -18,3 +18,7 @@ addscriptexist(6299805723, "Anime Fighters Simulator Auto Farm Mobs Leave Room",
                                 
 addscriptexist(6299805723, "New Script Auto Farm More", "Uploaded by yookillstool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20Auto%20Farm%20More850.lua", "https://scriptblox.com/script/x5-EVENTS-Anime-Fighters-Simulator-New-Script-Auto-Farm-More-6821")
                                 
+addscriptexist(6299805723, "Script ESP More Auto Skip Room MORE", "Uploaded by doolfisip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20ESP%20More%20Auto%20Skip%20Room%20MORE318.lua", "https://scriptblox.com/script/x5-EVENTS-Anime-Fighters-Simulator-Script-ESP-More-Auto-Skip-Room-MORE-6837")
+                                
+addscriptexist(6299805723, "New Hub All Working", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub%20All%20Working221.lua", "https://rscripts.net/script/new-hub-all-working-4231")
+                                

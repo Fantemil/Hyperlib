@@ -84,3 +84,5 @@ addscriptexist(142823291, "Open Source remaked", "Uploaded by Unc0dXd on scriptb
                                 
 addscriptexist(142823291, "Auto Farm Coins Godmode More", "Uploaded by elektroshirka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Coins%20Godmode%20More798.lua", "https://rscripts.net/script/auto-farm-coins-godmode-more-4176")
                                 
+addscriptexist(142823291, "The Best script for Teleport Auto Grab Gun Auto Farm Coins", "Uploaded by bihher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20script%20for%20Teleport%20Auto%20Grab%20Gun%20Auto%20Farm%20Coins796.lua", "https://scriptblox.com/script/Murder-Mystery-2-The-Best-script-for-Teleport-Auto-Grab-Gun-Auto-Farm-Coins-6832")
+                                
