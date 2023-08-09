@@ -581,22 +581,6 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
     
 end)
 
-Statstab = Window:NewTab("Informations")
-local StatusSection = Statstab:NewSection("---Last Update---")
-StatusSection:NewLabel(formatTimeForUser(lastupdate))
-local Keybinds = Window:NewTab("Keybinds")
-local KeybindsSection = Keybinds:NewSection("---Keybinds---")
-KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T, function()
-	Library:ToggleUI()
-end)
-
-local Credits = Window:NewTab("Credits")
-local CreditsSection = Credits:NewSection("---Credits---")
-local CreditsSection2 = Credits:NewSection("Made by fantemil")
-CreditsSection2:NewButton("Copy GitHub Link", "Copies the GitHub Link to your clipboard", function()
-    setclipboard("https://github.com/Fantemil/Hyperlib")
-    bigGreenItalicText("Copied GitHub Link to clipboard!")
-end)
 
 
 
@@ -891,4 +875,23 @@ spawn(function()
         wait(5)
     end
 
+end)
+Statstab = Window:NewTab("Informations")
+local StatusSection = Statstab:NewSection("---Informations---")
+StatusSection:NewLabel("Last Update: ".. formatTimeForUser(lastupdate))
+StatusSection:NewLabel("Script Version: " .. version)
+StatusSection:NewButton("Copy Link to Discord Server", "Copies the Discord Server Link to your clipboard", function()
+    setclipboard("https://discord.gg/dTcjXmKJdT")
+    bigGreenItalicText("Copied Discord Server Link to clipboard!")
+end)
+StatusSection:NewLabel("Script was made and is maintained by fantemil")
+
+StatusSection:NewButton("Copy GitHub Link", "Copies the GitHub Link to your clipboard", function()
+    setclipboard("https://github.com/Fantemil/Hyperlib")
+    bigGreenItalicText("Copied GitHub Link to clipboard!")
+end)
+local Keybinds = Window:NewTab("Keybinds")
+local KeybindsSection = Keybinds:NewSection("---Keybinds---")
+KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T, function()
+	Library:ToggleUI()
 end)
