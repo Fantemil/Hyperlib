@@ -820,6 +820,7 @@ getgenv().ExploitManagerKillAll = ExploitManagerSection:NewButton("Kill all Expl
         -- remove the guiLabel and guiButton
         guitrackedbyhyperlib[gui][1]:RemoveLabel()
         guitrackedbyhyperlib[gui][2]:RemoveButton()
+        guitrackedbyhyperlib[gui][6]:RemoveButton()
         -- remove the entry from guitrackedbyhyperlib
         guitrackedbyhyperlib[gui] = nil
     end
