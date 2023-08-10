@@ -470,7 +470,10 @@ function Kavo.CreateLib(kavName, themeList)
                 tabButton.BackgroundColor3 = themeList.SchemeColor
             end
         end)()
-    
+        function Tabs:RemoveTab()
+            tabButton:Destroy()
+            page:Destroy()
+        end
         function Sections:NewSection(secName, hidden)
             secName = secName or "Section"
             local sectionFunctions = {}
