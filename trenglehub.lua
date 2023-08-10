@@ -103,7 +103,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.4"
+version = "Hyperlib V.3.5"
 getgenv().statusdict = {}
 
 
@@ -291,6 +291,13 @@ end
 function UpdateWindowTitle(title)
     getgenv().hyperlibguititle.Text = title
 end
+function DisplayWindowMessage(title)
+    spawn(function()
+        UpdateWindowTitle(title)
+        wait(3)
+        UpdateWindowTitle(version)
+    end)
+end
 function sortHubs()
     table.sort(getgenv().hubscripts.allscripts, function(a, b)
         return a.title < b.title
@@ -447,58 +454,60 @@ sortHubs()
 
 getgenv().generalscripts = Window:NewTab("Universal")
 getgenv().generalscriptssection = generalscripts:NewSection("---Universal Scripts---")
+getgenv().generalscriptsinformation = generalscriptssection:NewLabel("Doesnt need to be loaded, for searching!")
 getgenv().generalscriptsallloaded = false
 getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universal Scripts", "Loads all Universal Scripts", function()
- 
+    spawn(function()
       
         local ongoingexecution = false
+        bigBlueItalicText("Starting Loading of Universal Scripts. This may take a while to finish, because there is a wait between each script to ensure that your game doesnt freeze.")
         for i, v in pairs(getgenv().uniscripts.allscripts) do
             getgenv().generalscriptssection:NewLabel(v.title)
             getgenv().statusdict[v.title] = getgenv().generalscriptssection:NewLabel("Status: Not yet executed")
             getgenv().generalscriptssection:NewButton("Execute", v.author, function()
-                function toexecute()
-                    loadstring(game:HttpGet(v.scriptlink))()
+            function toexecute()
+                loadstring(game:HttpGet(v.scriptlink))()
+            end
+            bigBlueItalicText("Starting execution of your script...")
+            ongoingexecution = true
+            spawn(function()
+                while ongoingexecution == true do
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing")
+                    wait(0.1)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing.")
+                    wait(0.1)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing..")
+                    wait(0.1)
+                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executing...")
+                    wait(0.1)
                 end
-                bigBlueItalicText("Starting execution of your script...")
-                ongoingexecution = true
-                spawn(function()
-                    while ongoingexecution == true do
-                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing")
-                        wait(0.1)
-                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing.")
-                        wait(0.1)
-                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing..")
-                        wait(0.1)
-                        getgenv().statusdict[v.title]:UpdateLabel("Status: Executing...")
-                        wait(0.1)
-                    end
-                end)
-    
-                
-                local success, result = pcall(toexecute)
-                if success then
-                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
-                    ongoingexecution = false
-                    wait(0.5)
-                    getgenv().statusdict[v.title]:UpdateLabel("Status: Executed successfully")
-                    wait(5)
-                    getgenv().statusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
-                else
-                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
-                    ongoingexecution = false
-                    wait(0.5)
-                    getgenv().statusdict[v.title]:UpdateLabel("Status: Failed to execute")
-                    wait(5)
-                    getgenv().statusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
-    
-                end
-            end)
-            getgenv().generalscriptssection:NewButton("Copy Origin link of Script", v.origin, function()
-                setclipboard(v.origin)
-                bigGreenItalicText("Copied Origin link of Script to clipboard!")
             end)
 
-        end
+            
+            local success, result = pcall(toexecute)
+            if success then
+                bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                ongoingexecution = false
+                wait(0.5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: Executed successfully")
+                wait(5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+            else
+                bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                ongoingexecution = false
+                wait(0.5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                wait(5)
+                getgenv().statusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+
+            end
+        end)
+        getgenv().generalscriptssection:NewButton("Copy Origin link of Script", v.origin, function()
+            setclipboard(v.origin)
+            bigGreenItalicText("Copied Origin link of Script to clipboard!")
+        end)
+        wait(0.01)
+    end
 
         getgenv().loadedgeneral = true
         getgenv().generalload:UpdateButton("Finished loading!")
@@ -510,15 +519,16 @@ getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universa
             UpdateWindowTitle(version)
         end)
         getgenv().generalload:RemoveButton()
-    
+    end)
 
 end)
 getgenv().gamehubs = Window:NewTab("Game Hubs")
 getgenv().gamehubsection = gamehubs:NewSection("---Game Hubs---")
-getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
-       
-      
+getgenv().gamehubinformation = gamehubsection:NewLabel("Doesnt need to be loaded, for searching!")
+getgenv().hubload = getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
+    spawn(function()
         local ongoingexecution = false
+        bigBlueItalicText("Starting Loading of Game Hubs. This may take a while to finish, because there is a wait between each script to ensure that your game doesnt freeze.")
         for i, v in pairs(getgenv().hubscripts.allscripts) do
             getgenv().gamehubsection:NewLabel(v.title)
             getgenv().statusdict[v.title] = getgenv().gamehubsection:NewLabel("Status: Not yet executed")
@@ -564,6 +574,7 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
                 setclipboard(v.origin)
                 bigGreenItalicText("Copied Origin link of Script to clipboard!")
             end)
+            wait(0.01)
         end
 
 
@@ -577,7 +588,7 @@ getgenv().hubload= getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads a
             UpdateWindowTitle(version)
         end)
         getgenv().hubload:RemoveButton()
-       
+    end)
     
 end)
 
@@ -671,6 +682,7 @@ local success, result = pcall(function()
 
 end)
 if success then
+    getgenv().gamespecific = true
     -- sort the scripts in getgenv().gamescripts.allscripts alphabetically from a to z
     local function sortScripts()
         table.sort(getgenv().gamescripts.allscripts, function(a, b)
@@ -741,6 +753,7 @@ if success then
 
     end
 else
+    getgenv().gamespecific = false
     print("Failed to load game specific scripts")
     bigRedItalicText("There were no scripts found for this game!")
     if getgenv().hyperlibreload == false then
@@ -895,3 +908,809 @@ local KeybindsSection = Keybinds:NewSection("---Keybinds---")
 KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T, function()
 	Library:ToggleUI()
 end)
+
+local SearchTab = Window:NewTab("Search")
+local SearchSection = SearchTab:NewSection("---Searcher---")
+local InformationLabel = SearchSection:NewLabel("Information:")
+local InformationLabel1 = SearchSection:NewLabel("All Search Mode are not case sensitive")
+local InformationLabel2 = SearchSection:NewLabel('Tick "Contains" if Script you Search contains Term')
+local InformationLabel3 = SearchSection:NewLabel('Tick "Exact" if Script you Search = Term')
+local InformationLabel4 = SearchSection:NewLabel('Tick "Starts with" if Script you Search startswith Term')
+local ParameterSection = SearchTab:NewSection("Parameters")
+local ContainsToggle = ParameterSection:NewToggle("Contains", "Searches for Scripts that contain your Term", function(state)
+    if state == true then
+        getgenv().contains = true
+    else
+        getgenv().contains = false
+    end
+end)
+local ExactToggle = ParameterSection:NewToggle("Exact", "Searches for Scripts that are exactly the same as your Term", function(state)
+    if state == true then
+        getgenv().exact = true
+    else
+        getgenv().exact = false
+    end
+end)
+local StartsWithToggle = ParameterSection:NewToggle("Starts with", "Searches for Scripts that start with your Term", function(state)
+    if state == true then
+        getgenv().startswith = true
+    else
+        getgenv().startswith = false
+    end
+end)
+if gamespecific then
+    local gamespecificsearch = SearchTab:NewSection("Search for Scripts by Name in this Game")
+    local gamespecificsearchtextbox = gamespecificsearch:NewTextBox("Search", "Search for Scripts in this Game", function(text)
+        pcall(function()
+            getgenv().QueryTab:RemoveTab()
+        end)
+        getgenv().querystatusdict = {}
+        -- remove the spaces from the text
+        local unspaced = string.gsub(text, " ", "")
+        -- if unspaced is empty
+        if unspaced == "" then
+            DisplayWindowMessage("Please enter a Term to search for!")
+            return
+        end
+        -- if all toggles are false
+        if contains == false and exact == false and startswith == false then
+            DisplayWindowMessage("Please select a Search Mode!")
+            return
+        end
+        -- if more than one toggle is true
+        if contains == true and exact == true or contains == true and startswith == true or exact == true and startswith == true then
+            DisplayWindowMessage("Please select only one Search Mode!")
+            return
+        end
+        -- if contains is true
+        if contains == true then
+            local results = {}
+            -- now search in getgenv().gamescripts.allscripts.title.lower() for text.lower() and if it contains it then add it to results
+            for _, script in pairs(getgenv().gamescripts.allscripts) do
+                if string.find(script.title:lower(), text:lower()) then
+                    table.insert(results, script)
+                end
+            end 
+            -- if results is empty
+            if #results == 0 then
+                DisplayWindowMessage("No Results found!")
+                return
+            end
+            -- sort all results alphabetically
+            table.sort(results, function(a, b)
+                return a.title < b.title
+            end)
+            DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+            getgenv().QueryTab = Window:NewTab("Query")
+
+            getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+            local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+                getgenv().QueryTab:RemoveTab()
+                --clear variables
+                getgenv().querystatusdict = {}
+                getgenv().QueryTab = nil
+                getgenv().QuerySection = nil
+
+
+            end)
+            for i, v in pairs(results) do
+                getgenv().QuerySection:NewLabel(v.title)
+                getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+                getgenv().QuerySection:NewButton("Execute", v.author, function()
+                    function toexecute()
+                        loadstring(game:HttpGet(v.scriptlink))()
+
+                    end
+                    bigBlueItalicText("Starting execution of your script...")
+                    ongoingexecution = true
+                    spawn(function() 
+                        while ongoingexecution do
+                            --wait 0.1
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                            wait(0.1)
+
+                        end
+                    end)
+                    local success, result = pcall(toexecute)
+                    if success then
+                        bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                        ongoingexecution = false
+                        wait(0.5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                        wait(5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                    else
+                        bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                        ongoingexecution = false
+                        wait(0.5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                        wait(5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have unsuccessfully executed this script before")
+        
+                    end
+                end)
+                getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                    setclipboard(v.origin)
+                    bigGreenItalicText("Copied Origin link of Script to clipboard!")
+                end)
+                wait(0.01)
+                
+            end
+            return
+        end
+        -- if exact is true
+        if exact == true then
+            local results = {}
+            -- now search in getgenv().gamescripts.allscripts.title.lower() for text.lower() and if it is exactly the same then add it to results
+            for _, script in pairs(getgenv().gamescripts.allscripts) do
+                if script.title:lower() == text:lower() then
+                    table.insert(results, script)
+                end
+            end 
+            -- if results is empty
+            if #results == 0 then
+                DisplayWindowMessage("No Results found!")
+                return
+            end
+            -- sort all results alphabetically
+            table.sort(results, function(a, b)
+                return a.title < b.title
+            end)
+            DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+            getgenv().QueryTab = Window:NewTab("Query")
+
+            getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+            local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+                getgenv().QueryTab:RemoveTab()
+                --clear variables
+                getgenv().querystatusdict = {}
+                getgenv().QueryTab = nil
+                getgenv().QuerySection = nil
+            end)
+            for i, v in pairs(results) do
+                getgenv().QuerySection:NewLabel(v.title)
+                getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+                getgenv().QuerySection:NewButton("Execute", v.author, function()
+                    function toexecute()
+                        loadstring(game:HttpGet(v.scriptlink))()
+
+                    end
+                    bigBlueItalicText("Starting execution of your script...")
+                    ongoingexecution = true
+                    spawn(function() 
+                        while ongoingexecution do
+                            --wait 0.1
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                            wait(0.1)
+
+                        end
+                    end)
+                    local success, result = pcall(toexecute)
+                    if success then
+                        bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                        ongoingexecution = false
+                        wait(0.5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                        wait(5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                    else
+                        bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                        ongoingexecution = false
+                        wait(0.5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                        wait(5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have unsuccessfully executed this script before")
+        
+                    end
+                end)
+                getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                    setclipboard(v.origin)
+                    bigGreenItalicText("Copied Origin link of Script to clipboard!")
+                end)
+                wait(0.01)
+            end
+            return
+        end
+        if startswith then
+            local results = {}
+            -- now search in getgenv().gamescripts.allscripts.title.lower() for text.lower() and if it starts with text then add it to results
+            for _, script in pairs(getgenv().gamescripts.allscripts) do
+                if script.title:lower():sub(1, #text) == text:lower() then
+                    table.insert(results, script)
+                end
+            end
+            -- if results is empty
+            if #results == 0 then
+                DisplayWindowMessage("No Results found!")
+                return
+            end
+            -- sort all results alphabetically
+            table.sort(results, function(a, b)
+                return a.title < b.title
+            end)
+            DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+            getgenv().QueryTab = Window:NewTab("Query")
+            getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+            local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+                getgenv().QueryTab:RemoveTab()
+                --clear variables
+                getgenv().querystatusdict = {}
+                getgenv().QueryTab = nil
+                getgenv().QuerySection = nil
+            end)
+            for i, v in pairs(results) do 
+                getgenv().QuerySection:NewLabel(v.title)
+                getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+                getgenv().QuerySection:NewButton("Execute", v.author, function()
+                    function toexecute()
+                        loadstring(game:HttpGet(v.scriptlink))()
+
+                    end
+                    bigBlueItalicText("Starting execution of your script...")
+                    ongoingexecution = true
+                    spawn(function() 
+                        while ongoingexecution do
+                            --wait 0.1
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                            wait(0.1)
+                            getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                            wait(0.1)
+
+                        end
+                    end)
+                    local success, result = pcall(toexecute)
+                    if success then
+                        bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                        ongoingexecution = false
+                        wait(0.5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                        wait(5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                    else
+                        bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                        ongoingexecution = false
+                        wait(0.5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                        wait(5)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have unsuccessfully executed this script before")
+        
+                    end
+                end)
+                getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                    setclipboard(v.origin)
+                    bigGreenItalicText("Copied Origin link of Script to clipboard!")
+                end)
+                wait(0.01)
+            end
+            return
+        end
+
+
+
+    
+    end)
+
+end
+local gamehubsearch = SearchTab:NewSection("Search for Game Hubs by Name")
+local gamehubsearchtextbox = gamehubsearch:NewTextBox("Search", "Search for Scripts in the Game Hub Database", function(text)
+    pcall(function()
+        getgenv().QueryTab:RemoveTab()
+    end)
+    getgenv().querystatusdict = {}
+    local unspaced = string.gsub(text, " ", "")
+    if unspaced == "" then
+        DisplayWindowMessage("Please enter a Term to search for!")
+        return
+    end
+    if contains == false and exact == false and startswith == false then
+        DisplayWindowMessage("Please select a Search Mode!")
+        return
+    end
+    -- if more than one toggle is true
+    if contains == true and exact == true or contains == true and startswith == true or exact == true and startswith == true then
+        DisplayWindowMessage("Please select only one Search Mode!")
+        return
+    end
+    if contains == true then
+        local results = {}
+        -- now search in getgenv().hubscripts.allscripts.title.lower() for text.lower() and if it contains text then add it to results
+        for _, script in pairs(getgenv().hubscripts.allscripts) do
+            if script.title:lower():find(text:lower()) then
+                table.insert(results, script)
+            end
+        end
+        -- if results is empty
+        if #results == 0 then
+            DisplayWindowMessage("No Results found!")
+            return
+        end
+        -- sort all results alphabetically
+        table.sort(results, function(a, b)
+            return a.title < b.title
+        end)
+        DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+        getgenv().QueryTab = Window:NewTab("Query")
+        getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+        local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+            getgenv().QueryTab:RemoveTab()
+            --clear variables
+            getgenv().querystatusdict = {}
+            getgenv().QueryTab = nil
+            getgenv().QuerySection = nil
+        end)
+        for i, v in pairs(results) do 
+            getgenv().QuerySection:NewLabel(v.title)
+            getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+            getgenv().QuerySection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function() 
+                    while ongoingexecution do
+                        --wait 0.1
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+
+                    end
+                end)
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+            wait(0.01)
+        end
+        return
+    end
+    if exact then
+        local results = {}
+        -- now search in getgenv().hubscripts.allscripts.title.lower() for text.lower() and if it is the same as text then add it to results
+        for _, script in pairs(getgenv().hubscripts.allscripts) do
+            if script.title:lower() == text:lower() then
+                table.insert(results, script)
+            end
+        end
+        -- if results is empty
+        if #results == 0 then
+            DisplayWindowMessage("No Results found!")
+            return
+        end
+        -- sort all results alphabetically
+        table.sort(results, function(a, b)
+            return a.title < b.title
+        end)
+        DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+        getgenv().QueryTab = Window:NewTab("Query")
+        getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+        local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+            getgenv().QueryTab:RemoveTab()
+            --clear variables
+            getgenv().querystatusdict = {}
+            getgenv().QueryTab = nil
+            getgenv().QuerySection = nil
+        end)
+        for i, v in pairs(results) do 
+            getgenv().QuerySection:NewLabel(v.title)
+            getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+            getgenv().QuerySection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function() 
+                    while ongoingexecution do
+                        --wait 0.1
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+
+                    end
+                end)
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+            wait(0.01)
+        end
+        return
+    end
+    if startswith then
+        local results = {}
+        -- now search in getgenv().hubscripts.allscripts.title.lower() for text.lower() and if it starts with text then add it to results
+        for _, script in pairs(getgenv().hubscripts.allscripts) do
+            if script.title:lower():sub(1, #text) == text:lower() then
+                table.insert(results, script)
+            end
+        end
+        -- if results is empty
+        if #results == 0 then
+            DisplayWindowMessage("No Results found!")
+            return
+        end
+        -- sort all results alphabetically
+        table.sort(results, function(a, b)
+            return a.title < b.title
+        end)
+        DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+        getgenv().QueryTab = Window:NewTab("Query")
+        getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+        local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+            getgenv().QueryTab:RemoveTab()
+            --clear variables
+            getgenv().querystatusdict = {}
+            getgenv().QueryTab = nil
+            getgenv().QuerySection = nil
+        end)
+        for i, v in pairs(results) do 
+            getgenv().QuerySection:NewLabel(v.title)
+            getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+            getgenv().QuerySection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function() 
+                    while ongoingexecution do
+                        --wait 0.1
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+
+                    end
+                end)
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+            wait(0.01)
+        end
+        return
+    end 
+
+
+end)
+local universalsearch = SearchTab:NewSection("Search for Universal Scripts by Name")
+local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for Universal Scripts in the Database", function(text)
+    pcall(function()
+        getgenv().QueryTab:RemoveTab()
+    end)
+    getgenv().querystatusdict = {}
+    local unspaced = string.gsub(text, " ", "")
+    if unspaced == "" then
+        DisplayWindowMessage("Please enter a valid Search Query!")
+        return
+    end
+    if contains == false and exact == false and startswith == false then
+        DisplayWindowMessage("Please select a Search Mode!")
+        return
+    end
+    -- if more than one toggle is true
+    if contains == true and exact == true or contains == true and startswith == true or exact == true and startswith == true then
+        DisplayWindowMessage("Please select only one Search Mode!")
+        return
+    end
+    if contains then
+        local results = {}
+        -- now search in getgenv().uniscripts.allscripts.title.lower() for text.lower() and if it contains text then add it to results
+        for _, script in pairs(getgenv().uniscripts.allscripts) do
+            if script.title:lower():find(text:lower()) then
+                table.insert(results, script)
+            end
+        end
+        -- if results is empty
+        if #results == 0 then
+            DisplayWindowMessage("No Results found!")
+            return
+        end
+        -- sort all results alphabetically
+        table.sort(results, function(a, b)
+            return a.title < b.title
+        end)
+        DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+        getgenv().QueryTab = Window:NewTab("Query")
+        getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+        local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+            getgenv().QueryTab:RemoveTab()
+            --clear variables
+            getgenv().querystatusdict = {}
+            getgenv().QueryTab = nil
+            getgenv().QuerySection = nil
+        end)
+        for i, v in pairs(results) do 
+            getgenv().QuerySection:NewLabel(v.title)
+            getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+            getgenv().QuerySection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function() 
+                    while ongoingexecution do
+                        --wait 0.1
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+
+                    end
+                end)
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+            wait(0.01)
+        end
+        return
+    end
+    if exact then 
+        local results = {}
+        -- now search in getgenv().uniscripts.allscripts.title.lower() for text.lower() and if it exactly matches text then add it to results
+        for _, script in pairs(getgenv().uniscripts.allscripts) do
+            if script.title:lower() == text:lower() then
+                table.insert(results, script)
+            end
+        end
+        -- if results is empty
+        if #results == 0 then
+            DisplayWindowMessage("No Results found!")
+            return
+        end
+        -- sort all results alphabetically
+        table.sort(results, function(a, b)
+            return a.title < b.title
+        end)
+        DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+        getgenv().QueryTab = Window:NewTab("Query")
+        getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+        local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+            getgenv().QueryTab:RemoveTab()
+            --clear variables
+            getgenv().querystatusdict = {}
+            getgenv().QueryTab = nil
+            getgenv().QuerySection = nil
+        end)
+        for i, v in pairs(results) do 
+            getgenv().QuerySection:NewLabel(v.title)
+            getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+            getgenv().QuerySection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function() 
+                    while ongoingexecution do
+                        --wait 0.1
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+
+                    end
+                end)
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+            wait(0.01)
+        end
+        return
+    end     
+    if startswith then
+        local results  = {}
+        -- now search in getgenv().uniscripts.allscripts.title.lower() for text.lower() and if it starts with text then add it to results
+        for _, script in pairs(getgenv().uniscripts.allscripts) do
+            if script.title:lower():sub(1, #text) == text:lower() then
+                table.insert(results, script)
+            end
+        end
+        -- if results is empty
+        if #results == 0 then
+            DisplayWindowMessage("No Results found!")
+            return
+        end
+        -- sort all results alphabetically
+        table.sort(results, function(a, b)
+            return a.title < b.title
+        end)
+        DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
+        getgenv().QueryTab = Window:NewTab("Query")
+        getgenv().QuerySection = QueryTab:NewSection("---Results of your Search---")
+        local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
+            getgenv().QueryTab:RemoveTab()
+            --clear variables
+            getgenv().querystatusdict = {}
+            getgenv().QueryTab = nil
+            getgenv().QuerySection = nil
+        end)
+        for i,v in pairs(results) do 
+            getgenv().QuerySection:NewLabel(v.title)
+            getgenv().querystatusdict[v.title] = getgenv().QuerySection:NewLabel("Status: Not yet executed")
+            getgenv().QuerySection:NewButton("Execute", v.author, function()
+                function toexecute()
+                    loadstring(game:HttpGet(v.scriptlink))()
+
+                end
+                bigBlueItalicText("Starting execution of your script...")
+                ongoingexecution = true
+                spawn(function() 
+                    while ongoingexecution do
+                        --wait 0.1
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing.")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing..")
+                        wait(0.1)
+                        getgenv().querystatusdict[v.title]:UpdateLabel("Status: Executing...")
+                        wait(0.1)
+
+                    end
+                end)
+                local success, result = pcall(toexecute)
+                if success then
+                    bigGreenItalicText(getLocalPlayerName().. ", your Script finished execution successfully!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Successfully executed")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have successfully executed this script before")
+                else
+                    bigRedItalicText(getLocalPlayerName().. ", your Script failed to finish execution!")
+                    ongoingexecution = false
+                    wait(0.5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: Failed to execute")
+                    wait(5)
+                    getgenv().querystatusdict[v.title]:UpdateLabel("Status: You have failed to execute this script before")
+    
+                end
+            end)
+            getgenv().QuerySection:NewButton("Copy Origin link of Script", v.origin, function()
+                setclipboard(v.origin)
+                bigGreenItalicText("Copied Origin link of Script to clipboard!")
+            end)
+            wait(0.01)
+        end
+        return
+    end
+end)
+
