@@ -70,6 +70,16 @@ function ManagerRefreshGuis()
                 -- if the gui was removed, remove the guiLabel and guiButton
                 guitrackedbyhyperlib[gui][1]:RemoveLabel()
                 guitrackedbyhyperlib[gui][2]:RemoveButton()
+                guitrackedbyhyperlib[gui][6]:RemoveButton()
+                -- remove the entry from guitrackedbyhyperlib
+                
+            end
+            -- if the gui in ignoredguis[gui] = true
+            if ignoredguis[gui] == true then
+                -- if the gui was removed, remove the guiLabel and guiButton
+                guitrackedbyhyperlib[gui][1]:RemoveLabel()
+                guitrackedbyhyperlib[gui][2]:RemoveButton()
+                guitrackedbyhyperlib[gui][6]:RemoveButton()
                 -- remove the entry from guitrackedbyhyperlib
                 guitrackedbyhyperlib[gui] = nil
             end
@@ -103,7 +113,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.5"
+version = "Hyperlib V.3.5.1"
 getgenv().statusdict = {}
 
 
@@ -825,6 +835,27 @@ getgenv().ExploitManagerKillAll = ExploitManagerSection:NewButton("Kill all Expl
 
     
 end)
+getgenv().ExploitManagerIgnoreAll = ExploitManagerSection:NewButton("Ignore all Exploit GUIs", "Ignores all GUIs that were made after the execution of Hyperlib", function()
+    -- for every entry in the dictionary guitrackedbyhyperlib
+    for gui, _ in pairs(guitrackedbyhyperlib) do
+
+        -- add the gui to the ignoredguis table
+        ignoredguis[gui] = true
+        -- remove the guiLabel and guiButton
+        guitrackedbyhyperlib[gui][1]:RemoveLabel()
+        guitrackedbyhyperlib[gui][2]:RemoveButton()
+        guitrackedbyhyperlib[gui][6]:RemoveButton()
+        -- remove the entry from guitrackedbyhyperlib
+        guitrackedbyhyperlib[gui] = nil
+    end
+    spawn(function()
+        wait(0.5)
+        bigGreenItalicText("Successfully ignored all other GUIs!")
+        UpdateWindowTitle("Successfully ignored GUIs!")
+        wait(3)
+        UpdateWindowTitle(version)
+    end)
+end)
 
 spawn(function()
     wait(3)
@@ -833,6 +864,7 @@ spawn(function()
     local newGUIs = {}
     local alreadyfound = false
     getgenv().guitrackedbyhyperlib = {}
+    getgenv().ignoredguis = {}
     while true do
         local trackedisempty = true
         getgenv().currentGUIs = getGUIs(coreGui)
@@ -861,6 +893,7 @@ spawn(function()
                     end
                       
                     if alreadyfound == false then
+                        ignoredguis[gui] = false
 
                         local guiName = gui.Name
                         local guiType = gui.ClassName
@@ -871,8 +904,17 @@ spawn(function()
                             ManagerRefreshGuis()
                             bigGreenItalicText("Successfully removed " .. guiName .. " (" .. guiType .. ")!")
                         end)
+                        local ignoreButton = ExploitManagerSection:NewButton("Ignore", "Ignores the GUI", function()
+                            -- remove the gui entry from guitrackedbyhyperlib
+                            guitrackedbyhyperlib[gui][1]:RemoveLabel()
+                            guitrackedbyhyperlib[gui][2]:RemoveButton()
+                            guitrackedbyhyperlib[gui][6]:RemoveButton()
+                            guitrackedbyhyperlib[gui] = nil
+                            bigGreenItalicText("Successfully ignored " .. guiName .. " (" .. guiType .. ")!")
+                            
+                        end)
                         -- make a entry to gutrackedbyhyperlib with {gui object : { guiLabel, guiButton }}
-                        guitrackedbyhyperlib[gui] = {guiLabel, guiButton, guiName, guiType, gui}
+                        guitrackedbyhyperlib[gui] = {guiLabel, guiButton, guiName, guiType, gui, ignoreButton}
                     end
                 end
 
