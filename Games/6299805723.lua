@@ -22,3 +22,5 @@ addscriptexist(6299805723, "Script ESP More Auto Skip Room MORE", "Uploaded by d
                                 
 addscriptexist(6299805723, "New Hub All Working", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub%20All%20Working221.lua", "https://rscripts.net/script/new-hub-all-working-4231")
                                 
+addscriptexist(6299805723, "Dupe Script WORKING LATEST UPDATE", "Uploaded by williamdantas629 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20Script%20WORKING%20LATEST%20UPDATE564.lua", "https://scriptblox.com/script/x5-EVENTS-Anime-Fighters-Simulator-Dupe-Script-WORKING-LATEST-UPDATE-6861")
+                                

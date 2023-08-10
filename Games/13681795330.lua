@@ -4,3 +4,5 @@ addscriptexist(13681795330, "PUSH SIMULATOR   RaCc0oN Hub", "Uploaded by racc0on
                                 
 addscriptexist(13681795330, "AUTO FARM", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM328.lua", "https://scriptblox.com/script/PUSH-SIMULATOR-AUTO-FARM-6738")
                                 
+addscriptexist(13681795330, "Missile AUTO FARM", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Missile%20AUTO%20FARM271.lua", "https://scriptblox.com/script/PUSH-SIMULATOR-Missile-AUTO-FARM-6861")
+                                

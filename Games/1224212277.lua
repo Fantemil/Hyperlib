@@ -50,3 +50,7 @@ addscriptexist(1224212277, "Script Auto Rob No Serverhop", "Uploaded by yookills
                                 
 addscriptexist(1224212277, "Pro Bacon Hub  Mad City", "Uploaded by ProBacon on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pro%20Bacon%20Hub%20%20Mad%20City894.lua", "https://rscripts.net/script/pro-bacon-hub-mad-city-4196")
                                 
+addscriptexist(1224212277, "Autofarm Money Serverhop", "Uploaded by aymarko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Money%20Serverhop77.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-Autofarm-Money-Serverhop-6876")
+                                
+addscriptexist(1224212277, "ProBAconHub", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBAconHub484.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-ProBAconHub-6889")
+                                

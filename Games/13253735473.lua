@@ -18,3 +18,5 @@ addscriptexist(13253735473, "Actor bypasssssss", "Uploaded by ratsssstts on scri
                                 
 addscriptexist(13253735473, "astral pro crack CHECK DESCRIPTION", "Uploaded by ChickenAndChips on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/astral%20pro%20crack%20CHECK%20DESCRIPTION968.lua", "https://scriptblox.com/script/Trident-Survival-V2-astral-pro-crack-CHECK-DESCRIPTION-6697")
                                 
+addscriptexist(13253735473, "Float  ITS NOT PATCHED", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Float%20%20ITS%20NOT%20PATCHED580.lua", "https://scriptblox.com/script/Trident-Survival-V2-Float-*****-ITS-NOT-PATCHED-6869")
+                                

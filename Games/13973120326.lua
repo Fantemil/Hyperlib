@@ -10,3 +10,5 @@ addscriptexist(13973120326, "Ken Hud", "Uploaded by ScriptNoKeys on scriptblox.c
                                 
 addscriptexist(13973120326, "UPDATED WORKING AFTER PATCH dupe n custom n more", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20WORKING%20AFTER%20PATCH%20dupe%20n%20custom%20n%20more973.lua", "https://scriptblox.com/script/Grimace-Race-UPDATED-WORKING-AFTER-PATCH-dupe-n-custom-n-more-6705")
                                 
+addscriptexist(13973120326, "FREE UGC dupe n custom n more", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20UGC%20dupe%20n%20custom%20n%20more545.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-FREE-UGC-dupe-n-custom-n-more-6857")
+                                

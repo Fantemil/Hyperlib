@@ -1,0 +1,2 @@
+
+addscript(12678260048, "Current Game","Infinite Gamepass n Lucky Block and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gamepass%20n%20Lucky%20Block%20and%20more552.lua", "https://scriptblox.com/script/ESCAPE-IPAD-KID!-(Obby)-Infinite-Gamepass-n-Lucky-Block-and-more-6877")

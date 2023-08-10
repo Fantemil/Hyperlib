@@ -1,2 +1,4 @@
 
 addscript(13530972673, "Current Game","Script", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script931.lua", "https://scriptblox.com/script/The-Never-Ending-Train-Ride-Script-6844")
+addscriptexist(13530972673, "Script FREE ITEMS FREE BADGES", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20FREE%20ITEMS%20FREE%20BADGES232.lua", "https://scriptblox.com/script/The-Never-Ending-Train-Ride-Script-FREE-ITEMS-FREE-BADGES-6867")
+                                

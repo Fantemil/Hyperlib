@@ -56,3 +56,5 @@ addscriptexist(155615604, "Lightux Kill All Fly and More", "Uploaded by Vikingla
                                 
 addscriptexist(155615604, "Rawnder X credits to Rawnder", "Uploaded by brickplanetrocks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rawnder%20X%20credits%20to%20Rawnder703.lua", "https://scriptblox.com/script/Prison-Life-Rawnder-X-credits-to-Rawnder-6733")
                                 
+addscriptexist(155615604, "Temperion Admin Cracked Source", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Temperion%20Admin%20Cracked%20Source564.lua", "https://scriptblox.com/script/Prison-Life-Temperion-Admin-Cracked-Source-6883")
+                                

@@ -72,3 +72,5 @@ addscriptexist(6516141723, "Script Fullbright Instant Interact More", "Uploaded 
                                 
 addscriptexist(6516141723, "DOORS Fullbright Instant Interact  More", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DOORS%20Fullbright%20Instant%20Interact%20%20More890.lua", "https://rscripts.net/script/doors-fullbright-instant-interact-more-4221")
                                 
+addscriptexist(6516141723, "Lolcat HUB", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lolcat%20HUB695.lua", "https://scriptblox.com/script/DOORS-Lolcat-HUB-6890")
+                                

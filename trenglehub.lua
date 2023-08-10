@@ -1,6 +1,6 @@
 
 
-lastupdate = "GMT +2: 09.08.2023 16:31:20"
+lastupdate = "GMT +2: 10.08.2023 17:06:14"
 function bigRedItalicText(text)
     pcall(function()
     game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {

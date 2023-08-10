@@ -210,3 +210,5 @@ addscriptexist(2753915549, "Auto Quest Auto Farm Level Auto Farm Bone", "Uploade
                                 
 addscriptexist(2753915549, "Auto Stats Auto Buy Fruit Sniper More NEW SCRIPT", "Uploaded by alopingors on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stats%20Auto%20Buy%20Fruit%20Sniper%20More%20NEW%20SCRIPT23.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Stats-Auto-Buy-Fruit-Sniper-More-NEW-SCRIPT-6840")
                                 
+addscriptexist(2753915549, "Script NEW Auto Stats Auto Buy Fruit Sniper More", "Uploaded by hoodwich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20NEW%20Auto%20Stats%20Auto%20Buy%20Fruit%20Sniper%20More351.lua", "https://scriptblox.com/script/Blox-Fruits-Script-NEW-Auto-Stats-Auto-Buy-Fruit-Sniper-More-6858")
+                                

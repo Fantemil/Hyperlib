@@ -6,3 +6,5 @@ addscript(4623386862, "Current Game","Vynixius", "Uploaded by Vynixu on scriptbl
                                 
     addscriptexist(4623386862, "Item Grabber Gui FIXED", "Uploaded by timmy282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Grabber%20Gui%20FIXED915.lua", "https://scriptblox.com/script/Piggy-BREAKOUT-CHAPTER-Item-Grabber-Gui-FIXED-4710")
                                 
+addscriptexist(4623386862, "vyxunis", "Uploaded by robux7531 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/vyxunis361.lua", "https://scriptblox.com/script/Piggy-vyxunis-6878")
+                                

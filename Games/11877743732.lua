@@ -1,0 +1,2 @@
+
+addscript(11877743732, "Current Game","Turret Kill", "Uploaded by NOOB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turret%20Kill48.lua", "https://scriptblox.com/script/Zombie-Battle-Tycoon-Turret-Kill-6868")

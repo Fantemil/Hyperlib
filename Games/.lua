@@ -126,3 +126,5 @@ addscriptexist(, "Type Race AUTO TYPE", "Uploaded by rylvns on rscripts.net", "h
                                 
 addscriptexist(, "New Script For Dingus", "Uploaded by MrXrer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20For%20Dingus119.lua", "https://rscripts.net/script/new-script-for-dingus-4199")
                                 
+addscriptexist(, "Dingus OP ALOT OF FEATURES", "Uploaded by rylvns on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dingus%20OP%20ALOT%20OF%20FEATURES876.lua", "https://rscripts.net/script/dingus-op-alot-of-features-4240")
+                                

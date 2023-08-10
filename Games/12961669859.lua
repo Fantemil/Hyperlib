@@ -1,0 +1,2 @@
+
+addscript(12961669859, "Current Game","All Gears n Stage Slider and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Gears%20n%20Stage%20Slider%20and%20more37.lua", "https://scriptblox.com/script/Easy-Fun-Obby-All-Gears-n-Stage-Slider-and-more-6870")

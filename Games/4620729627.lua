@@ -1,0 +1,2 @@
+
+addscript(4620729627, "Current Game","Overwrite", "Uploaded by greenstevereal2401 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overwrite18.lua", "https://scriptblox.com/script/Sans-Multiversal-Battles!-Overwrite-6874")

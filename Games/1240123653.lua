@@ -8,3 +8,5 @@ addscriptexist(1240123653, "ZOMBIE ATTACK BEST AUTOFARM GUI", "Uploaded by iki o
                                 
 addscriptexist(1240123653, "Overpowered Autofarm", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overpowered%20Autofarm610.lua", "https://scriptblox.com/script/Zombie-Attack-Overpowered-Autofarm-6661")
                                 
+addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Wins106.lua", "https://scriptblox.com/script/Zombie-Attack-Free-Wins-6888")
+                                

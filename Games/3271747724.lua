@@ -1,0 +1,2 @@
+
+addscript(3271747724, "Current Game","Bloodboost Hub", "Uploaded by hugedummy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloodboost%20Hub298.lua", "https://scriptblox.com/script/MEGA-Boss-Survival-Bloodboost-Hub-6875")
