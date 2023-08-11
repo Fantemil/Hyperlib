@@ -12,3 +12,5 @@ addscriptexist(13973120326, "UPDATED WORKING AFTER PATCH dupe n custom n more", 
                                 
 addscriptexist(13973120326, "FREE UGC dupe n custom n more", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20UGC%20dupe%20n%20custom%20n%20more545.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-FREE-UGC-dupe-n-custom-n-more-6857")
                                 
+addscriptexist(13973120326, "Script OP", "Uploaded by lhobba14 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20OP425.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-Script-OP-6920")
+                                

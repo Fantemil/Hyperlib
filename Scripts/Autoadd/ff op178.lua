@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/runGunbi/rpghubunskidded/main/Rpg%20hub%20v.2%20new%20obf.lua"))()

@@ -46,3 +46,5 @@ addscriptexist(8737602449, "UNPATCHED Pls Donate Autofarm", "Uploaded by szze on
                                 
 addscriptexist(8737602449, "Limited UGC", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20UGC642.lua", "https://scriptblox.com/script/PLS-DONATE-Limited-UGC-6668")
                                 
+addscriptexist(8737602449, "PLS DONATE ANTI AFK SCRIPT", "Uploaded by 0kxn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20ANTI%20AFK%20SCRIPT520.lua", "https://rscripts.net/script/pls-donate-anti-afk-script-4243")
+                                

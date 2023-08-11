@@ -1,0 +1,2 @@
+
+addscript(95206881, "Current Game","Universal Script Permanent Shift Lock", "Uploaded by Guesttester_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Script%20Permanent%20Shift%20Lock511.lua", "https://scriptblox.com/script/Baseplate-Universal-Script-Permanent-Shift-Lock-6924")

@@ -1,0 +1,2 @@
+
+addscript(3623096087, "Current Game","MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub354.lua", "https://scriptblox.com/script/Muscle-Legends-MaddHub-6914")

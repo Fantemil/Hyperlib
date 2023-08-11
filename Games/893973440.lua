@@ -10,3 +10,5 @@ addscriptexist(893973440, "Flee The Facility OP", "Uploaded by OneProtocol on rs
                                 
 addscriptexist(893973440, "Flee The Facility REWORK Free Code", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flee%20The%20Facility%20REWORK%20Free%20Code603.lua", "https://rscripts.net/script/flee-the-facility-rework-free-code-4145")
                                 
+addscriptexist(893973440, "FTF HAX", "Uploaded by mykee360 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FTF%20HAX225.lua", "https://scriptblox.com/script/Flee-the-Facility-HAX-6922")
+                                

@@ -30,3 +30,5 @@ addscriptexist(4924922222, "all emotes", "Uploaded by brasheargage452 on scriptb
                                 
 addscriptexist(4924922222, "Kill All Free GamePass Admin Panel Script", "Uploaded by Patriot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20Free%20GamePass%20Admin%20Panel%20Script765.lua", "https://scriptblox.com/script/Brookhaven-RP-Kill-All-Free-GamePass-Admin-Panel-Script-6863")
                                 
+addscriptexist(4924922222, "This script has a lot of features look at it", "Uploaded by MilkyWay00o on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/This%20script%20has%20a%20lot%20of%20features%20look%20at%20it539.lua", "https://scriptblox.com/script/Brookhaven-RP-This-script-has-a-lot-of-features-look-at-it-6927")
+                                

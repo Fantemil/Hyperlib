@@ -30,3 +30,5 @@ addscriptexist(3956818381, "Ninja Legends AutoFarm GUI", "Uploaded by diglt on r
                                 
 addscriptexist(3956818381, "Obscure Hub 45 GAMES", "Uploaded by Obscure on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obscure%20Hub%2045%20GAMES609.lua", "https://rscripts.net/script/obscure-hub-45-games-3114")
                                 
+addscriptexist(3956818381, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub693.lua", "https://scriptblox.com/script/Ninja-Legends-MaddHub-6917")
+                                

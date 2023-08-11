@@ -24,3 +24,5 @@ addscriptexist(3101667897, "This Is The Best Script For Legends Of Speed", "Uplo
                                 
 addscriptexist(3101667897, "Legends Of Speed Autofarm", "Uploaded by Timsaay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legends%20Of%20Speed%20Autofarm461.lua", "https://rscripts.net/script/legends-of-speed-autofarm-3437")
                                 
+addscriptexist(3101667897, "Maddhub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maddhub150.lua", "https://scriptblox.com/script/Legends-Of-Speed-Maddhub-6915")
+                                

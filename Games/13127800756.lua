@@ -40,3 +40,11 @@ addscriptexist(13127800756, " Arm Wrestle Simulator  Unity Demo  Serverside  Dup
                                 
 addscriptexist(13127800756, "ARM WRESTLE SIMULATOR  AUTO PET DELETE  AUTO FARM FIGHT", "Uploaded by 0kxn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARM%20WRESTLE%20SIMULATOR%20%20AUTO%20PET%20DELETE%20%20AUTO%20FARM%20FIGHT447.lua", "https://rscripts.net/script/arm-wrestle-simulator-auto-pet-delete-auto-farm-fight-4233")
                                 
+addscriptexist(13127800756, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub12.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-MaddHub-6910")
+                                
+addscriptexist(13127800756, "Script Auto Train MORE", "Uploaded by toolifskins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Train%20MORE765.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Script-Auto-Train-MORE-6908")
+                                
+addscriptexist(13127800756, "ARM WRESTLE SIM AUTO CRAFTDELETE OP EGG AUTO FARMFIGHT", "Uploaded by 0kxn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARM%20WRESTLE%20SIM%20AUTO%20CRAFTDELETE%20OP%20EGG%20AUTO%20FARMFIGHT954.lua", "https://rscripts.net/script/arm-wrestle-sim-auto-craftdelete-op-egg-auto-farmfight-4250")
+                                
+addscriptexist(13127800756, "Arm Wrestle Simulator  MaddHub Free Key", "Uploaded by maddjester on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arm%20Wrestle%20Simulator%20%20MaddHub%20Free%20Key102.lua", "https://rscripts.net/script/arm-wrestle-simulator-maddhub-free-key-4249")
+                                

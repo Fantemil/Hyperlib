@@ -1,0 +1,2 @@
+
+addscript(9377953133, "Current Game","Sword Bot", "Uploaded by mrcake47 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sword%20Bot513.lua", "https://rscripts.net/script/sword-bot-4251")

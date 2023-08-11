@@ -4,3 +4,5 @@ addscript(6953291455, "Current Game","EZ", "Uploaded by caganhuseyinerdil on scr
                                 
     addscriptexist(6953291455, "AutoEat AutoFarm AutoSell", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoEat%20AutoFarm%20AutoSell863.lua", "https://scriptblox.com/script/Eating-Simulator-AutoEat-AutoFarm-AutoSell-3238")
                                 
+addscriptexist(6953291455, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub987.lua", "https://scriptblox.com/script/Eating-Simulator-MaddHub-6913")
+                                

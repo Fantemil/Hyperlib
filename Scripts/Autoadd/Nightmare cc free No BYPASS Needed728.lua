@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HighOnPickles/Nightmare.cc./main/Free", true))()

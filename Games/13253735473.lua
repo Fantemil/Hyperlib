@@ -20,3 +20,13 @@ addscriptexist(13253735473, "astral pro crack CHECK DESCRIPTION", "Uploaded by C
                                 
 addscriptexist(13253735473, "Float  ITS NOT PATCHED", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Float%20%20ITS%20NOT%20PATCHED580.lua", "https://scriptblox.com/script/Trident-Survival-V2-Float-*****-ITS-NOT-PATCHED-6869")
                                 
+addscriptexist(13253735473, "Velocity cc Actor bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20cc%20Actor%20bypass418.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-cc-Actor-bypass-6894")
+                                
+addscriptexist(13253735473, "Nightmare cc free No BYPASS Needed", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nightmare%20cc%20free%20No%20BYPASS%20Needed728.lua", "https://scriptblox.com/script/Trident-Survival-V2-Nightmare-cc-free-6895")
+                                
+addscriptexist(13253735473, "Velocity cc Leak v1 2", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20cc%20Leak%20v1%202912.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-cc-Leak-v1-2-6893")
+                                
+addscriptexist(13253735473, "Velocity cc Leak v1 2 with console", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20cc%20Leak%20v1%202%20with%20console255.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-cc-Leak-v1-2-6892")
+                                
+addscriptexist(13253735473, "Velocity cc Leak v1 9", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20cc%20Leak%20v1%209364.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-cc-Leak-v1-9-6891")
+                                

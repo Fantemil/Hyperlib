@@ -12,3 +12,5 @@ addscriptexist(11545598432, "fighter script NOt mine", "Uploaded by Virge_Rogue 
                                 
 addscriptexist(11545598432, "Cool script with autofarm and more", "Uploaded by hamaskjx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20script%20with%20autofarm%20and%20more856.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-Cool-script-with-autofarm-and-more-6746")
                                 
+addscriptexist(11545598432, "Best Blo Hub Roblo Script AUTO EVERYTHING", "Uploaded by one_armed_shinobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Blo%20Hub%20Roblo%20Script%20AUTO%20EVERYTHING657.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-Best-Blo-Hub-Roblo-Script-AUTO-EVERYTHING-6910")
+                                

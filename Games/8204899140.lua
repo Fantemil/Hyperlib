@@ -16,3 +16,5 @@ addscript(8204899140, "Current Game","FF SCRIPT", "Uploaded by clashroyaleenjoye
                                 
 addscriptexist(8204899140, "wiihub free", "Uploaded by woodtyce31 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/wiihub%20free378.lua", "https://scriptblox.com/script/Football-Fusion-2-wiihub-free-6789")
                                 
+addscriptexist(8204899140, "ff op", "Uploaded by woodtyce31 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ff%20op178.lua", "https://scriptblox.com/script/Football-Fusion-2-ff-op-6903")
+                                

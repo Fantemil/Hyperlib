@@ -212,3 +212,9 @@ addscriptexist(2753915549, "Auto Stats Auto Buy Fruit Sniper More NEW SCRIPT", "
                                 
 addscriptexist(2753915549, "Script NEW Auto Stats Auto Buy Fruit Sniper More", "Uploaded by hoodwich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20NEW%20Auto%20Stats%20Auto%20Buy%20Fruit%20Sniper%20More351.lua", "https://scriptblox.com/script/Blox-Fruits-Script-NEW-Auto-Stats-Auto-Buy-Fruit-Sniper-More-6858")
                                 
+addscriptexist(2753915549, "Uranium Hub", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Uranium%20Hub176.lua", "https://scriptblox.com/script/Blox-Fruits-Uranium-Hub-6897")
+                                
+addscriptexist(2753915549, "Autofarm LVL Autofarm Race Teleport", "Uploaded by premiumclassrub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20LVL%20Autofarm%20Race%20Teleport475.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-LVL-Autofarm-Race-Teleport-6925")
+                                
+addscriptexist(2753915549, "MeMayBeo Hub V1", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeMayBeo%20Hub%20V117.lua", "https://scriptblox.com/script/Blox-Fruits-MeMayBeo-Hub-V1-6916")
+                                

@@ -58,3 +58,9 @@ addscriptexist(155615604, "Rawnder X credits to Rawnder", "Uploaded by brickplan
                                 
 addscriptexist(155615604, "Temperion Admin Cracked Source", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Temperion%20Admin%20Cracked%20Source564.lua", "https://scriptblox.com/script/Prison-Life-Temperion-Admin-Cracked-Source-6883")
                                 
+addscriptexist(155615604, "FE Lag Switch Universal", "Uploaded by mykee360 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Lag%20Switch%20Universal578.lua", "https://scriptblox.com/script/Prison-Life-FE-Lag-Switch-Universal-6918")
+                                
+addscriptexist(155615604, "Sunrise BETA", "Uploaded by heheheha804 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sunrise%20BETA400.lua", "https://scriptblox.com/script/Prison-Life-Sunrise-BETA-6925")
+                                
+addscriptexist(155615604, "Kill All Auto Respawn Give Guns Gun Mods MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20Auto%20Respawn%20Give%20Guns%20Gun%20Mods%20MORE938.lua", "https://scriptblox.com/script/Prison-Life-Kill-All-Auto-Respawn-Give-Guns-Gun-Mods-MORE-6899")
+                                

@@ -54,3 +54,7 @@ addscriptexist(1224212277, "Autofarm Money Serverhop", "Uploaded by aymarko on s
                                 
 addscriptexist(1224212277, "ProBAconHub", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBAconHub484.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-ProBAconHub-6889")
                                 
+addscriptexist(1224212277, "RubyHub X ProBaconHub BETA V3", "Uploaded by aymarko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RubyHub%20X%20ProBaconHub%20BETA%20V3980.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-RubyHub-X-ProBaconHub-BETA-V3-6907")
+                                
+addscriptexist(1224212277, "ProBacon X RubyHub GUI", "Uploaded by SonixProYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBacon%20X%20RubyHub%20GUI188.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-ProBacon-X-RubyHub-GUI-6906")
+                                

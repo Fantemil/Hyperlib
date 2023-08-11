@@ -1,2 +1,4 @@
 
 addscript(8110845141, "Current Game","script SOURCE CODE", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20SOURCE%20CODE169.lua", "https://scriptblox.com/script/POOP-WITH-FRIENDS-script-SOURCE-CODE-6693")
+addscriptexist(8110845141, "reupload because no like", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reupload%20because%20no%20like626.lua", "https://scriptblox.com/script/POOP-WITH-FRIENDS-reupload-because-no-like-6923")
+                                
