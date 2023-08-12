@@ -1,0 +1,2 @@
+
+addscript(11634325399, "Current Game","crappy game script", "Uploaded by somethingbread on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crappy%20game%20script867.lua", "https://scriptblox.com/script/New-Elements!!!-Cultivation-of-Realms-Cosmic-crappy-game-script-6964")

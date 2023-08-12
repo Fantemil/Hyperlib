@@ -1,0 +1,2 @@
+
+addscript(9099326192, "Current Game","All VIP Gears n All Badges and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20VIP%20Gears%20n%20All%20Badges%20and%20more264.lua", "https://scriptblox.com/script/GREAT-SCHOOL-BREAKOUT!-(First-Person-Obby)-All-VIP-Gears-n-All-Badges-and-more-6942")

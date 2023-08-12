@@ -1,2 +1,4 @@
 
 addscript(8425128940, "Current Game","Best Anime Warriors Simulator 2 Script", "Uploaded by Drazox6430920f61339 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Anime%20Warriors%20Simulator%202%20Script335.lua", "https://rscripts.net/script/best-anime-warriors-simulator-2-script-3758")
+addscriptexist(8425128940, "Cefrus Hub", "Uploaded by keeron9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cefrus%20Hub771.lua", "https://scriptblox.com/script/UPD13%2B3X-Anime-Warriors-Simulator-2-Cefrus-Hub-6943")
+                                

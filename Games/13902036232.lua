@@ -1,0 +1,2 @@
+
+addscript(13902036232, "Current Game","Best Script", "Uploaded by reubxclasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script737.lua", "https://scriptblox.com/script/2M-Power-Punch-Simulator-Best-Script-6969")

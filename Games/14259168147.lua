@@ -1,0 +1,2 @@
+
+addscript(14259168147, "Current Game","Aimbot and walkspeed", "Uploaded by Level100bray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20and%20walkspeed948.lua", "https://scriptblox.com/script/NEW-Basketball-Legends-Aimbot-and-walkspeed-6964")

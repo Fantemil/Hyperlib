@@ -1,0 +1,2 @@
+
+addscript(9372570969, "Current Game","VIP Gears n Stage Slider and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Gears%20n%20Stage%20Slider%20and%20more593.lua", "https://scriptblox.com/script/GRUMPY-GRAN!-(SCARY-OBBY)-VIP-Gears-n-Stage-Slider-and-more-6947")

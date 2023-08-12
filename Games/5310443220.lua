@@ -1,0 +1,2 @@
+
+addscript(5310443220, "Current Game","All Weapons n Remove Doors Laser and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Weapons%20n%20Remove%20Doors%20Laser%20and%20more73.lua", "https://scriptblox.com/script/GOD-TYCOON-All-Weapons-n-Remove-Doors-Laser-and-more-6941")

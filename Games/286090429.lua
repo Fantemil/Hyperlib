@@ -116,3 +116,5 @@ addscriptexist(286090429, "Arsenal Script AIMBOT ESP PATCHED", "Uploaded by PEKK
                                 
 addscriptexist(286090429, "Strike Hub  Arsenal", "Uploaded by MHD444 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Strike%20Hub%20%20Arsenal836.lua", "https://rscripts.net/script/strike-hub-arsenal-3063")
                                 
+addscriptexist(286090429, "AImbot script made by chatgpt", "Uploaded by _Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AImbot%20script%20made%20by%20chatgpt862.lua", "https://scriptblox.com/script/Arsenal-AImbot-script-made-by-chatgpt-6940")
+                                

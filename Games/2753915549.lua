@@ -218,3 +218,13 @@ addscriptexist(2753915549, "Autofarm LVL Autofarm Race Teleport", "Uploaded by p
                                 
 addscriptexist(2753915549, "MeMayBeo Hub V1", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeMayBeo%20Hub%20V117.lua", "https://scriptblox.com/script/Blox-Fruits-MeMayBeo-Hub-V1-6916")
                                 
+addscriptexist(2753915549, "MUKURO HUB GET MAX LEVEL 2450 EASILY", "Uploaded by eggplantGobbler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MUKURO%20HUB%20GET%20MAX%20LEVEL%202450%20EASILY592.lua", "https://scriptblox.com/script/Blox-Fruits-MUKURO-HUB-6963")
+                                
+addscriptexist(2753915549, "SCRIPT PadoHub No Key", "Uploaded by AdrielFR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20PadoHub%20No%20Key413.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-PadoHub-No-Key-6949")
+                                
+addscriptexist(2753915549, "Auto Kill AllPlayerAfterTrial AutoPullLever AutoTrial Kaitun", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kill%20AllPlayerAfterTrial%20AutoPullLever%20AutoTrial%20Kaitun616.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Kill-AllPlayerAfterTrial-AutoPullLever-AutoTrial-Kaitun-6932")
+                                
+addscriptexist(2753915549, "OMADIC HUB REACH MAX LEVEL EASILY", "Uploaded by eggplantGobbler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OMADIC%20HUB%20REACH%20MAX%20LEVEL%20EASILY862.lua", "https://scriptblox.com/script/Blox-Fruits-OMADIC-HUB-REACH-MAX-LEVEL-EASILY-6967")
+                                
+addscriptexist(2753915549, "Hub with autofarm", "Uploaded by Bloxs123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20with%20autofarm20.lua", "https://scriptblox.com/script/Blox-Fruits-Hub-with-autofarm-6953")
+                                

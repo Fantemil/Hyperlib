@@ -26,3 +26,5 @@ addscriptexist(3101667897, "Legends Of Speed Autofarm", "Uploaded by Timsaay on 
                                 
 addscriptexist(3101667897, "Maddhub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maddhub150.lua", "https://scriptblox.com/script/Legends-Of-Speed-Maddhub-6915")
                                 
+addscriptexist(3101667897, "111111111111111111111111111111111111111111111", "Uploaded by amoosa1982 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/111111111111111111111111111111111111111111111986.lua", "https://scriptblox.com/script/Legends-Of-Speed-111111111111111111111111111111111111111111111-6972")
+                                

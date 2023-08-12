@@ -1,0 +1,2 @@
+
+addscript(2028593804, "Current Game","VIP Gear n Secret Badge and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Gear%20n%20Secret%20Badge%20and%20more108.lua", "https://scriptblox.com/script/Escape-The-Dungeon-Obby!-(READ-DESC)-VIP-Gear-n-Secret-Badge-and-more-6935")

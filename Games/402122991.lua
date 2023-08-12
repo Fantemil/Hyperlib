@@ -8,3 +8,5 @@ addscript(402122991, "Current Game","Jailbreak Map", "Uploaded by theowner on sc
                                 
     addscriptexist(402122991, "jxchub v1", "Uploaded by jxcexploit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/jxchub%20v1380.lua", "https://scriptblox.com/script/Redwood-Prison-jxchub-v1-6597")
                                 
+addscriptexist(402122991, "KFC Map", "Uploaded by Turtle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KFC%20Map634.lua", "https://scriptblox.com/script/Redwood-Prison-KFC-Map-6950")
+                                

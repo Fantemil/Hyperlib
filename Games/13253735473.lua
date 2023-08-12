@@ -30,3 +30,13 @@ addscriptexist(13253735473, "Velocity cc Leak v1 2 with console", "Uploaded by r
                                 
 addscriptexist(13253735473, "Velocity cc Leak v1 9", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20cc%20Leak%20v1%209364.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-cc-Leak-v1-9-6891")
                                 
+addscriptexist(13253735473, "Velocity Cc free", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20Cc%20free848.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-Cc-free-6937")
+                                
+addscriptexist(13253735473, "Actor Bypass", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Actor%20Bypass270.lua", "https://scriptblox.com/script/Trident-Survival-V2-Actor-Bypass-6938")
+                                
+addscriptexist(13253735473, "Full bright", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Full%20bright811.lua", "https://scriptblox.com/script/Trident-Survival-V2-Full-bright-6956")
+                                
+addscriptexist(13253735473, "Change yo Fov", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20yo%20Fov411.lua", "https://scriptblox.com/script/Trident-Survival-V2-Change-yo-Fov-6954")
+                                
+addscriptexist(13253735473, "Velocity Cc free crack source", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20Cc%20free%20crack%20source216.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-Cc-free-crack-source-6946")
+                                
