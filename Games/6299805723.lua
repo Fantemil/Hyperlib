@@ -26,3 +26,5 @@ addscriptexist(6299805723, "Dupe Script WORKING LATEST UPDATE", "Uploaded by wil
                                 
 addscriptexist(6299805723, "New Hub working", "Uploaded by rudeus1998 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub%20working674.lua", "https://scriptblox.com/script/ALL-x5-Anime-Fighters-Simulator-New-Hub-working-6944")
                                 
+addscriptexist(6299805723, "BADWARE Dataloss V2", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BADWARE%20Dataloss%20V237.lua", "https://scriptblox.com/script/UPD-40-%2B-x5-Anime-Fighters-Simulator-BADWARE-Dataloss-V2-7006")
+                                

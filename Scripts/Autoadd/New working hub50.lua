@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hublix23/hellblau/main/hub.lua'))()

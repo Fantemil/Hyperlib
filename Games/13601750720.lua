@@ -1,0 +1,2 @@
+
+addscript(13601750720, "Current Game","SCRIPT FREE GMEPSSES", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20FREE%20GMEPSSES445.lua", "https://scriptblox.com/script/Obby-But-You're-a-Bouncy-Ball-NEW-SCRIPT-FREE-GMEPSSES-6996")

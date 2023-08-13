@@ -1,0 +1,2 @@
+
+addscript(12918739196, "Current Game","Admin UI", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20UI747.lua", "https://scriptblox.com/script/(MOON)-Slap-battles-tower-defense-Admin-UI-6997")

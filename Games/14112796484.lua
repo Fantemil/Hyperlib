@@ -1,0 +1,2 @@
+
+addscript(14112796484, "Current Game","Revealer", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Revealer588.lua", "https://scriptblox.com/script/Easy-Path-Obby!-Revealer-7002")

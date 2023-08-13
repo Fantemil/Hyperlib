@@ -1,0 +1,2 @@
+
+addscript(4580204640, "Current Game","ChairWare", "Uploaded by Icyscythe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChairWare834.lua", "https://scriptblox.com/script/Survive-the-Killer!-ChairWare-6982")

@@ -8,3 +8,5 @@ addscript(738339342, "Current Game","kind of anticheat bypass", "Uploaded by dot
                                 
     addscriptexist(738339342, "autoplayer FE2", "Uploaded by loyal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autoplayer%20FE2745.lua", "https://scriptblox.com/script/WINTER-FE2-autoplayer-FE2-4588")
                                 
+addscriptexist(738339342, "Dothub", "Uploaded by aoiloi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dothub152.lua", "https://scriptblox.com/script/Shroomhaven-and-Caverns!-Flood-Escape-2-Dot-7012")
+                                

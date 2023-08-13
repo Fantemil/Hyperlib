@@ -18,3 +18,5 @@ addscript(4042427666, "Current Game","BEST anime fighting simulator script", "Up
                                 
     addscriptexist(4042427666, "Reupload version of the infinite yen ", "Uploaded by RBLX_File on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reupload%20version%20of%20the%20infinite%20yen%20706.lua", "https://scriptblox.com/script/NEW-BOSS!-Anime-Fighting-Simulator-Reupload-version-of-the-infinite-yen-****-5396")
                                 
+addscriptexist(4042427666, "Data Roll back", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Data%20Roll%20back450.lua", "https://scriptblox.com/script/DIMENSION-6-Anime-Fighting-Simulator-Data-Roll-back-7000")
+                                

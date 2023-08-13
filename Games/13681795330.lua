@@ -6,3 +6,5 @@ addscriptexist(13681795330, "AUTO FARM", "Uploaded by Kargoligach on scriptblox.
                                 
 addscriptexist(13681795330, "Missile AUTO FARM", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Missile%20AUTO%20FARM271.lua", "https://scriptblox.com/script/PUSH-SIMULATOR-Missile-AUTO-FARM-6861")
                                 
+addscriptexist(13681795330, "InfinityWare", "Uploaded by Visionary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinityWare894.lua", "https://scriptblox.com/script/PUSH-SIMULATOR-InfinityWare-6997")
+                                

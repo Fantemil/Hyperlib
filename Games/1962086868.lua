@@ -34,3 +34,5 @@ addscriptexist(1962086868, "Tower Of Hell AutoWin Get All Items GodMode", "Uploa
                                 
 addscriptexist(1962086868, "Yum Hub  3 Games", "Uploaded by Lozsia on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yum%20Hub%20%203%20Games306.lua", "https://rscripts.net/script/yum-hub-3-games-3548")
                                 
+addscriptexist(1962086868, "Godmode Remove KillParts All Tools Autarm more", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20Remove%20KillParts%20All%20Tools%20Autarm%20more34.lua", "https://scriptblox.com/script/Tower-of-Hell-Godmode-Remove-KillParts-All-Tools-Autarm-more-7013")
+                                

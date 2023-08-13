@@ -1,0 +1,2 @@
+
+addscript(5118969548, "Current Game","Op script", "Uploaded by Icyscythe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script732.lua", "https://scriptblox.com/script/Spider-Op-script-6984")

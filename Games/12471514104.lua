@@ -1,0 +1,2 @@
+
+addscript(12471514104, "Current Game","Auto Rebirth and Stage Slider", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rebirth%20and%20Stage%20Slider540.lua", "https://scriptblox.com/script/Double-Jump-Obby-Auto-Rebirth-and-Stage-Slider-6988")

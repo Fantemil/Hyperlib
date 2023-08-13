@@ -48,3 +48,5 @@ addscriptexist(13127800756, "ARM WRESTLE SIM AUTO CRAFTDELETE OP EGG AUTO FARMFI
                                 
 addscriptexist(13127800756, "Arm Wrestle Simulator  MaddHub Free Key", "Uploaded by maddjester on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arm%20Wrestle%20Simulator%20%20MaddHub%20Free%20Key102.lua", "https://rscripts.net/script/arm-wrestle-simulator-maddhub-free-key-4249")
                                 
+addscriptexist(13127800756, "InfinityWare", "Uploaded by Visionary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinityWare464.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-InfinityWare-7003")
+                                

@@ -88,3 +88,5 @@ addscriptexist(142823291, "The Best script for Teleport Auto Grab Gun Auto Farm 
                                 
 addscriptexist(142823291, "NexusX hub mm", "Uploaded by _Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NexusX%20hub%20mm246.lua", "https://scriptblox.com/script/Murder-Mystery-2-NexusX-hub-mm-6870")
                                 
+addscriptexist(142823291, "New working hub", "Uploaded by premiumclassrub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20working%20hub50.lua", "https://scriptblox.com/script/Murder-Mystery-2-New-working-hub-7016")
+                                

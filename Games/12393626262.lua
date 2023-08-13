@@ -1,0 +1,2 @@
+
+addscript(12393626262, "Current Game","Dupe n give all n give best n more", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20n%20give%20all%20n%20give%20best%20n%20more94.lua", "https://scriptblox.com/script/Skibi-Toilets-Race-Dupe-n-give-all-n-give-best-n-more-7001")

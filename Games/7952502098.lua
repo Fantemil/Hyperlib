@@ -18,3 +18,5 @@ addscript(7952502098, "Current Game","Impossible Glass Bridge Obby", "Uploaded b
                                 
 addscriptexist(7952502098, "Autofarm Tile Esp Trolling", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Tile%20Esp%20Trolling644.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Autofarm-Tile-Esp-Trolling-6818")
                                 
+addscriptexist(7952502098, "Win Spin Reveal and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win%20Spin%20Reveal%20and%20more52.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Win-Spin-Reveal-and-more-7004")
+                                

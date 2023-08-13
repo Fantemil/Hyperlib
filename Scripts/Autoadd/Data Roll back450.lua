@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://raw.githubusercontent.com/ao-0/RollbackMaster/main/AnimeFighters.rollbackdata')()

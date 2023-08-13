@@ -228,3 +228,9 @@ addscriptexist(2753915549, "OMADIC HUB REACH MAX LEVEL EASILY", "Uploaded by egg
                                 
 addscriptexist(2753915549, "Hub with autofarm", "Uploaded by Bloxs123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20with%20autofarm20.lua", "https://scriptblox.com/script/Blox-Fruits-Hub-with-autofarm-6953")
                                 
+addscriptexist(2753915549, "Banana Suite BF AI AUTO FARM", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banana%20Suite%20BF%20AI%20AUTO%20FARM283.lua", "https://scriptblox.com/script/Blox-Fruits-Banana-Suite-BF-AI-AUTO-FARM-7002")
+                                
+addscriptexist(2753915549, "Master Hub", "Uploaded by J_Paste on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Master%20Hub161.lua", "https://scriptblox.com/script/Blox-Fruits-Master-Hub-6998")
+                                
+addscriptexist(2753915549, "Autofarm Lvl Autofarm Race Teleport", "Uploaded by invoker2004xpro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Lvl%20Autofarm%20Race%20Teleport448.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-Lvl-Autofarm-Race-Teleport-7015")
+                                

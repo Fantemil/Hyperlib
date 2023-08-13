@@ -14,3 +14,5 @@ addscriptexist(2534724415, "1 Free ERLC GUI  Scourge Hub ", "Uploaded by 1NO on 
                                 
 addscriptexist(2534724415, "Argon HUB ERLC", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argon%20HUB%20ERLC235.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Argon-HUB-ERLC-6817")
                                 
+addscriptexist(2534724415, "Character and Vehicle fly", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Character%20and%20Vehicle%20fly889.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Character-and-Vehicle-fly-6980")
+                                

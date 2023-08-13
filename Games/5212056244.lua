@@ -1,0 +1,2 @@
+
+addscript(5212056244, "Current Game","DeadGameMash", "Uploaded by Tabletopjiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DeadGameMash399.lua", "https://scriptblox.com/script/Downpour-Dash!-NEW-MAP!-DeadGameMash-6983")

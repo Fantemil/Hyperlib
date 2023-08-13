@@ -74,3 +74,5 @@ addscriptexist(6872265039, "BedWars Kill Aura Custom Godmode Full Disaber  More"
                                 
 addscriptexist(6872265039, "Best Script", "Uploaded by yookiltools on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script586.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-Best-Script-6836")
                                 
+addscriptexist(6872265039, "Skid Client Vape Config", "Uploaded by Tropxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skid%20Client%20Vape%20Config633.lua", "https://scriptblox.com/script/BedWars-NO-BUILD!-Skid-Client-Vape-Config-7011")
+                                

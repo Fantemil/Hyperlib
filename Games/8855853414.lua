@@ -1,0 +1,2 @@
+
+addscript(8855853414, "Current Game","Kill Aura", "Uploaded by Abiii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura233.lua", "https://scriptblox.com/script/MINIBOSSES!-Clownfish-Adventures-Kill-Aura-6995")

@@ -24,3 +24,5 @@ addscript(6403373529, "Current Game","OP AUTOFARM NEW UNDETECTED", "Uploaded by 
                                 
     addscriptexist(6403373529, "SB Epic script", "Uploaded by Daxx3rScriptsLOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SB%20Epic%20script670.lua", "https://scriptblox.com/script/Slap-Battles-SB-Epic-script-5756")
                                 
+addscriptexist(6403373529, "Player AutoFarm", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Player%20AutoFarm44.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Player-AutoFarm-7005")
+                                
