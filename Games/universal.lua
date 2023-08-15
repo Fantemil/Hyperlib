@@ -846,3 +846,6 @@ addscriptuniversal("Auto Piano v3l5 key in desc", "Uploaded by Vikinglaw on scri
 addscriptuniversal("AirKey Bypasser", "Uploaded by TheBypasser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirKey%20Bypasser170.lua", "https://scriptblox.com/script/Universal-Script-AirKey-Bypasser-7074")
 addscriptuniversal("Brick Admin Rewrite", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brick%20Admin%20Rewrite520.lua", "https://scriptblox.com/script/Universal-Script-Brick-Admin-Rewrite-7028")
 addscriptuniversal("Speed walk", "Uploaded by QQ_scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20walk362.lua", "https://scriptblox.com/script/Universal-Script-Speed-walk-7092")
+addscriptuniversal("test", "Testauthor", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/test485273.lua", "https://discord.gg/k6cjJhX5gZ")
+addscriptuniversal("Test", "testauthor", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test888219.lua", "https://discord.gg/k6cjJhX5gZ")
+addscriptuniversal("Test", "Testauthor", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test748841.lua", "https://discord.gg/k6cjJhX5gZ")
