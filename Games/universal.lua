@@ -854,3 +854,4 @@ addscriptuniversal("test", "test", "https%3A//raw.githubusercontent.com/Fantemil
 addscriptuniversal("Test3", "Test3", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test3689242.lua", "https://discord.gg/k6cjJhX5gZ")
 addscriptuniversal("Test", "Test", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test653055.lua", "https://discord.gg/k6cjJhX5gZ")
 addscriptuniversal("Test", "Test", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test794533.lua", "https://discord.gg/k6cjJhX5gZ")
+addscriptuniversal("Test33", "Test33", "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test33602460.lua", "https://discord.gg/k6cjJhX5gZ")
