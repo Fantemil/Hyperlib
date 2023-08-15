@@ -849,3 +849,4 @@ addscriptuniversal("Speed walk", "Uploaded by QQ_scripts on scriptblox.com", "ht
 addscriptuniversal("test", "Testauthor", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/test485273.lua", "https://discord.gg/k6cjJhX5gZ")
 addscriptuniversal("Test", "testauthor", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test888219.lua", "https://discord.gg/k6cjJhX5gZ")
 addscriptuniversal("Test", "Testauthor", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test748841.lua", "https://discord.gg/k6cjJhX5gZ")
+addscriptuniversal("Test", "Test", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test955615.lua", "https://discord.gg/k6cjJhX5gZ")
