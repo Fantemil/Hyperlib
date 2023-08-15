@@ -1,0 +1,2 @@
+
+addscript(14236123211, "Current Game","Script", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script449.lua", "https://scriptblox.com/script/FREE-UGC-Punch-Simulator-Script-7072")

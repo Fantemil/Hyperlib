@@ -1,0 +1,2 @@
+
+addscript(13944037721, "Current Game","VIP Room n Bat Case and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Bat%20Case%20and%20more598.lua", "https://scriptblox.com/script/Mega-Parkour-Obby-VIP-Room-n-Bat-Case-and-more-7058")

@@ -64,3 +64,5 @@ addscriptexist(155615604, "Sunrise BETA", "Uploaded by heheheha804 on scriptblox
                                 
 addscriptexist(155615604, "Kill All Auto Respawn Give Guns Gun Mods MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20Auto%20Respawn%20Give%20Guns%20Gun%20Mods%20MORE938.lua", "https://scriptblox.com/script/Prison-Life-Kill-All-Auto-Respawn-Give-Guns-Gun-Mods-MORE-6899")
                                 
+addscriptexist(155615604, "Juanko   admin hub script", "Uploaded by ecarevskiy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juanko%20%20%20admin%20hub%20script498.lua", "https://scriptblox.com/script/Prison-Life-Juanko-admin-hub-script-7046")
+                                

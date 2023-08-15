@@ -42,3 +42,5 @@ addscriptexist(606849621, "OP Free Autorob and Autoarrest", "Uploaded by troll o
                                 
 addscriptexist(606849621, "OP Free Autorob and Autoarrest", "Uploaded by troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Free%20Autorob%20and%20Autoarrest986.lua", "https://scriptblox.com/script/Jailbreak-OP-Free-Autorob-and-Autoarrest-6833")
                                 
+addscriptexist(606849621, "Sensation", "Uploaded by Hex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sensation156.lua", "https://scriptblox.com/script/Jailbreak-Sensation-7024")
+                                

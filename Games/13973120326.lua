@@ -14,3 +14,5 @@ addscriptexist(13973120326, "FREE UGC dupe n custom n more", "Uploaded by guss o
                                 
 addscriptexist(13973120326, "Script OP", "Uploaded by lhobba14 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20OP425.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-Script-OP-6920")
                                 
+addscriptexist(13973120326, "autofarm", "Uploaded by piqu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm319.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-autofarm-7069")
+                                

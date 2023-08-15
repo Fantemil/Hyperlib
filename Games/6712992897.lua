@@ -1,0 +1,2 @@
+
+addscript(6712992897, "Current Game","get items you cannot get", "Uploaded by CodingStation on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20items%20you%20cannot%20get264.lua", "https://scriptblox.com/script/CRAZY-get-items-you-cannot-get-7069")

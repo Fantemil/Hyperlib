@@ -1,2 +1,4 @@
 
 addscript(12521511306, "Current Game","Unicycle Down A Hill AUTOFARM  AUTO REBIRTH", "Uploaded by rylvns on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unicycle%20Down%20A%20Hill%20AUTOFARM%20%20AUTO%20REBIRTH55.lua", "https://rscripts.net/script/unicycle-down-a-hill-autofarm-auto-rebirth-3959")
+addscriptexist(12521511306, "Very op script for 1 gme", "Uploaded by Lucious on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20op%20script%20for%201%20gme47.lua", "https://scriptblox.com/script/Unicycle-Down-a-Hill-Very-op-script-for-1-gme-7058")
+                                

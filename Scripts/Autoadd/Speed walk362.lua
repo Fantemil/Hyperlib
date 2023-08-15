@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TherealXORA/Roblox-Scripts/main/TpwalkV3"))()

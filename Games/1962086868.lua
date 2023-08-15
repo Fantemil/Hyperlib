@@ -36,3 +36,5 @@ addscriptexist(1962086868, "Yum Hub  3 Games", "Uploaded by Lozsia on rscripts.n
                                 
 addscriptexist(1962086868, "Godmode Remove KillParts All Tools Autarm more", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20Remove%20KillParts%20All%20Tools%20Autarm%20more34.lua", "https://scriptblox.com/script/Tower-of-Hell-Godmode-Remove-KillParts-All-Tools-Autarm-more-7013")
                                 
+addscriptexist(1962086868, "Parkour Pro", "Uploaded by ak2928546 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Pro396.lua", "https://scriptblox.com/script/Tower-of-Hell-Parkour-Pro-7043")
+                                

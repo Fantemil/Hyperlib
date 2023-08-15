@@ -44,3 +44,5 @@ addscript(5956785391, "Current Game","Project Slayers AutoTrain Breathing", "Upl
                                 
 addscriptexist(5956785391, "Project Slayers Script Free And Paid", "Uploaded by TsarStalin on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Slayers%20Script%20Free%20And%20Paid473.lua", "https://rscripts.net/script/project-slayers-script-free-and-paid-4156")
                                 
+addscriptexist(5956785391, "Skeered Slayer", "Uploaded by SUMMER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skeered%20Slayer403.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Skeered-Slayer-7041")
+                                

@@ -1,0 +1,2 @@
+
+addscript(10772052398, "Current Game","AUTO CRATE SCRIPT", "Uploaded by sturpeegg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20CRATE%20SCRIPT233.lua", "https://scriptblox.com/script/Defender's-Depot-2-Tower-Defense-AUTO-CRATE-SCRIPT-7019")

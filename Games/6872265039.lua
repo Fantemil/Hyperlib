@@ -76,3 +76,5 @@ addscriptexist(6872265039, "Best Script", "Uploaded by yookiltools on scriptblox
                                 
 addscriptexist(6872265039, "Skid Client Vape Config", "Uploaded by Tropxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skid%20Client%20Vape%20Config633.lua", "https://scriptblox.com/script/BedWars-NO-BUILD!-Skid-Client-Vape-Config-7011")
                                 
+addscriptexist(6872265039, "Simple Client", "Uploaded by johnrobinson2297 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Client963.lua", "https://scriptblox.com/script/BedWars-NO-BUILD!-Simple-Client-7067")
+                                

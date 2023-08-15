@@ -4,3 +4,5 @@ addscriptexist(1458767429, "Anime Battle Arena  Advanced Auto Play Auto Block  M
                                 
 addscriptexist(1458767429, "AFK WORLD HOPPER", "Uploaded by Smug on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AFK%20WORLD%20HOPPER733.lua", "https://scriptblox.com/script/ABA-CELL-%2B-KISAME-%2B-ARLONG-%2B-OGUN-AFK-WORLD-HOPPER-6698")
                                 
+addscriptexist(1458767429, "Best Paid", "Uploaded by ItsNex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Paid226.lua", "https://scriptblox.com/script/ABA-CELL-+-KISAME-+-ARLONG-+-OGUN-Best-Paid-6934")
+                                

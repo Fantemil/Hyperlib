@@ -234,3 +234,11 @@ addscriptexist(2753915549, "Master Hub", "Uploaded by J_Paste on scriptblox.com"
                                 
 addscriptexist(2753915549, "Autofarm Lvl Autofarm Race Teleport", "Uploaded by invoker2004xpro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Lvl%20Autofarm%20Race%20Teleport448.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-Lvl-Autofarm-Race-Teleport-7015")
                                 
+addscriptexist(2753915549, "fruit gg", "Uploaded by mrtnlxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20gg693.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-gg-7077")
+                                
+addscriptexist(2753915549, "automate your leveling journey", "Uploaded by njambo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/automate%20your%20leveling%20journey794.lua", "https://scriptblox.com/script/Blox-Fruits-automate-your-leveling-journey-7060")
+                                
+addscriptexist(2753915549, "Best Free Script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Free%20Script505.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Free-Script-7047")
+                                
+addscriptexist(2753915549, "pvp script", "Uploaded by testtanomu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pvp%20script672.lua", "https://scriptblox.com/script/Blox-Fruits-pvp-script-7092")
+                                

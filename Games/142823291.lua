@@ -90,3 +90,5 @@ addscriptexist(142823291, "NexusX hub mm", "Uploaded by _Flames on scriptblox.co
                                 
 addscriptexist(142823291, "New working hub", "Uploaded by premiumclassrub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20working%20hub50.lua", "https://scriptblox.com/script/Murder-Mystery-2-New-working-hub-7016")
                                 
+addscriptexist(142823291, "higlight Hub key in desc", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/higlight%20Hub%20key%20in%20desc684.lua", "https://scriptblox.com/script/Murder-Mystery-2-higlight-Hub-key-in-desc-7042")
+                                

@@ -1,2 +1,4 @@
 
 addscript(4003872968, "Current Game","NEW MONEY AND XP BEST AUTO KILL METHOD", "Uploaded by grimscommunity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20MONEY%20AND%20XP%20BEST%20AUTO%20KILL%20METHOD587.lua", "https://scriptblox.com/script/Giant-Survival!-Script-3588")
+addscriptexist(4003872968, "Sobrevivir a los gigantes", "Uploaded by tuviejaamaro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sobrevivir%20a%20los%20gigantes735.lua", "https://scriptblox.com/script/Giant-Survival!-Sobrevivir-a-los-gigantes-7079")
+                                

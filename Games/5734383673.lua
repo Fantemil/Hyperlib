@@ -1,0 +1,4 @@
+
+addscript(5734383673, "Current Game","Show enemy on map", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Show%20enemy%20on%20map364.lua", "https://scriptblox.com/script/Noobs-in-Combat-v5.0-Show-enemy-on-map-7030")
+addscriptexist(5734383673, "crease movement and add Radio", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/crease%20movement%20and%20add%20Radio313.lua", "https://scriptblox.com/script/Noobs-in-Combat-v5.0-crease-movement-and-add-Radio-7029")
+                                

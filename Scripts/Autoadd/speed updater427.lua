@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tumppi66/Pilot-Flight-Training-Plane-Speed/main/Protected_2530453713082719.lua"))()

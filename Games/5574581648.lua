@@ -1,0 +1,2 @@
+
+addscript(5574581648, "Current Game","Server crasher", "Uploaded by government on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20crasher6.lua", "https://scriptblox.com/script/Archived-Nights-Server-crasher-7048")

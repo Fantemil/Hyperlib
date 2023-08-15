@@ -28,3 +28,7 @@ addscriptexist(6299805723, "New Hub working", "Uploaded by rudeus1998 on scriptb
                                 
 addscriptexist(6299805723, "BADWARE Dataloss V2", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BADWARE%20Dataloss%20V237.lua", "https://scriptblox.com/script/UPD-40-%2B-x5-Anime-Fighters-Simulator-BADWARE-Dataloss-V2-7006")
                                 
+addscriptexist(6299805723, "Kill Aura Auto Farm Auto Hatch", "Uploaded by defult2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Auto%20Farm%20Auto%20Hatch472.lua", "https://scriptblox.com/script/UPD-40-%2B-x5-Anime-Fighters-Simulator-Kill-Aura-Auto-Farm-Auto-Hatch-7084")
+                                
+addscriptexist(6299805723, "Hub with many Autofarm scripts", "Uploaded by Niliker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20with%20many%20Autofarm%20scripts649.lua", "https://scriptblox.com/script/UPD-40-+-x5-Anime-Fighters-Simulator-Hub-with-many-Autofarm-scripts-7018")
+                                

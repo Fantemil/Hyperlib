@@ -1,0 +1,2 @@
+
+addscript(2810810283, "Current Game","inf money", "Uploaded by elijahcurtis455 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money945.lua", "https://scriptblox.com/script/UPDATE-30DragBrasil-inf-money-for-dragbrasil-7018")

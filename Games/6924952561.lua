@@ -1,0 +1,2 @@
+
+addscript(6924952561, "Current Game","silent aim", "Uploaded by tuviejaamaro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/silent%20aim354.lua", "https://scriptblox.com/script/Clover-City-silent-aim-7078")

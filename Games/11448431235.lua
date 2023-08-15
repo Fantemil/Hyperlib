@@ -1,0 +1,2 @@
+
+addscript(11448431235, "Current Game","Rock", "Uploaded by SUMMER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rock200.lua", "https://scriptblox.com/script/+X70-GEAR-5-and-Event+4Skill!!Rock-Fruit-Rock-7040")

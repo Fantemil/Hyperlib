@@ -50,3 +50,7 @@ addscriptexist(13127800756, "Arm Wrestle Simulator  MaddHub Free Key", "Uploaded
                                 
 addscriptexist(13127800756, "InfinityWare", "Uploaded by Visionary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinityWare464.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-InfinityWare-7003")
                                 
+addscriptexist(13127800756, "Auto Training  and more", "Uploaded by Xbowgeniy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Training%20%20and%20more790.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Training-and-more-7032")
+                                
+addscriptexist(13127800756, "Script With A Very Cool Autof And Much More", "Uploaded by millermustafa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20With%20A%20Very%20Cool%20Autof%20And%20Much%20More148.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Script-With-A-Very-Cool-Autof-And-Much-More-7083")
+                                

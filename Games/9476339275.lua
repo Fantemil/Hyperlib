@@ -6,3 +6,7 @@ addscriptexist(9476339275, "Bail x Cracked free source code", "Uploaded by Gamer
                                 
 addscriptexist(9476339275, "ZEN X hub for free", "Uploaded by lerat9967 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEN%20X%20hub%20for%20free433.lua", "https://scriptblox.com/script/Double-Down-ZEN-X-hub-for-free-6879")
                                 
+addscriptexist(9476339275, "GamerReady Hub", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GamerReady%20Hub329.lua", "https://scriptblox.com/script/Double-Down-GamerReady-Hub-7068")
+                                
+addscriptexist(9476339275, "Elemental Hub full Keyless cracked", "Uploaded by GamerReadyHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Hub%20full%20Keyless%20cracked314.lua", "https://scriptblox.com/script/Double-Down-Elemental-Hub-full-Keyless-cracked-7048")
+                                
