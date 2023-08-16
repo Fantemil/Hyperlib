@@ -855,3 +855,4 @@ addscriptuniversal("Test3", "Test3", "https%3A//raw.githubusercontent.com/Fantem
 addscriptuniversal("Test", "Test", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test653055.lua", "https://discord.gg/k6cjJhX5gZ")
 addscriptuniversal("Test", "Test", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test794533.lua", "https://discord.gg/k6cjJhX5gZ")
 addscriptuniversal("Test33", "Test33", "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test33602460.lua", "https://discord.gg/k6cjJhX5gZ")
+addscriptuniversal("Version hub 2.2.6", "Version hub 2.2.6", "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Version%20hub%202.2.6220440.lua", "https://discord.gg/k6cjJhX5gZ")
