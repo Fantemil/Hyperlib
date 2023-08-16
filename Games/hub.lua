@@ -232,3 +232,5 @@ addhub("MSHUB", "Uploaded by mstudio45 on scriptblox.com", "https://raw.githubus
 addhub("Raccoon Hub", "Uploaded by harrycanfly1109 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raccoon%20Hub141.lua", "https://scriptblox.com/script/Universal-Script-Raccoon-Hub-7081")
 addhub("Haxker6666666 Hub Keyless Version", "Uploaded by FreeRobloxScripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haxker6666666%20Hub%20Keyless%20Version14.lua", "https://scriptblox.com/script/Universal-Script-Haxker6666666-Hub-Keyless-Version-7052")
 addhub("Test2", "Test2", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test2792961.lua", "https://discord.gg/k6cjJhX5gZ")
+
+addhub("Moon ui v13", "Moon ui v13", "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Moon%20ui%20v13547063.lua", "https://discord.gg/k6cjJhX5gZ")
