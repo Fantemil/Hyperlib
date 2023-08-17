@@ -234,3 +234,5 @@ addhub("Haxker6666666 Hub Keyless Version", "Uploaded by FreeRobloxScripts1 on s
 addhub("Test2", "Test2", "https%3A//raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Test2792961.lua", "https://discord.gg/k6cjJhX5gZ")
 
 addhub("Moon ui v13", "Moon ui v13", "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Moon%20ui%20v13547063.lua", "https://discord.gg/k6cjJhX5gZ")
+
+addhub("Nextilo Hub", "Nextilo Hub", "https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Scripts/Autoadd/Nextilo%20Hub804209.lua", "https://discord.gg/k6cjJhX5gZ")
