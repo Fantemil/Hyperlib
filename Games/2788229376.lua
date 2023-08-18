@@ -368,3 +368,9 @@ addscriptexist(2788229376, "FREE DA HOOD SCRIPT UI PARADOX", "Uploaded by zeroto
                                 
 addscriptexist(2788229376, "AIM VIEWER DA HOOD SCRIPT", "Uploaded by Malene12345 on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIM%20VIEWER%20DA%20HOOD%20SCRIPT343.lua", "https://rscripts.net/script/aim-viewer-da-hood-script-4153")
                                 
+addscriptexist(2788229376, "Oblivion", "Uploaded by loiW on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Oblivion24.lua", "https://scriptblox.com/script/Da-Hood-Oblivion-6535")
+                                
+addscriptexist(2788229376, "ZeusDotCC Paid", "Uploaded by ZeusBladi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeusDotCC%20Paid461.lua", "https://scriptblox.com/script/Da-Hood-Zeus-Paid-6364")
+                                
+addscriptexist(2788229376, "Premium Alt Control", "Uploaded by rakungowo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Premium%20Alt%20Control926.lua", "https://scriptblox.com/script/Da-Hood-Premium-Alt-Control-6316")
+                                

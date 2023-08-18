@@ -18,3 +18,5 @@ addscriptexist(8204899140, "wiihub free", "Uploaded by woodtyce31 on scriptblox.
                                 
 addscriptexist(8204899140, "ff op", "Uploaded by woodtyce31 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ff%20op178.lua", "https://scriptblox.com/script/Football-Fusion-2-ff-op-6903")
                                 
+addscriptexist(8204899140, "ALL IN ONE FF SCRIPT", "Uploaded by clouted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALL%20IN%20ONE%20FF%20SCRIPT689.lua", "https://scriptblox.com/script/Football-Fusion-2-ALL-IN-ONE-FF-SCRIPT-6398")
+                                

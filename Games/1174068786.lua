@@ -1,2 +1,4 @@
 
 addscript(1174068786, "Current Game","OP SCRIPT ELECTRON AND VALYSE ONLY", "Uploaded by kodescripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20ELECTRON%20AND%20VALYSE%20ONLY71.lua", "https://scriptblox.com/script/Blockate-OP-SCRIPT-ELECTRON-AND-VALYSE-ONLY-6559")
+addscriptexist(1174068786, "Anti Grief  AntiGrief  Anti Cheat  AntiCheat", "Uploaded by void1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Grief%20%20AntiGrief%20%20Anti%20Cheat%20%20AntiCheat358.lua", "https://scriptblox.com/script/Blockate-Anti-Grief-7146")
+                                

@@ -4,3 +4,5 @@ addscriptexist(12996550309, "RunStar Simulator  RaCc0oN Hub", "Uploaded by racc0
                                 
 addscriptexist(12996550309, "Infinite Win n Craft All and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Win%20n%20Craft%20All%20and%20more621.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-Infinite-Win-n-Craft-All-and-more-7020")
                                 
+addscriptexist(12996550309, "Ln hub", "Uploaded by whiteboyemmer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub209.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-Ln-hub-7184")
+                                

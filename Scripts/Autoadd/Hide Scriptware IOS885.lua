@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Coblyez/scripts/main/Sw%20ios%20hider"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/miodkosz/ROBLOX/main/ESP", true))()

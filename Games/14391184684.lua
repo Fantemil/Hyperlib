@@ -1,0 +1,2 @@
+
+addscript(14391184684, "Current Game","Fishing auto farm", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fishing%20auto%20farm508.lua", "https://scriptblox.com/script/Go-Fishing!!!-Fishing-auto-farm-7150")

@@ -1,0 +1,2 @@
+
+addscript(9839146058, "Current Game","Auto Collect Orbs", "Uploaded by FinuraBR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Orbs390.lua", "https://scriptblox.com/script/SKIBID-TOILET-Find-the-Orbs!-Auto-Collect-Orbs-7140")

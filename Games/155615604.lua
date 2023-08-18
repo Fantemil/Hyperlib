@@ -66,3 +66,5 @@ addscriptexist(155615604, "Kill All Auto Respawn Give Guns Gun Mods MORE", "Uplo
                                 
 addscriptexist(155615604, "Juanko   admin hub script", "Uploaded by ecarevskiy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juanko%20%20%20admin%20hub%20script498.lua", "https://scriptblox.com/script/Prison-Life-Juanko-admin-hub-script-7046")
                                 
+addscriptexist(155615604, "Server Crasher Remington 870 Required", "Uploaded by plazagaming93 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Crasher%20Remington%20870%20Required994.lua", "https://scriptblox.com/script/Prison-Life-Server-Crasher-7103")
+                                

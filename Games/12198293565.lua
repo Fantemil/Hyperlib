@@ -1,0 +1,2 @@
+
+addscript(12198293565, "Current Game","Autofarm", "Uploaded by plazagaming93 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm388.lua", "https://scriptblox.com/script/UPDATE-Clone-Run!-Autofarm-7152")

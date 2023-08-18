@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Succuh/Scripts/main/Every%20Second%20%2B1%20KI"))()

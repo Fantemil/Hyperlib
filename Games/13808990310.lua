@@ -1,0 +1,2 @@
+
+addscript(13808990310, "Current Game","Full Autofarm", "Uploaded by Shaymin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Full%20Autofarm858.lua", "https://scriptblox.com/script/The-Legendary-Swords-RPG-Rescripted-Full-Autofarm-7104")

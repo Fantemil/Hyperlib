@@ -16,3 +16,7 @@ addscript(6608498361, "Current Game","ANTICHEAT BYPASS", "Uploaded by Duza_Klapa
                                 
     addscriptexist(6608498361, "Allow teamkill", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allow%20teamkill540.lua", "https://scriptblox.com/script/cursed-tank-simulatorNew-E.R.A-Allow-teamkill-6269")
                                 
+addscriptexist(6608498361, "WALLBANG", "Uploaded by Duza_Klapa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WALLBANG204.lua", "https://scriptblox.com/script/cursed-tank-simulatorLAST-RESORT-WALLBANG-7107")
+                                
+addscriptexist(6608498361, "ESP", "Uploaded by Duza_Klapa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP826.lua", "https://scriptblox.com/script/cursed-tank-simulatorLAST-RESORT-ESP-7106")
+                                

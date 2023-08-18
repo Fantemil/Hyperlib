@@ -14,3 +14,5 @@ addscriptexist(11545598432, "Cool script with autofarm and more", "Uploaded by h
                                 
 addscriptexist(11545598432, "Best Blo Hub Roblo Script AUTO EVERYTHING", "Uploaded by one_armed_shinobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Blo%20Hub%20Roblo%20Script%20AUTO%20EVERYTHING657.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Fighting-Simulator-X-Best-Blo-Hub-Roblo-Script-AUTO-EVERYTHING-6910")
                                 
+addscriptexist(11545598432, "Infinite Chikara IBA HUB", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Chikara%20IBA%20HUB665.lua", "https://scriptblox.com/script/RELEASE-Anime-Fighting-Simulator-X-Infinite-Chikara-IBA-HUB-6660")
+                                

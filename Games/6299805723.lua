@@ -32,3 +32,5 @@ addscriptexist(6299805723, "Kill Aura Auto Farm Auto Hatch", "Uploaded by defult
                                 
 addscriptexist(6299805723, "Hub with many Autofarm scripts", "Uploaded by Niliker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20with%20many%20Autofarm%20scripts649.lua", "https://scriptblox.com/script/UPD-40-+-x5-Anime-Fighters-Simulator-Hub-with-many-Autofarm-scripts-7018")
                                 
+addscriptexist(6299805723, "dupe script join my discord in comments for more 3", "Uploaded by taimhamade2233 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dupe%20script%20join%20my%20discord%20in%20comments%20for%20more%203420.lua", "https://scriptblox.com/script/CODE-+-x5-Event-Anime-Fighters-Simulator-dupe-script-7111")
+                                

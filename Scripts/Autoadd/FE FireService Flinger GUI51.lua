@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/FireServiceScripter/c3f1b1a69d110fa79564c29bfd5f84f6/raw/f8f350f3a4b520d4dd734c624f3a3b53eb097ad9/FireService%2520Flinger",true))()

@@ -4,3 +4,5 @@ addscriptexist(12986400307, "Sword Warriors Script", "Uploaded by BismaAkmal on 
                                 
 addscriptexist(12986400307, "Kidachi  Sword Warriors", "Uploaded by Deity on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20%20Sword%20Warriors281.lua", "https://rscripts.net/script/kidachi-sword-warriors-4050")
                                 
+addscriptexist(12986400307, "Best Script Blox Hub  kill aura and alot more", "Uploaded by one_armed_shinobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20Blox%20Hub%20%20kill%20aura%20and%20alot%20more257.lua", "https://scriptblox.com/script/SkibiMap5!Sword-Warriors!-Best-Script-Blox-Hub-kill-aura-and-alot-more-7154")
+                                

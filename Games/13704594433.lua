@@ -1,0 +1,2 @@
+
+addscript(13704594433, "Current Game","Item Dupe", "Uploaded by Bored_Person on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Dupe805.lua", "https://scriptblox.com/script/The-Storage-Item-Dupe-7177")

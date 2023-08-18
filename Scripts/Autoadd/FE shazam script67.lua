@@ -1,0 +1,1 @@
+-- Join https://discord.gg/QaFRUPpzCk for the steps

@@ -12,3 +12,5 @@ addscript(6447798030, "Current Game","LORD X AUTOFARM PATCHED SINCE THEY DELETE 
                                 
 addscriptexist(6447798030, "Auto Player Mobile", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player%20Mobile374.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-Player-Mobile-6721")
                                 
+addscriptexist(6447798030, "script delta and fluxus", "Uploaded by mccormickkenny282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20delta%20and%20fluxus837.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-script-delta-and-fluxus-7093")
+                                

@@ -26,3 +26,7 @@ addscriptexist(301549746, "Counter Blox  Gun Mods", "Uploaded by ShyShai on rscr
                                 
 addscriptexist(301549746, "Reupload Of Sirex Ware V3 Leaked", "Uploaded by TheLeakerOfScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reupload%20Of%20Sirex%20Ware%20V3%20Leaked655.lua", "https://scriptblox.com/script/Counter-Blox-Reupload-Of-Sirex-Ware-V3-Leaked-6739")
                                 
+addscriptexist(301549746, "Duxkyx Ware", "Uploaded by Duxkyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Duxkyx%20Ware570.lua", "https://scriptblox.com/script/Counter-Blox-Duxkyx-Ware-7137")
+                                
+addscriptexist(301549746, "Ik3ac hvh", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ik3ac%20hvh236.lua", "https://scriptblox.com/script/Counter-Blox-Ik3ac-hvh-6732")
+                                

@@ -6,3 +6,5 @@ addscript(5490351219, "Current Game","a script", "Uploaded by bigblackbaIls on s
                                 
     addscriptexist(5490351219, "Blinxs Autofarm Updated", "Uploaded by blinx1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blinxs%20Autofarm%20Updated105.lua", "https://scriptblox.com/script/X100-CLICKSClicker-Madness!-Blinx's-Autofarm-(Open-Source)-3347")
                                 
+addscriptexist(5490351219, "MADNESS Auto farm", "Uploaded by newblooodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MADNESS%20Auto%20farm467.lua", "https://scriptblox.com/script/100X-CLICKER-MADNESS!-Madness-Aut-farm-7183")
+                                

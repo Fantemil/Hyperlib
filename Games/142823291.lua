@@ -92,3 +92,11 @@ addscriptexist(142823291, "New working hub", "Uploaded by premiumclassrub on scr
                                 
 addscriptexist(142823291, "higlight Hub key in desc", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/higlight%20Hub%20key%20in%20desc684.lua", "https://scriptblox.com/script/Murder-Mystery-2-higlight-Hub-key-in-desc-7042")
                                 
+addscriptexist(142823291, "nexus", "Uploaded by SmoxHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nexus259.lua", "https://scriptblox.com/script/Murder-Mystery-2-nexus-7185")
+                                
+addscriptexist(142823291, "Highlight hub vip", "Uploaded by atlas721862 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20hub%20vip568.lua", "https://scriptblox.com/script/Murder-Mystery-2-Highlight-hub-vip-6827")
+                                
+addscriptexist(142823291, "3D Box ESP", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/3D%20Box%20ESP986.lua", "https://scriptblox.com/script/Murder-Mystery-2-3D-Box-ESP-7097")
+                                
+addscriptexist(142823291, "Highlight Hub Key in desc", "Uploaded by fixat82136 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Hub%20Key%20in%20desc496.lua", "https://scriptblox.com/script/Murder-Mystery-2-Highlight-Hub-Key-in-desc-7108")
+                                

@@ -1,0 +1,2 @@
+
+addscript(13418725215, "Current Game","Trash Autofarm", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trash%20Autofarm883.lua", "https://scriptblox.com/script/DRINKSDysfunctional-Diner-Trash-Autofarm-7151")

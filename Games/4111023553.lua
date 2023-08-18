@@ -1,0 +1,2 @@
+
+addscript(4111023553, "Current Game","Project Rain cracked", "Uploaded by X333 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Rain%20cracked50.lua", "https://scriptblox.com/script/Deepwoken:-Verse-2-Project-Rain-cracked-7148")

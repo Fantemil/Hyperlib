@@ -6,3 +6,5 @@ addscript(6751371363, "Current Game","Dot Lock", "Uploaded by gore on scriptblox
                                 
     addscriptexist(6751371363, "Da aimlock", "Uploaded by Legendary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Da%20aimlock812.lua", "https://scriptblox.com/script/BOUNTY-Hood-Duels-Da-aimlock-4250")
                                 
+addscriptexist(6751371363, "Working aimlock", "Uploaded by SCOOTERISFCOODER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Working%20aimlock27.lua", "https://scriptblox.com/script/UPDATE!-Hood-Duels-Working-aimlock-for-6023")
+                                

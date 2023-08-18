@@ -1,0 +1,2 @@
+
+addscript(6933626061, "Current Game","script read desc", "Uploaded by chaudhrybobeel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20read%20desc412.lua", "https://scriptblox.com/script/TLK-Prison-script-7103")

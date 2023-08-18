@@ -1,0 +1,2 @@
+
+addscript(10760024537, "Current Game","Gamepass Case n All Badges and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gamepass%20Case%20n%20All%20Badges%20and%20more468.lua", "https://scriptblox.com/script/Ultimate-Easy-Obby-Gamepass-Case-n-All-Badges-and-more-7180")

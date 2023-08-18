@@ -16,3 +16,5 @@ addscript(9993529229, "Current Game","Most P Script", "Uploaded by zebforsus on 
                                 
     addscriptexist(9993529229, "Skull", "Uploaded by zebforsus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skull909.lua", "https://scriptblox.com/script/Counter-Blox:-Remastered-Skull-5900")
                                 
+addscriptexist(9993529229, "DaddyWare UI", "Uploaded by Raggy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DaddyWare%20UI113.lua", "https://scriptblox.com/script/Counter-Blox:-Remastered-DaddyWare-UI-6314")
+                                

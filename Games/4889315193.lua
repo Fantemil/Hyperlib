@@ -6,3 +6,5 @@ addscriptexist(4889315193, "Fake Bot Script CAMP", "Uploaded by ManoliScripts on
                                 
 addscriptexist(4889315193, "Fake Bot Script MOVIE", "Uploaded by ManoliScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Bot%20Script%20MOVIE971.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Fake-Bot-Script-MOVIE-6756")
                                 
+addscriptexist(4889315193, "TD", "Uploaded by Bangchanpapiii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TD889.lua", "https://scriptblox.com/script/Total-Roblox-Drama-TD-7123")
+                                

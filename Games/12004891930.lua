@@ -1,0 +1,2 @@
+
+addscript(12004891930, "Current Game","UMG script", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UMG%20script637.lua", "https://scriptblox.com/script/untitled-mining-game-UMG-script-7149")

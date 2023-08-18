@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/aymarko/deni210/main/MadCity/RubyHub", true))()

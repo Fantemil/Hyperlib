@@ -78,3 +78,5 @@ addscriptexist(6872265039, "Skid Client Vape Config", "Uploaded by Tropxz on scr
                                 
 addscriptexist(6872265039, "Simple Client", "Uploaded by johnrobinson2297 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Client963.lua", "https://scriptblox.com/script/BedWars-NO-BUILD!-Simple-Client-7067")
                                 
+addscriptexist(6872265039, "Franware Private paid", "Uploaded by frannyms2012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Franware%20Private%20paid275.lua", "https://scriptblox.com/script/BedWars-SEASON-3!-Franware-Private-5893")
+                                

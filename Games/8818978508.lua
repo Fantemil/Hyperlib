@@ -1,2 +1,4 @@
 
 addscript(8818978508, "Current Game","WalkSpeed Infinite Jump Click Tp and more", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalkSpeed%20Infinite%20Jump%20Click%20Tp%20and%20more954.lua", "https://scriptblox.com/script/LUCK-%2B-SALE-Space-Simulator-Reborn-ZaWalkSpeed-Infinite-Jump-Click-Tp-and-more-6797")
+addscriptexist(8818978508, "WalkSpeed  Infinite Jump   Click Tp and more", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalkSpeed%20%20Infinite%20Jump%20%20%20Click%20Tp%20and%20more414.lua", "https://scriptblox.com/script/LUCK-+-SALE-Space-Simulator-Reborn-ZaWalkSpeed-Infinite-Jump-Click-Tp-and-more-6797")
+                                

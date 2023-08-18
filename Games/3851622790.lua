@@ -12,3 +12,5 @@ addscript(3851622790, "Current Game","pretty op script", "Uploaded by ilikeroblo
                                 
     addscriptexist(3851622790, "Open Source", "Uploaded by 03ss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source431.lua", "https://scriptblox.com/script/Break-In-(Story)-Open-Source-3527")
                                 
+addscriptexist(3851622790, "Hoho hub more items 2", "Uploaded by lapdhx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20hub%20more%20items%202121.lua", "https://scriptblox.com/script/Break-In-(Story)-Hoho-hub-more-items-2-7178")
+                                

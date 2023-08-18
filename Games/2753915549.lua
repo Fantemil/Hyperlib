@@ -242,3 +242,9 @@ addscriptexist(2753915549, "Best Free Script", "Uploaded by Donand on scriptblox
                                 
 addscriptexist(2753915549, "pvp script", "Uploaded by testtanomu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pvp%20script672.lua", "https://scriptblox.com/script/Blox-Fruits-pvp-script-7092")
                                 
+addscriptexist(2753915549, "Auto Race V4 Free Script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Race%20V4%20Free%20Script769.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Race-V4-Free-Script-7179")
+                                
+addscriptexist(2753915549, "Observation infinite range", "Uploaded by Asweksmsp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Observation%20infinite%20range97.lua", "https://scriptblox.com/script/Blox-Fruits-Observation-infinite-range-7096")
+                                
+addscriptexist(2753915549, "chest auto farm", "Uploaded by muis_zetla2012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/chest%20auto%20farm987.lua", "https://scriptblox.com/script/Blox-Fruits-chest-auto-farm-7136")
+                                

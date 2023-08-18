@@ -40,3 +40,7 @@ addscriptexist(13253735473, "Change yo Fov", "Uploaded by ratsssstts on scriptbl
                                 
 addscriptexist(13253735473, "Velocity Cc free crack source", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity%20Cc%20free%20crack%20source216.lua", "https://scriptblox.com/script/Trident-Survival-V2-Velocity-Cc-free-crack-source-6946")
                                 
+addscriptexist(13253735473, "Leaked Esp by the owner cuz something happened idk", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Leaked%20Esp%20by%20the%20owner%20cuz%20something%20happened%20idk540.lua", "https://scriptblox.com/script/Trident-Survival-V2-Leaked-Esp-buy-the-owner-cuz-something-happened-idk-7116")
+                                
+addscriptexist(13253735473, "Legit Pub leak", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legit%20Pub%20leak710.lua", "https://scriptblox.com/script/Trident-Survival-V2-Legit-Pub-leak-7109")
+                                
