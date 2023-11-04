@@ -1,0 +1,2 @@
+
+addscript(14295507535, "Current Game","Infinite Musle n Infinite Gems and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Musle%20n%20Infinite%20Gems%20and%20more163.lua", "https://scriptblox.com/script/OP-50x-EVENT-Muscle-Lifting-Simulator-NEW!-Infinite-s-n-Infinite-Gems-and-more-7852")

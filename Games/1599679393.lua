@@ -1,0 +1,2 @@
+
+addscript(1599679393, "Current Game","Auto Farm n Unlock Teleport and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20n%20Unlock%20Teleport%20and%20more694.lua", "https://scriptblox.com/script/Pet-Simulator!-Auto-Farm-n-Unlock-Teleport-and-more-7300")

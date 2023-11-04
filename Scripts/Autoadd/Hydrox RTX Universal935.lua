@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PixelatedColors/Hydrox4Roblox/main/UniversalRtx'))()

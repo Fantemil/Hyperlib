@@ -1,0 +1,2 @@
+
+addscript(5092283807, "Current Game","SO XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SO%20XTREME%20SCRIPT232.lua", "https://scriptblox.com/script/Undertale-Soul-OPs-HALLOWEEN-EVENT!-SO-XTREME-SCRIPT-8864")

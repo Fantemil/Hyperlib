@@ -1,0 +1,2 @@
+
+addscript(9578948175, "Current Game","FAST UGC", "Uploaded by rexipgood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20UGC385.lua", "https://scriptblox.com/script/Noimless's-Meme-Anims-FREE-UGC-FAST-UGC-8025")

@@ -1,0 +1,2 @@
+
+addscript(13595116199, "Current Game","Upper Cost OPEN SOURCE", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Upper%20Cost%20OPEN%20SOURCE306.lua", "https://scriptblox.com/script/CODES-Lucky-Lockups-Upper-Cost-OPEN-SOURCE-8862")

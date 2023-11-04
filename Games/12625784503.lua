@@ -1,0 +1,2 @@
+
+addscript(12625784503, "Current Game","script auto", "Uploaded by Bunny_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20auto51.lua", "https://scriptblox.com/script/Saber-Showdown-script-auto-8851")

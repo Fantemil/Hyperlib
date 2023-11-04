@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MamakSHub/Mamakshub/main/S4rongMuscle", true))()

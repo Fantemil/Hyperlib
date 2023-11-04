@@ -1,0 +1,2 @@
+
+addscript(12084583343, "Current Game","Badges n Instant win and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Badges%20n%20Instant%20win%20and%20more853.lua", "https://scriptblox.com/script/Impossible-Ladder-Climb-Obby!-Badges-n-Instant-win-and-more-7362")

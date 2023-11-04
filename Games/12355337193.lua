@@ -8,3 +8,7 @@ addscriptexist(12355337193, "Murderers VS Sheriffs Duels  Insurgent Hub", "Uploa
                                 
 addscriptexist(12355337193, "Ken", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken789.lua", "https://scriptblox.com/script/TRADING-Murderers-VS-Sheriffs-Duels-Ken-Script-7120")
                                 
+addscriptexist(12355337193, "Fastest Auto Farm GUI", "Uploaded by Deni210 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fastest%20Auto%20Farm%20GUI260.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Fastest-Auto-Farm-GUI-7659")
+                                
+addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cpsvirs%20V1%20%20%20%20%20key%20less236.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Cpsvirs-V1-key-less-9115")
+                                

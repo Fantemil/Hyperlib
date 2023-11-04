@@ -1,0 +1,2 @@
+
+addscript(7336302630, "Current Game","octohook", "Uploaded by sigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/octohook188.lua", "https://scriptblox.com/script/Project-Delta-octohook-7339")

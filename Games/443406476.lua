@@ -16,3 +16,7 @@ addscript(443406476, "Current Game","Project laz script", "Uploaded by beanslaye
                                 
     addscriptexist(443406476, "Project Lazarus ZOMBIES Script  KILL ALL INFINITE MONEY", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Lazarus%20ZOMBIES%20Script%20%20KILL%20ALL%20INFINITE%20MONEY90.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-M26-MASS!-Project-Lazarus:-ZOMBIES-Script-or-KILL-ALL-INFINITE-MONEY-3397")
                                 
+addscriptexist(443406476, "gun mod", "Uploaded by Seantherandom24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gun%20mod498.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-gun-mod-8931")
+                                
+addscriptexist(443406476, "Lazarus Hub", "Uploaded by 07734 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazarus%20Hub131.lua", "https://scriptblox.com/script/Project-Lazarus:-ZOMBIES-Lazarus-Hub-7967")
+                                

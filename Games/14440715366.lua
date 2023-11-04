@@ -1,0 +1,2 @@
+
+addscript(14440715366, "Current Game","LEGION   Reach Script", "Uploaded by skate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LEGION%20%20%20Reach%20Script971.lua", "https://scriptblox.com/script/LEGION:-Deprecated-Soccer-LEGION-Reach-Script-7720")

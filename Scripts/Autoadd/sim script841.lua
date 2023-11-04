@@ -1,0 +1,2 @@
+local HowMany = 9e99
+local ReplicatedStorage=game:GetService("ReplicatedStorage");ReplicatedStorage.Event.Train:FireServer(HowMany);ReplicatedStorage.Event.WinGain:FireServer(HowMany);ReplicatedStorage.Event.Enchanted:FireServer(1,HowMany)  

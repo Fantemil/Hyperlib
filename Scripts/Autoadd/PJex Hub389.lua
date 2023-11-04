@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/R1-Common/PJex-HUB/blob/main/PjexHUB",true))()

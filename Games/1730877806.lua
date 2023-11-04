@@ -6,3 +6,7 @@ addscript(1730877806, "Current Game","Grand Piece Online GUI", "Uploaded by Piec
                                 
 addscriptexist(1730877806, "Codeflow  Grand Piece Online", "Uploaded by halalspectrum on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Codeflow%20%20Grand%20Piece%20Online274.lua", "https://rscripts.net/script/codeflow-grand-piece-online-4055")
                                 
+addscriptexist(1730877806, "Medusa Hub", "Uploaded by kometa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Medusa%20Hub563.lua", "https://scriptblox.com/script/UPDATE-8-Grand-Piece-Online-Medusa-Hub-7547")
+                                
+addscriptexist(1730877806, "said hub", "Uploaded by hereforreal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/said%20hub474.lua", "https://scriptblox.com/script/UPDATE-8-Grand-Piece-Online-said-hub-7539")
+                                

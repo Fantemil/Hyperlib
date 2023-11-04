@@ -14,3 +14,7 @@ addscript(3851622790, "Current Game","pretty op script", "Uploaded by ilikeroblo
                                 
 addscriptexist(3851622790, "Hoho hub more items 2", "Uploaded by lapdhx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20hub%20more%20items%202121.lua", "https://scriptblox.com/script/Break-In-(Story)-Hoho-hub-more-items-2-7178")
                                 
+addscriptexist(3851622790, "Op My broder   1", "Uploaded by Troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20My%20broder%20%20%201910.lua", "https://scriptblox.com/script/Break-In-(Story)-Op-My-broder-1-8787")
+                                
+addscriptexist(3851622790, "Proxima Hub", "Uploaded by reptarz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Proxima%20Hub683.lua", "https://scriptblox.com/script/Break-In-(Story)-Proxima-Hub-7880")
+                                

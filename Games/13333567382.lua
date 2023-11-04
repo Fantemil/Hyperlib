@@ -1,0 +1,2 @@
+
+addscript(13333567382, "Current Game","Auto Win", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win113.lua", "https://scriptblox.com/script/Logo-Quiz!-Auto-Win-8215")

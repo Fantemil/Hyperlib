@@ -1,0 +1,2 @@
+
+addscript(13966247818, "Current Game","Infinite Lucky Block n Group Room and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Lucky%20Block%20n%20Group%20Room%20and%20more737.lua", "https://scriptblox.com/script/Robox-Obby-Easy-parkour-Infinite-Lucky-Block-n-Group-Room-and-more-8155")

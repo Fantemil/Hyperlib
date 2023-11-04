@@ -62,3 +62,5 @@ addscriptexist(1224212277, "Autorob Small Stores", "Uploaded by aymarko on scrip
                                 
 addscriptexist(1224212277, "City 2 Script UberaX FIX", "Uploaded by UBERAX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%202%20Script%20UberaX%20FIX445.lua", "https://scriptblox.com/script/Mad-City:-Ch.2-CITY-2-FIX-UBERAX-SCRPIT-8396")
                                 
+addscriptexist(1224212277, "City 2 FIX Script", "Uploaded by UBERAX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%202%20FIX%20Script843.lua", "https://scriptblox.com/script/Update-Mad-City:-CH.2-City-2-FIX-Script-8954")
+                                

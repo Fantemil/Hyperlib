@@ -1,0 +1,2 @@
+
+addscript(23380021, "Current Game","Teleport all crates to you", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20all%20crates%20to%20you285.lua", "https://scriptblox.com/script/Military-Base-Tycoon-SAVES-PROGRESS-Teleport-all-crates-to-you-7195")

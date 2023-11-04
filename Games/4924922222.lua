@@ -36,3 +36,11 @@ addscriptexist(4924922222, "FLY", "Uploaded by Momofreifer240 on scriptblox.com"
                                 
 addscriptexist(4924922222, "SalaKitosHub", "Uploaded by llllll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SalaKitosHub975.lua", "https://scriptblox.com/script/Brookhaven-RP-SalaKitosHub-8535")
                                 
+addscriptexist(4924922222, "OP SCRIPT", "Uploaded by giannisthegamer1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT378.lua", "https://scriptblox.com/script/Brookhaven-RP-OP-SCRIPT-8416")
+                                
+addscriptexist(4924922222, "IceHub Kill Players Lag Server Rainbow and More", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20Kill%20Players%20Lag%20Server%20Rainbow%20and%20More61.lua", "https://scriptblox.com/script/Brookhaven-RP-IceHub-Kill-Players-Lag-Server-Rainbow-and-More-8708")
+                                
+addscriptexist(4924922222, "Red z hub", "Uploaded by paulohenriquehick05 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Red%20z%20hub830.lua", "https://scriptblox.com/script/Brookhaven-RP-Red-z-hub-9149")
+                                
+addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20HUB978.lua", "https://scriptblox.com/script/Brookhaven-RP-JUANKO-HUB-8308")
+                                

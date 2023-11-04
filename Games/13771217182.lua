@@ -1,0 +1,2 @@
+
+addscript(13771217182, "Current Game","game guiscript", "Uploaded by astra_Demonic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/game%20guiscript451.lua", "https://scriptblox.com/script/make-meme-fashion-trends-to-prove-dad-wrong-tycoon-game-script-7654")

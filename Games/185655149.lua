@@ -24,3 +24,5 @@ addscriptexist(185655149, "Bloxburger Bloxburg Autofarm Autobuild Script", "Uplo
                                 
 addscriptexist(185655149, "working and fixed pizza aufarm", "Uploaded by jimmyislit88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/working%20and%20fixed%20pizza%20aufarm276.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-working-and-fixed-pizza-aufarm-8253")
                                 
+addscriptexist(185655149, "OP PIZZA FARM FREE", "Uploaded by Verthemillion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20PIZZA%20FARM%20FREE635.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-OP-PIZZA-FARM-FREE-8493")
+                                

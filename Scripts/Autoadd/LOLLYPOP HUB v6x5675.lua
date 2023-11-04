@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/lollypop-hub/main/v6.5%40lulaslollipop",true))()

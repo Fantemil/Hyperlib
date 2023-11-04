@@ -1,0 +1,2 @@
+
+addscript(13827122878, "Current Game","infinite fight", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20fight810.lua", "https://scriptblox.com/script/Takedown-Simulator-infinite-taps-8965")

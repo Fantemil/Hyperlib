@@ -1,0 +1,2 @@
+
+addscript(13278749064, "Current Game","MY ROOM", "Uploaded by NFMS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MY%20ROOM752.lua", "https://scriptblox.com/script/White-Room-MY-7592")

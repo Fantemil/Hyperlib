@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ruinins/scripts-/main/20%20blox%20fruit%20scripts.lua"))()

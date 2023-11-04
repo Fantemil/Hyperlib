@@ -1,0 +1,2 @@
+
+addscript(5672467276, "Current Game","script", "Uploaded by yijoc59374 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script49.lua", "https://scriptblox.com/script/Build-Island-script-7974")

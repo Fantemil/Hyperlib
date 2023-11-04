@@ -1,0 +1,2 @@
+
+addscript(13754776367, "Current Game","UROTM XTREME FARMS", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UROTM%20XTREME%20FARMS781.lua", "https://scriptblox.com/script/Undertale:-Remnants-of-the-Multiverse-UROTM-XTREME-FARMS-8903")

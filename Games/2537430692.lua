@@ -16,3 +16,5 @@ addscript(2537430692, "Current Game","Game Destroyer unless you become the Destr
                                 
     addscriptexist(2537430692, "Roblox Jenga Script", "Uploaded by MrVoz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Jenga%20Script609.lua", "https://scriptblox.com/script/Jenga-Roblox-Jenga-Script-5980")
                                 
+addscriptexist(2537430692, "OP AUTOWIN Troll walkspeed source code", "Uploaded by ileakscriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOWIN%20Troll%20walkspeed%20source%20code928.lua", "https://scriptblox.com/script/Blocks-n'-Props-OP-AUTOWIN-Troll-walkspeed-source-code-7739")
+                                

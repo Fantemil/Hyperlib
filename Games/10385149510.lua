@@ -1,0 +1,2 @@
+
+addscript(10385149510, "Current Game","Free characters place", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20characters%20place213.lua", "https://scriptblox.com/script/Gold-Tower-Defense(500K-VISITS-EVENT)-Free-characters-place-7786")

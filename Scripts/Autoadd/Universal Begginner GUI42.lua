@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yoboyghxst/Universal_GUI_Roblox/main/Universal%20GUI"))()

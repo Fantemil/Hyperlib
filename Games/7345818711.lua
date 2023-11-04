@@ -1,0 +1,2 @@
+
+addscript(7345818711, "Current Game","Inf money", "Uploaded by elijahcurtis455 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money928.lua", "https://scriptblox.com/script/PROMOCODE-Trucking-Empire-Inf-money-7293")

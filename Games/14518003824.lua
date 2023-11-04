@@ -1,0 +1,2 @@
+
+addscript(14518003824, "Current Game","Secret Characters", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Secret%20Characters656.lua", "https://scriptblox.com/script/MORPH-UPDATE-Simplified-Toilet-Roleplay-Secret-Characters-8826")

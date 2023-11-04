@@ -48,3 +48,5 @@ addscriptexist(8737602449, "Limited UGC", "Uploaded by KhSaeed90 on scriptblox.c
                                 
 addscriptexist(8737602449, "PLS DONATE ANTI AFK SCRIPT", "Uploaded by 0kxn on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLS%20DONATE%20ANTI%20AFK%20SCRIPT520.lua", "https://rscripts.net/script/pls-donate-anti-afk-script-4243")
                                 
+addscriptexist(8737602449, "Nuke Donation ClientSided not ServerSided", "Uploaded by scriptingprocess on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Donation%20ClientSided%20not%20ServerSided885.lua", "https://scriptblox.com/script/PLS-DONATE-Nuke-Donation-ClientSided-not-ServerSided-7796")
+                                

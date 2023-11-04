@@ -1,0 +1,2 @@
+
+addscript(7051086148, "Current Game","UUSAUB XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UUSAUB%20XTREME%20SCRIPT73.lua", "https://scriptblox.com/script/Undertale:-Unbalanced-Sans-AUs-Battles-UUSAUB-XTREME-SCRIPT-8918")

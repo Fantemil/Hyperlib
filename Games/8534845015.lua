@@ -4,3 +4,7 @@ addscript(8534845015, "Current Game","Pikachu Hub Sakura Stands", "Uploaded by P
                                 
 addscriptexist(8534845015, "Sakura Stand  Insane GUI", "Uploaded by muz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sakura%20Stand%20%20Insane%20GUI952.lua", "https://rscripts.net/script/sakura-stand-insane-gui-2629")
                                 
+addscriptexist(8534845015, "One For All Farmer", "Uploaded by FlamesW on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/One%20For%20All%20Farmer525.lua", "https://scriptblox.com/script/Toji-Sakura-Stand-One-For-All-Farmer-8464")
+                                
+addscriptexist(8534845015, "AutoSell Items", "Uploaded by ChrisIsTaken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSell%20Items123.lua", "https://scriptblox.com/script/Toji-Sakura-Stand-AutoSell-Items-7598")
+                                

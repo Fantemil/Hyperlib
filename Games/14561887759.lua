@@ -1,0 +1,2 @@
+
+addscript(14561887759, "Current Game","Omni ", "Uploaded by TheLuaCoder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Omni%20932.lua", "https://scriptblox.com/script/Backdoor-House-Testing-Omni-***-8579")

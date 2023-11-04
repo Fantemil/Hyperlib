@@ -10,3 +10,9 @@ addscript(402122991, "Current Game","Jailbreak Map", "Uploaded by theowner on sc
                                 
 addscriptexist(402122991, "KFC Map", "Uploaded by Turtle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KFC%20Map634.lua", "https://scriptblox.com/script/Redwood-Prison-KFC-Map-6950")
                                 
+addscriptexist(402122991, "Nameless Hub Mobile Support", "Uploaded by theowner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nameless%20Hub%20Mobile%20Support800.lua", "https://scriptblox.com/script/Redwood-Prison-Nameless-Hub-8129")
+                                
+addscriptexist(402122991, "THE DARKONES   GUI", "Uploaded by TheDarkone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20DARKONES%20%20%20GUI434.lua", "https://scriptblox.com/script/Redwood-Prison-THE-DARKONES-GUI-8507")
+                                
+addscriptexist(402122991, "THE SCROLL OF THE ANCIENTS   GUI", "Uploaded by TheDarkone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20SCROLL%20OF%20THE%20ANCIENTS%20%20%20GUI739.lua", "https://scriptblox.com/script/Redwood-Prison-THE-SCROLL-OF-THE-ANCIENTS-GUI-8512")
+                                

@@ -1,2 +1,1 @@
---// https://discord.gg/TFUeFEESVv
-loadstring(game:HttpGet("https://raw.githubusercontent.com/GhostDuckyy/Bread/main/Loader/source.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfernoKarl/infernokarl/main/loadstring.lua", true))()

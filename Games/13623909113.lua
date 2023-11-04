@@ -1,0 +1,2 @@
+
+addscript(13623909113, "Current Game","Brave Order script", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brave%20Order%20script702.lua", "https://scriptblox.com/script/BraveOrder-NEW-WORLDLucky+5Opercent-Brave-Order-script-8987")

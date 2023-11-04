@@ -4,3 +4,5 @@ addscriptexist(12402669933, "Free Zombie Giant Spawn", "Uploaded by sadeshusband
                                 
 addscriptexist(12402669933, "AutoBuy And AutoFarm Script OP", "Uploaded by 5picklebarry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoBuy%20And%20AutoFarm%20Script%20OP314.lua", "https://rscripts.net/script/autobuy-and-autofarm-script-op-3685")
                                 
+addscriptexist(12402669933, "OP Script GUI", "Uploaded by 56_Clubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20GUI433.lua", "https://scriptblox.com/script/Apocalypse-Tycoon-OP-Script-GUI-7856")
+                                

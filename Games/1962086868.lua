@@ -40,3 +40,5 @@ addscriptexist(1962086868, "Parkour Pro", "Uploaded by ak2928546 on scriptblox.c
                                 
 addscriptexist(1962086868, "Godmode script works on", "Uploaded by Saturn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20script%20works%20on350.lua", "https://scriptblox.com/script/Tower-of-Hell-Godmode-script-works-on-9244")
                                 
+addscriptexist(1962086868, "Incoak TOH", "Uploaded by Incoak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Incoak%20TOH201.lua", "https://scriptblox.com/script/Tower-of-Hell-Script-7375")
+                                

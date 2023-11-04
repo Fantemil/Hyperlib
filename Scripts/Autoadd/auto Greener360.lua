@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://vexiumhub.xyz/BasketballLegends.lua", true))()

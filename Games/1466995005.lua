@@ -1,0 +1,2 @@
+
+addscript(1466995005, "Current Game","OP script", "Uploaded by XFuscator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script324.lua", "https://scriptblox.com/script/NEW-STUFF-RAGDOLL-UNIVERSE-OP-script-8248")

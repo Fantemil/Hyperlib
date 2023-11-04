@@ -1,0 +1,4 @@
+
+addscript(9495369236, "Current Game","Goofy scooby Doo ahh head", "Uploaded by jicobis707 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goofy%20scooby%20Doo%20ahh%20head161.lua", "https://scriptblox.com/script/Cartoon-Network-Game-On-***-****-scooby-Doo-dog-8767")
+addscriptexist(9495369236, "Inf Coins", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Coins722.lua", "https://scriptblox.com/script/NEW-Cartoon-Network-Game-On-Inf-Coins-8304")
+                                

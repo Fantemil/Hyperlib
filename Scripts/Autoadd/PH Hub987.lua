@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PrintH3lloW0rld/Philippines-Hub-Blox-Fruits/main/Protected_2985989799607404.lua.txt"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VAX9999/floppa-piece2/main/floppa%20piece%20script%20OP", true))()

@@ -1,0 +1,2 @@
+
+addscript(12908662091, "Current Game","simple farm", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20farm685.lua", "https://scriptblox.com/script/FREE-LIMITED-Sheep-Race-Simulator!-simple-farm-8406")

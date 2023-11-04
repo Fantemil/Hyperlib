@@ -1,2 +1,4 @@
 
 addscript(11103424163, "Current Game","OP Script GUI", "Uploaded by 56_Clubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20GUI601.lua", "https://scriptblox.com/script/Heist-Tycoon-OP-Script-GUI-7858")
+addscriptexist(11103424163, "get money without a cooldown", "Uploaded by XFuscator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20money%20without%20a%20cooldown470.lua", "https://scriptblox.com/script/Heist-Tycoon-get-money-without-a-cooldown-8224")
+                                

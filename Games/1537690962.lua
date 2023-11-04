@@ -16,3 +16,5 @@ addscriptexist(1537690962, "BioHazard Bee Swarm Simulator OP Insane Script", "Up
                                 
 addscriptexist(1537690962, "Bee Swarm Simulator Script Created By Blood Bath", "Uploaded by BloodBath on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bee%20Swarm%20Simulator%20Script%20Created%20By%20Blood%20Bath32.lua", "https://rscripts.net/script/bee-swarm-simulator-script-created-by-blood-bath-3715")
                                 
+addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pepsi%20268.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Pepsi-2-7843")
+                                

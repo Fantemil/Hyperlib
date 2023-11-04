@@ -16,3 +16,5 @@ addscriptexist(4889315193, "try exp", "Uploaded by jackielellis16 on scriptblox.
                                 
 addscriptexist(4889315193, "Vyra", "Uploaded by jacobthestardreamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vyra307.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Vyra-8255")
                                 
+addscriptexist(4889315193, "R3TH PRIV", "Uploaded by kayshawn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3TH%20PRIV786.lua", "https://scriptblox.com/script/Total-Roblox-Drama-R3TH-PRIV-8016")
+                                

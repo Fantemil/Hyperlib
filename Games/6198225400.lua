@@ -1,0 +1,2 @@
+
+addscript(6198225400, "Current Game","get anything made a few changes dk if it works", "Uploaded by zopity10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20anything%20made%20a%20few%20changes%20dk%20if%20it%20works466.lua", "https://scriptblox.com/script/Legends-Re:Written-get-anything-made-a-few-changes-dk-if-it-works-8129")

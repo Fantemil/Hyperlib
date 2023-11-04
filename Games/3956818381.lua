@@ -32,3 +32,9 @@ addscriptexist(3956818381, "Obscure Hub 45 GAMES", "Uploaded by Obscure on rscri
                                 
 addscriptexist(3956818381, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub693.lua", "https://scriptblox.com/script/Ninja-Legends-MaddHub-6917")
                                 
+addscriptexist(3956818381, "InfiniteWare", "Uploaded by FindFirstBlackie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteWare514.lua", "https://scriptblox.com/script/Ninja-Legends-InfiniteWare-8227")
+                                
+addscriptexist(3956818381, "NEW Insane Sky Hub Script NL Auto Farm Teleports and more", "Uploaded by arlists on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Insane%20Sky%20Hub%20Script%20NL%20Auto%20Farm%20Teleports%20and%20more626.lua", "https://scriptblox.com/script/Ninja-Legends-NEW-Insane-Sky-Hub-Script-NL-Auto-Farm-Teleports-and-more-7193")
+                                
+addscriptexist(3956818381, "Decent Script", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decent%20Script126.lua", "https://scriptblox.com/script/Ninja-Legends-Decent-Script-7307")
+                                

@@ -1,0 +1,2 @@
+
+addscript(5023687570, "Current Game","Keyboard Script", "Uploaded by Co0lkidd1197 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyboard%20Script940.lua", "https://scriptblox.com/script/Free-Owner-Admin-Abuse-Keyboard-Script-7798")

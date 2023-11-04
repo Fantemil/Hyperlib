@@ -1,0 +1,2 @@
+
+addscript(13645439359, "Current Game","Best Autofarm GUI x Supports Mobile", "Uploaded by xpa1nx9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarm%20GUI%20x%20Supports%20Mobile808.lua", "https://scriptblox.com/script/Murim-Cultivation-RE-RELEASE-Best-Autofarm-GUI-x-Supports-Mobile-7500")

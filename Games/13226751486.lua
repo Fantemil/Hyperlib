@@ -1,0 +1,2 @@
+
+addscript(13226751486, "Current Game","Inf everything Ln Hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20everything%20Ln%20Hub542.lua", "https://scriptblox.com/script/Strength-Simulator-Inf-everything-Ln-Hub-7629")

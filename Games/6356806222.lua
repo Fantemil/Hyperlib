@@ -4,3 +4,5 @@ addscript(6356806222, "Current Game","No Parts", "Uploaded by Partner on scriptb
                                 
     addscriptexist(6356806222, "no parts works very very well trust me", "Uploaded by AXDWT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20parts%20works%20very%20very%20well%20trust%20me998.lua", "https://scriptblox.com/script/Lag-Test-2021-no-parts-works-very-very-well-trust-me-3156")
                                 
+addscriptexist(6356806222, "Delete parts", "Uploaded by Uranus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20parts250.lua", "https://scriptblox.com/script/Lag-Test-2021-Delete-blocks-8475")
+                                

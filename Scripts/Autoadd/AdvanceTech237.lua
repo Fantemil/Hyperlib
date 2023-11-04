@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/Loadstring/main/StrucidAFV1.lua", true))()

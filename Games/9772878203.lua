@@ -16,3 +16,5 @@ addscript(9772878203, "Current Game","raise a floppa 2 AUTOFARM", "Uploaded by g
                                 
     addscriptexist(9772878203, "raise a floppa 2 gui", "Uploaded by zzerexx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/raise%20a%20floppa%202%20gui366.lua", "https://scriptblox.com/script/raise-a-floppa-2-flopp-gui-3679")
                                 
+addscriptexist(9772878203, "Flopp utofrm", "Uploaded by Bakon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flopp%20utofrm615.lua", "https://scriptblox.com/script/raise-a-floppa-2-4x-Cash-Flopp-utofrm-7710")
+                                

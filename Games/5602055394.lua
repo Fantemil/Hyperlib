@@ -26,3 +26,5 @@ addscript(5602055394, "Current Game","HOoOoOD MoOoOdDeD", "Uploaded by Slips on 
                                 
 addscriptexist(5602055394, "HOOD MODDED SCRIPT", "Uploaded by zerotop on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOOD%20MODDED%20SCRIPT478.lua", "https://rscripts.net/script/hood-modded-script-3332")
                                 
+addscriptexist(5602055394, "Stomp Effect Tester", "Uploaded by kr4sk_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stomp%20Effect%20Tester301.lua", "https://scriptblox.com/script/POYO!-Hood-Modded-Stomp-Effect-Tester-7523")
+                                

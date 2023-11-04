@@ -20,3 +20,9 @@ addscriptexist(8204899140, "ff op", "Uploaded by woodtyce31 on scriptblox.com", 
                                 
 addscriptexist(8204899140, "ALL IN ONE FF SCRIPT", "Uploaded by clouted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALL%20IN%20ONE%20FF%20SCRIPT689.lua", "https://scriptblox.com/script/Football-Fusion-2-ALL-IN-ONE-FF-SCRIPT-6398")
                                 
+addscriptexist(8204899140, "FF Script Loader", "Uploaded by TrayTray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FF%20Script%20Loader13.lua", "https://scriptblox.com/script/Football-Fusion-2-FF-Script-Loader-7875")
+                                
+addscriptexist(8204899140, "TooColdHub", "Uploaded by marcusbored on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TooColdHub710.lua", "https://scriptblox.com/script/Football-Fusion-2-TooColdHub-7899")
+                                
+addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kirby59.lua", "https://scriptblox.com/script/Football-Fusion-2-Kirby-8679")
+                                

@@ -82,3 +82,13 @@ addscriptexist(6872265039, "Franware Private paid", "Uploaded by frannyms2012 on
                                 
 addscriptexist(6872265039, "good script", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20script747.lua", "https://scriptblox.com/script/BedWars-FIRE-SPREAD!-good-script-8365")
                                 
+addscriptexist(6872265039, "Smoke VapeV4 Config", "Uploaded by xysim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoke%20VapeV4%20Config744.lua", "https://scriptblox.com/script/BedWars-EMERALD-SHIELD!-Smoke-VapeV4-Config-7601")
+                                
+addscriptexist(6872265039, "Kill Aura Jump Speed AutoCliker FOV INVIS And More", "Uploaded by goldfarm21 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Jump%20Speed%20AutoCliker%20FOV%20INVIS%20And%20More919.lua", "https://scriptblox.com/script/BedWars-FIRE-SPREAD!-Kill-Aura-Jump-Speed-AutoCliker-FOV-INVIS-And-More-8244")
+                                
+addscriptexist(6872265039, "Vape v4", "Uploaded by blakeamadi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vape%20v4680.lua", "https://scriptblox.com/script/BedWars-FIRE-SPREAD!-Vape-v4-8220")
+                                
+addscriptexist(6872265039, "Vicious Hub  Afk Autofarm", "Uploaded by apua559 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vicious%20Hub%20%20Afk%20Autofarm242.lua", "https://scriptblox.com/script/BedWars-1v1!-Vicious-Hub-Afk-Autofarm-7212")
+                                
+addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20b4782.lua", "https://scriptblox.com/script/BedWars-EMERALD-SHIELD!-Raven-b4-for-mobile-7585")
+                                

@@ -1,0 +1,2 @@
+
+addscript(8735521924, "Current Game","1", "Uploaded by Depth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1211.lua", "https://scriptblox.com/script/CENTAURA-1-7829")

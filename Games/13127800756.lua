@@ -54,3 +54,9 @@ addscriptexist(13127800756, "Auto Training  and more", "Uploaded by Xbowgeniy on
                                 
 addscriptexist(13127800756, "Script With A Very Cool Autof And Much More", "Uploaded by millermustafa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20With%20A%20Very%20Cool%20Autof%20And%20Much%20More148.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Script-With-A-Very-Cool-Autof-And-Much-More-7083")
                                 
+addscriptexist(13127800756, "GUI V1", "Uploaded by FireServiceScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20V167.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-GUI-V1-9103")
+                                
+addscriptexist(13127800756, "op script", "Uploaded by x2p3m8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script417.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-op-script-8699")
+                                
+addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELMER%20HUB%20KEYLESS17.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-ELMER-HUB-9138")
+                                

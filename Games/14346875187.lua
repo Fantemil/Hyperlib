@@ -1,0 +1,2 @@
+
+addscript(14346875187, "Current Game","auto farm coins", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20coins81.lua", "https://scriptblox.com/script/LIMITED-UGC-Halloween-Hammer-auto-farm-coins-8385")

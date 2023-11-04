@@ -1,0 +1,2 @@
+
+addscript(13515777452, "Current Game","GUI", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI511.lua", "https://scriptblox.com/script/Dragon-Soul-Hunter-GUI-7757")

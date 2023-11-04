@@ -1,0 +1,2 @@
+
+addscript(9992423540, "Current Game","Dynamic Hub Free", "Uploaded by moralinjection on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dynamic%20Hub%20Free749.lua", "https://scriptblox.com/script/Basketball-Legends-Dynamic-Hub-Free-7289")

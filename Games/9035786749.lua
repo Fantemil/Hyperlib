@@ -1,0 +1,2 @@
+
+addscript(9035786749, "Current Game","UTTM Hub", "Uploaded by the_stewman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTTM%20Hub630.lua", "https://scriptblox.com/script/BIRD-and-Convertion-Normaly-utmm-game-Hub-8244")

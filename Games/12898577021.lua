@@ -1,0 +1,2 @@
+
+addscript(12898577021, "Current Game","UCT XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UCT%20XTREME%20SCRIPT234.lua", "https://scriptblox.com/script/(Halloween-Special)-UnderTale:-Cringe-Timeline-UCT-XTREME-SCRIPT-8866")

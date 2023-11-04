@@ -1,0 +1,2 @@
+
+addscript(6440626299, "Current Game","Inf Wins Script", "Uploaded by StarterScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Wins%20Script230.lua", "https://scriptblox.com/script/Speed-Run-Race-Inf-Wins-Script-7961")

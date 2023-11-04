@@ -18,3 +18,9 @@ addscriptexist(662417684, "Lucky Blocks Overpowered Void Kill Spawn Blocks Hitbo
                                 
 addscriptexist(662417684, "NexusX Hub", "Uploaded by _Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NexusX%20Hub344.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-NexusX-Hub-6898")
                                 
+addscriptexist(662417684, "Summon Block", "Uploaded by Zolars_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Summon%20Block314.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Summon-Block-8518")
+                                
+addscriptexist(662417684, "infinite Items and more", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Items%20and%20more845.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-infinite-Items-8629")
+                                
+addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n7364.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Script-n7-8219")
+                                

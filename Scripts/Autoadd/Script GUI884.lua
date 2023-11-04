@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Zombie-VS-Friends-Simulator/main/Main", true))()

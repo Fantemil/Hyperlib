@@ -10,3 +10,5 @@ addscript(3095204897, "Current Game","Isle OP Script", "Uploaded by r3d_108 on s
                                 
     addscriptexist(3095204897, "OP GUI", "Uploaded by Chiwebow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI618.lua", "https://scriptblox.com/script/Isle-OP-GUI-4926")
                                 
+addscriptexist(3095204897, "Very OP Script", "Uploaded by skull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Script705.lua", "https://scriptblox.com/script/Isle-Very-OP-Script-8189")
+                                

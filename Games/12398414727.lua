@@ -1,0 +1,2 @@
+
+addscript(12398414727, "Current Game","auto", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto557.lua", "https://scriptblox.com/script/Math-Answer-or-Die-auto-8372")

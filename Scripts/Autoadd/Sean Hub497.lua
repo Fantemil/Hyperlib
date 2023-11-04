@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/dnaielne/Sean-Hub-Better/main/SeanHub.lua', true))();

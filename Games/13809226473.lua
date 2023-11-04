@@ -1,0 +1,2 @@
+
+addscript(13809226473, "Current Game","get all stonge", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20stonge453.lua", "https://scriptblox.com/script/STAGE-22!-Chicken's-Lifting-Simualtor:-2-get-all-s-8297")

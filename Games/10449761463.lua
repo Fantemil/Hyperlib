@@ -8,3 +8,7 @@ addscriptexist(10449761463, "The Strongest Battlegrounds AutoFarm Hit Aura Auto 
                                 
 addscriptexist(10449761463, "AUTO PARRY", "Uploaded by luffytard77 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20PARRY300.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-AUTO-PARRY-8095")
                                 
+addscriptexist(10449761463, "fake genos ult 29k views celebrate", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fake%20genos%20ult%2029k%20views%20celebrate326.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-fake-genos-ult-29k-views-celebrate-8644")
+                                
+addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB71.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-7421")
+                                

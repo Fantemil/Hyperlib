@@ -1,0 +1,2 @@
+
+addscript(14067600077, "Current Game","OP AUTOFARM", "Uploaded by luffytard77 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM846.lua", "https://scriptblox.com/script/PHOENIX-TYPE:SOUL-OP-AUTOFARM-8057")

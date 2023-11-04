@@ -1,0 +1,2 @@
+
+addscript(7875514723, "Current Game","inf money", "Uploaded by elijahcurtis455 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money752.lua", "https://scriptblox.com/script/NEW-MAP-Takeover-inf-money-7294")

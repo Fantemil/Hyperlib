@@ -1,0 +1,2 @@
+
+addscript(5679403447, "Current Game","Free Roblox Script    GUI", "Uploaded by Creator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Roblox%20Script%20%20%20%20GUI691.lua", "https://scriptblox.com/script/The-Mystic-Diaries-PRE-ALPHA-Free-Roblox-Script-GUI-9074")

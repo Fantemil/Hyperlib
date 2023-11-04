@@ -1,2 +1,4 @@
 
 addscript(13867521784, "Current Game","Lift Hub", "Uploaded by tedyadi57 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lift%20Hub1000.lua", "https://scriptblox.com/script/Ultimate-Lifter-Lift-Hub-8664")
+addscriptexist(13867521784, "Auto Gain and Sell at the same time", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Gain%20and%20Sell%20at%20the%20same%20time217.lua", "https://scriptblox.com/script/Ultimate-Lifter-Auto-Gain-and-Sell-at-the-same-time-8601")
+                                

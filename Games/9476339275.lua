@@ -12,3 +12,5 @@ addscriptexist(9476339275, "Elemental Hub full Keyless cracked", "Uploaded by Ga
                                 
 addscriptexist(9476339275, "Decent DD script", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decent%20DD%20script807.lua", "https://scriptblox.com/script/BATTLESHIP-Double-Down-Decent-DD-script-7359")
                                 
+addscriptexist(9476339275, "Nogger Hub Robux earning", "Uploaded by flinger on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nogger%20Hub%20Robux%20earning583.lua", "https://scriptblox.com/script/BATTLESHIP-Double-Down-Nogger-7510")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14394383815, "Current Game","OP Script GUI", "Uploaded by 56_Clubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20GUI710.lua", "https://scriptblox.com/script/LIMITED-PET-Break-Grimace-Shake-OP-Script-GUI-7856")

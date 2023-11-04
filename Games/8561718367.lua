@@ -1,0 +1,2 @@
+
+addscript(8561718367, "Current Game","FNaF 2 ESP", "Uploaded by ligmaballs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FNaF%202%20ESP488.lua", "https://scriptblox.com/script/Five-Nights-At-Freddy's-Doom-FNaF-2-ESP-8905")

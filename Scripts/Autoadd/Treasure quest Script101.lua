@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproootest/Unknown-TreasureQuest/main/Gui.lua'))()

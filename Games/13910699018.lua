@@ -1,0 +1,2 @@
+
+addscript(13910699018, "Current Game","normal autofarm", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/normal%20autofarm722.lua", "https://scriptblox.com/script/FREE-LIMITED-Mushroom-Race-normal-autofarm-7320")

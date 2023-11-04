@@ -1,0 +1,2 @@
+
+addscript(13028915593, "Current Game","Inf", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf919.lua", "https://scriptblox.com/script/Update-Skbid-War-Epic-Tower-Defense-Inf-7799")

@@ -1,0 +1,2 @@
+
+addscript(338521019, "Current Game","ARK HUB", "Uploaded by DRAGONX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARK%20HUB40.lua", "https://scriptblox.com/script/Identity-Fraud-OST-ARK-HUB-8577")

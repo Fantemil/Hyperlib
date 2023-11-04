@@ -20,3 +20,5 @@ addscriptexist(7952502098, "Autofarm Tile Esp Trolling", "Uploaded by Thundy on 
                                 
 addscriptexist(7952502098, "Win Spin Reveal and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win%20Spin%20Reveal%20and%20more52.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Win-Spin-Reveal-and-more-7004")
                                 
+addscriptexist(7952502098, "Auto Win", "Uploaded by a_nerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win575.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Auto-Win-8686")
+                                

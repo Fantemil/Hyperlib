@@ -52,3 +52,11 @@ addscriptexist(606849621, "hyper chromes", "Uploaded by baconsoupeater on script
                                 
 addscriptexist(606849621, "OP  AUTO ROB", "Uploaded by omo836916 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20AUTO%20ROB225.lua", "https://scriptblox.com/script/Jailbreak-OP-AUTO-ROB-7345")
                                 
+addscriptexist(606849621, "Op Gui Script", "Uploaded by Troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Gui%20Script585.lua", "https://scriptblox.com/script/Jailbreak-Op-Gui-Script-8785")
+                                
+addscriptexist(606849621, "Insane Script Sky Hub For Roblox Very Fast Auto Farm and TP", "Uploaded by arlists on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20Script%20Sky%20Hub%20For%20Roblox%20Very%20Fast%20Auto%20Farm%20and%20TP700.lua", "https://scriptblox.com/script/Jailbreak-New-Insane-Script-Hub-For-Roblox-Very-Fast-Auto-Farm-and-TP-7191")
+                                
+addscriptexist(606849621, "lol easy gg", "Uploaded by talisman170287 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lol%20easy%20gg620.lua", "https://scriptblox.com/script/Jailbreak-lol-easy-gg-8636")
+                                
+addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20AUTO%20ARREST946.lua", "https://scriptblox.com/script/Jailbreak-OP-AUTO-ARREST-7346")
+                                

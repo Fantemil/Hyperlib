@@ -1,0 +1,2 @@
+
+addscript(13604847321, "Current Game","Noclip", "Uploaded by DylanIsAKing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noclip456.lua", "https://scriptblox.com/script/Geometry-Blox-(1-Million-Visits)-Noclip-7864")

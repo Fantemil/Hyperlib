@@ -1,0 +1,2 @@
+
+addscript(11418578067, "Current Game","Fast Lifting Sim", "Uploaded by Baboli_MugoPro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Lifting%20Sim115.lua", "https://scriptblox.com/script/3X-COINS-EVENT-FastLifting-Simulator-Fast-Lifting-Script-8249")

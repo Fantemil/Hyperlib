@@ -4,3 +4,5 @@ addscriptexist(11124905486, "infinite ShotGun", "Uploaded by evi1z on scriptblox
                                 
 addscriptexist(11124905486, "Silent imbot", "Uploaded by Moneyhunta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20imbot598.lua", "https://scriptblox.com/script/Shoot-People-Off-A-Map-Simulator-Silent-imbot-7387")
                                 
+addscriptexist(11124905486, "reduced knockbck", "Uploaded by Tomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reduced%20knockbck6.lua", "https://scriptblox.com/script/Shoot-People-Off-A-Map-Simulator-nti-kb-8005")
+                                

@@ -20,3 +20,5 @@ addscriptexist(189707, "Natural Disaster Survival  Disable Fall Damage Walk On W
                                 
 addscriptexist(189707, "Natural Disaster Survival AutoFarm Choose Map Visuals", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Natural%20Disaster%20Survival%20AutoFarm%20Choose%20Map%20Visuals852.lua", "https://rscripts.net/script/natural-disaster-survival-autofarm-choose-map-visuals-3032")
                                 
+addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Choose%20Map%20NoFall%20WaterWalk797.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Choose-Map-NoFall-WaterWalk-7793")
+                                

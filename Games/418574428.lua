@@ -1,0 +1,4 @@
+
+addscript(418574428, "Current Game","how is it not patched", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/how%20is%20it%20not%20patched105.lua", "https://scriptblox.com/script/Downfall-Sandbox-how-is-it-not-patched-8638")
+addscriptexist(418574428, "Hitbox Expander Titans", "Uploaded by LegitEpikGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20Expander%20Titans526.lua", "https://scriptblox.com/script/Downfall-Sandbox-Hitbox-Expander-Titans-8891")
+                                

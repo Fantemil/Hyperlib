@@ -1,0 +1,2 @@
+
+addscript(13126775213, "Current Game","pretty mid", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pretty%20mid911.lua", "https://scriptblox.com/script/FREE-UGC-Bubble-Simulator-pretty-mid-8957")

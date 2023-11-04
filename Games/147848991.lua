@@ -8,3 +8,5 @@ addscript(147848991, "Current Game","Be a parkour ninja not", "Uploaded by saric
                                 
     addscriptexist(147848991, "Be A Parkour Ninja script", "Uploaded by faro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Be%20A%20Parkour%20Ninja%20script165.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-Be-A-Parkour-Ninja-script-4235")
                                 
+addscriptexist(147848991, "Ninj script", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninj%20script129.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-Ninj-script-7309")
+                                

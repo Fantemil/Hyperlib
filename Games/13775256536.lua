@@ -1,0 +1,2 @@
+
+addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marco%20Auto%20Play39.lua", "https://scriptblox.com/script/EP-60-Toilet-Tower-Defense-Marco-Auto-Play-7765")

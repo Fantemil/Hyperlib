@@ -14,3 +14,7 @@ addscriptexist(7655745946, "Infinite spins", "Uploaded by XFuscator on scriptblo
                                 
 addscriptexist(7655745946, "OP RiyazHub", "Uploaded by Riyaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20RiyazHub542.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-RiyazHub-8997")
                                 
+addscriptexist(7655745946, "Get 1000x cash boost", "Uploaded by XFuscator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%201000x%20cash%20boost250.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-Get-1000x-cash-boost-8226")
+                                
+addscriptexist(7655745946, "infinite Spins", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Spins904.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-infinite-Spin-8906")
+                                

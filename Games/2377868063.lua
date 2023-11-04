@@ -4,3 +4,5 @@ addscript(2377868063, "Current Game","BEST SCRIPT astropublicxyz V3  MODE  ANTI 
                                 
     addscriptexist(2377868063, " BoltsHub  OP Script ", "Uploaded by Shalev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20BoltsHub%20%20OP%20Script%20648.lua", "https://scriptblox.com/script/Strucid-OP-SCRIPT-5974")
                                 
+addscriptexist(2377868063, "AdvanceTech", "Uploaded by YellowGreg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdvanceTech237.lua", "https://scriptblox.com/script/Strucid-AdvanceTech-V1-7352")
+                                

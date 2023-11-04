@@ -6,3 +6,5 @@ addscriptexist(4639625707, "Auto Collect Free UGC", "Uploaded by Dex on rscripts
                                 
 addscriptexist(4639625707, "Teleport to airdrops", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20airdrops647.lua", "https://scriptblox.com/script/SALE-+-2X-War-Tycoon-Teleport-to-airdrops-7310")
                                 
+addscriptexist(4639625707, "Silent Aim Wallbang Open Source", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20Wallbang%20Open%20Source590.lua", "https://scriptblox.com/script/A-10-War-Tycoon-Silent-Aim-Wallbang-Open-Source-8698")
+                                

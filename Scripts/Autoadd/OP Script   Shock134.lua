@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HagoromoMd/SyniX/main/Beta"))()

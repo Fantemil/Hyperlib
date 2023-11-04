@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bjkefe2/Crimson-CraftWars/main/Crimson"))()

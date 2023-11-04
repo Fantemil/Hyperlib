@@ -16,3 +16,5 @@ addscriptexist(9498006165, " KHub  Tapping Simulator Script Working  2023  Auto 
                                 
 addscriptexist(9498006165, "Celestial Hub 30 GAMES", "Uploaded by JellyBagBeans on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20Hub%2030%20GAMES530.lua", "https://rscripts.net/script/celestial-hub-30-games-3082")
                                 
+addscriptexist(9498006165, "Clicker Simulator OP Script", "Uploaded by FruitHubFounder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clicker%20Simulator%20OP%20Script266.lua", "https://scriptblox.com/script/Tapping-Simulator!-Clicker-Simulator-OP-Script-8250")
+                                

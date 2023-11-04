@@ -4,3 +4,5 @@ addscriptexist(13326256431, "VIP Room n All Gears and more", "Uploaded by KhSaee
                                 
 addscriptexist(13326256431, "All Gear n VIP Room and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Gear%20n%20VIP%20Room%20and%20more905.lua", "https://scriptblox.com/script/Obby-But-You-Can't-Jump-Instant-All-Gear-n-VIP-Room-and-more-8189")
                                 
+addscriptexist(13326256431, "VIP Room n All Weapons and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20All%20Weapons%20and%20more507.lua", "https://scriptblox.com/script/Obby-But-You-Can't-Jump-VIP-Room-n-All-Weapons-and-more-7672")
+                                

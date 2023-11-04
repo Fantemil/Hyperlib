@@ -6,3 +6,5 @@ addscript(10106105124, "Current Game","GUI", "Uploaded by Ghosty_Duckyy on scrip
                                 
     addscriptexist(10106105124, "auto farm yes", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20yes225.lua", "https://scriptblox.com/script/Wheat-Farming-Simulator-auto-farm-yes-4768")
                                 
+addscriptexist(10106105124, "Crystal Event n Auto Harvest and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crystal%20Event%20n%20Auto%20Harvest%20and%20more203.lua", "https://scriptblox.com/script/Wheat-Farming-Simulator-Crystal-Event-n-Auto-Harvest-and-more-7617")
+                                

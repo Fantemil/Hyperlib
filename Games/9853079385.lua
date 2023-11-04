@@ -1,0 +1,2 @@
+
+addscript(9853079385, "Current Game","Free Characters", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters632.lua", "https://scriptblox.com/script/Become-the-rake-remastered-Free-Characters-7893")

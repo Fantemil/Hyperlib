@@ -8,3 +8,11 @@ addscriptexist(12996550309, "Ln hub", "Uploaded by whiteboyemmer on scriptblox.c
                                 
 addscriptexist(12996550309, "Billy Hoco Update and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billy%20Hoco%20Update%20and%20more693.lua", "https://scriptblox.com/script/BILLY-HOCORunStar-Simulator-Billy-Hoco-Update-and-more-8230")
                                 
+addscriptexist(12996550309, "INF RUNS", "Uploaded by vow12341 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20RUNS756.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-INF-RUNS-7360")
+                                
+addscriptexist(12996550309, "Farm Speed", "Uploaded by Brinen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Speed869.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-Farm-Speed-7382")
+                                
+addscriptexist(12996550309, "Best Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script570.lua", "https://scriptblox.com/script/BILLY-RUNRunStar-Simulator-Best-Script-7603")
+                                
+addscriptexist(12996550309, "Ln hub Runstar", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub%20Runstar585.lua", "https://scriptblox.com/script/BILLY-RUNRunStar-Simulator-Ln-hub-Runstar-7625")
+                                

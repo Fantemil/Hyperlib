@@ -1,0 +1,2 @@
+
+addscript(10956766913, "Current Game","Ln Hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20Hub388.lua", "https://scriptblox.com/script/SHEIN-x-Klarna-Wonderland-CAREBEAR-UGC!-Ln-Hub-8296")

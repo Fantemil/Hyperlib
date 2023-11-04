@@ -1,0 +1,2 @@
+
+addscript(13085698987, "Current Game","Bank Farm Op", "Uploaded by Blackout on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bank%20Farm%20Op183.lua", "https://scriptblox.com/script/QUIRK-AWAKENINGS-Heroes-Awakening-Bank-Farm-Op-7599")

@@ -1,0 +1,2 @@
+
+addscript(13421111002, "Current Game","Help Getting Limited UGC", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Help%20Getting%20Limited%20UGC491.lua", "https://scriptblox.com/script/FREE-LIMITED-Kick-It-Simulator-Help-Getting-Limed-UGC-7830")

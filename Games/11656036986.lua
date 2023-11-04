@@ -6,3 +6,5 @@ addscriptexist(11656036986, "Au Farm Script 2", "Uploaded by KenshinBengpo on sc
                                 
 addscriptexist(11656036986, "Au  Farm Script 1", "Uploaded by KenshinBengpo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Au%20%20Farm%20Script%201354.lua", "https://scriptblox.com/script/make-roblox-games-to-become-rich-and-famous-Au-Farm-Script-1-9116")
                                 
+addscriptexist(11656036986, "Au Farm Script 3", "Uploaded by KenshinBengpo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Au%20Farm%20Script%203971.lua", "https://scriptblox.com/script/make-roblox-games-to-become-rich-and-famous-Au-Farm-Script-3-9118")
+                                

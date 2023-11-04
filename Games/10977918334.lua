@@ -1,0 +1,2 @@
+
+addscript(10977918334, "Current Game","Script n2", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n2487.lua", "https://scriptblox.com/script/NEW-Merge-Droppers!-Inf-parts-7689")

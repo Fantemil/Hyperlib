@@ -1,0 +1,2 @@
+
+addscript(10272636261, "Current Game","Kill All inf money set custom hp to players OP", "Uploaded by xqci on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20inf%20money%20set%20custom%20hp%20to%20players%20OP276.lua", "https://scriptblox.com/script/Infinite-Tower-Tycoon-Kill-All-7511")

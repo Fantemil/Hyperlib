@@ -1,0 +1,2 @@
+
+addscript(8222131500, "Current Game","Inf Coins Wood and Items", "Uploaded by Sourcive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Coins%20Wood%20and%20Items217.lua", "https://scriptblox.com/script/UPDDesert-island-survival-Inf-Coins-and-Wood-8674")

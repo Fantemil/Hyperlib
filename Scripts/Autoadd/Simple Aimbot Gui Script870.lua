@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/YellowGreg/FPS-Script/main/RandomAssist.lua"))()

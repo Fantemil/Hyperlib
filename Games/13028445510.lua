@@ -1,2 +1,4 @@
 
 addscript(13028445510, "Current Game","EASY AF UGC insane op dupe Proxi Hub", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EASY%20AF%20UGC%20insane%20op%20dupe%20Proxi%20Hub315.lua", "https://scriptblox.com/script/CAMERA-Shoot-Wall-Simulator-EASY-AF-UGC-insane-op-dupe-Proxi-Hub-7007")
+addscriptexist(13028445510, "Sim AutoRebirth", "Uploaded by Rhysical on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sim%20AutoRebirth923.lua", "https://scriptblox.com/script/FREE-LIMITED-Shoot-Wall-Simulator-Auto-Rebirth-7620")
+                                

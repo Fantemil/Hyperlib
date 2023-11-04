@@ -1,0 +1,2 @@
+
+addscript(3045445556, "Current Game","infinite spin wheel", "Uploaded by xxxproxomaine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20spin%20wheel609.lua", "https://scriptblox.com/script/NEW-Crescent-Hills-infinite-spin-wheel-7467")

@@ -1,0 +1,2 @@
+
+addscript(13445528777, "Current Game","UTTRC XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTTRC%20XTREME%20SCRIPT489.lua", "https://scriptblox.com/script/(LESSLAG)-Undertale-The-Timelines-Randomized-Codes-UTTRC-XTREME-SCRIPT-8857")

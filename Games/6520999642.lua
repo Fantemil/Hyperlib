@@ -1,0 +1,2 @@
+
+addscript(6520999642, "Current Game","Autoplay lite", "Uploaded by Ytsmells123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoplay%20lite762.lua", "https://scriptblox.com/script/Basically-FNF:-Remix-Autoplay-lite-7522")

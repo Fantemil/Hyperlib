@@ -1,0 +1,2 @@
+
+addscript(6437849478, "Current Game","Aura", "Uploaded by braverpsx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aura987.lua", "https://scriptblox.com/script/Arc-of-the-Elements-Aura-8224")

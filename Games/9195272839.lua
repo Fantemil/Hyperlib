@@ -1,0 +1,2 @@
+
+addscript(9195272839, "Current Game","UTNMH XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTNMH%20XTREME%20SCRIPT508.lua", "https://scriptblox.com/script/OPEN-AGAIN-UPD-DELAYED-Undertale-:-No-More-Hope-UTNMH-XTREME-SCRIPT-9075")

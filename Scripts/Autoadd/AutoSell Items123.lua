@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alrbuddy/Roblox-Scripts/main/Sakura%20Stand%20%7C%20AutoSell"))()

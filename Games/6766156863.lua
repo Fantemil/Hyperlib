@@ -8,3 +8,5 @@ addscript(6766156863, "Current Game","really op afk grind", "Uploaded by mikoidk
                                 
     addscriptexist(6766156863, "Very OP Autofarm Keyless", "Uploaded by ZeusV1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Autofarm%20Keyless851.lua", "https://scriptblox.com/script/Strongman-Simulator-Very-OP-Autofarm-Keyless-4923")
                                 
+addscriptexist(6766156863, "OP  sim", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20sim763.lua", "https://scriptblox.com/script/Strongman-Simulator-OP-sim-8353")
+                                

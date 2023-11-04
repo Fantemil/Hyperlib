@@ -14,3 +14,7 @@ addscriptexist(6708206173, "Goddo moddo", "Uploaded by kagenoucid553 on scriptbl
                                 
 addscriptexist(6708206173, "Citizen secret service leak panel OP", "Uploaded by wevow92495 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Citizen%20secret%20service%20leak%20panel%20OP185.lua", "https://scriptblox.com/script/Rate-My-Avatar-Citizen-secret-service-leak-panel-OP-8747")
                                 
+addscriptexist(6708206173, "Trivia Booth", "Uploaded by 07734 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trivia%20Booth661.lua", "https://scriptblox.com/script/Rate-My-Avatar-Trivia-Booth-7969")
+                                
+addscriptexist(6708206173, "Etonameless", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etonameless711.lua", "https://scriptblox.com/script/Rate-My-Avatar-Etonameless-7464")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14307592385, "Current Game","Get all morph", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20morph330.lua", "https://scriptblox.com/script/EP.-62-Skibidi-Toilet-Morphs!-Get-all-morph-7851")

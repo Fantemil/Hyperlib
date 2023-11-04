@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/owlshs/mano/main/main1.lua",true))()

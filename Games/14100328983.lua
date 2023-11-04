@@ -1,0 +1,2 @@
+
+addscript(14100328983, "Current Game","kids ez ugc", "Uploaded by mightyscripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kids%20ez%20ugc815.lua", "https://scriptblox.com/script/Spy-Kids:-Armageddon-or-Hyskor-Run-kids-ez-ugc-8081")

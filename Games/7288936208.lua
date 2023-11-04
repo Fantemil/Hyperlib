@@ -1,0 +1,2 @@
+
+addscript(7288936208, "Current Game","op script", "Uploaded by skull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script84.lua", "https://scriptblox.com/script/REWORK-COMING-SOON-Super-Blox-Soccer-op-script-8127")

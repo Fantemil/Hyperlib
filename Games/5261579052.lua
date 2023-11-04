@@ -1,0 +1,2 @@
+
+addscript(5261579052, "Current Game","UROS XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UROS%20XTREME%20SCRIPT703.lua", "https://scriptblox.com/script/UT:-Rise-of-Souls-UROS-XTREME-SCRIPT-8869")

@@ -1,0 +1,2 @@
+
+addscript(13559584718, "Current Game","ESPHitBoxCrosshair", "Uploaded by Mazed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESPHitBoxCrosshair254.lua", "https://scriptblox.com/script/Lone-Survival-OPEN-TEST-ESP-HitBox-Crosshair-7392")

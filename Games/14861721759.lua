@@ -1,0 +1,2 @@
+
+addscript(14861721759, "Current Game","Anim3 ba11", "Uploaded by tranvanhieu611 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anim3%20ba11216.lua", "https://scriptblox.com/script/UPD-Anime-Ball-Anim3-ba11-8757")

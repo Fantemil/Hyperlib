@@ -1,0 +1,2 @@
+
+addscript(12145106747, "Current Game","Autofarm GUI  Updated V12", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20GUI%20%20Updated%20V12837.lua", "https://scriptblox.com/script/burn-stuff-and-get-rich-Autofarm-GUI-7469")

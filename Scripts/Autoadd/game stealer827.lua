@@ -1,0 +1,1 @@
+saveinstance(game, nil, {Decompile = true})

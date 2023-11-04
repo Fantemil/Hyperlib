@@ -1,0 +1,2 @@
+
+addscript(14547497059, "Current Game","sim script", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sim%20script387.lua", "https://scriptblox.com/script/Weapon-Forge-Simulator-sim-script-8348")

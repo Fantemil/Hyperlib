@@ -1,0 +1,2 @@
+
+addscript(14410360482, "Current Game","Op script UPDATED", "Uploaded by LxghtSvde2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20UPDATED32.lua", "https://scriptblox.com/script/UPDATE-Skibidi-Toilets-Universe-Extended-Op-script-UPDATED-7586")

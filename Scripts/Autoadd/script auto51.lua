@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeptuneMadeIt100/SaberShowdown/main/johajoha", true))()

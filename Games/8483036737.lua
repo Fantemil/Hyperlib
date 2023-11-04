@@ -1,0 +1,2 @@
+
+addscript(8483036737, "Current Game","Infinite Coins n Collect Energy and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20n%20Collect%20Energy%20and%20more982.lua", "https://scriptblox.com/script/TRADE!-Hoverboard-Race!-Infinite-Coins-n-Collect-Energy-and-more-7841")

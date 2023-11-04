@@ -1,0 +1,2 @@
+
+addscript(14329663891, "Current Game","Request AutoFarm or Auto Cash", "Uploaded by GoofyAssSkull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20AutoFarm%20or%20Auto%20Cash101.lua", "https://scriptblox.com/script/Project-Spectre-Request-AutoFarm-or-Auto-Cash-7951")

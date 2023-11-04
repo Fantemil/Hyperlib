@@ -76,3 +76,27 @@ addscriptexist(155615604, "Delete Trees", "Uploaded by nescoroco on scriptblox.c
                                 
 addscriptexist(155615604, "Version", "Uploaded by Im_dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Version902.lua", "https://scriptblox.com/script/Prison-Life-Version-7364")
                                 
+addscriptexist(155615604, "TIGER ADMIN REVAMPED", "Uploaded by H17S3_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TIGER%20ADMIN%20REVAMPED677.lua", "https://scriptblox.com/script/Prison-Life-TIGER-ADMIN-REVAMPED-7593")
+                                
+addscriptexist(155615604, "Extender Hub", "Uploaded by Agonyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Extender%20Hub244.lua", "https://scriptblox.com/script/Prison-Life-Extender-Hub-8415")
+                                
+addscriptexist(155615604, "Fe bypass", "Uploaded by Ghosterbro51 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20bypass186.lua", "https://scriptblox.com/script/Prison-Life-Fe-bypass-8064")
+                                
+addscriptexist(155615604, "mobile script pack", "Uploaded by nonamed19999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mobile%20script%20pack886.lua", "https://scriptblox.com/script/Prison-Life-mobile-script-pack-7710")
+                                
+addscriptexist(155615604, "Fe   hub", "Uploaded by Ghosterbro51 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20%20%20hub378.lua", "https://scriptblox.com/script/Prison-Life-Fe-hub-8065")
+                                
+addscriptexist(155615604, "infinite M9 and more", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20M9%20and%20more697.lua", "https://scriptblox.com/script/Prison-Life-infinite-M9-and-more-8676")
+                                
+addscriptexist(155615604, "Updated OP Script", "Uploaded by xonqyyyyreal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20OP%20Script147.lua", "https://scriptblox.com/script/Prison-Life-Updated-OP-Script-7719")
+                                
+addscriptexist(155615604, "Mobile script", "Uploaded by rbxscriptspublic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20script372.lua", "https://scriptblox.com/script/Prison-Life-Keyboard-and-bypasser-7189")
+                                
+addscriptexist(155615604, "hgtfdcgfv", "Uploaded by igorheld45 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hgtfdcgfv52.lua", "https://scriptblox.com/script/Prison-Life-hgtfdcgfv-8117")
+                                
+addscriptexist(155615604, "Roblox   script", "Uploaded by silasvr75 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20%20script293.lua", "https://scriptblox.com/script/Prison-Life-Roblox-script-8414")
+                                
+addscriptexist(155615604, "Op Script", "Uploaded by Rayz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script565.lua", "https://scriptblox.com/script/Prison-Life-Script-8539")
+                                
+addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wyllan%20Scripts%20%20v1497.lua", "https://scriptblox.com/script/Prison-Life-Wyllan-Scripts-v1-7182")
+                                

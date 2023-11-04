@@ -1,0 +1,2 @@
+
+addscript(11818428528, "Current Game","Collect all coins", "Uploaded by blxnks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all%20coins816.lua", "https://scriptblox.com/script/Moto-Island-Collect-all-coins-7871")

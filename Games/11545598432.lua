@@ -18,3 +18,5 @@ addscriptexist(11545598432, "Infinite Chikara IBA HUB", "Uploaded by xiba on scr
                                 
 addscriptexist(11545598432, "Neverlose Mette fredriksen Open source", "Uploaded by Mango65 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neverlose%20Mette%20fredriksen%20Open%20source452.lua", "https://scriptblox.com/script/UPDATE-3-Anime-Fighting-Simulator-X-Neverlose-Mette-fredriksen-7354")
                                 
+addscriptexist(11545598432, "Gamers Hub AFS", "Uploaded by Ebad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gamers%20Hub%20AFS748.lua", "https://scriptblox.com/script/UPDATE-4-Anime-Fighting-Simulator-X-AFS-AFS-7493")
+                                

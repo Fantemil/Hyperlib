@@ -12,3 +12,7 @@ addscriptexist(8916037983, "DEMONIC HUB", "Uploaded by alan11agohero on scriptbl
                                 
 addscriptexist(8916037983, "Pixel artist OPEN SOURCE", "Uploaded by Sponsoparnordvpn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pixel%20artist%20OPEN%20SOURCE727.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Pixel-artist-OPEN-SOURCE-7688")
                                 
+addscriptexist(8916037983, "Stupid", "Uploaded by Sponsoparnordvpn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stupid944.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Stupid-7767")
+                                
+addscriptexist(8916037983, "source code", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/source%20code624.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-source-code-7724")
+                                

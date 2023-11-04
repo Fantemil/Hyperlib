@@ -1,0 +1,2 @@
+
+addscript(14943060074, "Current Game","auto obby", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20obby428.lua", "https://scriptblox.com/script/Apple's-Difficulty-Chart-Obby!-auto-obby-8375")

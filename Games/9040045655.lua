@@ -1,0 +1,2 @@
+
+addscript(9040045655, "Current Game","infinite launch", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20launch64.lua", "https://scriptblox.com/script/Nuke-the-Noob-Simulator-infinite-launch-8962")

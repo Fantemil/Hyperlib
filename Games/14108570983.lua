@@ -1,0 +1,2 @@
+
+addscript(14108570983, "Current Game","UTROB XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTROB%20XTREME%20SCRIPT939.lua", "https://scriptblox.com/script/(Small-Update)-Undertale-The-Rush-Of-Boss-UTROB-XTREME-SCRIPT-9074")

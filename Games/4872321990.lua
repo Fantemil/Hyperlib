@@ -8,3 +8,5 @@ addscript(4872321990, "Current Game","buy pineapple seeds", "Uploaded by orbit o
                                 
 addscriptexist(4872321990, "Islands Schemtica  RRCreations", "Uploaded by BloodBath on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Islands%20Schemtica%20%20RRCreations442.lua", "https://rscripts.net/script/islands-schemtica-rrcreations-3909")
                                 
+addscriptexist(4872321990, "OP LAND SCRIPT", "Uploaded by rrcreations on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20LAND%20SCRIPT504.lua", "https://scriptblox.com/script/Islands-OP-LAND-SCRIPT-7953")
+                                

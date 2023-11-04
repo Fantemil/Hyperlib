@@ -1,0 +1,2 @@
+
+addscript(14834598561, "Current Game","Farm tokens and candy", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20tokens%20and%20candy604.lua", "https://scriptblox.com/script/Blippi's-Playground-FREE-UGC-Farm-tokens-and-candy-9160")

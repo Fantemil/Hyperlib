@@ -106,3 +106,17 @@ addscriptexist(142823291, "Symphony Hub", "Uploaded by boql on scriptblox.com", 
                                 
 addscriptexist(142823291, "Mm highlight", "Uploaded by baekobe37 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mm%20highlight784.lua", "https://scriptblox.com/script/Murder-Mystery-2-Mm-highlight-8519")
                                 
+addscriptexist(142823291, "Auto Coin", "Uploaded by Moretti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Coin521.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Coin-7811")
+                                
+addscriptexist(142823291, "Fake Roles Maker", "Uploaded by Danielgamer9799 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Roles%20Maker347.lua", "https://scriptblox.com/script/Murder-Mystery-2-Fake-Roles-Maker-7786")
+                                
+addscriptexist(142823291, "Most OP MM script", "Uploaded by Letucehead3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Most%20OP%20MM%20script899.lua", "https://scriptblox.com/script/Murder-Mystery-2-Most-OP-MM-script-7458")
+                                
+addscriptexist(142823291, "Autofarm Candy", "Uploaded by shresthasachin710 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Candy120.lua", "https://scriptblox.com/script/Murder-Mystery-2-Autofarm-Candy-8839")
+                                
+addscriptexist(142823291, "MM OP SCRIPT KEY LESS", "Uploaded by rrcreations on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20OP%20SCRIPT%20KEY%20LESS348.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-OP-SCRIPT-KEY-LESS-7848")
+                                
+addscriptexist(142823291, "Very op very good stuff open source", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20op%20very%20good%20stuff%20open%20source107.lua", "https://scriptblox.com/script/Murder-Mystery-2-Very-op-very-good-stuff-open-source-7606")
+                                
+addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quantumix%20HUB251.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Coin-Farm-7572")
+                                

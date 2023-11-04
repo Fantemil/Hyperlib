@@ -1,0 +1,2 @@
+
+addscript(14947359762, "Current Game","same as sonic", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/same%20as%20sonic138.lua", "https://scriptblox.com/script/FREE-LIMITED-Barrel-Race-same-as-sonic-8808")

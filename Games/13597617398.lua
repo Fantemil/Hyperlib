@@ -1,0 +1,2 @@
+
+addscript(13597617398, "Current Game","Infinity Items", "Uploaded by PLATINA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Items553.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Wackiness-Infinity-Items-8534")

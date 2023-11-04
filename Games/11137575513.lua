@@ -1,0 +1,2 @@
+
+addscript(11137575513, "Current Game","laziest", "Uploaded by flavorgameryt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/laziest752.lua", "https://scriptblox.com/script/The-Chosen-One-laziest-V2-7696")

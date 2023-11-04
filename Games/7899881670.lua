@@ -4,3 +4,5 @@ addscript(7899881670, "Current Game","RBW4 SCRIPT", "Uploaded by Rui_ on scriptb
                                 
 addscriptexist(7899881670, "Inf Stamina", "Uploaded by Moneyhunta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stamina527.lua", "https://scriptblox.com/script/RB-World-4-Inf-Stamina-6779")
                                 
+addscriptexist(7899881670, "Anti Crossover", "Uploaded by Moneyhunta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Crossover423.lua", "https://scriptblox.com/script/RB-World-4-Anti-Crossover-8097")
+                                

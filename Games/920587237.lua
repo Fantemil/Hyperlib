@@ -28,3 +28,9 @@ addscriptexist(920587237, "New Hub", "Uploaded by Patriot on scriptblox.com", "h
                                 
 addscriptexist(920587237, "me for some candies", "Uploaded by jicobis707 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/me%20for%20some%20candies641.lua", "https://scriptblox.com/script/Adopt-Me!-me-for-some-candies-8421")
                                 
+addscriptexist(920587237, "Auto money farm", "Uploaded by Tvguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20money%20farm549.lua", "https://scriptblox.com/script/Adopt-Me!-me-8637")
+                                
+addscriptexist(920587237, "AM Script OP FARM NEW UPDATE", "Uploaded by rrcreations on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AM%20Script%20OP%20FARM%20NEW%20UPDATE848.lua", "https://scriptblox.com/script/Adopt-Me!-AM-Script-OP-FARM-NEW-UPDATE-7909")
+                                
+addscriptexist(920587237, "Money changer", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20changer104.lua", "https://scriptblox.com/script/Adopt-Me!-Money-changer-7695")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14190910559, "Current Game","small script", "Uploaded by the_stewman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/small%20script251.lua", "https://scriptblox.com/script/Jumping-Simulator-small-script-8958")

@@ -1,0 +1,2 @@
+
+addscript(11490507743, "Current Game","utofrm Gui", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/utofrm%20Gui699.lua", "https://scriptblox.com/script/get-hit-by-a-car-simulator-utofrm-Gui-7501")

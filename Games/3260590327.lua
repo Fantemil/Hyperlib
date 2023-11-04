@@ -28,3 +28,5 @@ addscriptexist(3260590327, "starter script soldier scout denoman", "Uploaded by 
                                 
 addscriptexist(3260590327, "tds coin grind without spec", "Uploaded by yotobename on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tds%20coin%20grind%20without%20spec539.lua", "https://scriptblox.com/script/ACT-2-UGC-Tower-Defense-Simulator-tds-coin-grind-with-accel-9163")
                                 
+addscriptexist(3260590327, "AUTOFARM Militant Scout Farm", "Uploaded by Piesek_Zosia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20Militant%20Scout%20Farm52.lua", "https://scriptblox.com/script/UGCEVENT-Tower-Defense-Simulator-AUTOFARM-Militant-Scout-Farm-9233")
+                                

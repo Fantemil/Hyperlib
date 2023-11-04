@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Swelllow/My-Roblox-Scripts/main/Difficulty%20Machine.lua"))()

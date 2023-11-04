@@ -1,0 +1,2 @@
+
+addscript(14817965715, "Current Game","Gui", "Uploaded by hassinmahmood777 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui976.lua", "https://scriptblox.com/script/FREE-LIMITED-Cat-Feeding-Tycoon-script-8366")

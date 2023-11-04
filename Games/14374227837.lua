@@ -1,0 +1,2 @@
+
+addscript(14374227837, "Current Game","OP EASY UGC SOON AUTOFARM", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20EASY%20UGC%20SOON%20AUTOFARM873.lua", "https://scriptblox.com/script/UPD-Sword-Warriors-Simulator-OP-EASY-UGC-SOON-AUTOFARM-8004")

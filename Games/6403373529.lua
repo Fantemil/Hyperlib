@@ -38,3 +38,37 @@ addscriptexist(6403373529, "Script anti and Bypass", "Uploaded by Random_200df o
                                 
 addscriptexist(6403373529, "auto get ples serverhop READ DESC", "Uploaded by preizs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20get%20ples%20serverhop%20READ%20DESC657.lua", "https://scriptblox.com/script/Slap-Battles-auto-get-ples-serverhop-OP-8332")
                                 
+addscriptexist(6403373529, "auto farm s", "Uploaded by Jkalex318 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20s63.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-auto-farm-s-7877")
+                                
+addscriptexist(6403373529, "ROCKER", "Uploaded by peap0dz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROCKER467.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-ROCKER-8693")
+                                
+addscriptexist(6403373529, "adios amigo", "Uploaded by peap0dz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/adios%20amigo632.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-adios-amigo-8967")
+                                
+addscriptexist(6403373529, "Fe Give Everyone Kills Reaper", "Uploaded by Random_200df on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20Give%20Everyone%20Kills%20Reaper57.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Fe-Give-Everyone-Kills-Reaper-7779")
+                                
+addscriptexist(6403373529, "HUB THAT EXISTS", "Uploaded by DRAGONX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HUB%20THAT%20EXISTS856.lua", "https://scriptblox.com/script/Slap-Battles-HUB-THAT-EXISTS-8578")
+                                
+addscriptexist(6403373529, "OP auto candy farm", "Uploaded by baconsoupeater on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20auto%20candy%20farm701.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-OP-auto-candy-farm-8419")
+                                
+addscriptexist(6403373529, "SNOOZEEEEE", "Uploaded by peap0dz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SNOOZEEEEE525.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-SNOOZEEEEE-8693")
+                                
+addscriptexist(6403373529, "Demigod glove", "Uploaded by o0r1l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demigod%20glove793.lua", "https://scriptblox.com/script/FREE-LIMITED-Slap-Battles-Demigod-glove-8042")
+                                
+addscriptexist(6403373529, "COIL GO BRRR", "Uploaded by peap0dz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COIL%20GO%20BRRR127.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-COIL-GO-BRRR-8726")
+                                
+addscriptexist(6403373529, "just collects the candy", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/just%20collects%20the%20candy439.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-just-collects-the-candy-8437")
+                                
+addscriptexist(6403373529, "DinoUI OP", "Uploaded by Dinosaurbro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DinoUI%20OP215.lua", "https://scriptblox.com/script/Slap-Battles-OP-Script-8299")
+                                
+addscriptexist(6403373529, "autofarm candy corn", "Uploaded by alexbudn123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20candy%20corn924.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-autofarm-candy-corn-8412")
+                                
+addscriptexist(6403373529, "TABLE", "Uploaded by peap0dz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TABLE811.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-table-***-8691")
+                                
+addscriptexist(6403373529, "KykyryzoB Hub SB", "Uploaded by KykyryzoB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KykyryzoB%20Hub%20SB30.lua", "https://scriptblox.com/script/Slap-Battles-KykyryzoB-Hub-SB-9008")
+                                
+addscriptexist(6403373529, "Farm Candies", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Candies162.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Farm-Candies-8444")
+                                
+addscriptexist(6403373529, "Rhythm AutoPlayer", "Uploaded by CoconutMother9000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rhythm%20AutoPlayer117.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Rhythm-AutoPlayer-7534")
+                                
+addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Rob%20Script%20Back10.lua", "https://scriptblox.com/script/Slap-Battles-Fake-Rob-Script-7485")
+                                

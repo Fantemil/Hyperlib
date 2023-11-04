@@ -1,0 +1,2 @@
+
+addscript(7546909361, "Current Game","INSTANT LIMITED UGC", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20LIMITED%20UGC879.lua", "https://scriptblox.com/script/FREE-LIMITED-Island-Tycoon-INSTANT-LIMITED-UGC-7744")

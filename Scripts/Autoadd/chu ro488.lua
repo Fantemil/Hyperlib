@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/LeVanNhatIT/ChuRoblox/raw/main/ChuRobloxPre.lua"))()

@@ -1,0 +1,2 @@
+
+addscript(11274522895, "Current Game","sim script", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sim%20script496.lua", "https://scriptblox.com/script/FREE-UGC-Drinking-Legends!-sim-script-8365")

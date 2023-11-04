@@ -1,0 +1,2 @@
+
+addscript(10204250851, "Current Game","Script", "Uploaded by Focus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script112.lua", "https://scriptblox.com/script/CHAIN-BLOODMOON-Script-7475")

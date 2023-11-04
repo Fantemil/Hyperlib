@@ -1,0 +1,4 @@
+
+addscript(9143510574, "Current Game","infinite Best Boost", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Best%20Boost61.lua", "https://scriptblox.com/script/UPDATE-Bees-Journey-Simulator!-infinite-Instant-***-Boost-8845")
+addscriptexist(9143510574, "Remove black bear talk", "Uploaded by myhz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20black%20bear%20talk315.lua", "https://scriptblox.com/script/UPDATE-Bees-Journey-Simulator!-Remove-black-bear-talk-9044")
+                                

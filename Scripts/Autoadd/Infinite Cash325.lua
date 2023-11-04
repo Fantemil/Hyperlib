@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdminEvilDRagon/Ultimate-Factory-Tycoon/main/UFT.Lua", true))()

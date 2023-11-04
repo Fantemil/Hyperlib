@@ -1,0 +1,2 @@
+
+addscript(12888650105, "Current Game","script", "Uploaded by TangleMangle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script627.lua", "https://scriptblox.com/script/Anime-Battlegrounds-Y-script-7600")

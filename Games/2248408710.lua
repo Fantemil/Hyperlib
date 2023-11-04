@@ -8,3 +8,7 @@ addscriptexist(2248408710, "Best Destruction Simulator SCRIPT  Pickle Hub", "Upl
                                 
 addscriptexist(2248408710, "Inf money", "Uploaded by Troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money480.lua", "https://scriptblox.com/script/Destruction-Simulator-Inf-money-8766")
                                 
+addscriptexist(2248408710, "infinite cash", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20cash191.lua", "https://scriptblox.com/script/Destruction-Simulator-infinite-cash-8776")
+                                
+addscriptexist(2248408710, "Inf Money But Better", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20But%20Better690.lua", "https://scriptblox.com/script/Destruction-Simulator-Inf-Money-But-Better-7866")
+                                

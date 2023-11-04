@@ -1,0 +1,2 @@
+
+addscript(1696916806, "Current Game","Script", "Uploaded by TheLeakerOfScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script48.lua", "https://scriptblox.com/script/Base-Raiders-Script-7746")

@@ -1,0 +1,2 @@
+
+addscript(13304661214, "Current Game","Auto Attack Script", "Uploaded by StarterScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Attack%20Script952.lua", "https://scriptblox.com/script/My-Army-Simulator-Auto-Attack-Script-7858")

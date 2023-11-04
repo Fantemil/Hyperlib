@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dynamic-Hub/Free-Scripts/main/Basketball-Legends.lua"))()

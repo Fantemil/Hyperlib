@@ -4,3 +4,7 @@ addscriptexist(13924946576, "Esp Kill All ye it cool", "Uploaded by sirxrer on s
                                 
 addscriptexist(13924946576, "OP SCRIPT", "Uploaded by Possible on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT593.lua", "https://scriptblox.com/script/dingus-OP-SCRIPT-6781")
                                 
+addscriptexist(13924946576, "Overpowered gui", "Uploaded by rylen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overpowered%20gui627.lua", "https://scriptblox.com/script/dingus-NEW-MAP-Overpowered-gui-7365")
+                                
+addscriptexist(13924946576, "Automatic win", "Uploaded by Rayz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatic%20win132.lua", "https://scriptblox.com/script/dingus-Automatic-win-8848")
+                                

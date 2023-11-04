@@ -1,0 +1,2 @@
+
+addscript(14093680297, "Current Game","Script GUI", "Uploaded by 56_Clubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20GUI884.lua", "https://scriptblox.com/script/Zombie-VS-Friends-Simulator-Script-GUI-7821")

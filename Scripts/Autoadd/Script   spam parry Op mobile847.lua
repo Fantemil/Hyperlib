@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gist.githubusercontent.com/DOLLYNH0/5613928a919a1214953bfe5946e56650/raw/a79ed207382810a7f4d7ebadc1e5d24e10cc48e4/Scripts.dollynho'))();

@@ -26,3 +26,7 @@ addscriptexist(2809202155, "YBA Op Shiny Farm Script", "Uploaded by senS on rscr
                                 
 addscriptexist(2809202155, "NEW Your Bizarre Adventure Click To Teleport Script ", "Uploaded by capybara on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Your%20Bizarre%20Adventure%20Click%20To%20Teleport%20Script%20247.lua", "https://rscripts.net/script/new-your-bizarre-adventure-click-to-teleport-script-3318")
                                 
+addscriptexist(2809202155, "Full Anticheat Bypass", "Uploaded by getgc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Full%20Anticheat%20Bypass393.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-Full-Anticheat-Bypass-7562")
+                                
+addscriptexist(2809202155, "YBA Stats Viewer with multi language support", "Uploaded by Enqity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YBA%20Stats%20Viewer%20with%20multi%20language%20support28.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-YBA-Stats-Viewer-with-multi-language-support-8414")
+                                

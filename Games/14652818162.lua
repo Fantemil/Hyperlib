@@ -1,0 +1,2 @@
+
+addscript(14652818162, "Current Game","script", "Uploaded by Koth_exp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script580.lua", "https://scriptblox.com/script/KOTH-2-script-7872")

@@ -12,3 +12,5 @@ addscriptexist(893973440, "Flee The Facility REWORK Free Code", "Uploaded by Use
                                 
 addscriptexist(893973440, "FTF HAX", "Uploaded by mykee360 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FTF%20HAX225.lua", "https://scriptblox.com/script/Flee-the-Facility-HAX-6922")
                                 
+addscriptexist(893973440, "Semi Universal", "Uploaded by Blade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Semi%20Universal168.lua", "https://scriptblox.com/script/Flee-the-Facility-Semi-Universal-7452")
+                                

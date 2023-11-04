@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KishiroVR/Eat-Blobs-Simulator/main/Script"))()

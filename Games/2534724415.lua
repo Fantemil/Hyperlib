@@ -16,3 +16,7 @@ addscriptexist(2534724415, "Argon HUB ERLC", "Uploaded by Vikinglaw on scriptblo
                                 
 addscriptexist(2534724415, "Character and Vehicle fly", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Character%20and%20Vehicle%20fly889.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Character-and-Vehicle-fly-6980")
                                 
+addscriptexist(2534724415, "erlc script", "Uploaded by forg11537 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/erlc%20script400.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-erlc-script-8936")
+                                
+addscriptexist(2534724415, "Vehicle speed Multiplier", "Uploaded by yarikku05 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20speed%20Multiplier629.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Vehicle-speed-Multiplier-8310")
+                                

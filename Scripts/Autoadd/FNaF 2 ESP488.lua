@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/liigmabalz/Projetos_Lua/main/FNaF_Doom2.lua"))();

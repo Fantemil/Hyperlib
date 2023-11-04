@@ -1,0 +1,2 @@
+
+addscript(14360719220, "Current Game","Free Elusive Units Place", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Elusive%20Units%20Place367.lua", "https://scriptblox.com/script/EP-65-Bathroom-Tower-Defense-X-Free-Elusive-Units-Place-8709")

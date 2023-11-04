@@ -46,3 +46,5 @@ addscriptexist(13253735473, "Legit Pub leak", "Uploaded by ratsssstts on scriptb
                                 
 addscriptexist(13253735473, "farts pl", "Uploaded by LTUVR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farts%20pl885.lua", "https://scriptblox.com/script/Trident-Survival-V2-farts-pl-8322")
                                 
+addscriptexist(13253735473, "NIGHTMARE", "Uploaded by KnownRomanian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIGHTMARE540.lua", "https://scriptblox.com/script/Trident-Survival-V2-NIGHTMARE-7777")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Ruinins/scripts-/main/Multiple%20universal%20scripts.lua'))()

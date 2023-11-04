@@ -1,0 +1,2 @@
+
+addscript(5902977746, "Current Game","AutoFish Teleports", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFish%20Teleports520.lua", "https://scriptblox.com/script/Ultimate-Tower-Defense-AutoFish-Teleports-7761")

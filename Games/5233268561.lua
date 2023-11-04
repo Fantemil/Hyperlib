@@ -1,0 +1,2 @@
+
+addscript(5233268561, "Current Game","decent script prob gonn be ptched", "Uploaded by Wwww on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/decent%20script%20prob%20gonn%20be%20ptched153.lua", "https://scriptblox.com/script/(LIMITED-SKIN)-A-Bizarre-Journey-Bizrre-GUI-7766")

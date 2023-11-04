@@ -1,0 +1,2 @@
+
+addscript(10397784957, "Current Game","Type your word without losing life", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Type%20your%20word%20without%20losing%20life574.lua", "https://scriptblox.com/script/Can't-Say-the-Letter!-Type-your-word-without-losing-life-7644")

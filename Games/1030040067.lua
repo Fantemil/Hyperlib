@@ -1,0 +1,2 @@
+
+addscript(1030040067, "Current Game","Emote script01119", "Uploaded by muhammadplayzroblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emote%20script01119218.lua", "https://scriptblox.com/script/Favorite-The-R!-Emote-script01119-7328")

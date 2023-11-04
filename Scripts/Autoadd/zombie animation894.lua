@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rrixh/zombie/main/Z.animation_lulaslollipop",true))()

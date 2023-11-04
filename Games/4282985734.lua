@@ -42,3 +42,5 @@ addscriptexist(4282985734, "OP Combat Warriors GUIScript ZapHub", "Uploaded by Z
                                 
 addscriptexist(4282985734, "Overpowered God Mode Script For Combat Warriors", "Uploaded by Tropxz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overpowered%20God%20Mode%20Script%20For%20Combat%20Warriors528.lua", "https://rscripts.net/script/overpowered-god-mode-script-for-combat-warriors-3974")
                                 
+addscriptexist(4282985734, "Infinite Stamina", "Uploaded by eggerites on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stamina535.lua", "https://scriptblox.com/script/Combat-Warriors-Infinite-Stamina-7424")
+                                

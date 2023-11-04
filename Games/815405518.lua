@@ -4,3 +4,5 @@ addscriptexist(815405518, "The Floor Is Lava AutoWinsPoints", "Uploaded by Timsa
                                 
 addscriptexist(815405518, "The The Floor Is LAVA", "Uploaded by Appelman on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20The%20Floor%20Is%20LAVA597.lua", "https://rscripts.net/script/the-the-floor-is-lava-3225")
                                 
+addscriptexist(815405518, "instant ugc", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/instant%20ugc476.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-instant-ugc-9118")
+                                

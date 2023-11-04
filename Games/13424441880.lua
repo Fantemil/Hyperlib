@@ -1,0 +1,2 @@
+
+addscript(13424441880, "Current Game","Free Characters place", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters%20place514.lua", "https://scriptblox.com/script/FERGUS-Piggy-Tower-Defense-Free-Characters-place-7797")

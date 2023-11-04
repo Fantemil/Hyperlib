@@ -1,0 +1,2 @@
+
+addscript(7791106063, "Current Game","kill aura", "Uploaded by firstpilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20aura650.lua", "https://scriptblox.com/script/Furry-Infection-kill-aura-7869")

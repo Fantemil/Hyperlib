@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gussywussylol/JumpPower/main/1JumpEverySecond.lua"))()

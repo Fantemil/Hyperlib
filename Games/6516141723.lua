@@ -76,3 +76,7 @@ addscriptexist(6516141723, "Lolcat HUB", "Uploaded by Vikinglaw on scriptblox.co
                                 
 addscriptexist(6516141723, "Crucifix on anything", "Uploaded by kerimdadash on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crucifix%20on%20anything425.lua", "https://scriptblox.com/script/DOORS-Crucifix-on-anything-9222")
                                 
+addscriptexist(6516141723, "MS  SCRIPT", "Uploaded by servfur on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MS%20%20SCRIPT272.lua", "https://scriptblox.com/script/DOORS-MODIFIERS-MS-7691")
+                                
+addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/entity%20spawner821.lua", "https://scriptblox.com/script/DOORS-MODIFIERS-entity-spawner-8049")
+                                

@@ -1,0 +1,2 @@
+
+addscript(12978425304, "Current Game","Very Fast Craft", "Uploaded by THIS_IS_DEV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20Fast%20Craft889.lua", "https://scriptblox.com/script/UPDATE-2!-Toy-Simulator!-Very-Fast-Craft-7495")

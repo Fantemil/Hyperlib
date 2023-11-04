@@ -1,0 +1,2 @@
+
+addscript(14364445098, "Current Game","Script", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script841.lua", "https://scriptblox.com/script/DRAGON-Anime-Force-Simulator-Script-7380")

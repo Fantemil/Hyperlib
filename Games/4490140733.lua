@@ -8,3 +8,5 @@ addscript(4490140733, "Current Game","Op auto farm", "Uploaded by Xany on script
                                 
 addscriptexist(4490140733, "NEW My Restaurant  Fast Autofarm", "Uploaded by PerfectusMim on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20My%20Restaurant%20%20Fast%20Autofarm685.lua", "https://rscripts.net/script/new-my-restaurant-fast-autofarm-3653")
                                 
+addscriptexist(4490140733, "OP auto farm", "Uploaded by lykin648 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20auto%20farm992.lua", "https://scriptblox.com/script/My-Restaurant!-OP-auto-farm-8813")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pickles20/Scriptzzz/main/Lua%20Script'))()

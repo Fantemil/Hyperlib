@@ -1,4 +1,1 @@
---https://discord.gg/8gNrnWmgcb
-pcall(function()
-  loadstring(game:HttpGet("https://roflux.net/scripts/games/" .. tostring(game.PlaceId) .. ".lua"))()
-end)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wender438/Hammer-arena-script/main/Hammer%20script", true))()

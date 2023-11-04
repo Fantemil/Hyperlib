@@ -1,0 +1,2 @@
+
+addscript(11123877432, "Current Game","Op script", "Uploaded by wenderportoharuno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script969.lua", "https://scriptblox.com/script/Hammer-Arena-Op-script-9033")

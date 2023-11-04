@@ -1,0 +1,2 @@
+
+addscript(13252232738, "Current Game","Only Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Only%20Script982.lua", "https://scriptblox.com/script/MOON!-Block-Miner-Simulator-Only-Script-7356")

@@ -1,0 +1,2 @@
+
+addscript(13950003759, "Current Game","script", "Uploaded by Ruinins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script645.lua", "https://scriptblox.com/script/Difficulty-Machine-script-7622")

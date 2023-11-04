@@ -1,0 +1,2 @@
+
+addscript(7663535308, "Current Game","Infinite Ammo", "Uploaded by xet1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Ammo608.lua", "https://scriptblox.com/script/UGC-War-Age-Tycoon-Infinite-Ammo-7423")

@@ -1,0 +1,2 @@
+
+addscript(6910146292, "Current Game","XeonHub", "Uploaded by HackerMan33105 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XeonHub433.lua", "https://scriptblox.com/script/FIXED-1V1S-JoJo:-Golden-Records-XeonHub-7473")

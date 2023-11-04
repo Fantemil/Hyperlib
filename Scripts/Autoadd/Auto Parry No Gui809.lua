@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MrDemonSkrtSkrt/Blade-Ball-/main/Auto%20parry'))()

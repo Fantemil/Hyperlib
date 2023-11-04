@@ -1,0 +1,2 @@
+
+addscript(14131866367, "Current Game","Best Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script474.lua", "https://scriptblox.com/script/Deadlift-Simulator-Best-Script-7370")

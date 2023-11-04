@@ -1,0 +1,1 @@
+Loadstring:HttpGet/autoparry/main/b-e-s-t/script/alwaysbye))()

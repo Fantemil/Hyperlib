@@ -1,0 +1,2 @@
+
+addscript(14774497665, "Current Game","auto win", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20win959.lua", "https://scriptblox.com/script/FREE-LIMITED-Shailushai-Smurf-Cat-Race-Simulator-auto-win-8568")

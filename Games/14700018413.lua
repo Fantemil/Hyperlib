@@ -1,2 +1,4 @@
 
 addscript(14700018413, "Current Game","Collect All Items", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Items193.lua", "https://scriptblox.com/script/NEW-Academy-Adventures-or-The-Hunger-Games-Collect-All-Items-9226")
+addscriptexist(14700018413, "norway scoop link", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/norway%20scoop%20link378.lua", "https://scriptblox.com/script/NEW-Academy-Adventures-or-The-Hunger-Games-norway-scoop-link-9227")
+                                

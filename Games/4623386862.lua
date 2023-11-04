@@ -8,3 +8,5 @@ addscript(4623386862, "Current Game","Vynixius", "Uploaded by Vynixu on scriptbl
                                 
 addscriptexist(4623386862, "vyxunis", "Uploaded by robux7531 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/vyxunis361.lua", "https://scriptblox.com/script/Piggy-vyxunis-6878")
                                 
+addscriptexist(4623386862, "Peppa script", "Uploaded by DRAGONX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Peppa%20script141.lua", "https://scriptblox.com/script/Piggy-Peppa-script-8586")
+                                

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MrWhite1110/Decaying-Winter-Op-Script-V2/main/Decaying%20Winter%20Op%20script'))()

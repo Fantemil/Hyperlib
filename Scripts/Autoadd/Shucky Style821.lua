@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reversevisible/r2fmodding/main/shuckystyle.lua", true))()

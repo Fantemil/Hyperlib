@@ -1,0 +1,2 @@
+
+addscript(7219048194, "Current Game","MvsHubSourceCode", "Uploaded by FemboyLover on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MvsHubSourceCode150.lua", "https://scriptblox.com/script/TURKIYE-OBBY-TURKIYE-MvsHubSourceCode-7662")

@@ -1,0 +1,2 @@
+
+addscript(13541967921, "Current Game","Infinite Cash", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash325.lua", "https://scriptblox.com/script/CHEST-SALE-Ultimate-Factory-Infinite-Cash-9034")

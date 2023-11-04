@@ -1,0 +1,2 @@
+
+addscript(12625568877, "Current Game","Open Sourced", "Uploaded by Sourcive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Sourced490.lua", "https://scriptblox.com/script/Punching-Simulator-Open-Source-8672")

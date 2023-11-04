@@ -18,3 +18,5 @@ addscript(1554960397, "Current Game","script", "Uploaded by Human123 on scriptbl
                                 
 addscriptexist(1554960397, "FREE Car Dealership Tycoon Autofarm", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20Car%20Dealership%20Tycoon%20Autofarm687.lua", "https://rscripts.net/script/free-car-dealership-tycoon-autofarm-3238")
                                 
+addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/candy%20farm658.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-candy-farm-9229")
+                                

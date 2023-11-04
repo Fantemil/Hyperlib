@@ -14,3 +14,5 @@ addscriptexist(6447798030, "Auto Player Mobile", "Uploaded by yuuiz on scriptblo
                                 
 addscriptexist(6447798030, "script delta and fluxus", "Uploaded by mccormickkenny282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20delta%20and%20fluxus837.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-script-delta-and-fluxus-7093")
                                 
+addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonwaffles98 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autoplayer%20made%20by%20Bart3kk701.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-script-9154")
+                                

@@ -1,0 +1,4 @@
+
+addscript(2686500207, "Current Game","bd custom spec script", "Uploaded by nopelocking on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bd%20custom%20spec%20script389.lua", "https://scriptblox.com/script/A-Bizarre-Day-bd-custom-spec-script-7194")
+addscriptexist(2686500207, "bizzre dy custom stnd script", "Uploaded by jaden223zz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bizzre%20dy%20custom%20stnd%20script703.lua", "https://scriptblox.com/script/A-Bizarre-Day-BD-custom-stnd-script-8015")
+                                

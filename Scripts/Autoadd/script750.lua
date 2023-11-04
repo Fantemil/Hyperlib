@@ -1,1 +1,1 @@
-loadstring(game.HttpGet(game, "https://bitz.gay/roblox/scripts/BaseBattles.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zombP/zombScripts/main/Ragdoll%20Engine.lua"))()

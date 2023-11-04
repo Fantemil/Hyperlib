@@ -1,0 +1,2 @@
+
+addscript(10573955175, "Current Game","Finder", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finder75.lua", "https://scriptblox.com/script/BETA-SkibiVerse-Finder-8872")

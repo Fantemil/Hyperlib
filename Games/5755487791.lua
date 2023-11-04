@@ -1,0 +1,4 @@
+
+addscript(5755487791, "Current Game","Get INF Coins And Tp To End", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20INF%20Coins%20And%20Tp%20To%20End668.lua", "https://scriptblox.com/script/Tower-of-Easy-Get-INF-Coins-And-Tp-To-End-7768")
+addscriptexist(5755487791, "INF COINS", "Uploaded by Shadowwolves91617 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20COINS561.lua", "https://scriptblox.com/script/Tower-of-Easy-INF-COINS-7717")
+                                

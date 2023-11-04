@@ -1,0 +1,2 @@
+
+addscript(6305942109, "Current Game","Full autofarm", "Uploaded by rylen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Full%20autofarm427.lua", "https://scriptblox.com/script/Laundry-Simulator-Full-autofarm-7373")

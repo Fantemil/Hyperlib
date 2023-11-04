@@ -4,3 +4,5 @@ addscript(3177438863, "Current Game","op scirpt NEW", "Uploaded by amcoolguy on 
                                 
     addscriptexist(3177438863, "Best Auto Farm", "Uploaded by caganhuseyinerdil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm577.lua", "https://scriptblox.com/script/NEW-SKILLS!-Dragon-Blox-Best-Auto-Farm-4427")
                                 
+addscriptexist(3177438863, "OP Updated and fixed", "Uploaded by Aidanman14 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Updated%20and%20fixed806.lua", "https://scriptblox.com/script/New-Codes!-Dragon-Blox-OP-Updated-and-fixed-7853")
+                                

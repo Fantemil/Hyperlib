@@ -1,0 +1,2 @@
+
+addscript(14494334042, "Current Game","Ln Hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20Hub168.lua", "https://scriptblox.com/script/Fat-Race-Ln-Hub-8220")

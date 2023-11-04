@@ -4,3 +4,5 @@ addscriptexist(2210085102, "Naval Warfare Gui Teleports Auto Win Inf Ammo", "Upl
                                 
 addscriptexist(2210085102, "Naval Warfare Hub", "Uploaded by hussain on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naval%20Warfare%20Hub950.lua", "https://rscripts.net/script/naval-warfare-hub-3117")
                                 
+addscriptexist(2210085102, "GUI supports mobile", "Uploaded by Professional on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20supports%20mobile733.lua", "https://scriptblox.com/script/Naval-Warfare-GUI-supports-mobile-7273")
+                                

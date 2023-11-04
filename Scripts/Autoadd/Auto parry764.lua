@@ -1,0 +1,1 @@
+https://nicuse.xyz/getkey

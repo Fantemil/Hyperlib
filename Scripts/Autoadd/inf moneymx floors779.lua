@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Faizrek/Skydive-Off-A-Tower-/main/Skydive%20Off%20A%20Tower"))()

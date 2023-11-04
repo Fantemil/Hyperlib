@@ -1,0 +1,2 @@
+
+addscript(14277928233, "Current Game","Remove Laser n Buy Button and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20Laser%20n%20Buy%20Button%20and%20more934.lua", "https://scriptblox.com/script/FLOOR-3-Skibidi-Toilet-Tycoon-Remove-Laser-n-Buy-Button-and-more-7427")

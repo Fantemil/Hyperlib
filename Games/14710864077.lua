@@ -1,0 +1,2 @@
+
+addscript(14710864077, "Current Game","Unlock all gadgets except gamepass", "Uploaded by zon883 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20all%20gadgets%20except%20gamepass680.lua", "https://scriptblox.com/script/UPDATE-EP65!-Ultimate-Bathroom-Battle-Unlock-all-gadgets-except-gamepass-8569")

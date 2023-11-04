@@ -8,3 +8,5 @@ addscriptexist(13681795330, "Missile AUTO FARM", "Uploaded by Kargoligach on scr
                                 
 addscriptexist(13681795330, "InfinityWare", "Uploaded by Visionary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfinityWare894.lua", "https://scriptblox.com/script/PUSH-SIMULATOR-InfinityWare-6997")
                                 
+addscriptexist(13681795330, "Fast UGC", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20UGC274.lua", "https://scriptblox.com/script/FREE-UGC-PUSH-SIMULATOR-Fast-UGC-7279")
+                                

@@ -1,0 +1,2 @@
+
+addscript(9423333540, "Current Game","Stage Slider with Skip Stage and more", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stage%20Slider%20with%20Skip%20Stage%20and%20more339.lua", "https://scriptblox.com/script/RETRO-175+-Stages-Obby-Stage-Slider-with-Skip-Stage-and-more-7583")

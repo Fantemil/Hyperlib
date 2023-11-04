@@ -1,0 +1,2 @@
+
+addscript(14108188379, "Current Game","Infinite Free Spins n Rebirth and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Free%20Spins%20n%20Rebirth%20and%20more377.lua", "https://scriptblox.com/script/Easy-Pet-Obby-Infinite-Free-Spins-n-Rebirth-and-more-7600")

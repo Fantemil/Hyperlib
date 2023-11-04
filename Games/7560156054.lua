@@ -10,3 +10,5 @@ addscript(7560156054, "Current Game","OP Script", "Uploaded by Reddy on scriptbl
                                 
     addscriptexist(7560156054, "G00d Auto Farm ", "Uploaded by Cammy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G00d%20Auto%20Farm%20811.lua", "https://scriptblox.com/script/UPD4-Clicker-Simulator!-OP-Script-Yes-6284")
                                 
+addscriptexist(7560156054, "Script n4", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n4229.lua", "https://scriptblox.com/script/SPRING-EGG-Clicker-Simulator-Auto-Click-8144")
+                                

@@ -46,3 +46,5 @@ addscriptexist(5956785391, "Project Slayers Script Free And Paid", "Uploaded by 
                                 
 addscriptexist(5956785391, "Skeered Slayer", "Uploaded by SUMMER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skeered%20Slayer403.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Skeered-Slayer-7041")
                                 
+addscriptexist(5956785391, "Lazy HUB", "Uploaded by nazyunioni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazy%20HUB351.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Lazy-HUB-7529")
+                                

@@ -1,0 +1,2 @@
+
+addscript(10042772221, "Current Game","fans whant   script", "Uploaded by magribeepni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fans%20whant%20%20%20script665.lua", "https://scriptblox.com/script/Lumber-Unsecure-fans-whant-script-8203")

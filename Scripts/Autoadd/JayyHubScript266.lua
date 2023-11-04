@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reed192512/KeySystem/main/KeySystem.txt", true))()

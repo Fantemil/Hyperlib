@@ -16,3 +16,13 @@ addscriptexist(4483381587, "Lyrics Bot  Let People Request Songs", "Uploaded by 
                                 
 addscriptexist(4483381587, "Distic Hub  Mobile Script Hub", "Uploaded by Bebedi on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Distic%20Hub%20%20Mobile%20Script%20Hub617.lua", "https://rscripts.net/script/distic-hub-mobile-script-hub-2991")
                                 
+addscriptexist(4483381587, "Orbit Ht", "Uploaded by aim010973 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orbit%20Ht684.lua", "https://scriptblox.com/script/a-literal-baseplate.-Ht-Orbit-7870")
+                                
+addscriptexist(4483381587, "rcd thing2", "Uploaded by nicn1202ff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rcd%20thing2712.lua", "https://scriptblox.com/script/a-literal-baseplate.-rcd-thing2-9085")
+                                
+addscriptexist(4483381587, "rcd rennimte with dnce", "Uploaded by nicn1202ff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rcd%20rennimte%20with%20dnce492.lua", "https://scriptblox.com/script/a-literal-baseplate.-rcd-rennimte-with-dnce-9060")
+                                
+addscriptexist(4483381587, "genesis fe dnce", "Uploaded by nicn1202ff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/genesis%20fe%20dnce32.lua", "https://scriptblox.com/script/a-literal-baseplate.-genesis-fe-dnce-9048")
+                                
+addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rcd%20renimte%20with%20ex888.lua", "https://scriptblox.com/script/a-literal-baseplate.-rcd-renimte-with-ex-9068")
+                                

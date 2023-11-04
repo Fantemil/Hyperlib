@@ -1,0 +1,2 @@
+
+addscript(13358463560, "Current Game","Kali Hub", "Uploaded by kylndantas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kali%20Hub30.lua", "https://scriptblox.com/script/PAID-ACCESS-Asura-Kali-Hub-7551")

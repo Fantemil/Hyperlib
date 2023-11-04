@@ -6,3 +6,9 @@ addscriptexist(11063612131, "Every Second You Get 1 Jump Power AUTO FARM  AUTO R
                                 
 addscriptexist(11063612131, "Ln hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub423.lua", "https://scriptblox.com/script/FREE-LIMITED-Every-Second-You-Get-+1-Jump-Power-Ln-hub-7584")
                                 
+addscriptexist(11063612131, "TooColdHub", "Uploaded by marcusbored on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TooColdHub233.lua", "https://scriptblox.com/script/Every-Second-You-Get-+1-Jump-Power-TooColdHub-7903")
+                                
+addscriptexist(11063612131, "Insane wins autofarm and more", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20wins%20autofarm%20and%20more509.lua", "https://scriptblox.com/script/FREE-LIMITED-Every-Second-You-Get-+1-Jump-Power-Insane-wins-autofarm-and-more-7558")
+                                
+addscriptexist(11063612131, "Script Gui", "Uploaded by TrayTray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Gui9.lua", "https://scriptblox.com/script/FREE-LIMITED-Every-Second-You-Get-+1-Jump-Power-Script-Gui-7569")
+                                

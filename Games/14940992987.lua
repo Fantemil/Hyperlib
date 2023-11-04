@@ -1,0 +1,2 @@
+
+addscript(14940992987, "Current Game","Candy Farm", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Farm601.lua", "https://scriptblox.com/script/Trick-or-Treat-Candy-Farm-9224")

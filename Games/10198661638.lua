@@ -8,3 +8,5 @@ addscript(10198661638, "Current Game","infinite money And Auto Obby", "Uploaded 
                                 
     addscriptexist(10198661638, "Auto Farm", "Uploaded by Sina_GamerGG on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm981.lua", "https://scriptblox.com/script/Farm-Factory-Tycoon-Auto-Farm-5839")
                                 
+addscriptexist(10198661638, "Best GUI", "Uploaded by AceScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20GUI56.lua", "https://scriptblox.com/script/FREE-UGC-Farm-Factory-Tycoon-Best-GUI-8236")
+                                

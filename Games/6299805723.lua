@@ -34,3 +34,7 @@ addscriptexist(6299805723, "Hub with many Autofarm scripts", "Uploaded by Nilike
                                 
 addscriptexist(6299805723, "dupe script join my discord in comments for more 3", "Uploaded by taimhamade2233 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dupe%20script%20join%20my%20discord%20in%20comments%20for%20more%203420.lua", "https://scriptblox.com/script/CODE-+-x5-Event-Anime-Fighters-Simulator-dupe-script-7111")
                                 
+addscriptexist(6299805723, "Dupe Item", "Uploaded by AnSit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20Item427.lua", "https://scriptblox.com/script/UPD-43-+-x5-Anime-Fighters-Simulator-Dupe-Item-7787")
+                                
+addscriptexist(6299805723, "Banana hub cracked", "Uploaded by FoilWithFood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banana%20hub%20cracked953.lua", "https://scriptblox.com/script/UPD-41-+-x5-Anime-Fighters-Simulator-Banana-hub-cracked-7274")
+                                

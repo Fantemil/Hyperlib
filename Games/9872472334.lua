@@ -38,3 +38,11 @@ addscriptexist(9872472334, "Auto Farm Cash Afk Farm Speed", "Uploaded by Patriot
                                 
 addscriptexist(9872472334, "New Script for the Popular Game", "Uploaded by scripttool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20for%20the%20Popular%20Game989.lua", "https://scriptblox.com/script/Evade-New-Script-for-the-Popular-Game-7059")
                                 
+addscriptexist(9872472334, "Esp Auto Respawn Speed", "Uploaded by Niliker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20Auto%20Respawn%20Speed775.lua", "https://scriptblox.com/script/Evade-Esp-Auto-Respawn-Speed-8161")
+                                
+addscriptexist(9872472334, "Op  script", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20script959.lua", "https://scriptblox.com/script/Evade-Op-script-7308")
+                                
+addscriptexist(9872472334, "pearl hub", "Uploaded by adhikalaks2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pearl%20hub760.lua", "https://scriptblox.com/script/Evade-pearl-hub-7211")
+                                
+addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D8rk%20Hub%20%20Version%2010848.lua", "https://scriptblox.com/script/Evade-D8rk-Hub-7202")
+                                

@@ -78,3 +78,7 @@ addscriptexist(537413528, "Bot 2023 OP Script  Best", "Uploaded by slade_yt on s
                                 
 addscriptexist(537413528, "B  B F T", "Uploaded by Zolars_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/B%20%20B%20F%20T720.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-bot-8517")
                                 
+addscriptexist(537413528, "Ruby Hub", "Uploaded by Deni210 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ruby%20Hub815.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Ruby-Hub-8338")
+                                
+addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cndy%20Frm%20Open%20Source737.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Cndy-Frm-9012")
+                                

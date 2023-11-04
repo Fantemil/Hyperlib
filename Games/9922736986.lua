@@ -1,0 +1,2 @@
+
+addscript(9922736986, "Current Game","inf coins", "Uploaded by rexipgood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20coins752.lua", "https://scriptblox.com/script/Hoverboard-Simulator-Inf-gems-inf-coins-7740")

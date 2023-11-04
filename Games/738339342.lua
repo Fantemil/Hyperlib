@@ -10,3 +10,11 @@ addscript(738339342, "Current Game","kind of anticheat bypass", "Uploaded by dot
                                 
 addscriptexist(738339342, "Dothub", "Uploaded by aoiloi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dothub152.lua", "https://scriptblox.com/script/Shroomhaven-and-Caverns!-Flood-Escape-2-Dot-7012")
                                 
+addscriptexist(738339342, "multi scripts", "Uploaded by Ruinins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/multi%20scripts228.lua", "https://scriptblox.com/script/ANNIVERSARY!-Flood-Escape-2-multi-scripts-7589")
+                                
+addscriptexist(738339342, "admin", "Uploaded by Ruinins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin251.lua", "https://scriptblox.com/script/Cursed-Jungle-and-Shrine!-Flood-Escape-2-fe-admin-7501")
+                                
+addscriptexist(738339342, "GUI V3 remake", "Uploaded by Ruinins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20V3%20remake284.lua", "https://scriptblox.com/script/Cursed-Jungle-and-Shrine!-Flood-Escape-2-hub-remake-7496")
+                                
+addscriptexist(738339342, "fe gui v3", "Uploaded by antoniotemjordan877 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20gui%20v3244.lua", "https://scriptblox.com/script/ANNIVERSARY!-Flood-Escape-2-fe-gui-v3-8378")
+                                

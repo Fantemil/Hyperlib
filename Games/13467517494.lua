@@ -1,0 +1,2 @@
+
+addscript(13467517494, "Current Game","auto win", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20win193.lua", "https://scriptblox.com/script/x2-FREE-UGCs-Sonic-Race-auto-win-8382")

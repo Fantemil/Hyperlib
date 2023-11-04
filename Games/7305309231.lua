@@ -18,3 +18,5 @@ addscriptexist(7305309231, "new event farm", "Uploaded by Another_User on script
                                 
 addscriptexist(7305309231, "Infinite Money", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money41.lua", "https://scriptblox.com/script/Taxi-Boss-EVENT-Infinite-Money-8707")
                                 
+addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taboss859.lua", "https://scriptblox.com/script/Taxi-Boss2x-Taboss-7213")
+                                

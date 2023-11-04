@@ -10,3 +10,7 @@ addscriptexist(13822889, "Lumber Tycoon 2 Script  Dazed X", "Uploaded by CazedAn
                                 
 addscriptexist(13822889, "MoonShine  Lumber Tycoon 2", "Uploaded by voie on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MoonShine%20%20Lumber%20Tycoon%202963.lua", "https://rscripts.net/script/moonshine-lumber-tycoon-2-3034")
                                 
+addscriptexist(13822889, "idk name", "Uploaded by doshirak528 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/idk%20name713.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-idk-name-7221")
+                                
+addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ButterHub729.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-ButterHub-8098")
+                                

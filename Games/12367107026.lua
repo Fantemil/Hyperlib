@@ -1,0 +1,2 @@
+
+addscript(12367107026, "Current Game","Op", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op320.lua", "https://scriptblox.com/script/Punch-a-Toilet-Op-8634")

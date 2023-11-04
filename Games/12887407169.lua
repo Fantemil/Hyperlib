@@ -1,0 +1,2 @@
+
+addscript(12887407169, "Current Game","unlock most", "Uploaded by catt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlock%20most229.lua", "https://scriptblox.com/script/MOURS-unlock-most-7602")
