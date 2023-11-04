@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.6footscripts.com/Scripts/A0nePieceGame"))()

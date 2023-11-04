@@ -14,3 +14,7 @@ addscriptexist(7305309231, "COCONUT EVENT Taxi Boss ", "Uploaded by I647dfb79c94
                                 
 addscriptexist(7305309231, "FREE Taxi Boss Autofarm  More", "Uploaded by Byte on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20Taxi%20Boss%20Autofarm%20%20More753.lua", "https://rscripts.net/script/free-taxi-boss-autofarm-more-3240")
                                 
+addscriptexist(7305309231, "new event farm", "Uploaded by Another_User on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/new%20event%20farm738.lua", "https://scriptblox.com/script/Taxi-Boss-EVENT-new-event-farm-8621")
+                                
+addscriptexist(7305309231, "Infinite Money", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money41.lua", "https://scriptblox.com/script/Taxi-Boss-EVENT-Infinite-Money-8707")
+                                

@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(('https://raw.githubusercontent.com/XTheMasterX/Scripts/Main/EraOfAlthea'),true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Christolius/Roblox/main/CIscript.lua"),true)()

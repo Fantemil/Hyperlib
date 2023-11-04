@@ -1,0 +1,2 @@
+
+addscript(13998660653, "Current Game","Unlock Morphs n Stage Slider and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Morphs%20n%20Stage%20Slider%20and%20more739.lua", "https://scriptblox.com/script/TEAM-DENTIST-ESCAPE!-(TEAMWORK-OBBY)-Unlock-Morphs-n-Stage-Slider-and-more-7378")

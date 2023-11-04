@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ruinins/scripts-/main/Tp%20Tool.lua"))()

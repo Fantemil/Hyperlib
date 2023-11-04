@@ -1,0 +1,2 @@
+
+addscript(6680630727, "Current Game","DHAT lock op", "Uploaded by jaden223zz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DHAT%20lock%20op121.lua", "https://scriptblox.com/script/BIG-UPD-Da-Hood-Aim-Trainer-DHAT-lock-op-8024")

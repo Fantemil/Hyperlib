@@ -1,0 +1,2 @@
+
+addscript(13987158269, "Current Game","SUPER OP CASH DUPE AND MORE", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPER%20OP%20CASH%20DUPE%20AND%20MORE452.lua", "https://scriptblox.com/script/1percent-Win-This-Obby-SUPER-OP-CASH-DUPE-AND-MORE-7771")

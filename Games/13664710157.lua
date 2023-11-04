@@ -1,0 +1,2 @@
+
+addscript(13664710157, "Current Game","farm wins", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farm%20wins548.lua", "https://scriptblox.com/script/FREE-LIMITED-CAPYBARA-Race-Simulator!-farm-wins-8468")

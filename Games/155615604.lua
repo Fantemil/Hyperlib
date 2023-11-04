@@ -68,3 +68,11 @@ addscriptexist(155615604, "Juanko   admin hub script", "Uploaded by ecarevskiy o
                                 
 addscriptexist(155615604, "Server Crasher Remington 870 Required", "Uploaded by plazagaming93 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Crasher%20Remington%20870%20Required994.lua", "https://scriptblox.com/script/Prison-Life-Server-Crasher-7103")
                                 
+addscriptexist(155615604, "Earrape", "Uploaded by 07734 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Earrape629.lua", "https://scriptblox.com/script/Prison-Life-Earrape-7968")
+                                
+addscriptexist(155615604, "Breaker Hub LATEST", "Uploaded by supiamsv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaker%20Hub%20LATEST369.lua", "https://scriptblox.com/script/Prison-Life-Breaker-Hub-7646")
+                                
+addscriptexist(155615604, "Delete Trees", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20Trees498.lua", "https://scriptblox.com/script/Prison-Life-Delete-Trees-7977")
+                                
+addscriptexist(155615604, "Version", "Uploaded by Im_dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Version902.lua", "https://scriptblox.com/script/Prison-Life-Version-7364")
+                                

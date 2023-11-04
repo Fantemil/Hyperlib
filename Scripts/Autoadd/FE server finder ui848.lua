@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://rawscripts.net/raw/Server-Browser_80'))()

@@ -10,3 +10,7 @@ addscript(7655745946, "Current Game","mxkxkks dodo gui source", "Uploaded by Xan
                                 
 addscriptexist(7655745946, "Dunking Simulator Script", "Uploaded by Jumble on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dunking%20Simulator%20Script338.lua", "https://rscripts.net/script/dunking-simulator-script-3777")
                                 
+addscriptexist(7655745946, "Infinite spins", "Uploaded by XFuscator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20spins842.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-Infinite-spins-8225")
+                                
+addscriptexist(7655745946, "OP RiyazHub", "Uploaded by Riyaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20RiyazHub542.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-RiyazHub-8997")
+                                

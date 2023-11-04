@@ -74,3 +74,7 @@ addscriptexist(537413528, "Build A Boat For Treasure Auto Farm Speed Jump Auto G
                                 
 addscriptexist(537413528, "Neverlose Frm", "Uploaded by Mana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neverlose%20Frm530.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Neverlose-Bot-With-Lus-7023")
                                 
+addscriptexist(537413528, "Bot 2023 OP Script  Best", "Uploaded by slade_yt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%202023%20OP%20Script%20%20Best391.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Bot-2023-OP-Script-Best-8763")
+                                
+addscriptexist(537413528, "B  B F T", "Uploaded by Zolars_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/B%20%20B%20F%20T720.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-bot-8517")
+                                

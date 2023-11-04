@@ -1,0 +1,1 @@
+pcall(function()loadstring(game:HttpGet("https://raw.githubusercontent.com/FastVoider/ValkyrieHub/main/ValkyrieHubBladeBallLegitMobile.lua?k={os.clock()}"))()end)

@@ -1,0 +1,2 @@
+
+addscript(14604625387, "Current Game","Collect Everything", "Uploaded by Odrexyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Everything197.lua", "https://scriptblox.com/script/ACS-Release-Countdown-Collect-Everything-7907")

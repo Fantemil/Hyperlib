@@ -14,3 +14,5 @@ addscriptexist(6678877691, "ZO SAMURAI  Killaura", "Uploaded by weiny on rscript
                                 
 addscriptexist(6678877691, "ZO DUPEROLLBACK PAID SCRIPT", "Uploaded by snnwer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZO%20DUPEROLLBACK%20PAID%20SCRIPT514.lua", "https://rscripts.net/script/zo-duperollback-paid-script-4242")
                                 
+addscriptexist(6678877691, "ZQ Samur4i Paid Cracked", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZQ%20Samur4i%20Paid%20Cracked725.lua", "https://scriptblox.com/script/PvE-ZO-SAMURAI-ZQ-Samur4i-Paid-Cracked-7910")
+                                

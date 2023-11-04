@@ -74,3 +74,5 @@ addscriptexist(6516141723, "DOORS Fullbright Instant Interact  More", "Uploaded 
                                 
 addscriptexist(6516141723, "Lolcat HUB", "Uploaded by Vikinglaw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lolcat%20HUB695.lua", "https://scriptblox.com/script/DOORS-Lolcat-HUB-6890")
                                 
+addscriptexist(6516141723, "Crucifix on anything", "Uploaded by kerimdadash on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crucifix%20on%20anything425.lua", "https://scriptblox.com/script/DOORS-Crucifix-on-anything-9222")
+                                

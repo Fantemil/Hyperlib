@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ruinins/scripts-/main/motion%20blur.lua"))()

@@ -1,0 +1,2 @@
+
+addscript(10549069562, "Current Game","Best Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script38.lua", "https://scriptblox.com/script/NEW-MAP-Weapon-Crafting-Simulator-Best-Script-8059")

@@ -58,3 +58,7 @@ addscriptexist(1224212277, "RubyHub X ProBaconHub BETA V3", "Uploaded by aymarko
                                 
 addscriptexist(1224212277, "ProBacon X RubyHub GUI", "Uploaded by SonixProYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBacon%20X%20RubyHub%20GUI188.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-ProBacon-X-RubyHub-GUI-6906")
                                 
+addscriptexist(1224212277, "Autorob Small Stores", "Uploaded by aymarko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autorob%20Small%20Stores494.lua", "https://scriptblox.com/script/Mad-City:-Ch.2-First-Person!!-Autorob-Small-Stores-7778")
+                                
+addscriptexist(1224212277, "City 2 Script UberaX FIX", "Uploaded by UBERAX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%202%20Script%20UberaX%20FIX445.lua", "https://scriptblox.com/script/Mad-City:-Ch.2-CITY-2-FIX-UBERAX-SCRPIT-8396")
+                                

@@ -1,0 +1,2 @@
+
+addscript(11883610532, "Current Game","FD Script", "Uploaded by flownexploitss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FD%20Script93.lua", "https://scriptblox.com/script/NEW-PACK-FiveDuels-FD-Script-7986")

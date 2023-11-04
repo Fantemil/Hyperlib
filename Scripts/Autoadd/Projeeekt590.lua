@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfinityMercury/Scripts/main/ProjectPolaro/Main/loader.lua",true))()

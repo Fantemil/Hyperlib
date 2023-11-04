@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").VipWeapons.ItemRemotes.p1:FireServer()

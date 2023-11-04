@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/awdtheman10/Dinosaurbrohub/main/Dinosaurbrohub',true))()

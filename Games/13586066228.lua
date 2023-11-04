@@ -1,0 +1,2 @@
+
+addscript(13586066228, "Current Game","Free Characters", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters819.lua", "https://scriptblox.com/script/Survival-Skibid-Toilet-in-Area-51!-Free-Characters-8850")

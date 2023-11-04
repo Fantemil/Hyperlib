@@ -1,0 +1,2 @@
+
+addscript(6238411952, "Current Game","Kill All", "Uploaded by kr4sk_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All173.lua", "https://scriptblox.com/script/KAT-Modded-XMAS-UPDATE!-Kill-All-8161")

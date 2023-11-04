@@ -1,0 +1,2 @@
+
+addscript(13604183005, "Current Game","UTSAMB XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTSAMB%20XTREME%20SCRIPT383.lua", "https://scriptblox.com/script/(Big-Update)-UnderTale-Sans-Au-Multiversal-Battles-UTSMB-XTREME-SCRIPT-8871")

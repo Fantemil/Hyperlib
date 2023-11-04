@@ -10,3 +10,7 @@ addscriptexist(6708206173, "Trivia Bot For Rate My Avatar", "Uploaded by vauz on
                                 
 addscriptexist(6708206173, "Chatto Bypasso", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chatto%20Bypasso515.lua", "https://scriptblox.com/script/Rate-My-Avatar-Chatto-Bypasso-7161")
                                 
+addscriptexist(6708206173, "Goddo moddo", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goddo%20moddo409.lua", "https://scriptblox.com/script/Rate-My-Avatar-Goddo-moddo-7466")
+                                
+addscriptexist(6708206173, "Citizen secret service leak panel OP", "Uploaded by wevow92495 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Citizen%20secret%20service%20leak%20panel%20OP185.lua", "https://scriptblox.com/script/Rate-My-Avatar-Citizen-secret-service-leak-panel-OP-8747")
+                                

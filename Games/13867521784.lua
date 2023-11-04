@@ -1,0 +1,2 @@
+
+addscript(13867521784, "Current Game","Lift Hub", "Uploaded by tedyadi57 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lift%20Hub1000.lua", "https://scriptblox.com/script/Ultimate-Lifter-Lift-Hub-8664")

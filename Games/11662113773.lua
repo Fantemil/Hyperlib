@@ -1,0 +1,2 @@
+
+addscript(11662113773, "Current Game","STC XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STC%20XTREME%20SCRIPT382.lua", "https://scriptblox.com/script/NEW-BOSS-+-HEAVEN-Sans-Tycoons-of-Chaos-STC-XTREME-SCRIPT-8867")

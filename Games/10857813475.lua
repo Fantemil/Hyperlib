@@ -1,0 +1,4 @@
+
+addscript(10857813475, "Current Game","Autofarm for Ez UGC", "Uploaded by soldadodeelite4001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20for%20Ez%20UGC596.lua", "https://scriptblox.com/script/FREE-UGC-Strong-Muscle-Simulator-Autofarm-for-Ez-UGC-8061")
+addscriptexist(10857813475, "Ln Hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20Hub369.lua", "https://scriptblox.com/script/FREE-UGC-Strong-Muscle-Simulator-X-Ln-Hub-7848")
+                                

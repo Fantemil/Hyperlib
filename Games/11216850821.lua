@@ -1,0 +1,2 @@
+
+addscript(11216850821, "Current Game","Kill all", "Uploaded by relevant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20all301.lua", "https://scriptblox.com/script/Ragdoll-and-Throw-People-Simulator-Kill-all-7472")

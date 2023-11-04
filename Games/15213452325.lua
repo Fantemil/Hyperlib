@@ -1,0 +1,2 @@
+
+addscript(15213452325, "Current Game","auto farms", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farms609.lua", "https://scriptblox.com/script/FREE-UGC!-Pumpkin-Merge-Simulator-auto-farms-9242")

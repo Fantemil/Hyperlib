@@ -1,0 +1,2 @@
+
+addscript(10530785380, "Current Game","kinda good", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kinda%20good917.lua", "https://scriptblox.com/script/FREE-UGC-Food-Fight-kinda-good-8408")

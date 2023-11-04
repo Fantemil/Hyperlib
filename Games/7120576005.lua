@@ -1,0 +1,2 @@
+
+addscript(7120576005, "Current Game","Skip Stage with Level Farm and Anti KiIll", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20Stage%20with%20Level%20Farm%20and%20Anti%20KiIll100.lua", "https://scriptblox.com/script/Stack-Ball-Skip-Stage-with-Level-Farm-and-Anti-KiIll-7389")

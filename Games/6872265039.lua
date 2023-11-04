@@ -80,3 +80,5 @@ addscriptexist(6872265039, "Simple Client", "Uploaded by johnrobinson2297 on scr
                                 
 addscriptexist(6872265039, "Franware Private paid", "Uploaded by frannyms2012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Franware%20Private%20paid275.lua", "https://scriptblox.com/script/BedWars-SEASON-3!-Franware-Private-5893")
                                 
+addscriptexist(6872265039, "good script", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20script747.lua", "https://scriptblox.com/script/BedWars-FIRE-SPREAD!-good-script-8365")
+                                

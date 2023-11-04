@@ -1,0 +1,2 @@
+
+addscript(13891637445, "Current Game","simple script", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20script305.lua", "https://scriptblox.com/script/FREE-LIMITED-Lucky-Block-Legends!-simple-script-8505")

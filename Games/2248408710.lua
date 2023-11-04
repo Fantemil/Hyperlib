@@ -6,3 +6,5 @@ addscript(2248408710, "Current Game","Inf Money GUI", "Uploaded by Miya_AtsumuXD
                                 
 addscriptexist(2248408710, "Best Destruction Simulator SCRIPT  Pickle Hub", "Uploaded by 5picklebarry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Destruction%20Simulator%20SCRIPT%20%20Pickle%20Hub949.lua", "https://rscripts.net/script/best-destruction-simulator-script-pickle-hub-3687")
                                 
+addscriptexist(2248408710, "Inf money", "Uploaded by Troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money480.lua", "https://scriptblox.com/script/Destruction-Simulator-Inf-money-8766")
+                                

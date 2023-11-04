@@ -1,0 +1,2 @@
+
+addscript(7849447103, "Current Game","1M Event Update and more", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1M%20Event%20Update%20and%20more299.lua", "https://scriptblox.com/script/1M-Tap-Simulator-X-1M-Event-Update-and-more-7850")

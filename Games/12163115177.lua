@@ -1,0 +1,2 @@
+
+addscript(12163115177, "Current Game","Auto Farm Auto Open Chest Auto Upgrade Local Player and More", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Open%20Chest%20Auto%20Upgrade%20Local%20Player%20and%20More449.lua", "https://scriptblox.com/script/Warriors-Army-Simulator-2-Auto-Farm-Auto-Open-Chest-Auto-Upgrade-Local-Player-and-More-8758")

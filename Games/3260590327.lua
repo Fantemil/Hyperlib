@@ -24,3 +24,7 @@ addscript(3260590327, "Current Game","Starter sniper and scout auto strategy 140
                                 
     addscriptexist(3260590327, "GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI564.lua", "https://scriptblox.com/script/Tower-Defense-Simulator-GUI-5562")
                                 
+addscriptexist(3260590327, "starter script soldier scout denoman", "Uploaded by Piesek_Zosia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starter%20script%20soldier%20scout%20denoman846.lua", "https://scriptblox.com/script/UGCEVENT-Tower-Defense-Simulator-starter-script-soldier-scout-denoman-9209")
+                                
+addscriptexist(3260590327, "tds coin grind without spec", "Uploaded by yotobename on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tds%20coin%20grind%20without%20spec539.lua", "https://scriptblox.com/script/ACT-2-UGC-Tower-Defense-Simulator-tds-coin-grind-with-accel-9163")
+                                

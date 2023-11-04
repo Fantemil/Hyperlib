@@ -1,0 +1,2 @@
+
+addscript(14819274129, "Current Game","gud farms ig", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gud%20farms%20ig912.lua", "https://scriptblox.com/script/UPD-1.5-+-2x-Noob-Slayer-Simulator-gud-farms-ig-9073")

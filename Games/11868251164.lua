@@ -1,0 +1,2 @@
+
+addscript(11868251164, "Current Game","Inf money permnt", "Uploaded by elijahcurtis455 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money%20permnt928.lua", "https://scriptblox.com/script/SKYDIVE-Off-A-TOWER!-Inf-money-permnt-7375")

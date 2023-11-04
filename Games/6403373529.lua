@@ -26,3 +26,15 @@ addscript(6403373529, "Current Game","OP AUTOFARM NEW UNDETECTED", "Uploaded by 
                                 
 addscriptexist(6403373529, "Player AutoFarm", "Uploaded by Flames on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Player%20AutoFarm44.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Player-AutoFarm-7005")
                                 
+addscriptexist(6403373529, "HALLOW JACKOLANTERN", "Uploaded by peap0dz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HALLOW%20JACKOLANTERN177.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-HALLOW-JACKOLANTERN-8692")
+                                
+addscriptexist(6403373529, "autofarm candy", "Uploaded by TangleMangle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20candy508.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-autofarm-candy-8433")
+                                
+addscriptexist(6403373529, "Free Agility", "Uploaded by Random_200df on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Agility287.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Free-Agility-7863")
+                                
+addscriptexist(6403373529, "auto player for Rhythm", "Uploaded by Unseen8881 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20player%20for%20Rhythm60.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-auto-player-for-a-glove-8728")
+                                
+addscriptexist(6403373529, "Script anti and Bypass", "Uploaded by Random_200df on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20anti%20and%20Bypass601.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Script-anti-and-Bypass-7780")
+                                
+addscriptexist(6403373529, "auto get ples serverhop READ DESC", "Uploaded by preizs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20get%20ples%20serverhop%20READ%20DESC657.lua", "https://scriptblox.com/script/Slap-Battles-auto-get-ples-serverhop-OP-8332")
+                                

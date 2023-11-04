@@ -12,3 +12,5 @@ addscript(9049840490, "Current Game","AstralHook", "Uploaded by d1vine_ on scrip
                                 
 addscriptexist(9049840490, "Sonic Speed Simulator", "Uploaded by BismaAkmal on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Speed%20Simulator333.lua", "https://rscripts.net/script/sonic-speed-simulator-3988")
                                 
+addscriptexist(9049840490, "auto farm", "Uploaded by Panchito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm965.lua", "https://scriptblox.com/script/EVENTS-Sonic-Speed-Simulator-auto-farm-9148")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14679504258, "Current Game","OP Inf Script", "Uploaded by Riyaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Inf%20Script285.lua", "https://scriptblox.com/script/Water-Fighting-Simulator-Sim-Scripts-8342")

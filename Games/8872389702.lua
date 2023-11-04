@@ -1,0 +1,2 @@
+
+addscript(8872389702, "Current Game","auto", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto961.lua", "https://scriptblox.com/script/FREE-LIMITED-Cops-and-Robbers-Tycoon-auto-8631")

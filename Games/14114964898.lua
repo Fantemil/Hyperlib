@@ -1,0 +1,2 @@
+
+addscript(14114964898, "Current Game","Au Stuff", "Uploaded by slices on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Au%20Stuff622.lua", "https://scriptblox.com/script/become-an-nba-star-to-prove-mom-wrong!-Au-Stuff-8874")

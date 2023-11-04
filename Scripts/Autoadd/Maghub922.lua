@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Krnow1/Maghubscripts/main/MagHub_scripts"))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ruinins/scripts-/main/Collision%20Toggler.lua"))()

@@ -4,3 +4,5 @@ addscriptexist(11063612131, "Every Second You Get 1 Jump Power  Nihub", "Uploade
                                 
 addscriptexist(11063612131, "Every Second You Get 1 Jump Power AUTO FARM  AUTO REBIRTH  MORE", "Uploaded by Curry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Every%20Second%20You%20Get%201%20Jump%20Power%20AUTO%20FARM%20%20AUTO%20REBIRTH%20%20MORE501.lua", "https://rscripts.net/script/every-second-you-get-1-jump-power-auto-farm-auto-rebirth-more-3010")
                                 
+addscriptexist(11063612131, "Ln hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub423.lua", "https://scriptblox.com/script/FREE-LIMITED-Every-Second-You-Get-+1-Jump-Power-Ln-hub-7584")
+                                

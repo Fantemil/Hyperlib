@@ -1,0 +1,4 @@
+
+addscript(6254599969, "Current Game","complete n prestige", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/complete%20n%20prestige267.lua", "https://scriptblox.com/script/obby-but-you're-a-poop-complete-n-prestige-7571")
+addscriptexist(6254599969, "VERY OP Heps of Fetures", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20OP%20Heps%20of%20Fetures968.lua", "https://scriptblox.com/script/obby-but-you're-a-poop-VERY-OP-Heps-of-Fetures-7656")
+                                

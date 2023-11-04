@@ -26,3 +26,5 @@ addscriptexist(920587237, "Script Auto Open Gifts", "Uploaded by soolkijh on scr
                                 
 addscriptexist(920587237, "New Hub", "Uploaded by Patriot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Hub505.lua", "https://scriptblox.com/script/Adopt-Me!-New-Hub-6834")
                                 
+addscriptexist(920587237, "me for some candies", "Uploaded by jicobis707 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/me%20for%20some%20candies641.lua", "https://scriptblox.com/script/Adopt-Me!-me-for-some-candies-8421")
+                                

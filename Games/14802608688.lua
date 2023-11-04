@@ -1,0 +1,2 @@
+
+addscript(14802608688, "Current Game","propropo", "Uploaded by nsnsjsjs215 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/propropo234.lua", "https://scriptblox.com/script/Halloween-Build-a-Spaceship!-Alpha-propropo-9238")

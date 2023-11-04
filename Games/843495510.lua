@@ -1,0 +1,2 @@
+
+addscript(843495510, "Current Game","OMNI  OF ERRADICATION", "Uploaded by TheLuaCoder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OMNI%20%20OF%20ERRADICATION945.lua", "https://scriptblox.com/script/Void-Script-Builder-Require(Place-2)-OMNI-***-OF-ERRADICATION-8684")

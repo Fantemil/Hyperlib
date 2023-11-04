@@ -100,3 +100,9 @@ addscriptexist(142823291, "3D Box ESP", "Uploaded by Flames on scriptblox.com", 
                                 
 addscriptexist(142823291, "Highlight Hub Key in desc", "Uploaded by fixat82136 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20Hub%20Key%20in%20desc496.lua", "https://scriptblox.com/script/Murder-Mystery-2-Highlight-Hub-Key-in-desc-7108")
                                 
+addscriptexist(142823291, "Op mm script", "Uploaded by goatgoddog on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20mm%20script705.lua", "https://scriptblox.com/script/Murder-Mystery-2-Op-mm-script-7367")
+                                
+addscriptexist(142823291, "Symphony Hub", "Uploaded by boql on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Symphony%20Hub895.lua", "https://scriptblox.com/script/Murder-Mystery-2-Symphony-Hub-8804")
+                                
+addscriptexist(142823291, "Mm highlight", "Uploaded by baekobe37 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mm%20highlight784.lua", "https://scriptblox.com/script/Murder-Mystery-2-Mm-highlight-8519")
+                                

@@ -4,3 +4,5 @@ addscriptexist(4639625707, "autofarm", "Uploaded by tomergamertv on scriptblox.c
                                 
 addscriptexist(4639625707, "Auto Collect Free UGC", "Uploaded by Dex on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Free%20UGC881.lua", "https://rscripts.net/script/auto-collect-free-ugc-4203")
                                 
+addscriptexist(4639625707, "Teleport to airdrops", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20airdrops647.lua", "https://scriptblox.com/script/SALE-+-2X-War-Tycoon-Teleport-to-airdrops-7310")
+                                

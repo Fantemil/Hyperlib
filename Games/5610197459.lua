@@ -1,0 +1,2 @@
+
+addscript(5610197459, "Current Game","the best     script for now", "Uploaded by a_random_tf2_enjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/the%20best%20%20%20%20%20script%20for%20now343.lua", "https://scriptblox.com/script/gang-up-on-people-simulator-the-best-script-for-now-7743")

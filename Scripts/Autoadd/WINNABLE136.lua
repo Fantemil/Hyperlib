@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/malfume/Lair/main/KING%20LEGACY%20(WINNABLE%20UPD%204.7)%20%F0%9F%92%A7"))();

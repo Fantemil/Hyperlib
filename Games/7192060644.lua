@@ -1,0 +1,2 @@
+
+addscript(7192060644, "Current Game","Land Hub", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Land%20Hub698.lua", "https://scriptblox.com/script/UPD-Soccer-Ball-Land-Hub-9104")

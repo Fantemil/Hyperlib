@@ -1,0 +1,2 @@
+
+addscript(14229262701, "Current Game","Script", "Uploaded by christolius on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script364.lua", "https://scriptblox.com/script/UPDATE-Cookie-Incremental-Script-8571")

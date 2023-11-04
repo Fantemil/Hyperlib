@@ -8,3 +8,5 @@ addscript(4520749081, "Current Game","Autofarm Gui", "Uploaded by Mana on script
                                 
     addscriptexist(4520749081, "King Legacy OP Farm", "Uploaded by Speez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Legacy%20OP%20Farm767.lua", "https://scriptblox.com/script/Update-2.5-King-Legacy-King-Legacy-OP-Farm-5465")
                                 
+addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WINNABLE136.lua", "https://scriptblox.com/script/UPDATE-4.7.1-King-Legacy-WINNABLE-8757")
+                                

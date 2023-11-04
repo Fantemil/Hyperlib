@@ -1,0 +1,2 @@
+
+addscript(11109756592, "Current Game","Devil hub", "Uploaded by adhikalaks2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Devil%20hub721.lua", "https://scriptblox.com/script/YouTube-Simulator-Z-Devil-hub-7288")

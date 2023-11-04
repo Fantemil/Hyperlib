@@ -1,0 +1,2 @@
+
+addscript(15196681559, "Current Game","Projeeekt", "Uploaded by emirsuyunov228 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeeekt590.lua", "https://scriptblox.com/script/EVENT-Project-Polaro-Projeeekt-9201")

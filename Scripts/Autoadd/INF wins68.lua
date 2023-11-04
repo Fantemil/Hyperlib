@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/main/0Sumo'))()```https://www.roblox.com/games/14021953565/UGC-Sumo-Simulator

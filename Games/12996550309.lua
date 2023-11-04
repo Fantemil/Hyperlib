@@ -6,3 +6,5 @@ addscriptexist(12996550309, "Infinite Win n Craft All and more", "Uploaded by Kh
                                 
 addscriptexist(12996550309, "Ln hub", "Uploaded by whiteboyemmer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub209.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-Ln-hub-7184")
                                 
+addscriptexist(12996550309, "Billy Hoco Update and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billy%20Hoco%20Update%20and%20more693.lua", "https://scriptblox.com/script/BILLY-HOCORunStar-Simulator-Billy-Hoco-Update-and-more-8230")
+                                

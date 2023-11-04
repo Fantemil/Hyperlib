@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aayan-111/Aayan-111/main/Omni%20god.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/VIPFirstTime/UploadFile/main/Protected_8627265294288055.lua'))()

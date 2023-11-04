@@ -1,0 +1,2 @@
+
+addscript(527271999, "Current Game","Noob  Zombies  Script", "Uploaded by Zenom on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noob%20%20Zombies%20%20Script910.lua", "https://scriptblox.com/script/Noobs-vs-Zombies:-Realish-Noob-Zombies-Script-9232")

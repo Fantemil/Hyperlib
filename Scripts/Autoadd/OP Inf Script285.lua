@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RiyazDE/RiyazHub/main/Riyaz-Hub%20Water%20Fighting%20Sim'))() 

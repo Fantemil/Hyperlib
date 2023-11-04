@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/howtoinstall26/visualizecreack/main/bladeball")))()

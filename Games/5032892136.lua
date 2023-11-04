@@ -1,0 +1,2 @@
+
+addscript(5032892136, "Current Game","dcing car", "Uploaded by Minkasig on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dcing%20car984.lua", "https://scriptblox.com/script/An-Infinite-Road-Trip-dcing-car-8763")

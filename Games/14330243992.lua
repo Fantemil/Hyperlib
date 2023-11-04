@@ -1,0 +1,2 @@
+
+addscript(14330243992, "Current Game","inf strength Ln Hub", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20strength%20Ln%20Hub671.lua", "https://scriptblox.com/script/Power-Slap-Simulator-inf-strength-Ln-Hub-7630")

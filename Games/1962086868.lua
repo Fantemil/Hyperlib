@@ -38,3 +38,5 @@ addscriptexist(1962086868, "Godmode Remove KillParts All Tools Autarm more", "Up
                                 
 addscriptexist(1962086868, "Parkour Pro", "Uploaded by ak2928546 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parkour%20Pro396.lua", "https://scriptblox.com/script/Tower-of-Hell-Parkour-Pro-7043")
                                 
+addscriptexist(1962086868, "Godmode script works on", "Uploaded by Saturn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20script%20works%20on350.lua", "https://scriptblox.com/script/Tower-of-Hell-Godmode-script-works-on-9244")
+                                

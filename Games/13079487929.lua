@@ -1,0 +1,2 @@
+
+addscript(13079487929, "Current Game","Skip Stage and Slider and Instant win", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20Stage%20and%20Slider%20and%20Instant%20win873.lua", "https://scriptblox.com/script/Bubble-Obby-Skip-Stage-and-Slider-and-Instant-win-8208")

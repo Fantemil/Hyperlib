@@ -1,0 +1,2 @@
+
+addscript(10905034443, "Current Game","Script n6", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n6451.lua", "https://scriptblox.com/script/1-Year-Smoothie-Factory-Tycoon-Script-n6-8217")

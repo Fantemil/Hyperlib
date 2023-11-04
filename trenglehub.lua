@@ -1,6 +1,19 @@
 
 
-lastupdate = "GMT +2: 18.08.2023 16:09:49"
+lastupdate = "GMT +1: 04.11.2023 18:30:19"
+
+
+
+
+asciiart = [[
+
+ _   _                       _ _ _     
+| | | |_   _ _ __   ___ _ __| (_) |__  
+| |_| | | | | '_ \ / _ \ '__| | | '_ \ 
+|  _  | |_| | |_) |  __/ |  | | | |_) |
+|_| |_|\__, | .__/ \___|_|  |_|_|_.__/ 
+       |___/|_|
+]]
 function bigRedItalicText(text)
     pcall(function()
     game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
@@ -634,7 +647,7 @@ bigBlueItalicText("Check out the Project on Github:")
 bigGreenItalicText("https://github.com/Fantemil/Hyperlib")
 bigRedText(addDashes(customlen))
 
-
+print(asciiart .. "\n\n" .. version .. "\n\nWelcome " .. getLocalPlayerName() .. "!")
 
 
 if game.PlaceId  == 7047488135 then
@@ -752,7 +765,6 @@ if success then
             bigGreenItalicText("Copied Origin link of Script to clipboard!")
         end)
     end
-    print("Loaded game specific scripts")
     bigGreenItalicText("There were scripts found for this game!")
     if getgenv().hyperlibreload == false and  getgenv().serverhoptolow == false then
         spawn(function()

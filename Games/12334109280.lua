@@ -1,0 +1,2 @@
+
+addscript(12334109280, "Current Game","kitten", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kitten868.lua", "https://scriptblox.com/script/Guts-and-Blackpowder-MOBILE-and-VC-Servers-kitten-8220")

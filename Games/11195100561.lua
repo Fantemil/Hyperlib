@@ -1,2 +1,4 @@
 
 addscript(11195100561, "Current Game","Instantaneous AutoUsage Of Items", "Uploaded by SharpedMasked on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instantaneous%20AutoUsage%20Of%20Items319.lua", "https://rscripts.net/script/instantaneous-auto-usage-of-items-4034")
+addscriptexist(11195100561, "Consumable auto usage", "Uploaded by Dottik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Consumable%20auto%20usage858.lua", "https://scriptblox.com/script/RUNNING-FROM-THE-INTERNET!-Consumable-auto-usage-7602")
+                                

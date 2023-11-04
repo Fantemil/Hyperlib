@@ -1,0 +1,2 @@
+
+addscript(8609821599, "Current Game","Crash and Spam Tools and Anti Crash", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crash%20and%20Spam%20Tools%20and%20Anti%20Crash496.lua", "https://scriptblox.com/script/Dollhouse-Roleplay-VC-Crash-and-Spam-Tools-and-Anti-Crash-7758")

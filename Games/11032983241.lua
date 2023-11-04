@@ -1,0 +1,2 @@
+
+addscript(11032983241, "Current Game","RCSOR XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RCSOR%20XTREME%20SCRIPT691.lua", "https://scriptblox.com/script/(DUSTDUST-BOSS-FIX!!!!!)-Random-Code-Soul-Ops-Rush-RCSOR-XTREME-SCRIPT-8946")

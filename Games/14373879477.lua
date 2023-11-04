@@ -1,0 +1,2 @@
+
+addscript(14373879477, "Current Game","Stage Teleporter", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stage%20Teleporter159.lua", "https://scriptblox.com/script/Carry-Me!-2-Player-Obby-Stage-Teleporter-7374")

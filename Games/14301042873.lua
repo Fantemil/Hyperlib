@@ -1,0 +1,2 @@
+
+addscript(14301042873, "Current Game","noob free characters expect money one", "Uploaded by Baldman282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/noob%20free%20characters%20expect%20money%20one962.lua", "https://scriptblox.com/script/0.75-Combat-Noobs-Siege-Defense-noob-free-characters-expect-money-one-9073")

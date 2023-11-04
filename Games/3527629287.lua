@@ -20,3 +20,5 @@ addscriptexist(3527629287, "Kidachi  Big Paintball", "Uploaded by Deity on rscri
                                 
 addscriptexist(3527629287, "Best BIG PAINTBALL Script Out There", "Uploaded by M0RKUTE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20BIG%20PAINTBALL%20Script%20Out%20There259.lua", "https://rscripts.net/script/best-big-paintball-script-out-there-3951")
                                 
+addscriptexist(3527629287, "Fazium the new aim solution", "Uploaded by Fazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fazium%20the%20new%20aim%20solution711.lua", "https://scriptblox.com/script/BIG-Paintball!-Fazium-the-new-aim-solution-7908")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14787369036, "Current Game","TP Kitchen ESP  OP SCRIPT", "Uploaded by Piesek_Zosia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TP%20Kitchen%20ESP%20%20OP%20SCRIPT248.lua", "https://scriptblox.com/script/weird-strict-dad-HALLOWEEN!-TP-Kitchen-ESP-OP-SCRIPT-9232")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/UPD-Blade-Ball-bedol-hub-8765"))()

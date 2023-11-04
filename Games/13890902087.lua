@@ -1,0 +1,2 @@
+
+addscript(13890902087, "Current Game","send ur custom answer", "Uploaded by Minkasig on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/send%20ur%20custom%20answer218.lua", "https://scriptblox.com/script/Math-Boxing-send-ur-custom-answer-8265")

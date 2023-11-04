@@ -6,3 +6,5 @@ addscript(6407649031, "Current Game","Aimbot esp trigger bot and more", "Uploade
                                 
     addscriptexist(6407649031, "Yax GUI", "Uploaded by V3rmScriptsUploader on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yax%20GUI23.lua", "https://scriptblox.com/script/NO-SCOPE-ARCADE-Yax-GUI-5076")
                                 
+addscriptexist(6407649031, "anti aim", "Uploaded by peppermint on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20aim539.lua", "https://scriptblox.com/script/No-Scope-Arcade-anti-aim-7593")
+                                

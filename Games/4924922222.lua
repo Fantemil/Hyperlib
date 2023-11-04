@@ -32,3 +32,7 @@ addscriptexist(4924922222, "Kill All Free GamePass Admin Panel Script", "Uploade
                                 
 addscriptexist(4924922222, "This script has a lot of features look at it", "Uploaded by MilkyWay00o on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/This%20script%20has%20a%20lot%20of%20features%20look%20at%20it539.lua", "https://scriptblox.com/script/Brookhaven-RP-This-script-has-a-lot-of-features-look-at-it-6927")
                                 
+addscriptexist(4924922222, "FLY", "Uploaded by Momofreifer240 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLY716.lua", "https://scriptblox.com/script/Brookhaven-RP-FLY-9161")
+                                
+addscriptexist(4924922222, "SalaKitosHub", "Uploaded by llllll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SalaKitosHub975.lua", "https://scriptblox.com/script/Brookhaven-RP-SalaKitosHub-8535")
+                                

@@ -4,3 +4,5 @@ addscript(2653064683, "Current Game","SmoxHub CRACKED", "Uploaded by Storm on sc
                                 
 addscriptexist(2653064683, "Typer", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Typer500.lua", "https://scriptblox.com/script/Word-Bomb-Typer-6811")
                                 
+addscriptexist(2653064683, "Auto Typer", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Typer361.lua", "https://scriptblox.com/script/Word-Bomb-Auto-Typer-7361")
+                                

@@ -22,3 +22,5 @@ addscriptexist(185655149, "Bloxburg AutoBuild And Autofarm", "Uploaded by Lucid6
                                 
 addscriptexist(185655149, "Bloxburger Bloxburg Autofarm Autobuild Script", "Uploaded by nyz on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bloxburger%20Bloxburg%20Autofarm%20Autobuild%20Script667.lua", "https://rscripts.net/script/bloxburger-bloxburg-autofarm-autobuild-script-3968")
                                 
+addscriptexist(185655149, "working and fixed pizza aufarm", "Uploaded by jimmyislit88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/working%20and%20fixed%20pizza%20aufarm276.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-working-and-fixed-pizza-aufarm-8253")
+                                

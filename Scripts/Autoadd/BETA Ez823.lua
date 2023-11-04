@@ -1,0 +1,1 @@
+-- Paid, Join our discord to purchase! https://discord.gg/kt82mewGg8

@@ -1,0 +1,2 @@
+
+addscript(10569600262, "Current Game","UTBR XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UTBR%20XTREME%20SCRIPT241.lua", "https://scriptblox.com/script/Undertale-Battle-Royale-UTBR-XTREME-SCRIPT-8865")

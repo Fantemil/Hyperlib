@@ -30,3 +30,5 @@ addscriptexist(301549746, "Duxkyx Ware", "Uploaded by Duxkyx on scriptblox.com",
                                 
 addscriptexist(301549746, "Ik3ac hvh", "Uploaded by ratsssstts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ik3ac%20hvh236.lua", "https://scriptblox.com/script/Counter-Blox-Ik3ac-hvh-6732")
                                 
+addscriptexist(301549746, "Enableware", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Enableware511.lua", "https://scriptblox.com/script/Counter-Blox-Enableware-7925")
+                                

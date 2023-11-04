@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Killa5676/Killa-s-Scripts/main/weapon%20crafting%20sim"))()

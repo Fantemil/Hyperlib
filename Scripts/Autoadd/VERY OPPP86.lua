@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pipikx/githubroblox/main/bloxfruits%20(2).lua'))()

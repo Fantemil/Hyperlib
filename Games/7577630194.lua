@@ -1,0 +1,2 @@
+
+addscript(7577630194, "Current Game","auto clocker", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20clocker830.lua", "https://scriptblox.com/script/Apple-Clicker-auto-clocker-8525")

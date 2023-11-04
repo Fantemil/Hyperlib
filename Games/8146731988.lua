@@ -6,3 +6,5 @@ addscript(8146731988, "Current Game","op script without keysystem", "Uploaded by
                                 
 addscriptexist(8146731988, "Insane Script For Ultra Power Tycoon  PlayerHub", "Uploaded by redblue on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insane%20Script%20For%20Ultra%20Power%20Tycoon%20%20PlayerHub822.lua", "https://rscripts.net/script/insane-script-for-ultra-power-tycoon-playerhub-3996")
                                 
+addscriptexist(8146731988, "All Powers n Remove Laser and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Powers%20n%20Remove%20Laser%20and%20more593.lua", "https://scriptblox.com/script/2X-Ultra-Power-Tycoon-All-s-n-Remove-Laser-and-more-7494")
+                                

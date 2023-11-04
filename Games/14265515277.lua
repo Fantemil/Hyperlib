@@ -1,0 +1,2 @@
+
+addscript(14265515277, "Current Game","infinite money and gifts", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20money%20and%20gifts87.lua", "https://scriptblox.com/script/Running-Simulator-infinite-money-and-gifts-9004")

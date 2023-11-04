@@ -1,0 +1,2 @@
+JOIN DISCORD TO GET THE SCRIPT (ONG)
+https://discord.gg/Mb8HCCmBff

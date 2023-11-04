@@ -1,0 +1,2 @@
+
+addscript(9224601490, "Current Game","PrimeExo Hub", "Uploaded by PrimeExo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrimeExo%20Hub758.lua", "https://scriptblox.com/script/GEAR-5-+-2X-EXP-Fruit-Battlegrounds-PrimeExo-Hub-8011")

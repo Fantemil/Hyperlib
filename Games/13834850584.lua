@@ -1,0 +1,2 @@
+
+addscript(13834850584, "Current Game","NCraft  Script", "Uploaded by ManoliScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NCraft%20%20Script37.lua", "https://scriptblox.com/script/Ncraft's-Minigames-NCraft-Script-7503")

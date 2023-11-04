@@ -1,0 +1,2 @@
+
+addscript(9664474819, "Current Game","auto buy", "Uploaded by Minkasig on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20buy687.lua", "https://scriptblox.com/script/DRIVE-THRU-Burger-Game-auto-buy-7992")

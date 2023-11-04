@@ -1,0 +1,2 @@
+
+addscript(9492327236, "Current Game","SMBR XTREME SCRIPT", "Uploaded by Farzin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SMBR%20XTREME%20SCRIPT327.lua", "https://scriptblox.com/script/Sans-Miniature-Battles-Reboot-SMBR-XTREME-GUI-8962")

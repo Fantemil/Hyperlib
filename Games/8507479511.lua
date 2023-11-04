@@ -1,0 +1,2 @@
+
+addscript(8507479511, "Current Game","Instant Win n Hatch and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Win%20n%20Hatch%20and%20more737.lua", "https://scriptblox.com/script/Higher-Jump-Every-Second-Instant-Win-n-Hatch-and-more-7813")

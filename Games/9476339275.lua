@@ -10,3 +10,5 @@ addscriptexist(9476339275, "GamerReady Hub", "Uploaded by gabitoshb on scriptblo
                                 
 addscriptexist(9476339275, "Elemental Hub full Keyless cracked", "Uploaded by GamerReadyHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elemental%20Hub%20full%20Keyless%20cracked314.lua", "https://scriptblox.com/script/Double-Down-Elemental-Hub-full-Keyless-cracked-7048")
                                 
+addscriptexist(9476339275, "Decent DD script", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decent%20DD%20script807.lua", "https://scriptblox.com/script/BATTLESHIP-Double-Down-Decent-DD-script-7359")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14082247421, "Current Game","best script Auto Cash Gems Boost  Complete Factory More", "Uploaded by BloxhubRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20Auto%20Cash%20Gems%20Boost%20%20Complete%20Factory%20More347.lua", "https://scriptblox.com/script/Rare-Gems!-Money-Simulator-Z-V0.8.0-best-script-Auto-Cash-Gems-Boost-Complete-Factory-More-7477")

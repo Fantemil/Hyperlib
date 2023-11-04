@@ -1,0 +1,2 @@
+
+addscript(10515146389, "Current Game","Krampus Hub", "Uploaded by Sippes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Krampus%20Hub65.lua", "https://scriptblox.com/script/NEW-Elemental-Dungeons-Krampus-Hub-8216")

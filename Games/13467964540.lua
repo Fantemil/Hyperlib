@@ -1,0 +1,2 @@
+
+addscript(13467964540, "Current Game","Best script", "Uploaded by KenshinBengpo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script212.lua", "https://scriptblox.com/script/PROVE-MOM-WRONG-BY-BEING-A-FAMOUS-STREAMER-uto-Frm-Script-9111")

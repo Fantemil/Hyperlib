@@ -1,0 +1,2 @@
+
+addscript(14067145814, "Current Game","Coin Form", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coin%20Form932.lua", "https://scriptblox.com/script/RAISE-A-CHILD-:)-Coin-Form-7313")

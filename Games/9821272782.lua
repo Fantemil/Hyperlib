@@ -1,0 +1,2 @@
+
+addscript(9821272782, "Current Game","XeonHub", "Uploaded by HackerMan33105 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XeonHub562.lua", "https://scriptblox.com/script/STW-REWORK-Stardust-Reborn-XeonHub-7474")

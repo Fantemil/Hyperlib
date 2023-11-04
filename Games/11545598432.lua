@@ -16,3 +16,5 @@ addscriptexist(11545598432, "Best Blo Hub Roblo Script AUTO EVERYTHING", "Upload
                                 
 addscriptexist(11545598432, "Infinite Chikara IBA HUB", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Chikara%20IBA%20HUB665.lua", "https://scriptblox.com/script/RELEASE-Anime-Fighting-Simulator-X-Infinite-Chikara-IBA-HUB-6660")
                                 
+addscriptexist(11545598432, "Neverlose Mette fredriksen Open source", "Uploaded by Mango65 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neverlose%20Mette%20fredriksen%20Open%20source452.lua", "https://scriptblox.com/script/UPDATE-3-Anime-Fighting-Simulator-X-Neverlose-Mette-fredriksen-7354")
+                                

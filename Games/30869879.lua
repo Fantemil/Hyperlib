@@ -1,0 +1,2 @@
+
+addscript(30869879, "Current Game","Game Script", "Uploaded by Malique on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Script144.lua", "https://scriptblox.com/script/Stop-it-Slender!-Game-Script-8275")

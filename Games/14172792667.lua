@@ -1,0 +1,2 @@
+
+addscript(14172792667, "Current Game","Autofarm for ez UGC", "Uploaded by soldadodeelite4001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20for%20ez%20UGC582.lua", "https://scriptblox.com/script/Hack-Simulator-Free-UGC-Autofarm-for-ez-UGC-8207")

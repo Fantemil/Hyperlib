@@ -1,0 +1,2 @@
+
+addscript(7663817366, "Current Game","roleplay   can someone bypass their noclip", "Uploaded by dingking09 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roleplay%20%20%20can%20someone%20bypass%20their%20noclip552.lua", "https://scriptblox.com/script/Prison-Roleplay:-Escape-Plan-roleplay-can-someone-bypass-their-noclip-8006")

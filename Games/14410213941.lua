@@ -1,0 +1,2 @@
+
+addscript(14410213941, "Current Game","tora script op", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tora%20script%20op138.lua", "https://scriptblox.com/script/Shoot-and-Eat-Noobs-tora-script-op-8535")

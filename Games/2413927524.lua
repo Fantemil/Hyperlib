@@ -6,3 +6,5 @@ addscript(2413927524, "Current Game","THE RAKE REMASTERED SIMPLE GUI", "Uploaded
                                 
 addscriptexist(2413927524, "Fart Hub  The Rake Remastered", "Uploaded by notIvan on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fart%20Hub%20%20The%20Rake%20Remastered88.lua", "https://rscripts.net/script/fart-hub-the-rake-remastered-3938")
                                 
+addscriptexist(2413927524, "evolved X", "Uploaded by profressionalgaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/evolved%20X390.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-evolved-X-7553")
+                                

@@ -1,0 +1,2 @@
+
+addscript(14190901452, "Current Game","Auto Break n Auto Hatch and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Break%20n%20Auto%20Hatch%20and%20more978.lua", "https://scriptblox.com/script/Board-Break-Simulator-Auto-Break-n-Auto-Hatch-and-more-8814")

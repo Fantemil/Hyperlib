@@ -1,0 +1,2 @@
+
+addscript(13997018456, "Current Game","Basic Aimbot Esp AirHub", "Uploaded by flownexploitss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basic%20Aimbot%20Esp%20AirHub944.lua", "https://scriptblox.com/script/SEASON-2-Operations:-Siege-Basic-Aimbot-Esp-AirHub-7958")

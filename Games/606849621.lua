@@ -44,3 +44,11 @@ addscriptexist(606849621, "OP Free Autorob and Autoarrest", "Uploaded by troll o
                                 
 addscriptexist(606849621, "Sensation", "Uploaded by Hex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sensation156.lua", "https://scriptblox.com/script/Jailbreak-Sensation-7024")
                                 
+addscriptexist(606849621, "ARREST AURA AND METHOD TO GET REMOTE ADDRESSES", "Uploaded by Jakey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARREST%20AURA%20AND%20METHOD%20TO%20GET%20REMOTE%20ADDRESSES447.lua", "https://scriptblox.com/script/Jailbreak-ARREST-AURA-AND-METHOD-TO-GET-REMOTE-ADDRESSES-8451")
+                                
+addscriptexist(606849621, "OP Vortex v1", "Uploaded by norb_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Vortex%20v1772.lua", "https://scriptblox.com/script/Jailbreak-Vortex-v1-9119")
+                                
+addscriptexist(606849621, "hyper chromes", "Uploaded by baconsoupeater on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hyper%20chromes33.lua", "https://scriptblox.com/script/Jailbreak-hyper-chromse-8443")
+                                
+addscriptexist(606849621, "OP  AUTO ROB", "Uploaded by omo836916 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20AUTO%20ROB225.lua", "https://scriptblox.com/script/Jailbreak-OP-AUTO-ROB-7345")
+                                

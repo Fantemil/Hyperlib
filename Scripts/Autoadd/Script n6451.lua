@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/lucasr125/public-scripts/main/smoothie%20factory%20tycoon.lua')))()

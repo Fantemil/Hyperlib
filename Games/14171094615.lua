@@ -1,0 +1,2 @@
+
+addscript(14171094615, "Current Game","Only Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Only%20Script184.lua", "https://scriptblox.com/script/3M-Clicker-Wars-Simulator!-Only-Script-7366")

@@ -1,0 +1,2 @@
+
+addscript(14696133573, "Current Game","LN Luxury Hub OP SCRIPT", "Uploaded by LightningCK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LN%20Luxury%20Hub%20OP%20SCRIPT344.lua", "https://scriptblox.com/script/Workout-To-Impress-Girls-LN-Luxury-Hub-OP-SCRIPT-9043")

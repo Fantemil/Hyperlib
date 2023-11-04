@@ -1,0 +1,2 @@
+
+addscript(13288631750, "Current Game","Kill All", "Uploaded by serick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All886.lua", "https://scriptblox.com/script/The-Battle-Bricks:-RGB-Kill-All-7640")

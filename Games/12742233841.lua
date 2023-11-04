@@ -1,0 +1,2 @@
+
+addscript(12742233841, "Current Game","Easy ugc autofarm", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20ugc%20autofarm973.lua", "https://scriptblox.com/script/FREE-LIMITED-Every-Second-You-Get-+1-WalkSpeed-Easy-ugc-autofarm-7587")

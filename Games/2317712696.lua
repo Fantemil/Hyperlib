@@ -2,3 +2,5 @@
 addscript(2317712696, "Current Game","Eternal X Cracked The Wild West", "Uploaded by Spooks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eternal%20X%20Cracked%20The%20Wild%20West577.lua", "https://scriptblox.com/script/The-Wild-West-Eternal-X-Cracked-The-Wild-West-6277")
     addscriptexist(2317712696, "The Wild West Script  INFINITE STAMINA  OPEN SOURCE", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Wild%20West%20Script%20%20INFINITE%20STAMINA%20%20OPEN%20SOURCE133.lua", "https://scriptblox.com/script/The-Wild-West-The-Wild-West-Script-or-INFINITE-STAMINA-OPEN-SOURCE-3162")
                                 
+addscriptexist(2317712696, "TWW LEAN NEW AUTOFARM", "Uploaded by GAMELEAN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TWW%20LEAN%20NEW%20AUTOFARM442.lua", "https://scriptblox.com/script/The-Wild-West-TWW-LEAN-7355")
+                                
