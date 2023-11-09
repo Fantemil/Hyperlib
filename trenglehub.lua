@@ -1,11 +1,11 @@
 
 
-lastupdate = "GMT +1: 04.11.2023 18:56:25"
+local lastupdate = "GMT +1: 04.11.2023 18:56:25"
 
 
 
 
-asciiart = [[
+local asciiart = [[
 
  _   _                       _ _ _     
 | | | |_   _ _ __   ___ _ __| (_) |__  
@@ -338,8 +338,30 @@ Window = getgenv().Window
 getgenv().hyperlibgui.ZIndexBehavior = Enum.ZIndexBehavior.Global
 local topZIndex = 2147483647 
 
--- check if getgenv().hyperlibblock exists
 
+repeat
+    UpdateWindowTitle("Waiting for game to load.")
+    wait(0.1)
+    UpdateWindowTitle("Waiting for game to load..")
+    wait(0.1)
+    UpdateWindowTitle("Waiting for game to load...")
+    wait(0.1)
+until game:IsLoaded()
+UpdateWindowTitle("Game is loaded!")
+-- if the game id corresponds ...
+if game.PlaceId == 13772394625 then
+    UpdateWindowTitle("Protecting against Blade Ball Anticheat...")
+    for i, v in pairs(game.ReplicatedStorage:GetChildren()) do
+        if v.Name == "Security" then
+            for i, v in game.ReplicatedStorage.Security:GetChildren() do
+                v:Destroy()
+            end
+            game.ReplicatedStorage.Security:Destroy()
+        end
+    end
+    UpdateWindowTitle("Successfully protected against Blade Ball Anticheat!")
+end
+UpdateWindowTitle(version)
 local Player = Window:NewTab("Player/General")
 local PlayerSection = Player:NewSection("Player")
 local GeneralSection = Player:NewSection("General")
