@@ -1,6 +1,6 @@
 
 
-local lastupdate = "GMT +1: 04.11.2023 18:56:25"
+lastupdate = "GMT +0: 11.11.2023 22:19:37"
 
 
 

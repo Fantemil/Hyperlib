@@ -1,0 +1,2 @@
+
+    addscript(15163154086, "Current Game","inf stats", "Uploaded by ent1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20stats350.lua", "https://scriptblox.com/script/(2-FREE-LIMITEDS)-Anime-Punch-Simulator-inf-stats-9138")

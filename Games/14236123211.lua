@@ -8,3 +8,5 @@ addscriptexist(14236123211, "Updated", "Uploaded by perfectusmim on scriptblox.c
                                 
 addscriptexist(14236123211, "Best Script  Auto  Fast Egg Dungeon and More", "Uploaded by BloxhubRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20%20Auto%20%20Fast%20Egg%20Dungeon%20and%20More230.lua", "https://scriptblox.com/script/UPD3-+-UGC-Punch-Simulator-Best-Script-Auto-Fast-Egg-Dungeon-and-More-7388")
                                 
+    addscriptexist(14236123211, "script m", "Uploaded by malekamr315 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20m598.lua", "https://scriptblox.com/script/FREE-LIMITED-Punch-Simulator-script-m-9129")
+                                    

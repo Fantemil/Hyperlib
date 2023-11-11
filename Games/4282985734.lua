@@ -44,3 +44,5 @@ addscriptexist(4282985734, "Overpowered God Mode Script For Combat Warriors", "U
                                 
 addscriptexist(4282985734, "Infinite Stamina", "Uploaded by eggerites on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Stamina535.lua", "https://scriptblox.com/script/Combat-Warriors-Infinite-Stamina-7424")
                                 
+    addscriptexist(4282985734, "ROBLOX AIMBOT", "Uploaded by ethanlaffon123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX%20AIMBOT770.lua", "https://scriptblox.com/script/Combat-Warriors-ROBLOX-AIMBOT-9197")
+                                    

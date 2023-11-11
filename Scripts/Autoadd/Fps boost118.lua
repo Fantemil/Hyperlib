@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SYPEGithub/Fps-boost/main/Source.lua"))()

@@ -100,3 +100,5 @@ addscriptexist(155615604, "Op Script", "Uploaded by Rayz on scriptblox.com", "ht
                                 
 addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wyllan%20Scripts%20%20v1497.lua", "https://scriptblox.com/script/Prison-Life-Wyllan-Scripts-v1-7182")
                                 
+    addscriptexist(155615604, "PRISION ADMIN HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PRISION%20ADMIN%20HUB616.lua", "https://scriptblox.com/script/Prison-Life-PRISIN-ADMIN-HUB-9197")
+                                    

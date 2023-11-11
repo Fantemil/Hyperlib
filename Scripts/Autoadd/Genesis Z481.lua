@@ -1,0 +1,1 @@
+loadstring(game:Https("https://raw.githubusercontent.com/SyrTop/GenZ/main/GenesisLoader/GenesisZ_Loader.txt"))()

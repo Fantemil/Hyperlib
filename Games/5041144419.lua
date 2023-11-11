@@ -4,3 +4,5 @@ addscript(5041144419, "Current Game","old script outdated so here private ver wi
                                 
 addscriptexist(5041144419, "S3CPRP", "Uploaded by CandyLean on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/S3CPRP3.lua", "https://scriptblox.com/script/SCP:-Roleplay-LEAN-7818")
                                 
+    addscriptexist(5041144419, "SCCP FREE", "Uploaded by CandyLean on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCCP%20FREE557.lua", "https://scriptblox.com/script/SCP:-Roleplay-SCCP-FREE-9159")
+                                    

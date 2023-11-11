@@ -1,0 +1,2 @@
+
+    addscript(14113419982, "Current Game","slow", "Uploaded by ent1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/slow300.lua", "https://scriptblox.com/script/FREE-UGC-Fitness-Simulator-2-slow-9231")

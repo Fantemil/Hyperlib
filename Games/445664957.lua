@@ -10,3 +10,5 @@ addscriptexist(445664957, "big gui UWU", "Uploaded by Hydra_ on scriptblox.com",
                                 
 addscriptexist(445664957, "bag auto farm", "Uploaded by Hydra_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bag%20auto%20farm243.lua", "https://scriptblox.com/script/PARKOUR-Halloween-bag-auto-farm-9167")
                                 
+    addscriptexist(445664957, "Mark bags distance", "Uploaded by Konethorix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mark%20bags%20distance924.lua", "https://scriptblox.com/script/PARKOUR-Halloween-Mark-bags-distance-9159")
+                                    

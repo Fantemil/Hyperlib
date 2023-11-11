@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flopa2677/-NEON-CITY-Slap-battles-Tower-Defense/main/README.md",true))()

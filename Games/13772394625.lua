@@ -246,3 +246,13 @@ addscriptexist(13772394625, "BEDOL HUB Auto Parry Al Play ESP and More", "Upload
                                 
 addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Symphony%20Hub734.lua", "https://scriptblox.com/script/Blade-Ball-Symphony-Hub-8805")
                                 
+    addscriptexist(13772394625, "Master Autoparry", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Master%20Autoparry869.lua", "https://scriptblox.com/script/Blade-Ball-***-AUTOPARRY-9166")
+                                    
+    addscriptexist(13772394625, "BEDOL HUB UPDATED BEST VERSION", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEDOL%20HUB%20UPDATED%20BEST%20VERSION365.lua", "https://scriptblox.com/script/UPD-Blade-Ball-ZBEDOL-HUB-9144")
+                                    
+    addscriptexist(13772394625, "OMG HUB", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OMG%20HUB460.lua", "https://scriptblox.com/script/Blade-Ball-OMG-HUB-9219")
+                                    
+    addscriptexist(13772394625, "AutoParry Updated", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoParry%20Updated666.lua", "https://scriptblox.com/script/UPD-Blade-Ball-AutoParry-Updated-9146")
+                                    
+    addscriptexist(13772394625, "Auto Parry Never LOSE", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Never%20LOSE663.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Never-LOSE-9180")
+                                    

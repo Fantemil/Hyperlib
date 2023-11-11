@@ -1,0 +1,2 @@
+
+    addscript(15097912888, "Current Game","Good work", "Uploaded by Deagnozzz1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20work545.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby-Good-work-9187")

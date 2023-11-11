@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/malfume/Lair/main/BLOX%20FRUITS%20(ZEE)%F0%9F%91%BB"))()

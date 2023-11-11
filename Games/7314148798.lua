@@ -10,3 +10,7 @@ addscriptexist(7314148798, "OP FLING THE BEST SCRIPT Push", "Uploaded by barjabo
                                 
 addscriptexist(7314148798, "RAGD0LL  NEW BEST SCRIPT Unslagger exe", "Uploaded by user_nill on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAGD0LL%20%20NEW%20BEST%20SCRIPT%20Unslagger%20exe467.lua", "https://scriptblox.com/script/Ragdoll-Engine-RAGD0LL-NEW-BEST-SCRIPT-Unslaggehub-9119")
                                 
+    addscriptexist(7314148798, "PeruanitoHub V2", "Uploaded by user_nill on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PeruanitoHub%20V2532.lua", "https://scriptblox.com/script/Ragdoll-Engine-PeruanitoHub-V2-9185")
+                                    
+    addscriptexist(7314148798, "not my script", "Uploaded by deltaguest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/not%20my%20script289.lua", "https://scriptblox.com/script/Ragdoll-Engine-not-my-script-9184")
+                                    

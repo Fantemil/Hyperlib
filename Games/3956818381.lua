@@ -38,3 +38,5 @@ addscriptexist(3956818381, "NEW Insane Sky Hub Script NL Auto Farm Teleports and
                                 
 addscriptexist(3956818381, "Decent Script", "Uploaded by GuyFromFortnite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decent%20Script126.lua", "https://scriptblox.com/script/Ninja-Legends-Decent-Script-7307")
                                 
+    addscriptexist(3956818381, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z121.lua", "https://scriptblox.com/script/Ninja-Legends-Genesis-Z-9137")
+                                    

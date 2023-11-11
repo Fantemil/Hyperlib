@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hirimii/X-Version/main/LoaderX.lua"))()

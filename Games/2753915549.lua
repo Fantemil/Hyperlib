@@ -348,3 +348,27 @@ addscriptexist(2753915549, "Kay hub", "Uploaded by zfxcvzfxcv on scriptblox.com"
                                 
 addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORK%20LEVEL%202550871.lua", "https://scriptblox.com/script/UPDATE-20-Blox-Fruits-WORK-LEVEL-2550-8957")
                                 
+    addscriptexist(2753915549, "BEST SCRIPT NO KEY SYSTEM", "Uploaded by Sscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20NO%20KEY%20SYSTEM267.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-BEST-SCRIPT-NO-KEY-SYSTEM-9186")
+                                    
+    addscriptexist(2753915549, "KEYLESS CHEST FARM SCRIPT", "Uploaded by Raito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KEYLESS%20CHEST%20FARM%20SCRIPT419.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-KEYLESS-CHEST-FARM-SCRIPT-9127")
+                                    
+    addscriptexist(2753915549, "Auto farming", "Uploaded by glmichael4412 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farming104.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Auto-farming-9167")
+                                    
+    addscriptexist(2753915549, "AI POWERED AUTOFARM BANANA SUITE", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AI%20POWERED%20AUTOFARM%20BANANA%20SUITE514.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-AI-POWERED-AUTOFARM-BANANA-SUITE-9185")
+                                    
+    addscriptexist(2753915549, "REDz HUB Auto Farm Level and more", "Uploaded by REDz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20HUB%20Auto%20Farm%20Level%20and%20more414.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-REDz-HUB-Auto-Farm-Level-and-more-9198")
+                                    
+    addscriptexist(2753915549, "Hirimi X", "Uploaded by Sscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hirimi%20X547.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Hirimi-X-9190")
+                                    
+    addscriptexist(2753915549, "OP Script NO KEY SYSTEM", "Uploaded by Sscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20NO%20KEY%20SYSTEM823.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-Script-9186")
+                                    
+    addscriptexist(2753915549, "EZ FRUIT", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EZ%20FRUIT891.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-EZ-FRUIT-9142")
+                                    
+    addscriptexist(2753915549, "FREE XIBA HUB V3 OP", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20XIBA%20HUB%20V3%20OP100.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-FREE-XIBA-HUB-V3-OP-9202")
+                                    
+    addscriptexist(2753915549, "Mukuro V2", "Uploaded by hoangson2498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mukuro%20V2666.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Mukuro-V2-9174")
+                                    
+    addscriptexist(2753915549, "Redz Hub", "Uploaded by hoangson2498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub854.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Redz-Hub-9205")
+                                    
+    addscriptexist(2753915549, "ZEE", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEE320.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-ZEE-9202")
+                                    

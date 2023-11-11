@@ -1,0 +1,2 @@
+
+    addscript(340809482, "Current Game","Autobuy  Blatant", "Uploaded by xrfio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autobuy%20%20Blatant53.lua", "https://scriptblox.com/script/Classic:-Limited-Simulator-autobuy-9168")

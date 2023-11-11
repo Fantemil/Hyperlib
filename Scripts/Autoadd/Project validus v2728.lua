@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robobo2022/Project-Validus-v2/main/Main.lua"))()

@@ -16,3 +16,5 @@ addscriptexist(8916037983, "Stupid", "Uploaded by Sponsoparnordvpn on scriptblox
                                 
 addscriptexist(8916037983, "source code", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/source%20code624.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-source-code-7724")
                                 
+    addscriptexist(8916037983, "Find rich server", "Uploaded by Alphabet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20rich%20server351.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Find-rich-server-9142")
+                                    

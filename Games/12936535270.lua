@@ -1,0 +1,2 @@
+
+    addscript(12936535270, "Current Game","Get ugc", "Uploaded by Deagnozzz1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20ugc653.lua", "https://scriptblox.com/script/NEW-UGC-Updraft-Towers-Get-ugc-9188")

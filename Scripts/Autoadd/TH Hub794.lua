@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HalloweenKills/Load/main/ThHubDBR.lua"))()

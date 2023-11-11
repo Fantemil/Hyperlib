@@ -12,3 +12,5 @@ addscriptexist(14184086618, "Neurv script", "Uploaded by scriptemt on scriptblox
                                 
 addscriptexist(14184086618, "unclock everything ll the s op win frm remove killprt", "Uploaded by shresthasachin710 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unclock%20everything%20ll%20the%20s%20op%20win%20frm%20remove%20killprt609.lua", "https://scriptblox.com/script/W7-Obby-But-You're-on-a-Bike-unclock-everything-ll-the-s-op-win-frm-remove-killprt-8754")
                                 
+    addscriptexist(14184086618, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z209.lua", "https://scriptblox.com/script/Obby-But-You're-on-a-Bike-Genesis-Z-9136")
+                                    

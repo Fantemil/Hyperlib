@@ -26,3 +26,5 @@ addscriptexist(8540346411, "Insane Script For Rebirth Champions X", "Uploaded by
                                 
 addscriptexist(8540346411, "Rebirth Champions X AUTO FARMING  MORE FREE GUI SCRIPT", "Uploaded by Curry on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rebirth%20Champions%20X%20AUTO%20FARMING%20%20MORE%20FREE%20GUI%20SCRIPT79.lua", "https://rscripts.net/script/rebirth-champions-x-auto-farming-more-free-gui-script-2995")
                                 
+    addscriptexist(8540346411, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z893.lua", "https://scriptblox.com/script/PART-2!-Rebirth-Champions-X-Genesis-Z-9139")
+                                    

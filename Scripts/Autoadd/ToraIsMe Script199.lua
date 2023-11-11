@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ToraIsMe/ToraIsMe/fb4feb5cf67e02057c56f892cac1119d09118879/0elemental"))()

@@ -24,3 +24,5 @@ addscriptexist(662417684, "infinite Items and more", "Uploaded by evi1z on scrip
                                 
 addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n7364.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Script-n7-8219")
                                 
+    addscriptexist(662417684, "Harlen Hub  Get All Luck7 Bl0cks", "Uploaded by Harlen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harlen%20Hub%20%20Get%20All%20Luck7%20Bl0cks906.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Block-Script-Harlen-Hub-9214")
+                                    

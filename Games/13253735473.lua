@@ -48,3 +48,5 @@ addscriptexist(13253735473, "farts pl", "Uploaded by LTUVR on scriptblox.com", "
                                 
 addscriptexist(13253735473, "NIGHTMARE", "Uploaded by KnownRomanian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NIGHTMARE540.lua", "https://scriptblox.com/script/Trident-Survival-V2-NIGHTMARE-7777")
                                 
+    addscriptexist(13253735473, "aimware", "Uploaded by dreamjowwgoober on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aimware247.lua", "https://scriptblox.com/script/Trident-Survival-V2-aimware-9211")
+                                    

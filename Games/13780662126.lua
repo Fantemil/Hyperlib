@@ -4,3 +4,5 @@ addscriptexist(13780662126, "script temp removed will be bck soon", "Uploaded by
                                 
 addscriptexist(13780662126, "Open Sourced", "Uploaded by Sourcive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Sourced924.lua", "https://scriptblox.com/script/Yeet-a-Plane-Simulator!-Fst-uto-Frm-nd-some-extr-fetures-8676")
                                 
+    addscriptexist(13780662126, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z481.lua", "https://scriptblox.com/script/Yeet-a-Plane-Simulator!-Genesis-Z-9138")
+                                    

