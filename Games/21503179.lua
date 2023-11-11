@@ -1,0 +1,2 @@
+
+    addscript(21503179, "Current Game","autofarm", "Uploaded by Unknown on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm486.lua", "https://scriptblox.com/script/Market-Tycoon-2011-Classic-autofarm-7828")

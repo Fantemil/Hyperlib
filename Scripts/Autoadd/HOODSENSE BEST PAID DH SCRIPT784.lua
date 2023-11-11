@@ -1,0 +1,1 @@
+https://discord.gg/AmJZdnzn --BTW IF U JOIN NOW U GET 3 DAYS FREE TRIAL

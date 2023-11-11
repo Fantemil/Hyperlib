@@ -22353,5 +22353,29 @@
         "hub": false,
         "gameid": "13864661000",
         "game": true
+    },
+    "HOODSENSE BEST PAID DH SCRIPT": {
+        "origin": "https://scriptblox.com/script/Universal-Script-HOODSENSE-BEST-PAID-DH-SCRIPT-8132",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOODSENSE%20BEST%20PAID%20DH%20SCRIPT784.lua",
+        "author": "Uploaded by Unknown on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "F3x Remote Replicator Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-F3x-Remote-Replicator-Script-7849",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/F3x%20Remote%20Replicator%20Script658.lua",
+        "author": "Uploaded by Unknown on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "disable Gameplay paused": {
+        "origin": "https://scriptblox.com/script/Universal-Script-disable-Gameplay-paused-7592",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/disable%20Gameplay%20paused716.lua",
+        "author": "Uploaded by Unknown on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
