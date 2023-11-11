@@ -10,3 +10,5 @@ addscript(4520749081, "Current Game","Autofarm Gui", "Uploaded by Mana on script
                                 
 addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WINNABLE136.lua", "https://scriptblox.com/script/UPDATE-4.7.1-King-Legacy-WINNABLE-8757")
                                 
+    addscriptexist(4520749081, "ADEL", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADEL974.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-ADEL-9143")
+                                    

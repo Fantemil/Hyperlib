@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/brokensamsung/Kometa/main/Kometa%20V2.lua'))()

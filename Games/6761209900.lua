@@ -1,0 +1,2 @@
+
+    addscript(6761209900, "Current Game","Break the game with me", "Uploaded by 0rya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20the%20game%20with%20me525.lua", "https://scriptblox.com/script/HALLOWEEN-SUFFER-Break-the-game-with-me-9191")

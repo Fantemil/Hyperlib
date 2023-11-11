@@ -1,0 +1,2 @@
+
+    addscript(15052679656, "Current Game","Auto er", "Uploaded by Deagnozzz1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20er202.lua", "https://scriptblox.com/script/FREE-UGC-Click-For-UGC-Auto-er-9186")

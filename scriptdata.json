@@ -22273,5 +22273,85 @@
         "hub": false,
         "gameid": "13253735473",
         "game": true
+    },
+    "Click TP": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Click-TP-9193",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Click%20TP4.lua",
+        "author": "Uploaded by Sscripts on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto er": {
+        "origin": "https://scriptblox.com/script/FREE-UGC-Click-For-UGC-Auto-er-9186",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20er202.lua",
+        "author": "Uploaded by Deagnozzz1 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15052679656",
+        "game": true
+    },
+    "Kometa v2": {
+        "origin": "https://scriptblox.com/script/PSXbox-Bee-Swarm-Simulator-Kometa-v2-9192",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kometa%20v2906.lua",
+        "author": "Uploaded by random_person on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
+    },
+    "UPDATE 20 OP CHIBB HUB SCRIPT": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-UPDATE-20-OP-CHIBB-HUB-SCRIPT-9193",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATE%2020%20OP%20CHIBB%20HUB%20SCRIPT299.lua",
+        "author": "Uploaded by xiba on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Break the game with me": {
+        "origin": "https://scriptblox.com/script/HALLOWEEN-SUFFER-Break-the-game-with-me-9191",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Break%20the%20game%20with%20me525.lua",
+        "author": "Uploaded by 0rya on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6761209900",
+        "game": true
+    },
+    "ADEL": {
+        "origin": "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-ADEL-9143",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADEL974.lua",
+        "author": "Uploaded by Jine on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4520749081",
+        "game": true
+    },
+    "EpicHub v12": {
+        "origin": "https://scriptblox.com/script/1-million-visits-Unfamiliar-Universe-Incident-EpicHub-v1-9122",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicHub%20v12906.lua",
+        "author": "Uploaded by vxsty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13052445757",
+        "game": true
+    },
+    "Robeats autoplayer": {
+        "origin": "https://scriptblox.com/script/RoBeats!-Music-+-Rhythm-+-RPG-robeats-9134",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robeats%20autoplayer700.lua",
+        "author": "Uploaded by TRGTJHTKJFYLYUYKMN on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "698448212",
+        "game": true
+    },
+    "Harlen Hub  Get All Foods And Teleport": {
+        "origin": "https://scriptblox.com/script/Break-In-2-(ORIGIN-ENDING)-Harlen-Hub-9220",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harlen%20Hub%20%20Get%20All%20Foods%20And%20Teleport967.lua",
+        "author": "Uploaded by Harlen on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13864661000",
+        "game": true
     }
 }

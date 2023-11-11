@@ -10,3 +10,5 @@ addscript(698448212, "Current Game","RoBeats Script Autoplay", "Uploaded by Lets
                                 
     addscriptexist(698448212, "RoBeats Autoplay", "Uploaded by r3d_108 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoBeats%20Autoplay888.lua", "https://scriptblox.com/script/24kGoldn-RoBeats!-Music-%2B-Rhythm-%2B-RPG-RoBeats-Autoplay-5762")
                                 
+    addscriptexist(698448212, "Robeats autoplayer", "Uploaded by TRGTJHTKJFYLYUYKMN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robeats%20autoplayer700.lua", "https://scriptblox.com/script/RoBeats!-Music-+-Rhythm-+-RPG-robeats-9134")
+                                    

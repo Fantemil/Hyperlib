@@ -18,3 +18,5 @@ addscriptexist(1537690962, "Bee Swarm Simulator Script Created By Blood Bath", "
                                 
 addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pepsi%20268.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Pepsi-2-7843")
                                 
+    addscriptexist(1537690962, "Kometa v2", "Uploaded by random_person on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kometa%20v2906.lua", "https://scriptblox.com/script/PSXbox-Bee-Swarm-Simulator-Kometa-v2-9192")
+                                    

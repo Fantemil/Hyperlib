@@ -22,3 +22,5 @@ addscriptexist(13864661000, "OPEN SOURCE", "Uploaded by TangleMangle on scriptbl
                                 
 addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceWare334.lua", "https://scriptblox.com/script/Break-In-2-(Story)-IceWareV-7872")
                                 
+    addscriptexist(13864661000, "Harlen Hub  Get All Foods And Teleport", "Uploaded by Harlen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harlen%20Hub%20%20Get%20All%20Foods%20And%20Teleport967.lua", "https://scriptblox.com/script/Break-In-2-(ORIGIN-ENDING)-Harlen-Hub-9220")
+                                    

@@ -372,3 +372,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "ZEE", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEE320.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-ZEE-9202")
                                     
+    addscriptexist(2753915549, "UPDATE 20 OP CHIBB HUB SCRIPT", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATE%2020%20OP%20CHIBB%20HUB%20SCRIPT299.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-UPDATE-20-OP-CHIBB-HUB-SCRIPT-9193")
+                                    

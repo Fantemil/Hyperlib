@@ -1,0 +1,2 @@
+
+    addscript(13052445757, "Current Game","EpicHub v12", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EpicHub%20v12906.lua", "https://scriptblox.com/script/1-million-visits-Unfamiliar-Universe-Incident-EpicHub-v1-9122")

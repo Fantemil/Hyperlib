@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/malfume/Lair/main/KING%20LEGACY%20(ADEL)%F0%9F%8E%83%F0%9F%8D%AC"))()

@@ -1,0 +1,2 @@
+
+    addscript(6469077826, "Current Game","Free Characters", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters392.lua", "https://scriptblox.com/script/!-Skibid-War-Tower-Defense-Free-Characters-9148")
