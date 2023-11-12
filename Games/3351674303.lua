@@ -18,3 +18,11 @@ addscriptexist(3351674303, "Best Autofarm Millions overnight", "Uploaded by zert
                                 
 addscriptexist(3351674303, "Driving Empire Overpowered Autofarm Car Mods Arrest All MORE", "Uploaded by iki on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Driving%20Empire%20Overpowered%20Autofarm%20Car%20Mods%20Arrest%20All%20MORE511.lua", "https://rscripts.net/script/driving-empire-overpowered-autofarm-car-mods-arrest-all-more-4200")
                                 
+    addscriptexist(3351674303, "EVENT candy Farm Collect Pumpkins", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EVENT%20candy%20Farm%20Collect%20Pumpkins598.lua", "https://scriptblox.com/script/UGC-Driving-Empire-EVENT-candy-Farm-Collect-Pumpkins-8930")
+                                    
+    addscriptexist(3351674303, "many features", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/many%20features484.lua", "https://scriptblox.com/script/UGC-Driving-Empire-many-features-9085")
+                                    
+    addscriptexist(3351674303, "UPDATED IMPROVE AUTOFARM AND AUTO RACE WIN", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20IMPROVE%20AUTOFARM%20AND%20AUTO%20RACE%20WIN652.lua", "https://scriptblox.com/script/NEW-Driving-Empire-UPDATED-IMPROVE-AUTOFARM-AND-AUTO-RACE-WIN-7332")
+                                    
+    addscriptexist(3351674303, "OVERPOWERED AUTOFARM EARN MILLIONS", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OVERPOWERED%20AUTOFARM%20EARN%20MILLIONS303.lua", "https://scriptblox.com/script/NEW-Driving-Empire-OVERPOWERED-AUTOFARM-EARN-MILLIONS-8056")
+                                    

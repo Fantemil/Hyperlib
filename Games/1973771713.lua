@@ -1,0 +1,2 @@
+
+    addscript(1973771713, "Current Game","Script", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script341.lua", "https://scriptblox.com/script/Prison-Escape-v2-Script-9239")

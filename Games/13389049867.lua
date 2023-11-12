@@ -8,3 +8,5 @@ addscriptexist(13389049867, "Infinite Cash n Morph Case and more", "Uploaded by 
                                 
 addscriptexist(13389049867, "Autofarm script", "Uploaded by VxcScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20script468.lua", "https://scriptblox.com/script/1percent-Win-Obby-Autofarm-script-8884")
                                 
+    addscriptexist(13389049867, "op script", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script619.lua", "https://scriptblox.com/script/1percent-Win-Obby-op-script-9191")
+                                    

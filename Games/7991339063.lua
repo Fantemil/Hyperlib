@@ -18,3 +18,5 @@ addscript(7991339063, "Current Game","Rainbow friends OP Script", "Uploaded by l
                                 
     addscriptexist(7991339063, "Rainbow Friends  THE 1 FREE AUTO FARM GUI ", "Uploaded by Real_King on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rainbow%20Friends%20%20THE%201%20FREE%20AUTO%20FARM%20GUI%20889.lua", "https://scriptblox.com/script/Rainbow-Friends-Rainbow-Friends-5098")
                                 
+    addscriptexist(7991339063, "ESP Collect All and more", "Uploaded by Oasis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20Collect%20All%20and%20more497.lua", "https://scriptblox.com/script/Rainbow-Friends-ESP-Collect-All-and-more-7499")
+                                    

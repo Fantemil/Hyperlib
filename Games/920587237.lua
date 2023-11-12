@@ -34,3 +34,13 @@ addscriptexist(920587237, "AM Script OP FARM NEW UPDATE", "Uploaded by rrcreatio
                                 
 addscriptexist(920587237, "Money changer", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20changer104.lua", "https://scriptblox.com/script/Adopt-Me!-Money-changer-7695")
                                 
+    addscriptexist(920587237, "All automatically", "Uploaded by Mekloor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20automatically400.lua", "https://scriptblox.com/script/Adopt-Me!-All-automatically-8951")
+                                    
+    addscriptexist(920587237, "auto farm baby", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20baby386.lua", "https://scriptblox.com/script/Adopt-Me!-auto-farm-baby-8963")
+                                    
+    addscriptexist(920587237, "OP CANDY FULL FARM", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20CANDY%20FULL%20FARM351.lua", "https://scriptblox.com/script/Adopt-Me!-OP-CANDY-FULL-FARM-8797")
+                                    
+    addscriptexist(920587237, "Auto Farm money", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20money556.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Farm-money-8616")
+                                    
+    addscriptexist(920587237, "troll money script", "Uploaded by mwexico on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/troll%20money%20script920.lua", "https://scriptblox.com/script/Adopt-Me!-MEINFMONEY-7696")
+                                    

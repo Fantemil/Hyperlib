@@ -8,3 +8,5 @@ addscriptexist(12986400307, "Best Script Blox Hub  kill aura and alot more", "Up
                                 
 addscriptexist(12986400307, "Instant Sword Swing", "Uploaded by Breadido on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Sword%20Swing317.lua", "https://scriptblox.com/script/ToiletTower!Sword-Warriors!-Instant-Sword-Swing-7653")
                                 
+    addscriptexist(12986400307, "NEW OP SCRIPT", "Uploaded by Cyber on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20OP%20SCRIPT24.lua", "https://scriptblox.com/script/Toilet!Event!Sword-Warriors!-NEW-OP-SCRIPT-7866")
+                                    

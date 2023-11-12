@@ -82,3 +82,9 @@ addscriptexist(537413528, "Ruby Hub", "Uploaded by Deni210 on scriptblox.com", "
                                 
 addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cndy%20Frm%20Open%20Source737.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Cndy-Frm-9012")
                                 
+    addscriptexist(537413528, "OP utofrm Buy Deleted Robux Items Get Plyer Dt", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20utofrm%20Buy%20Deleted%20Robux%20Items%20Get%20Plyer%20Dt822.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-OP-utofrm-Buy-Deleted-Robux-Items-Get-Plyer-Dt-9235")
+                                    
+    addscriptexist(537413528, "Cndy Frm Hlloween Event", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cndy%20Frm%20Hlloween%20Event407.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Cndy-Frm-Hlloween-Event-9011")
+                                    
+    addscriptexist(537413528, "Gold uto Frm", "Uploaded by hookscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gold%20uto%20Frm567.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-uto-Frm-8127")
+                                    

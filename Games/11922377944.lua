@@ -1,0 +1,2 @@
+
+    addscript(11922377944, "Current Game","Inferno Event and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inferno%20Event%20and%20more133.lua", "https://scriptblox.com/script/Treasure-Simulator-Inferno-Event-and-more-8605")

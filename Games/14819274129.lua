@@ -1,2 +1,4 @@
 
 addscript(14819274129, "Current Game","gud farms ig", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gud%20farms%20ig912.lua", "https://scriptblox.com/script/UPD-1.5-+-2x-Noob-Slayer-Simulator-gud-farms-ig-9073")
+    addscriptexist(14819274129, "Auto Fight n Reward Chest and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fight%20n%20Reward%20Chest%20and%20more94.lua", "https://scriptblox.com/script/UPD-1-Noob-Slayer-Simulator-Auto-Fight-n-Reward-Chest-and-more-8978")
+                                    

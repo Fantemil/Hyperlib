@@ -120,3 +120,21 @@ addscriptexist(142823291, "Very op very good stuff open source", "Uploaded by Ev
                                 
 addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quantumix%20HUB251.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Coin-Farm-7572")
                                 
+    addscriptexist(142823291, "op script", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script899.lua", "https://scriptblox.com/script/Murder-Mystery-2-op-script-9083")
+                                    
+    addscriptexist(142823291, "Really Cool Script lol", "Uploaded by Aura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Really%20Cool%20Script%20lol24.lua", "https://scriptblox.com/script/Murder-Mystery-2-Really-Cool-Script-lol-8309")
+                                    
+    addscriptexist(142823291, "fast auto farm", "Uploaded by Unknown on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fast%20auto%20farm130.lua", "https://scriptblox.com/script/Murder-Mystery-2-fast-auto-farm-7484")
+                                    
+    addscriptexist(142823291, "MeoW HUB", "Uploaded by freebat123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MeoW%20HUB878.lua", "https://scriptblox.com/script/Murder-Mystery-2-MeoW-HUB-8255")
+                                    
+    addscriptexist(142823291, "Kidachi Easy Candies", "Uploaded by _Deity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20Easy%20Candies877.lua", "https://scriptblox.com/script/Murder-Mystery-2-Kidachi-Free-Candies-8776")
+                                    
+    addscriptexist(142823291, "ERA HUB Coin farm kill all Silent aim Visuals and more", "Uploaded by baclan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ERA%20HUB%20Coin%20farm%20kill%20all%20Silent%20aim%20Visuals%20and%20more82.lua", "https://scriptblox.com/script/Murder-Mystery-2-ERA-HUB-Coin-farm-kill-all-Silent-aim-Visuals-and-more-8619")
+                                    
+    addscriptexist(142823291, "FAST AUTO FARM", "Uploaded by fixat82136 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20AUTO%20FARM309.lua", "https://scriptblox.com/script/Murder-Mystery-2-FAST-AURO-FARM-8780")
+                                    
+    addscriptexist(142823291, "OP AUTO FARM CANDY", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20CANDY162.lua", "https://scriptblox.com/script/Murder-Mystery-2-OP-AUTO-FARM-CANDY-8841")
+                                    
+    addscriptexist(142823291, "MmK", "Uploaded by go8414599 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MmK967.lua", "https://scriptblox.com/script/Murder-Mystery-2-MmK-8062")
+                                    

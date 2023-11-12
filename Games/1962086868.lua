@@ -42,3 +42,11 @@ addscriptexist(1962086868, "Godmode script works on", "Uploaded by Saturn on scr
                                 
 addscriptexist(1962086868, "Incoak TOH", "Uploaded by Incoak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Incoak%20TOH201.lua", "https://scriptblox.com/script/Tower-of-Hell-Script-7375")
                                 
+    addscriptexist(1962086868, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L516.lua", "https://scriptblox.com/script/Tower-of-Hell-Project-L-9224")
+                                    
+    addscriptexist(1962086868, "AutoWin GodMode  Get All Items", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoWin%20GodMode%20%20Get%20All%20Items86.lua", "https://scriptblox.com/script/Tower-of-Hell-AutoWin-GodMode-Get-All-Items-7729")
+                                    
+    addscriptexist(1962086868, "OP Cool Gui Lol", "Uploaded by Jakey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Cool%20Gui%20Lol643.lua", "https://scriptblox.com/script/Tower-of-Hell-OP-Cool-Gui-Lol-8513")
+                                    
+    addscriptexist(1962086868, "Saturn Hub Op", "Uploaded by Saturn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saturn%20Hub%20Op641.lua", "https://scriptblox.com/script/Tower-of-Hell-Saturn-Hub-Op-9141")
+                                    

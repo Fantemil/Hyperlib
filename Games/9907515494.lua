@@ -1,2 +1,4 @@
 
 addscript(9907515494, "Current Game","give yourself infinite", "Uploaded by Walmart on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/give%20yourself%20infinite839.lua", "https://scriptblox.com/script/Limited-Jumps-New-Redeem-Code-give-yourself-infinite-4959")
+    addscriptexist(9907515494, "disscountinued", "Uploaded by botbrostopusing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/disscountinued340.lua", "https://scriptblox.com/script/Pets-Limited-Jumps-script-7469")
+                                    

@@ -12,3 +12,21 @@ addscriptexist(10449761463, "fake genos ult 29k views celebrate", "Uploaded by W
                                 
 addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB71.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-7421")
                                 
+    addscriptexist(10449761463, "box hub", "Uploaded by x2p3m8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/box%20hub732.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-box-hub-9117")
+                                    
+    addscriptexist(10449761463, "Brutal Demon UPDATE AutoFarm Players", "Uploaded by tarikj56 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brutal%20Demon%20UPDATE%20AutoFarm%20Players206.lua", "https://scriptblox.com/script/Brutal-Demon-The-Strongest-Battlegrounds-Brutal-Demon-UPDATE-AutoFarm-Players-9031")
+                                    
+    addscriptexist(10449761463, "TSB Void Script", "Uploaded by my_name_is_Joshua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20Void%20Script285.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-Void-Script-8474")
+                                    
+    addscriptexist(10449761463, "OVERPOWERED GUI TONS OF FEATURES", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OVERPOWERED%20GUI%20TONS%20OF%20FEATURES963.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-OVERPOWERED-GUI-TONS-OF-FEATURES-8306")
+                                    
+    addscriptexist(10449761463, "OP SCRIPT", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT143.lua", "https://scriptblox.com/script/Brutal-Demon-The-Strongest-Battlegrounds-OP-SCRIPT-9039")
+                                    
+    addscriptexist(10449761463, "Void Script Tsb", "Uploaded by gbrillo100 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Script%20Tsb777.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Void-Script-Tsb-8531")
+                                    
+    addscriptexist(10449761463, "Tsb Void Player Tutorial on Discord", "Uploaded by Script_Service on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsb%20Void%20Player%20Tutorial%20on%20Discord424.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Tsb-Void-Player-Tutorial-on-Discord-8508")
+                                    
+    addscriptexist(10449761463, "Void TSB Script", "Uploaded by Unknowscripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20TSB%20Script644.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Void-TSB-Script-8633")
+                                    
+    addscriptexist(10449761463, "Saitama Battleground Void Script", "Uploaded by srscripter19 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saitama%20Battleground%20Void%20Script160.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Saitama-Battleground-Void-Script-8950")
+                                    

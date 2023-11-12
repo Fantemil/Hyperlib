@@ -10,3 +10,7 @@ addscript(6766156863, "Current Game","really op afk grind", "Uploaded by mikoidk
                                 
 addscriptexist(6766156863, "OP  sim", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20sim763.lua", "https://scriptblox.com/script/Strongman-Simulator-OP-sim-8353")
                                 
+    addscriptexist(6766156863, "Halloween Update and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Halloween%20Update%20and%20more872.lua", "https://scriptblox.com/script/10X!-Strongman-Simulator-Halloween-Update-and-more-8983")
+                                    
+    addscriptexist(6766156863, "Auto Grab n Auto Workout and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Grab%20n%20Auto%20Workout%20and%20more331.lua", "https://scriptblox.com/script/5xStrongman-Simulator-Auto-Grab-n-Auto-Workout-and-more-8395")
+                                    

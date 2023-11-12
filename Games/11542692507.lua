@@ -4,3 +4,5 @@ addscriptexist(11542692507, "Mendopt Me Auto Quest", "Uploaded by Cosmog on rscr
                                 
 addscriptexist(11542692507, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub716.lua", "https://scriptblox.com/script/UPD-29-Anime-Souls-Simulator-MaddHub-6911")
                                 
+    addscriptexist(11542692507, "Farming", "Uploaded by xtriplesx1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming265.lua", "https://scriptblox.com/script/UPDATE-34-Anime-Souls-Simulator-Farming-8113")
+                                    

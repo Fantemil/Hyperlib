@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBossScript/ThumbWarSim/main/ThumbWarSim"))()

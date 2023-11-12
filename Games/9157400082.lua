@@ -1,0 +1,2 @@
+
+    addscript(9157400082, "Current Game","DemonicHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB%20V2658.lua", "https://scriptblox.com/script/Anime-Power-Tycoon-DemonicHUB-V2-9109")

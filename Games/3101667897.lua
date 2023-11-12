@@ -30,3 +30,11 @@ addscriptexist(3101667897, "111111111111111111111111111111111111111111111", "Upl
                                 
 addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20autarm%20script385.lua", "https://scriptblox.com/script/Legends-Of-Speed-Op-autarm-script-7302")
                                 
+    addscriptexist(3101667897, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L641.lua", "https://scriptblox.com/script/Legends-Of-Speed-Project-L-9211")
+                                    
+    addscriptexist(3101667897, "DemonicHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB%20V2701.lua", "https://scriptblox.com/script/Legends-Of-Speed-DemonicHUB-V2-9163")
+                                    
+    addscriptexist(3101667897, "DarkMoon X", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkMoon%20X164.lua", "https://scriptblox.com/script/Legends-Of-Speed-DarkMoon-X-9229")
+                                    
+    addscriptexist(3101667897, "LOS Op Script For Mobile And Pc", "Uploaded by DraWatX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOS%20Op%20Script%20For%20Mobile%20And%20Pc134.lua", "https://scriptblox.com/script/Legends-Of-Speed-Op-Script-7343")
+                                    

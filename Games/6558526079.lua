@@ -1,0 +1,2 @@
+
+    addscript(6558526079, "Current Game","DemonicHUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB233.lua", "https://scriptblox.com/script/Update-8.5-Anime-World-Tower-Defense-DemonicHUB-8461")

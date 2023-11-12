@@ -1,2 +1,4 @@
 
 addscript(14394383815, "Current Game","OP Script GUI", "Uploaded by 56_Clubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20GUI710.lua", "https://scriptblox.com/script/LIMITED-PET-Break-Grimace-Shake-OP-Script-GUI-7856")
+    addscriptexist(14394383815, "Infinite Win n VIP Room and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Win%20n%20VIP%20Room%20and%20more77.lua", "https://scriptblox.com/script/LIMITED-PET-Break-Grimace-Shake-Infinite-Win-n-VIP-Room-and-more-7886")
+                                    

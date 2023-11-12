@@ -1,0 +1,2 @@
+
+    addscript(13985303823, "Current Game","Demon Slayer   Script", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Slayer%20%20%20Script125.lua", "https://scriptblox.com/script/Trading-RevampDemon-Slayer:-Burning-Ashes-Demon-Slayer-Script-9240")

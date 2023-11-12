@@ -4,3 +4,5 @@ addscriptexist(13910706751, "AutoFarm for Toilert", "Uploaded by soldadodeelite4
                                 
 addscriptexist(13910706751, "Best Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script836.lua", "https://scriptblox.com/script/FREE-LIMITED-Skibi-Battle-Simulator-Best-Script-7442")
                                 
+    addscriptexist(13910706751, "DemonicHUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB802.lua", "https://scriptblox.com/script/Toilet-Battle-Simulator-DemonicHUB-8875")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dustin21335/Crate-ESP/main/Crate%20ESP.lua"))()

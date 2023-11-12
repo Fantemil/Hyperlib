@@ -16,3 +16,7 @@ addscriptexist(13973120326, "Script OP", "Uploaded by lhobba14 on scriptblox.com
                                 
 addscriptexist(13973120326, "autofarm", "Uploaded by piqu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm319.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-autofarm-7069")
                                 
+    addscriptexist(13973120326, "OP Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm464.lua", "https://scriptblox.com/script/FREE-LIMITED-Butterfly-Race-OP-Auto-Farm-8203")
+                                    
+    addscriptexist(13973120326, "Inf Wins  Auto Rebirth", "Uploaded by Noctural on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Wins%20%20Auto%20Rebirth434.lua", "https://scriptblox.com/script/FREE-LIMITED-Grimace-Race-Infinite-Wins-7740")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dustin21335/Ore-Esp/main/Ore%20esp.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(5732301513, "Current Game","Head Hitbox Extender", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Head%20Hitbox%20Extender565.lua", "https://scriptblox.com/script/TRENCHES-Head-Hitbox-Extender-8357")

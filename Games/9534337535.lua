@@ -6,3 +6,5 @@ addscript(9534337535, "Current Game","Complete Levels", "Uploaded by lewa on scr
                                 
     addscriptexist(9534337535, "gui thg", "Uploaded by garfieldcatto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui%20thg467.lua", "https://scriptblox.com/script/Shrek-in-the-Backrooms-(Flame-Thrower!)-gui-thg-3723")
                                 
+    addscriptexist(9534337535, "Lewa Hub  Complete Levels", "Uploaded by lewa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lewa%20Hub%20%20Complete%20Levels947.lua", "https://scriptblox.com/script/UPD-Shrek-in-The-Backrooms-Lewa-Hub-Complete-Levels-9086")
+                                    

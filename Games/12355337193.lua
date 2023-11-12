@@ -14,3 +14,5 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                 
     addscriptexist(12355337193, "ANTICHEAT BYPASS", "Uploaded by norb_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTICHEAT%20BYPASS884.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-ANTICHEAT-BYPASS-9158")
                                     
+    addscriptexist(12355337193, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quantumix%20HUB129.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Quantumix-HUB-7716")
+                                    

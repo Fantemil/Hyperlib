@@ -1,0 +1,4 @@
+
+    addscript(14544749862, "Current Game","Free Characters Script", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters%20Script464.lua", "https://scriptblox.com/script/Supreme-Bathroom-Battles-Free-Characters-Script-8234")
+    addscriptexist(14544749862, "Free Characters Script Rework 80v Halloween Update", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters%20Script%20Rework%2080v%20Halloween%20Update164.lua", "https://scriptblox.com/script/Supreme-Bathroom-Battles-Free-Characters-Script-Rework-8238")
+                                    

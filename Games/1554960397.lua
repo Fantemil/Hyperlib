@@ -20,3 +20,5 @@ addscriptexist(1554960397, "FREE Car Dealership Tycoon Autofarm", "Uploaded by B
                                 
 addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/candy%20farm658.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-candy-farm-9229")
                                 
+    addscriptexist(1554960397, "IceWare", "Uploaded by capi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceWare284.lua", "https://scriptblox.com/script/dollar8M-LIMITED!-Car-Dealership-Tycoon-IceWare-7588")
+                                    

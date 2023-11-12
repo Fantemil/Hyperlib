@@ -44,3 +44,9 @@ addscriptexist(4924922222, "Red z hub", "Uploaded by paulohenriquehick05 on scri
                                 
 addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20HUB978.lua", "https://scriptblox.com/script/Brookhaven-RP-JUANKO-HUB-8308")
                                 
+    addscriptexist(4924922222, "OP Fling Copy Player Avatars Get Gamepasses", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Fling%20Copy%20Player%20Avatars%20Get%20Gamepasses552.lua", "https://scriptblox.com/script/Brookhaven-RP-OP-Fling-Copy-Player-Avatars-Get-Gamepasses-9187")
+                                    
+    addscriptexist(4924922222, "OP SCRIPT HALLOWEEN", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20HALLOWEEN202.lua", "https://scriptblox.com/script/Brookhaven-RP-OP-SCRIPT-HALLOWEEN-8790")
+                                    
+    addscriptexist(4924922222, "Get All Halloween Cars and collect Candys", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Halloween%20Cars%20and%20collect%20Candys459.lua", "https://scriptblox.com/script/Brookhaven-RP-Get-All-Halloween-Cars-and-collect-Candys-9059")
+                                    

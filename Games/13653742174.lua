@@ -1,0 +1,4 @@
+
+    addscript(13653742174, "Current Game","DemonicHUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB60.lua", "https://scriptblox.com/script/Muscle-Simulator-DemonicHUB-8976")
+    addscriptexist(13653742174, "Auto Click n Sell and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Click%20n%20Sell%20and%20more54.lua", "https://scriptblox.com/script/Muscle-Simulator-Auto-Click-n-Sell-and-more-8221")
+                                    

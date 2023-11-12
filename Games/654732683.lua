@@ -6,3 +6,5 @@ addscriptexist(654732683, "GUIs", "Uploaded by Breadido on scriptblox.com", "htt
                                 
 addscriptexist(654732683, "infinite max speed", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20max%20speed659.lua", "https://scriptblox.com/script/New-Car-Car-Crushers-2-infinite-max-speed-8608")
                                 
+    addscriptexist(654732683, "BEST AUTOFARM AND MORE", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOFARM%20AND%20MORE363.lua", "https://scriptblox.com/script/New-Car-Car-Crushers-2-BEST-AUTOFARM-AND-MORE-7496")
+                                    

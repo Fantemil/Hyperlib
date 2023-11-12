@@ -18,3 +18,5 @@ addscriptexist(7655745946, "Get 1000x cash boost", "Uploaded by XFuscator on scr
                                 
 addscriptexist(7655745946, "infinite Spins", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Spins904.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-infinite-Spin-8906")
                                 
+    addscriptexist(7655745946, "Perfect Accuracy", "Uploaded by AlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Perfect%20Accuracy413.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-Perfect-Accuracy-7704")
+                                    

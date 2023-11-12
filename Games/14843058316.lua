@@ -1,0 +1,2 @@
+
+    addscript(14843058316, "Current Game","Scrlpt UP2", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scrlpt%20UP2695.lua", "https://scriptblox.com/script/The-script-game-Scrlpt-UP2-8020")

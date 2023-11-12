@@ -12,3 +12,7 @@ addscriptexist(8908228901, "Fast Kill Shark", "Uploaded by Aura on scriptblox.co
                                 
 addscriptexist(8908228901, "Custom Boat Speed Kill Shark and more", "Uploaded by Aura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Boat%20Speed%20Kill%20Shark%20and%20more673.lua", "https://scriptblox.com/script/VIPER-BOAT!-SharkBite-2-Boat-Speed-Kill-Shark-more-7354")
                                 
+    addscriptexist(8908228901, "Really Cool Script", "Uploaded by Oasis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Really%20Cool%20Script658.lua", "https://scriptblox.com/script/SharkBite-2-Really-Cool-Script-7821")
+                                    
+    addscriptexist(8908228901, "Shark Bite  OP Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shark%20Bite%20%20OP%20Auto%20Farm994.lua", "https://scriptblox.com/script/(PLASMA-TURRET!)-SharkBite-2-Shark-Bite-OP-Auto-Farm-8139")
+                                    

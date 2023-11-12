@@ -1,0 +1,2 @@
+
+    addscript(13448967656, "Current Game","Infinite Money", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money477.lua", "https://scriptblox.com/script/Dominus-Merge-Tycoon-Infinite-Money-8523")

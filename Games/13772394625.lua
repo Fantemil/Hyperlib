@@ -256,3 +256,111 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto Parry Never LOSE", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Never%20LOSE663.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Never-LOSE-9180")
                                     
+    addscriptexist(13772394625, "DraWatX", "Uploaded by DraWatX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DraWatX727.lua", "https://scriptblox.com/script/Blade-Ball-DraWatX-9210")
+                                    
+    addscriptexist(13772394625, "Auto parry Beta miss for me", "Uploaded by Cris_gtg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20parry%20Beta%20miss%20for%20me922.lua", "https://scriptblox.com/script/Blade-Ball-Auto-parry-Beta-miss-for-me-9186")
+                                    
+    addscriptexist(13772394625, "OP script", "Uploaded by xsnowfxll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script632.lua", "https://scriptblox.com/script/Blade-Ball-OP-script-9122")
+                                    
+    addscriptexist(13772394625, "Discrete Autofarm HIGH WINRATE", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Discrete%20Autofarm%20HIGH%20WINRATE257.lua", "https://scriptblox.com/script/Blade-Ball-Autofarm-8968")
+                                    
+    addscriptexist(13772394625, "Super Cool Script OP", "Uploaded by Aura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Cool%20Script%20OP3.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Super-Cool-Script-OP-9000")
+                                    
+    addscriptexist(13772394625, "MYN HUB OP MOBILE AUTOPARRY NOW KEYLESS", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MYN%20HUB%20OP%20MOBILE%20AUTOPARRY%20NOW%20KEYLESS359.lua", "https://scriptblox.com/script/UPD-Blade-Ball-MYN-HUB-OP-MOBILE-AUTOPARRY-NOW-KEYLESS-9141")
+                                    
+    addscriptexist(13772394625, "spam parry OP update Halloween mobile and pc", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/spam%20parry%20OP%20update%20Halloween%20mobile%20and%20pc849.lua", "https://scriptblox.com/script/Blade-Ball-spam-parry-OP-update-Halloween-mobile-and-pc-8941")
+                                    
+    addscriptexist(13772394625, "Era Hub Auto Parry Ruin Games Best Visuals and More", "Uploaded by baclan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Era%20Hub%20Auto%20Parry%20Ruin%20Games%20Best%20Visuals%20and%20More188.lua", "https://scriptblox.com/script/Blade-Ball-Era-Hub-Auto-Parry-Ruin-Games-Best-Visuals-and-More-8619")
+                                    
+    addscriptexist(13772394625, "Ken   Circulo", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20%20%20Circulo753.lua", "https://scriptblox.com/script/Blade-Ball-Ken-Circulo-8290")
+                                    
+    addscriptexist(13772394625, "GODLY AUTOPARRY AND SO MUCH MORE", "Uploaded by fbibo_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GODLY%20AUTOPARRY%20AND%20SO%20MUCH%20MORE440.lua", "https://scriptblox.com/script/Blade-Ball-GODLY-AUTOPARRY-AND-SO-MUCH-MORE-9159")
+                                    
+    addscriptexist(13772394625, "Neptune hubupdated 1", "Uploaded by TOP_PLAYzYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neptune%20hubupdated%201148.lua", "https://scriptblox.com/script/UPD-Blade-Ball-TOP-HUB-8760")
+                                    
+    addscriptexist(13772394625, "Very new Script OP", "Uploaded by dima on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20new%20Script%20OP691.lua", "https://scriptblox.com/script/Blade-Ball-Very-new-Script-OP-8964")
+                                    
+    addscriptexist(13772394625, "Visual GUI", "Uploaded by Dragon5819 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20GUI549.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Visualise-GUI-9073")
+                                    
+    addscriptexist(13772394625, "OP AUTO PARRY SCRIPT", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20PARRY%20SCRIPT617.lua", "https://scriptblox.com/script/Blade-Ball-OP-AUTO-PARRY-SCRIPT-8879")
+                                    
+    addscriptexist(13772394625, "Neptune Hub best", "Uploaded by TOP_PLAYzYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neptune%20Hub%20best584.lua", "https://scriptblox.com/script/Blade-Ball-Neptune-Hub-best-9077")
+                                    
+    addscriptexist(13772394625, "Fuji hub", "Uploaded by Ijustknow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fuji%20hub436.lua", "https://scriptblox.com/script/Blade-Ball-Fuji-hub-8944")
+                                    
+    addscriptexist(13772394625, "best auto parry", "Uploaded by Breadido on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20auto%20parry990.lua", "https://scriptblox.com/script/Blade-Ball-best-auto-parry-7828")
+                                    
+    addscriptexist(13772394625, "BEST AUTOPARRY AND LOADS MORE", "Uploaded by fbibo_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOPARRY%20AND%20LOADS%20MORE466.lua", "https://scriptblox.com/script/Blade-Ball-BEST-AUTOPARRY-AND-LOADS-MORE-8617")
+                                    
+    addscriptexist(13772394625, "DemonicHUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB968.lua", "https://scriptblox.com/script/UPD-Blade-Ball-DemonicHUB-8717")
+                                    
+    addscriptexist(13772394625, "Auto Parry and Vote plus Infinite Abilities", "Uploaded by Dottik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20and%20Vote%20plus%20Infinite%20Abilities461.lua", "https://scriptblox.com/script/NEW-Blade-Ball-Auto-Parry-and-Vote-plus-Infinite-Abilities-7762")
+                                    
+    addscriptexist(13772394625, "GUI Auto Parry Auto Vote More Features Soon", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20Auto%20Parry%20Auto%20Vote%20More%20Features%20Soon410.lua", "https://scriptblox.com/script/Blade-Ball-GUI-Auto-Parry-Auto-Vote-More-Features-Soon-8253")
+                                    
+    addscriptexist(13772394625, "Neptune for BB", "Uploaded by xsnowfxll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neptune%20for%20BB880.lua", "https://scriptblox.com/script/Blade-Ball-Neptune-for-BB-9121")
+                                    
+    addscriptexist(13772394625, "OP AUTO PARRY  999999 WINS", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20PARRY%20%20999999%20WINS901.lua", "https://scriptblox.com/script/Blade-Ball-OP-AUTO-PARRY-999999-WINS-8794")
+                                    
+    addscriptexist(13772394625, "Auto Block Unlock Skill", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Block%20Unlock%20Skill142.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Block-Unlock-Skill-8171")
+                                    
+    addscriptexist(13772394625, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project721.lua", "https://scriptblox.com/script/UPD-Blade-Ball-BT-Project-8688")
+                                    
+    addscriptexist(13772394625, "Mthhx Hub", "Uploaded by Mthhx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mthhx%20Hub629.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Mthhx-Hub-8742")
+                                    
+    addscriptexist(13772394625, "OP AUTO PARRY  WORKING", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20PARRY%20%20WORKING755.lua", "https://scriptblox.com/script/UPD-Blade-Ball-OP-AUTO-PARRY-WORKING-8744")
+                                    
+    addscriptexist(13772394625, "Very Op Script", "Uploaded by lunarwander on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20Op%20Script382.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Very-Op-Script-8771")
+                                    
+    addscriptexist(13772394625, "NEW UPDATED AI AUTO FARM", "Uploaded by rotod47419 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20UPDATED%20AI%20AUTO%20FARM539.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEW-UPDATED-AI-AUTO-FARM-8091")
+                                    
+    addscriptexist(13772394625, "Auto Parry Auto Win Free Abilities  Lock MORE", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Auto%20Win%20Free%20Abilities%20%20Lock%20MORE29.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Parry-Auto-Win-Free-Abilities-Lock-MORE-9011")
+                                    
+    addscriptexist(13772394625, "Auto Parry  Manual Spam", "Uploaded by kingresos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20%20Manual%20Spam67.lua", "https://scriptblox.com/script/Blade-Ball-er-8164")
+                                    
+    addscriptexist(13772394625, "Peroxide Hub AUTO PARRY CLICK TP  SPEED", "Uploaded by Peroxide on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Peroxide%20Hub%20AUTO%20PARRY%20CLICK%20TP%20%20SPEED878.lua", "https://scriptblox.com/script/Blade-Ball-Peroxide-Hub-AUTO-PARRY-CLICK-TP-***-SPEED-8162")
+                                    
+    addscriptexist(13772394625, "f0nez3 Gui", "Uploaded by instahacked28 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/f0nez3%20Gui734.lua", "https://scriptblox.com/script/UPD-Blade-Ball-f0nez3-Gui-8247")
+                                    
+    addscriptexist(13772394625, "OP Autofarm", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm995.lua", "https://scriptblox.com/script/Blade-Ball-OP-Autofarm-9173")
+                                    
+    addscriptexist(13772394625, "many features", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/many%20features365.lua", "https://scriptblox.com/script/Blade-Ball-many-features-9097")
+                                    
+    addscriptexist(13772394625, "NEW Lazium Hub LOADER", "Uploaded by Lazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Lazium%20Hub%20LOADER627.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Lazium-Hub-7840")
+                                    
+    addscriptexist(13772394625, "BB Op script", "Uploaded by FaxMoonJ4K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BB%20Op%20script316.lua", "https://scriptblox.com/script/UPD-Blade-Ball-BB-Op-script-9135")
+                                    
+    addscriptexist(13772394625, "Auto Parry Auto Win Free Skills Lock Onto s MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Auto%20Win%20Free%20Skills%20Lock%20Onto%20s%20MORE967.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Parry-Auto-Win-Free-Skills-Lock-Onto-s-MORE-7873")
+                                    
+    addscriptexist(13772394625, "DevHub", "Uploaded by JustDev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevHub607.lua", "https://scriptblox.com/script/Blade-Ball-DevHub-7869")
+                                    
+    addscriptexist(13772394625, "NEW OP SCRIPT", "Uploaded by fixat82136 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20OP%20SCRIPT171.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEW-OP-SCRIPT-9061")
+                                    
+    addscriptexist(13772394625, "Very OP New UPDATE", "Uploaded by LexusSS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20New%20UPDATE698.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Very-OP-New-UPDATE-9035")
+                                    
+    addscriptexist(13772394625, "NEW KINGSTON UPDATE BEST CLOSE AND LONG", "Uploaded by unknowntrojan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20KINGSTON%20UPDATE%20BEST%20CLOSE%20AND%20LONG677.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEW-KINGSTON-UPDATE-BEST-CLOSE-AND-LONG-8721")
+                                    
+    addscriptexist(13772394625, "Alchemy Hub V2", "Uploaded by x2Neptune on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20V2217.lua", "https://scriptblox.com/script/Blade-Ball-Alchemy-Hub-V2-8528")
+                                    
+    addscriptexist(13772394625, "Auto Parry Teleport To  Auto Win", "Uploaded by Sammy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Teleport%20To%20%20Auto%20Win100.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Parry-Teleport-To-Auto-Win-8104")
+                                    
+    addscriptexist(13772394625, "OP Auto Parry Script", "Uploaded by Dragon5819 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Parry%20Script846.lua", "https://scriptblox.com/script/Blade-Ball-OP-Auto-Parry-Script-9086")
+                                    
+    addscriptexist(13772394625, "GUI BEST AUTOPARRY AND CLOSE COMBAT ALWAYS WIN", "Uploaded by unknowntrojan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20BEST%20AUTOPARRY%20AND%20CLOSE%20COMBAT%20ALWAYS%20WIN330.lua", "https://scriptblox.com/script/UPD-Blade-Ball-GUI-BEST-AUTOPARRY-AND-CLOSE-COMBAT-ALWAYS-WIN-8671")
+                                    
+    addscriptexist(13772394625, "OUTLAW Scripts", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OUTLAW%20Scripts914.lua", "https://scriptblox.com/script/UPD-Blade-Ball-OUTLAW-Scripts-9140")
+                                    
+    addscriptexist(13772394625, "Freeze script", "Uploaded by Meme123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20script423.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Freeze-script-8472")
+                                    
+    addscriptexist(13772394625, "Kidachi", "Uploaded by _Deity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi99.lua", "https://scriptblox.com/script/NEW-Blade-Ball-Kidachi-7766")
+                                    
+    addscriptexist(13772394625, "BEST OP Script Auto Parry", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20OP%20Script%20Auto%20Parry667.lua", "https://scriptblox.com/script/Blade-Ball-OP-Script-Auto-Parry-8133")
+                                    
+    addscriptexist(13772394625, "So Cool Script Lol", "Uploaded by Oasis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/So%20Cool%20Script%20Lol264.lua", "https://scriptblox.com/script/UPD-Blade-Ball-So-Cool-Script-Lol-7915")
+                                    
+    addscriptexist(13772394625, "Agony Hub", "Uploaded by Agonyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Agony%20Hub535.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Agony-Hub-8434")
+                                    
+    addscriptexist(13772394625, "New op script", "Uploaded by TOP_PLAYzYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20op%20script670.lua", "https://scriptblox.com/script/Blade-Ball-New-op-script-8956")
+                                    
+    addscriptexist(13772394625, "f0nez3 Hub", "Uploaded by instahacked28 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/f0nez3%20Hub216.lua", "https://scriptblox.com/script/Blade-Ball-f0nez3-Hub-8806")
+                                    

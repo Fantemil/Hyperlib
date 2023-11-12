@@ -22,3 +22,5 @@ addscriptexist(3527629287, "Best BIG PAINTBALL Script Out There", "Uploaded by M
                                 
 addscriptexist(3527629287, "Fazium the new aim solution", "Uploaded by Fazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fazium%20the%20new%20aim%20solution711.lua", "https://scriptblox.com/script/BIG-Paintball!-Fazium-the-new-aim-solution-7908")
                                 
+    addscriptexist(3527629287, "Pikachu Hub x Cyanide Scripts", "Uploaded by FreeUGCS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pikachu%20Hub%20x%20Cyanide%20Scripts199.lua", "https://scriptblox.com/script/BIG-Paintball!-Pikachu-Hub-7831")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Killa5676/Killa-s-Scripts/main/pull%20a%20sword"))()

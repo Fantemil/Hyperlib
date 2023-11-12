@@ -1,0 +1,2 @@
+
+    addscript(14855671324, "Current Game","Free pumpkin", "Uploaded by jicobis707 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20pumpkin144.lua", "https://scriptblox.com/script/FREE-UGC-LIMITED-Haunted-Halloween-Obby-NEW-Free-pumpkin-8292")

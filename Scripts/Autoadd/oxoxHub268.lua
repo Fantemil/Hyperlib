@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Krnow1/Bladeball_g/main/Credits_krnow"))();

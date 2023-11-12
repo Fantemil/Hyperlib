@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sandwichk/RobloxScripts/main/Scripts/ThunderZ/Load.lua"))():load("https://raw.githubusercontent.com/ThunderZ-05/HUB/main/Script")

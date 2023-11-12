@@ -6,3 +6,7 @@ addscriptexist(815405518, "The The Floor Is LAVA", "Uploaded by Appelman on rscr
                                 
 addscriptexist(815405518, "instant ugc", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/instant%20ugc476.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-instant-ugc-9118")
                                 
+    addscriptexist(815405518, "Instant UGC", "Uploaded by tibe0124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC758.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-Instant-UGC-9139")
+                                    
+    addscriptexist(815405518, "VIP Room n Win Round", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Win%20Round491.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-VIP-Room-n-Win-Round-7543")
+                                    

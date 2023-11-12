@@ -46,3 +46,5 @@ addscriptexist(9872472334, "pearl hub", "Uploaded by adhikalaks2 on scriptblox.c
                                 
 addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D8rk%20Hub%20%20Version%2010848.lua", "https://scriptblox.com/script/Evade-D8rk-Hub-7202")
                                 
+    addscriptexist(9872472334, "Good Script", "Uploaded by bannedbyfranz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20Script963.lua", "https://scriptblox.com/script/Evade-Good-Script-9228")
+                                    

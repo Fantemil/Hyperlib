@@ -10,3 +10,5 @@ addscriptexist(1240123653, "Overpowered Autofarm", "Uploaded by zerticzy on scri
                                 
 addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Wins106.lua", "https://scriptblox.com/script/Zombie-Attack-Free-Wins-6888")
                                 
+    addscriptexist(1240123653, "Best Autofarm Silent Aim Collect Powerups MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarm%20Silent%20Aim%20Collect%20Powerups%20MORE467.lua", "https://scriptblox.com/script/Zombie-Attack-Best-Autofarm-Silent-Aim-Collect-Powerups-MORE-7887")
+                                    

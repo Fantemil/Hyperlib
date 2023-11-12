@@ -1,0 +1,2 @@
+
+    addscript(14430668093, "Current Game","Autofarm and QOL", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20and%20QOL241.lua", "https://scriptblox.com/script/Blob-Eating-Simulator-Autofarm-and-QOL-8981")

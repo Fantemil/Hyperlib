@@ -92,3 +92,5 @@ addscriptexist(6872265039, "Vicious Hub  Afk Autofarm", "Uploaded by apua559 on 
                                 
 addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20b4782.lua", "https://scriptblox.com/script/BedWars-EMERALD-SHIELD!-Raven-b4-for-mobile-7585")
                                 
+    addscriptexist(6872265039, "AUTO WIN BATTLE", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20WIN%20BATTLE77.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-AUTO-WIN-BATTLE-8882")
+                                    

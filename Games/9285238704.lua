@@ -20,3 +20,7 @@ addscript(9285238704, "Current Game","Androminome Hub updated", "Uploaded by boo
                                 
 addscriptexist(9285238704, "Race Clicker Auto Farm", "Uploaded by AlonE on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20Clicker%20Auto%20Farm711.lua", "https://rscripts.net/script/race-clicker-auto-farm-4066")
                                 
+    addscriptexist(9285238704, "DemonicHUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB205.lua", "https://scriptblox.com/script/X3-Race-Clicker-DemonicHUB-8936")
+                                    
+    addscriptexist(9285238704, "Best   Script", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20%20Script571.lua", "https://scriptblox.com/script/UPD-Race-Clicker-Best-Script-8440")
+                                    

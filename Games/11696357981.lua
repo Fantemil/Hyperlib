@@ -1,0 +1,2 @@
+
+    addscript(11696357981, "Current Game","MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub489.lua", "https://scriptblox.com/script/SHINY-Superpower-Simulator:-Chakra-MaddHub-8205")

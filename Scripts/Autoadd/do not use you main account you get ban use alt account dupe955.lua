@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flopa2677/Skibi-Toilet-Tower-Defense-NEW-CODES-2/main/README.md",true"))()

@@ -1,0 +1,2 @@
+
+    addscript(14927327475, "Current Game","op script", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script541.lua", "https://scriptblox.com/script/Magnetic-Simulator-FREE-LIMITED-op-script-9219")

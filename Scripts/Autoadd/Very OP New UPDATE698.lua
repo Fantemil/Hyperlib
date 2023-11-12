@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/yipppoy/aushalten/main/Blade%20Ball.lua'))()

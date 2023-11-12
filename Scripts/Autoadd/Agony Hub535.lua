@@ -1,0 +1,13 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/bloodball/-back-ups-for-libs/main/kav"))()
+local Window = Library.CreateLib("Agonyz Loader", "DarkTheme")
+local Tab = Window:NewTab("Pick")
+local Section = Tab:NewSection("Section Scripts")
+Section:NewButton("Parry + Etc.", "ButtonInfo", function()
+    print("Clicked")
+loadstring(game:HttpGet('https://pastebin.com/d4XTgX10'))()
+end)
+
+Section:NewButton("TP + more stuff", "ButtonInfo", function()
+    print("Clicked")
+loadstring(game:HttpGet('https://pastebin.com/LgttMVXS'))()
+end)

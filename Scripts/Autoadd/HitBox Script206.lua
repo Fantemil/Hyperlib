@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dragon5819/3040d0191a83afa053d48dbed2603b65/raw/d63100060897a2eccd3f2466a25ca92792792f26/HitBox"))()

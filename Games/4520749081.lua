@@ -12,3 +12,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                 
     addscriptexist(4520749081, "ADEL", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADEL974.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-ADEL-9143")
                                     
+    addscriptexist(4520749081, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project135.lua", "https://scriptblox.com/script/UPDATE-4.66-King-Legacy-BT-Project-7439")
+                                    

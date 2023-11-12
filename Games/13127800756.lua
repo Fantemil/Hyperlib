@@ -60,3 +60,25 @@ addscriptexist(13127800756, "op script", "Uploaded by x2p3m8 on scriptblox.com",
                                 
 addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELMER%20HUB%20KEYLESS17.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-ELMER-HUB-9138")
                                 
+    addscriptexist(13127800756, "Season 4 Op Script", "Uploaded by makabaho2020 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Season%204%20Op%20Script716.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Season-4-Op-Script-9221")
+                                    
+    addscriptexist(13127800756, "The Best Script Updated", "Uploaded by srscripter19 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Script%20Updated501.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-The-Best-Script-Updated-8951")
+                                    
+    addscriptexist(13127800756, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z696.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Genesis-Z-9099")
+                                    
+    addscriptexist(13127800756, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quantumix%20HUB357.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Quantumix-HUB-7565")
+                                    
+    addscriptexist(13127800756, "Zao Hub 150 Features", "Uploaded by comentarygeneral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zao%20Hub%20150%20Features7.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Zao-Hub-150-Features-7394")
+                                    
+    addscriptexist(13127800756, "Nova Z UPDATED 19th OCT KEY SYSTEM ADDED JOIN THE DISCORD", "Uploaded by Zilum on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nova%20Z%20UPDATED%2019th%20OCT%20KEY%20SYSTEM%20ADDED%20JOIN%20THE%20DISCORD80.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Nova-Z-8646")
+                                    
+    addscriptexist(13127800756, "New Script Perfectus", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20Perfectus413.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-New-Script-Perfectus-8227")
+                                    
+    addscriptexist(13127800756, "OP AUTO F SCRIPT", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20F%20SCRIPT408.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-OP-AUTO-F-SCRIPT-8883")
+                                    
+    addscriptexist(13127800756, "SGA AUTOFIGHT", "Uploaded by SGA_development on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SGA%20AUTOFIGHT504.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-SGA-AUTOFIGHT-8326")
+                                    
+    addscriptexist(13127800756, "BT Project World 7 Update", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project%20World%207%20Update11.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-BT-Project-8689")
+                                    
+    addscriptexist(13127800756, "Vibe Hub Auto Pumpkin Trick Or Treat etc", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vibe%20Hub%20Auto%20Pumpkin%20Trick%20Or%20Treat%20etc896.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Vibe-Hub-Auto-Enchant-Auto-Lucky-Block-and-more-8536")
+                                    

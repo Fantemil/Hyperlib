@@ -1,0 +1,2 @@
+
+    addscript(11523257493, "Current Game","Item Spawner", "Uploaded by e621 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Spawner761.lua", "https://scriptblox.com/script/Swordburst-3-Alpha-Item-Spawner-8194")

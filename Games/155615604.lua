@@ -102,3 +102,13 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                 
     addscriptexist(155615604, "PRISION ADMIN HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PRISION%20ADMIN%20HUB616.lua", "https://scriptblox.com/script/Prison-Life-PRISIN-ADMIN-HUB-9197")
                                     
+    addscriptexist(155615604, "Tiger admin new", "Uploaded by Im_dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20new557.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-new-9222")
+                                    
+    addscriptexist(155615604, "Destroy the structures", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20the%20structures450.lua", "https://scriptblox.com/script/Prison-Life-Destroy-the-structures-7980")
+                                    
+    addscriptexist(155615604, "Delete doors", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20doors435.lua", "https://scriptblox.com/script/Prison-Life-Delete-door-7911")
+                                    
+    addscriptexist(155615604, "Delete  walls", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20%20walls879.lua", "https://scriptblox.com/script/Prison-Life-Delete-walls-7979")
+                                    
+    addscriptexist(155615604, "Delete jail doors", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20jail%20doors959.lua", "https://scriptblox.com/script/Prison-Life-Delete-jail-doors-7996")
+                                    

@@ -72,3 +72,17 @@ addscriptexist(6403373529, "Rhythm AutoPlayer", "Uploaded by CoconutMother9000 o
                                 
 addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Rob%20Script%20Back10.lua", "https://scriptblox.com/script/Slap-Battles-Fake-Rob-Script-7485")
                                 
+    addscriptexist(6403373529, "Battle Auto Rob", "Uploaded by Coldster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20Auto%20Rob598.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Battle-Auto-Rob-8945")
+                                    
+    addscriptexist(6403373529, "InfiniteWare", "Uploaded by FindFirstBlackie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteWare312.lua", "https://scriptblox.com/script/Slap-Battles-InfiniteWare-8514")
+                                    
+    addscriptexist(6403373529, "Auto Farm Candy Script", "Uploaded by Coldster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Candy%20Script148.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Auto-Farm-Candy-Script-8946")
+                                    
+    addscriptexist(6403373529, "Candy Corn Farm EVENT Server HOPS", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Corn%20Farm%20EVENT%20Server%20HOPS433.lua", "https://scriptblox.com/script/Slap-Battles-Candy-Corn-Farm-EVENT-Server-HOPS-8537")
+                                    
+    addscriptexist(6403373529, "Auto Collect Candy FARM", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Candy%20FARM858.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-Auto-Collect-Candy-FARM-8682")
+                                    
+    addscriptexist(6403373529, "Coil Animation BACK", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coil%20Animation%20BACK418.lua", "https://scriptblox.com/script/Slap-Battles-Coil-Animation-7489")
+                                    
+    addscriptexist(6403373529, "TroXerHub", "Uploaded by TroXerHub_Team on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TroXerHub140.lua", "https://scriptblox.com/script/Slap-Battles-TrexorHub-9005")
+                                    

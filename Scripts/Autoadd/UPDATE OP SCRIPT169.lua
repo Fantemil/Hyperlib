@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alech01/Script-PUNCH/main/OP%20PUNCH%20SIMULATOR"))()

@@ -4,3 +4,5 @@
                                     
     addscriptexist(14816008018, "Inf Everything", "Uploaded by HN_BLOX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Everything433.lua", "https://scriptblox.com/script/UGC-Samurai-Simulator-Inf-Everything-9233")
                                     
+    addscriptexist(14816008018, "infinite Wheel Spins", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Wheel%20Spins489.lua", "https://scriptblox.com/script/UGC-Samurai-Simulator-infinite-Wheel-Spins-9219")
+                                    

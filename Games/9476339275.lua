@@ -14,3 +14,5 @@ addscriptexist(9476339275, "Decent DD script", "Uploaded by GuyFromFortnite on s
                                 
 addscriptexist(9476339275, "Nogger Hub Robux earning", "Uploaded by flinger on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nogger%20Hub%20Robux%20earning583.lua", "https://scriptblox.com/script/BATTLESHIP-Double-Down-Nogger-7510")
                                 
+    addscriptexist(9476339275, "SSPLOITS", "Uploaded by sponsoparnordvpn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SSPLOITS751.lua", "https://scriptblox.com/script/BATTLESHIP-Double-Down-SSPLOITS-7956")
+                                    

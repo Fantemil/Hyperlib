@@ -10,3 +10,5 @@ addscriptexist(1730877806, "Medusa Hub", "Uploaded by kometa on scriptblox.com",
                                 
 addscriptexist(1730877806, "said hub", "Uploaded by hereforreal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/said%20hub474.lua", "https://scriptblox.com/script/UPDATE-8-Grand-Piece-Online-said-hub-7539")
                                 
+    addscriptexist(1730877806, "Project Star GPO", "Uploaded by tilii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Star%20GPO544.lua", "https://scriptblox.com/script/UPDATE-8-Grand-Piece-Online-Project-Star-GPO-9021")
+                                    

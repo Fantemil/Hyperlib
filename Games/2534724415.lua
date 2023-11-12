@@ -20,3 +20,5 @@ addscriptexist(2534724415, "erlc script", "Uploaded by forg11537 on scriptblox.c
                                 
 addscriptexist(2534724415, "Vehicle speed Multiplier", "Uploaded by yarikku05 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vehicle%20speed%20Multiplier629.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Vehicle-speed-Multiplier-8310")
                                 
+    addscriptexist(2534724415, "Argon Hub ERLC", "Uploaded by aymarko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argon%20Hub%20ERLC106.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Argon-Hub-ERLC-7859")
+                                    

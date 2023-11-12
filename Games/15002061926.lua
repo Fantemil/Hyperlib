@@ -1,0 +1,2 @@
+
+    addscript(15002061926, "Current Game","Infinix", "Uploaded by coll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinix755.lua", "https://scriptblox.com/script/Death-Ball-Infinix-9233")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/sandwichk/RobloxScripts/main/Scripts/BeanHub/Load.lua'), true))():Load("https://raw.githubusercontent.com/SoyElPekka/BeanHub/main/bloxfruitsnewpc2023")

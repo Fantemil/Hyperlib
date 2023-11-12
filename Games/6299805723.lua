@@ -38,3 +38,9 @@ addscriptexist(6299805723, "Dupe Item", "Uploaded by AnSit on scriptblox.com", "
                                 
 addscriptexist(6299805723, "Banana hub cracked", "Uploaded by FoilWithFood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banana%20hub%20cracked953.lua", "https://scriptblox.com/script/UPD-41-+-x5-Anime-Fighters-Simulator-Banana-hub-cracked-7274")
                                 
+    addscriptexist(6299805723, "New Best Script", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Best%20Script629.lua", "https://scriptblox.com/script/UPDATE-45-+-x7!-Anime-Fighters-Simulator-New-Best-Script-8344")
+                                    
+    addscriptexist(6299805723, "Yuto hub", "Uploaded by Yuteaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yuto%20hub141.lua", "https://scriptblox.com/script/UPD-43-+-x5-Anime-Fighters-Simulator-Yuto-hub-7841")
+                                    
+    addscriptexist(6299805723, "Yuto Hub Key Crack", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yuto%20Hub%20Key%20Crack849.lua", "https://scriptblox.com/script/UPD-41-+-x5-Anime-Fighters-Simulator-Yuto-Hub-Key-Crack-7358")
+                                    

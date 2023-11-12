@@ -1,2 +1,4 @@
 
 addscript(12163115177, "Current Game","Auto Farm Auto Open Chest Auto Upgrade Local Player and More", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Open%20Chest%20Auto%20Upgrade%20Local%20Player%20and%20More449.lua", "https://scriptblox.com/script/Warriors-Army-Simulator-2-Auto-Farm-Auto-Open-Chest-Auto-Upgrade-Local-Player-and-More-8758")
+    addscriptexist(12163115177, "Best Script   New Game    First Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20%20%20New%20Game%20%20%20%20First%20Script440.lua", "https://scriptblox.com/script/UPD-1.6-Warriors-Army-Simulator-2-Best-Script-New-Game-First-Script-8643")
+                                    

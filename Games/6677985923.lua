@@ -8,3 +8,5 @@ addscriptexist(6677985923, "Lazy Auto Buy Script", "Uploaded by chainsmokerfan22
                                 
 addscriptexist(6677985923, "inf money", "Uploaded by pipe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money599.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-inf-money-7513")
                                 
+    addscriptexist(6677985923, "Infinite Cash n Infinite Rebirth and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20n%20Infinite%20Rebirth%20and%20more407.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-Infinite-Cash-n-Infinite-Rebirth-and-more-8626")
+                                    
