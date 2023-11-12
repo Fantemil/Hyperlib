@@ -26492,5 +26492,30 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Pls Join My Group": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Pls-Join-My-Group-9241",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20Join%20My%20Group476.lua",
+        "author": "Uploaded by XxSayxX on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Shock wave": {
+        "origin": "https://scriptblox.com/script/Shockwave-Racing-Shock-wave-9240",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shock%20wave8.lua",
+        "author": "Uploaded by sun_12y on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9961650006",
+        "game": true
+    },
+    "FRAKTURE SS BACK": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FRAKTURE-SS-BACK-9242",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FRAKTURE%20SS%20BACK481.lua",
+        "author": "Uploaded by lixxed001 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
