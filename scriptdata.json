@@ -26543,5 +26543,30 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Uniyon Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Uniyon-Hub-9242",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Uniyon%20Hub610.lua",
+        "author": "Uploaded by spacenetwork347 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "many features super": {
+        "origin": "https://scriptblox.com/script/NEWSuper-Kart-Simulator-(V1.0.3)-many-features-super-9242",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/many%20features%20super49.lua",
+        "author": "Uploaded by SpaceX on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14748191737",
+        "game": true
+    },
+    "123noob123noob12noob": {
+        "origin": "https://scriptblox.com/script/Universal-Script-123noob123noob12noob-9241",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/123noob123noob12noob184.lua",
+        "author": "Uploaded by alexanderthegreat31 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
