@@ -26433,5 +26433,39 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Nicks esp thing": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Nicks-esp-thing-9235",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nicks%20esp%20thing716.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "average horror game script": {
+        "origin": "https://scriptblox.com/script/Residence-Massacre-average-horror-game-script-9235",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/average%20horror%20game%20script273.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14437001043",
+        "game": true
+    },
+    "MYN HUB OP MOBILE AUTOPARRY UPDATED": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-MYN-HUB-OP-MOBILE-AUTOPARRY-UPDATED-9233",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MYN%20HUB%20OP%20MOBILE%20AUTOPARRY%20UPDATED323.lua",
+        "author": "Uploaded by nextix on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Join lowest ping server": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Join-lowest-ping-server-9234",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Join%20lowest%20ping%20server930.lua",
+        "author": "Uploaded by swag on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

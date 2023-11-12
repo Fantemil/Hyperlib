@@ -364,3 +364,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "f0nez3 Hub", "Uploaded by instahacked28 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/f0nez3%20Hub216.lua", "https://scriptblox.com/script/Blade-Ball-f0nez3-Hub-8806")
                                     
+    addscriptexist(13772394625, "MYN HUB OP MOBILE AUTOPARRY UPDATED", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MYN%20HUB%20OP%20MOBILE%20AUTOPARRY%20UPDATED323.lua", "https://scriptblox.com/script/UPD-Blade-Ball-MYN-HUB-OP-MOBILE-AUTOPARRY-UPDATED-9233")
+                                    

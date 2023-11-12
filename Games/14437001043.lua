@@ -10,3 +10,5 @@ addscriptexist(14437001043, "OP features", "Uploaded by 12slash25 on scriptblox.
                                     
     addscriptexist(14437001043, "Automatics and Simple GUI for Automatics on", "Uploaded by Dottik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatics%20and%20Simple%20GUI%20for%20Automatics%20on665.lua", "https://scriptblox.com/script/Residence-Massacre-Automatics-and-Simple-GUI-for-Automatics-on-7570")
                                     
+    addscriptexist(14437001043, "average horror game script", "Uploaded by Tabletopjiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/average%20horror%20game%20script273.lua", "https://scriptblox.com/script/Residence-Massacre-average-horror-game-script-9235")
+                                    
