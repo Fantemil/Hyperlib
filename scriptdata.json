@@ -26517,5 +26517,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "MYN HUB BEST MOBILE AUTOPARRY SCRIPT UPDATED": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-MYN-HUB-BEST-MOBILE-AUTOPARRY-SCRIPT-UPDATED-9240",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MYN%20HUB%20BEST%20MOBILE%20AUTOPARRY%20SCRIPT%20UPDATED774.lua",
+        "author": "Uploaded by nextix on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
