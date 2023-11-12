@@ -26467,5 +26467,30 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "prints hello world": {
+        "origin": "https://scriptblox.com/script/Universal-Script-prints-hello-world-9240",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/prints%20hello%20world108.lua",
+        "author": "Uploaded by gamermilo61 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Server nnoyer": {
+        "origin": "https://scriptblox.com/script/NEW-SPEC-A-Legacy-Time-:-V2-Server-nnoyer-9238",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20nnoyer33.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10022416612",
+        "game": true
+    },
+    "Lewa Hub 5 games": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Lewa-Hub-5-games-9238",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lewa%20Hub%205%20games640.lua",
+        "author": "Uploaded by lewa on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
