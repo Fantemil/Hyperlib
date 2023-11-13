@@ -442,3 +442,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Script Auto", "Uploaded by ShpakHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto489.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Script-Auto-9254")
                                     
+    addscriptexist(2753915549, "Axolotl Hub Best 50 Features", "Uploaded by jerexy08 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axolotl%20Hub%20Best%2050%20Features383.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Axolotl-Hub-Best-50-Features-9251")
+                                    
