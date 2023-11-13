@@ -94,3 +94,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                 
     addscriptexist(6872265039, "AUTO WIN BATTLE", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20WIN%20BATTLE77.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-AUTO-WIN-BATTLE-8882")
                                     
+    addscriptexist(6872265039, "Bad Wars script please", "Uploaded by hyoweqqqqqq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Wars%20script%20please509.lua", "https://scriptblox.com/script/BedWars-LANDMINE!-Bad-Wars-script-please-9251")
+                                    

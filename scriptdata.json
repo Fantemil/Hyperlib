@@ -26714,5 +26714,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Bad Wars script please": {
+        "origin": "https://scriptblox.com/script/BedWars-LANDMINE!-Bad-Wars-script-please-9251",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Wars%20script%20please509.lua",
+        "author": "Uploaded by hyoweqqqqqq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
     }
 }
