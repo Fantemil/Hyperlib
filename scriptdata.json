@@ -26663,5 +26663,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "OP Auto Parry No GUI": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-OP-Auto-Parry-No-GUI-9251",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Parry%20No%20GUI265.lua",
+        "author": "Uploaded by exploiting on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "stuff script": {
+        "origin": "https://scriptblox.com/script/OMEGA-DOMINUS-SPIN-FOR-FREE-UGC-stuff-script-9252",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stuff%20script135.lua",
+        "author": "Uploaded by urepicmom19 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14965854059",
+        "game": true
     }
 }
