@@ -374,3 +374,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Infinite Coins and Auto Parry", "Uploaded by kalisto854 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20and%20Auto%20Parry998.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Infinite-Coins-and-Auto-Parry-9249")
                                     
+    addscriptexist(13772394625, "BEST AUTO CLICKER FOR   NO MORE LOSES", "Uploaded by KaizyBall on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20CLICKER%20FOR%20%20%20NO%20MORE%20LOSES996.lua", "https://scriptblox.com/script/UPD-Blade-Ball-BEST-AUTO-CLICKER-FOR-NO-MORE-LOSES-9250")
+                                    
