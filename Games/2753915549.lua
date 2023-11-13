@@ -434,3 +434,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "PEELY HUB V3", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PEELY%20HUB%20V3765.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-PEELY-HUB-V3-9245")
                                     
+    addscriptexist(2753915549, "Stingray Updated Nov 13", "Uploaded by Celestial_Manta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Updated%20Nov%201399.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Stingray-9248")
+                                    

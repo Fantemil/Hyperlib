@@ -26609,5 +26609,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "RAXHAX": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-RAXHAX-9248",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAXHAX59.lua",
+        "author": "Uploaded by Lardfard on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "506 Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-506-Hub-9247",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/506%20Hub261.lua",
+        "author": "Uploaded by chiefkeeflover90 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Stingray Updated Nov 13": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Stingray-9248",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Updated%20Nov%201399.lua",
+        "author": "Uploaded by Celestial_Manta on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

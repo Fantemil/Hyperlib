@@ -368,3 +368,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "MYN HUB BEST MOBILE AUTOPARRY SCRIPT UPDATED", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MYN%20HUB%20BEST%20MOBILE%20AUTOPARRY%20SCRIPT%20UPDATED774.lua", "https://scriptblox.com/script/UPD-Blade-Ball-MYN-HUB-BEST-MOBILE-AUTOPARRY-SCRIPT-UPDATED-9240")
                                     
+    addscriptexist(13772394625, "RAXHAX", "Uploaded by Lardfard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RAXHAX59.lua", "https://scriptblox.com/script/UPD-Blade-Ball-RAXHAX-9248")
+                                    
+    addscriptexist(13772394625, "506 Hub", "Uploaded by chiefkeeflover90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/506%20Hub261.lua", "https://scriptblox.com/script/UPD-Blade-Ball-506-Hub-9247")
+                                    
