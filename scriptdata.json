@@ -26731,5 +26731,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "trollymon Panel": {
+        "origin": "https://scriptblox.com/script/Dead-by-Roblox-trollymon-haPanel-9252",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/trollymon%20Panel429.lua",
+        "author": "Uploaded by Corrupt on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14904820737",
+        "game": true
+    },
+    "Auto Parry OP": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Parry-OP-9253",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20OP781.lua",
+        "author": "Uploaded by sidney on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Script roblox   VSY HUB BETA": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Script-roblox-VSY-HUB-BETA-9252",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20roblox%20%20%20VSY%20HUB%20BETA737.lua",
+        "author": "Uploaded by Cris_gtg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
