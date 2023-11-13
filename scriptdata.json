@@ -26636,5 +26636,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Instant Level 2550": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Instant-Level-2550-9248",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Level%202550391.lua",
+        "author": "Uploaded by kalisto854 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
