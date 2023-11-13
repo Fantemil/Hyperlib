@@ -26723,5 +26723,13 @@
         "hub": false,
         "gameid": "6872265039",
         "game": true
+    },
+    "AUTZee": {
+        "origin": "https://scriptblox.com/script/Universal-Script-AUTZee-9252",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTZee549.lua",
+        "author": "Uploaded by autxpm02 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
