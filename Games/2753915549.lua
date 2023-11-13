@@ -432,3 +432,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "AUTO FARM MONEY AND BOUNTY", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20MONEY%20AND%20BOUNTY300.lua", "https://scriptblox.com/script/Blox-Fruits-AUTO-FARM-MONEY-AND-BOUNTY-8881")
                                     
+    addscriptexist(2753915549, "PEELY HUB V3", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PEELY%20HUB%20V3765.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-PEELY-HUB-V3-9245")
+                                    
