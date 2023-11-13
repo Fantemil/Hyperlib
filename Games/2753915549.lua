@@ -438,3 +438,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Instant Level 2550", "Uploaded by kalisto854 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Level%202550391.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Instant-Level-2550-9248")
                                     
+    addscriptexist(2753915549, "Autofarm Auto New Hub Open source", "Uploaded by josiereweti2013 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Auto%20New%20Hub%20Open%20source364.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Autofarm-Auto-New-Hub-Open-source-9253")
+                                    
+    addscriptexist(2753915549, "Script Auto", "Uploaded by ShpakHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto489.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Script-Auto-9254")
+                                    

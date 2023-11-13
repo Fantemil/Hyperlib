@@ -26758,5 +26758,49 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "ESP Thing V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ESP-Thing-V2-9255",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20Thing%20V2570.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "DIVINE AUTOPARRY AND SO MUCH MORE": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-DIVINE-AUTOPARRY-AND-SO-MUCH-MORE-9253",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIVINE%20AUTOPARRY%20AND%20SO%20MUCH%20MORE598.lua",
+        "author": "Uploaded by fbibo_y on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Best OP Auto Parry No GUI": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Best-OP-Auto-Parry-No-GUI-9254",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20Auto%20Parry%20No%20GUI451.lua",
+        "author": "Uploaded by joshie on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Autofarm Auto New Hub Open source": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Autofarm-Auto-New-Hub-Open-source-9253",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Auto%20New%20Hub%20Open%20source364.lua",
+        "author": "Uploaded by josiereweti2013 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Script Auto": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Script-Auto-9254",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto489.lua",
+        "author": "Uploaded by ShpakHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

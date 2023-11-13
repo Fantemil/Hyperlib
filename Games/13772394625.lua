@@ -384,3 +384,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Script roblox   VSY HUB BETA", "Uploaded by Cris_gtg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20roblox%20%20%20VSY%20HUB%20BETA737.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Script-roblox-VSY-HUB-BETA-9252")
                                     
+    addscriptexist(13772394625, "DIVINE AUTOPARRY AND SO MUCH MORE", "Uploaded by fbibo_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIVINE%20AUTOPARRY%20AND%20SO%20MUCH%20MORE598.lua", "https://scriptblox.com/script/UPD-Blade-Ball-DIVINE-AUTOPARRY-AND-SO-MUCH-MORE-9253")
+                                    
+    addscriptexist(13772394625, "Best OP Auto Parry No GUI", "Uploaded by joshie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20Auto%20Parry%20No%20GUI451.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Best-OP-Auto-Parry-No-GUI-9254")
+                                    
