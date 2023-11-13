@@ -26681,5 +26681,29 @@
         "hub": false,
         "gameid": "14965854059",
         "game": true
+    },
+    "Blox Fruits Instant Third Sea Unlock": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Blox-Fruits-Instant-Third-Sea-Unlock-9254",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruits%20Instant%20Third%20Sea%20Unlock506.lua",
+        "author": "Uploaded by kalisto854 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Adopt Me Duplication Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Adopt-Me-Duplication-Script-9257",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adopt%20Me%20Duplication%20Script23.lua",
+        "author": "Uploaded by kalisto854 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Anti Ban Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Anti-Ban-Script-9256",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Ban%20Script808.lua",
+        "author": "Uploaded by kalisto854 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
