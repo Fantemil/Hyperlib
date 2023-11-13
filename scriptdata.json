@@ -26829,5 +26829,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "BYFRON ACTUALLY BYPASS ON WEB CLIENT ROBLOX": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BYFRON-ACTUALLY-BYPASS-ON-WEB-CLIENT-ROBLOX-9252",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BYFRON%20ACTUALLY%20BYPASS%20ON%20WEB%20CLIENT%20ROBLOX45.lua",
+        "author": "Uploaded by mohamssclick on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
