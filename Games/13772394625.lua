@@ -372,3 +372,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "506 Hub", "Uploaded by chiefkeeflover90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/506%20Hub261.lua", "https://scriptblox.com/script/UPD-Blade-Ball-506-Hub-9247")
                                     
+    addscriptexist(13772394625, "Infinite Coins and Auto Parry", "Uploaded by kalisto854 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20and%20Auto%20Parry998.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Infinite-Coins-and-Auto-Parry-9249")
+                                    

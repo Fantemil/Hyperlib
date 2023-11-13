@@ -26645,5 +26645,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Infinite Coins and Auto Parry": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Infinite-Coins-and-Auto-Parry-9249",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20and%20Auto%20Parry998.lua",
+        "author": "Uploaded by kalisto854 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
