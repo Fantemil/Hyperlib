@@ -26705,5 +26705,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "BEST FREE OP AUTO CLICKER": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-BEST-FREE-OP-AUTO-CLICKER-9254",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FREE%20OP%20AUTO%20CLICKER799.lua",
+        "author": "Uploaded by KaizyBall on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
