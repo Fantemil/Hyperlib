@@ -468,3 +468,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Sub Hub v3", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sub%20Hub%20v3441.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Sub-Hub-v3-9259")
                                     
+    addscriptexist(2753915549, "Black Hole Hub", "Uploaded by FaxMoonJ4K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Hole%20Hub343.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Black-Hole-Hub-9330")
+                                    

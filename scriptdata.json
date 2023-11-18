@@ -27421,5 +27421,14 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "Black Hole Hub": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Black-Hole-Hub-9330",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Hole%20Hub343.lua",
+        "author": "Uploaded by FaxMoonJ4K on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
