@@ -80,3 +80,7 @@ addscriptexist(6516141723, "MS  SCRIPT", "Uploaded by servfur on scriptblox.com"
                                 
 addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/entity%20spawner821.lua", "https://scriptblox.com/script/DOORS-MODIFIERS-entity-spawner-8049")
                                 
+    addscriptexist(6516141723, "D00rs", "Uploaded by CandyLean on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D00rs473.lua", "https://scriptblox.com/script/DOORS-LMAO-FREE-VIEWS-9255")
+                                    
+    addscriptexist(6516141723, "Auto A1000", "Uploaded by Noahnsr38 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20A1000282.lua", "https://scriptblox.com/script/DOORS-Auto-A1000-9285")
+                                    

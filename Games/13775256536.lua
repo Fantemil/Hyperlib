@@ -6,3 +6,5 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "NEW Lazium HUB LOADER", "Uploaded by Lazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Lazium%20HUB%20LOADER680.lua", "https://scriptblox.com/script/EP-61-Toilet-Tower-Defense-NEW-Lazium-HUB-LOADER-7846")
                                     
+    addscriptexist(13775256536, "Auto Play Auto Vote Auto Skip Less ping", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Play%20Auto%20Vote%20Auto%20Skip%20Less%20ping94.lua", "https://scriptblox.com/script/EP-67-PART-2-Toilet-Tower-Defense-Auto-Play-Auto-Vote-Auto-Skip-Less-ping-9275")
+                                    

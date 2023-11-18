@@ -48,3 +48,5 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                 
     addscriptexist(9872472334, "Good Script", "Uploaded by bannedbyfranz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20Script963.lua", "https://scriptblox.com/script/Evade-Good-Script-9228")
                                     
+    addscriptexist(9872472334, "xyz beta", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta34.lua", "https://scriptblox.com/script/Evade-xyz-beta-9331")
+                                    

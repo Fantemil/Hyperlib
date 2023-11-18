@@ -30,3 +30,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Saitama Battleground Void Script", "Uploaded by srscripter19 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saitama%20Battleground%20Void%20Script160.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Saitama-Battleground-Void-Script-8950")
                                     
+    addscriptexist(10449761463, "Click Tp Fly Hitbox AutoFarm Player Select Player", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Click%20Tp%20Fly%20Hitbox%20AutoFarm%20Player%20Select%20Player877.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Click-Tp-Fly-Hitbox-AutoFarm-Player-Select-Player-9259")
+                                    

@@ -12,3 +12,5 @@ addscriptexist(14437001043, "OP features", "Uploaded by 12slash25 on scriptblox.
                                     
     addscriptexist(14437001043, "average horror game script", "Uploaded by Tabletopjiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/average%20horror%20game%20script273.lua", "https://scriptblox.com/script/Residence-Massacre-average-horror-game-script-9235")
                                     
+    addscriptexist(14437001043, "Abyer Hub", "Uploaded by 0rya on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Abyer%20Hub144.lua", "https://scriptblox.com/script/Residence-Massacre-Abyer-Hub-9307")
+                                    

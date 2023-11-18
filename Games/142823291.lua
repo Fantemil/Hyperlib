@@ -138,3 +138,7 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "MmK", "Uploaded by go8414599 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MmK967.lua", "https://scriptblox.com/script/Murder-Mystery-2-MmK-8062")
                                     
+    addscriptexist(142823291, "Kill  Kill Sherif Teleport", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20%20Kill%20Sherif%20Teleport801.lua", "https://scriptblox.com/script/Murder-Mystery-2-Kill-Kill-Sherif-Teleport-9265")
+                                    
+    addscriptexist(142823291, "DarkCheatClient", "Uploaded by sizov0801 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkCheatClient577.lua", "https://scriptblox.com/script/Murder-Mystery-2-DarkCheatClient-9283")
+                                    

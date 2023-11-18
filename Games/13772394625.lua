@@ -390,3 +390,15 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Mobile Auto Parry OP", "Uploaded by ernest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Auto%20Parry%20OP571.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Mobile-Auto-Parry-OP-9251")
                                     
+    addscriptexist(13772394625, "Hold Block Spam", "Uploaded by Peace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hold%20Block%20Spam231.lua", "https://scriptblox.com/script/Blade-Ball-Hold-Block-Spam-9258")
+                                    
+    addscriptexist(13772394625, "ZapHub The Best Mobile and PC AutoParry Script Working", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20Mobile%20and%20PC%20AutoParry%20Script%20Working427.lua", "https://scriptblox.com/script/Blade-Ball-Very-Op-Auto-Parry-NEVER-FAILS-9325")
+                                    
+    addscriptexist(13772394625, "Skided  hub with auto  spam block", "Uploaded by greenslimeorb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skided%20%20hub%20with%20auto%20%20spam%20block432.lua", "https://scriptblox.com/script/Blade-Ball-Hello-9299")
+                                    
+    addscriptexist(13772394625, "Allusive Free", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Allusive%20Free83.lua", "https://scriptblox.com/script/Blade-Ball-Allusive-Free-9324")
+                                    
+    addscriptexist(13772394625, "Alchemy Hub Auto Win", "Uploaded by x2Neptune on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20Auto%20Win918.lua", "https://scriptblox.com/script/Blade-Ball-Alchemy-Hub-Auto-Win-9292")
+                                    
+    addscriptexist(13772394625, "Auto Parry OP Auto Parry For Bad and Good ping", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20OP%20Auto%20Parry%20For%20Bad%20and%20Good%20ping914.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-OP-Auto-Parry-10-9304")
+                                    

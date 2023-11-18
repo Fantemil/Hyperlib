@@ -22,3 +22,13 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                 
     addscriptexist(1554960397, "IceWare", "Uploaded by capi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceWare284.lua", "https://scriptblox.com/script/dollar8M-LIMITED!-Car-Dealership-Tycoon-IceWare-7588")
                                     
+    addscriptexist(1554960397, "BLUELOCK    SCRIPT", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLUELOCK%20%20%20%20SCRIPT183.lua", "https://scriptblox.com/script/LIMITED-CAR!-Car-Dealership-Tycoon-BLUELOCK-SCRIPT-9295")
+                                    
+    addscriptexist(1554960397, "WEINZ SCRIPT Description", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WEINZ%20SCRIPT%20Description448.lua", "https://scriptblox.com/script/LIMITED-CAR!-Car-Dealership-Tycoon-WEINZ-SCRIPT-9296")
+                                    
+    addscriptexist(1554960397, "AEROHUB    SCRIPT", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AEROHUB%20%20%20%20SCRIPT41.lua", "https://scriptblox.com/script/LIMITED-CAR!-Car-Dealership-Tycoon-AEROHUB-SCRIPT-9298")
+                                    
+    addscriptexist(1554960397, "ASTRALIC SCRIPT", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ASTRALIC%20SCRIPT243.lua", "https://scriptblox.com/script/LIMITED-CAR!-Car-Dealership-Tycoon-ASTRALIC-SCRIPT-9302")
+                                    
+    addscriptexist(1554960397, "MIDNIGHT RACING HUB    SCRIPT", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MIDNIGHT%20RACING%20HUB%20%20%20%20SCRIPT259.lua", "https://scriptblox.com/script/LIMITED-CAR!-Car-Dealership-Tycoon-MIDNIGHT-RACING-HUB-SCRIPT-9309")
+                                    

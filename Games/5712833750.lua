@@ -16,3 +16,5 @@ addscriptexist(5712833750, "Auto Level n Coin and more", "Uploaded by KhSaeed90 
                                     
     addscriptexist(5712833750, "Fight Boss n Robot Quest and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fight%20Boss%20n%20Robot%20Quest%20and%20more963.lua", "https://scriptblox.com/script/Animal-Simulator-Fight-Boss-n-Robot-Quest-and-more-8207")
                                     
+    addscriptexist(5712833750, "KL V2", "Uploaded by satorogojo984 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KL%20V2792.lua", "https://scriptblox.com/script/Animal-Simulator-KL-V2-9329")
+                                    

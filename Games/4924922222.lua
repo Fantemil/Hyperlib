@@ -50,3 +50,15 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Get All Halloween Cars and collect Candys", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Halloween%20Cars%20and%20collect%20Candys459.lua", "https://scriptblox.com/script/Brookhaven-RP-Get-All-Halloween-Cars-and-collect-Candys-9059")
                                     
+    addscriptexist(4924922222, "Admin Panel Hub", "Uploaded by FaxMoonJ4K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel%20Hub463.lua", "https://scriptblox.com/script/Brookhaven-RP-Admin-Panel-Hub-9272")
+                                    
+    addscriptexist(4924922222, "Kxkz", "Uploaded by emirh2957 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kxkz369.lua", "https://scriptblox.com/script/Brookhaven-RP-Kxkz-9308")
+                                    
+    addscriptexist(4924922222, "Secret service panel", "Uploaded by C00LKidd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Secret%20service%20panel709.lua", "https://scriptblox.com/script/Brookhaven-RP-Secret-service-panel-9333")
+                                    
+    addscriptexist(4924922222, "Icehub", "Uploaded by FieryDevilsFathan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Icehub906.lua", "https://scriptblox.com/script/Brookhaven-RP-Icehub-9270")
+                                    
+    addscriptexist(4924922222, "RedZHub", "Uploaded by C00LKidd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZHub151.lua", "https://scriptblox.com/script/Brookhaven-RP-RedZHub-9326")
+                                    
+    addscriptexist(4924922222, "RainBow House Teleport To Vehicle Set Car Speed", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainBow%20House%20Teleport%20To%20Vehicle%20Set%20Car%20Speed533.lua", "https://scriptblox.com/script/Brookhaven-RP-RainBow-House-Teleport-To-Vehicle-Set-Car-Speed-9305")
+                                    

@@ -112,3 +112,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Delete jail doors", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20jail%20doors959.lua", "https://scriptblox.com/script/Prison-Life-Delete-jail-doors-7996")
                                     
+    addscriptexist(155615604, "tp criminal base", "Uploaded by spacenetwork347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tp%20criminal%20base249.lua", "https://scriptblox.com/script/Prison-Life-Uniyon-Hub-9261")
+                                    

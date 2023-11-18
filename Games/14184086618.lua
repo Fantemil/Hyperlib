@@ -60,3 +60,7 @@ addscriptexist(14184086618, "unclock everything ll the s op win frm remove killp
                                     
     addscriptexist(14184086618, "Instnt Win n Stge Slider nd more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instnt%20Win%20n%20Stge%20Slider%20nd%20more36.lua", "https://scriptblox.com/script/Obby-But-You're-on-a-Bike-Instnt-Win-n-Stge-Slider-nd-more-7325")
                                     
+    addscriptexist(14184086618, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L814.lua", "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-Project-L-9308")
+                                    
+    addscriptexist(14184086618, "script   youre", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20%20%20youre308.lua", "https://scriptblox.com/script/W9-Obby-But-You're-On-a-Bike-script-you're-9290")
+                                    

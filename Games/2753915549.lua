@@ -444,3 +444,27 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Axolotl Hub Best 50 Features", "Uploaded by jerexy08 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Axolotl%20Hub%20Best%2050%20Features383.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Axolotl-Hub-Best-50-Features-9251")
                                     
+    addscriptexist(2753915549, "PHANTOM HUB V2", "Uploaded by kysphantoms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHANTOM%20HUB%20V2323.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-PHANTOM-HUB-V2-9254")
+                                    
+    addscriptexist(2753915549, "HOHO HUB SCRIPT", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20SCRIPT963.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-SCRIPT-9310")
+                                    
+    addscriptexist(2753915549, "Celestial Hub", "Uploaded by FaxMoonJ4K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20Hub526.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Celestial-Hub-9271")
+                                    
+    addscriptexist(2753915549, "MTRIET CHEST FARM", "Uploaded by uchywally on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MTRIET%20CHEST%20FARM982.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-MTRIET-CHEST-FARM-9309")
+                                    
+    addscriptexist(2753915549, "xox hub", "Uploaded by x2p3m8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xox%20hub430.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-xox-hub-9266")
+                                    
+    addscriptexist(2753915549, "KL BX", "Uploaded by satorogojo984 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KL%20BX193.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-KL-BX-9306")
+                                    
+    addscriptexist(2753915549, "Dragon Hub", "Uploaded by hoangson2498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Hub983.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Dragon-Hub-9291")
+                                    
+    addscriptexist(2753915549, "Uranium hub 100 functions", "Uploaded by supergodmodeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Uranium%20hub%20100%20functions347.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Uranium-hub-not-my-9273")
+                                    
+    addscriptexist(2753915549, "Auto Stats Auto Farm Auto Farm lvl", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stats%20Auto%20Farm%20Auto%20Farm%20lvl229.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Auto-Stats-Auto-Farm-Auto-Farm-lvl-9297")
+                                    
+    addscriptexist(2753915549, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project688.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-BT-Project-9287")
+                                    
+    addscriptexist(2753915549, "OP BANANA HUB AUTOFARM AND MORE", "Uploaded by isaiah4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20BANANA%20HUB%20AUTOFARM%20AND%20MORE892.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-BANANA-HUB-AUTOFARM-AND-MORE-9316")
+                                    
+    addscriptexist(2753915549, "Sub Hub v3", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sub%20Hub%20v3441.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Sub-Hub-v3-9259")
+                                    
