@@ -1,0 +1,2 @@
+
+    addscript(15167348010, "Current Game","EZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZ", "Uploaded by Blocky_Povcameraman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZ219.lua", "https://scriptblox.com/script/EP-67-3!-Skibidi-Toilet-Tower-Defense-EZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZEZ-9331")
