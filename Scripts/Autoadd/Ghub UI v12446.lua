@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/GHUBV12S/main/GHUBV12S.txt"))()
