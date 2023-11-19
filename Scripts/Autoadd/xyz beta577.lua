@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xdevslasher/xyz.BB/main/xyz.bb.lua",true))()

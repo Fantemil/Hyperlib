@@ -402,3 +402,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto Parry OP Auto Parry For Bad and Good ping", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20OP%20Auto%20Parry%20For%20Bad%20and%20Good%20ping914.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-OP-Auto-Parry-10-9304")
                                     
+    addscriptexist(13772394625, "xyz beta", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta577.lua", "https://scriptblox.com/script/UPD-Blade-Ball-xyz-beta-9332")
+                                    
