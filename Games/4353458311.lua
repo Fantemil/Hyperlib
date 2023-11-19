@@ -1,0 +1,2 @@
+
+    addscript(4353458311, "Current Game","Roblox Copyright Game Working", "Uploaded by khyrieogiako27 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Copyright%20Game%20Working841.lua", "https://scriptblox.com/script/Copyrighted-Artists-Roblox-Copyright-Game-Working-9332")
