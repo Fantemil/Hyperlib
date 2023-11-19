@@ -470,3 +470,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Black Hole Hub", "Uploaded by FaxMoonJ4K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Black%20Hole%20Hub343.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Black-Hole-Hub-9330")
                                     
+    addscriptexist(2753915549, "HOHO HUB OP VIP", "Uploaded by bugles09toques on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20OP%20VIP670.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-OP-VIP-9330")
+                                    
