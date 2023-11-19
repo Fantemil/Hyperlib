@@ -27500,5 +27500,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "blood opmg": {
+        "origin": "https://scriptblox.com/script/Universal-Script-blood-opmg-9338",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/blood%20opmg217.lua",
+        "author": "Uploaded by magribeepni on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
