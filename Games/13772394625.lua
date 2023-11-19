@@ -404,3 +404,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "xyz beta", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta577.lua", "https://scriptblox.com/script/UPD-Blade-Ball-xyz-beta-9332")
                                     
+    addscriptexist(13772394625, "xyz beta reborn", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta%20reborn635.lua", "https://scriptblox.com/script/UPD-Blade-Ball-xyz-beta-reborn-9335")
+                                    

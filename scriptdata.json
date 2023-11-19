@@ -27466,5 +27466,23 @@
         "hub": false,
         "gameid": "14297418204",
         "game": true
+    },
+    "GUI for": {
+        "origin": "https://scriptblox.com/script/UPDATE-Heaven-:-Stand-GUI-for-9335",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20for540.lua",
+        "author": "Uploaded by kalgvek on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14561998168",
+        "game": true
+    },
+    "xyz beta reborn": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-xyz-beta-reborn-9335",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta%20reborn635.lua",
+        "author": "Uploaded by cdevslasher on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
