@@ -472,3 +472,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "HOHO HUB OP VIP", "Uploaded by bugles09toques on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20OP%20VIP670.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-OP-VIP-9330")
                                     
+    addscriptexist(2753915549, "5 SCRIPTS Xiba Permanent Key", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/5%20SCRIPTS%20Xiba%20Permanent%20Key411.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-5-SCRIPTS-Xiba-Permanent-Key-9339")
+                                    
