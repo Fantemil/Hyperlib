@@ -10,3 +10,5 @@ addscriptexist(6677985923, "inf money", "Uploaded by pipe on scriptblox.com", "h
                                 
     addscriptexist(6677985923, "Infinite Cash n Infinite Rebirth and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Cash%20n%20Infinite%20Rebirth%20and%20more407.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-Infinite-Cash-n-Infinite-Rebirth-and-more-8626")
                                     
+    addscriptexist(6677985923, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L686.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-Project-L-9347")
+                                    
