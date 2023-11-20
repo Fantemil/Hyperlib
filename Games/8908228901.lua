@@ -16,3 +16,5 @@ addscriptexist(8908228901, "Custom Boat Speed Kill Shark and more", "Uploaded by
                                     
     addscriptexist(8908228901, "Shark Bite  OP Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shark%20Bite%20%20OP%20Auto%20Farm994.lua", "https://scriptblox.com/script/(PLASMA-TURRET!)-SharkBite-2-Shark-Bite-OP-Auto-Farm-8139")
                                     
+    addscriptexist(8908228901, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L163.lua", "https://scriptblox.com/script/RGB-SHARK!-SharkBite-2-Project-L-9341")
+                                    

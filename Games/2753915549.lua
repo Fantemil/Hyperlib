@@ -476,3 +476,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "TSUO", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSUO680.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-TSUO-9340")
                                     
+    addscriptexist(2753915549, "COKKA", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COKKA667.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-COKKA-9342")
+                                    
