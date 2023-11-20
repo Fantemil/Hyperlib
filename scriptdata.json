@@ -27571,5 +27571,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Arceus X Neo UI Remover": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Arceus-X-Neo-UI-Remover-9348",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arceus%20X%20Neo%20UI%20Remover967.lua",
+        "author": "Uploaded by Shehajeez on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
