@@ -27579,5 +27579,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Dupe": {
+        "origin": "https://scriptblox.com/script/EP-67-PART-3-Toilet-Tower-Defense-Dupe-9350",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe992.lua",
+        "author": "Uploaded by Cee334 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13775256536",
+        "game": true
     }
 }
