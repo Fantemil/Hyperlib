@@ -27553,5 +27553,14 @@
         "hub": false,
         "gameid": "362787487",
         "game": true
+    },
+    "OP AUTO FARM MOBILE  PC EMULADOR": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FARM-MOBILE-PC-EMULADOR-9346",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MOBILE%20%20PC%20EMULADOR648.lua",
+        "author": "Uploaded by SoulyTV on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

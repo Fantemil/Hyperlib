@@ -478,3 +478,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "COKKA", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COKKA667.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-COKKA-9342")
                                     
+    addscriptexist(2753915549, "OP AUTO FARM MOBILE  PC EMULADOR", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MOBILE%20%20PC%20EMULADOR648.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FARM-MOBILE-PC-EMULADOR-9346")
+                                    
