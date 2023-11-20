@@ -474,3 +474,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "5 SCRIPTS Xiba Permanent Key", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/5%20SCRIPTS%20Xiba%20Permanent%20Key411.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-5-SCRIPTS-Xiba-Permanent-Key-9339")
                                     
+    addscriptexist(2753915549, "TSUO", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSUO680.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-TSUO-9340")
+                                    

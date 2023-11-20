@@ -27526,5 +27526,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "TSUO": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-TSUO-9340",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSUO680.lua",
+        "author": "Uploaded by Jine on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
