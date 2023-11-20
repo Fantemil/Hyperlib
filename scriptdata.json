@@ -27562,5 +27562,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "NightHUB": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-NightHUB-9346",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NightHUB114.lua",
+        "author": "Uploaded by Jine on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
