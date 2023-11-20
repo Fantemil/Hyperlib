@@ -27588,5 +27588,14 @@
         "hub": false,
         "gameid": "13775256536",
         "game": true
+    },
+    "UPDATED OP AUTOPARRY": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-UPDATED-OP-AUTOPARRY-9352",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20OP%20AUTOPARRY743.lua",
+        "author": "Uploaded by bugles09toques on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

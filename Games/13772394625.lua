@@ -408,3 +408,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Sirius", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius43.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Sirius-9345")
                                     
+    addscriptexist(13772394625, "UPDATED OP AUTOPARRY", "Uploaded by bugles09toques on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20OP%20AUTOPARRY743.lua", "https://scriptblox.com/script/UPD-Blade-Ball-UPDATED-OP-AUTOPARRY-9352")
+                                    

@@ -88,3 +88,5 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "Gold uto Frm", "Uploaded by hookscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gold%20uto%20Frm567.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-uto-Frm-8127")
                                     
+    addscriptexist(537413528, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L243.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Project-L-9351")
+                                    
