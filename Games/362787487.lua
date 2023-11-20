@@ -1,0 +1,2 @@
+
+    addscript(362787487, "Current Game","WiiZb", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WiiZb373.lua", "https://scriptblox.com/script/Don't-fall-OR-U-DIE!!-WiiZb-9343")

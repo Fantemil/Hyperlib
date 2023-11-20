@@ -27544,5 +27544,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "WiiZb": {
+        "origin": "https://scriptblox.com/script/Don't-fall-OR-U-DIE!!-WiiZb-9343",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WiiZb373.lua",
+        "author": "Uploaded by LUAZORROX on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "362787487",
+        "game": true
     }
 }
