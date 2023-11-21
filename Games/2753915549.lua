@@ -482,3 +482,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "NightHUB", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NightHUB114.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-NightHUB-9346")
                                     
+    addscriptexist(2753915549, "HOHO HUB AUTO FARM", "Uploaded by gbiezmanis78 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20AUTO%20FARM469.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-AUTO-PARRY-9354")
+                                    
