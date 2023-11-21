@@ -12,3 +12,5 @@ addscriptexist(6677985923, "inf money", "Uploaded by pipe on scriptblox.com", "h
                                     
     addscriptexist(6677985923, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L686.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-Project-L-9347")
                                     
+    addscriptexist(6677985923, "INF money", "Uploaded by Seantherandom24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20money129.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-INF-money-9353")
+                                    
