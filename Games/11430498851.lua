@@ -8,3 +8,5 @@ addscriptexist(11430498851, "au farms", "Uploaded by et1ty on scriptblox.com", "
                                     
     addscriptexist(11430498851, "Building     OP Au Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Building%20%20%20%20%20OP%20Au%20Farm23.lua", "https://scriptblox.com/script/BILLYBuilding-towers-to-fly-farther-Building-OP-Au-Farm-8141")
                                     
+    addscriptexist(11430498851, "op script building", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20building788.lua", "https://scriptblox.com/script/Building-towers-to-fly-farther-op-script-building-9353")
+                                    

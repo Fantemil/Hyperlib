@@ -27651,5 +27651,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "op script building": {
+        "origin": "https://scriptblox.com/script/Building-towers-to-fly-farther-op-script-building-9353",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20building788.lua",
+        "author": "Uploaded by SpaceX on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11430498851",
+        "game": true
     }
 }
