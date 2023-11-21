@@ -27606,5 +27606,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "op script   bot  tresure": {
+        "origin": "https://scriptblox.com/script/Build-A-Boat-For-Treasure-op-script-bot-tresure-9354",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20%20%20bot%20%20tresure993.lua",
+        "author": "Uploaded by SpaceX on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "537413528",
+        "game": true
     }
 }

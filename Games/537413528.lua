@@ -90,3 +90,5 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L243.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Project-L-9351")
                                     
+    addscriptexist(537413528, "op script   bot  tresure", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20%20%20bot%20%20tresure993.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-op-script-bot-tresure-9354")
+                                    
