@@ -82,3 +82,5 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "Vibe Hub Auto Pumpkin Trick Or Treat etc", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vibe%20Hub%20Auto%20Pumpkin%20Trick%20Or%20Treat%20etc896.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Vibe-Hub-Auto-Enchant-Auto-Lucky-Block-and-more-8536")
                                     
+    addscriptexist(13127800756, "ELMERHUB NEW UPDATE", "Uploaded by makabaho2020 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELMERHUB%20NEW%20UPDATE770.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-ELMERHUB-NEW-UPDATE-9355")
+                                    

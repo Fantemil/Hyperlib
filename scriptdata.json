@@ -27615,5 +27615,14 @@
         "hub": false,
         "gameid": "537413528",
         "game": true
+    },
+    "ELMERHUB NEW UPDATE": {
+        "origin": "https://scriptblox.com/script/Arm-Wrestle-Simulator-ELMERHUB-NEW-UPDATE-9355",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELMERHUB%20NEW%20UPDATE770.lua",
+        "author": "Uploaded by makabaho2020 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13127800756",
+        "game": true
     }
 }

