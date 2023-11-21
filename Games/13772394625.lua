@@ -412,3 +412,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Sirius Updated", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Updated829.lua", "https://scriptblox.com/script/Blade-Ball-Sirius-Updated-9355")
                                     
+    addscriptexist(13772394625, "Toggable Block Spam", "Uploaded by Peace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toggable%20Block%20Spam502.lua", "https://scriptblox.com/script/Blade-Ball-Toggable-Block-Spam-9353")
+                                    
