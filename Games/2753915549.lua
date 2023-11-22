@@ -488,3 +488,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "New Script BF", "Uploaded by AnSit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20BF463.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-New-Script-BF-9366")
                                     
+    addscriptexist(2753915549, "VERY simple loot esp", "Uploaded by UCut on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20simple%20loot%20esp3.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-VERY-simple-loot-esp-9367")
+                                    

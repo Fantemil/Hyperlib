@@ -27773,5 +27773,14 @@
         "hub": false,
         "gameid": "14433762945",
         "game": true
+    },
+    "VERY simple loot esp": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-VERY-simple-loot-esp-9367",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20simple%20loot%20esp3.lua",
+        "author": "Uploaded by UCut on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
