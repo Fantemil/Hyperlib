@@ -490,3 +490,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "VERY simple loot esp", "Uploaded by UCut on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20simple%20loot%20esp3.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-VERY-simple-loot-esp-9367")
                                     
+    addscriptexist(2753915549, "Panel", "Uploaded by MrBeastFan5923 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Panel771.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Panel-9370")
+                                    
