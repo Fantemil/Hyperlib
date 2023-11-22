@@ -114,3 +114,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "tp criminal base", "Uploaded by spacenetwork347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tp%20criminal%20base249.lua", "https://scriptblox.com/script/Prison-Life-Uniyon-Hub-9261")
                                     
+    addscriptexist(155615604, "Tiger admin works after discontinued", "Uploaded by ecarevskiy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20works%20after%20discontinued810.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-works-after-discontinued-9363")
+                                    

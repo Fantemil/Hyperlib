@@ -27738,5 +27738,22 @@
         "hub": false,
         "gameid": "8481844229",
         "game": true
+    },
+    "Nameless admin works after discontinued": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Nameless-admin-works-after-discontinued-9362",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nameless%20admin%20works%20after%20discontinued457.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Tiger admin works after discontinued": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Tiger-admin-works-after-discontinued-9363",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20works%20after%20discontinued810.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }
