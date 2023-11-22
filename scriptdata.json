@@ -27704,5 +27704,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "CraftHub Alpha": {
+        "origin": "https://scriptblox.com/script/ROSS-TIER-13-Eternal-Craftwars-CraftHub-Alpha-9360",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CraftHub%20Alpha833.lua",
+        "author": "Uploaded by vxsty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10764017846",
+        "game": true
     }
 }

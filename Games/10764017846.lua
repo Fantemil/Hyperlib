@@ -1,0 +1,2 @@
+
+    addscript(10764017846, "Current Game","CraftHub Alpha", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CraftHub%20Alpha833.lua", "https://scriptblox.com/script/ROSS-TIER-13-Eternal-Craftwars-CraftHub-Alpha-9360")
