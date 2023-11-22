@@ -27790,5 +27790,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Fly Godmode Walkspeed": {
+        "origin": "https://scriptblox.com/script/Piggy-Fly-Godmode-Walkspeed-9368",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Godmode%20Walkspeed277.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4623386862",
+        "game": true
     }
 }
