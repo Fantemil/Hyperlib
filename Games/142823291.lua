@@ -142,3 +142,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "DarkCheatClient", "Uploaded by sizov0801 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkCheatClient577.lua", "https://scriptblox.com/script/Murder-Mystery-2-DarkCheatClient-9283")
                                     
+    addscriptexist(142823291, "OP Auto Farm", "Uploaded by SillyEchidna on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm827.lua", "https://scriptblox.com/script/Murder-Mystery-2-OP-Auto-Farm-9371")
+                                    

@@ -414,3 +414,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Toggable Block Spam", "Uploaded by Peace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toggable%20Block%20Spam502.lua", "https://scriptblox.com/script/Blade-Ball-Toggable-Block-Spam-9353")
                                     
+    addscriptexist(13772394625, "OP AUTO PARRY AUTO FARM", "Uploaded by SillyEchidna on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20PARRY%20AUTO%20FARM763.lua", "https://scriptblox.com/script/Blade-Ball-OP-AUTO-PARRY-AUTO-FARM-9372")
+                                    
