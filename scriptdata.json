@@ -27755,5 +27755,23 @@
         "hub": false,
         "gameid": "155615604",
         "game": true
+    },
+    "New Script BF": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-New-Script-BF-9366",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20BF463.lua",
+        "author": "Uploaded by AnSit on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "OP Auto Farm  MaxDamage Challenge and more": {
+        "origin": "https://scriptblox.com/script/TOURNAMENTS-Anime-Champions-Simulator-OP-Auto-Farm-MaxDamage-Challenge-and-more-9365",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm%20%20MaxDamage%20Challenge%20and%20more937.lua",
+        "author": "Uploaded by HOLYSHz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14433762945",
+        "game": true
     }
 }

@@ -486,3 +486,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "SPEED", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPEED99.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-SPEED-9355")
                                     
+    addscriptexist(2753915549, "New Script BF", "Uploaded by AnSit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20BF463.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-New-Script-BF-9366")
+                                    
