@@ -492,3 +492,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Panel", "Uploaded by MrBeastFan5923 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Panel771.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Panel-9370")
                                     
+    addscriptexist(2753915549, "AUTO FRUIT FARM", "Uploaded by SillyEchidna on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FRUIT%20FARM438.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-AUTO-FRUIT-FARM-9370")
+                                    
