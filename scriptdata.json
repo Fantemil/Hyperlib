@@ -27660,5 +27660,14 @@
         "hub": false,
         "gameid": "11430498851",
         "game": true
+    },
+    "uto Frm Teleport Ending": {
+        "origin": "https://scriptblox.com/script/W10-Obby-But-You're-On-a-Bike-uto-Frm-Teleport-Ending-9354",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm%20Teleport%20Ending224.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14184086618",
+        "game": true
     }
 }
