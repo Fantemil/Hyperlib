@@ -27669,5 +27669,14 @@
         "hub": false,
         "gameid": "14184086618",
         "game": true
+    },
+    "SPEED": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-SPEED-9355",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPEED99.lua",
+        "author": "Uploaded by Jine on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
