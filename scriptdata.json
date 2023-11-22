@@ -27713,5 +27713,13 @@
         "hub": false,
         "gameid": "10764017846",
         "game": true
+    },
+    "Arceus X UI Remover": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Arceus-X-UI-Remover-9361",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arceus%20X%20UI%20Remover403.lua",
+        "author": "Uploaded by FireServiceScripter on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
