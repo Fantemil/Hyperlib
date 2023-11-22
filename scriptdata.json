@@ -27799,5 +27799,14 @@
         "hub": false,
         "gameid": "4623386862",
         "game": true
+    },
+    "FIRST SCRIPT V3 UPDATE": {
+        "origin": "https://scriptblox.com/script/EP-67-3!-Skibidi-Toilet-Tower-Defense-FIRST-SCRIPT-V3-UPDATE-9369",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIRST%20SCRIPT%20V3%20UPDATE301.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15167348010",
+        "game": true
     }
 }
