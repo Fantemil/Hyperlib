@@ -27844,5 +27844,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Auto farm": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Auto-farm-9350",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm888.lua",
+        "author": "Uploaded by SillyEchidna on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "Auto fruit farm": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Auto-fruit-farm-9351",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20fruit%20farm751.lua",
+        "author": "Uploaded by SillyEchidna on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
