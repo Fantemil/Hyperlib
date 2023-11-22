@@ -27678,5 +27678,31 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Auto kill trollers npc expect player": {
+        "origin": "https://scriptblox.com/script/Trollge-Incident-Fights-Reborn-Auto-kill-trollers-npc-expect-player-9357",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20kill%20trollers%20npc%20expect%20player343.lua",
+        "author": "Uploaded by Baldman282 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12377995562",
+        "game": true
+    },
+    "Best Script OP": {
+        "origin": "https://scriptblox.com/script/RELEASE-Anime-Spirits-Best-Script-OP-9358",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20OP178.lua",
+        "author": "Uploaded by OmgHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11756036029",
+        "game": true
+    },
+    "Universe hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universe-hub-9359",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universe%20hub178.lua",
+        "author": "Uploaded by Mrbirdistheword on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

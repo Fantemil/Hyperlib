@@ -1,0 +1,2 @@
+
+    addscript(11756036029, "Current Game","Best Script OP", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20OP178.lua", "https://scriptblox.com/script/RELEASE-Anime-Spirits-Best-Script-OP-9358")

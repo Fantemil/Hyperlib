@@ -1,0 +1,2 @@
+
+    addscript(12377995562, "Current Game","Auto kill trollers npc expect player", "Uploaded by Baldman282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20kill%20trollers%20npc%20expect%20player343.lua", "https://scriptblox.com/script/Trollge-Incident-Fights-Reborn-Auto-kill-trollers-npc-expect-player-9357")
