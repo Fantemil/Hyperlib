@@ -27878,5 +27878,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "v2": {
+        "origin": "https://scriptblox.com/script/Event-Fart-A-Friend-v2-9352",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/v2761.lua",
+        "author": "Uploaded by ent1ty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14689517484",
+        "game": true
     }
 }
