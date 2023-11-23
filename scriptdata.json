@@ -27862,5 +27862,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "parvus hub discontinued version codex": {
+        "origin": "https://scriptblox.com/script/Universal-Script-parvus-hub-discontinued-version-codex-9354",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/parvus%20hub%20discontinued%20version%20codex847.lua",
+        "author": "Uploaded by xavierissus on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
