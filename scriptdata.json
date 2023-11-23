@@ -27940,5 +27940,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Nameless Admin V2 UNFINISHED source code": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Nameless-Admin-V2-UNFINISHED-source-code-9359",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nameless%20Admin%20V2%20UNFINISHED%20source%20code577.lua",
+        "author": "Uploaded by Script on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
