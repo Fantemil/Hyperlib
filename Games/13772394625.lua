@@ -420,3 +420,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Prolex", "Uploaded by Khoa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prolex791.lua", "https://scriptblox.com/script/Blade-Ball-Prolex-9353")
                                     
+    addscriptexist(13772394625, "X7 PARRY", "Uploaded by Code4Zaaa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X7%20PARRY752.lua", "https://scriptblox.com/script/Blade-Ball-X7-PARRY-Alpha-9356")
+                                    
