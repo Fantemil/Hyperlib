@@ -27896,5 +27896,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Best Auto Farm": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Best-Auto-Farm-9355",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm600.lua",
+        "author": "Uploaded by coconut on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Auto Farm Hub OP": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Auto-Farm-Hub-OP-9354",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Hub%20OP396.lua",
+        "author": "Uploaded by clavejyanchristian on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
