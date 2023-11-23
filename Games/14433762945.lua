@@ -32,3 +32,5 @@ addscriptexist(14433762945, "OP SCRIPT FOR GAME", "Uploaded by gus_fring on scri
                                     
     addscriptexist(14433762945, "OP Auto Farm  MaxDamage Challenge and more", "Uploaded by HOLYSHz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm%20%20MaxDamage%20Challenge%20and%20more937.lua", "https://scriptblox.com/script/TOURNAMENTS-Anime-Champions-Simulator-OP-Auto-Farm-MaxDamage-Challenge-and-more-9365")
                                     
+    addscriptexist(14433762945, "OP AUTO FARM FULL", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20FULL700.lua", "https://scriptblox.com/script/TOURNAMENTS-Anime-Champions-Simulator-OP-AUTO-FARM-FULL-9363")
+                                    

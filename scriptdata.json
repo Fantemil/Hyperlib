@@ -27965,5 +27965,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "OP AUTO FARM FULL": {
+        "origin": "https://scriptblox.com/script/TOURNAMENTS-Anime-Champions-Simulator-OP-AUTO-FARM-FULL-9363",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20FULL700.lua",
+        "author": "Uploaded by SoulyTV on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14433762945",
+        "game": true
+    },
+    "OP AUTO FARM MOBILE AND EMULADOR": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FARM-MOBILE-AND-EMULADOR-9364",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MOBILE%20AND%20EMULADOR781.lua",
+        "author": "Uploaded by SoulyTV on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

@@ -502,3 +502,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "HOHO HUB V4 UPDATED OP VIP", "Uploaded by bugles09toques on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20V4%20UPDATED%20OP%20VIP995.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-V4-UPDATED-OP-VIP-9360")
                                     
+    addscriptexist(2753915549, "OP AUTO FARM MOBILE AND EMULADOR", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MOBILE%20AND%20EMULADOR781.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FARM-MOBILE-AND-EMULADOR-9364")
+                                    
