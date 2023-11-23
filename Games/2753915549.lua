@@ -500,3 +500,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "fruit MEGA Script Menu", "Uploaded by bronkgg1412 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20MEGA%20Script%20Menu591.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-fruit-MEGA-Script-Menu-9357")
                                     
+    addscriptexist(2753915549, "HOHO HUB V4 UPDATED OP VIP", "Uploaded by bugles09toques on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20V4%20UPDATED%20OP%20VIP995.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-V4-UPDATED-OP-VIP-9360")
+                                    

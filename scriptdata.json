@@ -27948,5 +27948,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "HOHO HUB V4 UPDATED OP VIP": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-HOHO-HUB-V4-UPDATED-OP-VIP-9360",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20V4%20UPDATED%20OP%20VIP995.lua",
+        "author": "Uploaded by bugles09toques on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Android Decompiler": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Android-Decompiler-9361",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Android%20Decompiler877.lua",
+        "author": "Uploaded by Noctural on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
