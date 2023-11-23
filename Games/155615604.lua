@@ -116,3 +116,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Tiger admin works after discontinued", "Uploaded by ecarevskiy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20works%20after%20discontinued810.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-works-after-discontinued-9363")
                                     
+    addscriptexist(155615604, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L355.lua", "https://scriptblox.com/script/Prison-Life-Project-L-9352")
+                                    
