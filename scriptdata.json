@@ -27923,5 +27923,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "fruit MEGA Script Menu": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-fruit-MEGA-Script-Menu-9357",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20MEGA%20Script%20Menu591.lua",
+        "author": "Uploaded by bronkgg1412 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
