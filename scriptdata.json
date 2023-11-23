@@ -27932,5 +27932,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "whitebeardScriptsLua": {
+        "origin": "https://scriptblox.com/script/Universal-Script-whitebeardScriptsLua-9358",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/whitebeardScriptsLua491.lua",
+        "author": "Uploaded by AuyX on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
