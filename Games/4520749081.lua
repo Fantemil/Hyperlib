@@ -14,3 +14,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                     
     addscriptexist(4520749081, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project135.lua", "https://scriptblox.com/script/UPDATE-4.66-King-Legacy-BT-Project-7439")
                                     
+    addscriptexist(4520749081, "Auto Farm Auto Use Skill Auto New World", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Use%20Skill%20Auto%20New%20World941.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-Auto-Farm-Auto-Use-Skill-Auto-New-World-9373")
+                                    

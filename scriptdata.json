@@ -28112,5 +28112,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto Farm Auto Use Skill Auto New World": {
+        "origin": "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-Auto-Farm-Auto-Use-Skill-Auto-New-World-9373",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Use%20Skill%20Auto%20New%20World941.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4520749081",
+        "game": true
     }
 }
