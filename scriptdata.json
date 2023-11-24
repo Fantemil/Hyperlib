@@ -28104,5 +28104,13 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "Android Executor UI or Interface Remover": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Android-Executor-UI-or-Interface-Remover-9378",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Android%20Executor%20UI%20or%20Interface%20Remover888.lua",
+        "author": "Uploaded by Shehajeez on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
