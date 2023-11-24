@@ -28027,5 +28027,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Blade ball hold to block WORKING": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Blade-ball-hold-to-block-WORKING-9369",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20ball%20hold%20to%20block%20WORKING464.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
