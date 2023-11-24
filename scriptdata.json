@@ -27992,5 +27992,14 @@
         "hub": false,
         "gameid": "8304191830",
         "game": true
+    },
+    "NatoHub": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-NatoHub-9366",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NatoHub216.lua",
+        "author": "Uploaded by Asamai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

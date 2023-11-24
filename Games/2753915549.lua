@@ -504,3 +504,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP AUTO FARM MOBILE AND EMULADOR", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MOBILE%20AND%20EMULADOR781.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FARM-MOBILE-AND-EMULADOR-9364")
                                     
+    addscriptexist(2753915549, "NatoHub", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NatoHub216.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-NatoHub-9366")
+                                    
