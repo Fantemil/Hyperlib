@@ -506,3 +506,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "NatoHub", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NatoHub216.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-NatoHub-9366")
                                     
+    addscriptexist(2753915549, "Best Auto Farm Hub Open Source", "Uploaded by clavejyanchristian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Hub%20Open%20Source510.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Best-Auto-Farm-Hub-Open-Source-9369")
+                                    
