@@ -422,3 +422,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "X7 PARRY", "Uploaded by Code4Zaaa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X7%20PARRY752.lua", "https://scriptblox.com/script/Blade-Ball-X7-PARRY-Alpha-9356")
                                     
+    addscriptexist(13772394625, "Visual hub master parry", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20hub%20master%20parry203.lua", "https://scriptblox.com/script/Blade-Ball-Visual-hub-master-parry-9375")
+                                    
