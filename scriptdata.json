@@ -28010,5 +28010,13 @@
         "hub": false,
         "gameid": "7952502098",
         "game": true
+    },
+    "Fling Everyone in the server": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fling-Everyone-in-the-server-9368",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Everyone%20in%20the%20server687.lua",
+        "author": "Uploaded by clavejyanchristian on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
