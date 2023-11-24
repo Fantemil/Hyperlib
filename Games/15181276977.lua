@@ -1,0 +1,2 @@
+
+    addscript(15181276977, "Current Game","fast pop n win nearest", "Uploaded by ent1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fast%20pop%20n%20win%20nearest110.lua", "https://scriptblox.com/script/Popcorn-Simulator!-fast-pop-n-win-nearest-9374")

@@ -28035,5 +28035,47 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto Join Auto Replay  More": {
+        "origin": "https://scriptblox.com/script/UPDATE-+-4X-All-Star-Tower-Defense-Auto-Join-Auto-Replay-More-9370",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Join%20Auto%20Replay%20%20More781.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4996049426",
+        "game": true
+    },
+    "Synapse x remake": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Synapse-x-remake-9371",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Synapse%20x%20remake870.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "fast pop n win nearest": {
+        "origin": "https://scriptblox.com/script/Popcorn-Simulator!-fast-pop-n-win-nearest-9374",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fast%20pop%20n%20win%20nearest110.lua",
+        "author": "Uploaded by ent1ty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15181276977",
+        "game": true
+    },
+    "C00lkidd revivial v23": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lkidd-revivial-v23-9372",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lkidd%20revivial%20v23858.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Bido Skins Script hub v18": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Bido-Skins-Script-hub-v18-9373",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bido%20Skins%20Script%20hub%20v18694.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
