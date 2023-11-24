@@ -28121,5 +28121,13 @@
         "hub": false,
         "gameid": "4520749081",
         "game": true
+    },
+    "Update script hitbox": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Update-script-hitbox-9326",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20script%20hitbox772.lua",
+        "author": "Uploaded by DOLLYNHO on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
