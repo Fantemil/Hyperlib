@@ -27983,5 +27983,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Auto Leave Auto Skip Wave": {
+        "origin": "https://scriptblox.com/script/UPD-Anime-Adventures-Auto-Leave-Auto-Skip-Wave-9365",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Leave%20Auto%20Skip%20Wave288.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8304191830",
+        "game": true
     }
 }
