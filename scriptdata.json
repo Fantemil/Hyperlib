@@ -28086,5 +28086,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Hoho hub vip v4 updated": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Hoho-hub-vip-v4-updated-9376",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20hub%20vip%20v4%20updated673.lua",
+        "author": "Uploaded by Rojev_Chris169 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "IceHub Updated V8": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-IceHub-Updated-V8-9376",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20Updated%20V8779.lua",
+        "author": "Uploaded by Rojev_Chris169 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }

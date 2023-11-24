@@ -508,3 +508,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Best Auto Farm Hub Open Source", "Uploaded by clavejyanchristian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Hub%20Open%20Source510.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Best-Auto-Farm-Hub-Open-Source-9369")
                                     
+    addscriptexist(2753915549, "Hoho hub vip v4 updated", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20hub%20vip%20v4%20updated673.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Hoho-hub-vip-v4-updated-9376")
+                                    

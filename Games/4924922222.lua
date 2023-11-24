@@ -62,3 +62,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "RainBow House Teleport To Vehicle Set Car Speed", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainBow%20House%20Teleport%20To%20Vehicle%20Set%20Car%20Speed533.lua", "https://scriptblox.com/script/Brookhaven-RP-RainBow-House-Teleport-To-Vehicle-Set-Car-Speed-9305")
                                     
+    addscriptexist(4924922222, "IceHub Updated V8", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20Updated%20V8779.lua", "https://scriptblox.com/script/Brookhaven-RP-IceHub-Updated-V8-9376")
+                                    
