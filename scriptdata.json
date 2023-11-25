@@ -28253,5 +28253,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "STRAY HUB BEST AUTOPARRY": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-STRAY-HUB-BEST-AUTOPARRY-9336",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRAY%20HUB%20BEST%20AUTOPARRY77.lua",
+        "author": "Uploaded by arshehtesham078 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
