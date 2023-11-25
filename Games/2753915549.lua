@@ -510,3 +510,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Hoho hub vip v4 updated", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20hub%20vip%20v4%20updated673.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Hoho-hub-vip-v4-updated-9376")
                                     
+    addscriptexist(2753915549, "Night Hub", "Uploaded by hoangson2498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Night%20Hub239.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Night-Hub-9326")
+                                    
