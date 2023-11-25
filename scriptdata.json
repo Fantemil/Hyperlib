@@ -28262,5 +28262,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "RadinBlest Hub OP FARM": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-ATK-HUB-OP-FARM-9337",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RadinBlest%20Hub%20OP%20FARM689.lua",
+        "author": "Uploaded by AlfaSoon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

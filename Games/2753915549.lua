@@ -518,3 +518,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "ATAKAN HUB OP AUTOFARM CHESTFARM", "Uploaded by arshehtesham078 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ATAKAN%20HUB%20OP%20AUTOFARM%20CHESTFARM894.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-ATAKAN-HUB-OP-AUTOFARM-CHESTFARM-9337")
                                     
+    addscriptexist(2753915549, "RadinBlest Hub OP FARM", "Uploaded by AlfaSoon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RadinBlest%20Hub%20OP%20FARM689.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-ATK-HUB-OP-FARM-9337")
+                                    
