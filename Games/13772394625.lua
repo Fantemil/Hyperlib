@@ -424,3 +424,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Visual hub master parry", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20hub%20master%20parry203.lua", "https://scriptblox.com/script/Blade-Ball-Visual-hub-master-parry-9375")
                                     
+    addscriptexist(13772394625, "Updated Neptune", "Uploaded by TOP_PLAYzYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20Neptune742.lua", "https://scriptblox.com/script/Blade-Ball-Updated-Neptune-9330")
+                                    
+    addscriptexist(13772394625, "Shadow hub", "Uploaded by TOP_PLAYzYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shadow%20hub365.lua", "https://scriptblox.com/script/Blade-Ball-Shadow-hub-9331")
+                                    

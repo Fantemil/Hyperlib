@@ -28164,5 +28164,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Updated Neptune": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Updated-Neptune-9330",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20Neptune742.lua",
+        "author": "Uploaded by TOP_PLAYzYT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Shadow hub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Shadow-hub-9331",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shadow%20hub365.lua",
+        "author": "Uploaded by TOP_PLAYzYT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
