@@ -436,3 +436,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "STRAY HUB BEST AUTOPARRY", "Uploaded by arshehtesham078 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STRAY%20HUB%20BEST%20AUTOPARRY77.lua", "https://scriptblox.com/script/Blade-Ball-STRAY-HUB-BEST-AUTOPARRY-9336")
                                     
+    addscriptexist(13772394625, "Auto Parry Auto Farm Auto Parry 2", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Auto%20Farm%20Auto%20Parry%202447.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Auto-Farm-Auto-Parry-2-9339")
+                                    

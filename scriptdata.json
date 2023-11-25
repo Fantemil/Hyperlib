@@ -28271,5 +28271,22 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "C00lgui revivial V23": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-revivial-V23-9340",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20revivial%20V23655.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto Parry Auto Farm Auto Parry 2": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Auto-Farm-Auto-Parry-2-9339",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Auto%20Farm%20Auto%20Parry%202447.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
