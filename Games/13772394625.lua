@@ -432,3 +432,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Toji hub", "Uploaded by Clavilux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toji%20hub21.lua", "https://scriptblox.com/script/Blade-Ball-Toji-hub-9338")
                                     
+    addscriptexist(13772394625, "R4mpage V5 Auto Parry For Any Ping And Bad Ping", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R4mpage%20V5%20Auto%20Parry%20For%20Any%20Ping%20And%20Bad%20Ping994.lua", "https://scriptblox.com/script/Blade-Ball-R4mpage-V5-Auto-Parry-For-Any-Ping-And-Bad-Ping-9335")
+                                    

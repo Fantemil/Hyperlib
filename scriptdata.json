@@ -28244,5 +28244,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "R4mpage V5 Auto Parry For Any Ping And Bad Ping": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-R4mpage-V5-Auto-Parry-For-Any-Ping-And-Bad-Ping-9335",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R4mpage%20V5%20Auto%20Parry%20For%20Any%20Ping%20And%20Bad%20Ping994.lua",
+        "author": "Uploaded by r4mpage on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
