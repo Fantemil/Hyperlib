@@ -28182,5 +28182,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Cute Le Hood Script": {
+        "origin": "https://scriptblox.com/script/new-thy-hood:-aristocracy-edition-Cute-Le-Hood-Script-9332",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cute%20Le%20Hood%20Script600.lua",
+        "author": "Uploaded by nfa127173 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10683359068",
+        "game": true
     }
 }
