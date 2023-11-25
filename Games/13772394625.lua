@@ -430,3 +430,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "JUANKO  BYPASS", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20%20BYPASS228.lua", "https://scriptblox.com/script/Blade-Ball-JUANKO-BYPASS-9333")
                                     
+    addscriptexist(13772394625, "Toji hub", "Uploaded by Clavilux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toji%20hub21.lua", "https://scriptblox.com/script/Blade-Ball-Toji-hub-9338")
+                                    

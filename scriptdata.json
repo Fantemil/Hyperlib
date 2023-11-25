@@ -28217,5 +28217,32 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Th Hub": {
+        "origin": "https://scriptblox.com/script/Dead-by-Roblox-Th-Hub-9336",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Th%20Hub377.lua",
+        "author": "Uploaded by Corrupt on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14904820737",
+        "game": true
+    },
+    "ATAKAN HUB OP AUTOFARM CHESTFARM": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-ATAKAN-HUB-OP-AUTOFARM-CHESTFARM-9337",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ATAKAN%20HUB%20OP%20AUTOFARM%20CHESTFARM894.lua",
+        "author": "Uploaded by arshehtesham078 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Toji hub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Toji-hub-9338",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toji%20hub21.lua",
+        "author": "Uploaded by Clavilux on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
