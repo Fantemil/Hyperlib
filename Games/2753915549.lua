@@ -514,3 +514,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Cokka Hub       Find Mirage", "Uploaded by hoangson2498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cokka%20Hub%20%20%20%20%20%20%20Find%20Mirage766.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Cokka-Hub-Find-Mirage-9327")
                                     
+    addscriptexist(2753915549, "Auto Farm Auto Quest Fast Attack Mobile Script", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Quest%20Fast%20Attack%20Mobile%20Script973.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Auto-Farm-Auto-Quest-Fast-Attack-Mobile-Script-9335")
+                                    
