@@ -28191,5 +28191,14 @@
         "hub": false,
         "gameid": "10683359068",
         "game": true
+    },
+    "JUANKO  BYPASS": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-JUANKO-BYPASS-9333",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20%20BYPASS228.lua",
+        "author": "Uploaded by JUANKO_MODS_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
