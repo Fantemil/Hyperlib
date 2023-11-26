@@ -444,3 +444,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "NEXTIX HUB V1 2 UPDATED BEST MOBILE AUTOPARRY SCRIPT", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXTIX%20HUB%20V1%202%20UPDATED%20BEST%20MOBILE%20AUTOPARRY%20SCRIPT768.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEXTIX-HUB-V1-2-UPDATED-BEST-MOBILE-AUTOPARRY-SCRIPT-9356")
                                     
+    addscriptexist(13772394625, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z459.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Genesis-Z-9357")
+                                    
