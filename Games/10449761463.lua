@@ -32,3 +32,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Click Tp Fly Hitbox AutoFarm Player Select Player", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Click%20Tp%20Fly%20Hitbox%20AutoFarm%20Player%20Select%20Player877.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Click-Tp-Fly-Hitbox-AutoFarm-Player-Select-Player-9259")
                                     
+    addscriptexist(10449761463, "TSB Best OP Script", "Uploaded by clavejyanchristian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20Best%20OP%20Script809.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-Best-OP-Script-9345")
+                                    

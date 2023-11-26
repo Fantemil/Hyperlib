@@ -28306,5 +28306,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "TSB Best OP Script": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-Best-OP-Script-9345",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20Best%20OP%20Script809.lua",
+        "author": "Uploaded by clavejyanchristian on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
     }
 }
