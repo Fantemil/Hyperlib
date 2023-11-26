@@ -28491,5 +28491,30 @@
         "hub": false,
         "gameid": "13485344053",
         "game": true
+    },
+    "Infinite Wins Infinite Rebirths Infinite Strength": {
+        "origin": "https://scriptblox.com/script/Knockout-Simulator-Infinite-Wins-Infinite-Rebirths-Infinite-Strength-9368",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins%20Infinite%20Rebirths%20Infinite%20Strength114.lua",
+        "author": "Uploaded by zerticzy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13667319624",
+        "game": true
+    },
+    "Fling script everyone in the server": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fling-script-everyone-in-the-server-9369",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20script%20everyone%20in%20the%20server924.lua",
+        "author": "Uploaded by AlfaSoon on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Project stigma by my friend jointeamck": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Project-stigma-by-my-friend-jointeamck-9367",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20stigma%20by%20my%20friend%20jointeamck743.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
