@@ -28288,5 +28288,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Devil Style": {
+        "origin": "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Devil-Style-9341",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Devil%20Style647.lua",
+        "author": "Uploaded by Cee334 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8170900938",
+        "game": true
+    },
+    "Auto parry op AI play": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-parry-op-AI-play-9342",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20parry%20op%20AI%20play613.lua",
+        "author": "Uploaded by AlfaSoon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
