@@ -28315,5 +28315,21 @@
         "hub": false,
         "gameid": "10449761463",
         "game": true
+    },
+    "Delete tool": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Delete-tool-9347",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20tool701.lua",
+        "author": "Uploaded by aqilziqrihihi on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Infinity yield": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Infinity-yield-9346",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20yield271.lua",
+        "author": "Uploaded by aqilziqrihihi on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
