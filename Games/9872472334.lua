@@ -50,3 +50,5 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                     
     addscriptexist(9872472334, "xyz beta", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta34.lua", "https://scriptblox.com/script/Evade-xyz-beta-9331")
                                     
+    addscriptexist(9872472334, "Fullbright  Mode Walkspeed", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fullbright%20%20Mode%20Walkspeed758.lua", "https://scriptblox.com/script/Evade-Fullbright-***-Mode-Walkspeed-9355")
+                                    
