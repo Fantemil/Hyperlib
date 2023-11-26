@@ -28420,5 +28420,32 @@
         "hub": false,
         "gameid": "14401818710",
         "game": true
+    },
+    "FIVE SCRIPT": {
+        "origin": "https://scriptblox.com/script/UPG-TV-MAN-TITAN!-TOILET-TOWER-DEFENSE-UPG-TV-MAN-TITAN-SCRIPT-9360",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIVE%20SCRIPT197.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15139160794",
+        "game": true
+    },
+    "THIRD SCRIPT": {
+        "origin": "https://scriptblox.com/script/EP-67-PART-4-Multiverse-Toilet-Tower-Defense-THIRD-SCRIPT-9361",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THIRD%20SCRIPT195.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14457472950",
+        "game": true
+    },
+    "FOURTH SCRIPT": {
+        "origin": "https://scriptblox.com/script/Skibidi-Tower-Defense-SCRIPT-9359",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FOURTH%20SCRIPT902.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15251405788",
+        "game": true
     }
 }

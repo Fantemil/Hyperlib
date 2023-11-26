@@ -1,0 +1,2 @@
+
+    addscript(15251405788, "Current Game","FOURTH SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FOURTH%20SCRIPT902.lua", "https://scriptblox.com/script/Skibidi-Tower-Defense-SCRIPT-9359")

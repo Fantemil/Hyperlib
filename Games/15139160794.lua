@@ -1,0 +1,2 @@
+
+    addscript(15139160794, "Current Game","FIVE SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIVE%20SCRIPT197.lua", "https://scriptblox.com/script/UPG-TV-MAN-TITAN!-TOILET-TOWER-DEFENSE-UPG-TV-MAN-TITAN-SCRIPT-9360")
