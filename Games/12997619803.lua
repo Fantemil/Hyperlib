@@ -1,0 +1,2 @@
+
+    addscript(12997619803, "Current Game","Infinite Ware", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Ware878.lua", "https://scriptblox.com/script/Clone-Kingdom-Tycoon-Infinite-Ware-9344")

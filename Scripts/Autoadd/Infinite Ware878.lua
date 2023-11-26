@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infiniteThousandWare/infiniteware_cloneKingdomTycoon/main/lua"))()
