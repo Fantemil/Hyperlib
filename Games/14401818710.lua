@@ -1,0 +1,2 @@
+
+    addscript(14401818710, "Current Game","NEW TOILET  DEFENSE SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20TOILET%20%20DEFENSE%20SCRIPT969.lua", "https://scriptblox.com/script/NEW!-TOILET-TOWER-DEFENSE!-NEW-TOILET-DEFENSE-SCRIPT-9358")
