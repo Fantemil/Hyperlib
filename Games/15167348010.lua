@@ -4,3 +4,5 @@
                                     
     addscriptexist(15167348010, "FIRST SCRIPT V3 UPDATE", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIRST%20SCRIPT%20V3%20UPDATE301.lua", "https://scriptblox.com/script/EP-67-3!-Skibidi-Toilet-Tower-Defense-FIRST-SCRIPT-V3-UPDATE-9369")
                                     
+    addscriptexist(15167348010, "FIRST SCRIPT V4", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIRST%20SCRIPT%20V4576.lua", "https://scriptblox.com/script/EP-67-3!-Skibidi-Toilet-Tower-Defense-FIRST-SCRIPT-V4-9363")
+                                    

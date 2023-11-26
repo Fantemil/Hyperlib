@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Client-Replication-Xester-5452"))()

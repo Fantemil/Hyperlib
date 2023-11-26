@@ -28447,5 +28447,49 @@
         "hub": false,
         "gameid": "15251405788",
         "game": true
+    },
+    "Vereus": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Vereus-9366",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vereus786.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "EIGHT SCRIPT": {
+        "origin": "https://scriptblox.com/script/PART-4-Toilet-Tower-Survival-EIGHT-SCRIPT-9365",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EIGHT%20SCRIPT726.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14297418204",
+        "game": true
+    },
+    "FIRST SCRIPT V4": {
+        "origin": "https://scriptblox.com/script/EP-67-3!-Skibidi-Toilet-Tower-Defense-FIRST-SCRIPT-V4-9363",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIRST%20SCRIPT%20V4576.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15167348010",
+        "game": true
+    },
+    "SECOND SCRIPT": {
+        "origin": "https://scriptblox.com/script/EP-66!-Skibidi-Toilet-Tower-Defense-SECOND-SCRIPT-9362",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SECOND%20SCRIPT232.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14553849560",
+        "game": true
+    },
+    "SEVEN SCRIPT": {
+        "origin": "https://scriptblox.com/script/Fixes-Toilet-Defense-SEVEN-SCRIPT-9364",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SEVEN%20SCRIPT642.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13485344053",
+        "game": true
     }
 }

@@ -1,0 +1,2 @@
+
+    addscript(13485344053, "Current Game","SEVEN SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SEVEN%20SCRIPT642.lua", "https://scriptblox.com/script/Fixes-Toilet-Defense-SEVEN-SCRIPT-9364")
