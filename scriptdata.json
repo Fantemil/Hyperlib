@@ -28339,5 +28339,59 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Hawk Hub Kill  Kill Sherif Teleport": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Hawk-Hub-Kill-Kill-Sherif-Teleport-9352",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hawk%20Hub%20Kill%20%20Kill%20Sherif%20Teleport692.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "Frost Fire Auto Farm Fast Attack Auto Select Weapon": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Frost-Fire-Auto-Farm-Fast-Attack-Auto-Select-Weapon-9354",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frost%20Fire%20Auto%20Farm%20Fast%20Attack%20Auto%20Select%20Weapon737.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Zxchub Auto Parry Auto Spam": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Zxchub-Auto-Parry-Auto-Spam-9349",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zxchub%20Auto%20Parry%20Auto%20Spam946.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Fe bypass Gui Katana Fly Tiger Admin": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Fe-bypass-Gui-Katana-Fly-Tiger-Admin-9350",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20bypass%20Gui%20Katana%20Fly%20Tiger%20Admin988.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "Speed Hub X Auto Saber Auto Skill Auto farm lvl": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Speed-Hub-X-Auto-Saber-Auto-Skill-Auto-farm-lvl-9355",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20Auto%20Saber%20Auto%20Skill%20Auto%20farm%20lvl189.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Ansit Hub Auto Farm Auto Stats Auto Weapon": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Ansit-Hub-Auto-Farm-Auto-Stats-Auto-Weapon-9353",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ansit%20Hub%20Auto%20Farm%20Auto%20Stats%20Auto%20Weapon673.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

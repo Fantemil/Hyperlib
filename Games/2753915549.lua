@@ -520,3 +520,9 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "RadinBlest Hub OP FARM", "Uploaded by AlfaSoon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RadinBlest%20Hub%20OP%20FARM689.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-ATK-HUB-OP-FARM-9337")
                                     
+    addscriptexist(2753915549, "Frost Fire Auto Farm Fast Attack Auto Select Weapon", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frost%20Fire%20Auto%20Farm%20Fast%20Attack%20Auto%20Select%20Weapon737.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Frost-Fire-Auto-Farm-Fast-Attack-Auto-Select-Weapon-9354")
+                                    
+    addscriptexist(2753915549, "Speed Hub X Auto Saber Auto Skill Auto farm lvl", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20Auto%20Saber%20Auto%20Skill%20Auto%20farm%20lvl189.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Speed-Hub-X-Auto-Saber-Auto-Skill-Auto-farm-lvl-9355")
+                                    
+    addscriptexist(2753915549, "Ansit Hub Auto Farm Auto Stats Auto Weapon", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ansit%20Hub%20Auto%20Farm%20Auto%20Stats%20Auto%20Weapon673.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Ansit-Hub-Auto-Farm-Auto-Stats-Auto-Weapon-9353")
+                                    
