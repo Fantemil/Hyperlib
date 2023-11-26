@@ -10,3 +10,5 @@ addscriptexist(815405518, "instant ugc", "Uploaded by et1ty on scriptblox.com", 
                                     
     addscriptexist(815405518, "VIP Room n Win Round", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20Win%20Round491.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-VIP-Room-n-Win-Round-7543")
                                     
+    addscriptexist(815405518, "Auto Win Collect Coins  More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Collect%20Coins%20%20More402.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-Auto-Win-Collect-Coins-More-9369")
+                                    
