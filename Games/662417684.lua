@@ -38,3 +38,5 @@ addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "ht
                                     
     addscriptexist(662417684, "script OP", "Uploaded by lunarwander on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20OP751.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-script-OP-8772")
                                     
+    addscriptexist(662417684, "DemonicHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB%20V2326.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-DemonicHUB-V2-9376")
+                                    
