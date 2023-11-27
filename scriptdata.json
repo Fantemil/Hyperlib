@@ -28713,5 +28713,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "OP Auto Parry Best Script FE": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-OP-Auto-Parry-Best-Script-FE-9383",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Parry%20Best%20Script%20FE839.lua",
+        "author": "Uploaded by elcharardvir on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
