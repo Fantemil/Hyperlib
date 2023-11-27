@@ -4,3 +4,5 @@ addscript(8712817601, "Current Game","Guard Gamepass n Remove Lava and more", "U
                                     
     addscriptexist(8712817601, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L857.lua", "https://scriptblox.com/script/BARRY'S-PRISON-RUN!-(FIRST-PERSON-OBBY!)-Project-L-9345")
                                     
+    addscriptexist(8712817601, "Auto Dig Anti Lasers More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dig%20Anti%20Lasers%20More355.lua", "https://scriptblox.com/script/BARRY'S-PRISON-RUN!-(FIRST-PERSON-OBBY!)-Auto-Dig-Anti-Lasers-More-9377")
+                                    

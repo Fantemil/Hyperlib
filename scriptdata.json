@@ -28669,5 +28669,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "No stun super speed": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-No-stun-super-speed-9378",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20stun%20super%20speed496.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
+    },
+    "Auto Dig Anti Lasers More": {
+        "origin": "https://scriptblox.com/script/BARRY'S-PRISON-RUN!-(FIRST-PERSON-OBBY!)-Auto-Dig-Anti-Lasers-More-9377",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dig%20Anti%20Lasers%20More355.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8712817601",
+        "game": true
     }
 }
