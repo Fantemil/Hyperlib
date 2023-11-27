@@ -28533,5 +28533,30 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "FE KILL ALL": {
+        "origin": "https://scriptblox.com/script/Mapa-da-Jessi-FE-KILL-ALL-9374",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20KILL%20ALL873.lua",
+        "author": "Uploaded by Termux404 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9321872182",
+        "game": true
+    },
+    "Decalspam by jointeamck": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Decalspam-by-jointeamck-9373",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decalspam%20by%20jointeamck826.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Lightsaber": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Lightsaber-9374",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightsaber876.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
