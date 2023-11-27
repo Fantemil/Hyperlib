@@ -446,3 +446,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z459.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Genesis-Z-9357")
                                     
+    addscriptexist(13772394625, "Raven B4 MYSTIC WARE CONFIG", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20B4%20MYSTIC%20WARE%20CONFIG525.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Raven-B4-MYSTIC-WARE-CONFIG-9378")
+                                    

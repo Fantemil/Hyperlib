@@ -28575,5 +28575,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Raven B4 MYSTIC WARE CONFIG": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Raven-B4-MYSTIC-WARE-CONFIG-9378",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20B4%20MYSTIC%20WARE%20CONFIG525.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
