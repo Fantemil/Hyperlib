@@ -28567,5 +28567,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Universal Infinite Yield Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-Infinite-Yield-Script-9377",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Infinite%20Yield%20Script393.lua",
+        "author": "Uploaded by RobloxSharingScript on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
