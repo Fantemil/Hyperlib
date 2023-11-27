@@ -28644,5 +28644,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "OP Autoparry Autoblock": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-OP-Autoparry-Autoblock-9381",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autoparry%20Autoblock595.lua",
+        "author": "Uploaded by arshehtesham078 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

@@ -450,3 +450,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Best OP Auto Parry or Auto Block", "Uploaded by clavejyanchristian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20Auto%20Parry%20or%20Auto%20Block14.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Best-OP-Auto-Parry-or-Auto-Block-9376")
                                     
+    addscriptexist(13772394625, "OP Autoparry Autoblock", "Uploaded by arshehtesham078 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autoparry%20Autoblock595.lua", "https://scriptblox.com/script/UPD-Blade-Ball-OP-Autoparry-Autoblock-9381")
+                                    
