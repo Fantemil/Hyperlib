@@ -28661,5 +28661,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Prakstor V3 First executor maded in chatgpt": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Prakstor-V3-First-executor-maded-in-chatgpt-9376",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prakstor%20V3%20First%20executor%20maded%20in%20chatgpt606.lua",
+        "author": "Uploaded by Efeee9182917 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
