@@ -448,3 +448,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Raven B4 MYSTIC WARE CONFIG", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20B4%20MYSTIC%20WARE%20CONFIG525.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Raven-B4-MYSTIC-WARE-CONFIG-9378")
                                     
+    addscriptexist(13772394625, "Best OP Auto Parry or Auto Block", "Uploaded by clavejyanchristian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20Auto%20Parry%20or%20Auto%20Block14.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Best-OP-Auto-Parry-or-Auto-Block-9376")
+                                    

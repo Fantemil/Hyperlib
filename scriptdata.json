@@ -28584,5 +28584,22 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Best OP Auto Parry or Auto Block": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Best-OP-Auto-Parry-or-Auto-Block-9376",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20Auto%20Parry%20or%20Auto%20Block14.lua",
+        "author": "Uploaded by clavejyanchristian on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Fling Everyone in the Server": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fling-Everyone-in-the-Server-9377",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20Everyone%20in%20the%20Server818.lua",
+        "author": "Uploaded by clavejyanchristian on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
