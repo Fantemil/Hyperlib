@@ -120,3 +120,7 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Fe bypass Gui Katana Fly Tiger Admin", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20bypass%20Gui%20Katana%20Fly%20Tiger%20Admin988.lua", "https://scriptblox.com/script/Prison-Life-Fe-bypass-Gui-Katana-Fly-Tiger-Admin-9350")
                                     
+    addscriptexist(155615604, "Tiger admin for", "Uploaded by Jaydenmclin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20for977.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-for-9380")
+                                    
+    addscriptexist(155615604, "Fearless Admin", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fearless%20Admin402.lua", "https://scriptblox.com/script/Prison-Life-Fearless-Admin-9378")
+                                    

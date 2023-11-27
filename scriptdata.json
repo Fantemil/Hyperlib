@@ -28609,5 +28609,40 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Tiger admin for": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Tiger-admin-for-9380",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20for977.lua",
+        "author": "Uploaded by Jaydenmclin on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "Hawk hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hawk-hub-9379",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hawk%20hub945.lua",
+        "author": "Uploaded by Jaydenmclin on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Fearless Admin": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Fearless-Admin-9378",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fearless%20Admin402.lua",
+        "author": "Uploaded by Goku_Black on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "OP Best Auto Farm Hub Open Source Script FE": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-Best-Auto-Farm-Hub-Open-Source-Script-FE-9380",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Best%20Auto%20Farm%20Hub%20Open%20Source%20Script%20FE952.lua",
+        "author": "Uploaded by clavejyanchristian on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
