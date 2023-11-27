@@ -148,3 +148,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Hawk Hub Kill  Kill Sherif Teleport", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hawk%20Hub%20Kill%20%20Kill%20Sherif%20Teleport692.lua", "https://scriptblox.com/script/Murder-Mystery-2-Hawk-Hub-Kill-Kill-Sherif-Teleport-9352")
                                     
+    addscriptexist(142823291, "ElProsMM", "Uploaded by C00LKidd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElProsMM45.lua", "https://scriptblox.com/script/Murder-Mystery-2-ElProsMM-9381")
+                                    

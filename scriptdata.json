@@ -28687,5 +28687,31 @@
         "hub": false,
         "gameid": "8712817601",
         "game": true
+    },
+    "BEST Autoparry ia updated": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-BEST-Autoparry-ia-updated-9380",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20Autoparry%20ia%20updated52.lua",
+        "author": "Uploaded by AlfaSoon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "ElProsMM": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-ElProsMM-9381",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElProsMM45.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "Artic Aura Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Artic-Aura-Hub-9379",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Artic%20Aura%20Hub366.lua",
+        "author": "Uploaded by ArticAura on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
