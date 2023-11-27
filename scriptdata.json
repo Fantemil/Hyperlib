@@ -28525,5 +28525,13 @@
         "hub": false,
         "gameid": "815405518",
         "game": true
+    },
+    "Seven by my friend jointeamck": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Seven-by-my-friend-jointeamck-9371",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Seven%20by%20my%20friend%20jointeamck32.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
