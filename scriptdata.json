@@ -28601,5 +28601,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "VexHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-VexHub-9377",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VexHub861.lua",
+        "author": "Uploaded by v31nc_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
