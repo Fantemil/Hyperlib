@@ -526,3 +526,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Ansit Hub Auto Farm Auto Stats Auto Weapon", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ansit%20Hub%20Auto%20Farm%20Auto%20Stats%20Auto%20Weapon673.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Ansit-Hub-Auto-Farm-Auto-Stats-Auto-Weapon-9353")
                                     
+    addscriptexist(2753915549, "Tsuo Hub", "Uploaded by RobloxSharingScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsuo%20Hub702.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Tsuo-Hub-9375")
+                                    

@@ -28558,5 +28558,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Tsuo Hub": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Tsuo-Hub-9375",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsuo%20Hub702.lua",
+        "author": "Uploaded by RobloxSharingScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
