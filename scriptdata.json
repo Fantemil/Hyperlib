@@ -28739,5 +28739,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Roblox head hitbox expander Script": {
+        "origin": "https://scriptblox.com/script/Noobs-vs-Zombies:-Realish-Roblox-head-hitbox-expander-Script-9387",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20head%20hitbox%20expander%20Script330.lua",
+        "author": "Uploaded by mawinck06 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "527271999",
+        "game": true
     }
 }
