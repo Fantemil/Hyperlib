@@ -28775,5 +28775,21 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Reach for sword games": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Reach-for-sword-games-9394",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reach%20for%20sword%20games803.lua",
+        "author": "Uploaded by ScriptStealer on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Fe op kill all need a sword": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-op-kill-all-need-a-sword-9395",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20op%20kill%20all%20need%20a%20sword856.lua",
+        "author": "Uploaded by ScriptStealer on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
