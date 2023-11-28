@@ -122,3 +122,5 @@ addscriptexist(286090429, "egware for", "Uploaded by eggerites on scriptblox.com
                                 
 addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20script25.lua", "https://scriptblox.com/script/Arsenal-Aimbot-script-9223")
                                 
+    addscriptexist(286090429, "Op script", "Uploaded by lukassaw73 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script415.lua", "https://scriptblox.com/script/Arsenal-Op-script-9390")
+                                    
