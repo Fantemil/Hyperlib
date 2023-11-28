@@ -28748,5 +28748,23 @@
         "hub": false,
         "gameid": "527271999",
         "game": true
+    },
+    "roblox      script GUI 47264": {
+        "origin": "https://scriptblox.com/script/Marvel-and-DC-Super-Heroes-roblox-script-GUI-9388",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20%20%20%20%20%20script%20GUI%2047264742.lua",
+        "author": "Uploaded by mawinck06 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6132958612",
+        "game": true
+    },
+    "roblox   GUI V1 mawinck06": {
+        "origin": "https://scriptblox.com/script/Prison-Life-roblox-GUI-V1-mawinck06-9390",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20%20%20GUI%20V1%20mawinck06250.lua",
+        "author": "Uploaded by mawinck06 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }

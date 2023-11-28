@@ -124,3 +124,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Fearless Admin", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fearless%20Admin402.lua", "https://scriptblox.com/script/Prison-Life-Fearless-Admin-9378")
                                     
+    addscriptexist(155615604, "roblox   GUI V1 mawinck06", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20%20%20GUI%20V1%20mawinck06250.lua", "https://scriptblox.com/script/Prison-Life-roblox-GUI-V1-mawinck06-9390")
+                                    

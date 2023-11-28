@@ -1,0 +1,13 @@
+---hello this is Prison life script Roblox v1
+---make and created and Idea by Mawin_CK and youtube
+-------make sure to seacrh my username on roblox and follow me
+---scripted by jit code
+-----i am sorry if some of script i steal to make to my own
+------scripted by Jit code
+----about me Well i scripting exploit on mobile
+---some of game some of script Might be Hard for me cus i on mobile
+-------------i might use like AI called jit code to help me scripting aswell
+------prison life Script 2023
+-----i recommended use Hitbox expander and GhostHUB
+----------cus why not? you have only two of this thing u can do anything 
+loadstring(game:HttpGet"https://pastebin.com/raw/vWXdmi5z")()
