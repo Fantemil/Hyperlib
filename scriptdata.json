@@ -28731,5 +28731,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Shitsploit": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Shitsploit-9386",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shitsploit625.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
