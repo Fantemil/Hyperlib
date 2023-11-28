@@ -530,3 +530,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP Best Auto Farm Hub Open Source Script FE", "Uploaded by clavejyanchristian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Best%20Auto%20Farm%20Hub%20Open%20Source%20Script%20FE952.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-Best-Auto-Farm-Hub-Open-Source-Script-FE-9380")
                                     
+    addscriptexist(2753915549, "RedZHu", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZHu469.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-RedZHu-9385")
+                                    
