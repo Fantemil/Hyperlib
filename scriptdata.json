@@ -28791,5 +28791,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "18872": {
+        "origin": "https://scriptblox.com/script/Universal-Script-18872-9396",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/18872720.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
