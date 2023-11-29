@@ -28799,5 +28799,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Stingray Autofarm": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Stingray-9396",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Autofarm623.lua",
+        "author": "Uploaded by Celestial_Manta on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

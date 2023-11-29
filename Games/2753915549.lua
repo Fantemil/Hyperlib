@@ -534,3 +534,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Autofarm Auto Hub Open source", "Uploaded by jbetetaaguilar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Auto%20Hub%20Open%20source500.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Autofarm-Auto-Hub-Open-source-9393")
                                     
+    addscriptexist(2753915549, "Stingray Autofarm", "Uploaded by Celestial_Manta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Autofarm623.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Stingray-9396")
+                                    
