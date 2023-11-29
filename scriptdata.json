@@ -28834,5 +28834,22 @@
         "hub": false,
         "gameid": "6845126951",
         "game": true
+    },
+    "windows emulator test": {
+        "origin": "https://scriptblox.com/script/Universal-Script-windows-emulator-test-9402",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/windows%20emulator%20test598.lua",
+        "author": "Uploaded by xavierissus on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Roblox UI script dropdown": {
+        "origin": "https://scriptblox.com/script/SKYWARS-Roblox-UI-script-dropdown-9403",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20UI%20script%20dropdown183.lua",
+        "author": "Uploaded by mawinck06 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "855499080",
+        "game": true
     }
 }
