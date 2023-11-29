@@ -20,3 +20,5 @@ addscript(7991339063, "Current Game","Rainbow friends OP Script", "Uploaded by l
                                 
     addscriptexist(7991339063, "ESP Collect All and more", "Uploaded by Oasis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20Collect%20All%20and%20more497.lua", "https://scriptblox.com/script/Rainbow-Friends-ESP-Collect-All-and-more-7499")
                                     
+    addscriptexist(7991339063, "Item Esp Monster Esp Local Player", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Esp%20Monster%20Esp%20Local%20Player31.lua", "https://scriptblox.com/script/Rainbow-Friends-Item-Esp-Monster-Esp-Local-Player-9397")
+                                    

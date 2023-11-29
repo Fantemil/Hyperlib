@@ -28860,5 +28860,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Item Esp Monster Esp Local Player": {
+        "origin": "https://scriptblox.com/script/Rainbow-Friends-Item-Esp-Monster-Esp-Local-Player-9397",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Esp%20Monster%20Esp%20Local%20Player31.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7991339063",
+        "game": true
     }
 }
