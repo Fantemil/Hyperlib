@@ -1,0 +1,2 @@
+
+    addscript(6845126951, "Current Game","Fake  v Arabic GUI roblox", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20%20v%20Arabic%20GUI%20roblox743.lua", "https://scriptblox.com/script/GTA-or-srqh-alsyarat-alkbra-Fake-v-Arabic-GUI-roblox-9399")

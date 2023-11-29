@@ -28816,5 +28816,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "roblox Must use Script": {
+        "origin": "https://scriptblox.com/script/CRIMINAL-VS.-SWAT-roblox-Must-use-Script-9401",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20Must%20use%20Script538.lua",
+        "author": "Uploaded by mawinck06 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "510444657",
+        "game": true
+    },
+    "Fake  v Arabic GUI roblox": {
+        "origin": "https://scriptblox.com/script/GTA-or-srqh-alsyarat-alkbra-Fake-v-Arabic-GUI-roblox-9399",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20%20v%20Arabic%20GUI%20roblox743.lua",
+        "author": "Uploaded by mawinck06 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6845126951",
+        "game": true
     }
 }

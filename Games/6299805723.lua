@@ -44,3 +44,5 @@ addscriptexist(6299805723, "Banana hub cracked", "Uploaded by FoilWithFood on sc
                                     
     addscriptexist(6299805723, "Yuto Hub Key Crack", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yuto%20Hub%20Key%20Crack849.lua", "https://scriptblox.com/script/UPD-41-+-x5-Anime-Fighters-Simulator-Yuto-Hub-Key-Crack-7358")
                                     
+    addscriptexist(6299805723, "op script", "Uploaded by Lufi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script126.lua", "https://scriptblox.com/script/CODE-+-x7-Anime-Fighters-Simulator-op-script-9400")
+                                    
