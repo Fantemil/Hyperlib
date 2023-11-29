@@ -28808,5 +28808,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "proton hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-proton-hub-9397",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/proton%20hub380.lua",
+        "author": "Uploaded by Luascripts on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
