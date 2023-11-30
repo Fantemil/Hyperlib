@@ -96,3 +96,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Bad Wars script please", "Uploaded by hyoweqqqqqq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Wars%20script%20please509.lua", "https://scriptblox.com/script/BedWars-LANDMINE!-Bad-Wars-script-please-9251")
                                     
+    addscriptexist(6872265039, "Mass Report AFK Farm More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20More205.lua", "https://scriptblox.com/script/BedWars-5v5-Mass-Report-AFK-Farm-More-9399")
+                                    

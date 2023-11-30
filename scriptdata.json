@@ -28990,5 +28990,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Mass Report AFK Farm More": {
+        "origin": "https://scriptblox.com/script/BedWars-5v5-Mass-Report-AFK-Farm-More-9399",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20More205.lua",
+        "author": "Uploaded by ExportScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
     }
 }
