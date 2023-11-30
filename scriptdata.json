@@ -28981,5 +28981,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "NEXTIX HUB BEST   SCRIPT OP AUTOPARRY": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-NEXTIX-HUB-BEST-SCRIPT-OP-AUTOPARRY-9398",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXTIX%20HUB%20BEST%20%20%20SCRIPT%20OP%20AUTOPARRY643.lua",
+        "author": "Uploaded by nextix on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

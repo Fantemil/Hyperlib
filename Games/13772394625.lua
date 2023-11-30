@@ -464,3 +464,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "DenDenZ HUB", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DenDenZ%20HUB398.lua", "https://scriptblox.com/script/Blade-Ball-DenDenZ-HUB-9403")
                                     
+    addscriptexist(13772394625, "NEXTIX HUB BEST   SCRIPT OP AUTOPARRY", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXTIX%20HUB%20BEST%20%20%20SCRIPT%20OP%20AUTOPARRY643.lua", "https://scriptblox.com/script/Blade-Ball-NEXTIX-HUB-BEST-SCRIPT-OP-AUTOPARRY-9398")
+                                    
