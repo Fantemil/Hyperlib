@@ -20,3 +20,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                 
     addscriptexist(1537690962, "Kometa v2", "Uploaded by random_person on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kometa%20v2906.lua", "https://scriptblox.com/script/PSXbox-Bee-Swarm-Simulator-Kometa-v2-9192")
                                     
+    addscriptexist(1537690962, " Mode Auto Farm Field Auto Make Honey", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Mode%20Auto%20Farm%20Field%20Auto%20Make%20Honey750.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-***-Mode-Auto-Farm-Field-Auto-Make-Honey-9397")
+                                    
