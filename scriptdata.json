@@ -28869,5 +28869,21 @@
         "hub": false,
         "gameid": "7991339063",
         "game": true
+    },
+    "heyy": {
+        "origin": "https://scriptblox.com/script/Universal-Script-heyy-9389",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/heyy766.lua",
+        "author": "Uploaded by Shaymin on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "ShrexBackup": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ShrexBackup-9395",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShrexBackup721.lua",
+        "author": "Uploaded by Shaymin on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
