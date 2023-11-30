@@ -28903,5 +28903,13 @@
         "hub": false,
         "gameid": "1537690962",
         "game": true
+    },
+    "k00pguiv3Beta": {
+        "origin": "https://scriptblox.com/script/Universal-Script-k00pguiv3Beta-9398",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/k00pguiv3Beta790.lua",
+        "author": "Uploaded by Team_k00pkidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
