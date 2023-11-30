@@ -28911,5 +28911,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "OP AUTO FRUIT FARM": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FRUIT-FARM-9400",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FRUIT%20FARM1.lua",
+        "author": "Uploaded by withyou234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "New   Script": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-New-Script-9399",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20%20%20Script307.lua",
+        "author": "Uploaded by RobloxSharingScript on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
