@@ -150,3 +150,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "ElProsMM", "Uploaded by C00LKidd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ElProsMM45.lua", "https://scriptblox.com/script/Murder-Mystery-2-ElProsMM-9381")
                                     
+    addscriptexist(142823291, "AUTO COIN FARM", "Uploaded by withyou234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20COIN%20FARM52.lua", "https://scriptblox.com/script/Murder-Mystery-2-AUTO-COIN-FARM-9402")
+                                    
