@@ -28955,5 +28955,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "OP FARM": {
+        "origin": "https://scriptblox.com/script/Epic-Minigames-OP-FARM-9402",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FARM887.lua",
+        "author": "Uploaded by withyou234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "277751860",
+        "game": true
+    },
+    "New OP Script": {
+        "origin": "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-New-OP-Script-9401",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Script301.lua",
+        "author": "Uploaded by withyou234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14184086618",
+        "game": true
     }
 }

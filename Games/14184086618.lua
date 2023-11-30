@@ -66,3 +66,5 @@ addscriptexist(14184086618, "unclock everything ll the s op win frm remove killp
                                     
     addscriptexist(14184086618, "uto Frm Teleport Ending", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm%20Teleport%20Ending224.lua", "https://scriptblox.com/script/W10-Obby-But-You're-On-a-Bike-uto-Frm-Teleport-Ending-9354")
                                     
+    addscriptexist(14184086618, "New OP Script", "Uploaded by withyou234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Script301.lua", "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-New-OP-Script-9401")
+                                    
