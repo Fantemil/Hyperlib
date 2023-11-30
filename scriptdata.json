@@ -28885,5 +28885,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Sirius Master": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Sirius-Master-9396",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Master731.lua",
+        "author": "Uploaded by cdevslasher on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

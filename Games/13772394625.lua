@@ -458,3 +458,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "s IN TESTING SCRIPT", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/s%20IN%20TESTING%20SCRIPT498.lua", "https://scriptblox.com/script/Blade-Ball-s-IN-TESTING-SCRIPT-9404")
                                     
+    addscriptexist(13772394625, "Sirius Master", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Master731.lua", "https://scriptblox.com/script/Blade-Ball-Sirius-Master-9396")
+                                    
