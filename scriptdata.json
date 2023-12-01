@@ -29096,5 +29096,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "6491Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-6491Hub-9385",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/6491Hub576.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
