@@ -29070,5 +29070,14 @@
         "hub": false,
         "gameid": "14184086618",
         "game": true
+    },
+    "Op Unlock All Hats": {
+        "origin": "https://scriptblox.com/script/sno-day-Op-Unlock-All-Hats-9382",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Unlock%20All%20Hats795.lua",
+        "author": "Uploaded by MpIsPro12 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2597632885",
+        "game": true
     }
 }
