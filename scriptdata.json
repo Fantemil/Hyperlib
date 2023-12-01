@@ -29088,5 +29088,13 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "18872hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-18872hub-9382",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/18872hub441.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
