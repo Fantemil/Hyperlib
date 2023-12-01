@@ -466,3 +466,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "NEXTIX HUB BEST   SCRIPT OP AUTOPARRY", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXTIX%20HUB%20BEST%20%20%20SCRIPT%20OP%20AUTOPARRY643.lua", "https://scriptblox.com/script/Blade-Ball-NEXTIX-HUB-BEST-SCRIPT-OP-AUTOPARRY-9398")
                                     
+    addscriptexist(13772394625, "SCRIPT BY DENDENZ", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20BY%20DENDENZ975.lua", "https://scriptblox.com/script/Blade-Ball-SCRIPT-BY-DENDENZ-9404")
+                                    
