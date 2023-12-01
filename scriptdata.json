@@ -29061,5 +29061,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Instnt Finish Frm Trophies": {
+        "origin": "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-Instnt-Finish-Frm-Trophies-9381",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instnt%20Finish%20Frm%20Trophies533.lua",
+        "author": "Uploaded by zerticzy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14184086618",
+        "game": true
     }
 }

@@ -68,3 +68,5 @@ addscriptexist(14184086618, "unclock everything ll the s op win frm remove killp
                                     
     addscriptexist(14184086618, "New OP Script", "Uploaded by withyou234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Script301.lua", "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-New-OP-Script-9401")
                                     
+    addscriptexist(14184086618, "Instnt Finish Frm Trophies", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instnt%20Finish%20Frm%20Trophies533.lua", "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-Instnt-Finish-Frm-Trophies-9381")
+                                    
