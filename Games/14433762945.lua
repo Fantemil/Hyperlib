@@ -34,3 +34,5 @@ addscriptexist(14433762945, "OP SCRIPT FOR GAME", "Uploaded by gus_fring on scri
                                     
     addscriptexist(14433762945, "OP AUTO FARM FULL", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20FULL700.lua", "https://scriptblox.com/script/TOURNAMENTS-Anime-Champions-Simulator-OP-AUTO-FARM-FULL-9363")
                                     
+    addscriptexist(14433762945, "Collect Drops Teleport Collect Chests", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Drops%20Teleport%20Collect%20Chests318.lua", "https://scriptblox.com/script/ORB-LUCK-Anime-Champions-Simulator-Collect-Drops-Teleport-Collect-Chests-9407")
+                                    

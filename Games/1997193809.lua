@@ -1,0 +1,2 @@
+
+    addscript(1997193809, "Current Game","OP Auto Farm Marshmallows", "Uploaded by MpIsPro12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm%20Marshmallows717.lua", "https://scriptblox.com/script/UPDATE-Backpacking-Auto-Farm-Marshmallows-9405")

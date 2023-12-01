@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hodrich/ChillX/main/Murder%20Mystery%202.lua'))()
