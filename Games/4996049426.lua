@@ -2,3 +2,5 @@
 addscript(4996049426, "Current Game","Star Tower Defense SO MANY FEATURES", "Uploaded by uzee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Tower%20Defense%20SO%20MANY%20FEATURES187.lua", "https://scriptblox.com/script/RUMBLE-All-Star-Tower-Defense-Star-Tower-Defense-(SO-MANY-FEATURES)-4095")
     addscriptexist(4996049426, "Auto Join Auto Replay  More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Join%20Auto%20Replay%20%20More781.lua", "https://scriptblox.com/script/UPDATE-+-4X-All-Star-Tower-Defense-Auto-Join-Auto-Replay-More-9370")
                                     
+    addscriptexist(4996049426, "DemonicHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB%20V2314.lua", "https://scriptblox.com/script/UPDATE+-4X-All-Star-Tower-Defense-DemonicHUB-V2-9403")
+                                    
