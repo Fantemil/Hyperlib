@@ -468,3 +468,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "SCRIPT BY DENDENZ", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20BY%20DENDENZ975.lua", "https://scriptblox.com/script/Blade-Ball-SCRIPT-BY-DENDENZ-9404")
                                     
+    addscriptexist(13772394625, "The Best MOBILE and PC Script Working OP AutoParry and MORE", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20MOBILE%20and%20PC%20Script%20Working%20OP%20AutoParry%20and%20MORE635.lua", "https://scriptblox.com/script/Blade-Ball-ZapHub-The-Best-MOBILE-and-PC-AutoParry-and-MORE-Functions-9379")
+                                    
+    addscriptexist(13772394625, "Atreus HUB", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20HUB779.lua", "https://scriptblox.com/script/Blade-Ball-Atreus-HUB-9380")
+                                    

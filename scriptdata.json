@@ -29043,5 +29043,23 @@
         "hub": false,
         "gameid": "1997193809",
         "game": true
+    },
+    "The Best MOBILE and PC Script Working OP AutoParry and MORE": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-ZapHub-The-Best-MOBILE-and-PC-AutoParry-and-MORE-Functions-9379",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20MOBILE%20and%20PC%20Script%20Working%20OP%20AutoParry%20and%20MORE635.lua",
+        "author": "Uploaded by ZapHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Atreus HUB": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Atreus-HUB-9380",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20HUB779.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
