@@ -29079,5 +29079,14 @@
         "hub": false,
         "gameid": "2597632885",
         "game": true
+    },
+    "royale script": {
+        "origin": "https://scriptblox.com/script/SCYTHE-Slap-Battles-op-script-working-9383",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/royale%20script210.lua",
+        "author": "Uploaded by Thereplazing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }

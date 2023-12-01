@@ -86,3 +86,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "TroXerHub", "Uploaded by TroXerHub_Team on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TroXerHub140.lua", "https://scriptblox.com/script/Slap-Battles-TrexorHub-9005")
                                     
+    addscriptexist(6403373529, "royale script", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/royale%20script210.lua", "https://scriptblox.com/script/SCYTHE-Slap-Battles-op-script-working-9383")
+                                    
