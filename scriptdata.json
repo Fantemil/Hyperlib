@@ -29104,5 +29104,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "c00lgui reawakened": {
+        "origin": "https://scriptblox.com/script/Universal-Script-c00lgui-reawakened-9385",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui%20reawakened203.lua",
+        "author": "Uploaded by jointeamCK on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "MTRIET": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-MTRIET-9386",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MTRIET147.lua",
+        "author": "Uploaded by Asamai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
