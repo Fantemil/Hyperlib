@@ -29173,5 +29173,13 @@
         "hub": false,
         "gameid": "920587237",
         "game": true
+    },
+    "Mario exe by c00lkidd": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mario-exe-by-c00lkidd-9388",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mario%20exe%20by%20c00lkidd457.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
