@@ -29232,5 +29232,21 @@
         "hub": false,
         "gameid": "189707",
         "game": true
+    },
+    "Rc7": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Rc7-9397",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rc7963.lua",
+        "author": "Uploaded by jointeamCK on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Rocky Admin FE": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Rocky-Admin-FE-9398",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocky%20Admin%20FE797.lua",
+        "author": "Uploaded by jointeamCK on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
