@@ -1,0 +1,2 @@
+
+    addscript(8737899170, "Current Game","op more features tmr", "Uploaded by ent1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20more%20features%20tmr977.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-op-more-features-tmr-9392")

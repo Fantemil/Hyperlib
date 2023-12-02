@@ -29189,5 +29189,31 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "C00lsploit": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lsploit-9391",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lsploit498.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "op more features tmr": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-op-more-features-tmr-9392",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20more%20features%20tmr977.lua",
+        "author": "Uploaded by ent1ty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "123y": {
+        "origin": "https://scriptblox.com/script/Climb-1000-Stairs-123y-9390",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/123y855.lua",
+        "author": "Uploaded by jerrywalter802 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5702593762",
+        "game": true
     }
 }
