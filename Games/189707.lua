@@ -22,3 +22,5 @@ addscriptexist(189707, "Natural Disaster Survival AutoFarm Choose Map Visuals", 
                                 
 addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Choose%20Map%20NoFall%20WaterWalk797.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Choose-Map-NoFall-WaterWalk-7793")
                                 
+    addscriptexist(189707, "Blackhole", "Uploaded by FireServiceScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackhole743.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Blackhole-9395")
+                                    

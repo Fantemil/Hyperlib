@@ -29215,5 +29215,22 @@
         "hub": false,
         "gameid": "5702593762",
         "game": true
+    },
+    "Click to tp": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Click-to-tp-9394",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Click%20to%20tp555.lua",
+        "author": "Uploaded by FireServiceScripter on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Blackhole": {
+        "origin": "https://scriptblox.com/script/Natural-Disaster-Survival-Blackhole-9395",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackhole743.lua",
+        "author": "Uploaded by FireServiceScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "189707",
+        "game": true
     }
 }
