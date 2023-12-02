@@ -538,3 +538,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP AUTO FRUIT FARM", "Uploaded by withyou234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FRUIT%20FARM1.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-OP-AUTO-FRUIT-FARM-9400")
                                     
+    addscriptexist(2753915549, "Stingray KEYLESS AUTOFARM", "Uploaded by Celestial_Manta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20KEYLESS%20AUTOFARM668.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Stingray-KEYLESS-AUTOFARM-9385")
+                                    

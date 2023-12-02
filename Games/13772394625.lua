@@ -474,3 +474,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L327.lua", "https://scriptblox.com/script/Blade-Ball-Project-L-9386")
                                     
+    addscriptexist(13772394625, "Zygarde", "Uploaded by 1ml3g1t on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zygarde290.lua", "https://scriptblox.com/script/Blade-Ball-Zygarde-9384")
+                                    
+    addscriptexist(13772394625, "RGB manual spam ui", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20manual%20spam%20ui727.lua", "https://scriptblox.com/script/Blade-Ball-RGB-manual-spam-ui-9386")
+                                    

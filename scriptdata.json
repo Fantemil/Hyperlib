@@ -29137,5 +29137,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Stingray KEYLESS AUTOFARM": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Stingray-KEYLESS-AUTOFARM-9385",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20KEYLESS%20AUTOFARM668.lua",
+        "author": "Uploaded by Celestial_Manta on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Zygarde": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Zygarde-9384",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zygarde290.lua",
+        "author": "Uploaded by 1ml3g1t on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "RGB manual spam ui": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-RGB-manual-spam-ui-9386",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20manual%20spam%20ui727.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
