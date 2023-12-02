@@ -29164,5 +29164,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Auto Farm Auto Buy Walkspeed JumpPower": {
+        "origin": "https://scriptblox.com/script/Adopt-Me!-Auto-Farm-Auto-Buy-Walkspeed-JumpPower-9387",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Buy%20Walkspeed%20JumpPower824.lua",
+        "author": "Uploaded by SaboHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "920587237",
+        "game": true
     }
 }

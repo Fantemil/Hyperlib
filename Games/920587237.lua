@@ -44,3 +44,5 @@ addscriptexist(920587237, "Money changer", "Uploaded by EviIAlienWare on scriptb
                                     
     addscriptexist(920587237, "troll money script", "Uploaded by mwexico on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/troll%20money%20script920.lua", "https://scriptblox.com/script/Adopt-Me!-MEINFMONEY-7696")
                                     
+    addscriptexist(920587237, "Auto Farm Auto Buy Walkspeed JumpPower", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Buy%20Walkspeed%20JumpPower824.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Farm-Auto-Buy-Walkspeed-JumpPower-9387")
+                                    
