@@ -29181,5 +29181,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Mario exe premium": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mario-exe-premium-9389",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mario%20exe%20premium862.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
