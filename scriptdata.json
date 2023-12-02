@@ -29248,5 +29248,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    " hub X blade": {
+        "origin": "https://scriptblox.com/script/Trollge-city-of-universe-(!!New-Update!!)-test-troll-9399",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20hub%20X%20blade2.lua",
+        "author": "Uploaded by LUAZORROX on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10400249368",
+        "game": true
     }
 }
