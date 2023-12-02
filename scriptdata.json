@@ -29257,5 +29257,14 @@
         "hub": false,
         "gameid": "10400249368",
         "game": true
+    },
+    "Auto Parry Auto Farm Spam Parry": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Auto-Farm-Spam-Parry-9400",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Auto%20Farm%20Spam%20Parry120.lua",
+        "author": "Uploaded by SaboHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

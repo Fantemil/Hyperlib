@@ -478,3 +478,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "RGB manual spam ui", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20manual%20spam%20ui727.lua", "https://scriptblox.com/script/Blade-Ball-RGB-manual-spam-ui-9386")
                                     
+    addscriptexist(13772394625, "Auto Parry Auto Farm Spam Parry", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Auto%20Farm%20Spam%20Parry120.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Auto-Farm-Spam-Parry-9400")
+                                    
