@@ -29121,5 +29121,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Blox Fruit Tween Chest Farm": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Blox-Fruit-Tween-Chest-Farm-9382",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blox%20Fruit%20Tween%20Chest%20Farm885.lua",
+        "author": "Uploaded by Guesttester_1 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
