@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Powerblack09yt/Scripts/main/bladeball.lua"))()
