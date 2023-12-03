@@ -29336,5 +29336,30 @@
         "hub": false,
         "gameid": "15312576235",
         "game": true
+    },
+    "Hamoot script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hamoot-script-9408",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hamoot%20script459.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Mfly": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mfly-9410",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mfly3.lua",
+        "author": "Uploaded by epic123 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Super box": {
+        "origin": "https://scriptblox.com/script/superbox-siege-defense-Super-box-9411",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20box245.lua",
+        "author": "Uploaded by epic123 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14852797539",
+        "game": true
     }
 }

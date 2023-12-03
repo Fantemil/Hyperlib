@@ -1,0 +1,2 @@
+
+    addscript(14852797539, "Current Game","Super box", "Uploaded by epic123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20box245.lua", "https://scriptblox.com/script/superbox-siege-defense-Super-box-9411")
