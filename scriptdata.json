@@ -29369,5 +29369,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Backdoor exe": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Backdoor-exe-9413",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Backdoor%20exe880.lua",
+        "author": "Uploaded by enes584458 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
