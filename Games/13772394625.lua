@@ -486,3 +486,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "CPS NEON KEYLESS", "Uploaded by Mr_pop_cat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CPS%20NEON%20KEYLESS926.lua", "https://scriptblox.com/script/UPD-Blade-Ball-CPS-NEON-KEYLESS-9418")
                                     
+    addscriptexist(13772394625, "RGB Spam GUI", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20Spam%20GUI340.lua", "https://scriptblox.com/script/UPD-Blade-Ball-RGB-Spam-GUI-9421")
+                                    

@@ -29404,5 +29404,73 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "REDz Hub": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-REDz-Hub-9419",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20Hub426.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "c00lkid": {
+        "origin": "https://scriptblox.com/script/Universal-Script-c00lkid-9423",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lkid809.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "RGB Spam GUI": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-RGB-Spam-GUI-9421",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20Spam%20GUI340.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Fe chat control": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-chat-control-9425",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20chat%20control674.lua",
+        "author": "Uploaded by ScriptStealer on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "PrisionWare": {
+        "origin": "https://scriptblox.com/script/Prison-Life-PrisionWare-9424",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisionWare46.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "FE Bypass Script": {
+        "origin": "https://scriptblox.com/script/Prison-Life-FE-Bypass-Script-9420",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Bypass%20Script750.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "c00l gui reawakened": {
+        "origin": "https://scriptblox.com/script/Universal-Script-c00l-gui-reawakened-9422",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00l%20gui%20reawakened453.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Frakture SS": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Frakture-SS-9418",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frakture%20SS833.lua",
+        "author": "Uploaded by lucaswon on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

@@ -126,3 +126,7 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "roblox   GUI V1 mawinck06", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20%20%20GUI%20V1%20mawinck06250.lua", "https://scriptblox.com/script/Prison-Life-roblox-GUI-V1-mawinck06-9390")
                                     
+    addscriptexist(155615604, "PrisionWare", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisionWare46.lua", "https://scriptblox.com/script/Prison-Life-PrisionWare-9424")
+                                    
+    addscriptexist(155615604, "FE Bypass Script", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Bypass%20Script750.lua", "https://scriptblox.com/script/Prison-Life-FE-Bypass-Script-9420")
+                                    

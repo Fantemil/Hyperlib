@@ -542,3 +542,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "yeh", "Uploaded by aidandiaz2000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yeh230.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-yeh-9402")
                                     
+    addscriptexist(2753915549, "REDz Hub", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20Hub426.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-REDz-Hub-9419")
+                                    
