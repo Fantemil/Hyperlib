@@ -29377,5 +29377,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "FIRST SCRIPT V5": {
+        "origin": "https://scriptblox.com/script/EP-68!-Skibidi-Toilet-Tower-Defense-FIRST-SCRIPT-V5-9416",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIRST%20SCRIPT%20V5518.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15167348010",
+        "game": true
+    },
+    "ELEVEN SCRIPT": {
+        "origin": "https://scriptblox.com/script/HALLOWEEN!Skidibi-toilet-tower-defense-ELEVEN-SCRIPT-9415",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELEVEN%20SCRIPT138.lua",
+        "author": "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14527072590",
+        "game": true
     }
 }
