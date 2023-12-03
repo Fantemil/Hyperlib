@@ -29301,5 +29301,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Script gui": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Script-gui-9406",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20gui475.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
