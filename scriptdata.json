@@ -29361,5 +29361,13 @@
         "hub": false,
         "gameid": "14852797539",
         "game": true
+    },
+    "Secret Service Panel": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Secret-Service-Panel-9412",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Secret%20Service%20Panel981.lua",
+        "author": "Uploaded by epic123 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
