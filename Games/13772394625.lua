@@ -482,3 +482,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Atreus HUB RELEASE", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20HUB%20RELEASE692.lua", "https://scriptblox.com/script/Blade-Ball-Atreus-HUB-RELEASE-9405")
                                     
+    addscriptexist(13772394625, "Project X V1", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20X%20V1419.lua", "https://scriptblox.com/script/Blade-Ball-Project-X-V1-9406")
+                                    
