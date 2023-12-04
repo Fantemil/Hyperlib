@@ -29542,5 +29542,21 @@
         "hub": false,
         "gameid": "6872265039",
         "game": true
+    },
+    "ECCS Executor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-Executor-9434",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20Executor652.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Ban Hammer": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ban-Hammer-9435",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ban%20Hammer135.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
