@@ -29481,5 +29481,14 @@
         "hub": false,
         "gameid": "185655149",
         "game": true
+    },
+    "Next Gen": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Next-Gen-9427",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Next%20Gen484.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
