@@ -29472,5 +29472,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Teleports Au Farm": {
+        "origin": "https://scriptblox.com/script/Welcome-to-Bloxburg-Teleports-Au-Farm-9426",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20Au%20Farm483.lua",
+        "author": "Uploaded by SaboHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "185655149",
+        "game": true
     }
 }
