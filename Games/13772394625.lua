@@ -488,3 +488,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "RGB Spam GUI", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20Spam%20GUI340.lua", "https://scriptblox.com/script/UPD-Blade-Ball-RGB-Spam-GUI-9421")
                                     
+    addscriptexist(13772394625, "Live Event Ez Win And No Die", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Live%20Event%20Ez%20Win%20And%20No%20Die675.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Live-Event-Ez-Win-And-No-Die-9431")
+                                    

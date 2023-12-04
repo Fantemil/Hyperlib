@@ -98,3 +98,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Mass Report AFK Farm More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20More205.lua", "https://scriptblox.com/script/BedWars-5v5-Mass-Report-AFK-Farm-More-9399")
                                     
+    addscriptexist(6872265039, "Mass Report AFK Farm ESP FLY SPEED MORE", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20ESP%20FLY%20SPEED%20MORE65.lua", "https://scriptblox.com/script/BedWars-UMEKO-KIT-Mass-Report-AFK-Farm-ESP-FLY-SPEED-MORE-9431")
+                                    

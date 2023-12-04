@@ -29516,5 +29516,31 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Live Event Ez Win And No Die": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Live-Event-Ez-Win-And-No-Die-9431",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Live%20Event%20Ez%20Win%20And%20No%20Die675.lua",
+        "author": "Uploaded by OmgHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "My nightmare 3": {
+        "origin": "https://scriptblox.com/script/Universal-Script-My-nightmare-3-9433",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20nightmare%203410.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Mass Report AFK Farm ESP FLY SPEED MORE": {
+        "origin": "https://scriptblox.com/script/BedWars-UMEKO-KIT-Mass-Report-AFK-Farm-ESP-FLY-SPEED-MORE-9431",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20ESP%20FLY%20SPEED%20MORE65.lua",
+        "author": "Uploaded by SaboHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
     }
 }
