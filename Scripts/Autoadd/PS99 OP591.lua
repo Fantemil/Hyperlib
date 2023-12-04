@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DenDenZYT/Main/main/Pet%20Sim%2099%20Script"))()

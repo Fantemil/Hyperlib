@@ -29490,5 +29490,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "PS99 OP": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-PS99-OP-9428",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20OP591.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
