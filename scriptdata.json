@@ -29499,5 +29499,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "GanjaHub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-GanjaHub-9429",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub475.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
