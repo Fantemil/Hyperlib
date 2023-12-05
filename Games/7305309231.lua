@@ -20,3 +20,5 @@ addscriptexist(7305309231, "Infinite Money", "Uploaded by Copilot on scriptblox.
                                 
 addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Taboss859.lua", "https://scriptblox.com/script/Taxi-Boss2x-Taboss-7213")
                                 
+    addscriptexist(7305309231, "OP  Best Auto Farm Script", "Uploaded by MpIsPro12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Best%20Auto%20Farm%20Script596.lua", "https://scriptblox.com/script/Taxi-Boss-GROUPS-OP-Auto-Farm-Script-9442")
+                                    

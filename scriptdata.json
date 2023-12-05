@@ -29621,5 +29621,14 @@
         "hub": false,
         "gameid": "205224386",
         "game": true
+    },
+    "OP  Best Auto Farm Script": {
+        "origin": "https://scriptblox.com/script/Taxi-Boss-GROUPS-OP-Auto-Farm-Script-9442",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Best%20Auto%20Farm%20Script596.lua",
+        "author": "Uploaded by MpIsPro12 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7305309231",
+        "game": true
     }
 }
