@@ -10,3 +10,5 @@ addscriptexist(335760407, "TPS NO F9 Best Reach Script", "Uploaded by skate on s
                                 
 addscriptexist(335760407, "TPS React Script BEST IN GK", "Uploaded by skate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20React%20Script%20BEST%20IN%20GK385.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-TPS-React-Script-BEST-IN-GK-7810")
                                 
+    addscriptexist(335760407, "TPS YBloodz Script Cracked", "Uploaded by Hanki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TPS%20YBloodz%20Script%20Cracked231.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-TPS-YBloodz-Script-Cracked-9446")
+                                    
