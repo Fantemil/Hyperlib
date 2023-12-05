@@ -8,3 +8,5 @@
                                     
     addscriptexist(8737899170, "GanjaHub", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub475.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-GanjaHub-9429")
                                     
+    addscriptexist(8737899170, "Remove Egg Animation", "Uploaded by neexiu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20Egg%20Animation650.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Remove-Egg-Animation-9438")
+                                    

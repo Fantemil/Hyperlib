@@ -29576,5 +29576,14 @@
         "hub": false,
         "gameid": "13775256536",
         "game": true
+    },
+    "Remove Egg Animation": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Remove-Egg-Animation-9438",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20Egg%20Animation650.lua",
+        "author": "Uploaded by neexiu on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
