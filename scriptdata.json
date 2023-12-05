@@ -29612,5 +29612,14 @@
         "hub": false,
         "gameid": "14952020677",
         "game": true
+    },
+    "Op Funny     Script": {
+        "origin": "https://scriptblox.com/script/Hide-and-Seek-Extreme-Op-Funny-Script-9442",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Funny%20%20%20%20%20Script980.lua",
+        "author": "Uploaded by MpIsPro12 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "205224386",
+        "game": true
     }
 }
