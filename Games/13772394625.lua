@@ -490,3 +490,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Live Event Ez Win And No Die", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Live%20Event%20Ez%20Win%20And%20No%20Die675.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Live-Event-Ez-Win-And-No-Die-9431")
                                     
+    addscriptexist(13772394625, "Dragon Event Autoparry And Anti Lava", "Uploaded by Peace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Event%20Autoparry%20And%20Anti%20Lava297.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Dragon-Event-Autoparry-And-Anti-Lava-9444")
+                                    
