@@ -29630,5 +29630,13 @@
         "hub": false,
         "gameid": "7305309231",
         "game": true
+    },
+    "Blade ball": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Blade-ball-9443",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20ball983.lua",
+        "author": "Uploaded by RobloxSharingScript on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
