@@ -29594,5 +29594,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Hikari": {
+        "origin": "https://scriptblox.com/script/Bee-Swarm-Simulator-Hikari-9440",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hikari560.lua",
+        "author": "Uploaded by cszn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
     }
 }
