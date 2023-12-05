@@ -10,3 +10,5 @@
                                     
     addscriptexist(8737899170, "Remove Egg Animation", "Uploaded by neexiu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20Egg%20Animation650.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Remove-Egg-Animation-9438")
                                     
+    addscriptexist(8737899170, "Walkspeed Changer", "Uploaded by neexiu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walkspeed%20Changer420.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Walkspeed-Changer-9439")
+                                    
