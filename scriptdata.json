@@ -29567,5 +29567,14 @@
         "hub": false,
         "gameid": "6961824067",
         "game": true
+    },
+    "Auto Play Auto Vote Auto Skip Less Ping": {
+        "origin": "https://scriptblox.com/script/EP-67-PART-4-Toilet-Tower-Defense-Auto-Play-Auto-Vote-Auto-Skip-Less-Ping-9437",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Play%20Auto%20Vote%20Auto%20Skip%20Less%20Ping4.lua",
+        "author": "Uploaded by SaboHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13775256536",
+        "game": true
     }
 }

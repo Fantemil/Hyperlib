@@ -10,3 +10,5 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "Dupe", "Uploaded by Cee334 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe992.lua", "https://scriptblox.com/script/EP-67-PART-3-Toilet-Tower-Defense-Dupe-9350")
                                     
+    addscriptexist(13775256536, "Auto Play Auto Vote Auto Skip Less Ping", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Play%20Auto%20Vote%20Auto%20Skip%20Less%20Ping4.lua", "https://scriptblox.com/script/EP-67-PART-4-Toilet-Tower-Defense-Auto-Play-Auto-Vote-Auto-Skip-Less-Ping-9437")
+                                    
