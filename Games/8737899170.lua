@@ -14,3 +14,7 @@
                                     
     addscriptexist(8737899170, "efficient auto collect orbs", "Uploaded by daz_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/efficient%20auto%20collect%20orbs624.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-efficient-auto-collect-orbs-9445")
                                     
+    addscriptexist(8737899170, "Infinite Gems", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gems873.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Infinite-Gems-9452")
+                                    
+    addscriptexist(8737899170, "Zer0 Hub Sim99 AUTO FISH", "Uploaded by Discord0000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zer0%20Hub%20Sim99%20AUTO%20FISH872.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Zer0-Hub-Sim99-9451")
+                                    

@@ -29727,5 +29727,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Infinite Gems": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Infinite-Gems-9452",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Gems873.lua",
+        "author": "Uploaded by Novaz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Zer0 Hub Sim99 AUTO FISH": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Zer0-Hub-Sim99-9451",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zer0%20Hub%20Sim99%20AUTO%20FISH872.lua",
+        "author": "Uploaded by Discord0000 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
