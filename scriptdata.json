@@ -29754,5 +29754,14 @@
         "hub": false,
         "gameid": "9819654737",
         "game": true
+    },
+    "Fe c00lgui": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Fe-c00lgui-in-9453",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20c00lgui301.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
     }
 }
