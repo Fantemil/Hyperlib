@@ -18,3 +18,5 @@
                                     
     addscriptexist(8737899170, "Zer0 Hub Sim99 AUTO FISH", "Uploaded by Discord0000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zer0%20Hub%20Sim99%20AUTO%20FISH872.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Zer0-Hub-Sim99-9451")
                                     
+    addscriptexist(8737899170, "FREE GUI Auto Farm Auto Open Eggs  More Supports Mobile", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI%20Auto%20Farm%20Auto%20Open%20Eggs%20%20More%20Supports%20Mobile161.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-FREE-GUI-Auto-Farm-Auto-Open-Eggs-Auto-Buy-Zones-9455")
+                                    

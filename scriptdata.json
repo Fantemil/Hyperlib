@@ -29763,5 +29763,14 @@
         "hub": false,
         "gameid": "10218821851",
         "game": true
+    },
+    "FREE GUI Auto Farm Auto Open Eggs  More Supports Mobile": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-FREE-GUI-Auto-Farm-Auto-Open-Eggs-Auto-Buy-Zones-9455",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI%20Auto%20Farm%20Auto%20Open%20Eggs%20%20More%20Supports%20Mobile161.lua",
+        "author": "Uploaded by Nicuse on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
