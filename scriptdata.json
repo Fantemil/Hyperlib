@@ -29700,5 +29700,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Auto Win Collect Coins": {
+        "origin": "https://scriptblox.com/script/The-Floor-Is-LAVA!-Auto-Win-Collect-Coins-9447",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Collect%20Coins893.lua",
+        "author": "Uploaded by SaboHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "815405518",
+        "game": true
     }
 }
