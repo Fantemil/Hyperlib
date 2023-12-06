@@ -29709,5 +29709,14 @@
         "hub": false,
         "gameid": "815405518",
         "game": true
+    },
+    "Auto Parry V3 Auto Detect Spam Auto Tp to  And More": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-Parry-V3-Auto-Detect-Spam-Auto-Tp-to-And-More-9448",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20V3%20Auto%20Detect%20Spam%20Auto%20Tp%20to%20%20And%20More497.lua",
+        "author": "Uploaded by OmgHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

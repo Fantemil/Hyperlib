@@ -492,3 +492,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Dragon Event Autoparry And Anti Lava", "Uploaded by Peace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Event%20Autoparry%20And%20Anti%20Lava297.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Dragon-Event-Autoparry-And-Anti-Lava-9444")
                                     
+    addscriptexist(13772394625, "Auto Parry V3 Auto Detect Spam Auto Tp to  And More", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20V3%20Auto%20Detect%20Spam%20Auto%20Tp%20to%20%20And%20More497.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-V3-Auto-Detect-Spam-Auto-Tp-to-And-More-9448")
+                                    
