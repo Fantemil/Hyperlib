@@ -29691,5 +29691,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "efficient auto collect orbs": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-efficient-auto-collect-orbs-9445",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/efficient%20auto%20collect%20orbs624.lua",
+        "author": "Uploaded by daz_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

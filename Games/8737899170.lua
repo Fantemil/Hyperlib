@@ -12,3 +12,5 @@
                                     
     addscriptexist(8737899170, "Walkspeed Changer", "Uploaded by neexiu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walkspeed%20Changer420.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Walkspeed-Changer-9439")
                                     
+    addscriptexist(8737899170, "efficient auto collect orbs", "Uploaded by daz_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/efficient%20auto%20collect%20orbs624.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-efficient-auto-collect-orbs-9445")
+                                    
