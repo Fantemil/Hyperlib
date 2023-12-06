@@ -29745,5 +29745,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Best Gui": {
+        "origin": "https://scriptblox.com/script/SHOP-Raise-A-Sonic-Best-Gui-9453",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Gui203.lua",
+        "author": "Uploaded by Goku_Black on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9819654737",
+        "game": true
     }
 }
