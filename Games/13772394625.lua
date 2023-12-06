@@ -494,3 +494,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto Parry V3 Auto Detect Spam Auto Tp to  And More", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20V3%20Auto%20Detect%20Spam%20Auto%20Tp%20to%20%20And%20More497.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-V3-Auto-Detect-Spam-Auto-Tp-to-And-More-9448")
                                     
+    addscriptexist(13772394625, "NEXTIX HUB BEST AUTOPARRY SCRIPT UPDATED", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXTIX%20HUB%20BEST%20AUTOPARRY%20SCRIPT%20UPDATED522.lua", "https://scriptblox.com/script/Blade-Ball-NEXTIX-HUB-BEST-AUTOPARRY-SCRIPT-UPDATED-9456")
+                                    
