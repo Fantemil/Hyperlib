@@ -86,3 +86,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Chat Notify Enable FOV Noclip", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20Notify%20Enable%20FOV%20Noclip268.lua", "https://scriptblox.com/script/DOORS-Chat-Notify-Enable-FOV-Noclip-9351")
                                     
+    addscriptexist(6516141723, "script I guess", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20I%20guess863.lua", "https://scriptblox.com/script/DOORS-script-I-guess-9444")
+                                    

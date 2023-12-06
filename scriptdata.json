@@ -29673,5 +29673,23 @@
         "hub": false,
         "gameid": "335760407",
         "game": true
+    },
+    "script I guess": {
+        "origin": "https://scriptblox.com/script/DOORS-script-I-guess-9444",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20I%20guess863.lua",
+        "author": "Uploaded by wowie on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6516141723",
+        "game": true
+    },
+    "mango hub no key": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-mango-hub-no-key-9443",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mango%20hub%20no%20key291.lua",
+        "author": "Uploaded by wowie on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

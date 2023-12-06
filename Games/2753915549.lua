@@ -544,3 +544,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "REDz Hub", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20Hub426.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-REDz-Hub-9419")
                                     
+    addscriptexist(2753915549, "mango hub no key", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mango%20hub%20no%20key291.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-mango-hub-no-key-9443")
+                                    
