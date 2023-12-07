@@ -42,3 +42,5 @@ addscriptexist(3956818381, "Decent Script", "Uploaded by GuyFromFortnite on scri
                                     
     addscriptexist(3956818381, "op script", "Uploaded by Lufi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script558.lua", "https://scriptblox.com/script/Ninja-Legends-op-script-9370")
                                     
+    addscriptexist(3956818381, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project415.lua", "https://scriptblox.com/script/Ninja-Legends-BT-Project-9463")
+                                    
