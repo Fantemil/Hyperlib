@@ -29799,5 +29799,22 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "NEXTIX HUB": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-NEXTIX-HUB-9461",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXTIX%20HUB687.lua",
+        "author": "Uploaded by nextix on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Speed Hub X V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Speed-Hub-X-V2-9462",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20V2729.lua",
+        "author": "Uploaded by ahmadsgamer2 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
