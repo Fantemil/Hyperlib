@@ -548,3 +548,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Infinite XP", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20XP942.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Infinite-XP-9450")
                                     
+    addscriptexist(2753915549, "BT Project Cracked", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project%20Cracked862.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-BT-Project-Cracked-9460")
+                                    
