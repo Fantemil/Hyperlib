@@ -29867,5 +29867,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Automatic Stairway to Heaven FREE RARE HUGE": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Automatic-Stairway-to-Heaven-FREE-RARE-HUGE-9465",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatic%20Stairway%20to%20Heaven%20FREE%20RARE%20HUGE935.lua",
+        "author": "Uploaded by fissurectomy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "G0bby Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-G0bby-Hub-9466",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G0bby%20Hub390.lua",
+        "author": "Uploaded by justaydemir on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

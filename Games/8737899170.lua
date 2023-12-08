@@ -24,3 +24,5 @@
                                     
     addscriptexist(8737899170, "Huge Games PS99", "Uploaded by Sourcive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Huge%20Games%20PS99159.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Huge-Games-PS99-9460")
                                     
+    addscriptexist(8737899170, "Automatic Stairway to Heaven FREE RARE HUGE", "Uploaded by fissurectomy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatic%20Stairway%20to%20Heaven%20FREE%20RARE%20HUGE935.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Automatic-Stairway-to-Heaven-FREE-RARE-HUGE-9465")
+                                    
