@@ -29851,5 +29851,21 @@
         "hub": false,
         "gameid": "6875469709",
         "game": true
+    },
+    "Haxker 666 hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Haxker-666-hub-9463",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haxker%20666%20hub126.lua",
+        "author": "Uploaded by justaydemir on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Gigachad Hub V7": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Gigachad-Hub-V7-9464",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gigachad%20Hub%20V7982.lua",
+        "author": "Uploaded by justaydemir on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
