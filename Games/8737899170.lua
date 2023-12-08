@@ -28,3 +28,5 @@
                                     
     addscriptexist(8737899170, "GanjaHub best", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20best421.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-GanjaHub-best-9466")
                                     
+    addscriptexist(8737899170, "FREE GUI Auto Farm Auto Open Egg Supports Mobile", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI%20Auto%20Farm%20Auto%20Open%20Egg%20Supports%20Mobile166.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-FREE-GUI-Auto-Farm-Auto-Open-Egg-Supports-Mobile-9467")
+                                    
