@@ -130,3 +130,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "FE Bypass Script", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Bypass%20Script750.lua", "https://scriptblox.com/script/Prison-Life-FE-Bypass-Script-9420")
                                     
+    addscriptexist(155615604, "Scorpion admin", "Uploaded by Jaydenmclin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scorpion%20admin959.lua", "https://scriptblox.com/script/Prison-Life-Scorpion-admin-9461")
+                                    

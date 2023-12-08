@@ -29833,5 +29833,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Scorpion admin": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Scorpion-admin-9461",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scorpion%20admin959.lua",
+        "author": "Uploaded by Jaydenmclin on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }
