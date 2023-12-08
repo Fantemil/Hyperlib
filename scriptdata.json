@@ -29816,5 +29816,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Huge Games PS99": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Huge-Games-PS99-9460",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Huge%20Games%20PS99159.lua",
+        "author": "Uploaded by Sourcive on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

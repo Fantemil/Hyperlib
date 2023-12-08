@@ -22,3 +22,5 @@
                                     
     addscriptexist(8737899170, "auto buy merchants daily rewards vending machines", "Uploaded by daz_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20buy%20merchants%20daily%20rewards%20vending%20machines98.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-claim-all-items-9459")
                                     
+    addscriptexist(8737899170, "Huge Games PS99", "Uploaded by Sourcive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Huge%20Games%20PS99159.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Huge-Games-PS99-9460")
+                                    
