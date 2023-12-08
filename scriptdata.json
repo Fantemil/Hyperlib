@@ -29902,5 +29902,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "REVAMPED LIGHTUX BEST GUI": {
+        "origin": "https://scriptblox.com/script/Zombie-Attack-REVAMPED-LIGHTUX-BEST-GUI-9467",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REVAMPED%20LIGHTUX%20BEST%20GUI163.lua",
+        "author": "Uploaded by zerticzy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1240123653",
+        "game": true
     }
 }

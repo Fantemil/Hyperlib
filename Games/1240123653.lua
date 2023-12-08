@@ -14,3 +14,5 @@ addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com
                                     
     addscriptexist(1240123653, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L642.lua", "https://scriptblox.com/script/Zombie-Attack-Project-L-9349")
                                     
+    addscriptexist(1240123653, "REVAMPED LIGHTUX BEST GUI", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REVAMPED%20LIGHTUX%20BEST%20GUI163.lua", "https://scriptblox.com/script/Zombie-Attack-REVAMPED-LIGHTUX-BEST-GUI-9467")
+                                    
