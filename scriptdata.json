@@ -29884,5 +29884,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Roblox NetflixCE executor Byfron bypass": {
+        "origin": "https://scriptblox.com/script/Baseplate-Roblox-NetflixCE-executor-Byfron-bypass-9465",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20NetflixCE%20executor%20Byfron%20bypass52.lua",
+        "author": "Uploaded by ggggggggggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15167092402",
+        "game": true
     }
 }
