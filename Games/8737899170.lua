@@ -26,3 +26,5 @@
                                     
     addscriptexist(8737899170, "Automatic Stairway to Heaven FREE RARE HUGE", "Uploaded by fissurectomy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatic%20Stairway%20to%20Heaven%20FREE%20RARE%20HUGE935.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Automatic-Stairway-to-Heaven-FREE-RARE-HUGE-9465")
                                     
+    addscriptexist(8737899170, "GanjaHub best", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20best421.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-GanjaHub-best-9466")
+                                    
