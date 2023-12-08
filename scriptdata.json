@@ -29825,5 +29825,13 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Creator ID Spoofer": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Creator-ID-Spoofer-9460",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Creator%20ID%20Spoofer228.lua",
+        "author": "Uploaded by msuser1920 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
