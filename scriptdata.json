@@ -29842,5 +29842,14 @@
         "hub": false,
         "gameid": "155615604",
         "game": true
+    },
+    "Op script for   sim DO not try in main acc": {
+        "origin": "https://scriptblox.com/script/STRONGEST-PUNCH-SIMULATOR-Op-script-for-sim-DO-not-try-in-main-acc-9461",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20for%20%20%20sim%20DO%20not%20try%20in%20main%20acc269.lua",
+        "author": "Uploaded by GG_HACKER on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6875469709",
+        "game": true
     }
 }
