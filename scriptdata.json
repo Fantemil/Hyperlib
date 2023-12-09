@@ -29962,5 +29962,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "roblox Scripts Executors Discord Server": {
+        "origin": "https://scriptblox.com/script/Universal-Script-roblox-Scripts-Executors-Discord-Server-9473",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20Scripts%20Executors%20Discord%20Server752.lua",
+        "author": "Uploaded by Rayz on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
