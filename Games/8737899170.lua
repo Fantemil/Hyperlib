@@ -30,3 +30,5 @@
                                     
     addscriptexist(8737899170, "FREE GUI Auto Farm Auto Open Egg Supports Mobile", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI%20Auto%20Farm%20Auto%20Open%20Egg%20Supports%20Mobile166.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-FREE-GUI-Auto-Farm-Auto-Open-Egg-Supports-Mobile-9467")
                                     
+    addscriptexist(8737899170, "SCRIPTS HUB", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTS%20HUB41.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-SCRIPTS-HUB-9476")
+                                    

@@ -29970,5 +29970,31 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "SCRIPTS HUB": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-SCRIPTS-HUB-9476",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTS%20HUB41.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Request": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Request-9474",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request574.lua",
+        "author": "Uploaded by FahriScripter on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "op auto parry HUB": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-op-auto-parry-HUB-9475",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20auto%20parry%20HUB614.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
