@@ -29937,5 +29937,22 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "F3X": {
+        "origin": "https://scriptblox.com/script/Universal-Script-F3X-9470",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/F3X650.lua",
+        "author": "Uploaded by vrmvrmilliondvourer on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Anonymous Hub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Anonymous-Hub-9471",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anonymous%20Hub807.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
