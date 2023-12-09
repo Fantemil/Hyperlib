@@ -30054,5 +30054,22 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "executor hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-executor-hub-9480",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/executor%20hub674.lua",
+        "author": "Uploaded by justaydemir on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Zer0 Hub Mobile": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Zer0-Hub-9480",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zer0%20Hub%20Mobile379.lua",
+        "author": "Uploaded by Discord0000 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

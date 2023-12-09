@@ -34,3 +34,5 @@
                                     
     addscriptexist(8737899170, "Auto Fishing Script", "Uploaded by Sourcive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fishing%20Script138.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Auto-Fishing-Script-9479")
                                     
+    addscriptexist(8737899170, "Zer0 Hub Mobile", "Uploaded by Discord0000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zer0%20Hub%20Mobile379.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Zer0-Hub-9480")
+                                    
