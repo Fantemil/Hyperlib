@@ -30037,5 +30037,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Tool giver": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Tool-giver-9478",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tool%20giver946.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
