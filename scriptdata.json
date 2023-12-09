@@ -30071,5 +30071,13 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Roblox Script Server": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Roblox-Script-Server-9481",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Script%20Server716.lua",
+        "author": "Uploaded by Rayz on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
