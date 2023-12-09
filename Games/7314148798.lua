@@ -18,3 +18,5 @@ addscriptexist(7314148798, "RAGD0LL  NEW BEST SCRIPT Unslagger exe", "Uploaded b
                                     
     addscriptexist(7314148798, "best script ragd0ll", "Uploaded by 16667 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20ragd0ll340.lua", "https://scriptblox.com/script/Ragdoll-Engine-best-script-ragd0ll-9238")
                                     
+    addscriptexist(7314148798, "Celestial exe Hub Ragd0ll  The Best Script", "Uploaded by maki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20exe%20Hub%20Ragd0ll%20%20The%20Best%20Script2.lua", "https://scriptblox.com/script/Ragdoll-Engine-Celestial-exe-Hub-Ragd0ll-The-Best-Script-9475")
+                                    
