@@ -30079,5 +30079,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "NEKO HUB FE SCRIPT KONDO": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NEKO-HUB-FE-SCRIPT-KONDO-9482",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEKO%20HUB%20FE%20SCRIPT%20KONDO561.lua",
+        "author": "Uploaded by maki on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
