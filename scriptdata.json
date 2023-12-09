@@ -30087,5 +30087,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Makori Hub": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-Maioria-Hub-9479",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Makori%20Hub264.lua",
+        "author": "Uploaded by StilesScripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
