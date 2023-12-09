@@ -30045,5 +30045,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto Fishing Script": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Auto-Fishing-Script-9479",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fishing%20Script138.lua",
+        "author": "Uploaded by Sourcive on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
