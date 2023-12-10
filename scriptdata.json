@@ -30209,5 +30209,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Best    Script": {
+        "origin": "https://scriptblox.com/script/SHOP-Raise-A-Sonic-Best-Script-9493",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20%20%20Script465.lua",
+        "author": "Uploaded by Goku_Black on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9819654737",
+        "game": true
+    },
+    "REDz hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-REDz-hub-9494",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20hub896.lua",
+        "author": "Uploaded by wowie on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

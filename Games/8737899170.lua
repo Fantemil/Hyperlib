@@ -38,3 +38,5 @@
                                     
     addscriptexist(8737899170, "game", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/game321.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-game-9482")
                                     
+    addscriptexist(8737899170, "REDz hub", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20hub896.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-REDz-hub-9494")
+                                    
