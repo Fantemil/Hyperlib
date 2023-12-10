@@ -502,3 +502,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "op auto parry HUB", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20auto%20parry%20HUB614.lua", "https://scriptblox.com/script/Blade-Ball-op-auto-parry-HUB-9475")
                                     
+    addscriptexist(13772394625, "Atreus X", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20X774.lua", "https://scriptblox.com/script/Blade-Ball-Atreus-X-9494")
+                                    
