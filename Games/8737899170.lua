@@ -40,3 +40,5 @@
                                     
     addscriptexist(8737899170, "REDz hub", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20hub896.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-REDz-hub-9494")
                                     
+    addscriptexist(8737899170, "Pret  99 inf diamonds not fe", "Uploaded by Scriptx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pret%20%2099%20inf%20diamonds%20not%20fe976.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-Pret-99-inf-diamonds-not-fe-9498")
+                                    

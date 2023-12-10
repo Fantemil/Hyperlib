@@ -30236,5 +30236,14 @@
         "hub": false,
         "gameid": "286090429",
         "game": true
+    },
+    "Pret  99 inf diamonds not fe": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-Pret-99-inf-diamonds-not-fe-9498",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pret%20%2099%20inf%20diamonds%20not%20fe976.lua",
+        "author": "Uploaded by Scriptx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
