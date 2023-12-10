@@ -30227,5 +30227,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "LTHub  script OP": {
+        "origin": "https://scriptblox.com/script/Arsenal-LTHub-script-OP-9495",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LTHub%20%20script%20OP127.lua",
+        "author": "Uploaded by lukassaw73 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "286090429",
+        "game": true
     }
 }
