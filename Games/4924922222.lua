@@ -64,3 +64,7 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "IceHub Updated V8", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20Updated%20V8779.lua", "https://scriptblox.com/script/Brookhaven-RP-IceHub-Updated-V8-9376")
                                     
+    addscriptexist(4924922222, "Antares Hub", "Uploaded by Boris on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Antares%20Hub990.lua", "https://scriptblox.com/script/Brookhaven-RP-Antares-Hub-9486")
+                                    
+    addscriptexist(4924922222, "Original Antares Hub", "Uploaded by Boris on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Original%20Antares%20Hub718.lua", "https://scriptblox.com/script/Brookhaven-RP-Original-Antares-Hub-9488")
+                                    

@@ -30123,5 +30123,40 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "Ghub Ui v13": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ghub-Ui-v13-9485",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghub%20Ui%20v13841.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Antares Hub": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Antares-Hub-9486",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Antares%20Hub990.lua",
+        "author": "Uploaded by Boris on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "Original Antares Hub": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Original-Antares-Hub-9488",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Original%20Antares%20Hub718.lua",
+        "author": "Uploaded by Boris on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "Open source": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-Open-source-for-9484",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20source627.lua",
+        "author": "Uploaded by GG_HACKER on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }

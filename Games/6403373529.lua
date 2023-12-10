@@ -90,3 +90,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Overkill glove speed", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overkill%20glove%20speed689.lua", "https://scriptblox.com/script/Slap-Battles-No-CD-9483")
                                     
+    addscriptexist(6403373529, "Open source", "Uploaded by GG_HACKER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20source627.lua", "https://scriptblox.com/script/Slap-Battles-Open-source-for-9484")
+                                    
