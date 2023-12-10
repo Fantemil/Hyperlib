@@ -554,3 +554,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Speed New Hub", "Uploaded by StilesScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20New%20Hub49.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Speed-New-Hub-9481")
                                     
+    addscriptexist(2753915549, "fruit mobile s", "Uploaded by saricamyasin4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20mobile%20s737.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-fruit-mobile-s-9493")
+                                    
