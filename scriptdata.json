@@ -30175,5 +30175,21 @@
         "hub": false,
         "gameid": "14360719220",
         "game": true
+    },
+    "Cat Hub 2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Cat-Hub-2-9491",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Hub%202190.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "FE ghost": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FE-ghost-9492",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20ghost665.lua",
+        "author": "Uploaded by Copilot on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
