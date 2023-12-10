@@ -36,3 +36,5 @@ addscriptexist(14433762945, "OP SCRIPT FOR GAME", "Uploaded by gus_fring on scri
                                     
     addscriptexist(14433762945, "Collect Drops Teleport Collect Chests", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Drops%20Teleport%20Collect%20Chests318.lua", "https://scriptblox.com/script/ORB-LUCK-Anime-Champions-Simulator-Collect-Drops-Teleport-Collect-Chests-9407")
                                     
+    addscriptexist(14433762945, "op script", "Uploaded by lioboomxh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script314.lua", "https://scriptblox.com/script/GALAXY-2-Anime-Champions-Simulator-op-script-9495")
+                                    
