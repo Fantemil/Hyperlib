@@ -36,3 +36,5 @@
                                     
     addscriptexist(8737899170, "Zer0 Hub Mobile", "Uploaded by Discord0000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zer0%20Hub%20Mobile379.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW-Zer0-Hub-9480")
                                     
+    addscriptexist(8737899170, "game", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/game321.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-game-9482")
+                                    
