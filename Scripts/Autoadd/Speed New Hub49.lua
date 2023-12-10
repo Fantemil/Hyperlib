@@ -1,0 +1,1 @@
+https://link-target.net/327659/speed-hub

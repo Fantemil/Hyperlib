@@ -552,3 +552,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Makori Hub", "Uploaded by StilesScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Makori%20Hub264.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Maioria-Hub-9479")
                                     
+    addscriptexist(2753915549, "Speed New Hub", "Uploaded by StilesScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20New%20Hub49.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Speed-New-Hub-9481")
+                                    
