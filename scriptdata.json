@@ -30166,5 +30166,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "New update yes I repost my own script": {
+        "origin": "https://scriptblox.com/script/CHRISTMAS-Bathroom-Tower-Defense-X-New-update-9490",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20update%20yes%20I%20repost%20my%20own%20script54.lua",
+        "author": "Uploaded by Blocky_Povcameraman on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14360719220",
+        "game": true
     }
 }
