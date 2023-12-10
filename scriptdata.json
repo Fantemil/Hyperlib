@@ -30114,5 +30114,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Overkill glove speed": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-No-CD-9483",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overkill%20glove%20speed689.lua",
+        "author": "Uploaded by Thereplazing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }

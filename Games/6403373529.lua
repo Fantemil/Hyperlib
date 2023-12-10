@@ -88,3 +88,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "royale script", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/royale%20script210.lua", "https://scriptblox.com/script/SCYTHE-Slap-Battles-op-script-working-9383")
                                     
+    addscriptexist(6403373529, "Overkill glove speed", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overkill%20glove%20speed689.lua", "https://scriptblox.com/script/Slap-Battles-No-CD-9483")
+                                    
