@@ -30158,5 +30158,13 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "OopsHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OopsHub-9489",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OopsHub2.lua",
+        "author": "Uploaded by Oopss on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
