@@ -30263,5 +30263,13 @@
         "hub": false,
         "gameid": "14688089022",
         "game": true
+    },
+    "NEKO SCRIPT HEKO HUB PENDLUM HUB KONDO": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NEKO-SCRIPT-HEKO-HUB-PENDLUM-HUB-KONDO-9498",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEKO%20SCRIPT%20HEKO%20HUB%20PENDLUM%20HUB%20KONDO488.lua",
+        "author": "Uploaded by maki on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
