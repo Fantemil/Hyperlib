@@ -30280,5 +30280,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Best script Teleports GUI": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Best-script-Teleports-GUI-9497",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20Teleports%20GUI779.lua",
+        "author": "Uploaded by lioboomxh on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "Vestra X ByGay": {
+        "origin": "https://scriptblox.com/script/Arsenal-Vestra-X-ByGay-9496",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vestra%20X%20ByGay884.lua",
+        "author": "Uploaded by Vestra on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "286090429",
+        "game": true
     }
 }

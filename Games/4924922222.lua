@@ -68,3 +68,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Original Antares Hub", "Uploaded by Boris on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Original%20Antares%20Hub718.lua", "https://scriptblox.com/script/Brookhaven-RP-Original-Antares-Hub-9488")
                                     
+    addscriptexist(4924922222, "Best script Teleports GUI", "Uploaded by lioboomxh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20Teleports%20GUI779.lua", "https://scriptblox.com/script/Brookhaven-RP-Best-script-Teleports-GUI-9497")
+                                    
