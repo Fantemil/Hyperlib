@@ -30271,5 +30271,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Op Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Op-Hub-9498",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Hub543.lua",
+        "author": "Uploaded by ent1ty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

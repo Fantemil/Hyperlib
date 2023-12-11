@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samirayt/Op-Hub-X-Berserk-Hub/main/Op%20Hub%20X%20Berserk%20Hub"))()
