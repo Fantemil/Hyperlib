@@ -4,3 +4,5 @@ addscriptexist(14688089022, "BGH Insane Autofarm", "Uploaded by vxsty on scriptb
                                 
     addscriptexist(14688089022, "WORKING BGM SCRIPT", "Uploaded by Linest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORKING%20BGM%20SCRIPT608.lua", "https://scriptblox.com/script/1M-VISITS!-Bubble-Gum-Mayhem-WORKING-BGM-SCRIPT-8259")
                                     
+    addscriptexist(14688089022, "ZeldaHub", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeldaHub377.lua", "https://scriptblox.com/script/PART-2-Bubble-Gum-Mayhem-ZeldaHub-9498")
+                                    

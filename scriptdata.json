@@ -30245,5 +30245,23 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Legend Handles HUB": {
+        "origin": "https://scriptblox.com/script/Death-Ball-NEW-CHAMPION-Legend-Handles-HUB-9498",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20Handles%20HUB319.lua",
+        "author": "Uploaded by Qrto on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15002061926",
+        "game": true
+    },
+    "ZeldaHub": {
+        "origin": "https://scriptblox.com/script/PART-2-Bubble-Gum-Mayhem-ZeldaHub-9498",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeldaHub377.lua",
+        "author": "Uploaded by vxsty on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14688089022",
+        "game": true
     }
 }
