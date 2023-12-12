@@ -30351,5 +30351,13 @@
         "hub": false,
         "gameid": "13127800756",
         "game": true
+    },
+    "Fps booster": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fps-booster-9504",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fps%20booster415.lua",
+        "author": "Uploaded by grrrrrr on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
