@@ -30325,5 +30325,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Custom Paid Scripts  Request Pay Enjoy  Mobile PC Scripts": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Custom-Paid-Scripts-Request-Pay-Enjoy-Mobile-PC-Scripts-9501",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20Paid%20Scripts%20%20Request%20Pay%20Enjoy%20%20Mobile%20PC%20Scripts158.lua",
+        "author": "Uploaded by BeboMods on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

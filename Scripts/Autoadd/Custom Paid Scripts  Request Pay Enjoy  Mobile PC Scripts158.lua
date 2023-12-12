@@ -1,0 +1,1 @@
+Discord Server: https://discord.gg/v6zp7v3gPR -- Mobile and PC scripts fully tailored to your needs
