@@ -30384,5 +30384,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Quick AutoClicker": {
+        "origin": "https://scriptblox.com/script/TRADING-2D-Clickers-Quick-AutoClicker-9507",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quick%20AutoClicker182.lua",
+        "author": "Uploaded by Bac0nH1ckOff on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15218343966",
+        "game": true
     }
 }
