@@ -30419,5 +30419,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Corolla Hub OP": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Corolla-Hub-OP-9509",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Corolla%20Hub%20OP92.lua",
+        "author": "Uploaded by corolla on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "WAzure Hub": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-WAzure-Hub-9510",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WAzure%20Hub738.lua",
+        "author": "Uploaded by StilesScripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

@@ -560,3 +560,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "AI Powered Auto Farm", "Uploaded by Cyber on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AI%20Powered%20Auto%20Farm198.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-AI-Powered-Auto-Farm-9509")
                                     
+    addscriptexist(2753915549, "WAzure Hub", "Uploaded by StilesScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WAzure%20Hub738.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-WAzure-Hub-9510")
+                                    
