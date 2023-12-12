@@ -30368,5 +30368,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "ELECTRON v3 script hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ELECTRON-v3-script-hub-9505",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELECTRON%20v3%20script%20hub639.lua",
+        "author": "Uploaded by dum_dog on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
