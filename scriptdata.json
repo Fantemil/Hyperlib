@@ -30307,5 +30307,14 @@
         "hub": false,
         "gameid": "9872472334",
         "game": true
+    },
+    "DEMONICHUB V2": {
+        "origin": "https://scriptblox.com/script/UPD-Pull-a-Sword-DEMONICHUB-V2-9499",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEMONICHUB%20V2797.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13827198708",
+        "game": true
     }
 }

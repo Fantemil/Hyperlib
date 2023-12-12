@@ -22,3 +22,5 @@ addscriptexist(13827198708, "utoclick frm", "Uploaded by 12slash25 on scriptblox
                                     
     addscriptexist(13827198708, "utofrm for ez ugc", "Uploaded by soldadodeelite4001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/utofrm%20for%20ez%20ugc26.lua", "https://scriptblox.com/script/BOSS-Pull-a-Sword-utofrm-for-ez-ugc-8106")
                                     
+    addscriptexist(13827198708, "DEMONICHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEMONICHUB%20V2797.lua", "https://scriptblox.com/script/UPD-Pull-a-Sword-DEMONICHUB-V2-9499")
+                                    
