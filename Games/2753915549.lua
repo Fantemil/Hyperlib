@@ -558,3 +558,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Script esp player no haki by Tbao Hub", "Uploaded by tbao04963 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20esp%20player%20no%20haki%20by%20Tbao%20Hub512.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Script-fruit-esp-player-no-haki-by-Tbao-Hub-9504")
                                     
+    addscriptexist(2753915549, "AI Powered Auto Farm", "Uploaded by Cyber on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AI%20Powered%20Auto%20Farm198.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-AI-Powered-Auto-Farm-9509")
+                                    

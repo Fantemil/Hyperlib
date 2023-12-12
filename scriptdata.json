@@ -30393,5 +30393,31 @@
         "hub": false,
         "gameid": "15218343966",
         "game": true
+    },
+    "Fast kill bosses and enemies": {
+        "origin": "https://scriptblox.com/script/ya-kids-beta-Fast-kill-bosses-and-enemies-9508",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20kill%20bosses%20and%20enemies767.lua",
+        "author": "Uploaded by epic123 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11232549985",
+        "game": true
+    },
+    "AI Powered Auto Farm": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-AI-Powered-Auto-Farm-9509",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AI%20Powered%20Auto%20Farm198.lua",
+        "author": "Uploaded by Cyber on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Universal auto clicker": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-auto-clicker-9510",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20auto%20clicker973.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
