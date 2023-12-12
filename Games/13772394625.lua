@@ -508,3 +508,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Hold to block", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hold%20to%20block315.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Hold-to-block-9500")
                                     
+    addscriptexist(13772394625, "Meow source hub", "Uploaded by Vikichard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meow%20source%20hub666.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Meow-source-hub-9502")
+                                    
