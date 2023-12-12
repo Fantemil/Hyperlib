@@ -506,3 +506,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Op Hub", "Uploaded by ent1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Hub543.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Op-Hub-9498")
                                     
+    addscriptexist(13772394625, "Hold to block", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hold%20to%20block315.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Hold-to-block-9500")
+                                    
