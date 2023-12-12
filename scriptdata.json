@@ -30376,5 +30376,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "ECCS Executor V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-Executor-V2-9506",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20Executor%20V2932.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
