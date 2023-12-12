@@ -556,3 +556,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "fruit mobile s", "Uploaded by saricamyasin4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20mobile%20s737.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-fruit-mobile-s-9493")
                                     
+    addscriptexist(2753915549, "Script esp player no haki by Tbao Hub", "Uploaded by tbao04963 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20esp%20player%20no%20haki%20by%20Tbao%20Hub512.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-Script-fruit-esp-player-no-haki-by-Tbao-Hub-9504")
+                                    
