@@ -84,3 +84,5 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "ELMERHUB NEW UPDATE", "Uploaded by makabaho2020 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELMERHUB%20NEW%20UPDATE770.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-ELMERHUB-NEW-UPDATE-9355")
                                     
+    addscriptexist(13127800756, "Christmas Event 2 Infinite candy coin", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Christmas%20Event%202%20Infinite%20candy%20coin435.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Christmas-Event-2-Infinite-candy-coin-9503")
+                                    
