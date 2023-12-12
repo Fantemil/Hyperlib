@@ -30298,5 +30298,14 @@
         "hub": false,
         "gameid": "286090429",
         "game": true
+    },
+    "by Tbao Hub vietnam": {
+        "origin": "https://scriptblox.com/script/Evade-by-Tbao-Hub-vietnam-9498",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/by%20Tbao%20Hub%20vietnam868.lua",
+        "author": "Uploaded by tbao04963 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9872472334",
+        "game": true
     }
 }
