@@ -70,3 +70,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Best script Teleports GUI", "Uploaded by lioboomxh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20Teleports%20GUI779.lua", "https://scriptblox.com/script/Brookhaven-RP-Best-script-Teleports-GUI-9497")
                                     
+    addscriptexist(4924922222, "t admin commands", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/t%20admin%20commands664.lua", "https://scriptblox.com/script/Brookhaven-RP-t-admin-commands-9523")
+                                    

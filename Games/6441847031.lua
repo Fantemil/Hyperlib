@@ -14,3 +14,5 @@ addscriptexist(6441847031, "Astral Hub For", "Uploaded by Loop on scriptblox.com
                                 
 addscriptexist(6441847031, "Script Juanko Hub", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Juanko%20Hub656.lua", "https://scriptblox.com/script/CHAOS-UPDATE-Script-Juanko-Hub-8093")
                                 
+    addscriptexist(6441847031, "HUB", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HUB369.lua", "https://scriptblox.com/script/CHAOS-UPDATE-HUB-9522")
+                                    

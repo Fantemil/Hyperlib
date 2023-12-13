@@ -54,3 +54,5 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                     
     addscriptexist(9872472334, "by Tbao Hub vietnam", "Uploaded by tbao04963 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/by%20Tbao%20Hub%20vietnam868.lua", "https://scriptblox.com/script/Evade-by-Tbao-Hub-vietnam-9498")
                                     
+    addscriptexist(9872472334, "Script  by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20by%20Tbao%20Hub821.lua", "https://scriptblox.com/script/Evade-Script-by-Tbao-Hub-9519")
+                                    

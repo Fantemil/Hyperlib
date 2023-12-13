@@ -30508,5 +30508,48 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Click to fling": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Click-to-fling-9521",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Click%20to%20fling617.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Script  by Tbao Hub": {
+        "origin": "https://scriptblox.com/script/Evade-Script-by-Tbao-Hub-9519",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20by%20Tbao%20Hub821.lua",
+        "author": "Uploaded by TbaoHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9872472334",
+        "game": true
+    },
+    "Infinite yield": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Infinite-yield-9520",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20yield641.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "HUB": {
+        "origin": "https://scriptblox.com/script/CHAOS-UPDATE-HUB-9522",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HUB369.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6441847031",
+        "game": true
+    },
+    "t admin commands": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-t-admin-commands-9523",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/t%20admin%20commands664.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }
