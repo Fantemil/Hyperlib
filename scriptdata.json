@@ -30586,5 +30586,23 @@
         "hub": false,
         "gameid": "12107332924",
         "game": true
+    },
+    "BEST": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-BEST-9530",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST490.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Juanko  Hub": {
+        "origin": "https://scriptblox.com/script/Climb-2000-Stairs-to-VIP-Obby-Juanko-Hub-9529",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Juanko%20%20Hub704.lua",
+        "author": "Uploaded by JUANKO_MODS_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10129750406",
+        "game": true
     }
 }
