@@ -512,3 +512,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Corolla Hub OP", "Uploaded by corolla on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Corolla%20Hub%20OP92.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Corolla-Hub-OP-9509")
                                     
+    addscriptexist(13772394625, "Project X OP", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20X%20OP915.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Project-X-OP-9510")
+                                    
