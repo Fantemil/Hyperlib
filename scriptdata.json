@@ -30481,5 +30481,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Ob gui": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Ob-gui-9516",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ob%20gui747.lua",
+        "author": "Uploaded by alg625436 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Inf materials and auto unlocked 5 Equipped Gamepass": {
+        "origin": "https://scriptblox.com/script/FREE-LIMITED-Punch-Simulator-Inf-materials-and-auto-unlocked-5-Equipped-Gamepass-9517",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20materials%20and%20auto%20unlocked%205%20Equipped%20Gamepass664.lua",
+        "author": "Uploaded by LightningHub_X on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14236123211",
+        "game": true
     }
 }
