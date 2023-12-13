@@ -562,3 +562,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "WAzure Hub", "Uploaded by StilesScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WAzure%20Hub738.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-WAzure-Hub-9510")
                                     
+    addscriptexist(2753915549, "KEY LESS", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KEY%20LESS831.lua", "https://scriptblox.com/script/GHOST-Blox-Fruits-KEY-LESS-9525")
+                                    

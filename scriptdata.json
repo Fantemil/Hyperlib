@@ -30551,5 +30551,14 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "KEY LESS": {
+        "origin": "https://scriptblox.com/script/GHOST-Blox-Fruits-KEY-LESS-9525",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KEY%20LESS831.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
