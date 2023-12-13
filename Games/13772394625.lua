@@ -518,3 +518,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Ob gui", "Uploaded by alg625436 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ob%20gui747.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Ob-gui-9516")
                                     
+    addscriptexist(13772394625, "Baryon Hub Beta Version", "Uploaded by Seupai123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baryon%20Hub%20Beta%20Version996.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Baryon-Hub-Beta-Version-9518")
+                                    

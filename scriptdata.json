@@ -30499,5 +30499,14 @@
         "hub": false,
         "gameid": "14236123211",
         "game": true
+    },
+    "Baryon Hub Beta Version": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Baryon-Hub-Beta-Version-9518",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baryon%20Hub%20Beta%20Version996.lua",
+        "author": "Uploaded by Seupai123 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
