@@ -30454,5 +30454,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Atreus Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Atreus-Hub-9511",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20Hub8.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Chapter 2 OP SCRIPT": {
+        "origin": "https://scriptblox.com/script/PROVE-MOM-WRONG-+-BE-FAMOUS-!-Chapter-2-OP-SCRIPT-9509",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chapter%202%20OP%20SCRIPT442.lua",
+        "author": "Uploaded by GG_HACKER on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14125634878",
+        "game": true
+    },
+    "Project X": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Project-X-9512",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20X354.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
