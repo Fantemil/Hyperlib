@@ -30560,5 +30560,22 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Sirius  Pro": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Sirius-Pro-9527",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20%20Pro327.lua",
+        "author": "Uploaded by Quetim on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Wierd strick  chapter 1": {
+        "origin": "https://scriptblox.com/script/weird-strict-dad-CHRISTMAS-Wierd-strick-chapter-1-9526",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wierd%20strick%20%20chapter%201570.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14787369036",
+        "game": true
     }
 }
