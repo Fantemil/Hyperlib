@@ -30577,5 +30577,14 @@
         "hub": false,
         "gameid": "14787369036",
         "game": true
+    },
+    "OP Gun Mods": {
+        "origin": "https://scriptblox.com/script/Neighborhood-War-Remake-ALPHA-No-Spread-No-Recoil-Make-Gun-Automatic-No-Delay-More-9528",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gun%20Mods370.lua",
+        "author": "Uploaded by Cyber on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12107332924",
+        "game": true
     }
 }
