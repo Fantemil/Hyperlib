@@ -30699,5 +30699,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "c00lgui": {
+        "origin": "https://scriptblox.com/script/F3X-Btools-Admin-Hangout-c00lgui-9546",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui502.lua",
+        "author": "Uploaded by vrmvrmilliondvourer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5358493390",
+        "game": true
     }
 }
