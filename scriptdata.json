@@ -30674,5 +30674,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "OP Cashier Au Farm": {
+        "origin": "https://scriptblox.com/script/Welcome-to-Bloxburg-OP-Cashier-Au-Farm-9543",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Cashier%20Au%20Farm177.lua",
+        "author": "Uploaded by Cyber on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "185655149",
+        "game": true
     }
 }

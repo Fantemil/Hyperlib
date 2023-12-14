@@ -28,3 +28,5 @@ addscriptexist(185655149, "OP PIZZA FARM FREE", "Uploaded by Verthemillion on sc
                                 
     addscriptexist(185655149, "Teleports Au Farm", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20Au%20Farm483.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-Teleports-Au-Farm-9426")
                                     
+    addscriptexist(185655149, "OP Cashier Au Farm", "Uploaded by Cyber on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Cashier%20Au%20Farm177.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-OP-Cashier-Au-Farm-9543")
+                                    
