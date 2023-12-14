@@ -30683,5 +30683,13 @@
         "hub": false,
         "gameid": "185655149",
         "game": true
+    },
+    "ECCS Searcher": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-Searcher-9544",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20Searcher490.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
