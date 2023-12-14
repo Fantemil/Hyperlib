@@ -1,0 +1,2 @@
+
+    addscript(11159328933, "Current Game","THE BEST OP SCRIPT AUTO PLAY", "Uploaded by BaconBossScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20BEST%20OP%20SCRIPT%20AUTO%20PLAY600.lua", "https://scriptblox.com/script/FREE-UGC-Kitten-Tycoon!-THE-BEST-OP-SCRIPT-AUTO-PLAY-9538")

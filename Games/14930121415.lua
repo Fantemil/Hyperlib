@@ -1,0 +1,2 @@
+
+    addscript(14930121415, "Current Game","FREE LIMITED OP SCRIPT", "Uploaded by BaconBossScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20LIMITED%20OP%20SCRIPT589.lua", "https://scriptblox.com/script/FREE-UGC-Spooky-Tycoon!-(Halloween)-FREE-LIMITED-OP-SCRIPT-9537")
