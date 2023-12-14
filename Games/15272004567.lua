@@ -1,0 +1,2 @@
+
+    addscript(15272004567, "Current Game","Op script", "Uploaded by grrrrrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script9.lua", "https://scriptblox.com/script/Nightlight-HORROR-Op-script-9534")
