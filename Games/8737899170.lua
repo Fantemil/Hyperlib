@@ -44,3 +44,5 @@
                                     
     addscriptexist(8737899170, "REDz Hub", "Uploaded by MeNoHack_JustSkIll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20Hub907.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-REDz-Hub-9499")
                                     
+    addscriptexist(8737899170, "BEST SCRIPT AND AUTOFARM", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20AND%20AUTOFARM948.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-BEST-SCRIPT-AND-AUTOFARM-9533")
+                                    
