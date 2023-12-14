@@ -30648,5 +30648,14 @@
         "hub": false,
         "gameid": "14930121415",
         "game": true
+    },
+    "Darkrai Hub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Darkrai-Hub-9539",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkrai%20Hub172.lua",
+        "author": "Uploaded by Darkrai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
