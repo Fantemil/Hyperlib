@@ -30604,5 +30604,14 @@
         "hub": false,
         "gameid": "10129750406",
         "game": true
+    },
+    "BEST FOR THIS Gme": {
+        "origin": "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-BEST-FOR-THIS-Gme-9531",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20Gme324.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4520749081",
+        "game": true
     }
 }
