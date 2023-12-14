@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/KhubV6X/main/Khubv6X.txt"))()
