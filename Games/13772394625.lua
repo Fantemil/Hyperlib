@@ -532,3 +532,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "EMINx Hub", "Uploaded by Em1nence on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EMINx%20Hub923.lua", "https://scriptblox.com/script/Blade-Ball-EMINx-Hub-9556")
                                     
+    addscriptexist(13772394625, "DEMONIC HUB VW", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEMONIC%20HUB%20VW257.lua", "https://scriptblox.com/script/Blade-Ball-DEMONIC-HUB-VW-9550")
+                                    

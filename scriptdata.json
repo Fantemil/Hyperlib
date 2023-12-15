@@ -30806,5 +30806,22 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Tycoon script v1 added in khub v8": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Tycoon-script-v1-added-in-khub-v8-9551",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tycoon%20script%20v1%20added%20in%20khub%20v8719.lua",
+        "author": "Uploaded by MaxLovesScripting on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "DEMONIC HUB VW": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-DEMONIC-HUB-VW-9550",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEMONIC%20HUB%20VW257.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
