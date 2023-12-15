@@ -46,3 +46,5 @@
                                     
     addscriptexist(8737899170, "BEST SCRIPT AND AUTOFARM", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20AND%20AUTOFARM948.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-BEST-SCRIPT-AND-AUTOFARM-9533")
                                     
+    addscriptexist(8737899170, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L619.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Project-L-9549")
+                                    

@@ -24,3 +24,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "Hikari", "Uploaded by cszn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hikari560.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Hikari-9440")
                                     
+    addscriptexist(1537690962, "BEST FOR   SIM", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20%20%20SIM225.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-BEST-FOR-SIM-9550")
+                                    
