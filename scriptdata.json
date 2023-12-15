@@ -30761,5 +30761,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Dupe  Auto hatch Auto Farm": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Dupe-Auto-hatch-Auto-Farm-9554",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20%20Auto%20hatch%20Auto%20Farm179.lua",
+        "author": "Uploaded by LightningHub_X on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Apple Hub": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Apple-Hub-9555",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apple%20Hub817.lua",
+        "author": "Uploaded by StilesScripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

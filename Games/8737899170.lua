@@ -48,3 +48,5 @@
                                     
     addscriptexist(8737899170, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L619.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Project-L-9549")
                                     
+    addscriptexist(8737899170, "Dupe  Auto hatch Auto Farm", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20%20Auto%20hatch%20Auto%20Farm179.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Dupe-Auto-hatch-Auto-Farm-9554")
+                                    
