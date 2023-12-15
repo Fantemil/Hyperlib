@@ -30708,5 +30708,22 @@
         "hub": false,
         "gameid": "5358493390",
         "game": true
+    },
+    "Khub V8": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Khub-V8-9547",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Khub%20V8682.lua",
+        "author": "Uploaded by MaxLovesScripting on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "BEST FOR THIS GME": {
+        "origin": "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-BEST-FOR-THIS-GME-9546",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20GME857.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4520749081",
+        "game": true
     }
 }

@@ -18,3 +18,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                     
     addscriptexist(4520749081, "BEST FOR THIS Gme", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20Gme324.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-BEST-FOR-THIS-Gme-9531")
                                     
+    addscriptexist(4520749081, "BEST FOR THIS GME", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20GME857.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-BEST-FOR-THIS-GME-9546")
+                                    
