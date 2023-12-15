@@ -30788,5 +30788,14 @@
         "hub": false,
         "gameid": "15015142084",
         "game": true
+    },
+    "EMINx Hub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-EMINx-Hub-9556",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EMINx%20Hub923.lua",
+        "author": "Uploaded by Em1nence on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

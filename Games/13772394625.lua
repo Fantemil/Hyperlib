@@ -530,3 +530,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto Parry Super OP Auto Parry For Any Ping", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Super%20OP%20Auto%20Parry%20For%20Any%20Ping784.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Super-OP-Auto-Parry-For-Any-Ping-9552")
                                     
+    addscriptexist(13772394625, "EMINx Hub", "Uploaded by Em1nence on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EMINx%20Hub923.lua", "https://scriptblox.com/script/Blade-Ball-EMINx-Hub-9556")
+                                    
