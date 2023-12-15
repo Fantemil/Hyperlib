@@ -522,3 +522,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Darkrai Hub", "Uploaded by Darkrai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkrai%20Hub172.lua", "https://scriptblox.com/script/Blade-Ball-Darkrai-Hub-9539")
                                     
+    addscriptexist(13772394625, "Sirius Official", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Official125.lua", "https://scriptblox.com/script/Blade-Ball-Sirius-Official-9548")
+                                    
