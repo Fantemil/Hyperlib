@@ -36,3 +36,5 @@ addscript(8304191830, "Current Game","Auto Kisuke", "Uploaded by Kirito on scrip
                                 
 addscriptexist(8304191830, "Best Script Auto Leave Auto Skip Wave More", "Uploaded by yookiltools on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20Auto%20Leave%20Auto%20Skip%20Wave%20More304.lua", "https://scriptblox.com/script/SUMMER-Anime-Adventures-Best-Script-Auto-Leave-Auto-Skip-Wave-More-6810")
                                 
+    addscriptexist(8304191830, "BEST FOR THIS", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS116.lua", "https://scriptblox.com/script/UPD-Anime-Adventures-BEST-FOR-THIS-9552")
+                                    
