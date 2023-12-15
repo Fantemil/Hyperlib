@@ -30752,5 +30752,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Auto Parry Super OP Auto Parry For Any Ping": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Super-OP-Auto-Parry-For-Any-Ping-9552",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Super%20OP%20Auto%20Parry%20For%20Any%20Ping784.lua",
+        "author": "Uploaded by r4mpage on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

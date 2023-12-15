@@ -526,3 +526,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Visual V10", "Uploaded by JapaneseGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20V10864.lua", "https://scriptblox.com/script/Blade-Ball-Visual-V10-9551")
                                     
+    addscriptexist(13772394625, "GanjaHub", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub289.lua", "https://scriptblox.com/script/Blade-Ball-GanjaHub-9553")
+                                    
+    addscriptexist(13772394625, "Auto Parry Super OP Auto Parry For Any Ping", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20Super%20OP%20Auto%20Parry%20For%20Any%20Ping784.lua", "https://scriptblox.com/script/Blade-Ball-Auto-Parry-Super-OP-Auto-Parry-For-Any-Ping-9552")
+                                    
