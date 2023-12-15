@@ -1,0 +1,2 @@
+
+    addscript(15015142084, "Current Game","Release this script", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Release%20this%20script518.lua", "https://scriptblox.com/script/Zombie-Hunters-Release-this-script-9556")

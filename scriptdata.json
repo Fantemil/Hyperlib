@@ -30779,5 +30779,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Release this script": {
+        "origin": "https://scriptblox.com/script/Zombie-Hunters-Release-this-script-9556",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Release%20this%20script518.lua",
+        "author": "Uploaded by FahriScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15015142084",
+        "game": true
     }
 }
