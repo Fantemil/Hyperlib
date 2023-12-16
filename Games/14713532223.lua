@@ -1,0 +1,2 @@
+
+    addscript(14713532223, "Current Game","Destroy Thy NPCs", "Uploaded by Tabletopjiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20Thy%20NPCs513.lua", "https://scriptblox.com/script/NEW-WORLD-Beat-the-Robloxian!-Beta-Destroy-Thy-NPCs-9559")

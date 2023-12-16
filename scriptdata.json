@@ -30886,5 +30886,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "CometHub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-CometHub-9560",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CometHub757.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Destroy Thy NPCs": {
+        "origin": "https://scriptblox.com/script/NEW-WORLD-Beat-the-Robloxian!-Beta-Destroy-Thy-NPCs-9559",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20Thy%20NPCs513.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14713532223",
+        "game": true
     }
 }
