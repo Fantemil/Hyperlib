@@ -30841,5 +30841,14 @@
         "hub": false,
         "gameid": "8080974701",
         "game": true
+    },
+    "ssp": {
+        "origin": "https://scriptblox.com/script/Live-Life-Rich-and-Famous-in-Paradise!-ssp-9554",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ssp740.lua",
+        "author": "Uploaded by MaxLovesScripting on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3554069044",
+        "game": true
     }
 }
