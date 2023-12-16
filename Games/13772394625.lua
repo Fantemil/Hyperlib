@@ -536,3 +536,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Visual Hub", "Uploaded by JapaneseGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20Hub251.lua", "https://scriptblox.com/script/Blade-Ball-Visual-Hub-9555")
                                     
+    addscriptexist(13772394625, "Nova X", "Uploaded by JapaneseGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nova%20X768.lua", "https://scriptblox.com/script/Blade-Ball-Nova-X-9558")
+                                    

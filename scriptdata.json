@@ -30877,5 +30877,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Nova X": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Nova-X-9558",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nova%20X768.lua",
+        "author": "Uploaded by JapaneseGuy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
