@@ -30973,5 +30973,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Animation changer GUI": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Animation-changer-GUI-9569",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animation%20changer%20GUI435.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
