@@ -30990,5 +30990,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Flming Drgons HUB": {
+        "origin": "https://scriptblox.com/script/REVAMP-+-x2-DROPS-A-0ne-Piece-Game-Flming-Drgons-HUB-9572",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flming%20Drgons%20HUB33.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8396586868",
+        "game": true
+    },
+    "Flaming Dragons HUB": {
+        "origin": "https://scriptblox.com/script/Adopt-Me!-Flaming-Dragons-HUB-9571",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB392.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "920587237",
+        "game": true
     }
 }
