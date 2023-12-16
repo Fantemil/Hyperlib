@@ -540,3 +540,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "CometHub", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CometHub757.lua", "https://scriptblox.com/script/Blade-Ball-CometHub-9560")
                                     
+    addscriptexist(13772394625, "Blink auto parry nokey", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blink%20auto%20parry%20nokey199.lua", "https://scriptblox.com/script/Blade-Ball-Blink-auto-parry-nokey-9566")
+                                    

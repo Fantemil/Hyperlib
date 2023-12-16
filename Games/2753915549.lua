@@ -574,3 +574,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Crezyhub", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crezyhub311.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Crezyhub-9562")
                                     
+    addscriptexist(2753915549, "Alchemy Hub  V2", "Uploaded by x2Neptune on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20%20V285.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Alchemy-Hub-V2-9568")
+                                    
+    addscriptexist(2753915549, "fruit APPLE HUB NO KEY", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20APPLE%20HUB%20NO%20KEY554.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-fruit-APPLE-HUB-NO-KEY-9565")
+                                    
