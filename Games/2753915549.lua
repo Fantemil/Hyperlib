@@ -578,3 +578,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "fruit APPLE HUB NO KEY", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20APPLE%20HUB%20NO%20KEY554.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-fruit-APPLE-HUB-NO-KEY-9565")
                                     
+    addscriptexist(2753915549, "Best BF SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20BF%20SCRIPT972.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Best-BF-SCRIPT-9570")
+                                    
