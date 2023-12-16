@@ -30832,5 +30832,14 @@
         "hub": false,
         "gameid": "8304191830",
         "game": true
+    },
+    "The most bad lost soul edit": {
+        "origin": "https://scriptblox.com/script/Fencing-The-most-bad-lost-soul-edit-9553",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20most%20bad%20lost%20soul%20edit525.lua",
+        "author": "Uploaded by TheLuaCoder on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8080974701",
+        "game": true
     }
 }
