@@ -568,3 +568,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Raito Hub Best BF Script", "Uploaded by Peace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raito%20Hub%20Best%20BF%20Script571.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Raito-Hub-Best-BF-Script-9556")
                                     
+    addscriptexist(2753915549, "BEST  UPD BF SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20UPD%20BF%20SCRIPT188.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-BEST-UPD-BF-SCRIPT-9557")
+                                    
