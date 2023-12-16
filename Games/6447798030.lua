@@ -16,3 +16,5 @@ addscriptexist(6447798030, "script delta and fluxus", "Uploaded by mccormickkenn
                                 
 addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonwaffles98 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autoplayer%20made%20by%20Bart3kk701.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-script-9154")
                                 
+    addscriptexist(6447798030, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB925.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Flaming-Dragons-HUB-9574")
+                                    

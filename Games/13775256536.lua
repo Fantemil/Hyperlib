@@ -12,3 +12,5 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "Auto Play Auto Vote Auto Skip Less Ping", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Play%20Auto%20Vote%20Auto%20Skip%20Less%20Ping4.lua", "https://scriptblox.com/script/EP-67-PART-4-Toilet-Tower-Defense-Auto-Play-Auto-Vote-Auto-Skip-Less-Ping-9437")
                                     
+    addscriptexist(13775256536, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB828.lua", "https://scriptblox.com/script/EP-68-PART-1-Toilet-Tower-Defense-Flaming-Dragons-HUB-9575")
+                                    
