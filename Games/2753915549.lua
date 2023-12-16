@@ -570,3 +570,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "BEST  UPD BF SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20UPD%20BF%20SCRIPT188.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-BEST-UPD-BF-SCRIPT-9557")
                                     
+    addscriptexist(2753915549, "New   Script So Many Features", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20%20%20Script%20So%20Many%20Features41.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-New-Fruit-Script-So-Many-Features-9563")
+                                    
+    addscriptexist(2753915549, "Crezyhub", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crezyhub311.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Crezyhub-9562")
+                                    

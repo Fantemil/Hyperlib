@@ -30912,5 +30912,31 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "New   Script So Many Features": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-New-Fruit-Script-So-Many-Features-9563",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20%20%20Script%20So%20Many%20Features41.lua",
+        "author": "Uploaded by OmgHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Crezyhub": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Crezyhub-9562",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crezyhub311.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Infiniteyield": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Infiniteyield-9564",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infiniteyield81.lua",
+        "author": "Uploaded by Alworod498 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
