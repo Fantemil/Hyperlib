@@ -31086,5 +31086,13 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Genesis Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Genesis-Hub-9584",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Hub1.lua",
+        "author": "Uploaded by n3rdguyy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
