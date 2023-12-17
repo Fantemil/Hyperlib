@@ -54,3 +54,5 @@
                                     
     addscriptexist(8737899170, "Auto Collect Christmas Gifts", "Uploaded by Zyra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Christmas%20Gifts508.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Collect-Christmas-Gifts-9582")
                                     
+    addscriptexist(8737899170, "Scam gui Best script for scamming", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scam%20gui%20Best%20script%20for%20scamming11.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Scam-gui-Best-script-for-scamming-9590")
+                                    

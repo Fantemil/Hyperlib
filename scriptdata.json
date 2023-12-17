@@ -31110,5 +31110,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Lets Party Infinite Script": {
+        "origin": "https://scriptblox.com/script/Let's-Partyinfinity-+Gear-Testing-EditionREAD-THE-DESC-Lets-Party-Infinite-Script-9588",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lets%20Party%20Infinite%20Script593.lua",
+        "author": "Uploaded by imangel192010 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "391104146",
+        "game": true
+    },
+    "Scam gui Best script for scamming": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Scam-gui-Best-script-for-scamming-9590",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scam%20gui%20Best%20script%20for%20scamming11.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
