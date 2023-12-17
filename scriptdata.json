@@ -31044,5 +31044,22 @@
         "hub": false,
         "gameid": "6111095394",
         "game": true
+    },
+    "protonv12": {
+        "origin": "https://scriptblox.com/script/Universal-Script-protonv12-9580",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/protonv12875.lua",
+        "author": "Uploaded by Luascripts on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Autofarm n autowin": {
+        "origin": "https://scriptblox.com/script/UPDATE-or-Randomly-Generated-Droids-Autofarm-n-autowin-9579",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20n%20autowin565.lua",
+        "author": "Uploaded by grrrrrr on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5561268850",
+        "game": true
     }
 }
