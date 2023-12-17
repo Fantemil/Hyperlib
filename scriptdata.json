@@ -31035,5 +31035,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Auto Complete": {
+        "origin": "https://scriptblox.com/script/sale-Aio's-Wraparound-Difficulty-Chart-Obby-Auto-Complete-9579",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete110.lua",
+        "author": "Uploaded by Bac0nH1ckOff on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6111095394",
+        "game": true
     }
 }

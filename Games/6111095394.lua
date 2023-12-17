@@ -1,0 +1,2 @@
+
+    addscript(6111095394, "Current Game","Auto Complete", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete110.lua", "https://scriptblox.com/script/sale-Aio's-Wraparound-Difficulty-Chart-Obby-Auto-Complete-9579")
