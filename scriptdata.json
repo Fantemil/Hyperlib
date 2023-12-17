@@ -31128,5 +31128,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Updated Best Hub": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Updated-Best-Hub-9592",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20Best%20Hub422.lua",
+        "author": "Uploaded by Raito on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
