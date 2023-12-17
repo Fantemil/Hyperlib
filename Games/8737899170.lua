@@ -52,3 +52,5 @@
                                     
     addscriptexist(8737899170, "GanjaHub fixed script and working", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20fixed%20script%20and%20working717.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-fixed-script-and-working-9554")
                                     
+    addscriptexist(8737899170, "Auto Collect Christmas Gifts", "Uploaded by Zyra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Christmas%20Gifts508.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Collect-Christmas-Gifts-9582")
+                                    

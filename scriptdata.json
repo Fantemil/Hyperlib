@@ -31061,5 +31061,30 @@
         "hub": false,
         "gameid": "5561268850",
         "game": true
+    },
+    "Sirius Pro Cracked": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Sirius-Pro-Cracked-9581",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Pro%20Cracked205.lua",
+        "author": "Uploaded by n3rdguyy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Hiso Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hiso-Hub-9583",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hiso%20Hub25.lua",
+        "author": "Uploaded by n3rdguyy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Auto Collect Christmas Gifts": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Collect-Christmas-Gifts-9582",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Christmas%20Gifts508.lua",
+        "author": "Uploaded by Zyra on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
