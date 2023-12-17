@@ -31026,5 +31026,14 @@
         "hub": false,
         "gameid": "11124905486",
         "game": true
+    },
+    "JoeHubZ": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-JoeHubZ-9579",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JoeHubZ913.lua",
+        "author": "Uploaded by JapaneseGuy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
