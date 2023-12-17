@@ -31094,5 +31094,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "15422": {
+        "origin": "https://scriptblox.com/script/Universal-Script-15422-9586",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1542285.lua",
+        "author": "Uploaded by n3rdguyy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "112211223344": {
+        "origin": "https://scriptblox.com/script/Universal-Script-112211223344-9585",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/112211223344954.lua",
+        "author": "Uploaded by n3rdguyy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
