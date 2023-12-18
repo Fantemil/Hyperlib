@@ -31188,5 +31188,32 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "BEST FOR THIS SCRIPT": {
+        "origin": "https://scriptblox.com/script/FRUIT-Anime-Dimensions-Simulator-BEST-FOR-THIS-SCRIPT-9603",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20SCRIPT782.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6938803436",
+        "game": true
+    },
+    "BEST SCRIPT FOR BH": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-BEST-SCRIPT-FOR-BH-9604",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20BH778.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "BEST SCRIPT FOR THISN": {
+        "origin": "https://scriptblox.com/script/QUESTS!-Car-Dealership-Tycoon-BEST-SCRIPT-FOR-THISN-9605",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20THISN148.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1554960397",
+        "game": true
     }
 }

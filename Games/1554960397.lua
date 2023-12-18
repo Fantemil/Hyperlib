@@ -32,3 +32,5 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                     
     addscriptexist(1554960397, "MIDNIGHT RACING HUB    SCRIPT", "Uploaded by clownext1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MIDNIGHT%20RACING%20HUB%20%20%20%20SCRIPT259.lua", "https://scriptblox.com/script/LIMITED-CAR!-Car-Dealership-Tycoon-MIDNIGHT-RACING-HUB-SCRIPT-9309")
                                     
+    addscriptexist(1554960397, "BEST SCRIPT FOR THISN", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20THISN148.lua", "https://scriptblox.com/script/QUESTS!-Car-Dealership-Tycoon-BEST-SCRIPT-FOR-THISN-9605")
+                                    

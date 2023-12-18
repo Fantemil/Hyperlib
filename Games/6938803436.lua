@@ -12,3 +12,5 @@ addscriptexist(6938803436, "auto dode and full auto farm", "Uploaded by tozxart 
                                 
     addscriptexist(6938803436, "NoName Hub", "Uploaded by Essenly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoName%20Hub399.lua", "https://scriptblox.com/script/ONE-BILLION-Anime-Dimensions-Simulator-NoName-Hub-7500")
                                     
+    addscriptexist(6938803436, "BEST FOR THIS SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20SCRIPT782.lua", "https://scriptblox.com/script/FRUIT-Anime-Dimensions-Simulator-BEST-FOR-THIS-SCRIPT-9603")
+                                    
