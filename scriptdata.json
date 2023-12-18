@@ -31172,5 +31172,13 @@
         "hub": false,
         "gameid": "6447798030",
         "game": true
+    },
+    "Aloneo Universal Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Aloneo-Universal-Script-9597",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aloneo%20Universal%20Script770.lua",
+        "author": "Uploaded by smallgames455 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
