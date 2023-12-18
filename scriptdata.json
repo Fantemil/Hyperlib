@@ -31215,5 +31215,14 @@
         "hub": false,
         "gameid": "1554960397",
         "game": true
+    },
+    "BEST PS99 SCRIPT": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-BEST-PS99-SCRIPT-9606",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20PS99%20SCRIPT750.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
