@@ -56,3 +56,5 @@
                                     
     addscriptexist(8737899170, "Scam gui Best script for scamming", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scam%20gui%20Best%20script%20for%20scamming11.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Scam-gui-Best-script-for-scamming-9590")
                                     
+    addscriptexist(8737899170, "GanjaHub working", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20working835.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-working-9594")
+                                    
