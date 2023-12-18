@@ -31146,5 +31146,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Zekrom Hub X Script Keyless": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Zekrom-Hub-X-Script-Keyless-9594",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20Script%20Keyless106.lua",
+        "author": "Uploaded by ahmadsgamer2 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

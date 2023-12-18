@@ -58,3 +58,5 @@
                                     
     addscriptexist(8737899170, "GanjaHub working", "Uploaded by Sugi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20working835.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-working-9594")
                                     
+    addscriptexist(8737899170, "Zekrom Hub X Script Keyless", "Uploaded by ahmadsgamer2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20Script%20Keyless106.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Zekrom-Hub-X-Script-Keyless-9594")
+                                    
