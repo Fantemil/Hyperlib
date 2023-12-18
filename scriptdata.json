@@ -31242,5 +31242,13 @@
         "hub": false,
         "gameid": "15278535431",
         "game": true
+    },
+    "Netflix But Butter": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Netflix-But-Butter-9609",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Netflix%20But%20Butter285.lua",
+        "author": "Uploaded by Tomato on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
