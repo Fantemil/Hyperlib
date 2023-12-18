@@ -1,0 +1,2 @@
+
+    addscript(3144588566, "Current Game","OP", "Uploaded by skull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP208.lua", "https://scriptblox.com/script/The-Lost-Land-Survival-OP-9593")
