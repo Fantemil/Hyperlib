@@ -31180,5 +31180,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Scriptonite Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Scriptonite-Hub-9601",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scriptonite%20Hub135.lua",
+        "author": "Uploaded by EpicSwords1982 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
