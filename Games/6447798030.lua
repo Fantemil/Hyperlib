@@ -18,3 +18,5 @@ addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonw
                                 
     addscriptexist(6447798030, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB925.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Flaming-Dragons-HUB-9574")
                                     
+    addscriptexist(6447798030, "New Working Script", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Working%20Script871.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Mobile-Working-9595")
+                                    

@@ -31155,5 +31155,22 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Plza script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Plza-script-9596",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plza%20script886.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "New Working Script": {
+        "origin": "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Mobile-Working-9595",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Working%20Script871.lua",
+        "author": "Uploaded by yuuiz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6447798030",
+        "game": true
     }
 }
