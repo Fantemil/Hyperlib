@@ -132,3 +132,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Scorpion admin", "Uploaded by Jaydenmclin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scorpion%20admin959.lua", "https://scriptblox.com/script/Prison-Life-Scorpion-admin-9461")
                                     
+    addscriptexist(155615604, "Dalloc Tiger Admin", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dalloc%20Tiger%20Admin556.lua", "https://scriptblox.com/script/Prison-Life-Dalloc-Tiger-Admin-9607")
+                                    
