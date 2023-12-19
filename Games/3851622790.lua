@@ -18,3 +18,5 @@ addscriptexist(3851622790, "Op My broder   1", "Uploaded by Troll on scriptblox.
                                 
 addscriptexist(3851622790, "Proxima Hub", "Uploaded by reptarz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Proxima%20Hub683.lua", "https://scriptblox.com/script/Break-In-(Story)-Proxima-Hub-7880")
                                 
+    addscriptexist(3851622790, "JUANKO  HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20%20HUB9.lua", "https://scriptblox.com/script/Break-In-(Story)-JUANKO-HUB-9610")
+                                    

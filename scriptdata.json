@@ -31250,5 +31250,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "JUANKO  HUB": {
+        "origin": "https://scriptblox.com/script/Break-In-(Story)-JUANKO-HUB-9610",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20%20HUB9.lua",
+        "author": "Uploaded by JUANKO_MODS_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3851622790",
+        "game": true
     }
 }
