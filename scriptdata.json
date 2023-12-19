@@ -31301,5 +31301,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Mini update script aimbot fov mobile": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mini-update-script-aimbot-fov-mobile-9601",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mini%20update%20script%20aimbot%20fov%20mobile533.lua",
+        "author": "Uploaded by DOLLYNHO on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
