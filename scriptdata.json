@@ -31259,5 +31259,13 @@
         "hub": false,
         "gameid": "3851622790",
         "game": true
+    },
+    "Plzahub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Plzahub-9610",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plzahub761.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
