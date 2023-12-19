@@ -62,3 +62,5 @@
                                     
     addscriptexist(8737899170, "BEST PS99 SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20PS99%20SCRIPT750.lua", "https://scriptblox.com/script/Pet-Simulator-99!-BEST-PS99-SCRIPT-9606")
                                     
+    addscriptexist(8737899170, "zzy hub", "Uploaded by x2p3m8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zzy%20hub567.lua", "https://scriptblox.com/script/Pet-Simulator-99!-zzy-hub-9613")
+                                    
