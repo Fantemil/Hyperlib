@@ -31285,5 +31285,21 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Decalspam Mario exe": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Decalspam-Mario-exe-9614",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decalspam%20Mario%20exe449.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Clozhub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Clozhub-9615",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Clozhub550.lua",
+        "author": "Uploaded by Sugi on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
