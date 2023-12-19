@@ -31309,5 +31309,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Mario exe f3x mode": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mario-exe-f3x-mode-9600",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mario%20exe%20f3x%20mode259.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
