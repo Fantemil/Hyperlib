@@ -8,3 +8,5 @@ addscriptexist(11124905486, "reduced knockbck", "Uploaded by Tomato on scriptblo
                                 
     addscriptexist(11124905486, "Gift Collector", "Uploaded by DannyH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gift%20Collector394.lua", "https://scriptblox.com/script/Shoot-Players-Off-A-Map-Simulator-Gift-Collector-9578")
                                     
+    addscriptexist(11124905486, "Reduced KnockBck", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reduced%20KnockBck854.lua", "https://scriptblox.com/script/Shoot-Players-Off-A-Map-Simulator-Reduced-KnockBck-9611")
+                                    
