@@ -31317,5 +31317,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "AFS SCRIPT": {
+        "origin": "https://scriptblox.com/script/UPDATE-6!-Anime-Fighting-Simulator-X-AFS-SCRIPT-9600",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AFS%20SCRIPT590.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11545598432",
+        "game": true
+    },
+    "SL SCRIPT": {
+        "origin": "https://scriptblox.com/script/Shinobi-Life-2-SL-SCRIPT-9601",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SL%20SCRIPT997.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4616652839",
+        "game": true
     }
 }
