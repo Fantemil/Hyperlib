@@ -31343,5 +31343,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Kitsu hub": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Kitsu-hub-9603",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitsu%20hub737.lua",
+        "author": "Uploaded by xiba on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
