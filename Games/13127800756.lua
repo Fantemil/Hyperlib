@@ -86,3 +86,5 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "Christmas Event 2 Infinite candy coin", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Christmas%20Event%202%20Infinite%20candy%20coin435.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Christmas-Event-2-Infinite-candy-coin-9503")
                                     
+    addscriptexist(13127800756, "Christmas Update Best Script", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Christmas%20Update%20Best%20Script802.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Christmas-Update-Best-Script-9605")
+                                    
