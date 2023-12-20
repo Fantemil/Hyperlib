@@ -22,3 +22,5 @@ addscriptexist(14236123211, "Best Script  Auto  Fast Egg Dungeon and More", "Upl
                                     
     addscriptexist(14236123211, "Inf materials and auto unlocked 5 Equipped Gamepass", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20materials%20and%20auto%20unlocked%205%20Equipped%20Gamepass664.lua", "https://scriptblox.com/script/FREE-LIMITED-Punch-Simulator-Inf-materials-and-auto-unlocked-5-Equipped-Gamepass-9517")
                                     
+    addscriptexist(14236123211, "AutoFarm Script", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Script425.lua", "https://scriptblox.com/script/UPD-18-Punch-Simulator-AutoFarm-Script-9604")
+                                    
