@@ -31395,5 +31395,21 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Haxer hub 666": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Haxer-hub-666-9608",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haxer%20hub%2066614.lua",
+        "author": "Uploaded by CKfriend on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "H0lpgui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-H0lpgui-9609",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/H0lpgui486.lua",
+        "author": "Uploaded by CKfriend on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
