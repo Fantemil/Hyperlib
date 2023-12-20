@@ -31335,5 +31335,13 @@
         "hub": false,
         "gameid": "4616652839",
         "game": true
+    },
+    "Nameless admin": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Nameless-admin-9602",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nameless%20admin303.lua",
+        "author": "Uploaded by CKfriend on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
