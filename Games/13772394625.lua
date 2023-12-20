@@ -548,3 +548,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "JoeHubZ", "Uploaded by JapaneseGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JoeHubZ913.lua", "https://scriptblox.com/script/UPD-Blade-Ball-JoeHubZ-9579")
                                     
+    addscriptexist(13772394625, "Alchemy Hub V2 Auto Win", "Uploaded by x2Neptune on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20V2%20Auto%20Win554.lua", "https://scriptblox.com/script/Blade-Ball-Alchemy-Hub-V2-Auto-Win-9606")
+                                    
