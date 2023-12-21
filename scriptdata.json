@@ -31447,5 +31447,13 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "K00pkidd decalspam": {
+        "origin": "https://scriptblox.com/script/Universal-Script-K00pkidd-decalspam-9608",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pkidd%20decalspam658.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
