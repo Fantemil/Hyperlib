@@ -31429,5 +31429,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Script by Tbao Hub": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-Script-by-Tbao-Hub-9614",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub547.lua",
+        "author": "Uploaded by TbaoHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
     }
 }

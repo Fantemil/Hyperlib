@@ -38,3 +38,5 @@ addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript
                                     
     addscriptexist(3101667897, "LOS Op Script For Mobile And Pc", "Uploaded by DraWatX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOS%20Op%20Script%20For%20Mobile%20And%20Pc134.lua", "https://scriptblox.com/script/Legends-Of-Speed-Op-Script-7343")
                                     
+    addscriptexist(3101667897, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub547.lua", "https://scriptblox.com/script/Legends-Of-Speed-Script-by-Tbao-Hub-9614")
+                                    
