@@ -64,3 +64,5 @@
                                     
     addscriptexist(8737899170, "zzy hub", "Uploaded by x2p3m8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zzy%20hub567.lua", "https://scriptblox.com/script/Pet-Simulator-99!-zzy-hub-9613")
                                     
+    addscriptexist(8737899170, "PS Duplication Script Infinite Huge Infinite Titanic", "Uploaded by fissurectomy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS%20Duplication%20Script%20Infinite%20Huge%20Infinite%20Titanic692.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS-Duplication-Script-Infinite-Huge-Infinite-Titanic-9614")
+                                    
