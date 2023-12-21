@@ -66,3 +66,5 @@
                                     
     addscriptexist(8737899170, "PS Duplication Script Infinite Huge Infinite Titanic", "Uploaded by fissurectomy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS%20Duplication%20Script%20Infinite%20Huge%20Infinite%20Titanic692.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS-Duplication-Script-Infinite-Huge-Infinite-Titanic-9614")
                                     
+    addscriptexist(8737899170, "Dig Aura", "Uploaded by Fumiko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dig%20Aura408.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Dig-Aura-9615")
+                                    

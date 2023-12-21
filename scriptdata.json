@@ -31438,5 +31438,14 @@
         "hub": false,
         "gameid": "3101667897",
         "game": true
+    },
+    "Dig Aura": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Dig-Aura-9615",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dig%20Aura408.lua",
+        "author": "Uploaded by Fumiko on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
