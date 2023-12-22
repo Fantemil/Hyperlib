@@ -31481,5 +31481,14 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "Auto play NEWEST VERSION": {
+        "origin": "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-play-NEWEST-VERSION-9610",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20play%20NEWEST%20VERSION929.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6447798030",
+        "game": true
     }
 }
