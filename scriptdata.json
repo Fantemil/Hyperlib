@@ -31499,5 +31499,14 @@
         "hub": false,
         "gameid": "15327256235",
         "game": true
+    },
+    "Auto tp to  island Collect azure ember etc": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Auto-tp-to-island-Collect-azure-ember-etc-9612",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20tp%20to%20%20island%20Collect%20azure%20ember%20etc97.lua",
+        "author": "Uploaded by OmgHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
