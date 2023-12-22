@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoeScriptHub/GrimEx-Admin/main/GrimEx%20Admin"))();

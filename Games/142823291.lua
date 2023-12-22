@@ -152,3 +152,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "AUTO COIN FARM", "Uploaded by withyou234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20COIN%20FARM52.lua", "https://scriptblox.com/script/Murder-Mystery-2-AUTO-COIN-FARM-9402")
                                     
+    addscriptexist(142823291, "Kidachi Easy Tokens", "Uploaded by EKDFMWDMWOFDWOPMF on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20Easy%20Tokens544.lua", "https://scriptblox.com/script/Murder-Mystery-2-Kidachi-Easy-Tokens-9608")
+                                    

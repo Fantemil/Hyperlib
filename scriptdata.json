@@ -31455,5 +31455,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "GrimEx Admin": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GrimEx-Admin-9609",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GrimEx%20Admin583.lua",
+        "author": "Uploaded by GrimExploits on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Kidachi Easy Tokens": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Kidachi-Easy-Tokens-9608",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi%20Easy%20Tokens544.lua",
+        "author": "Uploaded by EKDFMWDMWOFDWOPMF on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }
