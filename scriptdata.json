@@ -31472,5 +31472,14 @@
         "hub": false,
         "gameid": "142823291",
         "game": true
+    },
+    "anti kick activate 5 times": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-anti-kick-activate-5-times-9610",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20kick%20activate%205%20times303.lua",
+        "author": "Uploaded by Thereplazing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }

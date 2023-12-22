@@ -92,3 +92,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Open source", "Uploaded by GG_HACKER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20source627.lua", "https://scriptblox.com/script/Slap-Battles-Open-source-for-9484")
                                     
+    addscriptexist(6403373529, "anti kick activate 5 times", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20kick%20activate%205%20times303.lua", "https://scriptblox.com/script/Slap-Battles-anti-kick-activate-5-times-9610")
+                                    
