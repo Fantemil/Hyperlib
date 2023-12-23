@@ -31543,5 +31543,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "s Script": {
+        "origin": "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-s-Script-9613",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/s%20Script507.lua",
+        "author": "Uploaded by yonadiesiswoyo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6447798030",
+        "game": true
+    },
+    "Auto player WORKING": {
+        "origin": "https://scriptblox.com/script/MECHANICS-Monday-Morning-Misery-Beta-Auto-player-WORKING-9614",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20player%20WORKING502.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7205641391",
+        "game": true
     }
 }
