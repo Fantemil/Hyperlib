@@ -130,3 +130,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Vestra X ByGay", "Uploaded by Vestra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vestra%20X%20ByGay884.lua", "https://scriptblox.com/script/Arsenal-Vestra-X-ByGay-9496")
                                     
+    addscriptexist(286090429, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub404.lua", "https://scriptblox.com/script/Arsenal-Script-by-Tbao-Hub-9618")
+                                    
