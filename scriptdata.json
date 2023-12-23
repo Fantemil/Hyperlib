@@ -31578,5 +31578,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "sim hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-sim-hub-9619",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sim%20hub592.lua",
+        "author": "Uploaded by roblox_gaming on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Stingray Keyless Autofarm": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Stingray-Keyless-Autofarm-9619",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Keyless%20Autofarm17.lua",
+        "author": "Uploaded by Celestial_Manta on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

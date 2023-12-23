@@ -588,3 +588,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "BF BEST SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BF%20BEST%20SCRIPT535.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-BF-BEST-SCRIPT-9615")
                                     
+    addscriptexist(2753915549, "Stingray Keyless Autofarm", "Uploaded by Celestial_Manta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Keyless%20Autofarm17.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Stingray-Keyless-Autofarm-9619")
+                                    
