@@ -31526,5 +31526,13 @@
         "hub": false,
         "gameid": "142823291",
         "game": true
+    },
+    "Alone X Alexis Universal OP": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Alone-X-Alexis-Universal-OP-9615",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alone%20X%20Alexis%20Universal%20OP235.lua",
+        "author": "Uploaded by smallgames455 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
