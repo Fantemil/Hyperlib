@@ -31570,5 +31570,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "K00pgui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-K00pgui-9617",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pgui705.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
