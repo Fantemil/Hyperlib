@@ -31595,5 +31595,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "AuroraWare Hub": {
+        "origin": "https://scriptblox.com/script/Dungeon-Quest!-RPG-Adventure-AuroraWare-Hub-9618",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AuroraWare%20Hub515.lua",
+        "author": "Uploaded by hereforreal on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2414851778",
+        "game": true
     }
 }
