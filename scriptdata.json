@@ -31604,5 +31604,22 @@
         "hub": false,
         "gameid": "2414851778",
         "game": true
+    },
+    "ADSKer Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ADSKer-Hub-9620",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADSKer%20Hub581.lua",
+        "author": "Uploaded by ADSKer on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Free gamepass": {
+        "origin": "https://scriptblox.com/script/HOURS-Free-gamepass-9619",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass870.lua",
+        "author": "Uploaded by epic123 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5732973455",
+        "game": true
     }
 }
