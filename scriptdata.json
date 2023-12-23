@@ -31561,5 +31561,14 @@
         "hub": false,
         "gameid": "7205641391",
         "game": true
+    },
+    "BF BEST SCRIPT": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-BF-BEST-SCRIPT-9615",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BF%20BEST%20SCRIPT535.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

@@ -586,3 +586,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto tp to  island Collect azure ember etc", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20tp%20to%20%20island%20Collect%20azure%20ember%20etc97.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Auto-tp-to-island-Collect-azure-ember-etc-9612")
                                     
+    addscriptexist(2753915549, "BF BEST SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BF%20BEST%20SCRIPT535.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-BF-BEST-SCRIPT-9615")
+                                    
