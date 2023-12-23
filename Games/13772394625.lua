@@ -552,3 +552,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Visual v10", "Uploaded by yonadiesiswoyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20v10848.lua", "https://scriptblox.com/script/Blade-Ball-Visual-v10-9613")
                                     
+    addscriptexist(13772394625, "Project Y RELEASE", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Y%20RELEASE42.lua", "https://scriptblox.com/script/Blade-Ball-Project-Y-RELEASE-9613")
+                                    
