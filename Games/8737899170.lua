@@ -70,3 +70,5 @@
                                     
     addscriptexist(8737899170, "Ps99 DUPE", "Uploaded by 1oxzi_n on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20DUPE980.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ps99-DUPE-9634")
                                     
+    addscriptexist(8737899170, "Ps99 Opila Hub", "Uploaded by 1oxzi_n on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20Opila%20Hub424.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ps99-OP-hub-9635")
+                                    
