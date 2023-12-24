@@ -76,3 +76,5 @@
                                     
     addscriptexist(8737899170, "PS99 Zero Hub", "Uploaded by TheSmartestScripters on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Zero%20Hub987.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Zero-Hub-9638")
                                     
+    addscriptexist(8737899170, "PS99 Anti Stealer or Anti Gem Stealer", "Uploaded by scriptbloxing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Anti%20Stealer%20or%20Anti%20Gem%20Stealer813.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Anti-Stealer-or-Anti-Gem-Stealer-9646")
+                                    
