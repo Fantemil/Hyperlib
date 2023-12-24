@@ -31645,5 +31645,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Noot noot": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Noot-noot-9624",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noot%20noot753.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
