@@ -31653,5 +31653,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Khub v9": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Khub-v9-9626",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Khub%20v9648.lua",
+        "author": "Uploaded by MaxLovesScripting on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
