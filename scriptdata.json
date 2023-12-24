@@ -31679,5 +31679,13 @@
         "hub": false,
         "gameid": "1554960397",
         "game": true
+    },
+    "ECCS GearGiver": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-GearGiver-9630",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20GearGiver416.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
