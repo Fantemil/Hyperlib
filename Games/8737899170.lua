@@ -68,3 +68,5 @@
                                     
     addscriptexist(8737899170, "Dig Aura", "Uploaded by Fumiko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dig%20Aura408.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Dig-Aura-9615")
                                     
+    addscriptexist(8737899170, "Ps99 DUPE", "Uploaded by 1oxzi_n on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20DUPE980.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ps99-DUPE-9634")
+                                    

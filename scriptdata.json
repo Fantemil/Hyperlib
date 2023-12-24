@@ -31687,5 +31687,40 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Money Farm": {
+        "origin": "https://scriptblox.com/script/SCP-Roleplay-Money-Farm-9633",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Farm970.lua",
+        "author": "Uploaded by zhanzhengOL on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7327499574",
+        "game": true
+    },
+    "Ps99 DUPE": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Ps99-DUPE-9634",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20DUPE980.lua",
+        "author": "Uploaded by 1oxzi_n on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Iskiie Free": {
+        "origin": "https://scriptblox.com/script/Expedition-Antarctica-Iskiie-Free-9631",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iskiie%20Free88.lua",
+        "author": "Uploaded by iskiie on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2693023319",
+        "game": true
+    },
+    "Alchemy Hub V2 Top Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Alchemy-Hub-V2-Top-Script-9632",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20V2%20Top%20Script877.lua",
+        "author": "Uploaded by x2Neptune on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

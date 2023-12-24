@@ -1,0 +1,2 @@
+
+    addscript(7327499574, "Current Game","Money Farm", "Uploaded by zhanzhengOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Farm970.lua", "https://scriptblox.com/script/SCP-Roleplay-Money-Farm-9633")
