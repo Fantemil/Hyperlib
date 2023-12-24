@@ -31731,5 +31731,22 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "ECCS IDExecutor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-IDExecutor-9636",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20IDExecutor723.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Ps99 Infinity Gems": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Ps99-Infinity-Gems-9637",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20Infinity%20Gems926.lua",
+        "author": "Uploaded by 1oxzi_n on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
