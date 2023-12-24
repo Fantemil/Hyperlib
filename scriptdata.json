@@ -31774,5 +31774,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "NOOT NOOT": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NOOT-NOOT-9643",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOOT%20NOOT715.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
