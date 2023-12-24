@@ -31661,5 +31661,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Iskiie Premium": {
+        "origin": "https://scriptblox.com/script/Expedition-Antarctica-Iskiie-Premium-9628",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iskiie%20Premium318.lua",
+        "author": "Uploaded by iskiie on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2693023319",
+        "game": true
     }
 }
