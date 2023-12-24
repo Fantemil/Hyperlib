@@ -74,3 +74,5 @@
                                     
     addscriptexist(8737899170, "Ps99 Infinity Gems", "Uploaded by 1oxzi_n on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20Infinity%20Gems926.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ps99-Infinity-Gems-9637")
                                     
+    addscriptexist(8737899170, "PS99 Zero Hub", "Uploaded by TheSmartestScripters on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Zero%20Hub987.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Zero-Hub-9638")
+                                    
