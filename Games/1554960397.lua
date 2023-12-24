@@ -34,3 +34,5 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                     
     addscriptexist(1554960397, "BEST SCRIPT FOR THISN", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20THISN148.lua", "https://scriptblox.com/script/QUESTS!-Car-Dealership-Tycoon-BEST-SCRIPT-FOR-THISN-9605")
                                     
+    addscriptexist(1554960397, "Find all Gingerbread", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20all%20Gingerbread672.lua", "https://scriptblox.com/script/XMAS!!!-Car-Dealership-Tycoon-Find-all-Gingerbread-9629")
+                                    

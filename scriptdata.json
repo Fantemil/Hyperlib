@@ -31670,5 +31670,14 @@
         "hub": false,
         "gameid": "2693023319",
         "game": true
+    },
+    "Find all Gingerbread": {
+        "origin": "https://scriptblox.com/script/XMAS!!!-Car-Dealership-Tycoon-Find-all-Gingerbread-9629",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20all%20Gingerbread672.lua",
+        "author": "Uploaded by luigipiper124 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1554960397",
+        "game": true
     }
 }
