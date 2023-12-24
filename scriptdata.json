@@ -31799,5 +31799,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Horror Game GUI V2": {
+        "origin": "https://scriptblox.com/script/Residence-Massacre-Horror-Game-GUI-V2-9648",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horror%20Game%20GUI%20V2381.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14437001043",
+        "game": true
     }
 }
