@@ -31765,5 +31765,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Dragon Hub blux": {
+        "origin": "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Dragon-Hub-blux-9638",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Hub%20blux375.lua",
+        "author": "Uploaded by aninhasscabral on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
