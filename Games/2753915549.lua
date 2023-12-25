@@ -592,3 +592,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Dragon Hub blux", "Uploaded by aninhasscabral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Hub%20blux375.lua", "https://scriptblox.com/script/KITSUNE-Blox-Fruits-Dragon-Hub-blux-9638")
                                     
+    addscriptexist(2753915549, "BEST KITSUNE BF SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20KITSUNE%20BF%20SCRIPT837.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-BEST-KITSUNE-BF-SCRIPT-9657")
+                                    

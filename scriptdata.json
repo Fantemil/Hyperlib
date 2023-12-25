@@ -31967,5 +31967,22 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "BEST KITSUNE BF SCRIPT": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-BEST-KITSUNE-BF-SCRIPT-9657",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20KITSUNE%20BF%20SCRIPT837.lua",
+        "author": "Uploaded by Damech on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Mobile Compatible Kavo Library": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mobile-Compatible-Kavo-Library-9656",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Compatible%20Kavo%20Library128.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
