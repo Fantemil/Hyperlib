@@ -80,3 +80,5 @@
                                     
     addscriptexist(8737899170, "Pe99", "Uploaded by pro2abc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pe99929.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Pe99-9653")
                                     
+    addscriptexist(8737899170, "Syrex Hub", "Uploaded by gerisx2009 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub40.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Syrex-Hub-9657")
+                                    

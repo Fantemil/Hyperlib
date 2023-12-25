@@ -31869,5 +31869,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Syrex Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Syrex-Hub-9657",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub40.lua",
+        "author": "Uploaded by gerisx2009 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
