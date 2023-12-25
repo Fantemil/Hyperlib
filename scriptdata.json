@@ -31808,5 +31808,14 @@
         "hub": false,
         "gameid": "14437001043",
         "game": true
+    },
+    "Free admin GUI": {
+        "origin": "https://scriptblox.com/script/FREE-ADMIN-Free-admin-GUI-9649",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20admin%20GUI302.lua",
+        "author": "Uploaded by ADSKer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4522347649",
+        "game": true
     }
 }
