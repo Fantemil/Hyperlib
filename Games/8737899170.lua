@@ -88,3 +88,9 @@
                                     
     addscriptexist(8737899170, "Mailbox Dupe", "Uploaded by gus_fring on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mailbox%20Dupe236.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Mailbox-Dupe-9655")
                                     
+    addscriptexist(8737899170, "Ryzen Hub", "Uploaded by gus_fring on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ryzen%20Hub629.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ryzen-Hub-9655")
+                                    
+    addscriptexist(8737899170, "ReDzHubUPDATE", "Uploaded by Kraiw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ReDzHubUPDATE777.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ReDzHubUPDATE-9656")
+                                    
+    addscriptexist(8737899170, "Booth Sniper", "Uploaded by gus_fring on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booth%20Sniper984.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Booth-Sniper-9656")
+                                    

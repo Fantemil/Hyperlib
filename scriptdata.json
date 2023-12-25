@@ -31940,5 +31940,32 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Ryzen Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Ryzen-Hub-9655",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ryzen%20Hub629.lua",
+        "author": "Uploaded by gus_fring on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "ReDzHubUPDATE": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-ReDzHubUPDATE-9656",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ReDzHubUPDATE777.lua",
+        "author": "Uploaded by Kraiw on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Booth Sniper": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Booth-Sniper-9656",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booth%20Sniper984.lua",
+        "author": "Uploaded by gus_fring on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

