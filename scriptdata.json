@@ -31896,5 +31896,14 @@
         "hub": false,
         "gameid": "7383940757",
         "game": true
+    },
+    "Event script for Candy": {
+        "origin": "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-Event-script-for-Candy-9660",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Event%20script%20for%20Candy82.lua",
+        "author": "Uploaded by shresthasachin710 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3351674303",
+        "game": true
     }
 }

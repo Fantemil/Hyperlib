@@ -26,3 +26,5 @@ addscriptexist(3351674303, "Driving Empire Overpowered Autofarm Car Mods Arrest 
                                     
     addscriptexist(3351674303, "OVERPOWERED AUTOFARM EARN MILLIONS", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OVERPOWERED%20AUTOFARM%20EARN%20MILLIONS303.lua", "https://scriptblox.com/script/NEW-Driving-Empire-OVERPOWERED-AUTOFARM-EARN-MILLIONS-8056")
                                     
+    addscriptexist(3351674303, "Event script for Candy", "Uploaded by shresthasachin710 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Event%20script%20for%20Candy82.lua", "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-Event-script-for-Candy-9660")
+                                    
