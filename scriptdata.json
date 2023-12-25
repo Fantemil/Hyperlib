@@ -31843,5 +31843,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Pe99": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Pe99-9653",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pe99929.lua",
+        "author": "Uploaded by pro2abc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
