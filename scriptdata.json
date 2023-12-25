@@ -31861,5 +31861,13 @@
         "hub": false,
         "gameid": "6125809531",
         "game": true
+    },
+    "Key System Linkvertise and WorkInk": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Key-System-(Linkvertise-and-Work.Ink)-9656",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Key%20System%20Linkvertise%20and%20WorkInk6.lua",
+        "author": "Uploaded by fndotgg on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
