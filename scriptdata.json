@@ -31905,5 +31905,13 @@
         "hub": false,
         "gameid": "3351674303",
         "game": true
+    },
+    "Zekrom Hub X Script Keyless Blox Fruit Merry christmas": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Zekrom-Hub-X-Script-Keyless-Blox-Fruit-Merry-christmas-9661",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20Script%20Keyless%20Blox%20Fruit%20Merry%20christmas663.lua",
+        "author": "Uploaded by ahmadsgamer2 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
