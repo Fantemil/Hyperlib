@@ -31931,5 +31931,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Mailbox Dupe": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Mailbox-Dupe-9655",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mailbox%20Dupe236.lua",
+        "author": "Uploaded by gus_fring on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

@@ -86,3 +86,5 @@
                                     
     addscriptexist(8737899170, "KyrtexHub", "Uploaded by pro2abc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KyrtexHub54.lua", "https://scriptblox.com/script/Pet-Simulator-99!-KyrtexHub-9656")
                                     
+    addscriptexist(8737899170, "Mailbox Dupe", "Uploaded by gus_fring on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mailbox%20Dupe236.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Mailbox-Dupe-9655")
+                                    
