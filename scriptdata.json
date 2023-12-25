@@ -31922,5 +31922,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "KyrtexHub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-KyrtexHub-9656",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KyrtexHub54.lua",
+        "author": "Uploaded by pro2abc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

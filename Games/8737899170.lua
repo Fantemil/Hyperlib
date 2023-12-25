@@ -84,3 +84,5 @@
                                     
     addscriptexist(8737899170, "Ultra Farm Script", "Uploaded by gus_fring on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra%20Farm%20Script477.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ultra-Farm-Script-9662")
                                     
+    addscriptexist(8737899170, "KyrtexHub", "Uploaded by pro2abc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KyrtexHub54.lua", "https://scriptblox.com/script/Pet-Simulator-99!-KyrtexHub-9656")
+                                    
