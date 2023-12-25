@@ -1,0 +1,2 @@
+
+    addscript(6804092388, "Current Game","Rogue V5 script raw", "Uploaded by Tylermyusernameisth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20V5%20script%20raw800.lua", "https://scriptblox.com/script/Jack-is-gone-(NEW-GUI!)-Rogue-V5-script-raw-9650")

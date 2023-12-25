@@ -31817,5 +31817,22 @@
         "hub": false,
         "gameid": "4522347649",
         "game": true
+    },
+    "Rogue V5 script raw": {
+        "origin": "https://scriptblox.com/script/Jack-is-gone-(NEW-GUI!)-Rogue-V5-script-raw-9650",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20V5%20script%20raw800.lua",
+        "author": "Uploaded by Tylermyusernameisth on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6804092388",
+        "game": true
+    },
+    "Rogue Script IIWUBEGIUBW": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Rogue-Script-IIWUBEGIUBW-9651",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rogue%20Script%20IIWUBEGIUBW601.lua",
+        "author": "Uploaded by Tylermyusernameisth on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
