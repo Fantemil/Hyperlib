@@ -31878,5 +31878,23 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Unlock all gamepasses": {
+        "origin": "https://scriptblox.com/script/HOURS-Unlock-all-gamepasses-9659",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20all%20gamepasses695.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5732973455",
+        "game": true
+    },
+    "Tora": {
+        "origin": "https://scriptblox.com/script/Big-Arm-Battle-Tora-9658",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tora103.lua",
+        "author": "Uploaded by Ijustknow on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7383940757",
+        "game": true
     }
 }

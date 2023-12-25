@@ -1,0 +1,2 @@
+
+    addscript(7383940757, "Current Game","Tora", "Uploaded by Ijustknow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tora103.lua", "https://scriptblox.com/script/Big-Arm-Battle-Tora-9658")

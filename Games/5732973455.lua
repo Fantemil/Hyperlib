@@ -4,3 +4,5 @@ addscriptexist(5732973455, "Stat Editor", "Uploaded by Tabletopjiver on scriptbl
                                 
     addscriptexist(5732973455, "Free gamepass", "Uploaded by epic123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass870.lua", "https://scriptblox.com/script/HOURS-Free-gamepass-9619")
                                     
+    addscriptexist(5732973455, "Unlock all gamepasses", "Uploaded by Tabletopjiver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20all%20gamepasses695.lua", "https://scriptblox.com/script/HOURS-Unlock-all-gamepasses-9659")
+                                    
