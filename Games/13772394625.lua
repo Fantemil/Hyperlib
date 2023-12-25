@@ -554,3 +554,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Project Y RELEASE", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Y%20RELEASE42.lua", "https://scriptblox.com/script/Blade-Ball-Project-Y-RELEASE-9613")
                                     
+    addscriptexist(13772394625, "Auto Parry No Hax V2", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20No%20Hax%20V2107.lua", "https://scriptblox.com/script/1-HOUR-Blade-Ball-Auto-Parry-No-Hax-V2-9652")
+                                    
