@@ -32081,5 +32081,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Haxker666 Script hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Haxker666-Script-hub-9666",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Haxker666%20Script%20hub340.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
