@@ -32072,5 +32072,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Script chest farm by Tbao Hub": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-chest-farm-by-Tbao-Hub-9665",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20chest%20farm%20by%20Tbao%20Hub74.lua",
+        "author": "Uploaded by TbaoHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
