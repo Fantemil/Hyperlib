@@ -94,3 +94,5 @@
                                     
     addscriptexist(8737899170, "Booth Sniper", "Uploaded by gus_fring on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booth%20Sniper984.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Booth-Sniper-9656")
                                     
+    addscriptexist(8737899170, "RedzHub", "Uploaded by Test on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub834.lua", "https://scriptblox.com/script/Pet-Simulator-99!-RedzHub-9664")
+                                    

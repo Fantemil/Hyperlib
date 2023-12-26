@@ -32055,5 +32055,22 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Executor Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Executor-Hub-9663",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Executor%20Hub759.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "RedzHub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-RedzHub-9664",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub834.lua",
+        "author": "Uploaded by Test on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
