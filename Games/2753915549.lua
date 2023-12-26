@@ -594,3 +594,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "BEST KITSUNE BF SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20KITSUNE%20BF%20SCRIPT837.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-BEST-KITSUNE-BF-SCRIPT-9657")
                                     
+    addscriptexist(2753915549, "Alchemy Hub V2 Christmas Update", "Uploaded by x2Neptune on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20V2%20Christmas%20Update354.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Alchemy-Hub-V2-Christmas-Update-9662")
+                                    
