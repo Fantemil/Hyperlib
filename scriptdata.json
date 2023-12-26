@@ -32010,5 +32010,14 @@
         "hub": false,
         "gameid": "3351674303",
         "game": true
+    },
+    "Snowflakes Farm": {
+        "origin": "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-Snowflakes-Farm-9663",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowflakes%20Farm80.lua",
+        "author": "Uploaded by luigipiper124 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3351674303",
+        "game": true
     }
 }

@@ -30,3 +30,5 @@ addscriptexist(3351674303, "Driving Empire Overpowered Autofarm Car Mods Arrest 
                                     
     addscriptexist(3351674303, "WINTERFEST AUTOFARM", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WINTERFEST%20AUTOFARM782.lua", "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-WINTERFEST-AUTOFARM-9662")
                                     
+    addscriptexist(3351674303, "Snowflakes Farm", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowflakes%20Farm80.lua", "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-Snowflakes-Farm-9663")
+                                    
