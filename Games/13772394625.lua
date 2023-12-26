@@ -558,3 +558,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto Collect Socks", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Socks936.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Collect-Socks-9663")
                                     
+    addscriptexist(13772394625, "OP Script with Auto Parry", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20with%20Auto%20Parry921.lua", "https://scriptblox.com/script/UPD-Blade-Ball-OP-Script-with-Auto-Parry-9662")
+                                    
