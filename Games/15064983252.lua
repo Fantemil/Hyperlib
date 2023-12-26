@@ -1,0 +1,2 @@
+
+    addscript(15064983252, "Current Game","Auto bubble points", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20bubble%20points732.lua", "https://scriptblox.com/script/FREE-UGC-the-circle-game-Auto-bubble-points-9664")

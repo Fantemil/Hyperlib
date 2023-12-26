@@ -32019,5 +32019,14 @@
         "hub": false,
         "gameid": "3351674303",
         "game": true
+    },
+    "Auto bubble points": {
+        "origin": "https://scriptblox.com/script/FREE-UGC-the-circle-game-Auto-bubble-points-9664",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20bubble%20points732.lua",
+        "author": "Uploaded by luigipiper124 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15064983252",
+        "game": true
     }
 }
