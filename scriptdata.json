@@ -32001,5 +32001,14 @@
         "hub": false,
         "gameid": "13775256536",
         "game": true
+    },
+    "WINTERFEST AUTOFARM": {
+        "origin": "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-WINTERFEST-AUTOFARM-9662",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WINTERFEST%20AUTOFARM782.lua",
+        "author": "Uploaded by zerticzy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3351674303",
+        "game": true
     }
 }
