@@ -32089,5 +32089,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "C00lkidd revivial": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lkidd-revivial-9664",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lkidd%20revivial967.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
