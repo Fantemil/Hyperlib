@@ -556,3 +556,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto Parry No Hax V2", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20No%20Hax%20V2107.lua", "https://scriptblox.com/script/1-HOUR-Blade-Ball-Auto-Parry-No-Hax-V2-9652")
                                     
+    addscriptexist(13772394625, "Auto Collect Socks", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Socks936.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Collect-Socks-9663")
+                                    
