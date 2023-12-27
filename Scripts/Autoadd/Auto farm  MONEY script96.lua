@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alech01/Scripts-Randoms/main/OP%20BLOXFRUIT%20FARM"))()

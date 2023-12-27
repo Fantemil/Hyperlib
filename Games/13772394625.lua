@@ -564,3 +564,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Darkrai Hub V2", "Uploaded by Darkrai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkrai%20Hub%20V2932.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Darkrai-Hub-V2-9667")
                                     
+    addscriptexist(13772394625, "AUTO PARRY OP CHRISTMAST", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20PARRY%20OP%20CHRISTMAST235.lua", "https://scriptblox.com/script/UPD-Blade-Ball-AUTO-PARRY-OP-CHRISTMAST-9671")
+                                    

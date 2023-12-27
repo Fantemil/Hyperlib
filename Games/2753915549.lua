@@ -598,3 +598,9 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Script chest farm by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20chest%20farm%20by%20Tbao%20Hub74.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-chest-farm-by-Tbao-Hub-9665")
                                     
+    addscriptexist(2753915549, "Auto farm  MONEY script", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20%20MONEY%20script96.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Auto-farm-MONEY-script-9670")
+                                    
+    addscriptexist(2753915549, "Op Auto farm Christmast script", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Auto%20farm%20Christmast%20script906.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Op-Auto-farm-Christmast-script-9669")
+                                    
+    addscriptexist(2753915549, "AUTO FARM CHEST OP", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20CHEST%20OP377.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-AUTO-FARM-CHEST-OP-9672")
+                                    

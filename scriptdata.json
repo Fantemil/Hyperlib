@@ -32124,5 +32124,41 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "AUTO PARRY OP CHRISTMAST": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-AUTO-PARRY-OP-CHRISTMAST-9671",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20PARRY%20OP%20CHRISTMAST235.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Auto farm  MONEY script": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Auto-farm-MONEY-script-9670",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20%20MONEY%20script96.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Op Auto farm Christmast script": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Op-Auto-farm-Christmast-script-9669",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Auto%20farm%20Christmast%20script906.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "AUTO FARM CHEST OP": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-AUTO-FARM-CHEST-OP-9672",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20CHEST%20OP377.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
