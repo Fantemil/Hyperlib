@@ -32194,5 +32194,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "GanjaHub Best auto farm": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-Best-auto-farm-9677",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20Best%20auto%20farm293.lua",
+        "author": "Uploaded by Miu_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Auto Farm Faster": {
+        "origin": "https://scriptblox.com/script/GRAND-UPDATE-Untitled-Attack-on-Titan-Auto-Farm-Faster-9678",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Faster272.lua",
+        "author": "Uploaded by 0rya on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6125809531",
+        "game": true
     }
 }

@@ -98,3 +98,5 @@
                                     
     addscriptexist(8737899170, "AUTO FARM GEMS AND COINS AND EGG", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20GEMS%20AND%20COINS%20AND%20EGG876.lua", "https://scriptblox.com/script/Pet-Simulator-99!-AUTO-FARM-GEMS-AND-COINS-AND-EGG-9674")
                                     
+    addscriptexist(8737899170, "GanjaHub Best auto farm", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20Best%20auto%20farm293.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-Best-auto-farm-9677")
+                                    
