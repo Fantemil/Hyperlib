@@ -32178,5 +32178,21 @@
         "hub": false,
         "gameid": "15064983252",
         "game": true
+    },
+    "teke": {
+        "origin": "https://scriptblox.com/script/Universal-Script-teke-9676",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/teke23.lua",
+        "author": "Uploaded by vrmvrmilliondvourer on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Aloneo Universal V4": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Aloneo-Universal-V4-9675",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aloneo%20Universal%20V4655.lua",
+        "author": "Uploaded by Untitled on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
