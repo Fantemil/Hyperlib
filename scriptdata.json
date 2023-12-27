@@ -32106,5 +32106,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Project Y": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Project-Y-9666",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Y49.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Darkrai Hub V2": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Darkrai-Hub-V2-9667",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkrai%20Hub%20V2932.lua",
+        "author": "Uploaded by Darkrai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

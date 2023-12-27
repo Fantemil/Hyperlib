@@ -562,3 +562,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Lots of cool features", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lots%20of%20cool%20features252.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Lots-of-cool-features-9666")
                                     
+    addscriptexist(13772394625, "Darkrai Hub V2", "Uploaded by Darkrai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkrai%20Hub%20V2932.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Darkrai-Hub-V2-9667")
+                                    
