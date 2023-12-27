@@ -32097,5 +32097,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Lots of cool features": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Lots-of-cool-features-9666",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lots%20of%20cool%20features252.lua",
+        "author": "Uploaded by SugarBlox on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
