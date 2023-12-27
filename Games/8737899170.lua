@@ -100,3 +100,9 @@
                                     
     addscriptexist(8737899170, "GanjaHub Best auto farm", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20Best%20auto%20farm293.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-Best-auto-farm-9677")
                                     
+    addscriptexist(8737899170, "Auto Orb and Lootbags no visual", "Uploaded by TWOPARTGAMER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Orb%20and%20Lootbags%20no%20visual785.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Orb-and-Lootbags-no-visual-9676")
+                                    
+    addscriptexist(8737899170, "Ganja Hub", "Uploaded by kedum063 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ganja%20Hub311.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ganja-Hub-9677")
+                                    
+    addscriptexist(8737899170, "Redz Hub", "Uploaded by kedum063 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub475.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Redz-Hub-9678")
+                                    

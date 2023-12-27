@@ -32212,5 +32212,23 @@
         "hub": false,
         "gameid": "6125809531",
         "game": true
+    },
+    "Auto Orb and Lootbags no visual": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Orb-and-Lootbags-no-visual-9676",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Orb%20and%20Lootbags%20no%20visual785.lua",
+        "author": "Uploaded by TWOPARTGAMER on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Ganja Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Ganja-Hub-9677",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ganja%20Hub311.lua",
+        "author": "Uploaded by kedum063 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
