@@ -74,3 +74,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "BEST SCRIPT FOR BH", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20BH778.lua", "https://scriptblox.com/script/Brookhaven-RP-BEST-SCRIPT-FOR-BH-9604")
                                     
+    addscriptexist(4924922222, "Good script with Trolling", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20script%20with%20Trolling694.lua", "https://scriptblox.com/script/Brookhaven-RP-Good-script-with-Trolling-9684")
+                                    
