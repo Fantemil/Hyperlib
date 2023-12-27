@@ -568,3 +568,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Op   script", "Uploaded by ssiu2141 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20%20script659.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Op-script-9680")
                                     
+    addscriptexist(13772394625, "ZaHub The Best Script       2500 Stocking per Hour", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZaHub%20The%20Best%20Script%20%20%20%20%20%20%202500%20Stocking%20per%20Hour567.lua", "https://scriptblox.com/script/UPD-Blade-Ball-ZaHub-The-Best-Script-2500-Stocking-per-Hour-9685")
+                                    
