@@ -106,3 +106,5 @@
                                     
     addscriptexist(8737899170, "Redz Hub", "Uploaded by kedum063 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub475.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Redz-Hub-9678")
                                     
+    addscriptexist(8737899170, "ZapHub The Best Script VERY OP Auto Farm", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20Script%20VERY%20OP%20Auto%20Farm97.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZapHub-The-Best-Script-VERY-OP-Auto-Farm-9688")
+                                    
