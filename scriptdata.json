@@ -32230,5 +32230,31 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Zekrom Hub X V1 BEST TOP Blox fruit Keyless EVENT": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Zekrom-Hub-X-V1-BEST-TOP-Blox-fruit-Keyless-EVENT-9678",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20V1%20BEST%20TOP%20Blox%20fruit%20Keyless%20EVENT479.lua",
+        "author": "Uploaded by ahmadsgamer2 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Cola spawner": {
+        "origin": "https://scriptblox.com/script/Elevator-of-Fun-Cola-spawner-9679",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cola%20spawner24.lua",
+        "author": "Uploaded by Minkasig on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7697611744",
+        "game": true
+    },
+    "Very OP Auto Farm": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Very-OP-Auto-Farm-9677",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Auto%20Farm532.lua",
+        "author": "Uploaded by SugarBlox on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

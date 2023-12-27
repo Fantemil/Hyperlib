@@ -604,3 +604,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "AUTO FARM CHEST OP", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20CHEST%20OP377.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-AUTO-FARM-CHEST-OP-9672")
                                     
+    addscriptexist(2753915549, "Very OP Auto Farm", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Auto%20Farm532.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Very-OP-Auto-Farm-9677")
+                                    
