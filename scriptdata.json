@@ -32520,5 +32520,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Fe Music Hub V1": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-Music-Hub-V1-9712",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20Music%20Hub%20V1212.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
