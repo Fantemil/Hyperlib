@@ -32327,5 +32327,13 @@
         "hub": false,
         "gameid": "15367026228",
         "game": true
+    },
+    "Link To Loadstring Converter": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Link-To-Loadstring-Converter-9689",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Link%20To%20Loadstring%20Converter985.lua",
+        "author": "Uploaded by Nejavo on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
