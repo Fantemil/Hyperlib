@@ -32528,5 +32528,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Universal Hitbox Expander": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-Hitbox-Expander-9711",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Hitbox%20Expander356.lua",
+        "author": "Uploaded by nefy111 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Fe fly Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-fly-Script-9712",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20fly%20Script505.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
