@@ -32371,5 +32371,23 @@
         "hub": false,
         "gameid": "5149673492",
         "game": true
+    },
+    "Nexus Kaitun": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Nexus-Kaitun-9695",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nexus%20Kaitun422.lua",
+        "author": "Uploaded by XuanAnn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Auto Farm Chest Mirage  Island Very Fast": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Auto-Farm-Chest-Mirage-Island-Very-Fast-9694",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Chest%20Mirage%20%20Island%20Very%20Fast521.lua",
+        "author": "Uploaded by mcthekarn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
