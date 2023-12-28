@@ -32494,5 +32494,31 @@
         "hub": false,
         "gameid": "185655149",
         "game": true
+    },
+    "Fe seizure works in all games": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-seizure-works-in-all-games-9709",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20seizure%20works%20in%20all%20games554.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "auto play WORKING": {
+        "origin": "https://scriptblox.com/script/XMAS-2023-or-Funky-Friday-auto-play-WORKING-9711",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20play%20WORKING15.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6447798030",
+        "game": true
+    },
+    "ZEKROM": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-ZEKROM-9710",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEKROM545.lua",
+        "author": "Uploaded by Asamai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

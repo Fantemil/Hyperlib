@@ -24,3 +24,5 @@ addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonw
                                     
     addscriptexist(6447798030, "s Script", "Uploaded by yonadiesiswoyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/s%20Script507.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-s-Script-9613")
                                     
+    addscriptexist(6447798030, "auto play WORKING", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20play%20WORKING15.lua", "https://scriptblox.com/script/XMAS-2023-or-Funky-Friday-auto-play-WORKING-9711")
+                                    

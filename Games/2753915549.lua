@@ -624,3 +624,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Mtriet Hub NO KEY", "Uploaded by XuanAnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mtriet%20Hub%20NO%20KEY169.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Mtriet-Hub-NO-KEY-9698")
                                     
+    addscriptexist(2753915549, "ZEKROM", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEKROM545.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-ZEKROM-9710")
+                                    
