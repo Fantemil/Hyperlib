@@ -32407,5 +32407,32 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Mtriet Hub Auto Chest NO KEY": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Mtriet-Hub-Auto-Chest-NO-KEY-9699",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mtriet%20Hub%20Auto%20Chest%20NO%20KEY329.lua",
+        "author": "Uploaded by XuanAnn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Kanon Hub": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Kanon-Hub-9700",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kanon%20Hub849.lua",
+        "author": "Uploaded by Soicodoc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Mtriet Hub NO KEY": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Mtriet-Hub-NO-KEY-9698",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mtriet%20Hub%20NO%20KEY169.lua",
+        "author": "Uploaded by XuanAnn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

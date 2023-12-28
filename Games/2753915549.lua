@@ -618,3 +618,9 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Script Tsua Hub", "Uploaded by VT_Gaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Tsua%20Hub689.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-Tsua-Hub-9696")
                                     
+    addscriptexist(2753915549, "Mtriet Hub Auto Chest NO KEY", "Uploaded by XuanAnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mtriet%20Hub%20Auto%20Chest%20NO%20KEY329.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Mtriet-Hub-Auto-Chest-NO-KEY-9699")
+                                    
+    addscriptexist(2753915549, "Kanon Hub", "Uploaded by Soicodoc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kanon%20Hub849.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Kanon-Hub-9700")
+                                    
+    addscriptexist(2753915549, "Mtriet Hub NO KEY", "Uploaded by XuanAnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mtriet%20Hub%20NO%20KEY169.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Mtriet-Hub-NO-KEY-9698")
+                                    

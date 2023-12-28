@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/NeyuDev/Kanon-Hub/main/bloxfruit.lua'))()
