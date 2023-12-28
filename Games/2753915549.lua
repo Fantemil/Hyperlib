@@ -614,3 +614,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto Farm Chest Mirage  Island Very Fast", "Uploaded by mcthekarn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Chest%20Mirage%20%20Island%20Very%20Fast521.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Auto-Farm-Chest-Mirage-Island-Very-Fast-9694")
                                     
+    addscriptexist(2753915549, "Vair Kaitun", "Uploaded by XuanAnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vair%20Kaitun704.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Vair-Kaitun-9697")
+                                    
+    addscriptexist(2753915549, "Script Tsua Hub", "Uploaded by VT_Gaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Tsua%20Hub689.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-Tsua-Hub-9696")
+                                    

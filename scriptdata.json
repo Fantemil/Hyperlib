@@ -32389,5 +32389,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Vair Kaitun": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Vair-Kaitun-9697",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vair%20Kaitun704.lua",
+        "author": "Uploaded by XuanAnn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Script Tsua Hub": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-Tsua-Hub-9696",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Tsua%20Hub689.lua",
+        "author": "Uploaded by VT_Gaming on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
