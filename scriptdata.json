@@ -32452,5 +32452,21 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "c00lgui f3x fe": {
+        "origin": "https://scriptblox.com/script/Universal-Script-c00lgui-f3x-fe-9705",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui%20f3x%20fe833.lua",
+        "author": "Uploaded by c00lkidd3 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Zekrom Hub X Chest Farm Keyless BEST TOP": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Zekrom-Hub-X-Chest-Farm-Keyless-BEST-TOP-9704",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20Chest%20Farm%20Keyless%20BEST%20TOP882.lua",
+        "author": "Uploaded by ahmadsgamer2 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
