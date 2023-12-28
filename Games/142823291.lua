@@ -156,3 +156,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Snow Coins Farm", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Coins%20Farm850.lua", "https://scriptblox.com/script/Murder-Mystery-2-Snow-Coins-Farm-9614")
                                     
+    addscriptexist(142823291, "Eclipse hub", "Uploaded by bigcupofsugar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20hub452.lua", "https://scriptblox.com/script/Murder-Mystery-2-Eclipse-hub-9713")
+                                    

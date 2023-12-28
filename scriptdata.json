@@ -32544,5 +32544,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Eclipse hub": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Eclipse-hub-9713",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20hub452.lua",
+        "author": "Uploaded by bigcupofsugar on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }
