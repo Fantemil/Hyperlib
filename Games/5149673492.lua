@@ -1,0 +1,2 @@
+
+    addscript(5149673492, "Current Game","instant kill", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/instant%20kill681.lua", "https://scriptblox.com/script/Build-to-survive-the-Bombs!-instant-kill-9693")
