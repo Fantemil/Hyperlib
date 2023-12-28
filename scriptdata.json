@@ -32335,5 +32335,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Script Auto Parry": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Script-Auto-Parry-9692",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Parry643.lua",
+        "author": "Uploaded by VT_Gaming on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
