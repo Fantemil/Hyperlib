@@ -32468,5 +32468,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Fe btools script for prison life": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-btools-script-for-prison-life-9706",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20btools%20script%20for%20prison%20life675.lua",
+        "author": "Uploaded by Simon73878729 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "script my discord is ScriptSorcerer": {
+        "origin": "https://scriptblox.com/script/Bee-Swarm-Simulator-Wackiness-script-my-discord-is-ScriptSorcerer-9707",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20my%20discord%20is%20ScriptSorcerer792.lua",
+        "author": "Uploaded by Koth_exp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13597617398",
+        "game": true
     }
 }
