@@ -32485,5 +32485,14 @@
         "hub": false,
         "gameid": "13597617398",
         "game": true
+    },
+    "AuBlox Aufarm WEB  UWP": {
+        "origin": "https://scriptblox.com/script/Welcome-to-Bloxburg-AuBlox-Aufarm-ol-9708",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AuBlox%20Aufarm%20WEB%20%20UWP405.lua",
+        "author": "Uploaded by georgegameplay45 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "185655149",
+        "game": true
     }
 }
