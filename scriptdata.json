@@ -32434,5 +32434,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Requested script": {
+        "origin": "https://scriptblox.com/script/Event-UPD!-Chest-Hero-Simulator-Requested-script-9702",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Requested%20script782.lua",
+        "author": "Uploaded by FahriScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14047294951",
+        "game": true
+    },
+    "Mobile Script": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Mobile-Script-9701",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Script552.lua",
+        "author": "Uploaded by SugarBlox on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }

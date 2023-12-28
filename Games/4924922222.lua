@@ -76,3 +76,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Good script with Trolling", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20script%20with%20Trolling694.lua", "https://scriptblox.com/script/Brookhaven-RP-Good-script-with-Trolling-9684")
                                     
+    addscriptexist(4924922222, "Mobile Script", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Script552.lua", "https://scriptblox.com/script/Brookhaven-RP-Mobile-Script-9701")
+                                    
