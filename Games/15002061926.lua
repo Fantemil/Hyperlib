@@ -4,3 +4,5 @@
                                     
     addscriptexist(15002061926, "Auto Parry", "Uploaded by forjusticefighter66 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry509.lua", "https://scriptblox.com/script/Death-Ball-Auto-Parry-9668")
                                     
+    addscriptexist(15002061926, "MOST INSANE DB SCRIPT", "Uploaded by opcoded on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOST%20INSANE%20DB%20SCRIPT857.lua", "https://scriptblox.com/script/Death-Ball-ER-x-MOST-INSANE-DB-SCRIPT-9711")
+                                    

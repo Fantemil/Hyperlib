@@ -1,0 +1,2 @@
+
+    addscript(12325461683, "Current Game","KILL AURA INFINITE STATS AND OTHER OP FUNCTION", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20AURA%20INFINITE%20STATS%20AND%20OTHER%20OP%20FUNCTION879.lua", "https://scriptblox.com/script/RE-RELEASE-Grand-Kaizen-KILL-AURA-INFINITE-STATS-AND-OTHER-OP-FONCTION-9710")

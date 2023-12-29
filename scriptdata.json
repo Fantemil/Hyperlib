@@ -32669,5 +32669,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "MOST INSANE DB SCRIPT": {
+        "origin": "https://scriptblox.com/script/Death-Ball-ER-x-MOST-INSANE-DB-SCRIPT-9711",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOST%20INSANE%20DB%20SCRIPT857.lua",
+        "author": "Uploaded by opcoded on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15002061926",
+        "game": true
+    },
+    "KILL AURA INFINITE STATS AND OTHER OP FUNCTION": {
+        "origin": "https://scriptblox.com/script/RE-RELEASE-Grand-Kaizen-KILL-AURA-INFINITE-STATS-AND-OTHER-OP-FONCTION-9710",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20AURA%20INFINITE%20STATS%20AND%20OTHER%20OP%20FUNCTION879.lua",
+        "author": "Uploaded by DinoZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12325461683",
+        "game": true
     }
 }
