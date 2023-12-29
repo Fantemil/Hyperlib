@@ -626,3 +626,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "ZEKROM", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEKROM545.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-ZEKROM-9710")
                                     
+    addscriptexist(2753915549, "Script Bug Hub", "Uploaded by VT_Gaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Bug%20Hub153.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-Bug-Hub-9716")
+                                    

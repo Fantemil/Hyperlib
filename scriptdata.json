@@ -32571,5 +32571,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Script Bug Hub": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Script-Bug-Hub-9716",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Bug%20Hub153.lua",
+        "author": "Uploaded by VT_Gaming on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
