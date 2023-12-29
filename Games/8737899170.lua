@@ -108,3 +108,5 @@
                                     
     addscriptexist(8737899170, "ZapHub The Best Script VERY OP Auto Farm", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20Script%20VERY%20OP%20Auto%20Farm97.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZapHub-The-Best-Script-VERY-OP-Auto-Farm-9688")
                                     
+    addscriptexist(8737899170, "GanjaHub OP script inf coins", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20OP%20script%20inf%20coins432.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-OP-script-inf-coins-9715")
+                                    
