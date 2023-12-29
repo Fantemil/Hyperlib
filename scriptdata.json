@@ -32625,5 +32625,31 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Ultimate Hub V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ultimate-Hub-V2-9718",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Hub%20V2211.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "REDzHUB update": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-REDzHUB-update-9717",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDzHUB%20update689.lua",
+        "author": "Uploaded by Calu_dan on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "FluxHUB V1": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-FluxHUB-V1-9719",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FluxHUB%20V1587.lua",
+        "author": "Uploaded by Merchant on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
     }
 }

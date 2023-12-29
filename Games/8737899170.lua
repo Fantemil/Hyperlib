@@ -112,3 +112,5 @@
                                     
     addscriptexist(8737899170, "Admin GUI", "Uploaded by pasaoapoto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20GUI864.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Admin-GUI-9715")
                                     
+    addscriptexist(8737899170, "REDzHUB update", "Uploaded by Calu_dan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDzHUB%20update689.lua", "https://scriptblox.com/script/Pet-Simulator-99!-REDzHUB-update-9717")
+                                    
