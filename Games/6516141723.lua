@@ -88,3 +88,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "script I guess", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20I%20guess863.lua", "https://scriptblox.com/script/DOORS-script-I-guess-9444")
                                     
+    addscriptexist(6516141723, "Chiba Hub Script", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chiba%20Hub%20Script509.lua", "https://scriptblox.com/script/DOORS-Chiba-Hub-Script-9714")
+                                    

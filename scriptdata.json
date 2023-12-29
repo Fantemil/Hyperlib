@@ -32553,5 +32553,14 @@
         "hub": false,
         "gameid": "142823291",
         "game": true
+    },
+    "Chiba Hub Script": {
+        "origin": "https://scriptblox.com/script/DOORS-Chiba-Hub-Script-9714",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chiba%20Hub%20Script509.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6516141723",
+        "game": true
     }
 }
