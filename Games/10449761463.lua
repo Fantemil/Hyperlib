@@ -36,3 +36,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "No stun super speed", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20stun%20super%20speed496.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-No-stun-super-speed-9378")
                                     
+    addscriptexist(10449761463, "Very usefull script for Farming", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20usefull%20script%20for%20Farming44.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Very-usefull-script-for-Farming-9718")
+                                    

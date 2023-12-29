@@ -32589,5 +32589,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Very usefull script for Farming": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-Very-usefull-script-for-Farming-9718",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20usefull%20script%20for%20Farming44.lua",
+        "author": "Uploaded by SugarBlox on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
     }
 }
