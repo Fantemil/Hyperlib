@@ -32598,5 +32598,14 @@
         "hub": false,
         "gameid": "10449761463",
         "game": true
+    },
+    "Auto Bounty BF": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Auto-Bounty-BF-9718",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Bounty%20BF904.lua",
+        "author": "Uploaded by xero63597 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
