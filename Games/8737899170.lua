@@ -110,3 +110,5 @@
                                     
     addscriptexist(8737899170, "GanjaHub OP script inf coins", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20OP%20script%20inf%20coins432.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-OP-script-inf-coins-9715")
                                     
+    addscriptexist(8737899170, "Admin GUI", "Uploaded by pasaoapoto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20GUI864.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Admin-GUI-9715")
+                                    

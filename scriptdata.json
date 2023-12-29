@@ -32607,5 +32607,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Admin GUI": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Admin-GUI-9715",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20GUI864.lua",
+        "author": "Uploaded by pasaoapoto on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "auto farm script": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-auto-farm-script-9716",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20script707.lua",
+        "author": "Uploaded by ssiu2141 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
