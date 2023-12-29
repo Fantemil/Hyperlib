@@ -574,3 +574,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Acery V1", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Acery%20V1872.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Acery-V1-9722")
                                     
+    addscriptexist(13772394625, "FFJ1", "Uploaded by GodSupremo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FFJ1571.lua", "https://scriptblox.com/script/UPD-Blade-Ball-FFJ1-9711")
+                                    
