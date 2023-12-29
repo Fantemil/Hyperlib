@@ -48,3 +48,5 @@ addscriptexist(920587237, "Money changer", "Uploaded by EviIAlienWare on scriptb
                                     
     addscriptexist(920587237, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB392.lua", "https://scriptblox.com/script/Adopt-Me!-Flaming-Dragons-HUB-9571")
                                     
+    addscriptexist(920587237, "OP Script", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script890.lua", "https://scriptblox.com/script/Adopt-Me!-OP-Script-9722")
+                                    

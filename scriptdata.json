@@ -32651,5 +32651,14 @@
         "hub": false,
         "gameid": "3101667897",
         "game": true
+    },
+    "OP Script with Hitbox": {
+        "origin": "https://scriptblox.com/script/Arsenal-OP-Script-with-Hitbox-9720",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20with%20Hitbox154.lua",
+        "author": "Uploaded by wirefraude on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "286090429",
+        "game": true
     }
 }
