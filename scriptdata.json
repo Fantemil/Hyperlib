@@ -32845,5 +32845,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Alchemy Hub V2 Candy Farm": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Alchemy-Hub-V2-Candy-Farm-9737",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20V2%20Candy%20Farm242.lua",
+        "author": "Uploaded by x2Neptune on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
