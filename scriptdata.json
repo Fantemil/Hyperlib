@@ -32731,5 +32731,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Lunar Hub MM Script": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Lunar-Hub-MM-Script-9720",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20Hub%20MM%20Script620.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }

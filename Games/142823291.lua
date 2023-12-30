@@ -158,3 +158,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Eclipse hub", "Uploaded by bigcupofsugar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20hub452.lua", "https://scriptblox.com/script/Murder-Mystery-2-Eclipse-hub-9713")
                                     
+    addscriptexist(142823291, "Lunar Hub MM Script", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20Hub%20MM%20Script620.lua", "https://scriptblox.com/script/Murder-Mystery-2-Lunar-Hub-MM-Script-9720")
+                                    
