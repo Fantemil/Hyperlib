@@ -32705,5 +32705,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Auto Stairway To Heaven": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Stairway-To-Heaven-9716",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stairway%20To%20Heaven654.lua",
+        "author": "Uploaded by agustinpasaoapoto on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
