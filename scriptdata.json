@@ -32764,5 +32764,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "SkyHub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-SkyHub-9726",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHub480.lua",
+        "author": "Uploaded by agustinpasaoapoto on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
