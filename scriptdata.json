@@ -32827,5 +32827,23 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "Melee Hub V1": {
+        "origin": "https://scriptblox.com/script/Arsenal-Melee-Hub-V1-9739",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melee%20Hub%20V1312.lua",
+        "author": "Uploaded by D8rk on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "286090429",
+        "game": true
+    },
+    "Anti Stealer": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Anti-Stealer-9740",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Stealer277.lua",
+        "author": "Uploaded by Zyra on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

