@@ -8,3 +8,5 @@ addscriptexist(13667319624, "sim script", "Uploaded by et1ty on scriptblox.com",
                                     
     addscriptexist(13667319624, "Infinite Wins Infinite Rebirths Infinite Strength", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins%20Infinite%20Rebirths%20Infinite%20Strength114.lua", "https://scriptblox.com/script/Knockout-Simulator-Infinite-Wins-Infinite-Rebirths-Infinite-Strength-9368")
                                     
+    addscriptexist(13667319624, "INF Stats OP Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Stats%20OP%20Auto%20Farm293.lua", "https://scriptblox.com/script/Knockout-Simulator-INF-Stats-OP-Auto-Farm-9734")
+                                    

@@ -32896,5 +32896,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "INF Stats OP Auto Farm": {
+        "origin": "https://scriptblox.com/script/Knockout-Simulator-INF-Stats-OP-Auto-Farm-9734",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Stats%20OP%20Auto%20Farm293.lua",
+        "author": "Uploaded by StellarHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13667319624",
+        "game": true
     }
 }
