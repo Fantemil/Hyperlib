@@ -32782,5 +32782,41 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "XZEL HUB   SCRIPT": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-XZEL-HUB-SCRIPT-9733",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XZEL%20HUB%20%20%20SCRIPT159.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Free Auto Bounty Script": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-Free-Auto-Bounty-Script-9730",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Auto%20Bounty%20Script34.lua",
+        "author": "Uploaded by AnSit on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "New Script Auto Sea Event Bf": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-New-Script-Auto-Sea-Event-Bf-9731",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20Auto%20Sea%20Event%20Bf356.lua",
+        "author": "Uploaded by AnSit on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "BPADE  OP SCRIPT": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-BPADE-OP-SCRIPT-9731",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BPADE%20%20OP%20SCRIPT621.lua",
+        "author": "Uploaded by ssiu2141 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
