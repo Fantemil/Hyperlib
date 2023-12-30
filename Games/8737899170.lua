@@ -116,3 +116,5 @@
                                     
     addscriptexist(8737899170, "Auto Stairway To Heaven", "Uploaded by agustinpasaoapoto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stairway%20To%20Heaven654.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Stairway-To-Heaven-9716")
                                     
+    addscriptexist(8737899170, "skyhub op", "Uploaded by Cloudlol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/skyhub%20op50.lua", "https://scriptblox.com/script/Pet-Simulator-99!-skyhub-op-9718")
+                                    

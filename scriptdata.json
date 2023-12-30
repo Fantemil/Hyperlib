@@ -32714,5 +32714,22 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "skyhub op": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-skyhub-op-9718",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/skyhub%20op50.lua",
+        "author": "Uploaded by Cloudlol on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Fe ZeeroxHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-ZeeroxHub-9719",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20ZeeroxHub515.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
