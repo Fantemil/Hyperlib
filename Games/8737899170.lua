@@ -120,3 +120,5 @@
                                     
     addscriptexist(8737899170, "SkyHub", "Uploaded by agustinpasaoapoto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHub480.lua", "https://scriptblox.com/script/Pet-Simulator-99!-SkyHub-9726")
                                     
+    addscriptexist(8737899170, "ScriptX V5", "Uploaded by junryanrobloxjr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScriptX%20V5852.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ScriptX-V5-9727")
+                                    

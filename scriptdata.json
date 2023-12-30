@@ -32773,5 +32773,14 @@
         "hub": false,
         "gameid": "8737899170",
         "game": true
+    },
+    "ScriptX V5": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-ScriptX-V5-9727",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScriptX%20V5852.lua",
+        "author": "Uploaded by junryanrobloxjr on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }
