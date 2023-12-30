@@ -32696,5 +32696,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "FaiFao": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-FaiFao-9714",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FaiFao596.lua",
+        "author": "Uploaded by Asamai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

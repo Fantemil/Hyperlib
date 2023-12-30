@@ -630,3 +630,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto Bounty BF", "Uploaded by xero63597 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Bounty%20BF904.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Auto-Bounty-BF-9718")
                                     
+    addscriptexist(2753915549, "FaiFao", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FaiFao596.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-FaiFao-9714")
+                                    
