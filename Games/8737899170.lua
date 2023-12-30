@@ -124,3 +124,5 @@
                                     
     addscriptexist(8737899170, "GanjaHub OP script OP auto farm", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20OP%20script%20OP%20auto%20farm629.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-OP-script-OP-auto-farm-9734")
                                     
+    addscriptexist(8737899170, "REDzHUB ps99 script", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDzHUB%20ps99%20script581.lua", "https://scriptblox.com/script/Pet-Simulator-99!-REDzHUB-ps99-script-9739")
+                                    

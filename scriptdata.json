@@ -32854,5 +32854,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "REDzHUB ps99 script": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-REDzHUB-ps99-script-9739",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDzHUB%20ps99%20script581.lua",
+        "author": "Uploaded by Miu_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "Item Frm": {
+        "origin": "https://scriptblox.com/script/Dawn-A-Legacy-Time-:-V2-Item-Frm-9738",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Frm713.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10022416612",
+        "game": true
     }
 }

@@ -580,3 +580,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "BPADE  OP SCRIPT", "Uploaded by ssiu2141 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BPADE%20%20OP%20SCRIPT621.lua", "https://scriptblox.com/script/UPD-Blade-Ball-BPADE-OP-SCRIPT-9731")
                                     
+    addscriptexist(13772394625, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub259.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Script-by-Tbao-Hub-9740")
+                                    
