@@ -32956,5 +32956,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "GanjaHub OP script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GanjaHub-OP-script-9745",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20OP%20script698.lua",
+        "author": "Uploaded by Dawg_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
