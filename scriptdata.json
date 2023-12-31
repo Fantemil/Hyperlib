@@ -32931,5 +32931,14 @@
         "hub": false,
         "gameid": "15432695875",
         "game": true
+    },
+    "Auto Player": {
+        "origin": "https://scriptblox.com/script/XMAS-2023-or-Funky-Friday-Auto-Player-9742",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player210.lua",
+        "author": "Uploaded by Frenchfryguy2011 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6447798030",
+        "game": true
     }
 }
