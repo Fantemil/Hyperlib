@@ -638,3 +638,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Alchemy Hub V2 Candy Farm", "Uploaded by x2Neptune on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20V2%20Candy%20Farm242.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-Alchemy-Hub-V2-Candy-Farm-9737")
                                     
+    addscriptexist(2753915549, "ACKERMAN HUB", "Uploaded by thanhtai040312 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ACKERMAN%20HUB125.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-ACKERMAN-HUB-9749")
+                                    
