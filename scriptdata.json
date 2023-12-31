@@ -32905,5 +32905,22 @@
         "hub": false,
         "gameid": "13667319624",
         "game": true
+    },
+    "Auto rank elo Classification": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-rank-elo-Classification-9734",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rank%20elo%20Classification446.lua",
+        "author": "Uploaded by GodSupremo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "HITBOX EXPANDER": {
+        "origin": "https://scriptblox.com/script/Universal-Script-HITBOX-EXPANDER-9737",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HITBOX%20EXPANDER161.lua",
+        "author": "Uploaded by Thereplazing on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
