@@ -32948,5 +32948,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "REBORN AIMLOCK": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REBORN-AIMLOCK-9744",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REBORN%20AIMLOCK607.lua",
+        "author": "Uploaded by baekobe37 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
