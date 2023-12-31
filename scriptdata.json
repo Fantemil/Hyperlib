@@ -32998,5 +32998,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "ECCS Searcher V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-Searcher-V2-9757",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20Searcher%20V2138.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
