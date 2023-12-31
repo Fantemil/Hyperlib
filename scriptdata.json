@@ -33006,5 +33006,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "J00GUI": {
+        "origin": "https://scriptblox.com/script/Universal-Script-J00GUI-9752",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/J00GUI961.lua",
+        "author": "Uploaded by c00lkidd3 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
