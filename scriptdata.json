@@ -32982,5 +32982,21 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "PS99 AntiMailBox Stealer V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-PS99-AntiMailBox-Stealer-V2-9753",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20AntiMailBox%20Stealer%20V2772.lua",
+        "author": "Uploaded by Zyra_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Tubers93 f3x": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Tubers93-f3x-9751",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tubers93%20f3x661.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

