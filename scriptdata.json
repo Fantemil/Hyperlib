@@ -32964,5 +32964,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Vercel v5": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Vercel-v5-9746",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vercel%20v5503.lua",
+        "author": "Uploaded by Kcock1999 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

@@ -584,3 +584,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto rank elo Classification", "Uploaded by GodSupremo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rank%20elo%20Classification446.lua", "https://scriptblox.com/script/Blade-Ball-Auto-rank-elo-Classification-9734")
                                     
+    addscriptexist(13772394625, "Vercel v5", "Uploaded by Kcock1999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vercel%20v5503.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Vercel-v5-9746")
+                                    
