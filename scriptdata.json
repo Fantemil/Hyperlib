@@ -32940,5 +32940,13 @@
         "hub": false,
         "gameid": "6447798030",
         "game": true
+    },
+    "Roblox Infinite Yield Fe Edited": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Roblox-Infinite-Yield-Fe-Edited-9743",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Infinite%20Yield%20Fe%20Edited889.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
