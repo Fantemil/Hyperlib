@@ -586,3 +586,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Vercel v5", "Uploaded by Kcock1999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vercel%20v5503.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Vercel-v5-9746")
                                     
+    addscriptexist(13772394625, "Farm Socks", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Socks195.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Farm-Socks-9765")
+                                    
