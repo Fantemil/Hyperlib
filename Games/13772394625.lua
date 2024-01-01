@@ -588,3 +588,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Farm Socks", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Socks195.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Farm-Socks-9765")
                                     
+    addscriptexist(13772394625, "OP Script with Auto Clicker", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20with%20Auto%20Clicker674.lua", "https://scriptblox.com/script/UPD-Blade-Ball-OP-Script-with-Auto-Clicker-9774")
+                                    
