@@ -33022,5 +33022,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "KAITUN ACKERMAN HUB": {
+        "origin": "https://scriptblox.com/script/GIFT-Blox-Fruits-KAITUN-ACKERMAN-HUB-9756",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAITUN%20ACKERMAN%20HUB983.lua",
+        "author": "Uploaded by ToshirouAckerman on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "El pro hub": {
+        "origin": "https://scriptblox.com/script/UPDATE-Slap-Battles-El-pro-hub-9755",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/El%20pro%20hub503.lua",
+        "author": "Uploaded by Thereplazing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }

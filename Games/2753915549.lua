@@ -640,3 +640,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "ACKERMAN HUB", "Uploaded by thanhtai040312 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ACKERMAN%20HUB125.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-ACKERMAN-HUB-9749")
                                     
+    addscriptexist(2753915549, "KAITUN ACKERMAN HUB", "Uploaded by ToshirouAckerman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAITUN%20ACKERMAN%20HUB983.lua", "https://scriptblox.com/script/GIFT-Blox-Fruits-KAITUN-ACKERMAN-HUB-9756")
+                                    
