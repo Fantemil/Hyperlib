@@ -33064,5 +33064,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto Fish Auto Mine": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Auto-Fish-Auto-Mine-9764",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish%20Auto%20Mine218.lua",
+        "author": "Uploaded by chedream1 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15432695875",
+        "game": true
     }
 }
