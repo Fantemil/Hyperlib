@@ -10,3 +10,7 @@
                                     
     addscriptexist(15432695875, "Booth Sniper", "Uploaded by chedream1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Booth%20Sniper574.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Booth-Sniper-9765")
                                     
+    addscriptexist(15432695875, "SkyHub", "Uploaded by chedream1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHub551.lua", "https://scriptblox.com/script/Pet-Simulator-99!-SkyHub-9766")
+                                    
+    addscriptexist(15432695875, "Syrex Hub", "Uploaded by chedream1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub476.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Syrex-Hub-9765")
+                                    
