@@ -33090,5 +33090,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "CHEAP GEMS": {
+        "origin": "https://scriptblox.com/script/Death-Ball-CHEAP-GEMS-9770",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHEAP%20GEMS86.lua",
+        "author": "Uploaded by WyvX on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15002061926",
+        "game": true
+    },
+    "OP Auto farm": {
+        "origin": "https://scriptblox.com/script/Trampoline-Battle-Simulator-OP-Auto-farm-9769",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20farm809.lua",
+        "author": "Uploaded by StellarHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15407368046",
+        "game": true
     }
 }

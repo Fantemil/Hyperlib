@@ -14,3 +14,5 @@
                                     
     addscriptexist(15432695875, "Syrex Hub", "Uploaded by chedream1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub476.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Syrex-Hub-9765")
                                     
+    addscriptexist(15432695875, "OP script", "Uploaded by ScriptMaster2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script605.lua", "https://scriptblox.com/script/Pet-Simulator-99!-OP-script-9768")
+                                    

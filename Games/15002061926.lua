@@ -6,3 +6,5 @@
                                     
     addscriptexist(15002061926, "MOST INSANE DB SCRIPT", "Uploaded by opcoded on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOST%20INSANE%20DB%20SCRIPT857.lua", "https://scriptblox.com/script/Death-Ball-ER-x-MOST-INSANE-DB-SCRIPT-9711")
                                     
+    addscriptexist(15002061926, "CHEAP GEMS", "Uploaded by WyvX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHEAP%20GEMS86.lua", "https://scriptblox.com/script/Death-Ball-CHEAP-GEMS-9770")
+                                    
