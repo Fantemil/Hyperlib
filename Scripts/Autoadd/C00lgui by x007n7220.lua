@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C00lHamoot/c00lgui-1/918b6de8dcfc33d8f5dc7852d3ecef935c3ea2c4/c00l%20gui"))()

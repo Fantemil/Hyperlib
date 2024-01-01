@@ -33040,5 +33040,21 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "C00lgui by x007n7": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-by-x007n7-9757",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20by%20x007n7220.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "1x3x5x6 gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-1x3x5x6-gui-9758",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1x3x5x6%20gui963.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
