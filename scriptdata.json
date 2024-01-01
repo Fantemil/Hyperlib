@@ -33082,5 +33082,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Water hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Water-hub-9767",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Water%20hub257.lua",
+        "author": "Uploaded by ScriptMaster2 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
