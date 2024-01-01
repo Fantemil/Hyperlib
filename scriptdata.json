@@ -33108,5 +33108,13 @@
         "hub": false,
         "gameid": "15407368046",
         "game": true
+    },
+    "Just A Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Just-A-Script-9771",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20A%20Script667.lua",
+        "author": "Uploaded by Gray on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
