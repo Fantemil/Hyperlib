@@ -33056,5 +33056,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Hide fluxus executor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hide-fluxus-executor-9759",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hide%20fluxus%20executor592.lua",
+        "author": "Uploaded by GodSupremo on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
