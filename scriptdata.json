@@ -33300,5 +33300,37 @@
         "hub": false,
         "gameid": "6938803436",
         "game": true
+    },
+    "X to TP": {
+        "origin": "https://scriptblox.com/script/Universal-Script-X-to-TP-9773",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20to%20TP389.lua",
+        "author": "Uploaded by jfire on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Vanilla Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Vanilla-Hub-9771",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanilla%20Hub134.lua",
+        "author": "Uploaded by deo811 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "FocusHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FocusHub-9772",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FocusHub609.lua",
+        "author": "Uploaded by deo811 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "PS99 Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-PS99-Hub-9770",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Hub113.lua",
+        "author": "Uploaded by confusedgoat6 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
