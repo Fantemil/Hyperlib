@@ -33283,5 +33283,13 @@
         "hub": false,
         "gameid": "15541304910",
         "game": true
+    },
+    "shift to run": {
+        "origin": "https://scriptblox.com/script/Universal-Script-shift-to-run-9769",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/shift%20to%20run846.lua",
+        "author": "Uploaded by jfire on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
