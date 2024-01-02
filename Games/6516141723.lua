@@ -90,3 +90,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Chiba Hub Script", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chiba%20Hub%20Script509.lua", "https://scriptblox.com/script/DOORS-Chiba-Hub-Script-9714")
                                     
+    addscriptexist(6516141723, "BlackKing x BobHub", "Uploaded by rblx365 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackKing%20x%20BobHub123.lua", "https://scriptblox.com/script/DOORS-BlackKing-x-BobHub-9771")
+                                    

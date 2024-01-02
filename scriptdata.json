@@ -33158,5 +33158,31 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Sirius Remastered": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Sirius-Remastered-9770",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Remastered547.lua",
+        "author": "Uploaded by cdevslasher on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "BlackKing x BobHub": {
+        "origin": "https://scriptblox.com/script/DOORS-BlackKing-x-BobHub-9771",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackKing%20x%20BobHub123.lua",
+        "author": "Uploaded by rblx365 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6516141723",
+        "game": true
+    },
+    "Dh ios fly": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Dh-ios-fly-9769",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dh%20ios%20fly546.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
