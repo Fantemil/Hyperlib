@@ -33332,5 +33332,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "ChangeEXE": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ChangeEXE-9772",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ChangeEXE483.lua",
+        "author": "Uploaded by jfire on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
