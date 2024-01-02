@@ -14,3 +14,5 @@ addscriptexist(6938803436, "auto dode and full auto farm", "Uploaded by tozxart 
                                     
     addscriptexist(6938803436, "BEST FOR THIS SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20SCRIPT782.lua", "https://scriptblox.com/script/FRUIT-Anime-Dimensions-Simulator-BEST-FOR-THIS-SCRIPT-9603")
                                     
+    addscriptexist(6938803436, "ADS Best Script Auto Farm inf Gem Raid token HolyShz HUB", "Uploaded by HOLYSHz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADS%20Best%20Script%20Auto%20Farm%20inf%20Gem%20Raid%20token%20HolyShz%20HUB273.lua", "https://scriptblox.com/script/GIFT-Anime-Dimensions-Simulator-ADS-Best-Script-Auto-Farm-inf-Gem-Raid-token-HolyShz-HUB-9769")
+                                    

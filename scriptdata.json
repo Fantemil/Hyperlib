@@ -33291,5 +33291,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "ADS Best Script Auto Farm inf Gem Raid token HolyShz HUB": {
+        "origin": "https://scriptblox.com/script/GIFT-Anime-Dimensions-Simulator-ADS-Best-Script-Auto-Farm-inf-Gem-Raid-token-HolyShz-HUB-9769",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADS%20Best%20Script%20Auto%20Farm%20inf%20Gem%20Raid%20token%20HolyShz%20HUB273.lua",
+        "author": "Uploaded by HOLYSHz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6938803436",
+        "game": true
     }
 }
