@@ -8,3 +8,5 @@
                                     
     addscriptexist(15550872309, "Auto Stairway To Heaven", "Uploaded by escobarecristopher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stairway%20To%20Heaven431.lua", "https://scriptblox.com/script/Pet-Simulator-99!-NEW!-Auto-Stairway-To-Heaven-9738")
                                     
+    addscriptexist(15550872309, "SYNEX HUB PS99", "Uploaded by pstopduper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB%20PS991000.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-SYNEX-HUB-PS99-9782")
+                                    

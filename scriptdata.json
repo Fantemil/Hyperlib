@@ -33256,5 +33256,32 @@
         "hub": false,
         "gameid": "15502339080",
         "game": true
+    },
+    "SYNEX HUB PS99": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-SYNEX-HUB-PS99-9782",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB%20PS991000.lua",
+        "author": "Uploaded by pstopduper on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "SYNEX HUB": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-SYNEX-HUB-9781",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB749.lua",
+        "author": "Uploaded by pstopduper on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "SYNEX HUB PS": {
+        "origin": "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-SYNEX-HUB-PS-9784",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB%20PS750.lua",
+        "author": "Uploaded by pstopduper on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15541304910",
+        "game": true
     }
 }
