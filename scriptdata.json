@@ -33184,5 +33184,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "PERD": {
+        "origin": "https://scriptblox.com/script/SALE-Blox-Fruits-PERD-9772",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PERD957.lua",
+        "author": "Uploaded by Asamai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
