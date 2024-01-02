@@ -1,0 +1,2 @@
+
+    addscript(15588442388, "Current Game","PS99 Visual Dupe Script", "Uploaded by robertmclaren on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Visual%20Dupe%20Script604.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Visual-Dupe-Script-9766")

@@ -33193,5 +33193,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "PS99 Visual Dupe Script": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Visual-Dupe-Script-9766",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Visual%20Dupe%20Script604.lua",
+        "author": "Uploaded by robertmclaren on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15588442388",
+        "game": true
+    },
+    "Anti mailbox stealler": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Anti-mailbox-stealler-9778",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20mailbox%20stealler946.lua",
+        "author": "Uploaded by zmaniko74 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15432695875",
+        "game": true
     }
 }

@@ -16,3 +16,5 @@
                                     
     addscriptexist(15432695875, "OP script", "Uploaded by ScriptMaster2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script605.lua", "https://scriptblox.com/script/Pet-Simulator-99!-OP-script-9768")
                                     
+    addscriptexist(15432695875, "Anti mailbox stealler", "Uploaded by zmaniko74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20mailbox%20stealler946.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Anti-mailbox-stealler-9778")
+                                    
