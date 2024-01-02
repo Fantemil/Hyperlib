@@ -33211,5 +33211,23 @@
         "hub": false,
         "gameid": "15432695875",
         "game": true
+    },
+    "PS99 Advanced Booth Sniper": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Advanced-Booth-Sniper-9781",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Advanced%20Booth%20Sniper623.lua",
+        "author": "Uploaded by poopycat on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15502339080",
+        "game": true
+    },
+    "PS99 RedZ Hub Script": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-PS99-RedZ-Hub-Script-9779",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20RedZ%20Hub%20Script710.lua",
+        "author": "Uploaded by poopycat on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15502339080",
+        "game": true
     }
 }
