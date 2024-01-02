@@ -4,3 +4,5 @@
                                     
     addscriptexist(15502339080, "PS99 RedZ Hub Script", "Uploaded by poopycat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20RedZ%20Hub%20Script710.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-RedZ-Hub-Script-9779")
                                     
+    addscriptexist(15502339080, "PS99 Ultimate Farming Script", "Uploaded by poopycat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Ultimate%20Farming%20Script847.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Ultimate-Farming-Script-9781")
+                                    

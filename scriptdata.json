@@ -33229,5 +33229,14 @@
         "hub": false,
         "gameid": "15502339080",
         "game": true
+    },
+    "PS99 Ultimate Farming Script": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-PS99-Ultimate-Farming-Script-9781",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Ultimate%20Farming%20Script847.lua",
+        "author": "Uploaded by poopycat on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15502339080",
+        "game": true
     }
 }
