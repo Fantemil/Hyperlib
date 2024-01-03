@@ -33524,5 +33524,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "RED Z HUB Script For PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RED-Z-HUB-Script-For-PS99-9790",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RED%20Z%20HUB%20Script%20For%20PS99169.lua",
+        "author": "Uploaded by nextoz on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
