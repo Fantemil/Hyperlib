@@ -6,3 +6,5 @@ addscriptexist(5041144419, "S3CPRP", "Uploaded by CandyLean on scriptblox.com", 
                                 
     addscriptexist(5041144419, "SCCP FREE", "Uploaded by CandyLean on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCCP%20FREE557.lua", "https://scriptblox.com/script/SCP:-Roleplay-SCCP-FREE-9159")
                                     
+    addscriptexist(5041144419, "OP script", "Uploaded by xipster33 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script156.lua", "https://scriptblox.com/script/SCP:-Roleplay-OP-script-9788")
+                                    
