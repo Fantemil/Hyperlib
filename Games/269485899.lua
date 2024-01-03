@@ -1,0 +1,4 @@
+
+    addscript(269485899, "Current Game","Audio logger", "Uploaded by nexustreamincorpora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Audio%20logger752.lua", "https://scriptblox.com/script/The-1989-World-Tour-Taylor-Swift-Stadium-Version-Audio-logger-9786")
+    addscriptexist(269485899, "Fly  script", "Uploaded by nexustreamincorpora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20%20script646.lua", "https://scriptblox.com/script/The-1989-World-Tour-Taylor-Swift-Stadium-Version-Fly-script-9787")
+                                    

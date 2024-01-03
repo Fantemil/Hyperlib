@@ -33383,5 +33383,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Audio logger": {
+        "origin": "https://scriptblox.com/script/The-1989-World-Tour-Taylor-Swift-Stadium-Version-Audio-logger-9786",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Audio%20logger752.lua",
+        "author": "Uploaded by nexustreamincorpora on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "269485899",
+        "game": true
+    },
+    "Fly  script": {
+        "origin": "https://scriptblox.com/script/The-1989-World-Tour-Taylor-Swift-Stadium-Version-Fly-script-9787",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20%20script646.lua",
+        "author": "Uploaded by nexustreamincorpora on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "269485899",
+        "game": true
     }
 }
