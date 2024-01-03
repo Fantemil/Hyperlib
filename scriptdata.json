@@ -33491,5 +33491,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Very OP": {
+        "origin": "https://scriptblox.com/script/Troll-Cart-Ride-Very-OP-9787",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP567.lua",
+        "author": "Uploaded by RobloxScripterOntop on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14427937850",
+        "game": true
+    },
+    "RedZ hub script PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RedZ-hub-script-PS99-9788",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZ%20hub%20script%20PS99674.lua",
+        "author": "Uploaded by Zente on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
