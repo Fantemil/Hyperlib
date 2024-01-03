@@ -33417,5 +33417,54 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "freeze server script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-freeze-server-script-9801",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/freeze%20server%20script291.lua",
+        "author": "Uploaded by Script_master on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "syrex hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-syrex-hub-9797",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/syrex%20hub506.lua",
+        "author": "Uploaded by dlybrawla1 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "reds hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-reds-hub-9800",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reds%20hub647.lua",
+        "author": "Uploaded by xipster33 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Auto farm script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Auto-farm-script-9791",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20script614.lua",
+        "author": "Uploaded by Script_master on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "REDz Hub Pet Simular 99": {
+        "origin": "https://scriptblox.com/script/Portal-to-PS99-REDz-Hub-Per-Simular-99-9792",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20Hub%20Pet%20Simular%2099702.lua",
+        "author": "Uploaded by REDz_hub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10147891414",
+        "game": true
+    },
+    "booth sniper": {
+        "origin": "https://scriptblox.com/script/Universal-Script-booth-sniper-9794",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/booth%20sniper875.lua",
+        "author": "Uploaded by Script_master on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
