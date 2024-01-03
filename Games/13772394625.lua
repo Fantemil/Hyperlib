@@ -592,3 +592,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Sirius Remastered", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirius%20Remastered547.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Sirius-Remastered-9770")
                                     
+    addscriptexist(13772394625, "NEXA HUB", "Uploaded by Xyzzz1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXA%20HUB676.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEXA-HUB-9777")
+                                    
