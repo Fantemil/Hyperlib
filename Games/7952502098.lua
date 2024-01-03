@@ -24,3 +24,5 @@ addscriptexist(7952502098, "Auto Win", "Uploaded by a_nerd on scriptblox.com", "
                                 
     addscriptexist(7952502098, "Godmode TILES Esp Autofarm", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20TILES%20Esp%20Autofarm119.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Godmode-TILES-Esp-Autofarm-9367")
                                     
+    addscriptexist(7952502098, "Read feature", "Uploaded by imposteurbleu123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Read%20feature363.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-See-es-on-obby-9802")
+                                    
