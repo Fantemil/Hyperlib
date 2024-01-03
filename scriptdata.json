@@ -33475,5 +33475,21 @@
         "hub": false,
         "gameid": "7952502098",
         "game": true
+    },
+    "Anti MailSteal": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Anti-MailSteal-9789",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20MailSteal924.lua",
+        "author": "Uploaded by ILoveYouD on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "RedZ Hub Script PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RedZ-Hub-Script-PS99-9787",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZ%20Hub%20Script%20PS99723.lua",
+        "author": "Uploaded by ScriptPro on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
