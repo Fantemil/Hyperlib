@@ -33401,5 +33401,21 @@
         "hub": false,
         "gameid": "269485899",
         "game": true
+    },
+    "Infinite Jump": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Infinite-Jump-9789",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Jump4.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "RTX": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RTX-9790",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RTX810.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
