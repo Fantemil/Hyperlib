@@ -33508,5 +33508,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "C00lgui by c00lkidd": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-by-c00lkidd-9790",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20by%20c00lkidd475.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "ECCS Searcher V2 Plus": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-Searcher-V2-Plus-9789",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20Searcher%20V2%20Plus395.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
