@@ -33340,5 +33340,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Riots Tiger Admin": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Riots-Tiger-Admin-9774",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Riots%20Tiger%20Admin804.lua",
+        "author": "Uploaded by Goku_Black on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }
