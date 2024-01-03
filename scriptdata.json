@@ -33357,5 +33357,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Walkspeed Infinity Jump ClickTP": {
+        "origin": "https://scriptblox.com/script/Epic-Minigames-Walkspeed-Infinity-Jump-ClickTP-9776",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walkspeed%20Infinity%20Jump%20ClickTP190.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "277751860",
+        "game": true
     }
 }
