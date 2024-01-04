@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BluGG11/ArecusHubZ/main/ArceusHub.lua", true))()
