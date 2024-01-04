@@ -10,3 +10,5 @@
                                     
     addscriptexist(15550872309, "SYNEX HUB PS99", "Uploaded by pstopduper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB%20PS991000.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-SYNEX-HUB-PS99-9782")
                                     
+    addscriptexist(15550872309, "PS99 SCRIPT HUB", "Uploaded by altonioggg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SCRIPT%20HUB91.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-PS99-SCRIPT-HUB-9796")
+                                    

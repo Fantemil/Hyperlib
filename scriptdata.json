@@ -33548,5 +33548,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "PS99 SCRIPT HUB": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-PS99-SCRIPT-HUB-9796",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SCRIPT%20HUB91.lua",
+        "author": "Uploaded by altonioggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "PS SCRIPT HUB": {
+        "origin": "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-PS-SCRIPT-HUB-9795",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS%20SCRIPT%20HUB910.lua",
+        "author": "Uploaded by altonioggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15541304910",
+        "game": true
+    },
+    "SCRIPTGUI HUB": {
+        "origin": "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-SCRIPTGUI-HUB-9793",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTGUI%20HUB730.lua",
+        "author": "Uploaded by altonioggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15541304910",
+        "game": true
     }
 }
