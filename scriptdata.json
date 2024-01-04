@@ -33661,5 +33661,21 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "FAST AUTO HATCH": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FAST-AUTO-HATCH-9821",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20AUTO%20HATCH433.lua",
+        "author": "Uploaded by gilibew613 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Terra hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Terra-hub-9822",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Terra%20hub165.lua",
+        "author": "Uploaded by Zakhar on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
