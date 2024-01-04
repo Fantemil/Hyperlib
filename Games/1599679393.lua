@@ -4,3 +4,5 @@ addscript(1599679393, "Current Game","Auto Farm n Unlock Teleport and more", "Up
                                     
     addscriptexist(1599679393, "Arceushub", "Uploaded by blugg11211 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arceushub473.lua", "https://scriptblox.com/script/Pet-Simulator!-Arceushub-9810")
                                     
+    addscriptexist(1599679393, "Arceus Hub", "Uploaded by blugg11211 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arceus%20Hub821.lua", "https://scriptblox.com/script/Pet-Simulator!-Arceus-Hub-9794")
+                                    

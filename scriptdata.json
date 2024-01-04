@@ -33726,5 +33726,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Arceus Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator!-Arceus-Hub-9794",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arceus%20Hub821.lua",
+        "author": "Uploaded by blugg11211 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1599679393",
+        "game": true
     }
 }
