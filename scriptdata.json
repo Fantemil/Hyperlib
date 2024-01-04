@@ -33637,5 +33637,21 @@
         "hub": false,
         "gameid": "15367026228",
         "game": true
+    },
+    "BOOTH SNIPER 5 MILLIONS GEMS OVERNIGHT": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BOOTH-SNIPER-5-MILLIONS-GEMS-OVERNIGHT-9813",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOTH%20SNIPER%205%20MILLIONS%20GEMS%20OVERNIGHT849.lua",
+        "author": "Uploaded by fixat82136 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Mega script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mega-script-9812",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20script144.lua",
+        "author": "Uploaded by Zakhar on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
