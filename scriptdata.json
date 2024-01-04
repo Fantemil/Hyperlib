@@ -33532,5 +33532,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "1x1x1x1 f3x": {
+        "origin": "https://scriptblox.com/script/Universal-Script-1x1x1x1-f3x-9790",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1x1x1x1%20f3x986.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Mini c00lgui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mini-c00lgui-9792",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mini%20c00lgui972.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
