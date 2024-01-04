@@ -33735,5 +33735,13 @@
         "hub": false,
         "gameid": "1599679393",
         "game": true
+    },
+    "Dragon style": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Dragon-style-9794",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20style233.lua",
+        "author": "Uploaded by Tajaughanymarshall1 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
