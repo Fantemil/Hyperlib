@@ -6,3 +6,5 @@ addscript(14360719220, "Current Game","Free Elusive Units Place", "Uploaded by d
                                     
     addscriptexist(14360719220, "New update yes I repost my own script", "Uploaded by Blocky_Povcameraman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20update%20yes%20I%20repost%20my%20own%20script54.lua", "https://scriptblox.com/script/CHRISTMAS-Bathroom-Tower-Defense-X-New-update-9490")
                                     
+    addscriptexist(14360719220, "SCRIPT", "Uploaded by IDKBRC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT574.lua", "https://scriptblox.com/script/EP-69-PART-2-Bathroom-Tower-Defense-X-SCRIPT-9792")
+                                    
