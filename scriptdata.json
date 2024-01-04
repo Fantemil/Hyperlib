@@ -33628,5 +33628,14 @@
         "hub": false,
         "gameid": "1599679393",
         "game": true
+    },
+    "Simple Open Source Auto Farm GUI": {
+        "origin": "https://scriptblox.com/script/AURAS-Anime-Souls-Simulator-X-Simple-Open-Source-Auto-Farm-GUI-9810",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Open%20Source%20Auto%20Farm%20GUI748.lua",
+        "author": "Uploaded by Breadido on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15367026228",
+        "game": true
     }
 }
