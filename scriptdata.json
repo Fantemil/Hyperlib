@@ -33653,5 +33653,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Arbuz script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Arbuz-script-9814",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arbuz%20script625.lua",
+        "author": "Uploaded by Zakhar on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
