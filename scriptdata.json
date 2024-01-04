@@ -33575,5 +33575,49 @@
         "hub": false,
         "gameid": "15541304910",
         "game": true
+    },
+    "ANTI STEALER  DUPE  TRADE SCAM": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-ANTI-STEALER-DUPE-TRADE-SCAM-9808",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTI%20STEALER%20%20DUPE%20%20TRADE%20SCAM413.lua",
+        "author": "Uploaded by altonioggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "PS99 SCRIPT GUI": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-PS99-SCRIPT-GUI-9804",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SCRIPT%20GUI588.lua",
+        "author": "Uploaded by altonioggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "CludeHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-CludeHub-9807",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CludeHub782.lua",
+        "author": "Uploaded by Clude on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "ANTI MAILSTEALER": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-ANTI-MAILSTEALER-9806",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTI%20MAILSTEALER111.lua",
+        "author": "Uploaded by altonioggg on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "Areceus Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator!-Areceus-Hub-9802",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Areceus%20Hub599.lua",
+        "author": "Uploaded by blugg11211 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1599679393",
+        "game": true
     }
 }
