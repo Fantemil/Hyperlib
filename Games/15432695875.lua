@@ -18,3 +18,7 @@
                                     
     addscriptexist(15432695875, "Anti mailbox stealler", "Uploaded by zmaniko74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20mailbox%20stealler946.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Anti-mailbox-stealler-9778")
                                     
+    addscriptexist(15432695875, "Sky Hub", "Uploaded by o9e1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sky%20Hub223.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Sky-Hub-9818")
+                                    
+    addscriptexist(15432695875, "Sea Hub", "Uploaded by o9e1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Hub79.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Sea-Hub-9819")
+                                    

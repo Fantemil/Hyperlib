@@ -33685,5 +33685,46 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "RedZ Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RedZ-Hub-9831",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZ%20Hub403.lua",
+        "author": "Uploaded by nextoz on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "kirieshka hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-kirieshka-hub-9821",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kirieshka%20hub787.lua",
+        "author": "Uploaded by Zakhar on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "ps99 anti mail stealer": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ps99-anti-mail-stealer-9820",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ps99%20anti%20mail%20stealer678.lua",
+        "author": "Uploaded by Zakhar on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Sea Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Sea-Hub-9819",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sea%20Hub79.lua",
+        "author": "Uploaded by o9e1 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15432695875",
+        "game": true
+    },
+    "2024 DUPE USE UNTIL FIX": {
+        "origin": "https://scriptblox.com/script/Universal-Script-2024-DUPE-USE-UNTIL-FIX-9811",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2024%20DUPE%20USE%20UNTIL%20FIX737.lua",
+        "author": "Uploaded by frosty on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
