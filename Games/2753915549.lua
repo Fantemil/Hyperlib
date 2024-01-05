@@ -648,3 +648,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Skid Hub", "Uploaded by memaybeoxdhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skid%20Hub241.lua", "https://scriptblox.com/script/Blox-Fruits-Skid-Hub-9830")
                                     
+    addscriptexist(2753915549, "master hub", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/master%20hub946.lua", "https://scriptblox.com/script/Blox-Fruits-master-hub-9801")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(15710344067, "Current Game","Sky Hub Mobile Support Ps99", "Uploaded by Alondagoat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sky%20Hub%20Mobile%20Support%20Ps99722.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Z-version-Sky-Hub-Mobile-Support-Ps99-9828")

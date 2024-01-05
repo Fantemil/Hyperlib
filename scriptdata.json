@@ -33867,5 +33867,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "master hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-master-hub-9801",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/master%20hub946.lua",
+        "author": "Uploaded by zfxcvzfxcv on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Sky Hub Mobile Support Ps99": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Z-version-Sky-Hub-Mobile-Support-Ps99-9828",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sky%20Hub%20Mobile%20Support%20Ps99722.lua",
+        "author": "Uploaded by Alondagoat on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15710344067",
+        "game": true
     }
 }
