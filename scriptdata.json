@@ -33859,5 +33859,13 @@
         "hub": false,
         "gameid": "15407368046",
         "game": true
+    },
+    "AUTO BOOTH 2M GEMS PER HOUR": {
+        "origin": "https://scriptblox.com/script/Universal-Script-AUTO-BOOTH-2M-GEMS-PER-HOUR-9845",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20BOOTH%202M%20GEMS%20PER%20HOUR362.lua",
+        "author": "Uploaded by jaheded769 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
