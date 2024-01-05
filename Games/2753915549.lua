@@ -644,3 +644,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "PERD", "Uploaded by Asamai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PERD957.lua", "https://scriptblox.com/script/SALE-Blox-Fruits-PERD-9772")
                                     
+    addscriptexist(2753915549, "all for you", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20for%20you448.lua", "https://scriptblox.com/script/Blox-Fruits-all-for-you-9808")
+                                    

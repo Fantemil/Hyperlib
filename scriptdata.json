@@ -33805,5 +33805,14 @@
         "hub": false,
         "gameid": "15550872309",
         "game": true
+    },
+    "all for you": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-all-for-you-9808",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20for%20you448.lua",
+        "author": "Uploaded by zfxcvzfxcv on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
