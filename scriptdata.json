@@ -33787,5 +33787,23 @@
         "hub": false,
         "gameid": "15550872309",
         "game": true
+    },
+    "BOOTH SNIPER": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-BOOTH-SNIPER-9805",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOTH%20SNIPER422.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "Verified   Script Anti Stealer": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Verified-Script-Anti-Stealer-9806",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20%20%20Script%20Anti%20Stealer503.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
     }
 }

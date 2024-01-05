@@ -24,3 +24,9 @@
                                     
     addscriptexist(15550872309, "Verified Script Anti Stealer", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20Script%20Anti%20Stealer888.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Verified-Script-Anti-Stealer-9804")
                                     
+    addscriptexist(15550872309, "BOOTH SNIPER", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOOTH%20SNIPER422.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-BOOTH-SNIPER-9805")
+                                    
+    addscriptexist(15550872309, "Auto Fish Auto Mine", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish%20Auto%20Mine6.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Auto-Fish-Auto-Mine-9807")
+                                    
+    addscriptexist(15550872309, "Verified   Script Anti Stealer", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20%20%20Script%20Anti%20Stealer503.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Verified-Script-Anti-Stealer-9806")
+                                    
