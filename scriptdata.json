@@ -33902,5 +33902,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "fdsfds": {
+        "origin": "https://scriptblox.com/script/Universal-Script-fdsfds-9796",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fdsfds219.lua",
+        "author": "Uploaded by Mango65 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
