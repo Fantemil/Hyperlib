@@ -33814,5 +33814,50 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Skid Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Skid-Hub-9830",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skid%20Hub241.lua",
+        "author": "Uploaded by memaybeoxdhub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Inf Stats": {
+        "origin": "https://scriptblox.com/script/Block-Digging-Simulator-Inf-Stats-9829",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stats648.lua",
+        "author": "Uploaded by Bac0nH1ckOff on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14498760035",
+        "game": true
+    },
+    "MM Nuke": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-MM-Nuke-9827",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Nuke879.lua",
+        "author": "Uploaded by Bac0nH1ckOff on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
+    },
+    "SCRIPT HUB": {
+        "origin": "https://scriptblox.com/script/Portal-to-PS99-SCRIPT-HUB-9825",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20HUB626.lua",
+        "author": "Uploaded by REDz_hub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10147891414",
+        "game": true
+    },
+    "Inf Strength": {
+        "origin": "https://scriptblox.com/script/Trampoline-Battle-Simulator-Inf-Strength-9828",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Strength850.lua",
+        "author": "Uploaded by Bac0nH1ckOff on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15407368046",
+        "game": true
     }
 }

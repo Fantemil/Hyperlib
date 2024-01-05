@@ -162,3 +162,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub980.lua", "https://scriptblox.com/script/Murder-Mystery-2-Script-by-Tbao-Hub-9764")
                                     
+    addscriptexist(142823291, "MM Nuke", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Nuke879.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Nuke-9827")
+                                    
