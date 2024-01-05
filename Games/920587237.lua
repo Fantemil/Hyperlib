@@ -50,3 +50,5 @@ addscriptexist(920587237, "Money changer", "Uploaded by EviIAlienWare on scriptb
                                     
     addscriptexist(920587237, "OP Script", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script890.lua", "https://scriptblox.com/script/Adopt-Me!-OP-Script-9722")
                                     
+    addscriptexist(920587237, "AUTO BOOTH", "Uploaded by moder98552 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20BOOTH783.lua", "https://scriptblox.com/script/Adopt-Me!-AUTO-BOOTH-9795")
+                                    

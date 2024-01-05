@@ -33743,5 +33743,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "AUTO BOOTH": {
+        "origin": "https://scriptblox.com/script/Adopt-Me!-AUTO-BOOTH-9795",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20BOOTH783.lua",
+        "author": "Uploaded by moder98552 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "920587237",
+        "game": true
+    },
+    "c00lgui revival official scriptblox release": {
+        "origin": "https://scriptblox.com/script/Universal-Script-c00lgui-revival-official-scriptblox-release-9794",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui%20revival%20official%20scriptblox%20release927.lua",
+        "author": "Uploaded by jointeamCK on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
