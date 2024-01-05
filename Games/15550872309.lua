@@ -18,3 +18,9 @@
                                     
     addscriptexist(15550872309, "ANTI MAILSTEALER", "Uploaded by altonioggg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTI%20MAILSTEALER111.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-ANTI-MAILSTEALER-9806")
                                     
+    addscriptexist(15550872309, "SYNEX GUI 2024", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20GUI%202024878.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-SYNEX-GUI-2024-9801")
+                                    
+    addscriptexist(15550872309, "TRADE UND DUPE", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRADE%20UND%20DUPE585.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-TRADE-UND-DUPE-9802")
+                                    
+    addscriptexist(15550872309, "Verified Script Anti Stealer", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20Script%20Anti%20Stealer888.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Verified-Script-Anti-Stealer-9804")
+                                    

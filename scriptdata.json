@@ -33760,5 +33760,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "SYNEX GUI 2024": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-SYNEX-GUI-2024-9801",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20GUI%202024878.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "TRADE UND DUPE": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-TRADE-UND-DUPE-9802",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRADE%20UND%20DUPE585.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "Verified Script Anti Stealer": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Verified-Script-Anti-Stealer-9804",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20Script%20Anti%20Stealer888.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
     }
 }
