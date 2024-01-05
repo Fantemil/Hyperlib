@@ -10,3 +10,5 @@ addscript(2768379856, "Current Game","Item Giver Graphical User Interface", "Upl
                                 
 addscriptexist(2768379856, "AutoBuild SCP3008", "Uploaded by MrXrer on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoBuild%20SCP3008229.lua", "https://rscripts.net/script/autobuild-scp-3008-4185")
                                 
+    addscriptexist(2768379856, "OP SCRIPT WITH ESP", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20WITH%20ESP897.lua", "https://scriptblox.com/script/3008-2.72-OP-SCRIPT-WITH-ESP-9796")
+                                    

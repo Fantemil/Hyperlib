@@ -33910,5 +33910,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "iuhfdsfds": {
+        "origin": "https://scriptblox.com/script/Universal-Script-iuhfdsfds-9797",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iuhfdsfds580.lua",
+        "author": "Uploaded by Mango65 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "OP SCRIPT WITH ESP": {
+        "origin": "https://scriptblox.com/script/3008-2.72-OP-SCRIPT-WITH-ESP-9796",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20WITH%20ESP897.lua",
+        "author": "Uploaded by wirefraude on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2768379856",
+        "game": true
     }
 }
