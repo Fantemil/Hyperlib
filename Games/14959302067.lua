@@ -1,0 +1,2 @@
+
+    addscript(14959302067, "Current Game","fake huges or titanic hatching", "Uploaded by Alondagoat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fake%20huges%20or%20titanic%20hatching960.lua", "https://scriptblox.com/script/Pet-Simulator-99!-fake-huges-or-titanic-hatching-9803")
