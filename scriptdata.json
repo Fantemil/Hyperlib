@@ -33894,5 +33894,13 @@
         "hub": false,
         "gameid": "14959302067",
         "game": true
+    },
+    "Kick gui required script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Kick-gui-required-script-9804",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20gui%20required%20script519.lua",
+        "author": "Uploaded by thixovuong on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
