@@ -34005,5 +34005,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Hub X": {
+        "origin": "https://scriptblox.com/script/Bendy-and-the-ink-Machine-HubX-9815",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20X749.lua",
+        "author": "Uploaded by ADSKer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4850588087",
+        "game": true
+    },
+    "FluxHUB Enhanced": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-FluxHUB-Enhanced-9814",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FluxHUB%20Enhanced587.lua",
+        "author": "Uploaded by Merchant on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
     }
 }

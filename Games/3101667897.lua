@@ -42,3 +42,5 @@ addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript
                                     
     addscriptexist(3101667897, "FluxHUB V1", "Uploaded by Merchant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FluxHUB%20V1587.lua", "https://scriptblox.com/script/Legends-Of-Speed-FluxHUB-V1-9719")
                                     
+    addscriptexist(3101667897, "FluxHUB Enhanced", "Uploaded by Merchant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FluxHUB%20Enhanced587.lua", "https://scriptblox.com/script/Legends-Of-Speed-FluxHUB-Enhanced-9814")
+                                    
