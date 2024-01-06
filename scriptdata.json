@@ -34023,5 +34023,13 @@
         "hub": false,
         "gameid": "3101667897",
         "game": true
+    },
+    "Print decal texture id": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Print-decal-texture-id-9814",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Print%20decal%20texture%20id798.lua",
+        "author": "Uploaded by Minkasig on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
