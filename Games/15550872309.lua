@@ -30,3 +30,7 @@
                                     
     addscriptexist(15550872309, "Verified   Script Anti Stealer", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20%20%20Script%20Anti%20Stealer503.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-Verified-Script-Anti-Stealer-9806")
                                     
+    addscriptexist(15550872309, "TRADE SCAM GUI", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRADE%20SCAM%20GUI701.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-TRADE-SCAM-GUI-9804")
+                                    
+    addscriptexist(15550872309, "BEST GUI FOR PS99", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20FOR%20PS99683.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-BEST-GUI-FOR-PS99-9805")
+                                    

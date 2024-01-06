@@ -33945,5 +33945,31 @@
         "hub": false,
         "gameid": "14195873109",
         "game": true
+    },
+    "TRADE SCAM GUI": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-TRADE-SCAM-GUI-9804",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TRADE%20SCAM%20GUI701.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "BEST GUI FOR PS99": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-BEST-GUI-FOR-PS99-9805",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20FOR%20PS99683.lua",
+        "author": "Uploaded by petsimq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "Best script but sometime is lag": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Best-script-but-sometime-is-lag-9800",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20but%20sometime%20is%20lag15.lua",
+        "author": "Uploaded by Gokus on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
