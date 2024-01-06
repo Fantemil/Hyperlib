@@ -33936,5 +33936,14 @@
         "hub": false,
         "gameid": "14195873109",
         "game": true
+    },
+    "Easy kill": {
+        "origin": "https://scriptblox.com/script/UPD-Slayer-Corps-Simulator-Easy-kill-9799",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20kill433.lua",
+        "author": "Uploaded by tjebhok on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14195873109",
+        "game": true
     }
 }

@@ -1,2 +1,4 @@
 
     addscript(14195873109, "Current Game","Free Souls For Upgrade Star Sword in world 4", "Uploaded by tjebhok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Souls%20For%20Upgrade%20Star%20Sword%20in%20world%204282.lua", "https://scriptblox.com/script/UPD-Slayer-Corps-Simulator-Free-Souls-For-Upgrade-Star-Sword-in-world-7-9798")
+    addscriptexist(14195873109, "Easy kill", "Uploaded by tjebhok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20kill433.lua", "https://scriptblox.com/script/UPD-Slayer-Corps-Simulator-Easy-kill-9799")
+                                    
