@@ -34031,5 +34031,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "FE Btools R6": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FE-Btools-R6-9815",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Btools%20R6221.lua",
+        "author": "Uploaded by jointeamCK on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
