@@ -33980,5 +33980,14 @@
         "hub": false,
         "gameid": "7952502098",
         "game": true
+    },
+    "hellcat lua": {
+        "origin": "https://scriptblox.com/script/Pop-It-Trading-hellcat-lua-9811",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hellcat%20lua92.lua",
+        "author": "Uploaded by cdevslasher on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7346416636",
+        "game": true
     }
 }
