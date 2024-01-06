@@ -33989,5 +33989,21 @@
         "hub": false,
         "gameid": "7346416636",
         "game": true
+    },
+    "Aqua Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Aqua-Hub-9812",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aqua%20Hub521.lua",
+        "author": "Uploaded by maqsianelimd on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "BigHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BigHub-9813",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BigHub300.lua",
+        "author": "Uploaded by maqsianelimd on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
