@@ -34039,5 +34039,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "CH HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-CH-HUB-9815",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CH%20HUB119.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
