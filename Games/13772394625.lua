@@ -594,3 +594,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "NEXA HUB", "Uploaded by Xyzzz1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEXA%20HUB676.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEXA-HUB-9777")
                                     
+    addscriptexist(13772394625, "Auto Kill Player Auto Parry Auto Farm Coins Auto Parry Best", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kill%20Player%20Auto%20Parry%20Auto%20Farm%20Coins%20Auto%20Parry%20Best819.lua", "https://scriptblox.com/script/Blade-Ball-6-HOURS-Auto-Kill-Player-Auto-Parry-Auto-Farm-Coins-Auto-Parry-Best-9819")
+                                    
