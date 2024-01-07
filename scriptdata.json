@@ -34047,5 +34047,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Nihilize H4x": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Nihilize-H4x-9816",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nihilize%20H4x890.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }
