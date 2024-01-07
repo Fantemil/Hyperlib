@@ -10,3 +10,5 @@
                                     
     addscriptexist(15502339080, "PS99 SkyHub Script", "Uploaded by poopycat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SkyHub%20Script491.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-SkyHub-Script-9777")
                                     
+    addscriptexist(15502339080, "RedzHub update", "Uploaded by gabitu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub%20update592.lua", "https://scriptblox.com/script/Pet-Simulator-99!-RedzHub-update-9817")
+                                    

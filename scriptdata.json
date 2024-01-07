@@ -34089,5 +34089,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "New Script make by seven": {
+        "origin": "https://scriptblox.com/script/Universal-Script-New-Script-make-by-seven-9817",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20make%20by%20seven259.lua",
+        "author": "Uploaded by Bendero on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "RedzHub update": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-RedzHub-update-9817",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub%20update592.lua",
+        "author": "Uploaded by gabitu on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15502339080",
+        "game": true
     }
 }
