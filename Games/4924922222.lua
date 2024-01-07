@@ -78,3 +78,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Mobile Script", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Script552.lua", "https://scriptblox.com/script/Brookhaven-RP-Mobile-Script-9701")
                                     
+    addscriptexist(4924922222, "Free Music", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Music564.lua", "https://scriptblox.com/script/Brookhaven-RP-Free-Music-9819")
+                                    
