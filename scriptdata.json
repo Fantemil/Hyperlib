@@ -34073,5 +34073,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "PS99 NEW SCRIPT BY SENVEN": {
+        "origin": "https://scriptblox.com/script/Universal-Script-PS99-NEW-SCRIPT-BY-SENVEN-9816",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20NEW%20SCRIPT%20BY%20SENVEN707.lua",
+        "author": "Uploaded by Bendero on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Speed and jump changer": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Speed-and-jump-changer-9817",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20and%20jump%20changer896.lua",
+        "author": "Uploaded by indonesiangamer777 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
