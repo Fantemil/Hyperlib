@@ -1,0 +1,2 @@
+
+    addscript(1122519450, "Current Game","Best top 2 script", "Uploaded by Troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20top%202%20script806.lua", "https://scriptblox.com/script/Titan-Simulator-Best-top-2-script-9828")
