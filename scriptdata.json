@@ -34191,5 +34191,22 @@
         "hub": false,
         "gameid": "15588442388",
         "game": true
+    },
+    "Y00nkidd": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Y00nkidd-9829",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Y00nkidd157.lua",
+        "author": "Uploaded by JKLO_TEAM on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Fluxus Hub Fastest Max Level OP": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Fluxus-Hub-Fastest-Max-Level-OP-9829",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fluxus%20Hub%20Fastest%20Max%20Level%20OP639.lua",
+        "author": "Uploaded by scriptbloxing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

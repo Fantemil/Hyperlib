@@ -650,3 +650,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "master hub", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/master%20hub946.lua", "https://scriptblox.com/script/Blox-Fruits-master-hub-9801")
                                     
+    addscriptexist(2753915549, "Fluxus Hub Fastest Max Level OP", "Uploaded by scriptbloxing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fluxus%20Hub%20Fastest%20Max%20Level%20OP639.lua", "https://scriptblox.com/script/Blox-Fruits-Fluxus-Hub-Fastest-Max-Level-OP-9829")
+                                    
