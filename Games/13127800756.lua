@@ -88,3 +88,5 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "Christmas Update Best Script", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Christmas%20Update%20Best%20Script802.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Christmas-Update-Best-Script-9605")
                                     
+    addscriptexist(13127800756, "Dupe Candy Coins and fruits", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20Candy%20Coins%20and%20fruits346.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Dupe-Candy-Coins-and-fruits-9830")
+                                    
