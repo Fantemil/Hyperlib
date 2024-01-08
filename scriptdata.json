@@ -34217,5 +34217,14 @@
         "hub": false,
         "gameid": "13127800756",
         "game": true
+    },
+    "NeonC Hub V41": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Buhsajxq-9833",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20V41573.lua",
+        "author": "Uploaded by NeoncatXRZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
