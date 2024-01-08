@@ -34269,5 +34269,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "HubTest": {
+        "origin": "https://scriptblox.com/script/icyatfretge's-Place-HubTest-9839",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HubTest964.lua",
+        "author": "Uploaded by cartwrightjoshua201 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12179320593",
+        "game": true
     }
 }

@@ -1,0 +1,2 @@
+
+    addscript(12179320593, "Current Game","HubTest", "Uploaded by cartwrightjoshua201 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HubTest964.lua", "https://scriptblox.com/script/icyatfretge's-Place-HubTest-9839")
