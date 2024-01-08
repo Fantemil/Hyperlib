@@ -34140,5 +34140,21 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Decalspam f3x": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Decalspam-f3x-9823",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decalspam%20f3x472.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Smoke Client Mobile BETA": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Smoke-Client-Mobile-BETA-9822",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smoke%20Client%20Mobile%20BETA726.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
