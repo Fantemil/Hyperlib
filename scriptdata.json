@@ -34252,5 +34252,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Squid Game": {
+        "origin": "https://scriptblox.com/script/Red-Light-Green-Light-(FIX)-Squid-Game-9837",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Squid%20Game435.lua",
+        "author": "Uploaded by MikeRobloxYTMike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7540891731",
+        "game": true
+    },
+    "Cat Hub Revival Auto Farm": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Cat-Hub-Revival-Auto-Farm-9838",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Hub%20Revival%20Auto%20Farm746.lua",
+        "author": "Uploaded by Buling_Man on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
