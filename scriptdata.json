@@ -34304,5 +34304,22 @@
         "hub": false,
         "gameid": "13968320788",
         "game": true
+    },
+    "Random s": {
+        "origin": "https://scriptblox.com/script/Slap-Fan-Killstreak-Random-s-9847",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20s919.lua",
+        "author": "Uploaded by Thereplazing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12335589830",
+        "game": true
+    },
+    "Template Make Your Script Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Template-Make-Your-Script-Hub-9846",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Template%20Make%20Your%20Script%20Hub217.lua",
+        "author": "Uploaded by JUANKO_MODS_YT on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
