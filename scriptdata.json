@@ -34364,5 +34364,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Story Script No Key System": {
+        "origin": "https://scriptblox.com/script/Break-In-2-(Story)-Story-Script-No-Key-System-9849",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Story%20Script%20No%20Key%20System129.lua",
+        "author": "Uploaded by MikeRobloxYTMike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13864661000",
+        "game": true
     }
 }

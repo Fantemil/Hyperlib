@@ -32,3 +32,5 @@ addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "ht
                                     
     addscriptexist(13864661000, "Script PATCHED", "Uploaded by mitaleey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20PATCHED716.lua", "https://scriptblox.com/script/Break-In-2-(SECRET-ENDING)-Script-8185")
                                     
+    addscriptexist(13864661000, "Story Script No Key System", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Story%20Script%20No%20Key%20System129.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Story-Script-No-Key-System-9849")
+                                    
