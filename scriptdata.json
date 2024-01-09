@@ -34321,5 +34321,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Ackerman Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Ackerman-Hub-9848",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ackerman%20Hub881.lua",
+        "author": "Uploaded by ToshirouAckerman on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "RGB FPS AND PING COUNTER": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RGB-FPS-AND-PING-COUNTER-9844",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RGB%20FPS%20AND%20PING%20COUNTER255.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

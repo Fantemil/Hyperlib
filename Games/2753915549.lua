@@ -652,3 +652,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Fluxus Hub Fastest Max Level OP", "Uploaded by scriptbloxing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fluxus%20Hub%20Fastest%20Max%20Level%20OP639.lua", "https://scriptblox.com/script/Blox-Fruits-Fluxus-Hub-Fastest-Max-Level-OP-9829")
                                     
+    addscriptexist(2753915549, "Ackerman Hub", "Uploaded by ToshirouAckerman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ackerman%20Hub881.lua", "https://scriptblox.com/script/Blox-Fruits-Ackerman-Hub-9848")
+                                    
