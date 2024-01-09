@@ -34355,5 +34355,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Auto Parry with Anticheat Bypass": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Parry-with-Anticheat-Bypass-9850",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20with%20Anticheat%20Bypass368.lua",
+        "author": "Uploaded by scriptbloxing on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

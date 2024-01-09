@@ -602,3 +602,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Best   Script in the world", "Uploaded by BestGuyInTheWorld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20%20Script%20in%20the%20world202.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Best-Script-in-the-world-9849")
                                     
+    addscriptexist(13772394625, "Auto Parry with Anticheat Bypass", "Uploaded by scriptbloxing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry%20with%20Anticheat%20Bypass368.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-Parry-with-Anticheat-Bypass-9850")
+                                    

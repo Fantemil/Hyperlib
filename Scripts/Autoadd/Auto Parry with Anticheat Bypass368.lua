@@ -1,0 +1,2 @@
+-- this is multiple scripts at once, it detects if youre in blade ball or blox fruits, if you are in blade ball it loads auto parry if you are in blox fruits it loads a hub
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fissurectomy/woah/main/fluxus-only-script"))()
