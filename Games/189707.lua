@@ -24,3 +24,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                 
     addscriptexist(189707, "Blackhole", "Uploaded by FireServiceScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackhole743.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Blackhole-9395")
                                     
+    addscriptexist(189707, "Six Menu", "Uploaded by ySixx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Six%20Menu320.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Six-Menu-9854")
+                                    

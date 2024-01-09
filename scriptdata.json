@@ -34373,5 +34373,40 @@
         "hub": false,
         "gameid": "13864661000",
         "game": true
+    },
+    "Keyboard": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Keyboard-9852",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyboard208.lua",
+        "author": "Uploaded by 4Akii on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "CreeperModz Script V1": {
+        "origin": "https://scriptblox.com/script/Specter-2-CreeperModz-Script-V1-9851",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CreeperModz%20Script%20V1723.lua",
+        "author": "Uploaded by 4Akii on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8267733039",
+        "game": true
+    },
+    "Six Menu": {
+        "origin": "https://scriptblox.com/script/Natural-Disaster-Survival-Six-Menu-9854",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Six%20Menu320.lua",
+        "author": "Uploaded by ySixx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "189707",
+        "game": true
+    },
+    "Auto Fish": {
+        "origin": "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-Auto-Fish-9853",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish256.lua",
+        "author": "Uploaded by 4Akii on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15541304910",
+        "game": true
     }
 }
