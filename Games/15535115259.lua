@@ -1,0 +1,2 @@
+
+    addscript(15535115259, "Current Game","Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm813.lua", "https://scriptblox.com/script/Launch-Into-Space-Simulator-Auto-Farm-9856")
