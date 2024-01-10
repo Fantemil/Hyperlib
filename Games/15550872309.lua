@@ -34,3 +34,7 @@
                                     
     addscriptexist(15550872309, "BEST GUI FOR PS99", "Uploaded by petsimq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20FOR%20PS99683.lua", "https://scriptblox.com/script/Pet-Simulator-99!-YEAR-BEST-GUI-FOR-PS99-9805")
                                     
+    addscriptexist(15550872309, "SYNEX HUB 99", "Uploaded by vinceklerka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB%209953.lua", "https://scriptblox.com/script/COMING-SOON-Pet-Simulator-77!-SYNEX-HUB-99-9879")
+                                    
+    addscriptexist(15550872309, "PS99 SKY HUB", "Uploaded by vinceklerka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SKY%20HUB698.lua", "https://scriptblox.com/script/COMING-SOON-Pet-Simulator-77!-PS99-SKY-HUB-9878")
+                                    

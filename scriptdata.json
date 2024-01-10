@@ -34535,5 +34535,32 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "CurseHub InfJump": {
+        "origin": "https://scriptblox.com/script/Football-Fusion-2-CurseHub-9878",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CurseHub%20InfJump285.lua",
+        "author": "Uploaded by CurseHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8204899140",
+        "game": true
+    },
+    "SYNEX HUB 99": {
+        "origin": "https://scriptblox.com/script/COMING-SOON-Pet-Simulator-77!-SYNEX-HUB-99-9879",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SYNEX%20HUB%209953.lua",
+        "author": "Uploaded by vinceklerka on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
+    },
+    "PS99 SKY HUB": {
+        "origin": "https://scriptblox.com/script/COMING-SOON-Pet-Simulator-77!-PS99-SKY-HUB-9878",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SKY%20HUB698.lua",
+        "author": "Uploaded by vinceklerka on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15550872309",
+        "game": true
     }
 }
