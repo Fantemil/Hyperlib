@@ -34509,5 +34509,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "FE Kill All or Bring Everyone to You Clientsided": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FE-Kill-All-or-Bring-Everyone-to-You-Clientsided-9880",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Kill%20All%20or%20Bring%20Everyone%20to%20You%20Clientsided975.lua",
+        "author": "Uploaded by axmayxmayar on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
