@@ -34416,5 +34416,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "The godh": {
+        "origin": "https://scriptblox.com/script/Universal-Script-The-godh-9857",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20godh988.lua",
+        "author": "Uploaded by chidengod13 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
