@@ -34629,5 +34629,31 @@
         "hub": false,
         "gameid": "142823291",
         "game": true
+    },
+    "Destructed hex": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Destructed-hex-9884",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destructed%20hex661.lua",
+        "author": "Uploaded by Patched_Porridge on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Cool script": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Cool-script-9882",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20script744.lua",
+        "author": "Uploaded by YNWMELLY on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "ATK HUB UPDATED OP AUTOFARM CHESTFARM": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-ATK-HUB-UPDATED-OP-AUTOFARM-CHESTFARM-9883",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ATK%20HUB%20UPDATED%20OP%20AUTOFARM%20CHESTFARM464.lua",
+        "author": "Uploaded by arshehtesham078 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
