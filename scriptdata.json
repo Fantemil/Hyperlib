@@ -34517,5 +34517,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "AUTOFARM x Auto Raid x Sniper Auto Farm x FRUIT RAIN": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-AUTOFARM-x-Auto-Raid-x-Sniper-Auto-Farm-x-FRUIT-RAIN-9880",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20x%20Auto%20Raid%20x%20Sniper%20Auto%20Farm%20x%20FRUIT%20RAIN943.lua",
+        "author": "Uploaded by Honeybunzz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "OP AUTO PARRY AUTO BLOCK": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-OP-AUTO-PARRY-AUTO-BLOCK-9879",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20PARRY%20AUTO%20BLOCK883.lua",
+        "author": "Uploaded by arshehtesham078 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
