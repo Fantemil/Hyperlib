@@ -34424,5 +34424,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Fe Ghost": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fe-Ghost-9858",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20Ghost673.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
