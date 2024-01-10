@@ -34493,5 +34493,13 @@
         "hub": false,
         "gameid": "15367026228",
         "game": true
+    },
+    "FE Server Crash Script WORKS ANY GAME": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FE-Server-Crash-Script-WORKS-ANY-GAME-9878",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Server%20Crash%20Script%20WORKS%20ANY%20GAME645.lua",
+        "author": "Uploaded by scriptbloxing on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
