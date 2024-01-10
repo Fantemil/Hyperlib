@@ -34596,5 +34596,21 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "keyboard": {
+        "origin": "https://scriptblox.com/script/Universal-Script-keyboard-9882",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/keyboard98.lua",
+        "author": "Uploaded by Patched_Porridge on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Key System PREMIUMAUTOMATIC PAYMENTS LinkvertiseWorkInk": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Key-System-PREMIUM+AUTOMATIC-PAYMENTS-(LinkvertiseWork.Ink)-9881",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Key%20System%20PREMIUMAUTOMATIC%20PAYMENTS%20LinkvertiseWorkInk77.lua",
+        "author": "Uploaded by fndotgg on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
