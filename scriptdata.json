@@ -34432,5 +34432,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "SPANISH HUB V5": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SPANISH-HUB-V5-9861",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPANISH%20HUB%20V5566.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "JoeBiden Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-JoeBiden-Hub-9860",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JoeBiden%20Hub445.lua",
+        "author": "Uploaded by GodSupremo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
