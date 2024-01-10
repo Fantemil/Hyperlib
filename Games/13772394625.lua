@@ -606,3 +606,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "JoeBiden Hub", "Uploaded by GodSupremo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JoeBiden%20Hub445.lua", "https://scriptblox.com/script/UPD-Blade-Ball-JoeBiden-Hub-9860")
                                     
+    addscriptexist(13772394625, "Auto farm and auto parry with Anticheat Bypass", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20and%20auto%20parry%20with%20Anticheat%20Bypass397.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-farm-and-auto-parry-with-Anticheat-Bypass-9864")
+                                    

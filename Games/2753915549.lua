@@ -654,3 +654,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Ackerman Hub", "Uploaded by ToshirouAckerman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ackerman%20Hub881.lua", "https://scriptblox.com/script/Blox-Fruits-Ackerman-Hub-9848")
                                     
+    addscriptexist(2753915549, "Max Level OP Script", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Max%20Level%20OP%20Script234.lua", "https://scriptblox.com/script/Blox-Fruits-Max-Level-OP-Script-9867")
+                                    

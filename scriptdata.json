@@ -34449,5 +34449,49 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Max Level OP Script": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Max-Level-OP-Script-9867",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Max%20Level%20OP%20Script234.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Tiger Admin 90 commands": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Tiger-Admin-90-commands-9865",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20Admin%2090%20commands591.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "only 1  Op Auto Farm and auto open full": {
+        "origin": "https://scriptblox.com/script/Universal-Script-only-1-Op-Auto-Farm-and-auto-open-full-9863",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/only%201%20%20Op%20Auto%20Farm%20and%20auto%20open%20full301.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto farm and auto parry with Anticheat Bypass": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Auto-farm-and-auto-parry-with-Anticheat-Bypass-9864",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20and%20auto%20parry%20with%20Anticheat%20Bypass397.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Auto Farm OP Gui   Update 2": {
+        "origin": "https://scriptblox.com/script/UPD-3-Anime-Souls-Simulator-X-Auto-Farm-OP-Gui-Update-2-9862",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20OP%20Gui%20%20%20Update%2021.lua",
+        "author": "Uploaded by ScriptsOP on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15367026228",
+        "game": true
     }
 }

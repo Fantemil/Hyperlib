@@ -138,3 +138,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Nihilize H4x", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nihilize%20H4x890.lua", "https://scriptblox.com/script/Prison-Life-Nihilize-H4x-9816")
                                     
+    addscriptexist(155615604, "Tiger Admin 90 commands", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20Admin%2090%20commands591.lua", "https://scriptblox.com/script/Prison-Life-Tiger-Admin-90-commands-9865")
+                                    
