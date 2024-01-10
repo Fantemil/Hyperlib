@@ -658,3 +658,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "AUTOFARM x Auto Raid x Sniper Auto Farm x FRUIT RAIN", "Uploaded by Honeybunzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20x%20Auto%20Raid%20x%20Sniper%20Auto%20Farm%20x%20FRUIT%20RAIN943.lua", "https://scriptblox.com/script/Blox-Fruits-AUTOFARM-x-Auto-Raid-x-Sniper-Auto-Farm-x-FRUIT-RAIN-9880")
                                     
+    addscriptexist(2753915549, "OP A lot of cool features", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20A%20lot%20of%20cool%20features795.lua", "https://scriptblox.com/script/Blox-Fruits-OP-A-lot-of-cool-features-9880")
+                                    

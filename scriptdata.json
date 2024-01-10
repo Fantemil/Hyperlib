@@ -34562,5 +34562,39 @@
         "hub": false,
         "gameid": "15550872309",
         "game": true
+    },
+    "OP A lot of cool features": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-A-lot-of-cool-features-9880",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20A%20lot%20of%20cool%20features795.lua",
+        "author": "Uploaded by wirefraude on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Communitygui fe by davicap2014 rc7": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Communitygui-fe-by-davicap2014-rc7-9880",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Communitygui%20fe%20by%20davicap2014%20rc7694.lua",
+        "author": "Uploaded by davilimatdn123 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "HD Admin": {
+        "origin": "https://scriptblox.com/script/Universal-Script-HD-Admin-9879",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HD%20Admin971.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "OP Auto Parry with flexible Settings": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-OP-Auto-Parry-with-flexible-Settings-9881",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Parry%20with%20flexible%20Settings942.lua",
+        "author": "Uploaded by wirefraude on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
