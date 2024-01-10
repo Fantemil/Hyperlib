@@ -34612,5 +34612,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "DarkHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-DarkHub-9883",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkHub273.lua",
+        "author": "Uploaded by c00lkidd3 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "OP DUPE SCRIPT UNPATCHED": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-OP-DUPE-SCRIPT-UNPATCHED-9884",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DUPE%20SCRIPT%20UNPATCHED759.lua",
+        "author": "Uploaded by Honeybunzz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }
