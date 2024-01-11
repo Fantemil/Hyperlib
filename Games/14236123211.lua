@@ -24,3 +24,5 @@ addscriptexist(14236123211, "Best Script  Auto  Fast Egg Dungeon and More", "Upl
                                     
     addscriptexist(14236123211, "AutoFarm Script", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Script425.lua", "https://scriptblox.com/script/UPD-18-Punch-Simulator-AutoFarm-Script-9604")
                                     
+    addscriptexist(14236123211, "Dupe huge  infinite wins and auto finished UGC Quest", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20huge%20%20infinite%20wins%20and%20auto%20finished%20UGC%20Quest570.lua", "https://scriptblox.com/script/UDP22+-Punch-Simulator-Dupe-huge-infinite-wins-and-auto-finished-UGC-Quest-9886")
+                                    
