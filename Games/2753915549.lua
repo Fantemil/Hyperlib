@@ -664,3 +664,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "fps ro", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fps%20ro57.lua", "https://scriptblox.com/script/Blox-Fruits-fps-ro-9890")
                                     
+    addscriptexist(2753915549, "Infinite Beli and Max Level Script", "Uploaded by assadeesae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Beli%20and%20Max%20Level%20Script213.lua", "https://scriptblox.com/script/Blox-Fruits-Infinite-Beli-and-Max-Level-Script-9902")
+                                    
