@@ -16,3 +16,5 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "A script with many features", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20script%20with%20many%20features376.lua", "https://scriptblox.com/script/EP-68-PART-2-Toilet-Tower-Defense-A-script-with-many-features-9659")
                                     
+    addscriptexist(13775256536, "OP AutoFarm MOD MENU 10M COINS A HOUR", "Uploaded by Wassap on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoFarm%20MOD%20MENU%2010M%20COINS%20A%20HOUR693.lua", "https://scriptblox.com/script/EP-69-PART-2-Toilet-Tower-Defense-OP-AutoFarm-MOD-MENU-10M-COINS-A-DAY-9891")
+                                    
