@@ -34775,5 +34775,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Autofarm Hub Keyless for Max Level": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Autofarm-Hub-Keyless-for-Max-Level-9890",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Hub%20Keyless%20for%20Max%20Level285.lua",
+        "author": "Uploaded by epicgamer23245655 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

@@ -668,3 +668,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Infinite Beli and Instant Max Level", "Uploaded by benjouille2012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Beli%20and%20Instant%20Max%20Level157.lua", "https://scriptblox.com/script/Blox-Fruits-Infinite-Beli-and-Instant-Max-Level-9888")
                                     
+    addscriptexist(2753915549, "Autofarm Hub Keyless for Max Level", "Uploaded by epicgamer23245655 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Hub%20Keyless%20for%20Max%20Level285.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-Hub-Keyless-for-Max-Level-9890")
+                                    
