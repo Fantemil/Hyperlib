@@ -662,3 +662,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "ATK HUB UPDATED OP AUTOFARM CHESTFARM", "Uploaded by arshehtesham078 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ATK%20HUB%20UPDATED%20OP%20AUTOFARM%20CHESTFARM464.lua", "https://scriptblox.com/script/Blox-Fruits-ATK-HUB-UPDATED-OP-AUTOFARM-CHESTFARM-9883")
                                     
+    addscriptexist(2753915549, "fps ro", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fps%20ro57.lua", "https://scriptblox.com/script/Blox-Fruits-fps-ro-9890")
+                                    

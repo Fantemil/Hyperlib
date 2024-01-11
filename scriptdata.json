@@ -34655,5 +34655,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "fps ro": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-fps-ro-9890",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fps%20ro57.lua",
+        "author": "Uploaded by zfxcvzfxcv on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
