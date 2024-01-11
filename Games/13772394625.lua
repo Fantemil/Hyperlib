@@ -618,3 +618,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "OP Auto Parry Script ANTICHEAT BYPASS RISK FREE", "Uploaded by Wassap on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Parry%20Script%20ANTICHEAT%20BYPASS%20RISK%20FREE235.lua", "https://scriptblox.com/script/Blade-Ball-OP-Auto-Parry-Script-ANTICHEAT-BYPASS-RISK-FREE-9895")
                                     
+    addscriptexist(13772394625, "EXTREMELY OVERPOWERED autoparry", "Uploaded by arshehtesham078 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EXTREMELY%20OVERPOWERED%20autoparry12.lua", "https://scriptblox.com/script/Blade-Ball-EXTREMELY-OVERPOWERED-autoparry-9907")
+                                    

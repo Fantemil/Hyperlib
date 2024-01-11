@@ -34740,5 +34740,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "EXTREMELY OVERPOWERED autoparry": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-EXTREMELY-OVERPOWERED-autoparry-9907",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EXTREMELY%20OVERPOWERED%20autoparry12.lua",
+        "author": "Uploaded by arshehtesham078 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
