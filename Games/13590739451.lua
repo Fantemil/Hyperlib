@@ -1,0 +1,2 @@
+
+    addscript(13590739451, "Current Game","Free Diamonds Free Money Free Rebith", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Diamonds%20Free%20Money%20Free%20Rebith330.lua", "https://scriptblox.com/script/Gamer-Life-Simulator-Free-Diamonds-Free-Money-Free-Rebith-9891")
