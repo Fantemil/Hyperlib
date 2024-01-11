@@ -34810,5 +34810,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "OP Autofarm and more everything": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-Autofarm-and-more-everything-9890",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm%20and%20more%20everything806.lua",
+        "author": "Uploaded by ScriptBloxer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Universal No Jump CoolDown Cursehub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-No-Jump-CoolDown-Cursehub-9892",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20No%20Jump%20CoolDown%20Cursehub143.lua",
+        "author": "Uploaded by CurseHub on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
