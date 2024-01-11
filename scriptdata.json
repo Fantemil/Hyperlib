@@ -34673,5 +34673,14 @@
         "hub": false,
         "gameid": "13775256536",
         "game": true
+    },
+    "Anticheat Bypass and Etc": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Anticheat-Bypass-and-Etc-9894",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheat%20Bypass%20and%20Etc710.lua",
+        "author": "Uploaded by assadeesae on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

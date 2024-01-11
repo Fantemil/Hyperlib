@@ -614,3 +614,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Cool script", "Uploaded by YNWMELLY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20script744.lua", "https://scriptblox.com/script/Blade-Ball-Cool-script-9882")
                                     
+    addscriptexist(13772394625, "Anticheat Bypass and Etc", "Uploaded by assadeesae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheat%20Bypass%20and%20Etc710.lua", "https://scriptblox.com/script/Blade-Ball-Anticheat-Bypass-and-Etc-9894")
+                                    
