@@ -34691,5 +34691,37 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "PS99 Best Gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-PS99-Best-Gui-9897",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Best%20Gui894.lua",
+        "author": "Uploaded by mememasternoob on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "GanjaHub PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GanjaHub-PS99-9896",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20PS99689.lua",
+        "author": "Uploaded by mememasternoob on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "SkyHub PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SkyHub-PS99-9898",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHub%20PS99993.lua",
+        "author": "Uploaded by mememasternoob on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "REDz HUB PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDz-HUB-PS99-9899",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20HUB%20PS99679.lua",
+        "author": "Uploaded by mememasternoob on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
