@@ -622,3 +622,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Project Dawn", "Uploaded by Em1nence on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Dawn309.lua", "https://scriptblox.com/script/Blade-Ball-Project-Dawn-9894")
                                     
+    addscriptexist(13772394625, "OP Anti Kick and Autofarm", "Uploaded by farrosenzi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Anti%20Kick%20and%20Autofarm185.lua", "https://scriptblox.com/script/Blade-Ball-OP-Anti-Kick-and-Autofarm-9897")
+                                    

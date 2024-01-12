@@ -34871,5 +34871,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "OP mod menu BEST PLAYERS USE": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-mod-menu-BEST-PLAYERS-USE-9897",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20mod%20menu%20BEST%20PLAYERS%20USE950.lua",
+        "author": "Uploaded by erikarevalo737 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "OP Anti Kick and Autofarm": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-OP-Anti-Kick-and-Autofarm-9897",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Anti%20Kick%20and%20Autofarm185.lua",
+        "author": "Uploaded by farrosenzi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
