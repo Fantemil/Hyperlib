@@ -34976,5 +34976,13 @@
         "hub": false,
         "gameid": "13677516356",
         "game": true
+    },
+    "Universal OG OP ESP": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Universal-OG-OP-ESP-9909",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20OG%20OP%20ESP487.lua",
+        "author": "Uploaded by CurseHub on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
