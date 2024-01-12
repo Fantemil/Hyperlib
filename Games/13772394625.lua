@@ -620,3 +620,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "EXTREMELY OVERPOWERED autoparry", "Uploaded by arshehtesham078 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EXTREMELY%20OVERPOWERED%20autoparry12.lua", "https://scriptblox.com/script/Blade-Ball-EXTREMELY-OVERPOWERED-autoparry-9907")
                                     
+    addscriptexist(13772394625, "Project Dawn", "Uploaded by Em1nence on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Dawn309.lua", "https://scriptblox.com/script/Blade-Ball-Project-Dawn-9894")
+                                    

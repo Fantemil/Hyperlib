@@ -96,3 +96,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "El pro hub", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/El%20pro%20hub503.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-El-pro-hub-9755")
                                     
+    addscriptexist(6403373529, "Tester hub", "Uploaded by Tester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tester%20hub428.lua", "https://scriptblox.com/script/Slap-Battles-Tester-hub-9895")
+                                    

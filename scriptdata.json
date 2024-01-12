@@ -34853,5 +34853,23 @@
         "hub": false,
         "gameid": "3101667897",
         "game": true
+    },
+    "Tester hub": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-Tester-hub-9895",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tester%20hub428.lua",
+        "author": "Uploaded by Tester on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
+    },
+    "Project Dawn": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Project-Dawn-9894",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Dawn309.lua",
+        "author": "Uploaded by Em1nence on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
