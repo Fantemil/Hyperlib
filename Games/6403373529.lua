@@ -98,3 +98,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Tester hub", "Uploaded by Tester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tester%20hub428.lua", "https://scriptblox.com/script/Slap-Battles-Tester-hub-9895")
                                     
+    addscriptexist(6403373529, "BiU GUI", "Uploaded by rblx365 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BiU%20GUI392.lua", "https://scriptblox.com/script/Slap-Battles-BiU-GUI-9915")
+                                    

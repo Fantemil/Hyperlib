@@ -34932,5 +34932,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "BiU GUI": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-BiU-GUI-9915",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BiU%20GUI392.lua",
+        "author": "Uploaded by rblx365 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
+    },
+    "Anonymous UTG": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Anonymous-UTG-9914",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anonymous%20UTG183.lua",
+        "author": "Uploaded by epic123 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
