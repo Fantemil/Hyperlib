@@ -624,3 +624,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "OP Anti Kick and Autofarm", "Uploaded by farrosenzi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Anti%20Kick%20and%20Autofarm185.lua", "https://scriptblox.com/script/Blade-Ball-OP-Anti-Kick-and-Autofarm-9897")
                                     
+    addscriptexist(13772394625, "OP AutoBlock UNDETECTABLE RISK FREE", "Uploaded by jaircartagena6411 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoBlock%20UNDETECTABLE%20RISK%20FREE898.lua", "https://scriptblox.com/script/Blade-Ball-OP-AutoBlock-UNDETECTABLE-RISK-FREE-9901")
+                                    

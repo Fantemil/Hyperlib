@@ -34906,5 +34906,31 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "OP AutoBlock UNDETECTABLE RISK FREE": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-OP-AutoBlock-UNDETECTABLE-RISK-FREE-9901",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoBlock%20UNDETECTABLE%20RISK%20FREE898.lua",
+        "author": "Uploaded by jaircartagena6411 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "OP mod menu 6M coins an hour": {
+        "origin": "https://scriptblox.com/script/COUNTDOWN-Toilet-Tower-Defense-OP-mod-menu-6M-coins-an-hour-9909",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20mod%20menu%206M%20coins%20an%20hour44.lua",
+        "author": "Uploaded by GoatScripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13775256536",
+        "game": true
+    },
+    "OP HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OP-HUB-9907",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20HUB150.lua",
+        "author": "Uploaded by asssssume on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
