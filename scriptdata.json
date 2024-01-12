@@ -34827,5 +34827,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Dsc mikeexc": {
+        "origin": "https://scriptblox.com/script/Breaking-Point-Dsc-mikeexc-9891",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20mikeexc581.lua",
+        "author": "Uploaded by MikeRobloxYTMike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "648362523",
+        "game": true
+    },
+    "Xanes Model Recreator": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Xanes-Model-Recreator-9892",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xanes%20Model%20Recreator832.lua",
+        "author": "Uploaded by xanem1 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
