@@ -1,0 +1,2 @@
+
+    addscript(13677516356, "Current Game","Inf Coins Inf Diamonds", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Coins%20Inf%20Diamonds278.lua", "https://scriptblox.com/script/NEW-WORLD-Bakugan-Brawl-Simulator-Inf-Coins-Inf-Diamonds-9909")
