@@ -34949,5 +34949,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Very good script": {
+        "origin": "https://scriptblox.com/script/T-Titans-Battlegrounds-Very-good-script-9916",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20good%20script241.lua",
+        "author": "Uploaded by Resulwastaken on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3082002798",
+        "game": true
+    },
+    "Mod Menu See killer and ALOT more UNDETECTABLE": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Mod-Menu-See-er-and-ALOT-more-UNDETECTABLE-9916",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20Menu%20See%20killer%20and%20ALOT%20more%20UNDETECTABLE309.lua",
+        "author": "Uploaded by fridaycallum on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }

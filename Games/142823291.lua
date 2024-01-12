@@ -166,3 +166,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "OP DUPE SCRIPT UNPATCHED", "Uploaded by Honeybunzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DUPE%20SCRIPT%20UNPATCHED759.lua", "https://scriptblox.com/script/Murder-Mystery-2-OP-DUPE-SCRIPT-UNPATCHED-9884")
                                     
+    addscriptexist(142823291, "Mod Menu See killer and ALOT more UNDETECTABLE", "Uploaded by fridaycallum on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20Menu%20See%20killer%20and%20ALOT%20more%20UNDETECTABLE309.lua", "https://scriptblox.com/script/Murder-Mystery-2-Mod-Menu-See-er-and-ALOT-more-UNDETECTABLE-9916")
+                                    
