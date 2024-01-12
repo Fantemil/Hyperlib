@@ -34844,5 +34844,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Krypton": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-Krypton-9892",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Krypton436.lua",
+        "author": "Uploaded by Merchant on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
     }
 }
