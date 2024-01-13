@@ -35001,5 +35001,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "avatar soldier": {
+        "origin": "https://scriptblox.com/script/UT-Fighting-1!-avatar-soldier-9912",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/avatar%20soldier168.lua",
+        "author": "Uploaded by Zaydeon309 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4576008267",
+        "game": true
     }
 }
