@@ -35107,5 +35107,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "OP  Infinite Beli Mod Menu DARKEN HUB Autofarm and More": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-Mod-Menu-DARKEN-HUB-Autofarm-and-More-9930",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Infinite%20Beli%20Mod%20Menu%20DARKEN%20HUB%20Autofarm%20and%20More989.lua",
+        "author": "Uploaded by dkdevr on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

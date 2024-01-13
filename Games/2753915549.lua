@@ -682,3 +682,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Script Auto Farm and more", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20and%20more655.lua", "https://scriptblox.com/script/Blox-Fruits-Script-Auto-Farm-and-more-9922")
                                     
+    addscriptexist(2753915549, "OP  Infinite Beli Mod Menu DARKEN HUB Autofarm and More", "Uploaded by dkdevr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Infinite%20Beli%20Mod%20Menu%20DARKEN%20HUB%20Autofarm%20and%20More989.lua", "https://scriptblox.com/script/Blox-Fruits-OP-Mod-Menu-DARKEN-HUB-Autofarm-and-More-9930")
+                                    
