@@ -35116,5 +35116,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "dark dex android compatible": {
+        "origin": "https://scriptblox.com/script/Universal-Script-dark-dex-android-compatible-9931",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dark%20dex%20android%20compatible958.lua",
+        "author": "Uploaded by katze7500 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
