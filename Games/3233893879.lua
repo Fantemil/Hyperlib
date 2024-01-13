@@ -6,3 +6,5 @@ addscript(3233893879, "Current Game","Bad Business Lock", "Uploaded by ball_lick
                                 
     addscriptexist(3233893879, "silent aim", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/silent%20aim593.lua", "https://scriptblox.com/script/OVERHAUL-Bad-Business-2.57-silent-aim-5189")
                                 
+    addscriptexist(3233893879, "Ready Two Player Event Only Dsc Mike", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ready%20Two%20Player%20Event%20Only%20Dsc%20Mike598.lua", "https://scriptblox.com/script/Bad-Business-Ready-Two-Player-Event-Only-Dsc-Mike-9913")
+                                    
