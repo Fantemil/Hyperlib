@@ -674,3 +674,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP mod menu BEST PLAYERS USE", "Uploaded by erikarevalo737 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20mod%20menu%20BEST%20PLAYERS%20USE950.lua", "https://scriptblox.com/script/Blox-Fruits-OP-mod-menu-BEST-PLAYERS-USE-9897")
                                     
+    addscriptexist(2753915549, "OP Autofarm Instant Max Level Script", "Uploaded by DeadBeat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm%20Instant%20Max%20Level%20Script393.lua", "https://scriptblox.com/script/Blox-Fruits-OP-Autofarm-Instant-Max-Level-Script-9912")
+                                    

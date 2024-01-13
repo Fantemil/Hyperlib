@@ -34992,5 +34992,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "OP Autofarm Instant Max Level Script": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-Autofarm-Instant-Max-Level-Script-9912",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm%20Instant%20Max%20Level%20Script393.lua",
+        "author": "Uploaded by DeadBeat on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
