@@ -35045,5 +35045,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "OP Autofarm Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-Autofarm-Hub-9914",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm%20Hub303.lua",
+        "author": "Uploaded by gs3812147 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
