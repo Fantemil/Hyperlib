@@ -35063,5 +35063,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "RedzHubz": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!R-Version-RedzHubz-9920",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHubz971.lua",
+        "author": "Uploaded by HubShare on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15546602462",
+        "game": true
+    },
+    "Atreus REWORKED": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-3-HOURS-Atreus-REWORKED-9921",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20REWORKED556.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

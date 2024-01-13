@@ -628,3 +628,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "PS99 Trade Scam And Du", "Uploaded by Pingu809 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Trade%20Scam%20And%20Du251.lua", "https://scriptblox.com/script/Blade-Ball-PS99-Trade-Scam-And-Du-9911")
                                     
+    addscriptexist(13772394625, "Atreus REWORKED", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atreus%20REWORKED556.lua", "https://scriptblox.com/script/Blade-Ball-3-HOURS-Atreus-REWORKED-9921")
+                                    

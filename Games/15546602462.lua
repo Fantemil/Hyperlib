@@ -1,0 +1,2 @@
+
+    addscript(15546602462, "Current Game","RedzHubz", "Uploaded by HubShare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHubz971.lua", "https://scriptblox.com/script/Pet-Simulator-99!R-Version-RedzHubz-9920")
