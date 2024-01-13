@@ -34984,5 +34984,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Spanish Hub V6": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Spanish-Hub-V6-9911",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spanish%20Hub%20V6638.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
