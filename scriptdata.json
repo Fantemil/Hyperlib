@@ -35081,5 +35081,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Script Auto Farm and more": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Script-Auto-Farm-and-more-9922",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20and%20more655.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "SCouT HUB SCRIPT": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-3-HOURS-SCouT-HUB-SCRIPT-9925",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCouT%20HUB%20SCRIPT172.lua",
+        "author": "Uploaded by Fcsteike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

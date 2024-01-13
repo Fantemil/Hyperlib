@@ -680,3 +680,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto Farm Quest", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Quest935.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Quest-9919")
                                     
+    addscriptexist(2753915549, "Script Auto Farm and more", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20and%20more655.lua", "https://scriptblox.com/script/Blox-Fruits-Script-Auto-Farm-and-more-9922")
+                                    
