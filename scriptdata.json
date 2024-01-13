@@ -35037,5 +35037,13 @@
         "hub": false,
         "gameid": "3233893879",
         "game": true
+    },
+    "REDzHUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDzHUB-9914",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDzHUB840.lua",
+        "author": "Uploaded by Samkissangel on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
