@@ -35099,5 +35099,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Orz Panel v1": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Orz-Panel-v1-9930",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orz%20Panel%20v1125.lua",
+        "author": "Uploaded by FireServiceScripter on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
