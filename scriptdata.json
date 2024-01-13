@@ -35010,5 +35010,14 @@
         "hub": false,
         "gameid": "4576008267",
         "game": true
+    },
+    "PS99 Trade Scam And Du": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-PS99-Trade-Scam-And-Du-9911",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Trade%20Scam%20And%20Du251.lua",
+        "author": "Uploaded by Pingu809 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

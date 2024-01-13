@@ -626,3 +626,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "OP AutoBlock UNDETECTABLE RISK FREE", "Uploaded by jaircartagena6411 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoBlock%20UNDETECTABLE%20RISK%20FREE898.lua", "https://scriptblox.com/script/Blade-Ball-OP-AutoBlock-UNDETECTABLE-RISK-FREE-9901")
                                     
+    addscriptexist(13772394625, "PS99 Trade Scam And Du", "Uploaded by Pingu809 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20Trade%20Scam%20And%20Du251.lua", "https://scriptblox.com/script/Blade-Ball-PS99-Trade-Scam-And-Du-9911")
+                                    
