@@ -1,0 +1,2 @@
+
+    addscript(15373963274, "Current Game","bootleg autofarm", "Uploaded by killet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bootleg%20autofarm544.lua", "https://scriptblox.com/script/Underwater-Company-bootleg-autofarm-9912")
