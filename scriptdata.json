@@ -35210,5 +35210,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Zen Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Zen-Hub-9951",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zen%20Hub569.lua",
+        "author": "Uploaded by noob4346 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Slh hub Modified": {
+        "origin": "https://scriptblox.com/script/GIFT-Anime-Dimensions-Simulator-RPG-Slh-hub-Modified-9950",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slh%20hub%20Modified983.lua",
+        "author": "Uploaded by Merize45 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6938803436",
+        "game": true
     }
 }

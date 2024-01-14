@@ -16,3 +16,5 @@ addscriptexist(6938803436, "auto dode and full auto farm", "Uploaded by tozxart 
                                     
     addscriptexist(6938803436, "ADS Best Script Auto Farm inf Gem Raid token HolyShz HUB", "Uploaded by HOLYSHz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADS%20Best%20Script%20Auto%20Farm%20inf%20Gem%20Raid%20token%20HolyShz%20HUB273.lua", "https://scriptblox.com/script/GIFT-Anime-Dimensions-Simulator-ADS-Best-Script-Auto-Farm-inf-Gem-Raid-token-HolyShz-HUB-9769")
                                     
+    addscriptexist(6938803436, "Slh hub Modified", "Uploaded by Merize45 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slh%20hub%20Modified983.lua", "https://scriptblox.com/script/GIFT-Anime-Dimensions-Simulator-RPG-Slh-hub-Modified-9950")
+                                    
