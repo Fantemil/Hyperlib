@@ -1,0 +1,2 @@
+
+    addscript(15494065142, "Current Game","ROCK OP UTOFRM GEMS LEVELUP REBIRTH ND WORKERS", "Uploaded by realreal123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROCK%20OP%20UTOFRM%20GEMS%20LEVELUP%20REBIRTH%20ND%20WORKERS657.lua", "https://scriptblox.com/script/CLICK-a-ROCK!-ROCK-OP-UTOFRM-GEMS-LEVELUP-REBIRTH-ND-WORKERS-9964")
