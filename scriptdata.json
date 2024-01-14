@@ -35141,5 +35141,13 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "Idk": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Idk-9934",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Idk257.lua",
+        "author": "Uploaded by jointodayteamwt on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
