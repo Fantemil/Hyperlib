@@ -14,3 +14,5 @@ addscriptexist(6766156863, "OP  sim", "Uploaded by et1ty on scriptblox.com", "ht
                                     
     addscriptexist(6766156863, "Auto Grab n Auto Workout and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Grab%20n%20Auto%20Workout%20and%20more331.lua", "https://scriptblox.com/script/5xStrongman-Simulator-Auto-Grab-n-Auto-Workout-and-more-8395")
                                     
+    addscriptexist(6766156863, "best script for", "Uploaded by noob4346 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20for982.lua", "https://scriptblox.com/script/Strongman-Simulator-best-script-for-9947")
+                                    

