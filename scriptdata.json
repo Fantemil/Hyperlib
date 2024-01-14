@@ -35175,5 +35175,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "bruh": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-bruh-9942",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bruh426.lua",
+        "author": "Uploaded by ramplexpeace on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

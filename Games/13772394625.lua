@@ -636,3 +636,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "EMINx HUB Rework", "Uploaded by Em1nence on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EMINx%20HUB%20Rework692.lua", "https://scriptblox.com/script/UPD-Blade-Ball-EMINx-HUB-Rework-9941")
                                     
+    addscriptexist(13772394625, "bruh", "Uploaded by ramplexpeace on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bruh426.lua", "https://scriptblox.com/script/UPD-Blade-Ball-bruh-9942")
+                                    
