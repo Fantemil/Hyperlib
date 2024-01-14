@@ -100,3 +100,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "BiU GUI", "Uploaded by rblx365 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BiU%20GUI392.lua", "https://scriptblox.com/script/Slap-Battles-BiU-GUI-9915")
                                     
+    addscriptexist(6403373529, "Ability gui donjo", "Uploaded by Tester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20gui%20donjo717.lua", "https://scriptblox.com/script/UPD-Slap-Battles-Ability-gui-donjo-9931")
+                                    

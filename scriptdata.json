@@ -35124,5 +35124,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "SPANISH HUB V7": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SPANISH-HUB-V7-9932",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPANISH%20HUB%20V7552.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Ability gui donjo": {
+        "origin": "https://scriptblox.com/script/UPD-Slap-Battles-Ability-gui-donjo-9931",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20gui%20donjo717.lua",
+        "author": "Uploaded by Tester on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }
