@@ -35271,5 +35271,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "NeonC Hub X": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Ncndjj-9957",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20X239.lua",
+        "author": "Uploaded by NeoncatXRZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "KaynZ Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-KaynZ-Hub-9958",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KaynZ%20Hub183.lua",
+        "author": "Uploaded by qzenxy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

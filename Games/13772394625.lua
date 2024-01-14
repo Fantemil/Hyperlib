@@ -642,3 +642,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Prjct X", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prjct%20X858.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Prjct-X-9952")
                                     
+    addscriptexist(13772394625, "NeonC Hub X", "Uploaded by NeoncatXRZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20X239.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Ncndjj-9957")
+                                    

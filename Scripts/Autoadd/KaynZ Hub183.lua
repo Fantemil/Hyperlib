@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PSXNewScriptHUB/scriptv1/main/KaynzhUB"))()
