@@ -35246,5 +35246,22 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Tiger admin": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Tiger-admin-9957",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin92.lua",
+        "author": "Uploaded by robertmicica382 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "FPS Booster and FPS Counter Delta Plugin": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FPS-Booster-and-FPS-Counter-Delta-Plugin-9956",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FPS%20Booster%20and%20FPS%20Counter%20Delta%20Plugin735.lua",
+        "author": "Uploaded by iamhuman on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
