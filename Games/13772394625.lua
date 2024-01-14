@@ -640,3 +640,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "NEW   boss fight event script", "Uploaded by jerrywalter802 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20%20%20boss%20fight%20event%20script522.lua", "https://scriptblox.com/script/UPD-Blade-Ball-NEW-boss-fight-event-script-9944")
                                     
+    addscriptexist(13772394625, "Prjct X", "Uploaded by DenDenZOnYouTube on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prjct%20X858.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Prjct-X-9952")
+                                    
