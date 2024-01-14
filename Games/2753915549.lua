@@ -686,3 +686,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "AutoFarm plus Infinite beli farm mod menu", "Uploaded by cupermaniak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20plus%20Infinite%20beli%20farm%20mod%20menu268.lua", "https://scriptblox.com/script/Blox-Fruits-AutoFarm-plus-Infinite-beli-farm-mod-menu-9953")
                                     
+    addscriptexist(2753915549, "BEST SCRIPT NO LAG", "Uploaded by Raito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20NO%20LAG396.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-NO-LAG-9964")
+                                    

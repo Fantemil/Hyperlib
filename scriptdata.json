@@ -35313,5 +35313,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "BEST SCRIPT NO LAG": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-NO-LAG-9964",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20NO%20LAG396.lua",
+        "author": "Uploaded by Raito on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
