@@ -35149,5 +35149,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Drowned HUB MOST OP AP IN THE SITE": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Drowned-HUB-MOST-OP-AP-IN-THE-SITE-9935",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drowned%20HUB%20MOST%20OP%20AP%20IN%20THE%20SITE705.lua",
+        "author": "Uploaded by Malfume on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

@@ -632,3 +632,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "SCouT HUB SCRIPT", "Uploaded by Fcsteike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCouT%20HUB%20SCRIPT172.lua", "https://scriptblox.com/script/Blade-Ball-3-HOURS-SCouT-HUB-SCRIPT-9925")
                                     
+    addscriptexist(13772394625, "Drowned HUB MOST OP AP IN THE SITE", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drowned%20HUB%20MOST%20OP%20AP%20IN%20THE%20SITE705.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Drowned-HUB-MOST-OP-AP-IN-THE-SITE-9935")
+                                    
