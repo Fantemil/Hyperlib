@@ -35331,5 +35331,22 @@
         "hub": false,
         "gameid": "15494065142",
         "game": true
+    },
+    "The BEST PS99 Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-The-BEST-PS99-Script-9966",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20BEST%20PS99%20Script483.lua",
+        "author": "Uploaded by Lexius on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "partial godmode": {
+        "origin": "https://scriptblox.com/script/Sorcerer-Battlegrounds-partial-godmode-9967",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/partial%20godmode135.lua",
+        "author": "Uploaded by ADSKer on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13601434903",
+        "game": true
     }
 }
