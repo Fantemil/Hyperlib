@@ -35297,5 +35297,21 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Nexware ORIGINAL PORTUGUESE": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Nexware-ORIGINAL-PORTUGUESE-9959",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nexware%20ORIGINAL%20PORTUGUESE601.lua",
+        "author": "Uploaded by Boris on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Nexware ENGLISH": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Nexware-ENGLISH-9960",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nexware%20ENGLISH519.lua",
+        "author": "Uploaded by Boris on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

@@ -140,3 +140,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Tiger Admin 90 commands", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20Admin%2090%20commands591.lua", "https://scriptblox.com/script/Prison-Life-Tiger-Admin-90-commands-9865")
                                     
+    addscriptexist(155615604, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub133.lua", "https://scriptblox.com/script/Prison-Life-Script-by-Tbao-Hub-9961")
+                                    
