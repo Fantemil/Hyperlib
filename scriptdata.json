@@ -35158,5 +35158,22 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "EMINx HUB Rework": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-EMINx-HUB-Rework-9941",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EMINx%20HUB%20Rework692.lua",
+        "author": "Uploaded by Em1nence on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Doritos Walkspeed changer": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Doritos-Walkspeed-changer-9940",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Doritos%20Walkspeed%20changer807.lua",
+        "author": "Uploaded by jfire on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
