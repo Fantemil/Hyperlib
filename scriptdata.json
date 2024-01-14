@@ -35263,5 +35263,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Simple Module Script Decompiler": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Simple-Module-Script-Decompiler-9958",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Module%20Script%20Decompiler181.lua",
+        "author": "Uploaded by Tabletopjiver on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
