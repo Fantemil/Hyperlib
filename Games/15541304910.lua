@@ -6,3 +6,5 @@
                                     
     addscriptexist(15541304910, "Auto Fish", "Uploaded by 4Akii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish256.lua", "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-Auto-Fish-9853")
                                     
+    addscriptexist(15541304910, "RedzHub", "Uploaded by GamezHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub740.lua", "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-RedzHubz-9948")
+                                    

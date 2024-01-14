@@ -35202,5 +35202,13 @@
         "hub": false,
         "gameid": "10253248401",
         "game": true
+    },
+    "Murder Mystery 2 Auto Farm Coins Test": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Murder-Mystery-2-Auto-Farm-Coins-Test-9949",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20Mystery%202%20Auto%20Farm%20Coins%20Test94.lua",
+        "author": "Uploaded by Guesttester_1 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

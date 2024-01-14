@@ -16,3 +16,5 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                     
     addscriptexist(12355337193, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quantumix%20HUB129.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Quantumix-HUB-7716")
                                     
+    addscriptexist(12355337193, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub351.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Script-by-Tbao-Hub-9947")
+                                    
