@@ -4,3 +4,5 @@
                                     
     addscriptexist(15367026228, "Auto Farm OP Gui   Update 2", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20OP%20Gui%20%20%20Update%2021.lua", "https://scriptblox.com/script/UPD-3-Anime-Souls-Simulator-X-Auto-Farm-OP-Gui-Update-2-9862")
                                     
+    addscriptexist(15367026228, "Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2741.lua", "https://scriptblox.com/script/UPD-4-Anime-Souls-Simulator-X-Demonic-HUB-V2-9967")
+                                    
