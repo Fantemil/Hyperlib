@@ -35450,5 +35450,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "hydroxide for mobile": {
+        "origin": "https://scriptblox.com/script/Universal-Script-hydroxide-for-mobile-9977",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hydroxide%20for%20mobile945.lua",
+        "author": "Uploaded by Guelgamesbr on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
