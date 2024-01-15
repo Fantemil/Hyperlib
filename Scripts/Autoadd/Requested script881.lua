@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sidhsksjsjsh/launch-into-space-simulator/main/.lua"))()
