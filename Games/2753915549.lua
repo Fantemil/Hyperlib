@@ -688,3 +688,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "BEST SCRIPT NO LAG", "Uploaded by Raito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20NO%20LAG396.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-NO-LAG-9964")
                                     
+    addscriptexist(2753915549, "SCRIPT AUTO RAID AND AUTO FARM MANY FEATURE", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20AUTO%20RAID%20AND%20AUTO%20FARM%20MANY%20FEATURE348.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-AUTO-RAID-AND-AUTO-FARM-MANY-FEATURE-9972")
+                                    

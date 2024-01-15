@@ -35381,5 +35381,23 @@
         "hub": false,
         "gameid": "15311521477",
         "game": true
+    },
+    "SCRIPT AUTO RAID AND AUTO FARM MANY FEATURE": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-SCRIPT-AUTO-RAID-AND-AUTO-FARM-MANY-FEATURE-9972",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20AUTO%20RAID%20AND%20AUTO%20FARM%20MANY%20FEATURE348.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Smasher Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Smasher-Hub-9973",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smasher%20Hub800.lua",
+        "author": "Uploaded by Darkrai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
