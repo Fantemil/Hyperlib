@@ -35399,5 +35399,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "supah secrt gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-supah-secrt-gui-9974",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/supah%20secrt%20gui602.lua",
+        "author": "Uploaded by g00byd0lan on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
