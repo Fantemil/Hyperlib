@@ -35425,5 +35425,13 @@
         "hub": false,
         "gameid": "9049840490",
         "game": true
+    },
+    "Spanish Hub V9": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Spanish-Hub-V9-9974",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spanish%20Hub%20V9350.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
