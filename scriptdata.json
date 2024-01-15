@@ -35364,5 +35364,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "I want more open sourcrs  script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-I-want-more-open-sourcrs-script-9970",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20want%20more%20open%20sourcrs%20%20script243.lua",
+        "author": "Uploaded by 2463381631 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Sans rng": {
+        "origin": "https://scriptblox.com/script/sans.rng-Sans-rng-9969",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sans%20rng198.lua",
+        "author": "Uploaded by alfountain18 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15311521477",
+        "game": true
     }
 }
