@@ -690,3 +690,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "SCRIPT AUTO RAID AND AUTO FARM MANY FEATURE", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20AUTO%20RAID%20AND%20AUTO%20FARM%20MANY%20FEATURE348.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-AUTO-RAID-AND-AUTO-FARM-MANY-FEATURE-9972")
                                     
+    addscriptexist(2753915549, "MURMEIDZ hub OP Mod Menu Infinite Beli Autofarm and MORE", "Uploaded by dadadad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURMEIDZ%20hub%20OP%20Mod%20Menu%20Infinite%20Beli%20Autofarm%20and%20MORE999.lua", "https://scriptblox.com/script/Blox-Fruits-MURMEIDZ-hub-OP-Mod-Menu-Infinite-Beli-Autofarm-and-MORE-9973")
+                                    

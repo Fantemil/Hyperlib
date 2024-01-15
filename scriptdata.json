@@ -35407,5 +35407,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "MURMEIDZ hub OP Mod Menu Infinite Beli Autofarm and MORE": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-MURMEIDZ-hub-OP-Mod-Menu-Infinite-Beli-Autofarm-and-MORE-9973",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURMEIDZ%20hub%20OP%20Mod%20Menu%20Infinite%20Beli%20Autofarm%20and%20MORE999.lua",
+        "author": "Uploaded by dadadad on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Auto complete guest": {
+        "origin": "https://scriptblox.com/script/SONIC-PRIME-Sonic-Speed-Simulator-Auto-complete-guest-9972",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20complete%20guest228.lua",
+        "author": "Uploaded by Troll on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9049840490",
+        "game": true
     }
 }
