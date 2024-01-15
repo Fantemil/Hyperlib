@@ -35433,5 +35433,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "OP Master Script AUTOPARRY": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Master-Script-9977",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Master%20Script%20AUTOPARRY388.lua",
+        "author": "Uploaded by NoName on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Mori Hub With OP Features": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Mori-Hub-With-OP-Features-9976",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mori%20Hub%20With%20OP%20Features852.lua",
+        "author": "Uploaded by tahakhatab169 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
