@@ -35356,5 +35356,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "REDZHUB FREE GUI": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDZHUB-FREE-GUI-9967",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZHUB%20FREE%20GUI78.lua",
+        "author": "Uploaded by ristyencsrg on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
