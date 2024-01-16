@@ -35458,5 +35458,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Davi Hub v3": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Davi-Hub-v3-9978",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Davi%20Hub%20v3926.lua",
+        "author": "Uploaded by DaviScriptsofficial on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
