@@ -1,0 +1,2 @@
+
+    addscript(7449423635, "Current Game","zekrom hub", "Uploaded by ztechs1234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zekrom%20hub202.lua", "https://scriptblox.com/script/Blox-Fruits-zekrom-hub-9988")

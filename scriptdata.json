@@ -35587,5 +35587,23 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "zekrom hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-zekrom-hub-9988",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zekrom%20hub202.lua",
+        "author": "Uploaded by ztechs1234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7449423635",
+        "game": true
+    },
+    "OP Mod Menu HUB NO LAG BEST SCRIPT": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-NO-LAG-AUTOFARM-INFINITE-BELI-9987",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Mod%20Menu%20HUB%20NO%20LAG%20BEST%20SCRIPT947.lua",
+        "author": "Uploaded by briquaireantoine on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
