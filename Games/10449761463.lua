@@ -38,3 +38,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Very usefull script for Farming", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20usefull%20script%20for%20Farming44.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Very-usefull-script-for-Farming-9718")
                                     
+    addscriptexist(10449761463, "Auto Farm Player", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Player484.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Auto-Farm-Player-9982")
+                                    

@@ -35491,5 +35491,23 @@
         "hub": false,
         "gameid": "6872265039",
         "game": true
+    },
+    "Auto Farm Player": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-Auto-Farm-Player-9982",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Player484.lua",
+        "author": "Uploaded by 5iREx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
+    },
+    "By Xenon HUB": {
+        "origin": "https://scriptblox.com/script/Evade-Script-By-XenonHUB-9983",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/By%20Xenon%20HUB589.lua",
+        "author": "Uploaded by yusupsaefullah400 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9872472334",
+        "game": true
     }
 }
