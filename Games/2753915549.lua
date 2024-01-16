@@ -698,3 +698,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP Mod Menu HUB NO LAG BEST SCRIPT", "Uploaded by briquaireantoine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Mod%20Menu%20HUB%20NO%20LAG%20BEST%20SCRIPT947.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-NO-LAG-AUTOFARM-INFINITE-BELI-9987")
                                     
+    addscriptexist(2753915549, "OMG HUB X OP HUB ALL POPULAR GAMES", "Uploaded by quandale on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OMG%20HUB%20X%20OP%20HUB%20ALL%20POPULAR%20GAMES93.lua", "https://scriptblox.com/script/Blox-Fruits-OMG-HUB-X-OP-HUB-ALL-POPULAR-GAMES-9988")
+                                    
