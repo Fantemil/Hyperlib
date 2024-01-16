@@ -35466,5 +35466,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "free gamepass": {
+        "origin": "https://scriptblox.com/script/Universal-Script-free-gamepass-9979",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20gamepass568.lua",
+        "author": "Uploaded by aqilziqrihihi on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
