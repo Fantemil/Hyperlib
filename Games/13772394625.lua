@@ -650,3 +650,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "OP Master Script AUTOPARRY", "Uploaded by NoName on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Master%20Script%20AUTOPARRY388.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Master-Script-9977")
                                     
+    addscriptexist(13772394625, "sentinel event script", "Uploaded by Iamnotrealevan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sentinel%20event%20script718.lua", "https://scriptblox.com/script/UPD-Blade-Ball-sentinel-event-script-9992")
+                                    

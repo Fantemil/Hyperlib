@@ -35543,5 +35543,23 @@
         "hub": false,
         "gameid": "13864661000",
         "game": true
+    },
+    "sentinel event script": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-sentinel-event-script-9992",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sentinel%20event%20script718.lua",
+        "author": "Uploaded by Iamnotrealevan on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "AutoPlayer Lite": {
+        "origin": "https://scriptblox.com/script/Basically-FNF:-Remix-AutoPlayer-Lite-9989",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoPlayer%20Lite343.lua",
+        "author": "Uploaded by Waza80 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6520999642",
+        "game": true
     }
 }
