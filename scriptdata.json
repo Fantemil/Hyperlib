@@ -35474,5 +35474,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Alchemy Hub Last": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Alchemy-Hub-Last-9980",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alchemy%20Hub%20Last594.lua",
+        "author": "Uploaded by x2Neptune on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
