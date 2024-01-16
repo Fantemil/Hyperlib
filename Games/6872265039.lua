@@ -102,3 +102,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Darkai X", "Uploaded by Ooob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkai%20X835.lua", "https://scriptblox.com/script/BedWars-LIMITED-BUNDLE-Darkai-X-9691")
                                     
+    addscriptexist(6872265039, "Alsploit", "Uploaded by RobloxPlayer1234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alsploit734.lua", "https://scriptblox.com/script/BedWars-MAP-MECHANICS-Alsploit-9981")
+                                    

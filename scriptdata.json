@@ -35482,5 +35482,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Alsploit": {
+        "origin": "https://scriptblox.com/script/BedWars-MAP-MECHANICS-Alsploit-9981",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alsploit734.lua",
+        "author": "Uploaded by RobloxPlayer1234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
     }
 }
