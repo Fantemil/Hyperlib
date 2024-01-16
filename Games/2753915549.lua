@@ -694,3 +694,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP DOMINADO AutoFarm and INFINITE BELI Spanish and English", "Uploaded by dadadad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DOMINADO%20AutoFarm%20and%20INFINITE%20BELI%20Spanish%20and%20English547.lua", "https://scriptblox.com/script/Blox-Fruits-OP-DOMINADO-AutoFarm-and-INFINITE-BELI-Spanish-and-English-9985")
                                     
+    addscriptexist(2753915549, "MASTER HUB OP AUTOFARM ESP ALL", "Uploaded by NoName on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MASTER%20HUB%20OP%20AUTOFARM%20ESP%20ALL206.lua", "https://scriptblox.com/script/Blox-Fruits-MASTER-HUB-OP-AUTOFARM-ESP-ALL-9993")
+                                    
