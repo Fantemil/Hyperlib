@@ -692,3 +692,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "MURMEIDZ hub OP Mod Menu Infinite Beli Autofarm and MORE", "Uploaded by dadadad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURMEIDZ%20hub%20OP%20Mod%20Menu%20Infinite%20Beli%20Autofarm%20and%20MORE999.lua", "https://scriptblox.com/script/Blox-Fruits-MURMEIDZ-hub-OP-Mod-Menu-Infinite-Beli-Autofarm-and-MORE-9973")
                                     
+    addscriptexist(2753915549, "OP DOMINADO AutoFarm and INFINITE BELI Spanish and English", "Uploaded by dadadad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DOMINADO%20AutoFarm%20and%20INFINITE%20BELI%20Spanish%20and%20English547.lua", "https://scriptblox.com/script/Blox-Fruits-OP-DOMINADO-AutoFarm-and-INFINITE-BELI-Spanish-and-English-9985")
+                                    

@@ -35509,5 +35509,30 @@
         "hub": false,
         "gameid": "9872472334",
         "game": true
+    },
+    "OP DOMINADO AutoFarm and INFINITE BELI Spanish and English": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-DOMINADO-AutoFarm-and-INFINITE-BELI-Spanish-and-English-9985",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20DOMINADO%20AutoFarm%20and%20INFINITE%20BELI%20Spanish%20and%20English547.lua",
+        "author": "Uploaded by dadadad on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Redz Hub iOS and Android": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Redz-Hub-iOS-and-Android-9984",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20iOS%20and%20Android636.lua",
+        "author": "Uploaded by zogaboy6 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "SpanishHub V10": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SpanishHub-V10-9987",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpanishHub%20V10263.lua",
+        "author": "Uploaded by briquaireantoine on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
