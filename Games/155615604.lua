@@ -142,3 +142,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub133.lua", "https://scriptblox.com/script/Prison-Life-Script-by-Tbao-Hub-9961")
                                     
+    addscriptexist(155615604, "SCouT Hub give Guns all", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCouT%20Hub%20give%20Guns%20all308.lua", "https://scriptblox.com/script/Prison-Life-SCouT-Hub-give-Guns-all-9994")
+                                    

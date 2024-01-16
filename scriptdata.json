@@ -35561,5 +35561,22 @@
         "hub": false,
         "gameid": "6520999642",
         "game": true
+    },
+    "SCouT Hub give Guns all": {
+        "origin": "https://scriptblox.com/script/Prison-Life-SCouT-Hub-give-Guns-all-9994",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCouT%20Hub%20give%20Guns%20all308.lua",
+        "author": "Uploaded by Scout7ixs on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "BUENO OP DUPE SCRIPT ANY P3T UNDETECTED GUI": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BUENO-OP-DUPE-SCRIPT-ANY-P3T-UNDETECTED-GUI-9993",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BUENO%20OP%20DUPE%20SCRIPT%20ANY%20P3T%20UNDETECTED%20GUI909.lua",
+        "author": "Uploaded by NoName on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
