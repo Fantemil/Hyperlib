@@ -35614,5 +35614,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Lunar Hub BYPASSED": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Lunar-Hub-BYPASSED-9989",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20Hub%20BYPASSED280.lua",
+        "author": "Uploaded by nextix on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }

