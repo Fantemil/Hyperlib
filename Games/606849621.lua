@@ -68,3 +68,5 @@ addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblo
                                     
     addscriptexist(606849621, "DevilWare Script", "Uploaded by Moretti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevilWare%20Script733.lua", "https://scriptblox.com/script/Jailbreak-DevilWare-Script-7692")
                                     
+    addscriptexist(606849621, "Auto rob", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rob958.lua", "https://scriptblox.com/script/Jailbreak-New-Robbery-Auto-rob-9991")
+                                    
