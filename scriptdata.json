@@ -35534,5 +35534,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "XenonHUB Support Mobile": {
+        "origin": "https://scriptblox.com/script/Break-In-2-(Story)-XenonHUB-9988",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XenonHUB%20Support%20Mobile6.lua",
+        "author": "Uploaded by yusupsaefullah400 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13864661000",
+        "game": true
     }
 }
