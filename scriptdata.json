@@ -35832,5 +35832,14 @@
         "hub": false,
         "gameid": "4972091010",
         "game": true
+    },
+    "Raito Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Raito-Hub-10009",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raito%20Hub128.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
