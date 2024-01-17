@@ -35866,5 +35866,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "simple fps booster": {
+        "origin": "https://scriptblox.com/script/Universal-Script-simple-fps-booster-10019",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20fps%20booster307.lua",
+        "author": "Uploaded by ent1ty on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Team8x8x8x8 gui v4": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Team8x8x8x8-gui-v4-10020",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team8x8x8x8%20gui%20v4242.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
     }
 }
