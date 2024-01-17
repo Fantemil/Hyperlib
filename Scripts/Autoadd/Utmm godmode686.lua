@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptGiver69/TheOfficialScripts/main/UTMMUniversalGodmode.lua",true))()
