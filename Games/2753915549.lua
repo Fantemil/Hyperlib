@@ -700,3 +700,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OMG HUB X OP HUB ALL POPULAR GAMES", "Uploaded by quandale on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OMG%20HUB%20X%20OP%20HUB%20ALL%20POPULAR%20GAMES93.lua", "https://scriptblox.com/script/Blox-Fruits-OMG-HUB-X-OP-HUB-ALL-POPULAR-GAMES-9988")
                                     
+    addscriptexist(2753915549, "Script Auto Farm and Auto Raid and Smooth", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20and%20Auto%20Raid%20and%20Smooth634.lua", "https://scriptblox.com/script/Blox-Fruits-Script-Auto-Farm-and-Auto-Raid-and-Smooth-9998")
+                                    

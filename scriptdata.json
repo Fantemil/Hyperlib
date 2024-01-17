@@ -35693,5 +35693,40 @@
         "hub": false,
         "gameid": "155615604",
         "game": true
+    },
+    "Team8x8x8x8 gui v2": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Team8x8x8x8-gui-v2-9997",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team8x8x8x8%20gui%20v2825.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "RedzAuto Gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RedzAuto-Gui-9996",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzAuto%20Gui609.lua",
+        "author": "Uploaded by redz99 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "team8x8x8x8 gui": {
+        "origin": "https://scriptblox.com/script/Client-Replication-team8x8x8x8-gui-9995",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/team8x8x8x8%20gui170.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "Script Auto Farm and Auto Raid and Smooth": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Script-Auto-Farm-and-Auto-Raid-and-Smooth-9998",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20and%20Auto%20Raid%20and%20Smooth634.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
