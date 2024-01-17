@@ -35667,5 +35667,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "ASTRONOMICAL AUTOPARRY AND SO MUCH MORE": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-ASTRONOMICAL-AUTOPARRY-AND-SO-MUCH-MORE-9994",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ASTRONOMICAL%20AUTOPARRY%20AND%20SO%20MUCH%20MORE700.lua",
+        "author": "Uploaded by fbibo_y on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
