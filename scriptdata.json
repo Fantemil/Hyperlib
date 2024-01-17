@@ -35762,5 +35762,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Luminex HUB": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Luminex-HUB-10002",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luminex%20HUB659.lua",
+        "author": "Uploaded by Darkrai on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "BEST OP Script Hub NO LAG ALL POPULAR GAMES": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BEST-OP-Script-Hub-NO-LAG-ALL-POPULAR-GAMES-10001",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20OP%20Script%20Hub%20NO%20LAG%20ALL%20POPULAR%20GAMES307.lua",
+        "author": "Uploaded by briquaireantoine on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
