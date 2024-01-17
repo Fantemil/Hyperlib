@@ -35787,5 +35787,50 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Hosino Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Hosino-Hub-10004",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hosino%20Hub498.lua",
+        "author": "Uploaded by Soicodoc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Team8x8x8x8 executor v1": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Team8x8x8x8-executor-v1-10007",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team8x8x8x8%20executor%20v1329.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "OP    script": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-script-10008",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20%20script973.lua",
+        "author": "Uploaded by ztechs1234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7449423635",
+        "game": true
+    },
+    "Team8x8x8x8 v3": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Team8x8x8x8-v3-10006",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team8x8x8x8%20v3120.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "Xenon HUB": {
+        "origin": "https://scriptblox.com/script/NEW-Zombie-Uprising-Xenon-HUB-10005",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xenon%20HUB865.lua",
+        "author": "Uploaded by Agatha on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4972091010",
+        "game": true
     }
 }

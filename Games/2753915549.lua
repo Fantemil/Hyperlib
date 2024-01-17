@@ -702,3 +702,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Script Auto Farm and Auto Raid and Smooth", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20and%20Auto%20Raid%20and%20Smooth634.lua", "https://scriptblox.com/script/Blox-Fruits-Script-Auto-Farm-and-Auto-Raid-and-Smooth-9998")
                                     
+    addscriptexist(2753915549, "Hosino Hub", "Uploaded by Soicodoc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hosino%20Hub498.lua", "https://scriptblox.com/script/Blox-Fruits-Hosino-Hub-10004")
+                                    
