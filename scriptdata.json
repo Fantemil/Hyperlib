@@ -35850,5 +35850,21 @@
         "hub": false,
         "gameid": "6516141723",
         "game": true
+    },
+    "REDDz beta": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDDz-beta-10016",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDDz%20beta190.lua",
+        "author": "Uploaded by redz99 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "OP MENU BERT HUB EVERY GAME": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OP-MENU-BERT-HUB-EVERY-GAME-10017",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20MENU%20BERT%20HUB%20EVERY%20GAME528.lua",
+        "author": "Uploaded by quandale on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
