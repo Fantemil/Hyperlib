@@ -35779,5 +35779,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "RedzzHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RedzzHub-10003",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzzHub511.lua",
+        "author": "Uploaded by redz99 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
