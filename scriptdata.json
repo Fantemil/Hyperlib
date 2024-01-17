@@ -35676,5 +35676,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "REDz HUB n DUPE": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDz-HUB-n-DUPE-9995",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20HUB%20n%20DUPE948.lua",
+        "author": "Uploaded by psxtop47 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
