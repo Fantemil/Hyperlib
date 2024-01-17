@@ -1,0 +1,2 @@
+
+    addscript(15703234185, "Current Game","New Game", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Game831.lua", "https://scriptblox.com/script/UPDATE-Sword-Slashing-Simulator-New-Game-10013")
