@@ -35883,5 +35883,22 @@
         "hub": false,
         "gameid": "10218821851",
         "game": true
+    },
+    "OP HUB v1": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OP-HUB-v1-10015",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20HUB%20v1925.lua",
+        "author": "Uploaded by jayen on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "SCHIZOPHRENIC AUTOPARRY AND SO MUCH MORE": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-SCHIZOPHRENIC-AUTOPARRY-AND-SO-MUCH-MORE-10016",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCHIZOPHRENIC%20AUTOPARRY%20AND%20SO%20MUCH%20MORE69.lua",
+        "author": "Uploaded by fbibo_y on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

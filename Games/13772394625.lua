@@ -658,3 +658,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Luminex HUB", "Uploaded by Darkrai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luminex%20HUB659.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Luminex-HUB-10002")
                                     
+    addscriptexist(13772394625, "SCHIZOPHRENIC AUTOPARRY AND SO MUCH MORE", "Uploaded by fbibo_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCHIZOPHRENIC%20AUTOPARRY%20AND%20SO%20MUCH%20MORE69.lua", "https://scriptblox.com/script/UPD-Blade-Ball-SCHIZOPHRENIC-AUTOPARRY-AND-SO-MUCH-MORE-10016")
+                                    
