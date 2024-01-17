@@ -92,3 +92,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "BlackKing x BobHub", "Uploaded by rblx365 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackKing%20x%20BobHub123.lua", "https://scriptblox.com/script/DOORS-BlackKing-x-BobHub-9771")
                                     
+    addscriptexist(6516141723, "lolcat script for PC and Emulator", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lolcat%20script%20for%20PC%20and%20Emulator175.lua", "https://scriptblox.com/script/DOORS-lolcat-script-for-PC-and-Emulator-10013")
+                                    

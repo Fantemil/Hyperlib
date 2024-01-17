@@ -36,3 +36,5 @@ addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "ht
                                     
     addscriptexist(13864661000, "XenonHUB Support Mobile", "Uploaded by yusupsaefullah400 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XenonHUB%20Support%20Mobile6.lua", "https://scriptblox.com/script/Break-In-2-(Story)-XenonHUB-9988")
                                     
+    addscriptexist(13864661000, "OP    Script", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20%20Script445.lua", "https://scriptblox.com/script/Break-In-2-(Story)-g-Blitz-10011")
+                                    
