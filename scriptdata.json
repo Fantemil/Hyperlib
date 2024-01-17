@@ -35728,5 +35728,39 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Ninja": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ninja-9999",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja377.lua",
+        "author": "Uploaded by adamnaufalmadlan on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "My gui": {
+        "origin": "https://scriptblox.com/script/Client-Replication-My-gui-10002",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/My%20gui230.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "1x3x5x6 gui real": {
+        "origin": "https://scriptblox.com/script/Client-Replication-1x3x5x6-gui-real-10000",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1x3x5x6%20gui%20real391.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "Visual": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Visual-10001",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual26.lua",
+        "author": "Uploaded by ps99hub on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
