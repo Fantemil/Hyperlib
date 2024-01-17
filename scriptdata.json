@@ -35650,5 +35650,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Fly Car Gui": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Fly-Car-Gui-9993",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Car%20Gui390.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }

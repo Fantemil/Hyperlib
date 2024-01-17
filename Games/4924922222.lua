@@ -80,3 +80,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Free Music", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Music564.lua", "https://scriptblox.com/script/Brookhaven-RP-Free-Music-9819")
                                     
+    addscriptexist(4924922222, "Fly Car Gui", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Car%20Gui390.lua", "https://scriptblox.com/script/Brookhaven-RP-Fly-Car-Gui-9993")
+                                    
