@@ -36133,5 +36133,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "666 F3X": {
+        "origin": "https://scriptblox.com/script/Universal-Script-666-F3X-10030",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/666%20F3X684.lua",
+        "author": "Uploaded by C00LKidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
