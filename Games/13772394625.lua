@@ -668,3 +668,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "INSANE autoparry autoblock OP", "Uploaded by uziahmed01 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSANE%20autoparry%20autoblock%20OP473.lua", "https://scriptblox.com/script/Blade-Ball-INSANE-autoparry-autoblock-OP-10030")
                                     
+    addscriptexist(13772394625, "Auto spam auto parry", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20spam%20auto%20parry862.lua", "https://scriptblox.com/script/Blade-Ball-Auto-spam-auto-parry-10033")
+                                    

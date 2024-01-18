@@ -36115,5 +36115,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Infinite exp": {
+        "origin": "https://scriptblox.com/script/+X70-Gon-and-Reward+NEW!!Rock-Fruit-Infinite-exp-10031",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20exp959.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "11448431235",
+        "game": true
+    },
+    "Auto spam auto parry": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Auto-spam-auto-parry-10033",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20spam%20auto%20parry862.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
