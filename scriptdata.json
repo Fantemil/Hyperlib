@@ -35951,5 +35951,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Billzzard Script hub v1": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Billzzard-Script-hub-v1-10023",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Billzzard%20Script%20hub%20v1502.lua",
+        "author": "Uploaded by ecarevskiy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Slzla": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Slzla-10021",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slzla810.lua",
+        "author": "Uploaded by NeoncatXRZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

@@ -662,3 +662,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "ACOUSTIC AUTOPARRY AND SO MUCH MORE", "Uploaded by fbibo_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ACOUSTIC%20AUTOPARRY%20AND%20SO%20MUCH%20MORE611.lua", "https://scriptblox.com/script/UPD-Blade-Ball-ACOUSTIC-AUTOPARRY-AND-SO-MUCH-MORE-10018")
                                     
+    addscriptexist(13772394625, "Slzla", "Uploaded by NeoncatXRZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slzla810.lua", "https://scriptblox.com/script/Blade-Ball-Slzla-10021")
+                                    
