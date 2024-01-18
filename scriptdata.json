@@ -35900,5 +35900,21 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "NameLess 1000th repost": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NameLess-1000th-repost-10015",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NameLess%201000th%20repost423.lua",
+        "author": "Uploaded by aqilziqrihihi on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "R3Dz HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-R3Dz-HUB-10016",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20HUB345.lua",
+        "author": "Uploaded by RedzGuiH on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
