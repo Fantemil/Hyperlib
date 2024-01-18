@@ -36071,5 +36071,49 @@
         "hub": false,
         "gameid": "155615604",
         "game": true
+    },
+    "BEST autofarm Infinite Beli NO LAG": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BEST-autofarm-Infinite-Beli-NO-LAG-10029",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20autofarm%20Infinite%20Beli%20NO%20LAG258.lua",
+        "author": "Uploaded by shinzokujo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "script for many coins": {
+        "origin": "https://scriptblox.com/script/MY-AVATAR-SHOP-script-for-many-coins-10028",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20for%20many%20coins904.lua",
+        "author": "Uploaded by SlOodd0 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14476384515",
+        "game": true
+    },
+    "Record Macro": {
+        "origin": "https://scriptblox.com/script/ENDLESS-MODE-Toilet-Tower-Defense-Record-Macro-10032",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Record%20Macro729.lua",
+        "author": "Uploaded by 5iREx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13775256536",
+        "game": true
+    },
+    "INSANE autoparry autoblock OP": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-INSANE-autoparry-autoblock-OP-10030",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSANE%20autoparry%20autoblock%20OP473.lua",
+        "author": "Uploaded by uziahmed01 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "OWL HUB MOBILE REMAKE OP HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OWL-HUB-MOBILE-REMAKE-OP-HUB-10031",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OWL%20HUB%20MOBILE%20REMAKE%20OP%20HUB433.lua",
+        "author": "Uploaded by huesoalexandre on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

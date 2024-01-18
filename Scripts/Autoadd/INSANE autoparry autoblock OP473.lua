@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gojoomaster/bladelba/main/scriptfinished.lua?token=GHSAT0AAAAAACM2ANDFNOH7FUHAWZSHF7A2ZNJFEVA"))()

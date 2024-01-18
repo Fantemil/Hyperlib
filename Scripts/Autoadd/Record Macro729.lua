@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5iREx/script/main/Toilet%20Tower%20Defense'))()

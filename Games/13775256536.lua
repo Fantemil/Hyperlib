@@ -20,3 +20,5 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "OP mod menu 6M coins an hour", "Uploaded by GoatScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20mod%20menu%206M%20coins%20an%20hour44.lua", "https://scriptblox.com/script/COUNTDOWN-Toilet-Tower-Defense-OP-mod-menu-6M-coins-an-hour-9909")
                                     
+    addscriptexist(13775256536, "Record Macro", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Record%20Macro729.lua", "https://scriptblox.com/script/ENDLESS-MODE-Toilet-Tower-Defense-Record-Macro-10032")
+                                    

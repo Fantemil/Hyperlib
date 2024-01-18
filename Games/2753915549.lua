@@ -708,3 +708,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "BEST  Script OP UNBEATABLE AUTOFARM Infinite Beli", "Uploaded by uziahmed01 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20Script%20OP%20UNBEATABLE%20AUTOFARM%20Infinite%20Beli832.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-Script-OP-UNBEATABLE-AUTOFARM-Infinite-Beli-10028")
                                     
+    addscriptexist(2753915549, "BEST autofarm Infinite Beli NO LAG", "Uploaded by shinzokujo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20autofarm%20Infinite%20Beli%20NO%20LAG258.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-autofarm-Infinite-Beli-NO-LAG-10029")
+                                    
