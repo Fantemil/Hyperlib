@@ -36044,5 +36044,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "macro v3 free and premium": {
+        "origin": "https://scriptblox.com/script/BeequipTradeReboot-Bee-Swarm-Simulator-macro-v3-free-and-premium-10034",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/macro%20v3%20free%20and%20premium663.lua",
+        "author": "Uploaded by MysticSaba on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
+    },
+    "Antiafk17": {
+        "origin": "https://scriptblox.com/script/Universal-Roblox-Theme-Park-Antiafk-10035",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Antiafk17105.lua",
+        "author": "Uploaded by MysticSaba on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "523707617",
+        "game": true
+    },
+    "Admin Trolling": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Admin-Trolling-10030",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Trolling413.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }
