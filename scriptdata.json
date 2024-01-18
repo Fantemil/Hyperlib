@@ -35977,5 +35977,22 @@
         "hub": false,
         "gameid": "10449761463",
         "game": true
+    },
+    "Maris HUB": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Maris-HUB-10027",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maris%20HUB220.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "OP hub EVERY POPULAR GAME No Lag": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OP-hub-EVERY-POPULAR-GAME-No-Lag-10025",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20hub%20EVERY%20POPULAR%20GAME%20No%20Lag205.lua",
+        "author": "Uploaded by akaarjuna12 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

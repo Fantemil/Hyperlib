@@ -704,3 +704,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Hosino Hub", "Uploaded by Soicodoc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hosino%20Hub498.lua", "https://scriptblox.com/script/Blox-Fruits-Hosino-Hub-10004")
                                     
+    addscriptexist(2753915549, "Maris HUB", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maris%20HUB220.lua", "https://scriptblox.com/script/Blox-Fruits-Maris-HUB-10027")
+                                    

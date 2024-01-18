@@ -1,0 +1,2 @@
+
+    addscript(16024416348, "Current Game","Admin GUI", "Uploaded by muyaltik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20GUI25.lua", "https://scriptblox.com/script/3d-Pet-Simulator-99!-Admin-GUI-10024")
