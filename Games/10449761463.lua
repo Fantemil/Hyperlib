@@ -40,3 +40,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Auto Farm Player", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Player484.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Auto-Farm-Player-9982")
                                     
+    addscriptexist(10449761463, "Anti lag In TSC", "Uploaded by Vikichard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20lag%20In%20TSC519.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Anti-lag-In-TSC-10023")
+                                    
