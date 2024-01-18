@@ -82,3 +82,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Fly Car Gui", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Car%20Gui390.lua", "https://scriptblox.com/script/Brookhaven-RP-Fly-Car-Gui-9993")
                                     
+    addscriptexist(4924922222, "FE Neko Cat", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Neko%20Cat904.lua", "https://scriptblox.com/script/Brookhaven-RP-FE-Neko-Cat-10019")
+                                    
