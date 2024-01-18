@@ -706,3 +706,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Maris HUB", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Maris%20HUB220.lua", "https://scriptblox.com/script/Blox-Fruits-Maris-HUB-10027")
                                     
+    addscriptexist(2753915549, "BEST  Script OP UNBEATABLE AUTOFARM Infinite Beli", "Uploaded by uziahmed01 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20Script%20OP%20UNBEATABLE%20AUTOFARM%20Infinite%20Beli832.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-Script-OP-UNBEATABLE-AUTOFARM-Infinite-Beli-10028")
+                                    

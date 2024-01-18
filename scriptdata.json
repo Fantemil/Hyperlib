@@ -35994,5 +35994,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "OP AutoParry AutoBlock UNDETECTABLE NO LAG": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-OP-AutoParry-AutoBlock-UNDETECTABLE-NO-LAG-10029",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoParry%20AutoBlock%20UNDETECTABLE%20NO%20LAG444.lua",
+        "author": "Uploaded by shinzokujo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "BEST  Script OP UNBEATABLE AUTOFARM Infinite Beli": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BEST-Script-OP-UNBEATABLE-AUTOFARM-Infinite-Beli-10028",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20Script%20OP%20UNBEATABLE%20AUTOFARM%20Infinite%20Beli832.lua",
+        "author": "Uploaded by uziahmed01 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

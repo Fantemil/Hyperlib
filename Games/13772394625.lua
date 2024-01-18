@@ -664,3 +664,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Slzla", "Uploaded by NeoncatXRZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slzla810.lua", "https://scriptblox.com/script/Blade-Ball-Slzla-10021")
                                     
+    addscriptexist(13772394625, "OP AutoParry AutoBlock UNDETECTABLE NO LAG", "Uploaded by shinzokujo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoParry%20AutoBlock%20UNDETECTABLE%20NO%20LAG444.lua", "https://scriptblox.com/script/Blade-Ball-OP-AutoParry-AutoBlock-UNDETECTABLE-NO-LAG-10029")
+                                    
