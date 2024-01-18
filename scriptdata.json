@@ -35943,5 +35943,13 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "GanjaGui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GanjaGui-10020",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaGui491.lua",
+        "author": "Uploaded by RedzGuiH on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
