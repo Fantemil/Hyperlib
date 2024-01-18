@@ -35916,5 +35916,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Krypton  BETA": {
+        "origin": "https://scriptblox.com/script/UPDATE-Survive-the-Night-Krypton-10017",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Krypton%20%20BETA749.lua",
+        "author": "Uploaded by Merchant on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "990364410",
+        "game": true
     }
 }
