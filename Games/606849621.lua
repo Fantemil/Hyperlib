@@ -70,3 +70,5 @@ addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblo
                                     
     addscriptexist(606849621, "Auto rob", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rob958.lua", "https://scriptblox.com/script/Jailbreak-New-Robbery-Auto-rob-9991")
                                     
+    addscriptexist(606849621, "Auto Rob OP Gui", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rob%20OP%20Gui963.lua", "https://scriptblox.com/script/Jailbreak-New-Robbery-Auto-Rob-OP-Gui-10033")
+                                    

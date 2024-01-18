@@ -36141,5 +36141,39 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Visual Hub AutoFarm And More": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Visual-Hub-AutoFarm-And-More-10034",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20Hub%20AutoFarm%20And%20More210.lua",
+        "author": "Uploaded by muhammerproo on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Auto Rob OP Gui": {
+        "origin": "https://scriptblox.com/script/Jailbreak-New-Robbery-Auto-Rob-OP-Gui-10033",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rob%20OP%20Gui963.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "606849621",
+        "game": true
+    },
+    "fake tag script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-fake-tag-script-10032",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fake%20tag%20script948.lua",
+        "author": "Uploaded by tahakhatab169 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "MILEI SIMULATOR": {
+        "origin": "https://scriptblox.com/script/Universal-Script-MILEI-SIMULATOR-10031",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MILEI%20SIMULATOR409.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
