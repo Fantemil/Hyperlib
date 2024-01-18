@@ -36012,5 +36012,37 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Ps99 dupe script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ps99-dupe-script-10033",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20dupe%20script881.lua",
+        "author": "Uploaded by Qjiv_Scriptz on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Ps99 Auto fishing script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ps99-Auto-fishing-script-10032",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20Auto%20fishing%20script757.lua",
+        "author": "Uploaded by Qjiv_Scriptz on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "l00ygui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-l00ygui-10030",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/l00ygui636.lua",
+        "author": "Uploaded by l00ykidd on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto stairs to heaven ps99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Auto-stairs-to-heaven-ps99-10031",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20stairs%20to%20heaven%20ps99897.lua",
+        "author": "Uploaded by Qjiv_Scriptz on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
