@@ -36192,5 +36192,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "I can see you": {
+        "origin": "https://scriptblox.com/script/Universal-Script-I-can-see-you-10032",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20can%20see%20you78.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
