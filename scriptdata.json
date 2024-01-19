@@ -36392,5 +36392,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "ERLC": {
+        "origin": "https://scriptblox.com/script/Emergency-Response:-Liberty-County-ERLC-10048",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ERLC405.lua",
+        "author": "Uploaded by ErlcFanBase on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2534724415",
+        "game": true
     }
 }
