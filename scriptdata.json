@@ -36200,5 +36200,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Fast Auto farm infinite gems": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-Fast-Auto-farm-infinite-gems-10034",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Auto%20farm%20infinite%20gems228.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
+    },
+    "99 Auto Dig for Digsite Open Sourced": {
+        "origin": "https://scriptblox.com/script/2d-Pet-Simulator-99!-99-Auto-Dig-for-Digsite-10033",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/99%20Auto%20Dig%20for%20Digsite%20Open%20Sourced647.lua",
+        "author": "Uploaded by DekuDimz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

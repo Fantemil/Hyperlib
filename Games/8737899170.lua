@@ -126,3 +126,5 @@
                                     
     addscriptexist(8737899170, "REDzHUB ps99 script", "Uploaded by Miu_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDzHUB%20ps99%20script581.lua", "https://scriptblox.com/script/Pet-Simulator-99!-REDzHUB-ps99-script-9739")
                                     
+    addscriptexist(8737899170, "99 Auto Dig for Digsite Open Sourced", "Uploaded by DekuDimz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/99%20Auto%20Dig%20for%20Digsite%20Open%20Sourced647.lua", "https://scriptblox.com/script/2d-Pet-Simulator-99!-99-Auto-Dig-for-Digsite-10033")
+                                    

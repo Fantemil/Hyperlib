@@ -46,3 +46,5 @@ addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript
                                     
     addscriptexist(3101667897, "Krypton", "Uploaded by Merchant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Krypton436.lua", "https://scriptblox.com/script/Legends-Of-Speed-Krypton-9892")
                                     
+    addscriptexist(3101667897, "Fast Auto farm infinite gems", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Auto%20farm%20infinite%20gems228.lua", "https://scriptblox.com/script/Legends-Of-Speed-Fast-Auto-farm-infinite-gems-10034")
+                                    
