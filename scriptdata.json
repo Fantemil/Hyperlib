@@ -36227,5 +36227,13 @@
         "hub": false,
         "gameid": "10218821851",
         "game": true
+    },
+    "BEST Hub For CHEATING No Lag ALL GAMES": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BEST-Hub-For-CHEATING-No-Lag-ALL-GAMES-10037",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20Hub%20For%20CHEATING%20No%20Lag%20ALL%20GAMES687.lua",
+        "author": "Uploaded by jaycegaudette2011 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
