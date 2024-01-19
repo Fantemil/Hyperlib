@@ -36288,5 +36288,31 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Autofarm Infinite Beli OP No Lag CHEAT": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Autofarm-Infinite-Beli-OP-No-Lag-CHEAT-10044",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Infinite%20Beli%20OP%20No%20Lag%20CHEAT425.lua",
+        "author": "Uploaded by akaarjuna12 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Keyboard script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Keyboard-script-10042",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyboard%20script196.lua",
+        "author": "Uploaded by Baby on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Blizzard Hub": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Bizzard-Hub-10043",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blizzard%20Hub997.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }

@@ -716,3 +716,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto Farm and Sea Event and THE BEST TOP AND MORE", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Sea%20Event%20and%20THE%20BEST%20TOP%20AND%20MORE67.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Sea-Event-and-THE-BEST-TOP-AND-MORE-10043")
                                     
+    addscriptexist(2753915549, "Autofarm Infinite Beli OP No Lag CHEAT", "Uploaded by akaarjuna12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Infinite%20Beli%20OP%20No%20Lag%20CHEAT425.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-Infinite-Beli-OP-No-Lag-CHEAT-10044")
+                                    
