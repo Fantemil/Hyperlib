@@ -1,0 +1,2 @@
+
+    addscript(1333478699, "Current Game","nawrbqwa", "Uploaded by bestemailever on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nawrbqwa657.lua", "https://scriptblox.com/script/The-Lanes-Bowling-nawrbqwa-10046")

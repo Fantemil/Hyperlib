@@ -36314,5 +36314,40 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "BOMB THE ISRAEL": {
+        "origin": "https://scriptblox.com/script/Wheel-of-Fortune-BOMB-THE-ISRAEL-10045",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOMB%20THE%20ISRAEL991.lua",
+        "author": "Uploaded by bestemailever on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2700789159",
+        "game": true
+    },
+    "OP  SCRIPT": {
+        "origin": "https://scriptblox.com/script/Ronopoly-OP-SCRIPT-10044",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20SCRIPT709.lua",
+        "author": "Uploaded by bestemailever on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6875747014",
+        "game": true
+    },
+    "nawrbqwa": {
+        "origin": "https://scriptblox.com/script/The-Lanes-Bowling-nawrbqwa-10046",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nawrbqwa657.lua",
+        "author": "Uploaded by bestemailever on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1333478699",
+        "game": true
+    },
+    "GanjaHub universal": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GanjaHub-universal-10047",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20universal452.lua",
+        "author": "Uploaded by Baby on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
