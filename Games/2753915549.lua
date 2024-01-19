@@ -712,3 +712,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Visual Hub AutoFarm And More", "Uploaded by muhammerproo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20Hub%20AutoFarm%20And%20More210.lua", "https://scriptblox.com/script/Blox-Fruits-Visual-Hub-AutoFarm-And-More-10034")
                                     
+    addscriptexist(2753915549, "OP AutoFarm Infinite Beli Script BEST PLAYERS USE", "Uploaded by akaarjuna12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoFarm%20Infinite%20Beli%20Script%20BEST%20PLAYERS%20USE842.lua", "https://scriptblox.com/script/Blox-Fruits-OP-AutoFarm-Infinite-Beli-Script-BEST-PLAYERS-USE-10043")
+                                    

@@ -36261,5 +36261,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "OP AutoFarm Infinite Beli Script BEST PLAYERS USE": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-OP-AutoFarm-Infinite-Beli-Script-BEST-PLAYERS-USE-10043",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AutoFarm%20Infinite%20Beli%20Script%20BEST%20PLAYERS%20USE842.lua",
+        "author": "Uploaded by akaarjuna12 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
