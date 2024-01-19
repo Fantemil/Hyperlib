@@ -36349,5 +36349,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Auto Farm gui": {
+        "origin": "https://scriptblox.com/script/Ninja-Legends-Auto-Farm-OP-10043",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20gui635.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3956818381",
+        "game": true
     }
 }
