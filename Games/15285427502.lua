@@ -1,0 +1,2 @@
+
+    addscript(15285427502, "Current Game","free ugc", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20ugc200.lua", "https://scriptblox.com/script/BIC-DrawPlanet:-Go-Make-WOW-free-ugc-10042")

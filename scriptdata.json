@@ -36235,5 +36235,31 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Verified Anti Mail Stealer": {
+        "origin": "https://scriptblox.com/script/2d-Pet-Simulator-99!-Verified-Anti-Mail-Stealer-10040",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Verified%20Anti%20Mail%20Stealer253.lua",
+        "author": "Uploaded by danilloavieirapimen on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "16033542313",
+        "game": true
+    },
+    "free ugc": {
+        "origin": "https://scriptblox.com/script/BIC-DrawPlanet:-Go-Make-WOW-free-ugc-10042",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20ugc200.lua",
+        "author": "Uploaded by SlOodd0 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15285427502",
+        "game": true
+    },
+    "Esp Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Esp-Script-10041",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20Script503.lua",
+        "author": "Uploaded by indonesiangamer777 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
