@@ -1,2 +1,4 @@
 
     addscript(14476384515, "Current Game","script for many coins", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20for%20many%20coins904.lua", "https://scriptblox.com/script/MY-AVATAR-SHOP-script-for-many-coins-10028")
+    addscriptexist(14476384515, "auto claim reward", "Uploaded by SlOodd0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20claim%20reward541.lua", "https://scriptblox.com/script/MY-AVATAR-SHOP-auto-claim-reward-10035")
+                                    

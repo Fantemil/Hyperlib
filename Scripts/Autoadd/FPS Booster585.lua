@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/starkfrs/devs/main/FPSBOOST.lua'))()
