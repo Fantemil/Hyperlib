@@ -86,3 +86,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Blizzard Hub", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blizzard%20Hub997.lua", "https://scriptblox.com/script/Brookhaven-RP-Bizzard-Hub-10043")
                                     
+    addscriptexist(4924922222, "Ghost Hub Reborn", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Hub%20Reborn699.lua", "https://scriptblox.com/script/Brookhaven-RP-Ghost-Hub-Reborn-10047")
+                                    

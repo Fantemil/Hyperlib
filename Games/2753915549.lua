@@ -718,3 +718,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Autofarm Infinite Beli OP No Lag CHEAT", "Uploaded by akaarjuna12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Infinite%20Beli%20OP%20No%20Lag%20CHEAT425.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-Infinite-Beli-OP-No-Lag-CHEAT-10044")
                                     
+    addscriptexist(2753915549, "RIMUS", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RIMUS886.lua", "https://scriptblox.com/script/Blox-Fruits-RIMUS-10045")
+                                    

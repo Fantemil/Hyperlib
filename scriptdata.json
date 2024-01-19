@@ -36358,5 +36358,39 @@
         "hub": false,
         "gameid": "3956818381",
         "game": true
+    },
+    "RIMUS": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-RIMUS-10045",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RIMUS886.lua",
+        "author": "Uploaded by Malfume on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "GoldenHUB Bloxfruits": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GoldenHUB-Bloxfruits-10046",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldenHUB%20Bloxfruits591.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Ghost Hub Reborn": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Ghost-Hub-Reborn-10047",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Hub%20Reborn699.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "Hitbox Expander No Gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hitbox-Expander-No-Gui-10044",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20Expander%20No%20Gui276.lua",
+        "author": "Uploaded by LegitEpikGamer on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
