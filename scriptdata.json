@@ -36497,5 +36497,23 @@
         "hub": false,
         "gameid": "15234998219",
         "game": true
+    },
+    "BEST AUTO FARM SCRIPT LATEST": {
+        "origin": "https://scriptblox.com/script/UPD-2-Anime-Punch-Simulator-BEST-AUTO-FARM-SCRIPT-LATEST-10051",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20FARM%20SCRIPT%20LATEST744.lua",
+        "author": "Uploaded by premscripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15776923116",
+        "game": true
+    },
+    "Bonk": {
+        "origin": "https://scriptblox.com/script/Destruction-Game-Bonk-10050",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bonk817.lua",
+        "author": "Uploaded by Bac0nH1ckOff on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6550894018",
+        "game": true
     }
 }

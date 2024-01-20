@@ -1,0 +1,2 @@
+
+    addscript(6550894018, "Current Game","Bonk", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bonk817.lua", "https://scriptblox.com/script/Destruction-Game-Bonk-10050")
