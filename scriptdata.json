@@ -36566,5 +36566,39 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "KOOLKID SCRIPT": {
+        "origin": "https://scriptblox.com/script/Universal-Script-KOOLKID-SCRIPT-10057",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KOOLKID%20SCRIPT688.lua",
+        "author": "Uploaded by PetZHub on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "PS99 SCRIPT HU8B": {
+        "origin": "https://scriptblox.com/script/Universal-Script-PS99-SCRIPT-HU8B-10060",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20SCRIPT%20HU8B312.lua",
+        "author": "Uploaded by ichimdarius0 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Kill Aura Auto Farm and other Good feature": {
+        "origin": "https://scriptblox.com/script/UPD2-Free-Anime-Infinity-Simulator-Kill-Aura-Auto-Farm-and-other-Good-feature-10058",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Auto%20Farm%20and%20other%20Good%20feature920.lua",
+        "author": "Uploaded by DinoZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15935482021",
+        "game": true
+    },
+    "A request": {
+        "origin": "https://scriptblox.com/script/DEATH-NOTE-A-request-10061",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20request95.lua",
+        "author": "Uploaded by Ob11 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5134682719",
+        "game": true
     }
 }

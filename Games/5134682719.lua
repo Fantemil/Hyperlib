@@ -1,0 +1,2 @@
+
+    addscript(5134682719, "Current Game","A request", "Uploaded by Ob11 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20request95.lua", "https://scriptblox.com/script/DEATH-NOTE-A-request-10061")
