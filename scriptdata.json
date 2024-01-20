@@ -36401,5 +36401,23 @@
         "hub": false,
         "gameid": "2534724415",
         "game": true
+    },
+    "ZapHub The BEST Auto Farm and MORE": {
+        "origin": "https://scriptblox.com/script/18h-Pet-Simulator-99!-ZapHub-The-BEST-Auto-Farm-and-MORE-10049",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Farm%20and%20MORE336.lua",
+        "author": "Uploaded by ZapHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
+    },
+    "ZapHub The BEST Auto Parry and MORE": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-ZapHub-The-BEST-Auto-Parry-and-MORE-10049",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Parry%20and%20MORE9.lua",
+        "author": "Uploaded by ZapHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

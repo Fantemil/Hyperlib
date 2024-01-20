@@ -128,3 +128,5 @@
                                     
     addscriptexist(8737899170, "99 Auto Dig for Digsite Open Sourced", "Uploaded by DekuDimz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/99%20Auto%20Dig%20for%20Digsite%20Open%20Sourced647.lua", "https://scriptblox.com/script/2d-Pet-Simulator-99!-99-Auto-Dig-for-Digsite-10033")
                                     
+    addscriptexist(8737899170, "ZapHub The BEST Auto Farm and MORE", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Farm%20and%20MORE336.lua", "https://scriptblox.com/script/18h-Pet-Simulator-99!-ZapHub-The-BEST-Auto-Farm-and-MORE-10049")
+                                    
