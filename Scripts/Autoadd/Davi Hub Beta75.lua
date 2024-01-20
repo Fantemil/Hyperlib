@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Davicoderliner/davi-hub-V2.3/main/davi.lua",true))()

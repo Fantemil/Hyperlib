@@ -36445,5 +36445,21 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Davi Hub Beta": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Davi-Hub-Beta-10052",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Davi%20Hub%20Beta75.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "good scirp": {
+        "origin": "https://scriptblox.com/script/Universal-Script-good-scirp-10051",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20scirp72.lua",
+        "author": "Uploaded by atomatommic88 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
