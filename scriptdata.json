@@ -36617,5 +36617,21 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Space Hub V3": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Space-Hub-V3-10065",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Space%20Hub%20V3958.lua",
+        "author": "Uploaded by silasishot123 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Legit6135 v2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Legit6135-v2-10066",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legit6135%20v2686.lua",
+        "author": "Uploaded by Weather6135 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
