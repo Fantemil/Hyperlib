@@ -22,3 +22,5 @@ addscriptexist(7314148798, "RAGD0LL  NEW BEST SCRIPT Unslagger exe", "Uploaded b
                                     
     addscriptexist(7314148798, "KulthX", "Uploaded by nizartiko628 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KulthX307.lua", "https://scriptblox.com/script/Ragdoll-Engine-KulthX-9992")
                                     
+    addscriptexist(7314148798, "GRANDMASTER OLO", "Uploaded by grandmaster_olo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRANDMASTER%20OLO338.lua", "https://scriptblox.com/script/Ragdoll-Engine-GRANDMASTER-OLO-10063")
+                                    
