@@ -672,3 +672,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "ZapHub The BEST Auto Parry and MORE", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Parry%20and%20MORE9.lua", "https://scriptblox.com/script/Blade-Ball-ZapHub-The-BEST-Auto-Parry-and-MORE-10049")
                                     
+    addscriptexist(13772394625, "Script Op And  Event Auto Parry", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Op%20And%20%20Event%20Auto%20Parry100.lua", "https://scriptblox.com/script/Blade-Ball-6-HOURS-Script-Op-And-***-Mode-And-Event-Auto-Parry-10048")
+                                    

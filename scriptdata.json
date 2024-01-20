@@ -36470,5 +36470,14 @@
         "hub": false,
         "gameid": "3623096087",
         "game": true
+    },
+    "Script Op And  Event Auto Parry": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-6-HOURS-Script-Op-And-***-Mode-And-Event-Auto-Parry-10048",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Op%20And%20%20Event%20Auto%20Parry100.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

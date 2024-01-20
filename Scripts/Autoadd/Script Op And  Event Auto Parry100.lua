@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rahbin-hw/Blade-Ball-Script-/main/Blade%20Ball%20Script"))();
