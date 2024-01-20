@@ -36479,5 +36479,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "R3Dz Gu1": {
+        "origin": "https://scriptblox.com/script/2d-Pet-Simulator-99!-R3Dz-Gu1-10049",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20Gu1378.lua",
+        "author": "Uploaded by konokzaman1234 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "16033542313",
+        "game": true
+    },
+    "inf coins and inf gems": {
+        "origin": "https://scriptblox.com/script/UPD+S2!-Farmer-Simulator-inf-coins-and-inf-gems-10050",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20coins%20and%20inf%20gems36.lua",
+        "author": "Uploaded by LightningHub_X on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15234998219",
+        "game": true
     }
 }

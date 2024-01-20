@@ -8,3 +8,5 @@
                                     
     addscriptexist(16033542313, "R3Dz Hub", "Uploaded by redz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20Hub493.lua", "https://scriptblox.com/script/2d-Pet-Simulator-99!-R3Dz-Hub-10050")
                                     
+    addscriptexist(16033542313, "R3Dz Gu1", "Uploaded by konokzaman1234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20Gu1378.lua", "https://scriptblox.com/script/2d-Pet-Simulator-99!-R3Dz-Gu1-10049")
+                                    
