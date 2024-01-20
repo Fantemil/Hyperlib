@@ -36428,5 +36428,22 @@
         "hub": false,
         "gameid": "4580204640",
         "game": true
+    },
+    "R3Dz Hub": {
+        "origin": "https://scriptblox.com/script/2d-Pet-Simulator-99!-R3Dz-Hub-10050",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20Hub493.lua",
+        "author": "Uploaded by redz on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "16033542313",
+        "game": true
+    },
+    "A SimpLe Executor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-A-SimpLe-Executor-10051",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/A%20SimpLe%20Executor840.lua",
+        "author": "Uploaded by Blocky_Povcameraman on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
