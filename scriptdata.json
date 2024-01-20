@@ -36419,5 +36419,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Auto farm esp players and more": {
+        "origin": "https://scriptblox.com/script/Survive-the-Killer!-Auto-farm-esp-players-and-more-10049",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20esp%20players%20and%20more593.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4580204640",
+        "game": true
     }
 }
