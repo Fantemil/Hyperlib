@@ -18,3 +18,5 @@ addscriptexist(14437001043, "OP features", "Uploaded by 12slash25 on scriptblox.
                                     
     addscriptexist(14437001043, "Ez Auto Farm", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Auto%20Farm544.lua", "https://scriptblox.com/script/Residence-Massacre-Ez-Auto-Farm-9833")
                                     
+    addscriptexist(14437001043, "Horror Game GUI V3", "Uploaded by nixelpixel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horror%20Game%20GUI%20V3846.lua", "https://scriptblox.com/script/UPD-Residence-Massacre-Horror-Game-GUI-V3-10052")
+                                    

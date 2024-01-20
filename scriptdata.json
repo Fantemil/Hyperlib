@@ -36523,5 +36523,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Horror Game GUI V3": {
+        "origin": "https://scriptblox.com/script/UPD-Residence-Massacre-Horror-Game-GUI-V3-10052",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horror%20Game%20GUI%20V3846.lua",
+        "author": "Uploaded by nixelpixel on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14437001043",
+        "game": true
+    },
+    "C00lgui made by v3rx": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-made-by-v3rx-10053",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20made%20by%20v3rx11.lua",
+        "author": "Uploaded by teamc00lkidd15 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
