@@ -36540,5 +36540,31 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "C00lgui 15": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-15-10055",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%2015212.lua",
+        "author": "Uploaded by teamc00lkidd15 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Smasher": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Smasher-10055",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smasher206.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Luminex": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Luminex-10053",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luminex849.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
