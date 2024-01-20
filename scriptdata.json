@@ -36461,5 +36461,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto farm gui": {
+        "origin": "https://scriptblox.com/script/Muscle-Legends-Auto-farm-gui-10053",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20gui537.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3623096087",
+        "game": true
     }
 }
