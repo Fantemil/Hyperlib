@@ -36844,5 +36844,23 @@
         "hub": false,
         "gameid": "12722192929",
         "game": true
+    },
+    "Kinghax gui v1": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Kinghax-gui-v1-10080",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kinghax%20gui%20v1736.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "Auto Farm Auto Win and other Good feature": {
+        "origin": "https://scriptblox.com/script/UPD-Lumberjack-Simulator-Auto-Farm-Auto-Win-and-other-Good-feature-10079",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Win%20and%20other%20Good%20feature341.lua",
+        "author": "Uploaded by DinoZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14897405913",
+        "game": true
     }
 }
