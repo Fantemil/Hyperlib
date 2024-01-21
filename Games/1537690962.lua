@@ -28,3 +28,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "macro v3 free and premium", "Uploaded by MysticSaba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/macro%20v3%20free%20and%20premium663.lua", "https://scriptblox.com/script/BeequipTradeReboot-Bee-Swarm-Simulator-macro-v3-free-and-premium-10034")
                                     
+    addscriptexist(1537690962, "BSS Script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BSS%20Script929.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-BSS-Script-10068")
+                                    

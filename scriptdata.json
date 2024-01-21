@@ -36642,5 +36642,31 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Shife Hub": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-Shife-Hub-10070",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shife%20Hub123.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
+    },
+    "BSS Script": {
+        "origin": "https://scriptblox.com/script/Bee-Swarm-Simulator-BSS-Script-10068",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BSS%20Script929.lua",
+        "author": "Uploaded by Donand on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
+    },
+    "Just some Stuff for me": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Just-some-Stuff-for-me-10069",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20some%20Stuff%20for%20me566.lua",
+        "author": "Uploaded by ManoliScripts on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
