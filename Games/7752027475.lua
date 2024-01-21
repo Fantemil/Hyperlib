@@ -4,3 +4,5 @@
                                     
     addscriptexist(7752027475, "DUPE SCRIPT PS99 by lypos", "Uploaded by caxarokuwu2015q on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DUPE%20SCRIPT%20PS99%20by%20lypos823.lua", "https://scriptblox.com/script/Pet-Simulator-99!-DUPE-SCRIPT-PS99-by-lypos-10090")
                                     
+    addscriptexist(7752027475, "CAX Hub PS99", "Uploaded by caxarokuwu2015q on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CAX%20Hub%20PS99168.lua", "https://scriptblox.com/script/Pet-Simulator-99!-CAX-Hub-PS99-10093")
+                                    

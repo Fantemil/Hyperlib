@@ -36790,5 +36790,41 @@
         "hub": false,
         "gameid": "16018519780",
         "game": true
+    },
+    "Auto AI": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-Auto-AI-10090",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20AI71.lua",
+        "author": "Uploaded by antoneiegamer0 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "16018519780",
+        "game": true
+    },
+    "SkyHUB WORK on ALL EXECUTORS": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-SkyHUB-WORK-on-ALL-EXECUTORS-10094",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHUB%20WORK%20on%20ALL%20EXECUTORS987.lua",
+        "author": "Uploaded by zxpili17 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
+    },
+    "CAX Hub PS99": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-CAX-Hub-PS99-10093",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CAX%20Hub%20PS99168.lua",
+        "author": "Uploaded by caxarokuwu2015q on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7752027475",
+        "game": true
+    },
+    "Ganja HUb    alternative Redz Hub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Ganja-HUb-alternative-Redz-Hub-10091",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ganja%20HUb%20%20%20%20alternative%20Redz%20Hub494.lua",
+        "author": "Uploaded by zxpili17 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
     }
 }

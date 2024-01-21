@@ -8,3 +8,7 @@
                                     
     addscriptexist(15662361560, "R3Dz HUB  BEST", "Uploaded by zxpili17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20HUB%20%20BEST330.lua", "https://scriptblox.com/script/Pet-Simulator-99!-R3Dz-HUB-BEST-10087")
                                     
+    addscriptexist(15662361560, "SkyHUB WORK on ALL EXECUTORS", "Uploaded by zxpili17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHUB%20WORK%20on%20ALL%20EXECUTORS987.lua", "https://scriptblox.com/script/Pet-Simulator-99!-SkyHUB-WORK-on-ALL-EXECUTORS-10094")
+                                    
+    addscriptexist(15662361560, "Ganja HUb    alternative Redz Hub", "Uploaded by zxpili17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ganja%20HUb%20%20%20%20alternative%20Redz%20Hub494.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ganja-HUb-alternative-Redz-Hub-10091")
+                                    
