@@ -6,3 +6,5 @@ addscript(8712817601, "Current Game","Guard Gamepass n Remove Lava and more", "U
                                     
     addscriptexist(8712817601, "Auto Dig Anti Lasers More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dig%20Anti%20Lasers%20More355.lua", "https://scriptblox.com/script/BARRY'S-PRISON-RUN!-(FIRST-PERSON-OBBY!)-Auto-Dig-Anti-Lasers-More-9377")
                                     
+    addscriptexist(8712817601, "Auto Win", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win13.lua", "https://scriptblox.com/script/BARRY'S-PRISON-RUN!-(FIRST-PERSON-OBBY!)-Auto-Win-10078")
+                                    
