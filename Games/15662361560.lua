@@ -6,3 +6,5 @@
                                     
     addscriptexist(15662361560, "Trade Scam n Booth Sniper", "Uploaded by zxpili17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Scam%20n%20Booth%20Sniper88.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Trade-Scam-n-Booth-Sniper-10082")
                                     
+    addscriptexist(15662361560, "R3Dz HUB  BEST", "Uploaded by zxpili17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20HUB%20%20BEST330.lua", "https://scriptblox.com/script/Pet-Simulator-99!-R3Dz-HUB-BEST-10087")
+                                    

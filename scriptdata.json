@@ -36755,5 +36755,31 @@
         "hub": false,
         "gameid": "15662361560",
         "game": true
+    },
+    "OrzPanel v1 point 2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-OrzPanel-v1-point-2-10086",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrzPanel%20v1%20point%202532.lua",
+        "author": "Uploaded by OrzScript on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Inf Charm": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-Inf-Charm-10089",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Charm885.lua",
+        "author": "Uploaded by antoneiegamer0 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "16018519780",
+        "game": true
+    },
+    "R3Dz HUB  BEST": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-R3Dz-HUB-BEST-10087",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20HUB%20%20BEST330.lua",
+        "author": "Uploaded by zxpili17 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
     }
 }
