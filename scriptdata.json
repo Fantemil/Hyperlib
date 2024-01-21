@@ -36686,5 +36686,47 @@
         "hub": false,
         "gameid": "15311521477",
         "game": true
+    },
+    "Project Z": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Project-Z-10077",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Z977.lua",
+        "author": "Uploaded by DenDenZOnYouTube on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Premium PS99 HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Premium-PS99-HUB-10080",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Premium%20PS99%20HUB195.lua",
+        "author": "Uploaded by caxarokuwu2015q on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "ANTI MAIL STEALER FOR PS99": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ANTI-MAIL-STEALER-FOR-PS99-10076",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTI%20MAIL%20STEALER%20FOR%20PS99439.lua",
+        "author": "Uploaded by caxarokuwu2015q on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Redzhub": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-1-Redzhub-10079",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redzhub619.lua",
+        "author": "Uploaded by antoneiegamer0 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "16018519780",
+        "game": true
+    },
+    "DUPE SCRIPT PS99 by lypos": {
+        "origin": "https://scriptblox.com/script/Universal-Script-DUPE-SCRIPT-PS99-by-lypos-10078",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DUPE%20SCRIPT%20PS99%20by%20lypos573.lua",
+        "author": "Uploaded by caxarokuwu2015q on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
