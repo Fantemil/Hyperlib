@@ -1,0 +1,2 @@
+
+    addscript(15631999484, "Current Game","defens v6", "Uploaded by yui7777th on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/defens%20v6650.lua", "https://scriptblox.com/script/EP-70!-Skibidi-Toilet-Tower-Defense-defens-v6-10085")

@@ -36880,5 +36880,23 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "REDZ HUB Best   Autoparry Win 90 Of games": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-best-autoparry-10084",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZ%20HUB%20Best%20%20%20Autoparry%20Win%2090%20Of%20games431.lua",
+        "author": "Uploaded by AstraOutLight on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "defens v6": {
+        "origin": "https://scriptblox.com/script/EP-70!-Skibidi-Toilet-Tower-Defense-defens-v6-10085",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/defens%20v6650.lua",
+        "author": "Uploaded by yui7777th on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15631999484",
+        "game": true
     }
 }

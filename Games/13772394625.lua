@@ -680,3 +680,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Peris Hub", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Peris%20Hub426.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Peris-Hub-10082")
                                     
+    addscriptexist(13772394625, "REDZ HUB Best   Autoparry Win 90 Of games", "Uploaded by AstraOutLight on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZ%20HUB%20Best%20%20%20Autoparry%20Win%2090%20Of%20games431.lua", "https://scriptblox.com/script/UPD-Blade-Ball-best-autoparry-10084")
+                                    
