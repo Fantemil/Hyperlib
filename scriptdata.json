@@ -36862,5 +36862,14 @@
         "hub": false,
         "gameid": "14897405913",
         "game": true
+    },
+    "SCRIPT SCouT hub AUTO parry": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-SCRIPT-SCouT-hub-AUTO-parry-10081",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20SCouT%20hub%20AUTO%20parry876.lua",
+        "author": "Uploaded by Scout7ixs on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
