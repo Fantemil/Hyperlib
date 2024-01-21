@@ -722,3 +722,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Dakii Hub V2", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dakii%20Hub%20V2978.lua", "https://scriptblox.com/script/Blox-Fruits-Dakii-Hub-V2-10067")
                                     
+    addscriptexist(2753915549, "Update Speed Hub X", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Speed%20Hub%20X385.lua", "https://scriptblox.com/script/Blox-Fruits-Update-Speed-Hub-X-10084")
+                                    

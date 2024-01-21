@@ -36728,5 +36728,32 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Update Speed Hub X": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Update-Speed-Hub-X-10084",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Speed%20Hub%20X385.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "R3Dz HUB FOR NEW UPDATE": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-R3Dz-HUB-FOR-NEW-UPDATE-10083",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3Dz%20HUB%20FOR%20NEW%20UPDATE391.lua",
+        "author": "Uploaded by zxpili17 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
+    },
+    "Trade Scam n Booth Sniper": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-Trade-Scam-n-Booth-Sniper-10082",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trade%20Scam%20n%20Booth%20Sniper88.lua",
+        "author": "Uploaded by zxpili17 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
     }
 }
