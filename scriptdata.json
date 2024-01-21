@@ -36898,5 +36898,23 @@
         "hub": false,
         "gameid": "15631999484",
         "game": true
+    },
+    "BEST GUI AUTOFARM KILL AURA SILENT AIM MORE": {
+        "origin": "https://scriptblox.com/script/Zombie-Attack-BEST-GUI-AUTOFARM-KILL-AURA-SILENT-AIM-MORE-10086",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20AUTOFARM%20KILL%20AURA%20SILENT%20AIM%20MORE942.lua",
+        "author": "Uploaded by Thundy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1240123653",
+        "game": true
+    },
+    "Redz HUB Best Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Redz-HUB-Best-Hub-10085",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20HUB%20Best%20Hub302.lua",
+        "author": "Uploaded by aflaro on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
