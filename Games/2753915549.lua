@@ -720,3 +720,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "RIMUS", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RIMUS886.lua", "https://scriptblox.com/script/Blox-Fruits-RIMUS-10045")
                                     
+    addscriptexist(2753915549, "Dakii Hub V2", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dakii%20Hub%20V2978.lua", "https://scriptblox.com/script/Blox-Fruits-Dakii-Hub-V2-10067")
+                                    
