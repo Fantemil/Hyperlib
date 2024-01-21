@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Lumber-Jack-Simulator/main/Nameless%20Scripts"))()

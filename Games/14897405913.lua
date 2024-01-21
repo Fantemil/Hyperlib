@@ -1,0 +1,2 @@
+
+    addscript(14897405913, "Current Game","Best Auto Farm Script", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Script188.lua", "https://scriptblox.com/script/Lumberjack-Simulator-Best-Auto-Farm-Script-10072")

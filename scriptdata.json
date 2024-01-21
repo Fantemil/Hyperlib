@@ -36668,5 +36668,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Best Auto Farm Script": {
+        "origin": "https://scriptblox.com/script/Lumberjack-Simulator-Best-Auto-Farm-Script-10072",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Script188.lua",
+        "author": "Uploaded by premscripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14897405913",
+        "game": true
     }
 }
