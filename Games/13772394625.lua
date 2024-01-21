@@ -678,3 +678,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "SCRIPT SCouT hub AUTO parry", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20SCouT%20hub%20AUTO%20parry876.lua", "https://scriptblox.com/script/UPD-Blade-Ball-SCRIPT-SCouT-hub-AUTO-parry-10081")
                                     
+    addscriptexist(13772394625, "Peris Hub", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Peris%20Hub426.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Peris-Hub-10082")
+                                    

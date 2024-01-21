@@ -36871,5 +36871,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Peris Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Peris-Hub-10082",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Peris%20Hub426.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
