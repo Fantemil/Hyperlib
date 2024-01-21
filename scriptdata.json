@@ -36916,5 +36916,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "R3DZ Gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-R3DZ-Gui-10087",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/R3DZ%20Gui216.lua",
+        "author": "Uploaded by alexandertuerke on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
