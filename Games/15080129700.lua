@@ -1,0 +1,2 @@
+
+    addscript(15080129700, "Current Game","Auto Farm", "Uploaded by SomeRandomPerson on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm746.lua", "https://scriptblox.com/script/Pull-Up-Simulator-Auto-Farm-10089")
