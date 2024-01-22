@@ -42,3 +42,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Anti lag In TSC", "Uploaded by Vikichard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20lag%20In%20TSC519.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Anti-lag-In-TSC-10023")
                                     
+    addscriptexist(10449761463, "Reaper Hub", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Hub296.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Reaper-Hub-10095")
+                                    

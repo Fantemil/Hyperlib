@@ -37001,5 +37001,14 @@
         "hub": false,
         "gameid": "14375256880",
         "game": true
+    },
+    "Reaper Hub": {
+        "origin": "https://scriptblox.com/script/The-Strongest-Battlegrounds-Reaper-Hub-10095",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Hub296.lua",
+        "author": "Uploaded by fmapwjq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10449761463",
+        "game": true
     }
 }
