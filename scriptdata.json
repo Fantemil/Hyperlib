@@ -36992,5 +36992,14 @@
         "hub": false,
         "gameid": "4951068818",
         "game": true
+    },
+    "di": {
+        "origin": "https://scriptblox.com/script/Skibi-World-BUZZSAW+-di-10095",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/di518.lua",
+        "author": "Uploaded by Yuii7 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14375256880",
+        "game": true
     }
 }

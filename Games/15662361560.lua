@@ -12,3 +12,5 @@
                                     
     addscriptexist(15662361560, "Ganja HUb    alternative Redz Hub", "Uploaded by zxpili17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ganja%20HUb%20%20%20%20alternative%20Redz%20Hub494.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ganja-HUb-alternative-Redz-Hub-10091")
                                     
+    addscriptexist(15662361560, "REDz HUB PS99", "Uploaded by yusufkeremunal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDz%20HUB%20PS99241.lua", "https://scriptblox.com/script/Pet-Simulator-99!-REDz-HUB-PS99-10093")
+                                    
