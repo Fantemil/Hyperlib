@@ -37140,5 +37140,21 @@
         "hub": false,
         "gameid": "15092647980",
         "game": true
+    },
+    "Chat bypasser": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Chat-bypasser-10112",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20bypasser564.lua",
+        "author": "Uploaded by jointodayteamwt on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "SPANISH HUB V10": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SPANISH-HUB-V10-10113",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPANISH%20HUB%20V10911.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
