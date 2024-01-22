@@ -36959,5 +36959,13 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "REDZ HUB  BEST GUI": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDZ-HUB-BEST-GUI-10092",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZ%20HUB%20%20BEST%20GUI551.lua",
+        "author": "Uploaded by RedzBest on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
