@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lkleda/premium/main/BluzHubBF.lua"))() -- bluz hub

@@ -726,3 +726,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Redz HUB Best Hub", "Uploaded by aflaro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20HUB%20Best%20Hub302.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-HUB-Best-Hub-10085")
                                     
+    addscriptexist(2753915549, "BluZ Script Hub OP Autofarm And More", "Uploaded by aflaro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BluZ%20Script%20Hub%20OP%20Autofarm%20And%20More822.lua", "https://scriptblox.com/script/Blox-Fruits-BluZ-Script-Hub-OP-Autofarm-And-More-10107")
+                                    

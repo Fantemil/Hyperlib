@@ -37096,5 +37096,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "UNIVERSAL ANTI AFK": {
+        "origin": "https://scriptblox.com/script/Universal-Script-UNIVERSAL-ANTI-AFK-10108",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNIVERSAL%20ANTI%20AFK612.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "BluZ Script Hub OP Autofarm And More": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BluZ-Script-Hub-OP-Autofarm-And-More-10107",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BluZ%20Script%20Hub%20OP%20Autofarm%20And%20More822.lua",
+        "author": "Uploaded by aflaro on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
