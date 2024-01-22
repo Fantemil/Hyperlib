@@ -37113,5 +37113,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Autarm auto rebith auto collect": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-Autarm-auto-rebith-auto-collect-10109",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autarm%20auto%20rebith%20auto%20collect213.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
     }
 }
