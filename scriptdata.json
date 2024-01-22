@@ -37028,5 +37028,14 @@
         "hub": false,
         "gameid": "9872472334",
         "game": true
+    },
+    "BEST AUTO FARM SCRIPT INF TRAIN": {
+        "origin": "https://scriptblox.com/script/NEW-Mowing-Simulator-BEST-AUTO-FARM-SCRIPT-INF-TRAIN-10097",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20FARM%20SCRIPT%20INF%20TRAIN118.lua",
+        "author": "Uploaded by premscripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13885546444",
+        "game": true
     }
 }
