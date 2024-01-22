@@ -20,3 +20,5 @@
                                     
     addscriptexist(15662361560, "PS99  GUI", "Uploaded by yusufkeremunal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20%20GUI598.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-GUI-10110")
                                     
+    addscriptexist(15662361560, "Ganja Hub", "Uploaded by yusufkeremunal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ganja%20Hub361.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Ganja-Hub-10131")
+                                    
