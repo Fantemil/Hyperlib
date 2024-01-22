@@ -36967,5 +36967,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Redz Gui       n Best": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Redz-Gui-n-Best-10093",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Gui%20%20%20%20%20%20%20n%20Best766.lua",
+        "author": "Uploaded by nataliciogonzaga201 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
