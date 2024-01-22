@@ -37079,5 +37079,14 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "BSS script": {
+        "origin": "https://scriptblox.com/script/Bee-Swarm-Simulator-BSS-script-10102",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BSS%20script956.lua",
+        "author": "Uploaded by Donand on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
     }
 }
