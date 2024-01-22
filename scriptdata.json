@@ -37037,5 +37037,30 @@
         "hub": false,
         "gameid": "13885546444",
         "game": true
+    },
+    "Zekrom Hub X Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Zekrom-Hub-X-Script-10124",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20Script781.lua",
+        "author": "Uploaded by eyjayforonda14 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "PS99  GUI": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-PS99-GUI-10110",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20%20GUI598.lua",
+        "author": "Uploaded by yusufkeremunal on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
+    },
+    "Byte Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Byte-Hub-10127",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Byte%20Hub247.lua",
+        "author": "Uploaded by tycoonman95 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

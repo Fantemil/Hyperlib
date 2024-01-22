@@ -16,3 +16,7 @@
                                     
     addscriptexist(15662361560, "SkyHub PS99 not scam", "Uploaded by yusufkeremunal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHub%20PS99%20not%20scam312.lua", "https://scriptblox.com/script/Pet-Simulator-99!-SkyHub-PS99-not-scam-10097")
                                     
+    addscriptexist(15662361560, "GanjaHub PS99", "Uploaded by yusufkeremunal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20PS99283.lua", "https://scriptblox.com/script/Pet-Simulator-99!-GanjaHub-PS99-10117")
+                                    
+    addscriptexist(15662361560, "PS99  GUI", "Uploaded by yusufkeremunal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PS99%20%20GUI598.lua", "https://scriptblox.com/script/Pet-Simulator-99!-PS99-GUI-10110")
+                                    
