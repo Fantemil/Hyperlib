@@ -36941,5 +36941,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Chat executor": {
+        "origin": "https://scriptblox.com/script/Fencing-Chat-executor-10090",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20executor152.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8080974701",
+        "game": true
+    },
+    "Farm gui": {
+        "origin": "https://scriptblox.com/script/ADMIN!-Slap-Battles-Best-gui-10089",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20gui710.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }
