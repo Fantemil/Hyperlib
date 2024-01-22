@@ -36924,5 +36924,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto spam parry": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Auto-spam-parry-10087",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20spam%20parry73.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "REDZ HUB   l   BEST GUI": {
+        "origin": "https://scriptblox.com/script/Universal-Script-REDZ-HUB-l-BEST-GUI-10088",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZ%20HUB%20%20%20l%20%20%20BEST%20GUI560.lua",
+        "author": "Uploaded by youssefsamak12 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
