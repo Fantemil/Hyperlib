@@ -37010,5 +37010,23 @@
         "hub": false,
         "gameid": "10449761463",
         "game": true
+    },
+    "SkyHub PS99 not scam": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-SkyHub-PS99-not-scam-10097",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SkyHub%20PS99%20not%20scam312.lua",
+        "author": "Uploaded by yusufkeremunal on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15662361560",
+        "game": true
+    },
+    "Auto Respawn": {
+        "origin": "https://scriptblox.com/script/Evade-Auto-Respawn-10096",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Respawn580.lua",
+        "author": "Uploaded by 5iREx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9872472334",
+        "game": true
     }
 }
