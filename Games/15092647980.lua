@@ -1,0 +1,2 @@
+
+    addscript(15092647980, "Current Game","simple gui", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20gui474.lua", "https://scriptblox.com/script/Project-Smash-simple-gui-10110")

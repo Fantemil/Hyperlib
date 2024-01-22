@@ -37122,5 +37122,23 @@
         "hub": false,
         "gameid": "3101667897",
         "game": true
+    },
+    "Time stop script": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Time-stop-script-10111",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Time%20stop%20script486.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "simple gui": {
+        "origin": "https://scriptblox.com/script/Project-Smash-simple-gui-10110",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20gui474.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15092647980",
+        "game": true
     }
 }
