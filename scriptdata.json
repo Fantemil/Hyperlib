@@ -36975,5 +36975,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "infinite gem of some simulator games": {
+        "origin": "https://scriptblox.com/script/Universal-Script-infinite-gem-of-some-simulator-games-10093",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20gem%20of%20some%20simulator%20games221.lua",
+        "author": "Uploaded by LightningHub_X on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Fe executor script": {
+        "origin": "https://scriptblox.com/script/Empty-Baseplate-R6-Fe-executor-script-10094",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20executor%20script817.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4951068818",
+        "game": true
     }
 }
