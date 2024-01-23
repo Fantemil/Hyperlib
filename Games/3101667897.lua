@@ -52,3 +52,5 @@ addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript
                                     
     addscriptexist(3101667897, "Autarm auto rebith auto collect", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autarm%20auto%20rebith%20auto%20collect213.lua", "https://scriptblox.com/script/Legends-Of-Speed-Autarm-auto-rebith-auto-collect-10109")
                                     
+    addscriptexist(3101667897, "Darkmoon X AutoPet Open Source", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20X%20AutoPet%20Open%20Source871.lua", "https://scriptblox.com/script/Legends-Of-Speed-Darkmoon-X-Open-Source-10125")
+                                    

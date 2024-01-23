@@ -37276,5 +37276,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Darkmoon X AutoPet Open Source": {
+        "origin": "https://scriptblox.com/script/Legends-Of-Speed-Darkmoon-X-Open-Source-10125",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20X%20AutoPet%20Open%20Source871.lua",
+        "author": "Uploaded by DarkMoon_X on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "3101667897",
+        "game": true
     }
 }
