@@ -37268,5 +37268,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Common hub v1": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Common-hub-v1-10125",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Common%20hub%20v1424.lua",
+        "author": "Uploaded by Cocacola9999gg on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
