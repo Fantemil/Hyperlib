@@ -730,3 +730,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "w azure hub", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/w%20azure%20hub170.lua", "https://scriptblox.com/script/Blox-Fruits-w-azure-hub-10114")
                                     
+    addscriptexist(2753915549, "Update Sukuna Hub V9", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Sukuna%20Hub%20V9675.lua", "https://scriptblox.com/script/Blox-Fruits-Update-Sukuna-Hub-V9-10124")
+                                    

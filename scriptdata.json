@@ -37259,5 +37259,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Update Sukuna Hub V9": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Update-Sukuna-Hub-V9-10124",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Sukuna%20Hub%20V9675.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
