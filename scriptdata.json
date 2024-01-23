@@ -37173,5 +37173,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Shife Hub V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Shife-Hub-V2-10116",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shife%20Hub%20V263.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
