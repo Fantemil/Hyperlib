@@ -24,3 +24,5 @@ addscript(10218821851, "Current Game","Vereus", "Uploaded by bop_ on scriptblox.
                                     
     addscriptexist(10218821851, "Time stop script", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Time%20stop%20script486.lua", "https://scriptblox.com/script/Client-Replication-Time-stop-script-10111")
                                     
+    addscriptexist(10218821851, "Teamc078kidd gui", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamc078kidd%20gui426.lua", "https://scriptblox.com/script/Client-Replication-Teamc078kidd-gui-10119")
+                                    
