@@ -8,3 +8,5 @@
                                     
     addscriptexist(15541304910, "RedzHub", "Uploaded by GamezHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub740.lua", "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-RedzHubz-9948")
                                     
+    addscriptexist(15541304910, "antiscam", "Uploaded by freescripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/antiscam411.lua", "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-antiscam-10137")
+                                    

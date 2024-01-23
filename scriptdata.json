@@ -37285,5 +37285,39 @@
         "hub": false,
         "gameid": "3101667897",
         "game": true
+    },
+    "KulthX console": {
+        "origin": "https://scriptblox.com/script/Universal-Script-KulthX-console-10138",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KulthX%20console280.lua",
+        "author": "Uploaded by kulthor on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "BlueRed Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BlueRed-Hub-10135",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlueRed%20Hub578.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Hax": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Hax-10136",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hax338.lua",
+        "author": "Uploaded by UnfairHax_Owner on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
+    },
+    "antiscam": {
+        "origin": "https://scriptblox.com/script/EVENT!-Pet-Simulator-99-Modded!-antiscam-10137",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/antiscam411.lua",
+        "author": "Uploaded by freescripts1 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15541304910",
+        "game": true
     }
 }

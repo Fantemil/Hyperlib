@@ -150,3 +150,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Kill Aura", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura678.lua", "https://scriptblox.com/script/Prison-Life-Give-Guns-Kill-All-10063")
                                     
+    addscriptexist(155615604, "Hax", "Uploaded by UnfairHax_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hax338.lua", "https://scriptblox.com/script/Prison-Life-Hax-10136")
+                                    
