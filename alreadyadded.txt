@@ -9084,3 +9084,4 @@ https://scriptblox.com/script/Client-Replication-Time-stop-script-10111
 https://scriptblox.com/script/Project-Smash-simple-gui-10110
 https://scriptblox.com/script/Universal-Script-Chat-bypasser-10112
 https://scriptblox.com/script/Universal-Script-SPANISH-HUB-V10-10113
+https://scriptblox.com/script/Blox-Fruits-w-azure-hub-10114
