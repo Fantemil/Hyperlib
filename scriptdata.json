@@ -37181,5 +37181,31 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Zekrom Hub X Scripts": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Zekrom-Hub-X-Scripts-10119",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zekrom%20Hub%20X%20Scripts448.lua",
+        "author": "Uploaded by callmezaddy13 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Star Op Script": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Star-Op-Script-10116",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Op%20Script428.lua",
+        "author": "Uploaded by AlienWare on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "All": {
+        "origin": "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-All-10117",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All97.lua",
+        "author": "Uploaded by AlienWare on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "662417684",
+        "game": true
     }
 }

@@ -686,3 +686,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "BluZ Script Hub OP Win always", "Uploaded by aflaro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BluZ%20Script%20Hub%20OP%20Win%20always308.lua", "https://scriptblox.com/script/UPD-Blade-Ball-BluZ-Script-Hub-OP-Win-always-10128")
                                     
+    addscriptexist(13772394625, "Star Op Script", "Uploaded by AlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Op%20Script428.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Star-Op-Script-10116")
+                                    
