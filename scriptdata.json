@@ -37165,5 +37165,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Simple gui with my most use script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Simple-gui-with-my-most-use-script-10115",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20gui%20with%20my%20most%20use%20script801.lua",
+        "author": "Uploaded by Cocacola9999gg on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
