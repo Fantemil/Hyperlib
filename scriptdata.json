@@ -37225,5 +37225,39 @@
         "hub": false,
         "gameid": "4104106043",
         "game": true
+    },
+    "No title hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-No-title-hub-10120",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20title%20hub405.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Unnamed Hub": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Unnamed-Hub-10119",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unnamed%20Hub456.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "FPS UNLOCKER SCRIPT Updated": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FPS-UNLOCKER-SCRIPT-Updated-10123",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FPS%20UNLOCKER%20SCRIPT%20Updated144.lua",
+        "author": "Uploaded by Guesttester_1 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Trolling Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Trolling-Hub-10121",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trolling%20Hub548.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }

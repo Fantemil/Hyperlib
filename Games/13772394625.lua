@@ -688,3 +688,7 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "Star Op Script", "Uploaded by AlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Star%20Op%20Script428.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Star-Op-Script-10116")
                                     
+    addscriptexist(13772394625, "No title hub", "Uploaded by ScriptCollector on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20title%20hub405.lua", "https://scriptblox.com/script/UPD-Blade-Ball-No-title-hub-10120")
+                                    
+    addscriptexist(13772394625, "Unnamed Hub", "Uploaded by ScriptCollector on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unnamed%20Hub456.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Unnamed-Hub-10119")
+                                    
