@@ -732,3 +732,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Update Sukuna Hub V9", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Sukuna%20Hub%20V9675.lua", "https://scriptblox.com/script/Blox-Fruits-Update-Sukuna-Hub-V9-10124")
                                     
+    addscriptexist(2753915549, "BF Op AnSit Hub", "Uploaded by Deijay3000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BF%20Op%20AnSit%20Hub523.lua", "https://scriptblox.com/script/Blox-Fruits-BF-Op-AnSit-Hub-10144")
+                                    
+    addscriptexist(2753915549, "Best Gui", "Uploaded by lillyelkasass0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Gui189.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Gui-10143")
+                                    

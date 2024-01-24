@@ -37337,5 +37337,14 @@
         "hub": false,
         "gameid": "3956818381",
         "game": true
+    },
+    "BF Op AnSit Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-BF-Op-AnSit-Hub-10144",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BF%20Op%20AnSit%20Hub523.lua",
+        "author": "Uploaded by Deijay3000 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
