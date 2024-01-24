@@ -37458,5 +37458,13 @@
         "hub": false,
         "gameid": "155615604",
         "game": true
+    },
+    "Latam Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Latam-Hub-10169",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Latam%20Hub911.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
