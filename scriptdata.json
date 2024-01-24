@@ -37425,5 +37425,29 @@
         "hub": false,
         "gameid": "13586397660",
         "game": true
+    },
+    "LenixHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-LenixHub-10167",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LenixHub231.lua",
+        "author": "Uploaded by Lenix on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Skyhubs": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Skyhubs-10166",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skyhubs543.lua",
+        "author": "Uploaded by Lenix on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Best Gui RedzHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Best-Gui-RedzHub-10165",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Gui%20RedzHub641.lua",
+        "author": "Uploaded by orjouannourddin112 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
