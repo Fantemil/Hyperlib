@@ -37346,5 +37346,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "ShifeHub V3": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ShifeHub-V3-10145",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShifeHub%20V3725.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
