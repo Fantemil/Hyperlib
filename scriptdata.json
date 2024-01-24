@@ -37354,5 +37354,40 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "BlueRed Hub V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BlueRed-Hub-V2-10148",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlueRed%20Hub%20V2177.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "BEST AUTO FARM SCRIPT KILL AURA AUTO FARM AUTO ATTACK": {
+        "origin": "https://scriptblox.com/script/Solo-Levelling-+-Upd-11-Z-Piece-BEST-AUTO-FARM-SCRIPT-KILL-AURA-AUTO-FARM-AUTO-ATTACK-10150",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20FARM%20SCRIPT%20KILL%20AURA%20AUTO%20FARM%20AUTO%20ATTACK271.lua",
+        "author": "Uploaded by premscripts on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15060257865",
+        "game": true
+    },
+    "Multiple features": {
+        "origin": "https://scriptblox.com/script/Naval-Warfare-Multiple-features-10147",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiple%20features940.lua",
+        "author": "Uploaded by Thepunchbag on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2210085102",
+        "game": true
+    },
+    "Macro V3": {
+        "origin": "https://scriptblox.com/script/Bee-Swarm-Simulator-Macro-V3-10149",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Macro%20V3340.lua",
+        "author": "Uploaded by salesmacrov3 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
     }
 }

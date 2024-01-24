@@ -1,0 +1,2 @@
+
+    addscript(15060257865, "Current Game","BEST AUTO FARM SCRIPT KILL AURA AUTO FARM AUTO ATTACK", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20FARM%20SCRIPT%20KILL%20AURA%20AUTO%20FARM%20AUTO%20ATTACK271.lua", "https://scriptblox.com/script/Solo-Levelling-+-Upd-11-Z-Piece-BEST-AUTO-FARM-SCRIPT-KILL-AURA-AUTO-FARM-AUTO-ATTACK-10150")
