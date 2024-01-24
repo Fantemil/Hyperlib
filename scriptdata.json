@@ -37389,5 +37389,23 @@
         "hub": false,
         "gameid": "1537690962",
         "game": true
+    },
+    "Vector Hub NEW": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Vector-Hub-NEW-10157",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vector%20Hub%20NEW711.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Redz Gui Best Hub PS99": {
+        "origin": "https://scriptblox.com/script/Insane-Elevator!-Darkmoon-X-10159",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Gui%20Best%20Hub%20PS99282.lua",
+        "author": "Uploaded by phoneminsoe216 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4104106043",
+        "game": true
     }
 }

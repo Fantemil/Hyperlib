@@ -6,3 +6,5 @@ addscriptexist(4104106043, "VIP Room n All Gears", "Uploaded by KhSaeed90 on scr
                                 
     addscriptexist(4104106043, "Darkmoon X", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20X808.lua", "https://scriptblox.com/script/Insane-Elevator!-Darkmoon-X-10120")
                                     
+    addscriptexist(4104106043, "Redz Gui Best Hub PS99", "Uploaded by phoneminsoe216 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Gui%20Best%20Hub%20PS99282.lua", "https://scriptblox.com/script/Insane-Elevator!-Darkmoon-X-10159")
+                                    

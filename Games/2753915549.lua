@@ -736,3 +736,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Best Gui", "Uploaded by lillyelkasass0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Gui189.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Gui-10143")
                                     
+    addscriptexist(2753915549, "Vector Hub NEW", "Uploaded by ScriptCollector on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vector%20Hub%20NEW711.lua", "https://scriptblox.com/script/Blox-Fruits-Vector-Hub-NEW-10157")
+                                    
