@@ -37407,5 +37407,23 @@
         "hub": false,
         "gameid": "4104106043",
         "game": true
+    },
+    "Jumppower": {
+        "origin": "https://scriptblox.com/script/Livetopia-Free-house-Jumppower-10160",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jumppower761.lua",
+        "author": "Uploaded by 5iREx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6737970321",
+        "game": true
+    },
+    "war of skibidi": {
+        "origin": "https://scriptblox.com/script/EP-70-UPDATE-Ultimate-Toilet-Showdown-war-of-skibidi-10161",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/war%20of%20skibidi432.lua",
+        "author": "Uploaded by Yuii7 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13586397660",
+        "game": true
     }
 }
