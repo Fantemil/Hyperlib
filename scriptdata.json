@@ -37500,5 +37500,29 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Speed Hub X BEST SCRIPT NO KEY FREE": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Speed-Hub-X-BEST-SCRIPT-NO-KEY-FREE-10175",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20BEST%20SCRIPT%20NO%20KEY%20FREE760.lua",
+        "author": "Uploaded by ahmadsgamer2 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "for hyperbooba ty": {
+        "origin": "https://scriptblox.com/script/Universal-Script-for-hyperbooba-ty-10173",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/for%20hyperbooba%20ty58.lua",
+        "author": "Uploaded by ThunderMods on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Just A Script Adonis Checker": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Just-A-Script-Adonis-Checker-10174",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Just%20A%20Script%20Adonis%20Checker498.lua",
+        "author": "Uploaded by Gray on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
