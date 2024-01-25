@@ -170,3 +170,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Lunar Hub BYPASSED", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20Hub%20BYPASSED280.lua", "https://scriptblox.com/script/Murder-Mystery-2-Lunar-Hub-BYPASSED-9989")
                                     
+    addscriptexist(142823291, "Nexus Hub", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nexus%20Hub722.lua", "https://scriptblox.com/script/Murder-Mystery-2-Nexus-Hub-10169")
+                                    

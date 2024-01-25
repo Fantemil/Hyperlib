@@ -37474,5 +37474,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Annie Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Annie-Hub-10168",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Annie%20Hub802.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Nexus Hub": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Nexus-Hub-10169",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nexus%20Hub722.lua",
+        "author": "Uploaded by fmapwjq on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }
