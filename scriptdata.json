@@ -37576,5 +37576,14 @@
         "hub": false,
         "gameid": "6516141723",
         "game": true
+    },
+    "Sway Hub Best script op": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Sway-Hub-Best-script-op-10181",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sway%20Hub%20Best%20script%20op32.lua",
+        "author": "Uploaded by billyball on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
