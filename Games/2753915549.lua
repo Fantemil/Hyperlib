@@ -740,3 +740,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Annie Hub", "Uploaded by ScriptCollector on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Annie%20Hub802.lua", "https://scriptblox.com/script/Blox-Fruits-Annie-Hub-10168")
                                     
+    addscriptexist(2753915549, "Update 21 And AUTO FARM AND BEST SPEED BOAT AND NO CLIP ROCK", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%2021%20And%20AUTO%20FARM%20AND%20BEST%20SPEED%20BOAT%20AND%20NO%20CLIP%20ROCK667.lua", "https://scriptblox.com/script/Blox-Fruits-Update-21-And-AUTO-FARM-AND-BEST-SPEED-BOAT-AND-NO-CLIP-ROCK-10180")
+                                    

@@ -94,3 +94,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "lolcat script for PC and Emulator", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lolcat%20script%20for%20PC%20and%20Emulator175.lua", "https://scriptblox.com/script/DOORS-lolcat-script-for-PC-and-Emulator-10013")
                                     
+    addscriptexist(6516141723, "script OP GUI", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20OP%20GUI499.lua", "https://scriptblox.com/script/DOORS-script-OP-GUI-10180")
+                                    

