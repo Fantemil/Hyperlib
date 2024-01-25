@@ -37466,5 +37466,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "ShifeHub V4 OP HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ShifeHub-V4-OP-HUB-10166",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShifeHub%20V4%20OP%20HUB252.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
