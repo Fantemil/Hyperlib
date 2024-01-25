@@ -92,3 +92,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Troll hub good for clips", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20hub%20good%20for%20clips66.lua", "https://scriptblox.com/script/Brookhaven-RP-Troll-hub-good-for-clips-10183")
                                     
+    addscriptexist(4924922222, "MainHub", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MainHub972.lua", "https://scriptblox.com/script/Brookhaven-RP-MainHub-10179")
+                                    

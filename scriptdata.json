@@ -37611,5 +37611,14 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "MainHub": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-MainHub-10179",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MainHub972.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }
