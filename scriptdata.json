@@ -37532,5 +37532,31 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "NeonC Hub V6 ": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Jssekw-10177",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20V6%20989.lua",
+        "author": "Uploaded by NeoncatXRZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "RiverHub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-RiverHub-10176",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RiverHub625.lua",
+        "author": "Uploaded by t6791284 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Car Fly Dsc Mike": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Car-Fly-Dsc-Mike-10178",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Fly%20Dsc%20Mike239.lua",
+        "author": "Uploaded by MikeRobloxYTMike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }
