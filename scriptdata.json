@@ -37492,5 +37492,13 @@
         "hub": false,
         "gameid": "142823291",
         "game": true
+    },
+    "C00LMAN SCRIPT HUB": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00LMAN-SCRIPT-HUB-10171",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00LMAN%20SCRIPT%20HUB46.lua",
+        "author": "Uploaded by ricardocanjalis on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
