@@ -37602,5 +37602,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Troll hub good for clips": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Troll-hub-good-for-clips-10183",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20hub%20good%20for%20clips66.lua",
+        "author": "Uploaded by Findp on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
     }
 }
