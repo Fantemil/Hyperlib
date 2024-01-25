@@ -37524,5 +37524,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Best RedsHup": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Best-RedsHup-10176",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20RedsHup103.lua",
+        "author": "Uploaded by jgohkv on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
