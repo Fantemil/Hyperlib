@@ -37628,5 +37628,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Bss Script": {
+        "origin": "https://scriptblox.com/script/Bee-Swarm-Simulator-Bss-Script-10181",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bss%20Script220.lua",
+        "author": "Uploaded by Donand on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1537690962",
+        "game": true
+    },
+    "Auto Farm Xp": {
+        "origin": "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Xp-10182",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Xp331.lua",
+        "author": "Uploaded by 5iREx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "142823291",
+        "game": true
     }
 }
