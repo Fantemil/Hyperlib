@@ -37585,5 +37585,22 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "NeonC Hub V6": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NeonC-Hub-V6-10183",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20V6353.lua",
+        "author": "Uploaded by vaggelis1232008 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "mbm hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-mbm-hub-10182",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mbm%20hub196.lua",
+        "author": "Uploaded by m1m_minh on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
