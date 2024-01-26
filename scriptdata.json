@@ -37758,5 +37758,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Spin Bot": {
+        "origin": "https://scriptblox.com/script/BedWars-LUCKYBLOCK-Spin-Bot-10198",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20Bot728.lua",
+        "author": "Uploaded by 5iREx on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6872265039",
+        "game": true
     }
 }

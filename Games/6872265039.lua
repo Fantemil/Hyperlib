@@ -106,3 +106,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Kill aura reach esp player", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20aura%20reach%20esp%20player688.lua", "https://scriptblox.com/script/BedWars-MAP-DECAY-Kill-aura-reach-esp-player-10063")
                                     
+    addscriptexist(6872265039, "Spin Bot", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20Bot728.lua", "https://scriptblox.com/script/BedWars-LUCKYBLOCK-Spin-Bot-10198")
+                                    
