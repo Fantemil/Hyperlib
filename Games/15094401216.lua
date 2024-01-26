@@ -1,0 +1,2 @@
+
+    addscript(15094401216, "Current Game","GUI", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI389.lua", "https://scriptblox.com/script/limitless-purple-UPD-GUI-10195")
