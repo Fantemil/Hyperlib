@@ -37750,5 +37750,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Simple Script Decompiler": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Simple-Script-Decompiler-10196",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script%20Decompiler700.lua",
+        "author": "Uploaded by REDz on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
