@@ -37672,5 +37672,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Visualise": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-Visualise-10190",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visualise944.lua",
+        "author": "Uploaded by hcp21028 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }
