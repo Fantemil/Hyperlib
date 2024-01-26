@@ -1,0 +1,2 @@
+
+    addscript(10523236737, "Current Game","Slenderman OP script", "Uploaded by TheCreatorID on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slenderman%20OP%20script797.lua", "https://scriptblox.com/script/Multiverse-Battlegrounds-script-10199")
