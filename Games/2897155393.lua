@@ -1,0 +1,2 @@
+
+    addscript(2897155393, "Current Game","Plot Copier", "Uploaded by tycoonman95 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plot%20Copier262.lua", "https://scriptblox.com/script/Welcome-to-Roblox-Building-Plot-Copier-10186")
