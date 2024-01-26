@@ -26,3 +26,5 @@ addscript(10218821851, "Current Game","Vereus", "Uploaded by bop_ on scriptblox.
                                     
     addscriptexist(10218821851, "Teamc078kidd gui", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teamc078kidd%20gui426.lua", "https://scriptblox.com/script/Client-Replication-Teamc078kidd-gui-10119")
                                     
+    addscriptexist(10218821851, "Team8x8x8x8 gui v5", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team8x8x8x8%20gui%20v5651.lua", "https://scriptblox.com/script/Client-Replication-Team8x8x8x8-gui-v5-10201")
+                                    

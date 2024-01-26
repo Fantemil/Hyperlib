@@ -37733,5 +37733,14 @@
         "hub": false,
         "gameid": "10523236737",
         "game": true
+    },
+    "Team8x8x8x8 gui v5": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Team8x8x8x8-gui-v5-10201",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team8x8x8x8%20gui%20v5651.lua",
+        "author": "Uploaded by Team8x8x8x8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
     }
 }
