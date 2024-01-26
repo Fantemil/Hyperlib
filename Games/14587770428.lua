@@ -1,0 +1,2 @@
+
+    addscript(14587770428, "Current Game","Inf Charm HUGES AND TITANICS ONLY", "Uploaded by kimseyigit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Charm%20HUGES%20AND%20TITANICS%20ONLY985.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPDATE-5-Inf-Charm-HUGES-AND-TITANICS-ONLY-10191")
