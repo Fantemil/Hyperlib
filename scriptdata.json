@@ -37742,5 +37742,13 @@
         "hub": false,
         "gameid": "10218821851",
         "game": true
+    },
+    "Script Pack": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Script-Pack-10196",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Pack19.lua",
+        "author": "Uploaded by RandomUser on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
