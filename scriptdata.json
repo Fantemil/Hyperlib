@@ -37646,5 +37646,14 @@
         "hub": false,
         "gameid": "142823291",
         "game": true
+    },
+    "Dakii Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Dakii-Hub-10185",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dakii%20Hub630.lua",
+        "author": "Uploaded by ScriptCollector on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
