@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dakiiuem/BladeBall/main/DakiiBladeBall", true))()

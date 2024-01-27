@@ -748,3 +748,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "mbm x hub new ui", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mbm%20x%20hub%20new%20ui353.lua", "https://scriptblox.com/script/Blox-Fruits-mbm-x-hub-new-ui-10190")
                                     
+    addscriptexist(2753915549, "dakii x hub v2", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dakii%20x%20hub%20v2709.lua", "https://scriptblox.com/script/Blox-Fruits-dakii-x-hub-v2-10221")
+                                    

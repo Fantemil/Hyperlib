@@ -37818,5 +37818,23 @@
         "hub": false,
         "gameid": "7697611744",
         "game": true
+    },
+    "dakii x hub": {
+        "origin": "https://scriptblox.com/script/Blade-Ball-dakii-x-hub-10222",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dakii%20x%20hub27.lua",
+        "author": "Uploaded by m1m_minh on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "dakii x hub v2": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-dakii-x-hub-v2-10221",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dakii%20x%20hub%20v2709.lua",
+        "author": "Uploaded by m1m_minh on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
