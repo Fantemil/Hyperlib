@@ -28,3 +28,5 @@ addscriptexist(7952502098, "Auto Win", "Uploaded by a_nerd on scriptblox.com", "
                                     
     addscriptexist(7952502098, "Autofarm Godmode Tiles ESP", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Godmode%20Tiles%20ESP955.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Autofarm-Godmode-Tiles-ESP-9808")
                                     
+    addscriptexist(7952502098, "Farming Tiles ESP Godmode", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20Tiles%20ESP%20Godmode329.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Farming-Tiles-ESP-Godmode-10226")
+                                    

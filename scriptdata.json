@@ -37853,5 +37853,22 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Farming Tiles ESP Godmode": {
+        "origin": "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Farming-Tiles-ESP-Godmode-10226",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20Tiles%20ESP%20Godmode329.lua",
+        "author": "Uploaded by Thundy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7952502098",
+        "game": true
+    },
+    "fake chat lag": {
+        "origin": "https://scriptblox.com/script/Universal-Script-fake-chat-lag-10225",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fake%20chat%20lag70.lua",
+        "author": "Uploaded by Minkasig on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
