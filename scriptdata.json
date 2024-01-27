@@ -37879,5 +37879,22 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "NeonC Hub DIAMOND": {
+        "origin": "https://scriptblox.com/script/NOW-Blade-Ball-Jsksms-10228",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20DIAMOND357.lua",
+        "author": "Uploaded by NeoncatXRZ on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "SimpleDecompile": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SimpleDecompile-10228",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SimpleDecompile44.lua",
+        "author": "Uploaded by vxsty on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
