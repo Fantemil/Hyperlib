@@ -37801,5 +37801,13 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "Le epic booster": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Le-epic-booster-10204",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Le%20epic%20booster728.lua",
+        "author": "Uploaded by Blocky_Povcameraman on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
