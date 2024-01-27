@@ -37809,5 +37809,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Garbage spawner": {
+        "origin": "https://scriptblox.com/script/Elevator-of-Fun-UPDATE-Garbage-spawner-10205",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Garbage%20spawner333.lua",
+        "author": "Uploaded by Minkasig on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7697611744",
+        "game": true
     }
 }
