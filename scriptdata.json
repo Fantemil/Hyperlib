@@ -37896,5 +37896,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "UHM LEAK": {
+        "origin": "https://scriptblox.com/script/Universal-Script-UHM-LEAK-10229",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UHM%20LEAK588.lua",
+        "author": "Uploaded by c00lkidd_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
