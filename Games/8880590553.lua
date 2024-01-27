@@ -1,0 +1,2 @@
+
+    addscript(8880590553, "Current Game","Instants task", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instants%20task206.lua", "https://scriptblox.com/script/GRIFFIN-Animal-Evolution-Simulator-Instants-task-10230")
