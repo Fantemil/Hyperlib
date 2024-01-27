@@ -37775,5 +37775,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "ZapHub The BEST Auto Farm and Auto Fishing and MORE FV": {
+        "origin": "https://scriptblox.com/script/Pet-Simulator-99!-UPD-5-ZapHub-The-BEST-Auto-Farm-and-Auto-Fishing-and-MORE-Fast-Ver-10202",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Farm%20and%20Auto%20Fishing%20and%20MORE%20FV181.lua",
+        "author": "Uploaded by ZapHub on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "8737899170",
+        "game": true
     }
 }

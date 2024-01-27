@@ -130,3 +130,5 @@
                                     
     addscriptexist(8737899170, "ZapHub The BEST Auto Farm and MORE", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Farm%20and%20MORE336.lua", "https://scriptblox.com/script/18h-Pet-Simulator-99!-ZapHub-The-BEST-Auto-Farm-and-MORE-10049")
                                     
+    addscriptexist(8737899170, "ZapHub The BEST Auto Farm and Auto Fishing and MORE FV", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Farm%20and%20Auto%20Fishing%20and%20MORE%20FV181.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPD-5-ZapHub-The-BEST-Auto-Farm-and-Auto-Fishing-and-MORE-Fast-Ver-10202")
+                                    
