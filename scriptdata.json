@@ -37870,5 +37870,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Hyper Hub": {
+        "origin": "https://scriptblox.com/script/NOW-Blade-Ball-Hyper-Hub-10227",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20Hub723.lua",
+        "author": "Uploaded by imaaan00bb on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

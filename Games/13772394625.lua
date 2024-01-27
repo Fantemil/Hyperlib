@@ -696,3 +696,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "dakii x hub", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dakii%20x%20hub27.lua", "https://scriptblox.com/script/Blade-Ball-dakii-x-hub-10222")
                                     
+    addscriptexist(13772394625, "Hyper Hub", "Uploaded by imaaan00bb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20Hub723.lua", "https://scriptblox.com/script/NOW-Blade-Ball-Hyper-Hub-10227")
+                                    
