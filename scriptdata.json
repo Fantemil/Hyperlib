@@ -37792,5 +37792,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "script no ban": {
+        "origin": "https://scriptblox.com/script/PROPDATE-Slap-Battles-script-no-ban-10203",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20no%20ban799.lua",
+        "author": "Uploaded by Pkxdjosh on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }
