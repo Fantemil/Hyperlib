@@ -4,3 +4,5 @@ addscriptexist(4913581664, "New Hub For Cart Ride Into Rdite", "Uploaded by huss
                                 
 addscriptexist(4913581664, "Game Script", "Uploaded by Malique on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Script270.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Game-Script-8281")
                                 
+    addscriptexist(4913581664, "Darkmoon x", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20x921.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Darkmoon-x-10238")
+                                    
