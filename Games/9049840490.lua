@@ -16,3 +16,5 @@ addscriptexist(9049840490, "auto farm", "Uploaded by Panchito on scriptblox.com"
                                 
     addscriptexist(9049840490, "Auto complete guest", "Uploaded by Troll on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20complete%20guest228.lua", "https://scriptblox.com/script/SONIC-PRIME-Sonic-Speed-Simulator-Auto-complete-guest-9972")
                                     
+    addscriptexist(9049840490, "ponyhumping", "Uploaded by Shangler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ponyhumping393.lua", "https://scriptblox.com/script/SALE-Sonic-Speed-Simulator-ponyhumping-10236")
+                                    

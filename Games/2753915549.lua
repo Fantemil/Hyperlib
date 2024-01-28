@@ -752,3 +752,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "MatHub", "Uploaded by MatL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MatHub102.lua", "https://scriptblox.com/script/Blox-Fruits-MatHub-10224")
                                     
+    addscriptexist(2753915549, "Update Script Auto Farm And More", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Script%20Auto%20Farm%20And%20More491.lua", "https://scriptblox.com/script/Blox-Fruits-Update-Script-Auto-Farm-And-More-10236")
+                                    
