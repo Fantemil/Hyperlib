@@ -37983,5 +37983,14 @@
         "hub": false,
         "gameid": "11543744382",
         "game": true
+    },
+    "Autofarm Script Fast": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Autofarm-Script-Fast-10246",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Script%20Fast606.lua",
+        "author": "Uploaded by jackoboy8 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
