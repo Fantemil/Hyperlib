@@ -26,3 +26,5 @@ addscriptexist(4483381587, "genesis fe dnce", "Uploaded by nicn1202ff on scriptb
                                 
 addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rcd%20renimte%20with%20ex888.lua", "https://scriptblox.com/script/a-literal-baseplate.-rcd-renimte-with-ex-9068")
                                 
+    addscriptexist(4483381587, "FE Creepy Crwler", "Uploaded by mommylonglegs222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Creepy%20Crwler442.lua", "https://scriptblox.com/script/a-literal-baseplate.-FE-Creepy-Crwler-10249")
+                                    
