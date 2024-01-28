@@ -37948,5 +37948,31 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "ShifeHub v5": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ShifeHub-v5-10239",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShifeHub%20v5516.lua",
+        "author": "Uploaded by samsamvip on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Script again requested by community": {
+        "origin": "https://scriptblox.com/script/Shoot-Beam-Simulator-Script-again-requested-by-community-10237",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20again%20requested%20by%20community686.lua",
+        "author": "Uploaded by FahriScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "15300789066",
+        "game": true
+    },
+    "shanglerisanitter": {
+        "origin": "https://scriptblox.com/script/NEW-Rocket-Wheels-shanglerisanitter-10239",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/shanglerisanitter892.lua",
+        "author": "Uploaded by Shangler on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13531514032",
+        "game": true
     }
 }

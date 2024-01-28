@@ -1,0 +1,2 @@
+
+    addscript(15300789066, "Current Game","Script again requested by community", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20again%20requested%20by%20community686.lua", "https://scriptblox.com/script/Shoot-Beam-Simulator-Script-again-requested-by-community-10237")
