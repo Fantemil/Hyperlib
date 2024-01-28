@@ -700,3 +700,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "NeonC Hub DIAMOND", "Uploaded by NeoncatXRZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeonC%20Hub%20DIAMOND357.lua", "https://scriptblox.com/script/NOW-Blade-Ball-Jsksms-10228")
                                     
+    addscriptexist(13772394625, "MatHub", "Uploaded by MatL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MatHub97.lua", "https://scriptblox.com/script/UPD-Blade-Ball-MatHub-10250")
+                                    
