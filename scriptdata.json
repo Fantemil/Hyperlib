@@ -38001,5 +38001,13 @@
         "hub": false,
         "gameid": "6708206173",
         "game": true
+    },
+    "T to sit": {
+        "origin": "https://scriptblox.com/script/Universal-Script-T-to-sit-10242",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/T%20to%20sit81.lua",
+        "author": "Uploaded by jfire on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

