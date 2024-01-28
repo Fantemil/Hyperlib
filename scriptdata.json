@@ -38026,5 +38026,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Hub for preppy": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Hub-for-preppy-10247",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20for%20preppy892.lua",
+        "author": "Uploaded by giraffedul on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "1X1X1X1 GUI MODDED changed the names and messages": {
+        "origin": "https://scriptblox.com/script/Universal-Script-1X1X1X1-GUI-MODDED-changed-the-names-and-messages-10246",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1X1X1X1%20GUI%20MODDED%20changed%20the%20names%20and%20messages32.lua",
+        "author": "Uploaded by CKfriend on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
