@@ -37913,5 +37913,13 @@
         "hub": false,
         "gameid": "8880590553",
         "game": true
+    },
+    "ManaV2ForRoblox": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ManaV2ForRoblox-10231",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManaV2ForRoblox97.lua",
+        "author": "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
