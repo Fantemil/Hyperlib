@@ -38084,5 +38084,31 @@
         "hub": false,
         "gameid": "5956785391",
         "game": true
+    },
+    "AI Powered Automated Play": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-AI-Powered-Automated-Play-10256",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AI%20Powered%20Automated%20Play65.lua",
+        "author": "Uploaded by revanbollinger3 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
+    },
+    "Shadows Scripts Hub V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Shadows-Scripts-Hub-V2-10255",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shadows%20Scripts%20Hub%20V2674.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "Sxnumz Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Sxnumz-Hub-10257",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sxnumz%20Hub385.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

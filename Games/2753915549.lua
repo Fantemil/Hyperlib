@@ -756,3 +756,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Autofarm Script Fast", "Uploaded by jackoboy8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Script%20Fast606.lua", "https://scriptblox.com/script/Blox-Fruits-Autofarm-Script-Fast-10246")
                                     
+    addscriptexist(2753915549, "Sxnumz Hub", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sxnumz%20Hub385.lua", "https://scriptblox.com/script/Blox-Fruits-Sxnumz-Hub-10257")
+                                    
