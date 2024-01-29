@@ -766,3 +766,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Best Auto Chest Script", "Uploaded by AnSit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Chest%20Script906.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Auto-Chest-Script-10267")
                                     
+    addscriptexist(2753915549, "Bonez Hub", "Uploaded by ItsYaBoiRayRay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bonez%20Hub84.lua", "https://scriptblox.com/script/Blox-Fruits-Bonez-Hub-10271")
+                                    

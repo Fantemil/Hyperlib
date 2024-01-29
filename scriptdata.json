@@ -38214,5 +38214,39 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Alysse Revamped Executor Open Source": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Alysse-Revamped-Executor-Open-Source-10273",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alysse%20Revamped%20Executor%20Open%20Source885.lua",
+        "author": "Uploaded by GamerReadyALT on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Bonez Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Bonez-Hub-10271",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bonez%20Hub84.lua",
+        "author": "Uploaded by ItsYaBoiRayRay on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "UNDER GUI HUB": {
+        "origin": "https://scriptblox.com/script/Underground-War-2.0-NUKE-UNDER-GUI-HUB-10272",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNDER%20GUI%20HUB644.lua",
+        "author": "Uploaded by JUANKO_MODS_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "9791603388",
+        "game": true
+    },
+    "Player Protection Against malicious scripts": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Player-Protection-Against-malicious-scripts-10270",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Player%20Protection%20Against%20malicious%20scripts581.lua",
+        "author": "Uploaded by C0dedlegacy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
