@@ -38180,5 +38180,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Etronix": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Etronix-10263",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etronix745.lua",
+        "author": "Uploaded by killstreaked_ on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
