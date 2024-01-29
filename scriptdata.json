@@ -38206,5 +38206,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "SHV11 Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-SHV11-Hub-10268",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SHV11%20Hub805.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
