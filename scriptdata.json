@@ -38172,5 +38172,13 @@
         "hub": false,
         "gameid": "12135640403",
         "game": true
+    },
+    "Tsh hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Tsh-hub-10262",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsh%20hub932.lua",
+        "author": "Uploaded by Qrto on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
