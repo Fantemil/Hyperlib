@@ -38075,5 +38075,14 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Slayer OP SCRIPT": {
+        "origin": "https://scriptblox.com/script/Update-1.5-Project-Slayers-Slayer-OP-SCRIPT-10253",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayer%20OP%20SCRIPT452.lua",
+        "author": "Uploaded by cloudman4416 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "5956785391",
+        "game": true
     }
 }
