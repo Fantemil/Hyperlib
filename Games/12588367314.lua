@@ -1,0 +1,2 @@
+
+    addscript(12588367314, "Current Game","Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V261.lua", "https://scriptblox.com/script/RoBending-Online-BETA-RELEASE-Demonic-HUB-V2-10258")

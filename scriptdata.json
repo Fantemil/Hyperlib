@@ -38154,5 +38154,23 @@
         "hub": false,
         "gameid": "1240123653",
         "game": true
+    },
+    "hydro hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-hydro-hub-10259",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hydro%20hub201.lua",
+        "author": "Uploaded by zfxcvzfxcv on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Requested script again": {
+        "origin": "https://scriptblox.com/script/SOLO-LEVELINGAnime-Dungeon-Fighters-Requested-script-again-10260",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Requested%20script%20again187.lua",
+        "author": "Uploaded by FahriScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12135640403",
+        "game": true
     }
 }

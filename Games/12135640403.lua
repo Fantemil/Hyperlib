@@ -1,2 +1,4 @@
 
     addscript(12135640403, "Current Game","Instant Kill Auto Farm and other Good feature", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Kill%20Auto%20Farm%20and%20other%20Good%20feature273.lua", "https://scriptblox.com/script/SOLO-LEVELINGAnime-Dungeon-Fighters-Instant-Kill-Auto-Farm-and-other-Good-feature-10138")
+    addscriptexist(12135640403, "Requested script again", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Requested%20script%20again187.lua", "https://scriptblox.com/script/SOLO-LEVELINGAnime-Dungeon-Fighters-Requested-script-again-10260")
+                                    
