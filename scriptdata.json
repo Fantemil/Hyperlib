@@ -38119,5 +38119,13 @@
         "hub": false,
         "gameid": "13772394625",
         "game": true
+    },
+    "Blacktrap": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Blacktrap-10258",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blacktrap659.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
