@@ -38256,5 +38256,23 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Bre4dgui v6": {
+        "origin": "https://scriptblox.com/script/Client-Replication-Bre4dgui-v6-10273",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bre4dgui%20v6901.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
+    },
+    "K00gui v3": {
+        "origin": "https://scriptblox.com/script/Client-Replication-K00gui-v3-10274",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00gui%20v3218.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "10218821851",
+        "game": true
     }
 }
