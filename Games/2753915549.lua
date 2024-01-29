@@ -762,3 +762,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "hydro hub", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hydro%20hub201.lua", "https://scriptblox.com/script/Blox-Fruits-hydro-hub-10259")
                                     
+    addscriptexist(2753915549, "Best Auto Bounty Script", "Uploaded by AnSit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Bounty%20Script990.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Auto-Bounty-Script-10266")
+                                    
+    addscriptexist(2753915549, "Best Auto Chest Script", "Uploaded by AnSit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Chest%20Script906.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Auto-Chest-Script-10267")
+                                    
