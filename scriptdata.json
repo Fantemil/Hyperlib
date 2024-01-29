@@ -38110,5 +38110,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Visual v2 GEN": {
+        "origin": "https://scriptblox.com/script/UPD-Blade-Ball-Visual-v2-GEN-10257",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20v2%20GEN615.lua",
+        "author": "Uploaded by visual on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "13772394625",
+        "game": true
     }
 }

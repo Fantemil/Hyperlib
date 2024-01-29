@@ -704,3 +704,5 @@ addscriptexist(13772394625, "Symphony Hub", "Uploaded by boql on scriptblox.com"
                                     
     addscriptexist(13772394625, "AI Powered Automated Play", "Uploaded by revanbollinger3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AI%20Powered%20Automated%20Play65.lua", "https://scriptblox.com/script/UPD-Blade-Ball-AI-Powered-Automated-Play-10256")
                                     
+    addscriptexist(13772394625, "Visual v2 GEN", "Uploaded by visual on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20v2%20GEN615.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Visual-v2-GEN-10257")
+                                    
