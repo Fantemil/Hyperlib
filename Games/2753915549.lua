@@ -758,3 +758,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Sxnumz Hub", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sxnumz%20Hub385.lua", "https://scriptblox.com/script/Blox-Fruits-Sxnumz-Hub-10257")
                                     
+    addscriptexist(2753915549, "hoho hub", "Uploaded by zfxcvzfxcv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hoho%20hub320.lua", "https://scriptblox.com/script/Blox-Fruits-hoho-hub-10256")
+                                    

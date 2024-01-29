@@ -38136,5 +38136,23 @@
         "hub": false,
         "gameid": "14518422161",
         "game": true
+    },
+    "hoho hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-hoho-hub-10256",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hoho%20hub320.lua",
+        "author": "Uploaded by zfxcvzfxcv on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Dsc Mike": {
+        "origin": "https://scriptblox.com/script/Zombie-Attack-Dsc-Mike-10257",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mike247.lua",
+        "author": "Uploaded by MikeRobloxYTMike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1240123653",
+        "game": true
     }
 }

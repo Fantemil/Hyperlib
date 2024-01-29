@@ -18,3 +18,5 @@ addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com
                                     
     addscriptexist(1240123653, "BEST GUI AUTOFARM KILL AURA SILENT AIM MORE", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20AUTOFARM%20KILL%20AURA%20SILENT%20AIM%20MORE942.lua", "https://scriptblox.com/script/Zombie-Attack-BEST-GUI-AUTOFARM-KILL-AURA-SILENT-AIM-MORE-10086")
                                     
+    addscriptexist(1240123653, "Dsc Mike", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mike247.lua", "https://scriptblox.com/script/Zombie-Attack-Dsc-Mike-10257")
+                                    
