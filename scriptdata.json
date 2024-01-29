@@ -38248,5 +38248,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "GanjaHub universal update 2 new games": {
+        "origin": "https://scriptblox.com/script/Universal-Script-GanjaHub-universal-update-2-new-games-10273",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GanjaHub%20universal%20update%202%20new%20games639.lua",
+        "author": "Uploaded by Kronw_ on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
