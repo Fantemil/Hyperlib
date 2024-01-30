@@ -38307,5 +38307,14 @@
         "hub": false,
         "gameid": "12918739196",
         "game": true
+    },
+    "Arab Gui V1": {
+        "origin": "https://scriptblox.com/script/Build-to-Survive-Black-People-Arab-Gui-V1-10280",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arab%20Gui%20V1916.lua",
+        "author": "Uploaded by KingHax on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4678865375",
+        "game": true
     }
 }
