@@ -38298,5 +38298,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Script requests": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-Tower-Defense-FIRE-IN-THE-HOLE-Script-requests-10279",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20requests411.lua",
+        "author": "Uploaded by jicobis707 on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "12918739196",
+        "game": true
     }
 }
