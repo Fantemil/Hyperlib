@@ -38290,5 +38290,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Simple V3": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Simple-V3-10277",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20V3439.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
