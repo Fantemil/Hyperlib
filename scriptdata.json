@@ -38316,5 +38316,14 @@
         "hub": false,
         "gameid": "4678865375",
         "game": true
+    },
+    "Bornez Hub Beta": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Bornez-Hub-Beta-10282",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bornez%20Hub%20Beta731.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
