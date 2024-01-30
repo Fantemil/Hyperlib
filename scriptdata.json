@@ -38274,5 +38274,21 @@
         "hub": false,
         "gameid": "10218821851",
         "game": true
+    },
+    "K00pgui v1 by Jinxx": {
+        "origin": "https://scriptblox.com/script/Universal-Script-K00pgui-v1-by-Jinxx-10276",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pgui%20v1%20by%20Jinxx189.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "C00lgui admin panel": {
+        "origin": "https://scriptblox.com/script/Universal-Script-C00lgui-admin-panel-10275",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%20admin%20panel457.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
