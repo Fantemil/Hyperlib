@@ -38333,5 +38333,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "ScriptHub V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ScriptHub-V2-10284",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScriptHub%20V291.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
