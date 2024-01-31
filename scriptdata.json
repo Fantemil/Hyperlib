@@ -38367,5 +38367,13 @@
         "hub": false,
         "gameid": "12588367314",
         "game": true
+    },
+    "Fly V1": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Fly-V1-10288",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20V1218.lua",
+        "author": "Uploaded by Luvinq_FL0WERS on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
