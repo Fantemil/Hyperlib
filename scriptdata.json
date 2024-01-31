@@ -38341,5 +38341,13 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Some blox fruits gui": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Some-blox-fruits-gui-10285",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Some%20blox%20fruits%20gui366.lua",
+        "author": "Uploaded by jointodayteamwt on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
