@@ -174,3 +174,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Auto Farm Xp", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Xp331.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Xp-10182")
                                     
+    addscriptexist(142823291, "MatHub", "Uploaded by MatL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MatHub542.lua", "https://scriptblox.com/script/Murder-Mystery-2-MatHub-10293")
+                                    
