@@ -38418,5 +38418,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Rejoin Button": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Rejoin-Button-10293",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rejoin%20Button765.lua",
+        "author": "Uploaded by Icy_HD on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Dsc Mike New Script": {
+        "origin": "https://scriptblox.com/script/Red-Light-Green-Light-(FIX)-Dsc-Mike-New-Script-10293",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mike%20New%20Script846.lua",
+        "author": "Uploaded by MikeRobloxYTMike on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "7540891731",
+        "game": true
     }
 }
