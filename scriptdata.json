@@ -38435,5 +38435,21 @@
         "hub": false,
         "gameid": "7540891731",
         "game": true
+    },
+    "Trollge farm": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Trollge-farm-10294",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trollge%20farm230.lua",
+        "author": "Uploaded by Resulwastaken on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "BlueRed Hub V5": {
+        "origin": "https://scriptblox.com/script/Universal-Script-BlueRed-Hub-V5-10295",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlueRed%20Hub%20V5876.lua",
+        "author": "Uploaded by Shife on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
