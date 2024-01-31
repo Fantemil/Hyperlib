@@ -38393,5 +38393,22 @@
         "hub": false,
         "gameid": "6403373529",
         "game": true
+    },
+    "MBM HUB": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-MBM-HUB-10290",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MBM%20HUB266.lua",
+        "author": "Uploaded by ItsYaBoiRayRay on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
+    },
+    "Orz Panel v1 point 3 point 5": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Orz-Panel-v1-point-3-point-5-10289",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Orz%20Panel%20v1%20point%203%20point%205156.lua",
+        "author": "Uploaded by OrzScript on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

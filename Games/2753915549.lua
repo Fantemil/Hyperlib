@@ -770,3 +770,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Bornez Hub Beta", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bornez%20Hub%20Beta731.lua", "https://scriptblox.com/script/Blox-Fruits-Bornez-Hub-Beta-10282")
                                     
+    addscriptexist(2753915549, "MBM HUB", "Uploaded by ItsYaBoiRayRay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MBM%20HUB266.lua", "https://scriptblox.com/script/Blox-Fruits-MBM-HUB-10290")
+                                    
