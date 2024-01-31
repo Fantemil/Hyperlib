@@ -106,3 +106,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "script no ban", "Uploaded by Pkxdjosh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20no%20ban799.lua", "https://scriptblox.com/script/PROPDATE-Slap-Battles-script-no-ban-10203")
                                     
+    addscriptexist(6403373529, "Kvikss and MrArgy OP Script", "Uploaded by kviksfnf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kvikss%20and%20MrArgy%20OP%20Script551.lua", "https://scriptblox.com/script/Slap-Battles-kviks-and-mrargy-script-10288")
+                                    

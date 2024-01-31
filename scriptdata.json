@@ -38384,5 +38384,14 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "Kvikss and MrArgy OP Script": {
+        "origin": "https://scriptblox.com/script/Slap-Battles-kviks-and-mrargy-script-10288",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kvikss%20and%20MrArgy%20OP%20Script551.lua",
+        "author": "Uploaded by kviksfnf on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "6403373529",
+        "game": true
     }
 }
