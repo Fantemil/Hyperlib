@@ -38410,5 +38410,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Plutonium": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Plutonium-10291",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plutonium852.lua",
+        "author": "Uploaded by CMDS on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
