@@ -38586,5 +38586,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "NectoHub V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-NectoHub-V2-10303",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NectoHub%20V2909.lua",
+        "author": "Uploaded by Tensei_Lawden on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
