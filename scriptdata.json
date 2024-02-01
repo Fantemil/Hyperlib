@@ -38577,5 +38577,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "mbmx Hub V1": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-mbmx-Hub-V1-10302",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mbmx%20Hub%20V1416.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
