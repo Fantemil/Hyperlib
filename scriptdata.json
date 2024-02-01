@@ -38501,5 +38501,14 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Admin Gui": {
+        "origin": "https://scriptblox.com/script/Prison-Life-Admin-Gui-10300",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Gui885.lua",
+        "author": "Uploaded by Mikeexc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "155615604",
+        "game": true
     }
 }

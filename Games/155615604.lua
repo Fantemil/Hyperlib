@@ -156,3 +156,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Open sourced Tiger admin revamp", "Uploaded by H17S3_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20sourced%20Tiger%20admin%20revamp762.lua", "https://scriptblox.com/script/Prison-Life-Open-sourced-Tiger-admin-revamp-10286")
                                     
+    addscriptexist(155615604, "Admin Gui", "Uploaded by Mikeexc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Gui885.lua", "https://scriptblox.com/script/Prison-Life-Admin-Gui-10300")
+                                    
