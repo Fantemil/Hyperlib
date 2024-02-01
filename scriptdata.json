@@ -38561,5 +38561,13 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "g00by gui v7": {
+        "origin": "https://scriptblox.com/script/Universal-Script-g00by-gui-v7-10300",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/g00by%20gui%20v7369.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
