@@ -38460,5 +38460,13 @@
         "hub": false,
         "gameid": "4924922222",
         "game": true
+    },
+    "LF help": {
+        "origin": "https://scriptblox.com/script/Universal-Script-LF-help-10296",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LF%20help709.lua",
+        "author": "Uploaded by zopity10 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
