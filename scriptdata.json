@@ -38484,5 +38484,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "Dsc Mikeexc Fly Gui": {
+        "origin": "https://scriptblox.com/script/Brookhaven-RP-Dsc-Mikeexc-Fly-Gui-10298",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mikeexc%20Fly%20Gui490.lua",
+        "author": "Uploaded by Mikeexc on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "4924922222",
+        "game": true
+    },
+    "KILL DOZER": {
+        "origin": "https://scriptblox.com/script/Universal-Script-KILL-DOZER-10299",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20DOZER683.lua",
+        "author": "Uploaded by nescoroco on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }

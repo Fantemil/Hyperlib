@@ -98,3 +98,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Car Fly Dsc Mike New Script", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Fly%20Dsc%20Mike%20New%20Script620.lua", "https://scriptblox.com/script/Brookhaven-RP-Car-Fly-Dsc-Mike-New-Script-10296")
                                     
+    addscriptexist(4924922222, "Dsc Mikeexc Fly Gui", "Uploaded by Mikeexc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mikeexc%20Fly%20Gui490.lua", "https://scriptblox.com/script/Brookhaven-RP-Dsc-Mikeexc-Fly-Gui-10298")
+                                    
