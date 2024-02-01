@@ -38544,5 +38544,22 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "new script": {
+        "origin": "https://scriptblox.com/script/Gun-Ball-new-script-10306",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/new%20script982.lua",
+        "author": "Uploaded by FahriScripter on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14822302723",
+        "game": true
+    },
+    "Pocket edition": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Pocket-edition-10305",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pocket%20edition489.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
