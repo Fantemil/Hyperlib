@@ -38594,5 +38594,21 @@
         "universal": false,
         "hub": true,
         "game": false
+    },
+    "JUMP POWER SCRIPT": {
+        "origin": "https://scriptblox.com/script/Universal-Script-JUMP-POWER-SCRIPT-10304",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUMP%20POWER%20SCRIPT414.lua",
+        "author": "Uploaded by lolnani on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Outfit Script": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Outfit-Script-10305",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Outfit%20Script377.lua",
+        "author": "Uploaded by lolnani on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
