@@ -772,3 +772,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "MBM HUB", "Uploaded by ItsYaBoiRayRay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MBM%20HUB266.lua", "https://scriptblox.com/script/Blox-Fruits-MBM-HUB-10290")
                                     
+    addscriptexist(2753915549, "Ro Testing", "Uploaded by Makerbkz15 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20Testing121.lua", "https://scriptblox.com/script/Blox-Fruits-Ro-Testing-10302")
+                                    
