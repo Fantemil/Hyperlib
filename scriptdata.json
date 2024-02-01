@@ -38627,5 +38627,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Ps99 Auto Fish Pastebin": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Ps99-Auto-Fish-Pastebin-10307",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ps99%20Auto%20Fish%20Pastebin298.lua",
+        "author": "Uploaded by lpaerdtsps on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
