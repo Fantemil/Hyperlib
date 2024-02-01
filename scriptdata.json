@@ -38528,5 +38528,21 @@
         "hub": false,
         "gameid": "155615604",
         "game": true
+    },
+    "Auto Fish v2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Auto-Fish-v2-10303",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish%20v2101.lua",
+        "author": "Uploaded by 4Akii on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "HoHo Hub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-HoHo-Hub-10304",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoHo%20Hub701.lua",
+        "author": "Uploaded by vegoro06 on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
     }
 }
