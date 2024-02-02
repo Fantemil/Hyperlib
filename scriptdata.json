@@ -38651,5 +38651,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Auto Win Teleport OP Troll Script": {
+        "origin": "https://scriptblox.com/script/Tower-of-Hell-Auto-Win-Teleport-OP-Troll-Script-10310",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Teleport%20OP%20Troll%20Script853.lua",
+        "author": "Uploaded by H_Man on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "1962086868",
+        "game": true
+    },
+    "Fully Automatic Level Autofarm": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Fully-Automatic-Level-Autofarm-10311",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fully%20Automatic%20Level%20Autofarm275.lua",
+        "author": "Uploaded by H_Man on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

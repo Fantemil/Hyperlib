@@ -50,3 +50,5 @@ addscriptexist(1962086868, "Incoak TOH", "Uploaded by Incoak on scriptblox.com",
                                     
     addscriptexist(1962086868, "Saturn Hub Op", "Uploaded by Saturn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saturn%20Hub%20Op641.lua", "https://scriptblox.com/script/Tower-of-Hell-Saturn-Hub-Op-9141")
                                     
+    addscriptexist(1962086868, "Auto Win Teleport OP Troll Script", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Teleport%20OP%20Troll%20Script853.lua", "https://scriptblox.com/script/Tower-of-Hell-Auto-Win-Teleport-OP-Troll-Script-10310")
+                                    

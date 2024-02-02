@@ -776,3 +776,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "mbmx Hub V1", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mbmx%20Hub%20V1416.lua", "https://scriptblox.com/script/Blox-Fruits-mbmx-Hub-V1-10302")
                                     
+    addscriptexist(2753915549, "Fully Automatic Level Autofarm", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fully%20Automatic%20Level%20Autofarm275.lua", "https://scriptblox.com/script/Blox-Fruits-Fully-Automatic-Level-Autofarm-10311")
+                                    
