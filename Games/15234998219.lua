@@ -1,0 +1,2 @@
+
+    addscript(15234998219, "Current Game","inf coins and inf gems", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20coins%20and%20inf%20gems36.lua", "https://scriptblox.com/script/UPD+S2!-Farmer-Simulator-inf-coins-and-inf-gems-10050")

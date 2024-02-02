@@ -14,3 +14,13 @@ addscriptexist(7314148798, "RAGD0LL  NEW BEST SCRIPT Unslagger exe", "Uploaded b
                                     
     addscriptexist(7314148798, "not my script", "Uploaded by deltaguest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/not%20my%20script289.lua", "https://scriptblox.com/script/Ragdoll-Engine-not-my-script-9184")
                                     
+    addscriptexist(7314148798, "best script", "Uploaded by 16667 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script710.lua", "https://scriptblox.com/script/Ragdoll-Engine-best-script-9218")
+                                    
+    addscriptexist(7314148798, "best script ragd0ll", "Uploaded by 16667 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20ragd0ll340.lua", "https://scriptblox.com/script/Ragdoll-Engine-best-script-ragd0ll-9238")
+                                    
+    addscriptexist(7314148798, "Celestial exe Hub Ragd0ll  The Best Script", "Uploaded by maki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Celestial%20exe%20Hub%20Ragd0ll%20%20The%20Best%20Script2.lua", "https://scriptblox.com/script/Ragdoll-Engine-Celestial-exe-Hub-Ragd0ll-The-Best-Script-9475")
+                                    
+    addscriptexist(7314148798, "KulthX", "Uploaded by nizartiko628 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KulthX307.lua", "https://scriptblox.com/script/Ragdoll-Engine-KulthX-9992")
+                                    
+    addscriptexist(7314148798, "GRANDMASTER OLO", "Uploaded by grandmaster_olo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GRANDMASTER%20OLO338.lua", "https://scriptblox.com/script/Ragdoll-Engine-GRANDMASTER-OLO-10063")
+                                    

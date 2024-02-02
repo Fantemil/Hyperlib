@@ -1,0 +1,2 @@
+
+    addscript(14999903049, "Current Game","Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm675.lua", "https://scriptblox.com/script/UPD-Viral-Simulator-Auto-Farm-9845")

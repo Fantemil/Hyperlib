@@ -4,3 +4,5 @@ addscriptexist(8481844229, "New Script", "Uploaded by felix221X on scriptblox.co
                                 
 addscriptexist(8481844229, "New Script Test me Lott Grab All Claim All House Rainbow Car", "Uploaded by brullon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20Test%20me%20Lott%20Grab%20All%20Claim%20All%20House%20Rainbow%20Car366.lua", "https://scriptblox.com/script/Berry-Avenue-RP-New-Script-Test-me-Lott-Grab-All-Claim-All-House-Rainbow-Car-7121")
                                 
+    addscriptexist(8481844229, "Grab All Crash Server RainBow Skin", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grab%20All%20Crash%20Server%20RainBow%20Skin455.lua", "https://scriptblox.com/script/Berry-Avenue-RP-Grab-All-Crash-Server-RainBow-Skin-9363")
+                                    

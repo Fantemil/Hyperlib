@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Sediksss/EH/main/" .. tostring(game.PlaceId)),true))()

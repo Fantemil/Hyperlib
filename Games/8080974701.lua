@@ -1,0 +1,4 @@
+
+    addscript(8080974701, "Current Game","The most bad lost soul edit", "Uploaded by TheLuaCoder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20most%20bad%20lost%20soul%20edit525.lua", "https://scriptblox.com/script/Fencing-The-most-bad-lost-soul-edit-9553")
+    addscriptexist(8080974701, "Chat executor", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20executor152.lua", "https://scriptblox.com/script/Fencing-Chat-executor-10090")
+                                    

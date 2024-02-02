@@ -1,0 +1,2 @@
+
+    addscript(11251823801, "Current Game","RSZ hub", "Uploaded by johndagamer10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RSZ%20hub931.lua", "https://scriptblox.com/script/Slap-battles-but-bad-RSZ-hub-9282")

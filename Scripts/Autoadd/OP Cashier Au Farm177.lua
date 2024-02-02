@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CyberExploits1/Scripts/main/Bloxburg%20Cashier%20Auto%20Farm.lua",true))()

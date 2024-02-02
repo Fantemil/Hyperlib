@@ -30,3 +30,7 @@ addscriptexist(3260590327, "tds coin grind without spec", "Uploaded by yotobenam
                                 
 addscriptexist(3260590327, "AUTOFARM Militant Scout Farm", "Uploaded by Piesek_Zosia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20Militant%20Scout%20Farm52.lua", "https://scriptblox.com/script/UGCEVENT-Tower-Defense-Simulator-AUTOFARM-Militant-Scout-Farm-9233")
                                 
+    addscriptexist(3260590327, "Demonic HUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB296.lua", "https://scriptblox.com/script/UPDATE!-Tower-Defense-Simulator-Demonic-HUB-8311")
+                                    
+    addscriptexist(3260590327, "TDS Grind Gems", "Uploaded by Alphabet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TDS%20Grind%20Gems508.lua", "https://scriptblox.com/script/FREE-UGC-or-EVENT-Tower-Defense-Simulator-TDS-Grind-Gems-9257")
+                                    

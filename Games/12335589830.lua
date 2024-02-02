@@ -1,0 +1,2 @@
+
+    addscript(12335589830, "Current Game","Random s", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20s919.lua", "https://scriptblox.com/script/Slap-Fan-Killstreak-Random-s-9847")

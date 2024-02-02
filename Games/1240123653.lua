@@ -10,3 +10,13 @@ addscriptexist(1240123653, "Overpowered Autofarm", "Uploaded by zerticzy on scri
                                 
 addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Wins106.lua", "https://scriptblox.com/script/Zombie-Attack-Free-Wins-6888")
                                 
+    addscriptexist(1240123653, "Best Autofarm Silent Aim Collect Powerups MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Autofarm%20Silent%20Aim%20Collect%20Powerups%20MORE467.lua", "https://scriptblox.com/script/Zombie-Attack-Best-Autofarm-Silent-Aim-Collect-Powerups-MORE-7887")
+                                    
+    addscriptexist(1240123653, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L642.lua", "https://scriptblox.com/script/Zombie-Attack-Project-L-9349")
+                                    
+    addscriptexist(1240123653, "REVAMPED LIGHTUX BEST GUI", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REVAMPED%20LIGHTUX%20BEST%20GUI163.lua", "https://scriptblox.com/script/Zombie-Attack-REVAMPED-LIGHTUX-BEST-GUI-9467")
+                                    
+    addscriptexist(1240123653, "BEST GUI AUTOFARM KILL AURA SILENT AIM MORE", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20GUI%20AUTOFARM%20KILL%20AURA%20SILENT%20AIM%20MORE942.lua", "https://scriptblox.com/script/Zombie-Attack-BEST-GUI-AUTOFARM-KILL-AURA-SILENT-AIM-MORE-10086")
+                                    
+    addscriptexist(1240123653, "Dsc Mike", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mike247.lua", "https://scriptblox.com/script/Zombie-Attack-Dsc-Mike-10257")
+                                    

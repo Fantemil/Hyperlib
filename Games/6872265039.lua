@@ -92,3 +92,19 @@ addscriptexist(6872265039, "Vicious Hub  Afk Autofarm", "Uploaded by apua559 on 
                                 
 addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20b4782.lua", "https://scriptblox.com/script/BedWars-EMERALD-SHIELD!-Raven-b4-for-mobile-7585")
                                 
+    addscriptexist(6872265039, "AUTO WIN BATTLE", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20WIN%20BATTLE77.lua", "https://scriptblox.com/script/BedWars-LUCKY-BLOCK!-AUTO-WIN-BATTLE-8882")
+                                    
+    addscriptexist(6872265039, "Bad Wars script please", "Uploaded by hyoweqqqqqq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bad%20Wars%20script%20please509.lua", "https://scriptblox.com/script/BedWars-LANDMINE!-Bad-Wars-script-please-9251")
+                                    
+    addscriptexist(6872265039, "Mass Report AFK Farm More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20More205.lua", "https://scriptblox.com/script/BedWars-5v5-Mass-Report-AFK-Farm-More-9399")
+                                    
+    addscriptexist(6872265039, "Mass Report AFK Farm ESP FLY SPEED MORE", "Uploaded by SaboHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mass%20Report%20AFK%20Farm%20ESP%20FLY%20SPEED%20MORE65.lua", "https://scriptblox.com/script/BedWars-UMEKO-KIT-Mass-Report-AFK-Farm-ESP-FLY-SPEED-MORE-9431")
+                                    
+    addscriptexist(6872265039, "Darkai X", "Uploaded by Ooob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkai%20X835.lua", "https://scriptblox.com/script/BedWars-LIMITED-BUNDLE-Darkai-X-9691")
+                                    
+    addscriptexist(6872265039, "Alsploit", "Uploaded by RobloxPlayer1234 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alsploit734.lua", "https://scriptblox.com/script/BedWars-MAP-MECHANICS-Alsploit-9981")
+                                    
+    addscriptexist(6872265039, "Kill aura reach esp player", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20aura%20reach%20esp%20player688.lua", "https://scriptblox.com/script/BedWars-MAP-DECAY-Kill-aura-reach-esp-player-10063")
+                                    
+    addscriptexist(6872265039, "Spin Bot", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20Bot728.lua", "https://scriptblox.com/script/BedWars-LUCKYBLOCK-Spin-Bot-10198")
+                                    

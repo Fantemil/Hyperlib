@@ -16,3 +16,11 @@ addscriptexist(12996550309, "Best Script", "Uploaded by Killa on scriptblox.com"
                                 
 addscriptexist(12996550309, "Ln hub Runstar", "Uploaded by No6No6No7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub%20Runstar585.lua", "https://scriptblox.com/script/BILLY-RUNRunStar-Simulator-Ln-hub-Runstar-7625")
                                 
+    addscriptexist(12996550309, "RunStar  Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RunStar%20%20Auto%20Farm259.lua", "https://scriptblox.com/script/BILLY-RUNRunStar-Simulator-RunStar-Auto-Farm-8132")
+                                    
+    addscriptexist(12996550309, "Infinite Event Egg", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Event%20Egg293.lua", "https://scriptblox.com/script/BILLY-RUNRunStar-Simulator-Infinite-Event-Egg-7929")
+                                    
+    addscriptexist(12996550309, "Infinite Win n Auto Speed and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Win%20n%20Auto%20Speed%20and%20more657.lua", "https://scriptblox.com/script/BILLY-RUNRunStar-Simulator-Infinite-Win-n-Auto-Speed-and-more-7527")
+                                    
+    addscriptexist(12996550309, "Infinite Wins", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins837.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-Infinite-Wins-7358")
+                                    

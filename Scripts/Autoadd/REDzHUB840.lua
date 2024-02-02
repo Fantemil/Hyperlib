@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/samkissangel/REDzHUB/main/PetSimulator99"))()

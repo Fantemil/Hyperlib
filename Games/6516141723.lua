@@ -80,3 +80,19 @@ addscriptexist(6516141723, "MS  SCRIPT", "Uploaded by servfur on scriptblox.com"
                                 
 addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/entity%20spawner821.lua", "https://scriptblox.com/script/DOORS-MODIFIERS-entity-spawner-8049")
                                 
+    addscriptexist(6516141723, "D00rs", "Uploaded by CandyLean on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D00rs473.lua", "https://scriptblox.com/script/DOORS-LMAO-FREE-VIEWS-9255")
+                                    
+    addscriptexist(6516141723, "Auto A1000", "Uploaded by Noahnsr38 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20A1000282.lua", "https://scriptblox.com/script/DOORS-Auto-A1000-9285")
+                                    
+    addscriptexist(6516141723, "Chat Notify Enable FOV Noclip", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20Notify%20Enable%20FOV%20Noclip268.lua", "https://scriptblox.com/script/DOORS-Chat-Notify-Enable-FOV-Noclip-9351")
+                                    
+    addscriptexist(6516141723, "script I guess", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20I%20guess863.lua", "https://scriptblox.com/script/DOORS-script-I-guess-9444")
+                                    
+    addscriptexist(6516141723, "Chiba Hub Script", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chiba%20Hub%20Script509.lua", "https://scriptblox.com/script/DOORS-Chiba-Hub-Script-9714")
+                                    
+    addscriptexist(6516141723, "BlackKing x BobHub", "Uploaded by rblx365 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlackKing%20x%20BobHub123.lua", "https://scriptblox.com/script/DOORS-BlackKing-x-BobHub-9771")
+                                    
+    addscriptexist(6516141723, "lolcat script for PC and Emulator", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lolcat%20script%20for%20PC%20and%20Emulator175.lua", "https://scriptblox.com/script/DOORS-lolcat-script-for-PC-and-Emulator-10013")
+                                    
+    addscriptexist(6516141723, "script OP GUI", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20OP%20GUI499.lua", "https://scriptblox.com/script/DOORS-script-OP-GUI-10180")
+                                    

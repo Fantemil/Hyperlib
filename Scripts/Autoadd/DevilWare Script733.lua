@@ -1,0 +1,1 @@
+local DevilWare = loadstring(game:HttpGet("https://github.com/smorettii/.lua/raw/main/DevilWare.lua", true))()

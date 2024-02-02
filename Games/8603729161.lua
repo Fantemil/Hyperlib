@@ -1,0 +1,2 @@
+
+    addscript(8603729161, "Current Game","Instant Finish", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Finish978.lua", "https://scriptblox.com/script/walk-50000-studs-for-nothing-Instant-Finish-8164")

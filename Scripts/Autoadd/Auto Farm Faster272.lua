@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jupitaris/Kroger-Community/main/Games/Attack%20on%20Titan.lua"))()

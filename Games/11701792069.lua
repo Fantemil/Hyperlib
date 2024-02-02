@@ -1,2 +1,4 @@
 
 addscript(11701792069, "Current Game","Snow Plow Simulator Script GUI", "Uploaded by Untoast on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snow%20Plow%20Simulator%20Script%20GUI713.lua", "https://rscripts.net/script/snow-plow-simulator-script-gui-3203")
+    addscriptexist(11701792069, "OP Script for farming", "Uploaded by brudda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20for%20farming729.lua", "https://scriptblox.com/script/Snow-Plow-Simulator-OP-Script-for-farming-8916")
+                                    

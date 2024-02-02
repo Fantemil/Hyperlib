@@ -1,0 +1,2 @@
+
+    addscript(11497091217, "Current Game","Vibe Hub", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vibe%20Hub817.lua", "https://scriptblox.com/script/UGC-+-X2-Popping-Simulator!-Vibe-Hub-7344")

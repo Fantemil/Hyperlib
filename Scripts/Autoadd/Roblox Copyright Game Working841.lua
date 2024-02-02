@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AmericanDisgrace/xvo/master/scripts/Copyrighted%20Artists.lua"))()

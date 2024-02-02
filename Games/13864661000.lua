@@ -24,3 +24,17 @@ addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "ht
                                 
     addscriptexist(13864661000, "Harlen Hub  Get All Foods And Teleport", "Uploaded by Harlen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Harlen%20Hub%20%20Get%20All%20Foods%20And%20Teleport967.lua", "https://scriptblox.com/script/Break-In-2-(ORIGIN-ENDING)-Harlen-Hub-9220")
                                     
+    addscriptexist(13864661000, "Get All Weapons function and MORE", "Uploaded by Gothseiddank on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Weapons%20function%20and%20MORE140.lua", "https://scriptblox.com/script/Break-In-2-(ORIGIN-ENDING)-Get-All-Weapons-function-and-MORE-8971")
+                                    
+    addscriptexist(13864661000, "daer illcrackurscript goofy", "Uploaded by hcool2501 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/daer%20illcrackurscript%20goofy741.lua", "https://scriptblox.com/script/Break-In-2-(Story)-daer-illcrackurscript-goofy-7974")
+                                    
+    addscriptexist(13864661000, "Auto Heal Unlock Secrets ESP", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Heal%20Unlock%20Secrets%20ESP95.lua", "https://scriptblox.com/script/Break-In-2-(EVIL-ENDING)-***-Mode-Unlock-a-Secret-Endg-8443")
+                                    
+    addscriptexist(13864661000, "Script PATCHED", "Uploaded by mitaleey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20PATCHED716.lua", "https://scriptblox.com/script/Break-In-2-(SECRET-ENDING)-Script-8185")
+                                    
+    addscriptexist(13864661000, "Story Script No Key System", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Story%20Script%20No%20Key%20System129.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Story-Script-No-Key-System-9849")
+                                    
+    addscriptexist(13864661000, "XenonHUB Support Mobile", "Uploaded by yusupsaefullah400 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XenonHUB%20Support%20Mobile6.lua", "https://scriptblox.com/script/Break-In-2-(Story)-XenonHUB-9988")
+                                    
+    addscriptexist(13864661000, "OP    Script", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20%20Script445.lua", "https://scriptblox.com/script/Break-In-2-(Story)-g-Blitz-10011")
+                                    

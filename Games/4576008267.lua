@@ -1,0 +1,2 @@
+
+    addscript(4576008267, "Current Game","avatar soldier", "Uploaded by Zaydeon309 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/avatar%20soldier168.lua", "https://scriptblox.com/script/UT-Fighting-1!-avatar-soldier-9912")

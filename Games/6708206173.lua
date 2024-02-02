@@ -18,3 +18,5 @@ addscriptexist(6708206173, "Trivia Booth", "Uploaded by 07734 on scriptblox.com"
                                 
 addscriptexist(6708206173, "Etonameless", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etonameless711.lua", "https://scriptblox.com/script/Rate-My-Avatar-Etonameless-7464")
                                 
+    addscriptexist(6708206173, "Syntax Hub V2", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syntax%20Hub%20V2828.lua", "https://scriptblox.com/script/Rate-My-Avatar-Syntax-Hub-V2-10249")
+                                    

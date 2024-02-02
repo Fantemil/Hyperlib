@@ -122,3 +122,17 @@ addscriptexist(286090429, "egware for", "Uploaded by eggerites on scriptblox.com
                                 
 addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20script25.lua", "https://scriptblox.com/script/Arsenal-Aimbot-script-9223")
                                 
+    addscriptexist(286090429, "Op script", "Uploaded by lukassaw73 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script415.lua", "https://scriptblox.com/script/Arsenal-Op-script-9390")
+                                    
+    addscriptexist(286090429, "Op  script", "Uploaded by lukassaw73 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20script361.lua", "https://scriptblox.com/script/Arsenal-Op-script-9392")
+                                    
+    addscriptexist(286090429, "LTHub  script OP", "Uploaded by lukassaw73 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LTHub%20%20script%20OP127.lua", "https://scriptblox.com/script/Arsenal-LTHub-script-OP-9495")
+                                    
+    addscriptexist(286090429, "Vestra X ByGay", "Uploaded by Vestra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vestra%20X%20ByGay884.lua", "https://scriptblox.com/script/Arsenal-Vestra-X-ByGay-9496")
+                                    
+    addscriptexist(286090429, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub404.lua", "https://scriptblox.com/script/Arsenal-Script-by-Tbao-Hub-9618")
+                                    
+    addscriptexist(286090429, "OP Script with Hitbox", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20with%20Hitbox154.lua", "https://scriptblox.com/script/Arsenal-OP-Script-with-Hitbox-9720")
+                                    
+    addscriptexist(286090429, "Melee Hub V1", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melee%20Hub%20V1312.lua", "https://scriptblox.com/script/Arsenal-Melee-Hub-V1-9739")
+                                    

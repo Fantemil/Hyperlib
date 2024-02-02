@@ -1,2 +1,4 @@
 
 addscript(13597617398, "Current Game","Infinity Items", "Uploaded by PLATINA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20Items553.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Wackiness-Infinity-Items-8534")
+    addscriptexist(13597617398, "script my discord is ScriptSorcerer", "Uploaded by Koth_exp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20my%20discord%20is%20ScriptSorcerer792.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Wackiness-script-my-discord-is-ScriptSorcerer-9707")
+                                    

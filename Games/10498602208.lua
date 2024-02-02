@@ -1,2 +1,4 @@
 
 addscript(10498602208, "Current Game","Get Any Amount of Money", "Uploaded by SadlekAski on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Any%20Amount%20of%20Money559.lua", "https://scriptblox.com/script/CLASS-4!!-Backroom-Tower-Defense-Get-Any-Amount-of-Money-8497")
+    addscriptexist(10498602208, "Get any units", "Uploaded by SadlekAski on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20units690.lua", "https://scriptblox.com/script/Backroom-Tower-Defense-Get-any-8252")
+                                    

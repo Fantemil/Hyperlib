@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alech01/Scripts-Randoms/main/op%20auto%20parry%20666"))()

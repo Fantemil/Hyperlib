@@ -1,0 +1,2 @@
+
+    addscript(5358493390, "Current Game","c00lgui", "Uploaded by vrmvrmilliondvourer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui502.lua", "https://scriptblox.com/script/F3X-Btools-Admin-Hangout-c00lgui-9546")

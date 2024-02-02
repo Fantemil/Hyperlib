@@ -1,0 +1,2 @@
+
+    addscript(14448662003, "Current Game","op script   friend", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20%20%20friend50.lua", "https://scriptblox.com/script/Carry-A-Friend!-(Teamwork-Obby)-op-script-friend-9144")

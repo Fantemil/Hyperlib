@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Roblox-Chat-Splitter-Chat-Bypasser-Script-9720"))()

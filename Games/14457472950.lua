@@ -1,0 +1,2 @@
+
+    addscript(14457472950, "Current Game","THIRD SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THIRD%20SCRIPT195.lua", "https://scriptblox.com/script/EP-67-PART-4-Multiverse-Toilet-Tower-Defense-THIRD-SCRIPT-9361")

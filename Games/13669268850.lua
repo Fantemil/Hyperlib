@@ -1,0 +1,2 @@
+
+    addscript(13669268850, "Current Game","Infinite Win n Infinite  Speed and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Win%20n%20Infinite%20%20Speed%20and%20more190.lua", "https://scriptblox.com/script/(UPD)-+1-Speed-Every-Second-Simulator-Infinite-Win-n-Infinite-and-more-8637")

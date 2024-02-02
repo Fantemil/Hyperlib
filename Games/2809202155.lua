@@ -30,3 +30,17 @@ addscriptexist(2809202155, "Full Anticheat Bypass", "Uploaded by getgc on script
                                 
 addscriptexist(2809202155, "YBA Stats Viewer with multi language support", "Uploaded by Enqity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YBA%20Stats%20Viewer%20with%20multi%20language%20support28.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-YBA-Stats-Viewer-with-multi-language-support-8414")
                                 
+    addscriptexist(2809202155, "HsB Hub YBA AUTO MIH", "Uploaded by Dude212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HsB%20Hub%20YBA%20AUTO%20MIH14.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-HsB-Hub-YBA-AUTO-MIH-8336")
+                                    
+    addscriptexist(2809202155, "Hsb Script YBA AUTO TWOH", "Uploaded by Dude212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hsb%20Script%20YBA%20AUTO%20TWOH575.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-Hsb-Script-YBA-AUTO-TWOH-8323")
+                                    
+    addscriptexist(2809202155, "HsB YBA Scripts", "Uploaded by Dude212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HsB%20YBA%20Scripts300.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-HSB-HUB-SCRIPT-8282")
+                                    
+    addscriptexist(2809202155, "Hsb Hub YBA PITY FARM", "Uploaded by Dude212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hsb%20Hub%20YBA%20PITY%20FARM385.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-Hsb-Hub-YBA-PITY-FARM-8410")
+                                    
+    addscriptexist(2809202155, "ERA HUB PlayerAttach ItemsFarm AutoQuest and more", "Uploaded by baclan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ERA%20HUB%20PlayerAttach%20ItemsFarm%20AutoQuest%20and%20more535.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-ERA-HUB-PlayerAttach-ItemsFarm-AutoQuest-and-more-8619")
+                                    
+    addscriptexist(2809202155, "Hsb Script YBA STAND FARM", "Uploaded by Dude212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hsb%20Script%20YBA%20STAND%20FARM566.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-Hsb-Script-YBA-STAND-FARM-8391")
+                                    
+    addscriptexist(2809202155, "MAX Prestige farming script", "Uploaded by senS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MAX%20Prestige%20farming%20script718.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-MAX-Prestige-farming-script-7949")
+                                    

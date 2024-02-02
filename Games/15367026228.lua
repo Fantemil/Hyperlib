@@ -1,0 +1,8 @@
+
+    addscript(15367026228, "Current Game","Auto dungeon Auto Farm and other Good feature", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20dungeon%20Auto%20Farm%20and%20other%20Good%20feature762.lua", "https://scriptblox.com/script/UPD-1.5-Anime-Souls-Simulator-X-Auto-dungeon-Auto-Farm-and-other-Good-feature-9686")
+    addscriptexist(15367026228, "Simple Open Source Auto Farm GUI", "Uploaded by Breadido on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Open%20Source%20Auto%20Farm%20GUI748.lua", "https://scriptblox.com/script/AURAS-Anime-Souls-Simulator-X-Simple-Open-Source-Auto-Farm-GUI-9810")
+                                    
+    addscriptexist(15367026228, "Auto Farm OP Gui   Update 2", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20OP%20Gui%20%20%20Update%2021.lua", "https://scriptblox.com/script/UPD-3-Anime-Souls-Simulator-X-Auto-Farm-OP-Gui-Update-2-9862")
+                                    
+    addscriptexist(15367026228, "Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2741.lua", "https://scriptblox.com/script/UPD-4-Anime-Souls-Simulator-X-Demonic-HUB-V2-9967")
+                                    

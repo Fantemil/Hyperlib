@@ -1,0 +1,2 @@
+
+    addscript(14822302723, "Current Game","new script", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/new%20script982.lua", "https://scriptblox.com/script/Gun-Ball-new-script-10306")

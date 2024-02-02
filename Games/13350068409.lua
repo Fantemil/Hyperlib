@@ -1,0 +1,2 @@
+
+    addscript(13350068409, "Current Game","Get nightmare badge", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20nightmare%20badge137.lua", "https://scriptblox.com/script/Super-Closet-Siege-Defense-Get-nightmare-badge-7854")

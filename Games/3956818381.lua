@@ -40,3 +40,11 @@ addscriptexist(3956818381, "Decent Script", "Uploaded by GuyFromFortnite on scri
                                 
     addscriptexist(3956818381, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z121.lua", "https://scriptblox.com/script/Ninja-Legends-Genesis-Z-9137")
                                     
+    addscriptexist(3956818381, "op script", "Uploaded by Lufi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script558.lua", "https://scriptblox.com/script/Ninja-Legends-op-script-9370")
+                                    
+    addscriptexist(3956818381, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project415.lua", "https://scriptblox.com/script/Ninja-Legends-BT-Project-9463")
+                                    
+    addscriptexist(3956818381, "Auto Farm gui", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20gui635.lua", "https://scriptblox.com/script/Ninja-Legends-Auto-Farm-OP-10043")
+                                    
+    addscriptexist(3956818381, "Op Autofarm", "Uploaded by AlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Autofarm317.lua", "https://scriptblox.com/script/Ninja-Legends-Op-Autofarm-10140")
+                                    

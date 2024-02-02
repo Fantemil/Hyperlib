@@ -1,0 +1,2 @@
+
+    addscript(14527072590, "Current Game","ELEVEN SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ELEVEN%20SCRIPT138.lua", "https://scriptblox.com/script/HALLOWEEN!Skidibi-toilet-tower-defense-ELEVEN-SCRIPT-9415")

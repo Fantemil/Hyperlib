@@ -1,0 +1,1 @@
+game.ReplicatedStorage:WaitForChild("anti exploit(real)"):FireServer(game.Players.LocalPlayer:Destroy())

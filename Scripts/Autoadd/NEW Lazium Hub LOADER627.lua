@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NUTellaVING/LaziumHub/main/BladeBall.lua"))()
+--Key is https://pandadevelopment.net/startkey.html?service=laziumtools or just copy in the scripts gui.

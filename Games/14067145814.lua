@@ -8,3 +8,7 @@ addscriptexist(14067145814, "teleport to Shmimble", "Uploaded by catlover326 on 
                                 
 addscriptexist(14067145814, "Chnge  nme for free", "Uploaded by catlover326 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chnge%20%20nme%20for%20free792.lua", "https://scriptblox.com/script/RAISE-A-CHILD-:)-Chnge-nme-for-free-7301")
                                 
+    addscriptexist(14067145814, "RCL v2", "Uploaded by itzkxhu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RCL%20v2349.lua", "https://scriptblox.com/script/RAISE-A-CHILD-:)-RCL-v2-8088")
+                                    
+    addscriptexist(14067145814, "RCL v1", "Uploaded by itzkxhu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RCL%20v1313.lua", "https://scriptblox.com/script/Update-1.4-RAISE-A-CHILD-:)-RCL-7890")
+                                    

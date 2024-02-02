@@ -1,0 +1,2 @@
+
+    addscript(14620329550, "Current Game","op script  move", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20%20move676.lua", "https://scriptblox.com/script/UGC-Don't-Move!-(AFK)-op-script-move-9077")

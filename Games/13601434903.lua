@@ -1,0 +1,2 @@
+
+    addscript(13601434903, "Current Game","partial godmode", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/partial%20godmode135.lua", "https://scriptblox.com/script/Sorcerer-Battlegrounds-partial-godmode-9967")

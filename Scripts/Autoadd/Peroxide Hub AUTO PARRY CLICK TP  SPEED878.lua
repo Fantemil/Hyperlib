@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/740kPeroxide/PeroxideHubV2/main/PeroxideHub%20Free"))()

@@ -44,3 +44,59 @@ addscriptexist(4924922222, "Red z hub", "Uploaded by paulohenriquehick05 on scri
                                 
 addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20HUB978.lua", "https://scriptblox.com/script/Brookhaven-RP-JUANKO-HUB-8308")
                                 
+    addscriptexist(4924922222, "OP Fling Copy Player Avatars Get Gamepasses", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Fling%20Copy%20Player%20Avatars%20Get%20Gamepasses552.lua", "https://scriptblox.com/script/Brookhaven-RP-OP-Fling-Copy-Player-Avatars-Get-Gamepasses-9187")
+                                    
+    addscriptexist(4924922222, "OP SCRIPT HALLOWEEN", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20HALLOWEEN202.lua", "https://scriptblox.com/script/Brookhaven-RP-OP-SCRIPT-HALLOWEEN-8790")
+                                    
+    addscriptexist(4924922222, "Get All Halloween Cars and collect Candys", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Halloween%20Cars%20and%20collect%20Candys459.lua", "https://scriptblox.com/script/Brookhaven-RP-Get-All-Halloween-Cars-and-collect-Candys-9059")
+                                    
+    addscriptexist(4924922222, "Admin Panel Hub", "Uploaded by FaxMoonJ4K on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel%20Hub463.lua", "https://scriptblox.com/script/Brookhaven-RP-Admin-Panel-Hub-9272")
+                                    
+    addscriptexist(4924922222, "Kxkz", "Uploaded by emirh2957 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kxkz369.lua", "https://scriptblox.com/script/Brookhaven-RP-Kxkz-9308")
+                                    
+    addscriptexist(4924922222, "Secret service panel", "Uploaded by C00LKidd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Secret%20service%20panel709.lua", "https://scriptblox.com/script/Brookhaven-RP-Secret-service-panel-9333")
+                                    
+    addscriptexist(4924922222, "Icehub", "Uploaded by FieryDevilsFathan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Icehub906.lua", "https://scriptblox.com/script/Brookhaven-RP-Icehub-9270")
+                                    
+    addscriptexist(4924922222, "RedZHub", "Uploaded by C00LKidd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZHub151.lua", "https://scriptblox.com/script/Brookhaven-RP-RedZHub-9326")
+                                    
+    addscriptexist(4924922222, "RainBow House Teleport To Vehicle Set Car Speed", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RainBow%20House%20Teleport%20To%20Vehicle%20Set%20Car%20Speed533.lua", "https://scriptblox.com/script/Brookhaven-RP-RainBow-House-Teleport-To-Vehicle-Set-Car-Speed-9305")
+                                    
+    addscriptexist(4924922222, "IceHub Updated V8", "Uploaded by Rojev_Chris169 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IceHub%20Updated%20V8779.lua", "https://scriptblox.com/script/Brookhaven-RP-IceHub-Updated-V8-9376")
+                                    
+    addscriptexist(4924922222, "Antares Hub", "Uploaded by Boris on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Antares%20Hub990.lua", "https://scriptblox.com/script/Brookhaven-RP-Antares-Hub-9486")
+                                    
+    addscriptexist(4924922222, "Original Antares Hub", "Uploaded by Boris on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Original%20Antares%20Hub718.lua", "https://scriptblox.com/script/Brookhaven-RP-Original-Antares-Hub-9488")
+                                    
+    addscriptexist(4924922222, "Best script Teleports GUI", "Uploaded by lioboomxh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20Teleports%20GUI779.lua", "https://scriptblox.com/script/Brookhaven-RP-Best-script-Teleports-GUI-9497")
+                                    
+    addscriptexist(4924922222, "t admin commands", "Uploaded by Alworod498 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/t%20admin%20commands664.lua", "https://scriptblox.com/script/Brookhaven-RP-t-admin-commands-9523")
+                                    
+    addscriptexist(4924922222, "BEST SCRIPT FOR BH", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20BH778.lua", "https://scriptblox.com/script/Brookhaven-RP-BEST-SCRIPT-FOR-BH-9604")
+                                    
+    addscriptexist(4924922222, "Good script with Trolling", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20script%20with%20Trolling694.lua", "https://scriptblox.com/script/Brookhaven-RP-Good-script-with-Trolling-9684")
+                                    
+    addscriptexist(4924922222, "Mobile Script", "Uploaded by SugarBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Script552.lua", "https://scriptblox.com/script/Brookhaven-RP-Mobile-Script-9701")
+                                    
+    addscriptexist(4924922222, "Free Music", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Music564.lua", "https://scriptblox.com/script/Brookhaven-RP-Free-Music-9819")
+                                    
+    addscriptexist(4924922222, "Fly Car Gui", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Car%20Gui390.lua", "https://scriptblox.com/script/Brookhaven-RP-Fly-Car-Gui-9993")
+                                    
+    addscriptexist(4924922222, "FE Neko Cat", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Neko%20Cat904.lua", "https://scriptblox.com/script/Brookhaven-RP-FE-Neko-Cat-10019")
+                                    
+    addscriptexist(4924922222, "Blizzard Hub", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blizzard%20Hub997.lua", "https://scriptblox.com/script/Brookhaven-RP-Bizzard-Hub-10043")
+                                    
+    addscriptexist(4924922222, "Ghost Hub Reborn", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Hub%20Reborn699.lua", "https://scriptblox.com/script/Brookhaven-RP-Ghost-Hub-Reborn-10047")
+                                    
+    addscriptexist(4924922222, "Car Fly Dsc Mike", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Fly%20Dsc%20Mike239.lua", "https://scriptblox.com/script/Brookhaven-RP-Car-Fly-Dsc-Mike-10178")
+                                    
+    addscriptexist(4924922222, "Troll hub good for clips", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20hub%20good%20for%20clips66.lua", "https://scriptblox.com/script/Brookhaven-RP-Troll-hub-good-for-clips-10183")
+                                    
+    addscriptexist(4924922222, "MainHub", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MainHub972.lua", "https://scriptblox.com/script/Brookhaven-RP-MainHub-10179")
+                                    
+    addscriptexist(4924922222, "Vfly  Dsc Mike", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vfly%20%20Dsc%20Mike363.lua", "https://scriptblox.com/script/Brookhaven-RP-Vfly-Dsc-Mike-10287")
+                                    
+    addscriptexist(4924922222, "Car Fly Dsc Mike New Script", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Fly%20Dsc%20Mike%20New%20Script620.lua", "https://scriptblox.com/script/Brookhaven-RP-Car-Fly-Dsc-Mike-New-Script-10296")
+                                    
+    addscriptexist(4924922222, "Dsc Mikeexc Fly Gui", "Uploaded by Mikeexc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mikeexc%20Fly%20Gui490.lua", "https://scriptblox.com/script/Brookhaven-RP-Dsc-Mikeexc-Fly-Gui-10298")
+                                    

@@ -14,3 +14,7 @@ addscriptexist(893973440, "FTF HAX", "Uploaded by mykee360 on scriptblox.com", "
                                 
 addscriptexist(893973440, "Semi Universal", "Uploaded by Blade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Semi%20Universal168.lua", "https://scriptblox.com/script/Flee-the-Facility-Semi-Universal-7452")
                                 
+    addscriptexist(893973440, "Never Fail Computers AutoFarm", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Never%20Fail%20Computers%20AutoFarm229.lua", "https://scriptblox.com/script/Flee-the-Facility-Never-Fail-Computers-AutoFarm-7853")
+                                    
+    addscriptexist(893973440, "OP Auto Hack Computers", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Hack%20Computers963.lua", "https://scriptblox.com/script/Flee-the-Facility-OP-AutoFarm-ESP-NoClip-Infinite-Jump-GUI-7681")
+                                    

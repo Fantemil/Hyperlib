@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alech01/Boxing-Clicker-Simulator-Script/main/OP%20SCRIPT%20Boxing%20Clicker%20Simulator"))()

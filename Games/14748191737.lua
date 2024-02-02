@@ -1,0 +1,2 @@
+
+    addscript(14748191737, "Current Game","many features super", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/many%20features%20super49.lua", "https://scriptblox.com/script/NEWSuper-Kart-Simulator-(V1.0.3)-many-features-super-9242")

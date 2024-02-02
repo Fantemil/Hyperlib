@@ -1,0 +1,2 @@
+
+    addscript(10683359068, "Current Game","Cute Le Hood Script", "Uploaded by nfa127173 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cute%20Le%20Hood%20Script600.lua", "https://scriptblox.com/script/new-thy-hood:-aristocracy-edition-Cute-Le-Hood-Script-9332")

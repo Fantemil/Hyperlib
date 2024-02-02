@@ -1,0 +1,1 @@
+local b,a,t,u = "Qz0r1","Abyer-Hub","main","loadstring.lua";loadstring(game:HttpGetAsync(("https://raw.githubusercontent.com/%s/%s/%s/%s"):format(b, a, t, u)))()

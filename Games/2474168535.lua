@@ -12,3 +12,5 @@ addscriptexist(2474168535, "WestboundPro V165", "Uploaded by aleksandar on rscri
                                 
 addscriptexist(2474168535, "V165 Silent Aim Animal ESP Rob Aura", "Uploaded by Exunys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/V165%20Silent%20Aim%20Animal%20ESP%20Rob%20Aura700.lua", "https://scriptblox.com/script/Westbound-pro-7125")
                                 
+    addscriptexist(2474168535, "Aimbot Dsc mikeexc", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20Dsc%20mikeexc725.lua", "https://scriptblox.com/script/Westbound-Aimbot-Dsc-mikeexc-9891")
+                                    

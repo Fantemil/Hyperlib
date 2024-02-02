@@ -1,0 +1,2 @@
+
+    addscript(13999740606, "Current Game","Demonic HUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB781.lua", "https://scriptblox.com/script/FREE-UGC-Ninja-Fighting-Simulator-Demonic-HUB-8283")

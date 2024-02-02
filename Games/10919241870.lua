@@ -4,3 +4,5 @@ addscriptexist(10919241870, "RaCc0oN Hub AutoFarm", "Uploaded by danilca on rscr
                                 
 addscriptexist(10919241870, "Script n5", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n5253.lua", "https://scriptblox.com/script/Rarity-Factory-Tycoon-Auto-8214")
                                 
+    addscriptexist(10919241870, "OP SCRIPT FOR", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20FOR703.lua", "https://scriptblox.com/script/Rarity-Factory-Tycoon-OP-SCRIPT-FOR-9193")
+                                    

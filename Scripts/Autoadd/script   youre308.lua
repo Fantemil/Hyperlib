@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/obby-but-youre-on-a-bike-25248'))()

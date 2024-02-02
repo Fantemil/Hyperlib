@@ -1,0 +1,2 @@
+
+    addscript(13586065205, "Current Game","auto correct ball", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20correct%20ball382.lua", "https://scriptblox.com/script/balls.rng-auto-correct-*****-8030")

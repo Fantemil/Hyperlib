@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Killa5676/Killa-s-Scripts/main/warriors%20army%20simulator%202"))()

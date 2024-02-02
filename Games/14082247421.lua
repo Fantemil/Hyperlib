@@ -2,3 +2,5 @@
 addscript(14082247421, "Current Game","best script Auto Cash Gems Boost  Complete Factory More", "Uploaded by BloxhubRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20Auto%20Cash%20Gems%20Boost%20%20Complete%20Factory%20More347.lua", "https://scriptblox.com/script/Rare-Gems!-Money-Simulator-Z-V0.8.0-best-script-Auto-Cash-Gems-Boost-Complete-Factory-More-7477")
 addscriptexist(14082247421, "auto farm", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm121.lua", "https://scriptblox.com/script/Major-Upd-Money-Simulator-Z-0.17.0-auto-farm-8221")
                                 
+    addscriptexist(14082247421, "OP script Has almost all game mechanics", "Uploaded by Odrexyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script%20Has%20almost%20all%20game%20mechanics581.lua", "https://scriptblox.com/script/Money-Simulator-Z-0.10.0-OP-script-7665")
+                                    

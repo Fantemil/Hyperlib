@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/infiniteThousandWare/samuraiSimulator/main/infiniteware", true))()

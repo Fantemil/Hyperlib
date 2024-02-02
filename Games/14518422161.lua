@@ -1,0 +1,2 @@
+
+    addscript(14518422161, "Current Game","please dont execute for now changing script", "Uploaded by allanogwwogw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/please%20dont%20execute%20for%20now%20changing%20script833.lua", "https://scriptblox.com/script/Gunfight-Arena-aimbot-10256")

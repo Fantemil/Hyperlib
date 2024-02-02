@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/spacex02/scripts/main/don't-move-24816"))()

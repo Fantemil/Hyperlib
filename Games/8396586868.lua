@@ -6,3 +6,5 @@ addscriptexist(8396586868, "Che4t Menu", "Uploaded by 6Foot4Honda on scriptblox.
                                 
 addscriptexist(8396586868, "opg scirpt nd u need figure it out", "Uploaded by zopity10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/opg%20scirpt%20nd%20u%20need%20figure%20it%20out455.lua", "https://scriptblox.com/script/ELECTRO-V2-+-MINK-A-0ne-Piece-Game-opg-script-help-needed-7811")
                                 
+    addscriptexist(8396586868, "Flming Drgons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flming%20Drgons%20HUB33.lua", "https://scriptblox.com/script/REVAMP-+-x2-DROPS-A-0ne-Piece-Game-Flming-Drgons-HUB-9572")
+                                    

@@ -46,3 +46,15 @@ addscriptexist(9872472334, "pearl hub", "Uploaded by adhikalaks2 on scriptblox.c
                                 
 addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D8rk%20Hub%20%20Version%2010848.lua", "https://scriptblox.com/script/Evade-D8rk-Hub-7202")
                                 
+    addscriptexist(9872472334, "Good Script", "Uploaded by bannedbyfranz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20Script963.lua", "https://scriptblox.com/script/Evade-Good-Script-9228")
+                                    
+    addscriptexist(9872472334, "xyz beta", "Uploaded by cdevslasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xyz%20beta34.lua", "https://scriptblox.com/script/Evade-xyz-beta-9331")
+                                    
+    addscriptexist(9872472334, "Fullbright  Mode Walkspeed", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fullbright%20%20Mode%20Walkspeed758.lua", "https://scriptblox.com/script/Evade-Fullbright-***-Mode-Walkspeed-9355")
+                                    
+    addscriptexist(9872472334, "by Tbao Hub vietnam", "Uploaded by tbao04963 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/by%20Tbao%20Hub%20vietnam868.lua", "https://scriptblox.com/script/Evade-by-Tbao-Hub-vietnam-9498")
+                                    
+    addscriptexist(9872472334, "Script  by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20by%20Tbao%20Hub821.lua", "https://scriptblox.com/script/Evade-Script-by-Tbao-Hub-9519")
+                                    
+    addscriptexist(9872472334, "By Xenon HUB", "Uploaded by yusupsaefullah400 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/By%20Xenon%20HUB589.lua", "https://scriptblox.com/script/Evade-Script-By-XenonHUB-9983")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XenonLUA/Xenon/main/Script/Zombie%20Up%20Rising.lua"))()

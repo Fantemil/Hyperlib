@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/exterauser/exteraHub/main/Loader", true))()

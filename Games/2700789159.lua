@@ -1,0 +1,2 @@
+
+    addscript(2700789159, "Current Game","BOMB THE ISRAEL", "Uploaded by bestemailever on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BOMB%20THE%20ISRAEL991.lua", "https://scriptblox.com/script/Wheel-of-Fortune-BOMB-THE-ISRAEL-10045")

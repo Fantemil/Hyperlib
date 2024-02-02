@@ -20,3 +20,9 @@ addscriptexist(11545598432, "Neverlose Mette fredriksen Open source", "Uploaded 
                                 
 addscriptexist(11545598432, "Gamers Hub AFS", "Uploaded by Ebad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gamers%20Hub%20AFS748.lua", "https://scriptblox.com/script/UPDATE-4-Anime-Fighting-Simulator-X-AFS-AFS-7493")
                                 
+    addscriptexist(11545598432, "AFS Autofarm", "Uploaded by SGA_development on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AFS%20Autofarm262.lua", "https://scriptblox.com/script/UPDATE-4-Anime-Fighting-Simulator-X-AFS-Autofarm-8406")
+                                    
+    addscriptexist(11545598432, "Muimi Hub Key Crack", "Uploaded by collorem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Muimi%20Hub%20Key%20Crack445.lua", "https://scriptblox.com/script/UPDATE-3-Anime-Fighting-Simulator-X-Muimi-Hub-Key-Crack-7384")
+                                    
+    addscriptexist(11545598432, "AFS SCRIPT", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AFS%20SCRIPT590.lua", "https://scriptblox.com/script/UPDATE-6!-Anime-Fighting-Simulator-X-AFS-SCRIPT-9600")
+                                    

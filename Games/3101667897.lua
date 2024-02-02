@@ -30,3 +30,27 @@ addscriptexist(3101667897, "111111111111111111111111111111111111111111111", "Upl
                                 
 addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20autarm%20script385.lua", "https://scriptblox.com/script/Legends-Of-Speed-Op-autarm-script-7302")
                                 
+    addscriptexist(3101667897, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L641.lua", "https://scriptblox.com/script/Legends-Of-Speed-Project-L-9211")
+                                    
+    addscriptexist(3101667897, "DemonicHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB%20V2701.lua", "https://scriptblox.com/script/Legends-Of-Speed-DemonicHUB-V2-9163")
+                                    
+    addscriptexist(3101667897, "DarkMoon X", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DarkMoon%20X164.lua", "https://scriptblox.com/script/Legends-Of-Speed-DarkMoon-X-9229")
+                                    
+    addscriptexist(3101667897, "LOS Op Script For Mobile And Pc", "Uploaded by DraWatX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOS%20Op%20Script%20For%20Mobile%20And%20Pc134.lua", "https://scriptblox.com/script/Legends-Of-Speed-Op-Script-7343")
+                                    
+    addscriptexist(3101667897, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub547.lua", "https://scriptblox.com/script/Legends-Of-Speed-Script-by-Tbao-Hub-9614")
+                                    
+    addscriptexist(3101667897, "FluxHUB V1", "Uploaded by Merchant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FluxHUB%20V1587.lua", "https://scriptblox.com/script/Legends-Of-Speed-FluxHUB-V1-9719")
+                                    
+    addscriptexist(3101667897, "FluxHUB Enhanced", "Uploaded by Merchant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FluxHUB%20Enhanced587.lua", "https://scriptblox.com/script/Legends-Of-Speed-FluxHUB-Enhanced-9814")
+                                    
+    addscriptexist(3101667897, "Krypton", "Uploaded by Merchant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Krypton436.lua", "https://scriptblox.com/script/Legends-Of-Speed-Krypton-9892")
+                                    
+    addscriptexist(3101667897, "Fast Auto farm infinite gems", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Auto%20farm%20infinite%20gems228.lua", "https://scriptblox.com/script/Legends-Of-Speed-Fast-Auto-farm-infinite-gems-10034")
+                                    
+    addscriptexist(3101667897, "Shife Hub", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shife%20Hub123.lua", "https://scriptblox.com/script/Legends-Of-Speed-Shife-Hub-10070")
+                                    
+    addscriptexist(3101667897, "Autarm auto rebith auto collect", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autarm%20auto%20rebith%20auto%20collect213.lua", "https://scriptblox.com/script/Legends-Of-Speed-Autarm-auto-rebith-auto-collect-10109")
+                                    
+    addscriptexist(3101667897, "Darkmoon X AutoPet Open Source", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20X%20AutoPet%20Open%20Source871.lua", "https://scriptblox.com/script/Legends-Of-Speed-Darkmoon-X-Open-Source-10125")
+                                    

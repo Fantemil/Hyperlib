@@ -48,3 +48,5 @@ addscriptexist(5956785391, "Skeered Slayer", "Uploaded by SUMMER on scriptblox.c
                                 
 addscriptexist(5956785391, "Lazy HUB", "Uploaded by nazyunioni on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazy%20HUB351.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Lazy-HUB-7529")
                                 
+    addscriptexist(5956785391, "Slayer OP SCRIPT", "Uploaded by cloudman4416 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayer%20OP%20SCRIPT452.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Slayer-OP-SCRIPT-10253")
+                                    

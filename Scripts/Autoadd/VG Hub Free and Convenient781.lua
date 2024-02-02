@@ -1,0 +1,2 @@
+getgenv().KeySystem = true -- turn this off if you dont want to support me it will run the script regardless 
+loadstring(game:HttpGet('https://raw.githubusercontent.com/1201for/V.G-Hub/main/V.Ghub'))()

@@ -1,0 +1,2 @@
+
+    addscript(14952020677, "Current Game","009", "Uploaded by jerrywalter802 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/009257.lua", "https://scriptblox.com/script/Greener-House-(Beta)-009-9441")

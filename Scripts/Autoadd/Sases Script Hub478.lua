@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/sasquatchhtv/Decayingbitches/main/DW-Script-1.75'),true))()

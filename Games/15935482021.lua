@@ -1,0 +1,4 @@
+
+    addscript(15935482021, "Current Game","Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V271.lua", "https://scriptblox.com/script/UPD2-Free-Anime-Infinity-Simulator-Demonic-HUB-V2-10035")
+    addscriptexist(15935482021, "Kill Aura Auto Farm and other Good feature", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Auto%20Farm%20and%20other%20Good%20feature920.lua", "https://scriptblox.com/script/UPD2-Free-Anime-Infinity-Simulator-Kill-Aura-Auto-Farm-and-other-Good-feature-10058")
+                                    

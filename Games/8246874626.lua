@@ -1,0 +1,2 @@
+
+    addscript(8246874626, "Current Game","Best OP AUTOFARM SCRIPT", "Uploaded by xpa1nx9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20AUTOFARM%20SCRIPT894.lua", "https://scriptblox.com/script/ARENA-Dragon-Soul-DEMO-Best-OP-AUTOFARM-SCRIPT-7676")

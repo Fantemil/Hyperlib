@@ -1,0 +1,2 @@
+
+    addscript(6132958612, "Current Game","roblox      script GUI 47264", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20%20%20%20%20%20script%20GUI%2047264742.lua", "https://scriptblox.com/script/Marvel-and-DC-Super-Heroes-roblox-script-GUI-9388")

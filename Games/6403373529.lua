@@ -72,3 +72,39 @@ addscriptexist(6403373529, "Rhythm AutoPlayer", "Uploaded by CoconutMother9000 o
                                 
 addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Rob%20Script%20Back10.lua", "https://scriptblox.com/script/Slap-Battles-Fake-Rob-Script-7485")
                                 
+    addscriptexist(6403373529, "Battle Auto Rob", "Uploaded by Coldster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20Auto%20Rob598.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Battle-Auto-Rob-8945")
+                                    
+    addscriptexist(6403373529, "InfiniteWare", "Uploaded by FindFirstBlackie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteWare312.lua", "https://scriptblox.com/script/Slap-Battles-InfiniteWare-8514")
+                                    
+    addscriptexist(6403373529, "Auto Farm Candy Script", "Uploaded by Coldster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Candy%20Script148.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Auto-Farm-Candy-Script-8946")
+                                    
+    addscriptexist(6403373529, "Candy Corn Farm EVENT Server HOPS", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Corn%20Farm%20EVENT%20Server%20HOPS433.lua", "https://scriptblox.com/script/Slap-Battles-Candy-Corn-Farm-EVENT-Server-HOPS-8537")
+                                    
+    addscriptexist(6403373529, "Auto Collect Candy FARM", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Candy%20FARM858.lua", "https://scriptblox.com/script/DUAL-Slap-Battles-Auto-Collect-Candy-FARM-8682")
+                                    
+    addscriptexist(6403373529, "Coil Animation BACK", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coil%20Animation%20BACK418.lua", "https://scriptblox.com/script/Slap-Battles-Coil-Animation-7489")
+                                    
+    addscriptexist(6403373529, "TroXerHub", "Uploaded by TroXerHub_Team on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TroXerHub140.lua", "https://scriptblox.com/script/Slap-Battles-TrexorHub-9005")
+                                    
+    addscriptexist(6403373529, "royale script", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/royale%20script210.lua", "https://scriptblox.com/script/SCYTHE-Slap-Battles-op-script-working-9383")
+                                    
+    addscriptexist(6403373529, "Overkill glove speed", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overkill%20glove%20speed689.lua", "https://scriptblox.com/script/Slap-Battles-No-CD-9483")
+                                    
+    addscriptexist(6403373529, "Open source", "Uploaded by GG_HACKER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20source627.lua", "https://scriptblox.com/script/Slap-Battles-Open-source-for-9484")
+                                    
+    addscriptexist(6403373529, "anti kick activate 5 times", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20kick%20activate%205%20times303.lua", "https://scriptblox.com/script/Slap-Battles-anti-kick-activate-5-times-9610")
+                                    
+    addscriptexist(6403373529, "El pro hub", "Uploaded by Thereplazing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/El%20pro%20hub503.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-El-pro-hub-9755")
+                                    
+    addscriptexist(6403373529, "Tester hub", "Uploaded by Tester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tester%20hub428.lua", "https://scriptblox.com/script/Slap-Battles-Tester-hub-9895")
+                                    
+    addscriptexist(6403373529, "BiU GUI", "Uploaded by rblx365 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BiU%20GUI392.lua", "https://scriptblox.com/script/Slap-Battles-BiU-GUI-9915")
+                                    
+    addscriptexist(6403373529, "Ability gui donjo", "Uploaded by Tester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ability%20gui%20donjo717.lua", "https://scriptblox.com/script/UPD-Slap-Battles-Ability-gui-donjo-9931")
+                                    
+    addscriptexist(6403373529, "Farm gui", "Uploaded by Findp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20gui710.lua", "https://scriptblox.com/script/ADMIN!-Slap-Battles-Best-gui-10089")
+                                    
+    addscriptexist(6403373529, "script no ban", "Uploaded by Pkxdjosh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20no%20ban799.lua", "https://scriptblox.com/script/PROPDATE-Slap-Battles-script-no-ban-10203")
+                                    
+    addscriptexist(6403373529, "Kvikss and MrArgy OP Script", "Uploaded by kviksfnf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kvikss%20and%20MrArgy%20OP%20Script551.lua", "https://scriptblox.com/script/Slap-Battles-kviks-and-mrargy-script-10288")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(4711958375, "Current Game","DONT USE THIS OR YOURE GETTING BANNED BY THE ANTICHEAT", "Uploaded by XFuscator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DONT%20USE%20THIS%20OR%20YOURE%20GETTING%20BANNED%20BY%20THE%20ANTICHEAT649.lua", "https://scriptblox.com/script/Zombie-Defence-Infinite-money-script-OP-8219")

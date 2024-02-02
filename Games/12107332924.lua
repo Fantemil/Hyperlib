@@ -1,0 +1,2 @@
+
+    addscript(12107332924, "Current Game","OP Gun Mods", "Uploaded by Cyber on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gun%20Mods370.lua", "https://scriptblox.com/script/Neighborhood-War-Remake-ALPHA-No-Spread-No-Recoil-Make-Gun-Automatic-No-Delay-More-9528")

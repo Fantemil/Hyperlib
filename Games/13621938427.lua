@@ -1,0 +1,2 @@
+
+    addscript(13621938427, "Current Game","Untitled  game", "Uploaded by panupong4402s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20%20game540.lua", "https://scriptblox.com/script/IRON-FIST-untitled-boxing-game-Untitled-game-9153")

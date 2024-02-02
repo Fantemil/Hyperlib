@@ -10,3 +10,5 @@ addscript(4581966615, "Current Game","just look at description", "Uploaded by Ch
                                 
     addscriptexist(4581966615, "Anomic script", "Uploaded by adios on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anomic%20script136.lua", "https://scriptblox.com/script/Anomic-Anomic-script-5694")
                                 
+    addscriptexist(4581966615, "GUI And silent aim script for", "Uploaded by chapps on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20And%20silent%20aim%20script%20for266.lua", "https://scriptblox.com/script/Anomic-GUI-And-silent-aim-script-for-7478")
+                                    

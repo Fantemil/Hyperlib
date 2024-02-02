@@ -1,2 +1,4 @@
 
     addscript(14526462405, "Current Game","you will understand what to do free UGC", "Uploaded by Deagnozzz1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/you%20will%20understand%20what%20to%20do%20free%20UGC520.lua", "https://scriptblox.com/script/PART-2-Hallow's-Eve-2023-you-will-understand-what-to-do-9191")
+    addscriptexist(14526462405, "op script", "Uploaded by ShpakHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script717.lua", "https://scriptblox.com/script/GIFTBOX-Hallow's-Eve-2023-op-script-9236")
+                                    

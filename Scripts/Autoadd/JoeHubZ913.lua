@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JoeBidenhub/Script-releases-latest-download/main/main.lua",true))()

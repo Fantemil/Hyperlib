@@ -1,0 +1,2 @@
+
+    addscript(12102216967, "Current Game","Escape", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Escape836.lua", "https://scriptblox.com/script/New-Teddy-Escape-Escape-10095")

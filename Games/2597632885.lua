@@ -1,0 +1,2 @@
+
+    addscript(2597632885, "Current Game","Op Unlock All Hats", "Uploaded by MpIsPro12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Unlock%20All%20Hats795.lua", "https://scriptblox.com/script/sno-day-Op-Unlock-All-Hats-9382")

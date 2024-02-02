@@ -1,0 +1,2 @@
+
+    addscript(14099066380, "Current Game","Cr4zy Hub", "Uploaded by CrazyHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cr4zy%20Hub157.lua", "https://scriptblox.com/script/UPD-5!-Apple-Incremental!-Cr4zy-Hub-7567")

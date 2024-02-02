@@ -22,3 +22,5 @@ addscriptexist(6284583030, "Lux  Pet Simulator X", "Uploaded by RogueRam on rscr
                                 
 addscriptexist(6284583030, "Pet Simulator X Created By BloodBath9170", "Uploaded by BloodBath on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pet%20Simulator%20X%20Created%20By%20BloodBath9170685.lua", "https://rscripts.net/script/pet-simulator-x-created-by-bloodbath9170-3528")
                                 
+    addscriptexist(6284583030, "BT Project Halloween Update", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project%20Halloween%20Update246.lua", "https://scriptblox.com/script/Pet-Simulator-X!-BT-Project-7438")
+                                    

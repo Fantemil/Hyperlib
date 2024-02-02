@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xdevslasher/visualremastered/main/Protected_7662740735666330.lua",true))()

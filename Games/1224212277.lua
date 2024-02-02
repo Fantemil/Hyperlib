@@ -64,3 +64,5 @@ addscriptexist(1224212277, "City 2 Script UberaX FIX", "Uploaded by UBERAX on sc
                                 
 addscriptexist(1224212277, "City 2 FIX Script", "Uploaded by UBERAX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/City%202%20FIX%20Script843.lua", "https://scriptblox.com/script/Update-Mad-City:-CH.2-City-2-FIX-Script-8954")
                                 
+    addscriptexist(1224212277, "Op Auto farm Money Script", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Auto%20farm%20Money%20Script270.lua", "https://scriptblox.com/script/Mad-City:-CH.2-Op-Auto-farm-Money-Script-8743")
+                                    

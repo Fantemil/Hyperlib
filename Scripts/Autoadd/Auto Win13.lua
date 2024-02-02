@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/5iREx/script/main/BARRYS%20PRISON%20RUN'))()

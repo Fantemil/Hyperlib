@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/jointeamck/8d346ea61c7ec4678a42471da37614a2/raw/6dc02c4364fdafd6ea498e5901e4494a594b329f/NEW%20c00lgui%20v2.4", true))()

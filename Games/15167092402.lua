@@ -1,0 +1,2 @@
+
+    addscript(15167092402, "Current Game","Roblox NetflixCE executor Byfron bypass", "Uploaded by ggggggggggg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20NetflixCE%20executor%20Byfron%20bypass52.lua", "https://scriptblox.com/script/Baseplate-Roblox-NetflixCE-executor-Byfron-bypass-9465")

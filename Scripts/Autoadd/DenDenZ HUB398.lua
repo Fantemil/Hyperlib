@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DenDenZYT/Main/main/DenDenZ%20Blade%20Ball"))()

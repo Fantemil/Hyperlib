@@ -2,3 +2,5 @@
 addscript(6254599969, "Current Game","complete n prestige", "Uploaded by Haii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/complete%20n%20prestige267.lua", "https://scriptblox.com/script/obby-but-you're-a-poop-complete-n-prestige-7571")
 addscriptexist(6254599969, "VERY OP Heps of Fetures", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20OP%20Heps%20of%20Fetures968.lua", "https://scriptblox.com/script/obby-but-you're-a-poop-VERY-OP-Heps-of-Fetures-7656")
                                 
+    addscriptexist(6254599969, "Infinite Skip n Lucky Block nd more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Skip%20n%20Lucky%20Block%20nd%20more445.lua", "https://scriptblox.com/script/obby-but-you're-a-poop-Infinite-Skip-n-Lucky-Block-nd-more-7561")
+                                    

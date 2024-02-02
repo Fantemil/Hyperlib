@@ -1,0 +1,2 @@
+
+    addscript(14472616027, "Current Game","DemonicHUBV2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUBV2357.lua", "https://scriptblox.com/script/Get-Richer-Every-Click-DemonicHUBV2-9307")

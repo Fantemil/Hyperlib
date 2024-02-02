@@ -4,29 +4,38 @@
 
 # Welcome to Hyperlib!
 
-Hyperlib is a Project i started to offer people a script, which is a big hub with many scripts for many games. And that keyless of course! 
-You will never need a key and i will never obfuscate the script. Hyperlib on its own is completely Open-Source BUT Scripts contained may be obfuscated.
+Hyperlib is a Project i started for everyone who is tired of always searching for Scripts on YouTube. And that keyless of course because key systems suck! 
+I promise that you will never need a key and i will never obfuscate the main source coude.
 
-# Checklist
+# Features
+## Implemented:
+- [x] Manipulate Walkspeed, Jumppower and Gravity
+- [x] Server Hop, Rejoin and Exit
+- [x] Chat Clear
+- [x] Thousands of Universal/Game Scrips and Hubs at your disposal
+- [x] A GUI Manager to remove other annoying and unclosable exploit GUIs you executed
+- [x] A powerful search tool with filters to search for your favorite Script without needing to manually find it.
+## Might be implemented at some time in the Future:
+- [ ] A favoriting System
+- [ ] Online Functionality (Liking Scripts, saving Scripts in the cloud, etc...)
 
-- [x] More Things at the Player Tab
-- [x] Adding Gamehubs automatically through the bot
 
-# Hyperlib is special! But i need help.
+# How it works
 
-Hyperlib uses a Python Selenium bot to add new scripts to the Hub automatically! Though, The Bot does not know if a Script isnt working of course. Because of that please report Scripts that aren't working to fantemil on discord, or just open a issue
+To offer such a huge amount of Scripts i programmed a Bot that fetches Roblox Scripts every hour from various sites like scriptblox.com and then uploads them onto here. Note though that the Bot does not know if a Script is working so you may encounter scripts that won't work.
 
 # How to run
 
-You can run Hyperlib with a easy loadstring or just copy the source code (not recommended since updates won't be included then). You can also find Hyperlib in the Script-Ware Script Library.
+You can run Hyperlib with a easy loadstring.
 ```
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()
 ```
 
 
-# HELP ME!
+# How to contribute
 
-I need a lot of help improving the Hub! If you want to contribute then please send me your scripts or ideas on discord or make a pull request/issue!!! (discord: fantemil)
+If you want to add a Script to the Hub feel free to join the Hyperlib Discord https://discord.gg/PCBRyautZq and submit your Script to the Bot in the dedicated Channel.
+If you want to contribute changes to the main Script just open a pull request. To suggest changes just join the Discord.
 
 
 # Documentation

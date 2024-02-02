@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mcletshacks/ArgonHubV2/main/Load2/New%20Loader.lua", true))()

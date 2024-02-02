@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ForYourHead/GameLoader/main/r4mpageGameLoader.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScriptsBlox/PetSimScript99/main/MainVersion"))()

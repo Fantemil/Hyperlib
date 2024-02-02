@@ -20,3 +20,5 @@ addscriptexist(648362523, "Breaking Point  Wheat Hub", "Uploaded by MaGiXx on rs
                                 
 addscriptexist(648362523, "Breaking Point 250K Coins Per Hour", "Uploaded by Reddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaking%20Point%20250K%20Coins%20Per%20Hour961.lua", "https://rscripts.net/script/breaking-point-250k-coins-per-hour-3202")
                                 
+    addscriptexist(648362523, "Dsc mikeexc", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20mikeexc581.lua", "https://scriptblox.com/script/Breaking-Point-Dsc-mikeexc-9891")
+                                    

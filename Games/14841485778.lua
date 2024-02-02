@@ -1,0 +1,2 @@
+
+    addscript(14841485778, "Current Game","script", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script200.lua", "https://scriptblox.com/script/Possessor-script-9462")

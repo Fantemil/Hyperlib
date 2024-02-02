@@ -10,3 +10,5 @@ addscriptexist(13681795330, "InfinityWare", "Uploaded by Visionary on scriptblox
                                 
 addscriptexist(13681795330, "Fast UGC", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20UGC274.lua", "https://scriptblox.com/script/FREE-UGC-PUSH-SIMULATOR-Fast-UGC-7279")
                                 
+    addscriptexist(13681795330, "UGC IN GAME OP SCRIPT", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UGC%20IN%20GAME%20OP%20SCRIPT419.lua", "https://scriptblox.com/script/PUSH-SIMULATOR-UGC-IN-GAME-OP-SCRIPT-7835")
+                                    

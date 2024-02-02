@@ -6,3 +6,5 @@ addscript(5985232436, "Current Game","GUI", "Uploaded by Nicuse on scriptblox.co
                                 
 addscriptexist(5985232436, "Op script", "Uploaded by Icyscythe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script462.lua", "https://scriptblox.com/script/Infectious-Smile-Op-script-6979")
                                 
+    addscriptexist(5985232436, "Gui", "Uploaded by grrrrrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui159.lua", "https://scriptblox.com/script/Infectious-Smile-CHRISTMAS-Gui-9666")
+                                    

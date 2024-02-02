@@ -1,0 +1,2 @@
+
+    addscript(523707617, "Current Game","Antiafk17", "Uploaded by MysticSaba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Antiafk17105.lua", "https://scriptblox.com/script/Universal-Roblox-Theme-Park-Antiafk-10035")

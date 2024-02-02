@@ -20,3 +20,19 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                 
     addscriptexist(1537690962, "Kometa v2", "Uploaded by random_person on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kometa%20v2906.lua", "https://scriptblox.com/script/PSXbox-Bee-Swarm-Simulator-Kometa-v2-9192")
                                     
+    addscriptexist(1537690962, " Mode Auto Farm Field Auto Make Honey", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Mode%20Auto%20Farm%20Field%20Auto%20Make%20Honey750.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-***-Mode-Auto-Farm-Field-Auto-Make-Honey-9397")
+                                    
+    addscriptexist(1537690962, "Hikari", "Uploaded by cszn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hikari560.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Hikari-9440")
+                                    
+    addscriptexist(1537690962, "BEST FOR   SIM", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20%20%20SIM225.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-BEST-FOR-SIM-9550")
+                                    
+    addscriptexist(1537690962, "macro v3 free and premium", "Uploaded by MysticSaba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/macro%20v3%20free%20and%20premium663.lua", "https://scriptblox.com/script/BeequipTradeReboot-Bee-Swarm-Simulator-macro-v3-free-and-premium-10034")
+                                    
+    addscriptexist(1537690962, "BSS Script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BSS%20Script929.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-BSS-Script-10068")
+                                    
+    addscriptexist(1537690962, "BSS script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BSS%20script956.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-BSS-script-10102")
+                                    
+    addscriptexist(1537690962, "Macro V3", "Uploaded by salesmacrov3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Macro%20V3340.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Macro-V3-10149")
+                                    
+    addscriptexist(1537690962, "Bss Script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bss%20Script220.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Bss-Script-10181")
+                                    

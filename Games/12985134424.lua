@@ -1,0 +1,2 @@
+
+    addscript(12985134424, "Current Game","Op script", "Uploaded by Odrexyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script667.lua", "https://scriptblox.com/script/FREE-UGC-Clicker-Fighting-Simulator-Op-script-7792")

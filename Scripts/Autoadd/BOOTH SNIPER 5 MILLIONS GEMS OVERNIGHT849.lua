@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ThatSick/PS99/main/booth%20sniper"))()

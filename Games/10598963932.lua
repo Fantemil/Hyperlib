@@ -1,0 +1,2 @@
+
+    addscript(10598963932, "Current Game","Kyojuro Hub Probably patched havent tried yet", "Uploaded by Clavilux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kyojuro%20Hub%20Probably%20patched%20havent%20tried%20yet241.lua", "https://scriptblox.com/script/VENOM-Cat-Piece-Kyojuro-Hub-8947")

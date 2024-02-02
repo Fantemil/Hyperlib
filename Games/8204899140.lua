@@ -26,3 +26,5 @@ addscriptexist(8204899140, "TooColdHub", "Uploaded by marcusbored on scriptblox.
                                 
 addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kirby59.lua", "https://scriptblox.com/script/Football-Fusion-2-Kirby-8679")
                                 
+    addscriptexist(8204899140, "CurseHub InfJump", "Uploaded by CurseHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CurseHub%20InfJump285.lua", "https://scriptblox.com/script/Football-Fusion-2-CurseHub-9878")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(11200494415, "Current Game","OP SCRIPT", "Uploaded by luffytard77 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT377.lua", "https://scriptblox.com/script/UPD!-Jujutsu-Chronicles-OP-SCRIPT-9640")

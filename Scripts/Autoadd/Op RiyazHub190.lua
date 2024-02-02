@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RiyazDE/RiyazHub/main/WeaponForgeSim%20RiyazHub'))() 

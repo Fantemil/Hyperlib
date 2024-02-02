@@ -4,3 +4,9 @@ addscriptexist(13667319624, "Everything inf", "Uploaded by GG_HACKER on scriptbl
                                 
 addscriptexist(13667319624, "sim script", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sim%20script841.lua", "https://scriptblox.com/script/Knockout-Simulator-sim-script-8351")
                                 
+    addscriptexist(13667319624, "Inf Wins Inf Rebirths Inf Strength", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Wins%20Inf%20Rebirths%20Inf%20Strength354.lua", "https://scriptblox.com/script/Knockout-Simulator-Inf-Wins-Inf-Rebirths-Inf-Strength-7549")
+                                    
+    addscriptexist(13667319624, "Infinite Wins Infinite Rebirths Infinite Strength", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins%20Infinite%20Rebirths%20Infinite%20Strength114.lua", "https://scriptblox.com/script/Knockout-Simulator-Infinite-Wins-Infinite-Rebirths-Infinite-Strength-9368")
+                                    
+    addscriptexist(13667319624, "INF Stats OP Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Stats%20OP%20Auto%20Farm293.lua", "https://scriptblox.com/script/Knockout-Simulator-INF-Stats-OP-Auto-Farm-9734")
+                                    

@@ -4,3 +4,5 @@ addscript(855499080, "Current Game","SKYWARS Script OP", "Uploaded by KabutoVias
                                 
     addscriptexist(855499080, "Most op gui", "Uploaded by dunkhaun123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Most%20op%20gui189.lua", "https://scriptblox.com/script/SKYWARS-Most-op-gui-3536")
                                 
+    addscriptexist(855499080, "Roblox UI script dropdown", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20UI%20script%20dropdown183.lua", "https://scriptblox.com/script/SKYWARS-Roblox-UI-script-dropdown-9403")
+                                    

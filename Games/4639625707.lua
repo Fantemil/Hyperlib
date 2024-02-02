@@ -8,3 +8,5 @@ addscriptexist(4639625707, "Teleport to airdrops", "Uploaded by catlover326 on s
                                 
 addscriptexist(4639625707, "Silent Aim Wallbang Open Source", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20Wallbang%20Open%20Source590.lua", "https://scriptblox.com/script/A-10-War-Tycoon-Silent-Aim-Wallbang-Open-Source-8698")
                                 
+    addscriptexist(4639625707, "Aimbot  auto collect", "Uploaded by Kargoligach on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20%20auto%20collect55.lua", "https://scriptblox.com/script/2X-War-Tycoon-Aimbot-auto-collect-7705")
+                                    

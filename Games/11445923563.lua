@@ -12,3 +12,9 @@ addscriptexist(11445923563, "Cefrus Hub", "Uploaded by keeron9 on scriptblox.com
                                 
 addscriptexist(11445923563, "SLH Hub", "Uploaded by SmelllikeHacker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SLH%20Hub185.lua", "https://scriptblox.com/script/RAIDS-ONE-FRUIT-SLH-Hub-7471")
                                 
+    addscriptexist(11445923563, "NexusHub Mobile Friendly", "Uploaded by NexusHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NexusHub%20Mobile%20Friendly863.lua", "https://scriptblox.com/script/THIRD-SEA-ONE-FRUIT-NexusHub-8465")
+                                    
+    addscriptexist(11445923563, "Souls Hub", "Uploaded by junindomorroofc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Souls%20Hub784.lua", "https://scriptblox.com/script/RAIDS-ONE-FRUIT-Souls-7989")
+                                    
+    addscriptexist(11445923563, "Kidachi", "Uploaded by _Deity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kidachi588.lua", "https://scriptblox.com/script/2X-Stats-+-RAIDS-ONE-FRUIT-Kidachi-Simulator-7405")
+                                    

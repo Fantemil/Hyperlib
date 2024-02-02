@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WinterDinder/Obby-But-Youre-On-A-Bike-/main/Main", true))()

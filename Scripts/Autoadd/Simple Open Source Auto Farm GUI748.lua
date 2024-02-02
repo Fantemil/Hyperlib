@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Breadido/main_scripts/main/Anime_Soul_Simulator%20X.lua'))()

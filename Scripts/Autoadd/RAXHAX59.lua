@@ -1,0 +1,1 @@
+loadstring(game:HttpGet'https://gist.githubusercontent.com/ao-0/a657ea197e72ca0ac465f3ddfe124053/raw/cac57e33f89ec1c8f258d7ad79f5e9b8c85f344e/raxhub')()

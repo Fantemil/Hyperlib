@@ -1,0 +1,2 @@
+
+    addscript(7205641391, "Current Game","Auto player WORKING", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20player%20WORKING502.lua", "https://scriptblox.com/script/MECHANICS-Monday-Morning-Misery-Beta-Auto-player-WORKING-9614")

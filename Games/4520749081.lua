@@ -12,3 +12,13 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                 
     addscriptexist(4520749081, "ADEL", "Uploaded by Jine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADEL974.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-ADEL-9143")
                                     
+    addscriptexist(4520749081, "BT Project", "Uploaded by Sanz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BT%20Project135.lua", "https://scriptblox.com/script/UPDATE-4.66-King-Legacy-BT-Project-7439")
+                                    
+    addscriptexist(4520749081, "Auto Farm Auto Use Skill Auto New World", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Use%20Skill%20Auto%20New%20World941.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-Auto-Farm-Auto-Use-Skill-Auto-New-World-9373")
+                                    
+    addscriptexist(4520749081, "BEST FOR THIS Gme", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20Gme324.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-BEST-FOR-THIS-Gme-9531")
+                                    
+    addscriptexist(4520749081, "BEST FOR THIS GME", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FOR%20THIS%20GME857.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-BEST-FOR-THIS-GME-9546")
+                                    
+    addscriptexist(4520749081, "Best Free Script", "Uploaded by Donand on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Free%20Script30.lua", "https://scriptblox.com/script/UPDATE-4.8-King-Legacy-Best-Free-Script-9817")
+                                    

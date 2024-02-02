@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RinHubb/RinHub/main/Rin_Hub_Auto_Farm.lua"))()

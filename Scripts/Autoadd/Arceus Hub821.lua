@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/BluGG11/ArceusHub/main/ArceusHub.lua

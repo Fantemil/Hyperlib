@@ -10,3 +10,5 @@ addscriptexist(4623386862, "vyxunis", "Uploaded by robux7531 on scriptblox.com",
                                 
 addscriptexist(4623386862, "Peppa script", "Uploaded by DRAGONX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Peppa%20script141.lua", "https://scriptblox.com/script/Piggy-Peppa-script-8586")
                                 
+    addscriptexist(4623386862, "Fly Godmode Walkspeed", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Godmode%20Walkspeed277.lua", "https://scriptblox.com/script/Piggy-Fly-Godmode-Walkspeed-9368")
+                                    

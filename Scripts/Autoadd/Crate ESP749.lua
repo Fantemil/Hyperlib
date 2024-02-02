@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dustin21335/Crate-esp-roblox/main/Chest%20esp.lua"))()

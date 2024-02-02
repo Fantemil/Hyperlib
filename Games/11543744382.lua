@@ -1,0 +1,2 @@
+
+    addscript(11543744382, "Current Game","Darkmoon x", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20x707.lua", "https://scriptblox.com/script/SCARY-The-Horrific-Elevator-Darkmoon-x-10237")

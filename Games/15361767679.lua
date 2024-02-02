@@ -1,0 +1,2 @@
+
+    addscript(15361767679, "Current Game","Roblox Free Executor Byfron Bypass 2024", "Uploaded by MineRose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Free%20Executor%20Byfron%20Bypass%202024410.lua", "https://scriptblox.com/script/Baseplate-lol-Roblox-Free-Executor-Byfron-Bypass-2024-9828")

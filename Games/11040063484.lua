@@ -6,3 +6,5 @@ addscriptexist(11040063484, "Sword Fighters Simulator Auto Farm Kill Aura", "Upl
                                 
 addscriptexist(11040063484, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub464.lua", "https://scriptblox.com/script/UPD-Sword-Fighters-Simulator-MaddHub-6912")
                                 
+    addscriptexist(11040063484, "Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2471.lua", "https://scriptblox.com/script/UPD-Sword-Fighters-Simulator-Demonic-HUB-V2-10199")
+                                    

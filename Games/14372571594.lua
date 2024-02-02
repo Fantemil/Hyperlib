@@ -1,0 +1,2 @@
+
+    addscript(14372571594, "Current Game","PikachuHub Instant UGC", "Uploaded by FreeUGCS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PikachuHub%20Instant%20UGC476.lua", "https://scriptblox.com/script/FREE-UGC-Rob-DJ-Khaled's-Mansion-Obby!-FREE-UGC-PikachuHub-7807")

@@ -1,0 +1,2 @@
+
+    addscript(9791603388, "Current Game","UNDER GUI HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNDER%20GUI%20HUB644.lua", "https://scriptblox.com/script/Underground-War-2.0-NUKE-UNDER-GUI-HUB-10272")

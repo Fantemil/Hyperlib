@@ -1,0 +1,2 @@
+
+    addscript(9472371402, "Current Game","Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub659.lua", "https://scriptblox.com/script/THE-BACKROOMS-REDACTED-Hub-10054")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/danielontopp/lewa-hub/main/Key%20system",true))()

@@ -10,3 +10,7 @@ addscriptexist(14265515277, "Ln hub", "Uploaded by No6No6No7 on scriptblox.com",
                                 
 addscriptexist(14265515277, "sim script", "Uploaded by et1ty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sim%20script729.lua", "https://scriptblox.com/script/Running-Simulator-sim-script-8349")
                                 
+    addscriptexist(14265515277, "Best Win n Auto Train and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Win%20n%20Auto%20Train%20and%20more933.lua", "https://scriptblox.com/script/Running-Simulator-Best-Win-n-n-Auto-Train-and-more-9017")
+                                    
+    addscriptexist(14265515277, "Infinite Win n Rebirth and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Win%20n%20Rebirth%20and%20more855.lua", "https://scriptblox.com/script/Running-Simulator-Infinite-Win-n-Rebirth-and-more-8262")
+                                    

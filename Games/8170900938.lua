@@ -8,3 +8,5 @@ addscriptexist(8170900938, "Shucky Style", "Uploaded by LunarUI on scriptblox.co
                                 
 addscriptexist(8170900938, "Blade Style REUPLOADED", "Uploaded by LunarUI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blade%20Style%20REUPLOADED784.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Blade-Style-REUPLOADED-8006")
                                 
+    addscriptexist(8170900938, "Devil Style", "Uploaded by Cee334 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Devil%20Style647.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Devil-Style-9341")
+                                    

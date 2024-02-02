@@ -1,0 +1,2 @@
+
+    addscript(15278535431, "Current Game","Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2630.lua", "https://scriptblox.com/script/UPD-Fruit-Tower-Defense-Demonic-HUB-V2-9608")

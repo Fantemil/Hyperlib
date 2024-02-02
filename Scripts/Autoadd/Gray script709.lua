@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/IkuraDevs/0UnivHubGray/Ikura/UniversalHub0Gray')))()

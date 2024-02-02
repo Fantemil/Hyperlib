@@ -1,0 +1,4 @@
+
+    addscript(14034480512, "Current Game","Limited UGC nd more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20UGC%20nd%20more474.lua", "https://scriptblox.com/script/FREE-LIMITED-Obby-But-You're-on-a-Jetpack-Limited-UGC-nd-more-7675")
+    addscriptexist(14034480512, "Trsh gme 1", "Uploaded by Odrexyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trsh%20gme%201150.lua", "https://scriptblox.com/script/FREE-LIMITED-Obby-But-You're-on-a-Jetpack-Trsh-gme-1-7526")
+                                    

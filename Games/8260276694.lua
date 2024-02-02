@@ -8,3 +8,5 @@ addscript(8260276694, "Current Game","IdenLua  AbilityWars", "Uploaded by xbcq o
                                 
 addscriptexist(8260276694, "OP Script", "Uploaded by Fumo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script260.lua", "https://scriptblox.com/script/PIRATE-Ability-Wars-OP-Script-7284")
                                 
+    addscriptexist(8260276694, "Script OP", "Uploaded by Zaydeon309 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20OP334.lua", "https://scriptblox.com/script/UPDATE-Ability-Wars-Script-9510")
+                                    

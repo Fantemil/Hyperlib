@@ -1,0 +1,2 @@
+
+    addscript(4951068818, "Current Game","Fe executor script", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20executor%20script817.lua", "https://scriptblox.com/script/Empty-Baseplate-R6-Fe-executor-script-10094")

@@ -6,3 +6,5 @@ addscriptexist(2210085102, "Naval Warfare Hub", "Uploaded by hussain on rscripts
                                 
 addscriptexist(2210085102, "GUI supports mobile", "Uploaded by Professional on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20supports%20mobile733.lua", "https://scriptblox.com/script/Naval-Warfare-GUI-supports-mobile-7273")
                                 
+    addscriptexist(2210085102, "Multiple features", "Uploaded by Thepunchbag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Multiple%20features940.lua", "https://scriptblox.com/script/Naval-Warfare-Multiple-features-10147")
+                                    

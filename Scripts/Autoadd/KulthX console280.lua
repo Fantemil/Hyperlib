@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nizartitwaniii/KulthX-console-/main/KulthX%20console%20v2.5"))()

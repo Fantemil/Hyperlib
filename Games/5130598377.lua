@@ -12,3 +12,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                 
     addscriptexist(5130598377, "aut script a universal time credits in des", "Uploaded by unluckydj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aut%20script%20a%20universal%20time%20credits%20in%20des658.lua", "https://scriptblox.com/script/A-Universal-Time-aut-script-a-universal-time-credits-in-des-4850")
                                 
+    addscriptexist(5130598377, "Expensive HUB", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expensive%20HUB86.lua", "https://scriptblox.com/script/2.7:-Ascensions-A-Universal-Time-Expensive-HUB-7479")
+                                    

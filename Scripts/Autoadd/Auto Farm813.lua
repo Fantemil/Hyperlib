@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://gitlab.com/StellarHub/newloader/-/raw/main/NewLoader'))()

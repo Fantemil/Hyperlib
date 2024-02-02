@@ -1,0 +1,2 @@
+
+    addscript(15582012584, "Current Game","Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2982.lua", "https://scriptblox.com/script/UPD-King-of-the-World-Simulator-Demonic-HUB-V2-10064")

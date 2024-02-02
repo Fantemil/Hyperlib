@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Octane20184/Stn-Krypton-official/main/Stn%20script"))()

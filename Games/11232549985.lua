@@ -1,0 +1,2 @@
+
+    addscript(11232549985, "Current Game","Fast kill bosses and enemies", "Uploaded by epic123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20kill%20bosses%20and%20enemies767.lua", "https://scriptblox.com/script/ya-kids-beta-Fast-kill-bosses-and-enemies-9508")

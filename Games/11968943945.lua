@@ -1,0 +1,2 @@
+
+    addscript(11968943945, "Current Game","FE KICK SCRIPT u can custom it", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20KICK%20SCRIPT%20u%20can%20custom%20it30.lua", "https://scriptblox.com/script/Build-It!-FE-KICK-SCRIPT-u-can-custom-it-9063")

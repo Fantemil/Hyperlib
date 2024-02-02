@@ -1,0 +1,6 @@
+
+    addscript(14285029948, "Current Game","All Weapons n All Barby Skins and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Weapons%20n%20All%20Barby%20Skins%20and%20more551.lua", "https://scriptblox.com/script/Effects-Barby-Girl-Tycoon-All-Weapons-n-All-Barby-Skins-and-more-7566")
+    addscriptexist(14285029948, "script for", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20for598.lua", "https://scriptblox.com/script/Halloween-Beauty-Girl-Tycoon-script-for-9078")
+                                    
+    addscriptexist(14285029948, "All Skins n Buy Buttons and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Skins%20n%20Buy%20Buttons%20and%20more978.lua", "https://scriptblox.com/script/Effects-Barby-Girl-Tycoon-All-Skins-n-Buy-Buttons-and-more-7459")
+                                    

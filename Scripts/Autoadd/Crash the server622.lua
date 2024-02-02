@@ -1,0 +1,7 @@
+-- Its not a script like I said, but since you're here for the crashing i'll tell you how if you didnt read the description
+-- 1. Get a pet (it can be any)
+-- 2. Die by any noob (or a werewolf boss) while spam equipping the pet you got. (More effective with autoclicker)
+-- 3. The more pets you got, the laggier it get and with enough pets, it will crash the server.
+-- 4. You'll have to repeat it again since the pets will be reset back to 1 after crashing the server
+-- 5. It "can" take multiple attempts
+-- 6. go nuts.

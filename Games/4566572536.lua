@@ -4,3 +4,5 @@ addscriptexist(4566572536, "VEHICLE LEGENDS BEST AUTOFARM  MORE", "Uploaded by A
                                 
 addscriptexist(4566572536, "OP booster for your car", "Uploaded by carterknutter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20booster%20for%20your%20car686.lua", "https://scriptblox.com/script/Vehicle-Legends-New-Cars!-OP-booster-for-your-car-7800")
                                 
+    addscriptexist(4566572536, "BEST AUTOFARM AND MORE", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOFARM%20AND%20MORE991.lua", "https://scriptblox.com/script/Vehicle-Legends-New-Cars!-BEST-AUTOFARM-AND-MORE-7497")
+                                    

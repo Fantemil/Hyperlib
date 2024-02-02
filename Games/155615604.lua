@@ -102,3 +102,61 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                 
     addscriptexist(155615604, "PRISION ADMIN HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PRISION%20ADMIN%20HUB616.lua", "https://scriptblox.com/script/Prison-Life-PRISIN-ADMIN-HUB-9197")
                                     
+    addscriptexist(155615604, "Tiger admin new", "Uploaded by Im_dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20new557.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-new-9222")
+                                    
+    addscriptexist(155615604, "Destroy the structures", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroy%20the%20structures450.lua", "https://scriptblox.com/script/Prison-Life-Destroy-the-structures-7980")
+                                    
+    addscriptexist(155615604, "Delete doors", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20doors435.lua", "https://scriptblox.com/script/Prison-Life-Delete-door-7911")
+                                    
+    addscriptexist(155615604, "Delete  walls", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20%20walls879.lua", "https://scriptblox.com/script/Prison-Life-Delete-walls-7979")
+                                    
+    addscriptexist(155615604, "Delete jail doors", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20jail%20doors959.lua", "https://scriptblox.com/script/Prison-Life-Delete-jail-doors-7996")
+                                    
+    addscriptexist(155615604, "tp criminal base", "Uploaded by spacenetwork347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tp%20criminal%20base249.lua", "https://scriptblox.com/script/Prison-Life-Uniyon-Hub-9261")
+                                    
+    addscriptexist(155615604, "Tiger admin works after discontinued", "Uploaded by ecarevskiy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20works%20after%20discontinued810.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-works-after-discontinued-9363")
+                                    
+    addscriptexist(155615604, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L355.lua", "https://scriptblox.com/script/Prison-Life-Project-L-9352")
+                                    
+    addscriptexist(155615604, "Fe bypass Gui Katana Fly Tiger Admin", "Uploaded by Copilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20bypass%20Gui%20Katana%20Fly%20Tiger%20Admin988.lua", "https://scriptblox.com/script/Prison-Life-Fe-bypass-Gui-Katana-Fly-Tiger-Admin-9350")
+                                    
+    addscriptexist(155615604, "Tiger admin for", "Uploaded by Jaydenmclin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20for977.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-for-9380")
+                                    
+    addscriptexist(155615604, "Fearless Admin", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fearless%20Admin402.lua", "https://scriptblox.com/script/Prison-Life-Fearless-Admin-9378")
+                                    
+    addscriptexist(155615604, "roblox   GUI V1 mawinck06", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roblox%20%20%20GUI%20V1%20mawinck06250.lua", "https://scriptblox.com/script/Prison-Life-roblox-GUI-V1-mawinck06-9390")
+                                    
+    addscriptexist(155615604, "PrisionWare", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PrisionWare46.lua", "https://scriptblox.com/script/Prison-Life-PrisionWare-9424")
+                                    
+    addscriptexist(155615604, "FE Bypass Script", "Uploaded by lucaswon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Bypass%20Script750.lua", "https://scriptblox.com/script/Prison-Life-FE-Bypass-Script-9420")
+                                    
+    addscriptexist(155615604, "Scorpion admin", "Uploaded by Jaydenmclin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scorpion%20admin959.lua", "https://scriptblox.com/script/Prison-Life-Scorpion-admin-9461")
+                                    
+    addscriptexist(155615604, "Dalloc Tiger Admin", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dalloc%20Tiger%20Admin556.lua", "https://scriptblox.com/script/Prison-Life-Dalloc-Tiger-Admin-9607")
+                                    
+    addscriptexist(155615604, "Riots Tiger Admin", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Riots%20Tiger%20Admin804.lua", "https://scriptblox.com/script/Prison-Life-Riots-Tiger-Admin-9774")
+                                    
+    addscriptexist(155615604, "Nihilize H4x", "Uploaded by URFAVROBLOXSCHARMXO_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nihilize%20H4x890.lua", "https://scriptblox.com/script/Prison-Life-Nihilize-H4x-9816")
+                                    
+    addscriptexist(155615604, "Tiger Admin 90 commands", "Uploaded by ScriptsOP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20Admin%2090%20commands591.lua", "https://scriptblox.com/script/Prison-Life-Tiger-Admin-90-commands-9865")
+                                    
+    addscriptexist(155615604, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub133.lua", "https://scriptblox.com/script/Prison-Life-Script-by-Tbao-Hub-9961")
+                                    
+    addscriptexist(155615604, "SCouT Hub give Guns all", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCouT%20Hub%20give%20Guns%20all308.lua", "https://scriptblox.com/script/Prison-Life-SCouT-Hub-give-Guns-all-9994")
+                                    
+    addscriptexist(155615604, "Script by Tiger admin", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tiger%20admin609.lua", "https://scriptblox.com/script/Prison-Life-Script-by-Tiger-admin-9996")
+                                    
+    addscriptexist(155615604, "Admin Trolling", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Trolling413.lua", "https://scriptblox.com/script/Prison-Life-Admin-Trolling-10030")
+                                    
+    addscriptexist(155615604, "Kill Aura", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura678.lua", "https://scriptblox.com/script/Prison-Life-Give-Guns-Kill-All-10063")
+                                    
+    addscriptexist(155615604, "Hax", "Uploaded by UnfairHax_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hax338.lua", "https://scriptblox.com/script/Prison-Life-Hax-10136")
+                                    
+    addscriptexist(155615604, "Six Hub", "Uploaded by ySixx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Six%20Hub773.lua", "https://scriptblox.com/script/Prison-Life-Six-Hub-10169")
+                                    
+    addscriptexist(155615604, "Open sourced Tiger admin revamp", "Uploaded by H17S3_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20sourced%20Tiger%20admin%20revamp762.lua", "https://scriptblox.com/script/Prison-Life-Open-sourced-Tiger-admin-revamp-10286")
+                                    
+    addscriptexist(155615604, "Admin Gui", "Uploaded by Mikeexc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Gui885.lua", "https://scriptblox.com/script/Prison-Life-Admin-Gui-10300")
+                                    
+    addscriptexist(155615604, "tiger admin Feb 1 working", "Uploaded by Pkxdjosh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tiger%20admin%20Feb%201%20working696.lua", "https://scriptblox.com/script/Prison-Life-tiger-admin-Feb-1-working-10302")
+                                    

@@ -12,3 +12,5 @@ addscriptexist(11063612131, "Insane wins autofarm and more", "Uploaded by guss o
                                 
 addscriptexist(11063612131, "Script Gui", "Uploaded by TrayTray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Gui9.lua", "https://scriptblox.com/script/FREE-LIMITED-Every-Second-You-Get-+1-Jump-Power-Script-Gui-7569")
                                 
+    addscriptexist(11063612131, "Demonic HUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB626.lua", "https://scriptblox.com/script/Every-Second-You-Get-+1-Jump-Power-Demonic-HUB-8286")
+                                    

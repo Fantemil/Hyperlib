@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FantZarYT/f0nez3RayUI/main/main.script"))()

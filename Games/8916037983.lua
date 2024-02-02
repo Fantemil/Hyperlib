@@ -18,3 +18,9 @@ addscriptexist(8916037983, "source code", "Uploaded by botbrostopusing on script
                                 
     addscriptexist(8916037983, "Find rich server", "Uploaded by Alphabet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20rich%20server351.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Find-rich-server-9142")
                                     
+    addscriptexist(8916037983, "SGA Art STEALER", "Uploaded by SGA_development on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SGA%20Art%20STEALER886.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-SGA-Art-STEALER-8323")
+                                    
+    addscriptexist(8916037983, "Demonic HUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB921.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Demonic-HUB-8128")
+                                    
+    addscriptexist(8916037983, "SSploits", "Uploaded by sponsoparnordvpn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SSploits107.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-SSploits-7955")
+                                    

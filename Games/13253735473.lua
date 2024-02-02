@@ -50,3 +50,11 @@ addscriptexist(13253735473, "NIGHTMARE", "Uploaded by KnownRomanian on scriptblo
                                 
     addscriptexist(13253735473, "aimware", "Uploaded by dreamjowwgoober on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aimware247.lua", "https://scriptblox.com/script/Trident-Survival-V2-aimware-9211")
                                     
+    addscriptexist(13253735473, "Ore ESP", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ore%20ESP386.lua", "https://scriptblox.com/script/Trident-Survival-V2-Ore-ESP-7822")
+                                    
+    addscriptexist(13253735473, "Crate ESP Updated", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20ESP%20Updated417.lua", "https://scriptblox.com/script/Trident-Survival-V2-Crate-ESP-Updated-7823")
+                                    
+    addscriptexist(13253735473, "ASTROCC", "Uploaded by ASTROO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ASTROCC625.lua", "https://scriptblox.com/script/Trident-Survival-V2-ASTRO-8637")
+                                    
+    addscriptexist(13253735473, "AIMBOT SCRIPT", "Uploaded by dreamjowwgoober on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBOT%20SCRIPT1.lua", "https://scriptblox.com/script/Trident-Survival-V2-AIMBOT-SCRIPT-9324")
+                                    

@@ -16,3 +16,13 @@ addscriptexist(6447798030, "script delta and fluxus", "Uploaded by mccormickkenn
                                 
 addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonwaffles98 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autoplayer%20made%20by%20Bart3kk701.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-script-9154")
                                 
+    addscriptexist(6447798030, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB925.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Flaming-Dragons-HUB-9574")
+                                    
+    addscriptexist(6447798030, "New Working Script", "Uploaded by yuuiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Working%20Script871.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Mobile-Working-9595")
+                                    
+    addscriptexist(6447798030, "Auto play NEWEST VERSION", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20play%20NEWEST%20VERSION929.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-Auto-play-NEWEST-VERSION-9610")
+                                    
+    addscriptexist(6447798030, "s Script", "Uploaded by yonadiesiswoyo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/s%20Script507.lua", "https://scriptblox.com/script/XMAS-Event-or-Funky-Friday-s-Script-9613")
+                                    
+    addscriptexist(6447798030, "auto play WORKING", "Uploaded by Frenchfryguy2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20play%20WORKING15.lua", "https://scriptblox.com/script/XMAS-2023-or-Funky-Friday-auto-play-WORKING-9711")
+                                    

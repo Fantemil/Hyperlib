@@ -1,0 +1,2 @@
+
+    addscript(6847090259, "Current Game","Autofarm Loop Hit Player Auto Collect ALOT MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Loop%20Hit%20Player%20Auto%20Collect%20ALOT%20MORE224.lua", "https://scriptblox.com/script/Bulked-Up-Autofarm-Loop-Hit-Player-Auto-Collect-ALOT-MORE-7469")

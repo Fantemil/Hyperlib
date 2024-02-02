@@ -1,0 +1,2 @@
+
+    addscript(15554632241, "Current Game","DemonicHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB%20V2391.lua", "https://scriptblox.com/script/UPD1-Anime-Revolution-Simulator-DemonicHUB-V2-9665")

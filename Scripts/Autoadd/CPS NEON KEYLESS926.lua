@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Mrpopcatfrombupge/Cpsneon/main/CPS%20NEON%20HUB')))()

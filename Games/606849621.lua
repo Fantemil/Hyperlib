@@ -60,3 +60,15 @@ addscriptexist(606849621, "lol easy gg", "Uploaded by talisman170287 on scriptbl
                                 
 addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20AUTO%20ARREST946.lua", "https://scriptblox.com/script/Jailbreak-OP-AUTO-ARREST-7346")
                                 
+    addscriptexist(606849621, "Inf Nitro Car Speed Key Card", "Uploaded by weiny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Nitro%20Car%20Speed%20Key%20Card845.lua", "https://scriptblox.com/script/Jailbreak-Inf-Nitro-Car-Speed-Key-Card-7728")
+                                    
+    addscriptexist(606849621, "Auto Rob  Auto Arrest", "Uploaded by fayy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rob%20%20Auto%20Arrest74.lua", "https://scriptblox.com/script/Jailbreak-Auto-Rob-8147")
+                                    
+    addscriptexist(606849621, "OP AUTO FARM MONEY 999", "Uploaded by SoulyTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MONEY%20999697.lua", "https://scriptblox.com/script/Jailbreak-OP-AUTO-FARM-MONEY-999-8799")
+                                    
+    addscriptexist(606849621, "DevilWare Script", "Uploaded by Moretti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevilWare%20Script733.lua", "https://scriptblox.com/script/Jailbreak-DevilWare-Script-7692")
+                                    
+    addscriptexist(606849621, "Auto rob", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rob958.lua", "https://scriptblox.com/script/Jailbreak-New-Robbery-Auto-rob-9991")
+                                    
+    addscriptexist(606849621, "Auto Rob OP Gui", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rob%20OP%20Gui963.lua", "https://scriptblox.com/script/Jailbreak-New-Robbery-Auto-Rob-OP-Gui-10033")
+                                    

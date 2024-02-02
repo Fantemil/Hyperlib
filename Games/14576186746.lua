@@ -1,0 +1,2 @@
+
+    addscript(14576186746, "Current Game","Limited UGC", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limited%20UGC48.lua", "https://scriptblox.com/script/NEW!-Car-Obby-Limited-UGC-7820")

@@ -1,0 +1,2 @@
+
+    addscript(14063385437, "Current Game","do not use you main account you get ban use alt account dupe", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/do%20not%20use%20you%20main%20account%20you%20get%20ban%20use%20alt%20account%20dupe955.lua", "https://scriptblox.com/script/EP-61!-Skibi-Toilet-Tower-Defense-do-not-use-you-main-account-you-get-ban-use-alt-account-dupe-7801")

@@ -1,2 +1,4 @@
 
 addscript(14171094615, "Current Game","Only Script", "Uploaded by Killa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Only%20Script184.lua", "https://scriptblox.com/script/3M-Clicker-Wars-Simulator!-Only-Script-7366")
+    addscriptexist(14171094615, "Insta Win Turn All Pets Shiny ETC", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insta%20Win%20Turn%20All%20Pets%20Shiny%20ETC182.lua", "https://scriptblox.com/script/2X-Clicker-Wars-Simulator!-Insta-Win-Turn-All-Pets-Shiny-ETC-7372")
+                                    

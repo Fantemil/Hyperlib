@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Domadicoof/Domadicoof/c9f17c5f7d7149abb2686c566b3576b8e04c0605/Talk%20HubBeta.lua'))()
