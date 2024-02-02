@@ -38635,5 +38635,21 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Syntax v2 key Syntaxbesthub": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Syntax-v2-key-Syntaxbesthub-10309",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syntax%20v2%20key%20Syntaxbesthub924.lua",
+        "author": "Uploaded by Vazy on scriptblox.com",
+        "universal": false,
+        "hub": true,
+        "game": false
+    },
+    "FunnVYS01": {
+        "origin": "https://scriptblox.com/script/Universal-Script-FunnVYS01-10308",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FunnVYS01223.lua",
+        "author": "Uploaded by DanielVYS on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
