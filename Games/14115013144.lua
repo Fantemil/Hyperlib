@@ -4,3 +4,5 @@
                                     
     addscriptexist(14115013144, "Demonic HUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2714.lua", "https://scriptblox.com/script/Grimoires-Era-RELEASE-Demonic-HUB-V2-10301")
                                     
+    addscriptexist(14115013144, "Script Lolking hub", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Lolking%20hub466.lua", "https://scriptblox.com/script/Grimoires-Era-RELEASE-Script-Lolking-hub-10314")
+                                    

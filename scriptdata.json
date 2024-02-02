@@ -38686,5 +38686,23 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Script Lolking hub": {
+        "origin": "https://scriptblox.com/script/Grimoires-Era-RELEASE-Script-Lolking-hub-10314",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Lolking%20hub466.lua",
+        "author": "Uploaded by Christopher_YT on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "14115013144",
+        "game": true
+    },
+    "Rinx Hub": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-Rinx-Hub-10316",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinx%20Hub971.lua",
+        "author": "Uploaded by ItsYaBoiRayRay on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }

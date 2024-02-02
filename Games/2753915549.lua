@@ -778,3 +778,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Fully Automatic Level Autofarm", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fully%20Automatic%20Level%20Autofarm275.lua", "https://scriptblox.com/script/Blox-Fruits-Fully-Automatic-Level-Autofarm-10311")
                                     
+    addscriptexist(2753915549, "Rinx Hub", "Uploaded by ItsYaBoiRayRay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinx%20Hub971.lua", "https://scriptblox.com/script/Blox-Fruits-Rinx-Hub-10316")
+                                    
