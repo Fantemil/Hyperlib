@@ -38720,5 +38720,21 @@
         "universal": true,
         "hub": false,
         "game": false
+    },
+    "Codex Executor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Codex-Executor-10321",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Codex%20Executor689.lua",
+        "author": "Uploaded by AlysseTeam on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Trigon Executor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Trigon-Executor-10320",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trigon%20Executor95.lua",
+        "author": "Uploaded by AlysseTeam on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
