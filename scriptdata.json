@@ -38678,5 +38678,13 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "Dex V2": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Dex-V2-10310",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dex%20V2753.lua",
+        "author": "Uploaded by tycoonman95 on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
