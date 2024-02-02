@@ -38704,5 +38704,21 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "ECCS V3": {
+        "origin": "https://scriptblox.com/script/Universal-Script-ECCS-V3-10317",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ECCS%20V3825.lua",
+        "author": "Uploaded by ERROR_CODE on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
+    },
+    "Delta X Executor": {
+        "origin": "https://scriptblox.com/script/Universal-Script-Delta-X-Executor-10319",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delta%20X%20Executor62.lua",
+        "author": "Uploaded by AlysseTeam on scriptblox.com",
+        "universal": true,
+        "hub": false,
+        "game": false
     }
 }
