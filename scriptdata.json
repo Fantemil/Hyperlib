@@ -38669,5 +38669,14 @@
         "hub": false,
         "gameid": "2753915549",
         "game": true
+    },
+    "fruit": {
+        "origin": "https://scriptblox.com/script/Blox-Fruits-fruit-10312",
+        "gitlink": "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit412.lua",
+        "author": "Uploaded by buiquocbaoybi on scriptblox.com",
+        "universal": false,
+        "hub": false,
+        "gameid": "2753915549",
+        "game": true
     }
 }
