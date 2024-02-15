@@ -981,14 +981,14 @@ StatusSection:NewButton("Copy GitHub Link", "Copies the GitHub Link to your clip
     bigGreenItalicText("Copied GitHub Link to clipboard!")
 end)
 local Keybinds = Window:NewTab("Keybinds")
-local KeybindsSection = Keybinds:NewSection("
+local KeybindsSection = Keybinds:NewSection("Keybinds")
 KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T,
     function()
         Library:ToggleUI()
     end)
 
 local SearchTab = Window:NewTab("Search")
-local SearchSection = SearchTab:NewSection("
+local SearchSection = SearchTab:NewSection("Search Tool")
 local InformationLabel = SearchSection:NewLabel("Information:")
 local InformationLabel1 = SearchSection:NewLabel("All Search Mode are not case sensitive")
 local InformationLabel2 = SearchSection:NewLabel('Tick "Contains" if Script you Search contains Term')
@@ -1144,7 +1144,7 @@ if gamespecific then
                 DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
                 getgenv().QueryTab = Window:NewTab("Query")
 
-                getgenv().QuerySection = QueryTab:NewSection("
+                getgenv().QuerySection = QueryTab:NewSection("Query")
                 local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                     getgenv().QueryTab:RemoveTab()
                     
@@ -1221,7 +1221,7 @@ if gamespecific then
                 end)
                 DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
                 getgenv().QueryTab = Window:NewTab("Query")
-                getgenv().QuerySection = QueryTab:NewSection("
+                getgenv().QuerySection = QueryTab:NewSection("Query")
                 local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                     getgenv().QueryTab:RemoveTab()
                     
@@ -1475,7 +1475,7 @@ local gamehubsearchtextbox = gamehubsearch:NewTextBox("Search", "Search for Scri
             end)
             DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
             getgenv().QueryTab = Window:NewTab("Query")
-            getgenv().QuerySection = QueryTab:NewSection("
+            getgenv().QuerySection = QueryTab:NewSection("Query")
             local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                 getgenv().QueryTab:RemoveTab()
                 
@@ -1728,7 +1728,7 @@ local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for 
             end)
             DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
             getgenv().QueryTab = Window:NewTab("Query")
-            getgenv().QuerySection = QueryTab:NewSection("
+            getgenv().QuerySection = QueryTab:NewSection("Query")
             local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                 getgenv().QueryTab:RemoveTab()
                 
