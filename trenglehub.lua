@@ -508,7 +508,7 @@ sortHubs()
 
 
 getgenv().generalscripts = Window:NewTab("Universal")
-getgenv().generalscriptssection = generalscripts:NewSection("
+getgenv().generalscriptssection = generalscripts:NewSection("Universal Scripts")
 getgenv().generalscriptsinformation = generalscriptssection:NewLabel("Doesnt need to be loaded, for searching!")
 getgenv().generalscriptsallloaded = false
 getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universal Scripts", "Loads all Universal Scripts",
@@ -581,7 +581,7 @@ getgenv().generalload = getgenv().generalscriptssection:NewButton("Load Universa
     end)
 
 getgenv().gamehubs = Window:NewTab("Game Hubs")
-getgenv().gamehubsection = gamehubs:NewSection("
+getgenv().gamehubsection = gamehubs:NewSection("Game Hub Scripts")
 getgenv().gamehubinformation = gamehubsection:NewLabel("Doesnt need to be loaded, for searching!")
 getgenv().hubload = getgenv().gamehubsection:NewButton("Load Game Hubs", "Loads all Game Hubs", function()
     spawn(function()
@@ -747,7 +747,7 @@ if success then
     
     getgenv().gamescripttab = Window:NewTab(getgenv().gamescripts.gamename)
     
-    getgenv().gamescriptsection = gamescripttab:NewSection("
+    getgenv().gamescriptsection = gamescripttab:NewSection("Scripts")
     
     for i, v in pairs(getgenv().gamescripts.allscripts) do
         getgenv().gamescriptsection:NewLabel(v.title)
@@ -849,7 +849,7 @@ pcall(function()
 end)
 
 getgenv().ExploitManager = Window:NewTab("GUI Manager")
-getgenv().ExploitManagerSection = ExploitManager:NewSection("
+getgenv().ExploitManagerSection = ExploitManager:NewSection("GUI Manager")
 getgenv().ExploitManagerInformation = ExploitManagerSection:NewLabel("You can kill other Exploit GUIs here")
 getgenv().ExploitManagerKillAll = ExploitManagerSection:NewButton("Kill all Exploit GUIs",
     "Kills all GUIs that were made after the execution of Hyperlib", function()
@@ -967,7 +967,7 @@ spawn(function()
     end
 end)
 Statstab = Window:NewTab("Informations")
-local StatusSection = Statstab:NewSection("
+local StatusSection = Statstab:NewSection("Informations")
 StatusSection:NewLabel("Last Update: " .. formatTimeForUser(lastupdate))
 StatusSection:NewLabel("Script Version: " .. version)
 StatusSection:NewButton("Copy Link to Discord Server", "Copies the Discord Server Link to your clipboard", function()
@@ -1065,7 +1065,7 @@ if gamespecific then
                 DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
                 getgenv().QueryTab = Window:NewTab("Query")
 
-                getgenv().QuerySection = QueryTab:NewSection("
+                getgenv().QuerySection = QueryTab:NewSection("Query")
                 local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                     getgenv().QueryTab:RemoveTab()
                     
@@ -1321,7 +1321,7 @@ local gamehubsearchtextbox = gamehubsearch:NewTextBox("Search", "Search for Scri
             end)
             DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
             getgenv().QueryTab = Window:NewTab("Query")
-            getgenv().QuerySection = QueryTab:NewSection("
+            getgenv().QuerySection = QueryTab:NewSection("Query")
             local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                 getgenv().QueryTab:RemoveTab()
                 
@@ -1398,7 +1398,7 @@ local gamehubsearchtextbox = gamehubsearch:NewTextBox("Search", "Search for Scri
             end)
             DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
             getgenv().QueryTab = Window:NewTab("Query")
-            getgenv().QuerySection = QueryTab:NewSection("
+            getgenv().QuerySection = QueryTab:NewSection("Query")
             local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                 getgenv().QueryTab:RemoveTab()
                 
@@ -1574,7 +1574,7 @@ local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for 
             end)
             DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
             getgenv().QueryTab = Window:NewTab("Query")
-            getgenv().QuerySection = QueryTab:NewSection("
+            getgenv().QuerySection = QueryTab:NewSection("Query")
             local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                 getgenv().QueryTab:RemoveTab()
                 
@@ -1651,7 +1651,7 @@ local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for 
             end)
             DisplayWindowMessage("Found " .. #results .. " Results! View in Query Tab!")
             getgenv().QueryTab = Window:NewTab("Query")
-            getgenv().QuerySection = QueryTab:NewSection("
+            getgenv().QuerySection = QueryTab:NewSection("Query")
             local DeleteQueryTab = QuerySection:NewButton("Delete Query", "Deletes the Query Tab", function()
                 getgenv().QueryTab:RemoveTab()
                 
