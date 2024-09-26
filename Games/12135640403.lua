@@ -12,3 +12,5 @@
                                     
     addscriptexist(12135640403, "Killaura", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killaura86.lua", "https://scriptblox.com/script/NEW-SEASSIONAnime-Dungeon-Fighters-Killaura-19035")
                                     
+    addscriptexist(12135640403, "SCRIPT KILL AURA OP pvp boss inf and more", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20KILL%20AURA%20OP%20pvp%20boss%20inf%20and%20more623.lua", "https://scriptblox.com/script/NEW-SEASSIONAnime-Dungeon-Fighters-SCRIPT-KILL-AURA-OP-pvp-boss-inf-and-more-19067")
+                                    

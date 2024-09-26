@@ -342,3 +342,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Phantasm V2", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantasm%20V2533.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Phantasm-V2-19028")
                                     
+    addscriptexist(10449761463, "Kadehub for", "Uploaded by lazoyeison13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kadehub%20for649.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Kadehub-for-19064")
+                                    

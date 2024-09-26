@@ -172,3 +172,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Bed Wars Best Script GodSpolit", "Uploaded by versez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bed%20Wars%20Best%20Script%20GodSpolit252.lua", "https://scriptblox.com/script/BedWars-INFECTED-Bed-Wars-Best-Script-GodSpolit-11802")
                                     
+    addscriptexist(6872265039, "Script SOLARA", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20SOLARA436.lua", "https://scriptblox.com/script/BedWars-TOURNAMENTS!-Script-SOLARA-19066")
+                                    
