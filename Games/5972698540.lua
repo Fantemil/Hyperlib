@@ -12,3 +12,5 @@ addscriptexist(5972698540, "Txxicu Scripts", "Uploaded by txxicu on scriptblox.c
                                     
     addscriptexist(5972698540, "Fe touch all stairs Remake", "Uploaded by GoldenCheats on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20touch%20all%20stairs%20Remake54.lua", "https://scriptblox.com/script/Easy-Obby-Fe-touch-all-stairs-Remake-19041")
                                     
+    addscriptexist(5972698540, "OPEN SOURCE TP to every stage in 1 second", "Uploaded by hi_grind on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20TP%20to%20every%20stage%20in%201%20second607.lua", "https://scriptblox.com/script/Easy-Obby-OPEN-SOURCE-TP-to-every-stage-in-1-second-19057")
+                                    
