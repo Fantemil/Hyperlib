@@ -1,0 +1,2 @@
+
+    addscript(11108419601, "Current Game","Rdite Script", "Uploaded by D1amond on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rdite%20Script499.lua", "https://scriptblox.com/script/Slide-Into-Rdite!-Rdite-Script-19070")
