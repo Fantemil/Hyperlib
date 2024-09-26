@@ -374,3 +374,11 @@ addscriptexist(2788229376, "ZeusDotCC Paid", "Uploaded by ZeusBladi on scriptblo
                                 
 addscriptexist(2788229376, "Premium Alt Control", "Uploaded by rakungowo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Premium%20Alt%20Control926.lua", "https://scriptblox.com/script/Da-Hood-Premium-Alt-Control-6316")
                                 
+    addscriptexist(2788229376, "nukerHub", "Uploaded by Allvideo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nukerHub851.lua", "https://scriptblox.com/script/Da-Hood-RUBY!-nukerHub-13197")
+                                    
+    addscriptexist(2788229376, "Primordial noob", "Uploaded by Hydra_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Primordial%20noob421.lua", "https://scriptblox.com/script/Da-Hood-RUBY!-primordial-12906")
+                                    
+    addscriptexist(2788229376, "GAME REMOVED EGGS EGG FARM", "Uploaded by Zinc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GAME%20REMOVED%20EGGS%20EGG%20FARM244.lua", "https://scriptblox.com/script/Da-Hood-NEW-GUN!-EGG-FARM-11946")
+                                    
+    addscriptexist(2788229376, "UPTED NO KEY SYSTEM Zinc Hub", "Uploaded by Zinc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPTED%20NO%20KEY%20SYSTEM%20Zinc%20Hub269.lua", "https://scriptblox.com/script/Da-Hood-UPTED-Zinc-Hub-10720")
+                                    

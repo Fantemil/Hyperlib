@@ -1,0 +1,2 @@
+
+    addscript(16983474402, "Current Game","Kingdom    Script", "Uploaded by Lauty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kingdom%20%20%20%20Script756.lua", "https://scriptblox.com/script/Prota-Kingdom:-Open-World-Action-Kingdom-Script-15872")

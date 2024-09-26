@@ -136,3 +136,141 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Melee Hub V1", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melee%20Hub%20V1312.lua", "https://scriptblox.com/script/Arsenal-Melee-Hub-V1-9739")
                                     
+    addscriptexist(286090429, "Universal Script", "Uploaded by CurseOfDarkness on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Script808.lua", "https://scriptblox.com/script/Arsenal-Universal-FPS-Script-17894")
+                                    
+    addscriptexist(286090429, "Patched reason aimbot is not working", "Uploaded by Scriptblox_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Patched%20reason%20aimbot%20is%20not%20working850.lua", "https://scriptblox.com/script/Arsenal-GUI-17808")
+                                    
+    addscriptexist(286090429, "Null Hub AR", "Uploaded by Null7331 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Null%20Hub%20AR885.lua", "https://scriptblox.com/script/Arsenal-Null-Hub-17193")
+                                    
+    addscriptexist(286090429, "cris123452 script", "Uploaded by anwarmathly6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cris123452%20script713.lua", "https://scriptblox.com/script/Arsenal-cris123452-script-14039")
+                                    
+    addscriptexist(286090429, "leghub script support solara", "Uploaded by solara_user on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/leghub%20script%20support%20solara971.lua", "https://scriptblox.com/script/Arsenal-leghub-script-support-solara-17779")
+                                    
+    addscriptexist(286090429, "Auto Get All Badges for Classic Event", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Get%20All%20Badges%20for%20Classic%20Event211.lua", "https://scriptblox.com/script/Arsenal-Auto-Get-All-Badges-for-Classic-Event-13292")
+                                    
+    addscriptexist(286090429, "Super OP Script        I Works on solara I", "Uploaded by Paprolord on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20OP%20Script%20%20%20%20%20%20%20%20I%20Works%20on%20solara%20I116.lua", "https://scriptblox.com/script/Arsenal-Super-OP-Script-I-Works-on-solara-I-15328")
+                                    
+    addscriptexist(286090429, "CASH HUB  aimbot BEST ONE SOLARA SUPPORTED", "Uploaded by cashy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CASH%20HUB%20%20aimbot%20BEST%20ONE%20SOLARA%20SUPPORTED994.lua", "https://scriptblox.com/script/Arsenal-CASH-HUB-AIMBOT-14980")
+                                    
+    addscriptexist(286090429, "thunder client v2", "Uploaded by Verrixuz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/thunder%20client%20v2479.lua", "https://scriptblox.com/script/Arsenal-thunder-client-v2-14004")
+                                    
+    addscriptexist(286090429, "Autofarm AR", "Uploaded by Null7331 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20AR107.lua", "https://scriptblox.com/script/Arsenal-Autofarm-17198")
+                                    
+    addscriptexist(286090429, "OSS Hub", "Uploaded by Primelus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OSS%20Hub590.lua", "https://scriptblox.com/script/Arsenal-OSS-Hub-17466")
+                                    
+    addscriptexist(286090429, "RInoware", "Uploaded by Etiss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RInoware882.lua", "https://scriptblox.com/script/Arsenal-RInoware-10595")
+                                    
+    addscriptexist(286090429, "x Ro free premium", "Uploaded by nokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/x%20Ro%20free%20premium475.lua", "https://scriptblox.com/script/Arsenal-xro-free-premium-18144")
+                                    
+    addscriptexist(286090429, "Thunder Client Lite", "Uploaded by Luka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20Lite332.lua", "https://scriptblox.com/script/Arsenal-Thunder-Client-Lite-17674")
+                                    
+    addscriptexist(286090429, "MySploit", "Uploaded by thaibao7444 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MySploit696.lua", "https://scriptblox.com/script/Arsenal-MySploit-17577")
+                                    
+    addscriptexist(286090429, "Silent Aim and Esp", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20and%20Esp267.lua", "https://scriptblox.com/script/Arsenal-Silent-Aim-and-Esp-10747")
+                                    
+    addscriptexist(286090429, "WUHAZ HUB NO RECOIL INF AMMO SHOOTS LIGHT SPEED BULLETS", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WUHAZ%20HUB%20NO%20RECOIL%20INF%20AMMO%20SHOOTS%20LIGHT%20SPEED%20BULLETS750.lua", "https://scriptblox.com/script/Arsenal-WUHAZ-HUB-NO-RECOIL-INF-AMMO-SHOOTS-LIGHT-SPEED-BULLETS-14978")
+                                    
+    addscriptexist(286090429, "Thunder Client For Solara", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20For%20Solara104.lua", "https://scriptblox.com/script/Arsenal-Thunder-Client-For-Solara-13092")
+                                    
+    addscriptexist(286090429, "ArsAimbot SOLARA", "Uploaded by TomExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsAimbot%20SOLARA513.lua", "https://scriptblox.com/script/Arsenal-*Aimbot-SOLARA-15376")
+                                    
+    addscriptexist(286090429, "Nscripts UPDATE", "Uploaded by powerscripts9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nscripts%20UPDATE480.lua", "https://scriptblox.com/script/Arsenal-Nscripts-UPDATE-17929")
+                                    
+    addscriptexist(286090429, "Script Suport Solara Executor", "Uploaded by Near on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Suport%20Solara%20Executor796.lua", "https://scriptblox.com/script/Arsenal-Script-Suport-Solara-Executor-12984")
+                                    
+    addscriptexist(286090429, "KILL EVERYONE", "Uploaded by bla22lols on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20EVERYONE696.lua", "https://scriptblox.com/script/Arsenal-KILL-EVERYONE-15408")
+                                    
+    addscriptexist(286090429, "Tbao hub", "Uploaded by imakescripts9999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20hub221.lua", "https://scriptblox.com/script/THE-GAMES-Arsenal-Tbao-hub-16897")
+                                    
+    addscriptexist(286090429, "PWNERS V3", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PWNERS%20V3918.lua", "https://scriptblox.com/script/Arsenal-PWNERS-V3-11120")
+                                    
+    addscriptexist(286090429, "Roblox  the game script", "Uploaded by Bacontohgod2020lol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20the%20game%20script826.lua", "https://scriptblox.com/script/THE-GAMES-Arsenal-Roblox-the-game-script-16682")
+                                    
+    addscriptexist(286090429, "Quotas hub", "Uploaded by Snooz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quotas%20hub106.lua", "https://scriptblox.com/script/Arsenal-Quotas-hub-17893")
+                                    
+    addscriptexist(286090429, "Klan a powerful fps bot", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Klan%20a%20powerful%20fps%20bot168.lua", "https://scriptblox.com/script/Arsenal-Klan-a-powerful-fps-bot-15750")
+                                    
+    addscriptexist(286090429, "The Hunt", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hunt640.lua", "https://scriptblox.com/script/Arsenal-The-Hunt-11291")
+                                    
+    addscriptexist(286090429, "AimLock Script", "Uploaded by Minecraft__Rose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimLock%20Script692.lua", "https://scriptblox.com/script/Arsenal-AimLock-script-for-13789")
+                                    
+    addscriptexist(286090429, "ScytheSploits", "Uploaded by CallMeJp3zc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSploits99.lua", "https://scriptblox.com/script/Arsenal-ScytheSploits-18749")
+                                    
+    addscriptexist(286090429, "Script By Bone", "Uploaded by boneb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20By%20Bone490.lua", "https://scriptblox.com/script/Arsenal-Script-By-Bone-14326")
+                                    
+    addscriptexist(286090429, "Lightning Hub V2", "Uploaded by Bacontohgod2020lol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lightning%20Hub%20V2821.lua", "https://scriptblox.com/script/THE-GAMES-Arsenal-Lightning-Hub-V2-16703")
+                                    
+    addscriptexist(286090429, "MySploit open source", "Uploaded by thaibao7444 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MySploit%20open%20source437.lua", "https://scriptblox.com/script/Arsenal-MySploit-17608")
+                                    
+    addscriptexist(286090429, "Uraset", "Uploaded by YoBoyGhost on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Uraset598.lua", "https://scriptblox.com/script/Arsenal-Uraset-13134")
+                                    
+    addscriptexist(286090429, "Sanity WTF", "Uploaded by jaysterrz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sanity%20WTF550.lua", "https://scriptblox.com/script/Arsenal-Sanity-WTF-17930")
+                                    
+    addscriptexist(286090429, "Voice Pack changer", "Uploaded by nbamwyd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Voice%20Pack%20changer705.lua", "https://scriptblox.com/script/Arsenal-Voice-Pack-changer-16179")
+                                    
+    addscriptexist(286090429, "THE GAMES ROBLOX  UPDATED", "Uploaded by Bacontohgod2020lol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20GAMES%20ROBLOX%20%20UPDATED257.lua", "https://scriptblox.com/script/THE-GAMES-Arsenal-THE-GAMES-ROBLOX-UPDATED-16704")
+                                    
+    addscriptexist(286090429, "tbao hub not mine", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tbao%20hub%20not%20mine422.lua", "https://scriptblox.com/script/Arsenal-tbao-hub-not-mine-12310")
+                                    
+    addscriptexist(286090429, "Script SOLARA", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20SOLARA690.lua", "https://scriptblox.com/script/Arsenal-Script-SOLARA-18585")
+                                    
+    addscriptexist(286090429, "ARLUA HUB", "Uploaded by Guizzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARLUA%20HUB926.lua", "https://scriptblox.com/script/Arsenal-ARLUA-HUB-12785")
+                                    
+    addscriptexist(286090429, "Darkrai X AR", "Uploaded by Null7331 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkrai%20X%20AR229.lua", "https://scriptblox.com/script/Arsenal-Darkrai-X-AR-17268")
+                                    
+    addscriptexist(286090429, "Best WORKING Script OP GUI", "Uploaded by bxnksscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20WORKING%20Script%20OP%20GUI773.lua", "https://scriptblox.com/script/THE-GAMES-Arsenal-Best-WORKING-Script-OP-GUI-17001")
+                                    
+    addscriptexist(286090429, "OP fps bot MOBILE SUPPORT", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20fps%20bot%20MOBILE%20SUPPORT275.lua", "https://scriptblox.com/script/Arsenal-OP-fps-bot-MOBILE-SUPPORT-17092")
+                                    
+    addscriptexist(286090429, "Slient Aim Work In Solara And Other Executor", "Uploaded by ansitdeptrai on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slient%20Aim%20Work%20In%20Solara%20And%20Other%20Executor799.lua", "https://scriptblox.com/script/Arsenal-Aimbot-Work-In-Solara-And-Other-Executor-13868")
+                                    
+    addscriptexist(286090429, "ArsenHub", "Uploaded by 7kick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArsenHub311.lua", "https://scriptblox.com/script/Arsenal-ArsenHub-12987")
+                                    
+    addscriptexist(286090429, "Arctic FE Bypass  Free", "Uploaded by ROZXINO_OFFICIAL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arctic%20FE%20Bypass%20%20Free700.lua", "https://scriptblox.com/script/Arsenal-Arctic-FE-Bypass-Free-13930")
+                                    
+    addscriptexist(286090429, "MidnightCC", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MidnightCC912.lua", "https://scriptblox.com/script/Arsenal-MidnightCC-14989")
+                                    
+    addscriptexist(286090429, "Thunder Client V2", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20V2120.lua", "https://scriptblox.com/script/Arsenal-Thunder-Client-V2-12177")
+                                    
+    addscriptexist(286090429, "Sanity  X", "Uploaded by sxth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sanity%20%20X716.lua", "https://scriptblox.com/script/Arsenal-Sanity-X-14329")
+                                    
+    addscriptexist(286090429, "Quotas Hub", "Uploaded by adumbanimator on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quotas%20Hub926.lua", "https://scriptblox.com/script/Arsenal-Quotas-Hub-18725")
+                                    
+    addscriptexist(286090429, "Aimbot and inf armmo", "Uploaded by Master on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20and%20inf%20armmo489.lua", "https://scriptblox.com/script/Arsenal-Aimbot-and-inf-armmo-12822")
+                                    
+    addscriptexist(286090429, "midnightcc", "Uploaded by Whispary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/midnightcc895.lua", "https://scriptblox.com/script/Arsenal-midnightcc-amazing-script-14150")
+                                    
+    addscriptexist(286090429, "awesome wtf BETA", "Uploaded by 69420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/awesome%20wtf%20BETA743.lua", "https://scriptblox.com/script/Arsenal-awesome-wtf-BETA-17606")
+                                    
+    addscriptexist(286090429, "AdvanceTech Open Source", "Uploaded by YellowGreg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AdvanceTech%20Open%20Source285.lua", "https://scriptblox.com/script/Arsenal-AdvanceTech-15410")
+                                    
+    addscriptexist(286090429, "OneTap Beta", "Uploaded by kunakbaevaidar26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OneTap%20Beta47.lua", "https://scriptblox.com/script/Arsenal-OneTap-Beta-18964")
+                                    
+    addscriptexist(286090429, "ThaiBaoHuB", "Uploaded by Nubbihax on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThaiBaoHuB823.lua", "https://scriptblox.com/script/Arsenal-ThaiBaoHuB-17665")
+                                    
+    addscriptexist(286090429, "Thunder Client V2 Best Script", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20V2%20Best%20Script784.lua", "https://scriptblox.com/script/Arsenal-Thunder-Client-V2-Best-Script-10673")
+                                    
+    addscriptexist(286090429, "Sanity wtf", "Uploaded by frostoffpercs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sanity%20wtf705.lua", "https://scriptblox.com/script/Arsenal-Sanity-wtf-14676")
+                                    
+    addscriptexist(286090429, "Arson", "Uploaded by DIZZY_Productions on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Arson175.lua", "https://scriptblox.com/script/Arsenal-Arson-14578")
+                                    
+    addscriptexist(286090429, "hhhh3277", "Uploaded by darrenking777777 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hhhh327777.lua", "https://scriptblox.com/script/Arsenal-hhhh3277-15842")
+                                    
+    addscriptexist(286090429, "ARSON", "Uploaded by ts2021 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARSON930.lua", "https://scriptblox.com/script/Arsenal-ARSON-14498")
+                                    
+    addscriptexist(286090429, "X SanityWTF", "Uploaded by jaydennvx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20SanityWTF300.lua", "https://scriptblox.com/script/Arsenal-X-SanityWTF-16279")
+                                    
+    addscriptexist(286090429, "quotos hub", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/quotos%20hub420.lua", "https://scriptblox.com/script/Arsenal-quotos-hub-14931")
+                                    
+    addscriptexist(286090429, "Klan FPS BOT", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Klan%20FPS%20BOT138.lua", "https://scriptblox.com/script/THE-GAMES-Arsenal-Klan-FPS-BOT-17059")
+                                    
+    addscriptexist(286090429, "X Ro  Solara Supported", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20Ro%20%20Solara%20Supported885.lua", "https://scriptblox.com/script/Arsenal-X-Ro-Solara-Supported-18137")
+                                    
+    addscriptexist(286090429, "Hax beta", "Uploaded by Zenazastupnevic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hax%20beta378.lua", "https://scriptblox.com/script/Arsenal-Hax-beta-15188")
+                                    
+    addscriptexist(286090429, "NoInvite SOLARA SUPPORT", "Uploaded by Whiteones on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoInvite%20SOLARA%20SUPPORT775.lua", "https://scriptblox.com/script/Arsenal-NoInvite-SOLARA-SUPPORT-13751")
+                                    
+    addscriptexist(286090429, "Void hub WORKS WITH SOLARA", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20hub%20WORKS%20WITH%20SOLARA966.lua", "https://scriptblox.com/script/Arsenal-Void-hub-WORKS-WITH-SOLARA-15178")
+                                    
+    addscriptexist(286090429, "Mysploit", "Uploaded by LitSobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mysploit920.lua", "https://scriptblox.com/script/Arsenal-Mysploit-14267")
+                                    

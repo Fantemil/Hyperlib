@@ -1,0 +1,2 @@
+
+    addscript(16507039444, "Current Game","Cat Fan Club UNPATCHED", "Uploaded by supercoolboi34 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cat%20Fan%20Club%20UNPATCHED988.lua", "https://scriptblox.com/script/UPD-2-Anime-Slots-cat-fan-club-script-12157")

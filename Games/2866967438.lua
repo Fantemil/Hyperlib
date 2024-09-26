@@ -12,3 +12,5 @@ addscriptexist(2866967438, "Fishing Simulator Script", "Uploaded by Reddy on rsc
                                 
 addscriptexist(2866967438, " KHub  UPDATED  Fishing Simulator Ultimate Script Working  2023  AutoFarm", "Uploaded by Kekn9ne on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20KHub%20%20UPDATED%20%20Fishing%20Simulator%20Ultimate%20Script%20Working%20%202023%20%20AutoFarm408.lua", "https://rscripts.net/script/khub-updated-fishing-simulator-ultimate-script-working-2023-auto-farm-3504")
                                 
+    addscriptexist(2866967438, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2405.lua", "https://scriptblox.com/script/(VALENTINES)-Fishing-Simulator-Demonic-HUB-V2-10732")
+                                    

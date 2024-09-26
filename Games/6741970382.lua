@@ -4,3 +4,7 @@ addscript(6741970382, "Current Game","Zmod OPEN SOURCE", "Uploaded by MrRonak on
                                 
     addscriptexist(6741970382, "ZLab X", "Uploaded by farge_goty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZLab%20X563.lua", "https://scriptblox.com/script/Zombie-lab-Z-X-3334")
                                 
+    addscriptexist(6741970382, "ZL Script NEW", "Uploaded by Baconhack_26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZL%20Script%20NEW290.lua", "https://scriptblox.com/script/Zombie-lab-100M-visits-script-14277")
+                                    
+    addscriptexist(6741970382, "FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20kill%20all%20script88.lua", "https://scriptblox.com/script/Zombie-lab-100M-visits-FE-kill-all-script-14532")
+                                    

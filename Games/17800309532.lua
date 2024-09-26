@@ -1,0 +1,2 @@
+
+    addscript(17800309532, "Current Game","Script", "Uploaded by Idontkno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script29.lua", "https://scriptblox.com/script/Voice-Control-(Voice-Control-Obby)-Script-15217")

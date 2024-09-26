@@ -1,0 +1,2 @@
+
+    addscript(17524285289, "Current Game","EPIC HUB Support Solara Now WORKING", "Uploaded by BKmD_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EPIC%20HUB%20Support%20Solara%20Now%20WORKING882.lua", "https://scriptblox.com/script/UPD-Scythe-Simulator-EPIC-HUB-Support-Solara-Now-WORKING-14384")

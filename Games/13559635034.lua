@@ -1,0 +1,2 @@
+
+    addscript(13559635034, "Current Game","Kill all opensrc", "Uploaded by validspec on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20all%20opensrc511.lua", "https://scriptblox.com/script/Combat-Initiation:-Rocket-Arena-Kill-all-opensrc-15705")

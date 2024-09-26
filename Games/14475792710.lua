@@ -1,0 +1,2 @@
+
+    addscript(14475792710, "Current Game","OP Script", "Uploaded by Grinder_TS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script531.lua", "https://scriptblox.com/script/NEW-Dealership-Tycoon-Cars!-OP-Script-14764")

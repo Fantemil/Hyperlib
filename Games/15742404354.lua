@@ -1,0 +1,2 @@
+
+    addscript(15742404354, "Current Game","AutoFarm", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm834.lua", "https://scriptblox.com/script/Parkour-Jumping-Race-AutoFarm-14726")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/Zen-Hub/main/Who's%20the%20Spy%3F"))()

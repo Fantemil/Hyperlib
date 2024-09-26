@@ -24,3 +24,7 @@ addscriptexist(3527629287, "Fazium the new aim solution", "Uploaded by Fazium on
                                 
     addscriptexist(3527629287, "Pikachu Hub x Cyanide Scripts", "Uploaded by FreeUGCS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pikachu%20Hub%20x%20Cyanide%20Scripts199.lua", "https://scriptblox.com/script/BIG-Paintball!-Pikachu-Hub-7831")
                                     
+    addscriptexist(3527629287, "silent aim", "Uploaded by zzzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/silent%20aim490.lua", "https://scriptblox.com/script/BIG-Paintball!-Classic-silent-aim-12232")
+                                    
+    addscriptexist(3527629287, "paintball script", "Uploaded by rescript_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/paintball%20script508.lua", "https://scriptblox.com/script/BIG-Paintball!-Classic-andx1F52B-paintball-script-15905")
+                                    

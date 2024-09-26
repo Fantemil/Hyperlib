@@ -1,0 +1,4 @@
+
+    addscript(12077443856, "Current Game","fornia  FREE KILL ALL AUTOFARM ARREST ALL", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fornia%20%20FREE%20KILL%20ALL%20AUTOFARM%20ARREST%20ALL204.lua", "https://scriptblox.com/script/Cali-Shootout-PLAYSTATION-SUPPORT-fornia-FREE-KILL-ALL-AUTOFARM-ARREST-ALL-18181")
+    addscriptexist(12077443856, "Unbounded Yield", "Uploaded by vcs_xyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unbounded%20Yield493.lua", "https://scriptblox.com/script/Cali-Shootout-PLAYSTATION-SUPPORT-Unbounded-Yield-12947")
+                                    

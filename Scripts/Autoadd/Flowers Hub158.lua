@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ntopy/Flower/main/Rock%20fruit'),true))()

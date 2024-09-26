@@ -1,0 +1,1 @@
+https://link-hub.net/1159688/ro-ghoul-script

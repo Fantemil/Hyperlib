@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollertop/loloulcscript/refs/heads/main/singleplayerautofarm"))();

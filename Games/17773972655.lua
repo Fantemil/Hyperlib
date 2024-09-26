@@ -1,0 +1,2 @@
+
+    addscript(17773972655, "Current Game","Op gui kill all", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20gui%20kill%20all79.lua", "https://scriptblox.com/script/Murder-Your-Friends-NEW-Op-gui-kill-all-16783")

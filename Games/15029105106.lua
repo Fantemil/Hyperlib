@@ -1,0 +1,2 @@
+
+    addscript(15029105106, "Current Game","Get Every Morph", "Uploaded by Orealated on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Every%20Morph28.lua", "https://scriptblox.com/script/FREE-TITAN-Skibidi-Toilet-Roleplay-Get-Every-Morph-13996")

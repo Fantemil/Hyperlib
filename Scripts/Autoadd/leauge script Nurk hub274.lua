@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdouGG/Gym-Leauge/main/V1"))()

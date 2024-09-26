@@ -1,0 +1,2 @@
+
+    addscript(2292818376, "Current Game","Roblox FE kill all scriptFixed", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20FE%20kill%20all%20scriptFixed226.lua", "https://scriptblox.com/script/Realistic-Tank-Simulator-2.0-BETA-Roblox-FE-kill-all-script-16612")

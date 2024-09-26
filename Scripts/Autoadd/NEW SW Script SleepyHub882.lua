@@ -1,0 +1,2 @@
+getgenv()._Key = "" --Join game execute the script, it copies the key link to your clipboard just paste it into your browser
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xenijo/Sleepy/main/Main/Beta.lua"))()

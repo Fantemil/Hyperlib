@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/metalis3z/Lunar/main/LunarV2.lua"))()

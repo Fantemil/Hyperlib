@@ -1,0 +1,2 @@
+
+    addscript(16031309256, "Current Game","Steal Skin", "Uploaded by Registeelix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steal%20Skin579.lua", "https://scriptblox.com/script/Regular-Steal-Skin-17995")

@@ -1,0 +1,2 @@
+
+    addscript(373513488, "Current Game","request", "Uploaded by camro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request588.lua", "https://scriptblox.com/script/FNAF-TPRR-COLLAB-request-13827")

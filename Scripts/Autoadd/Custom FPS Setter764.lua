@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/HtB1526/ArceusX_Scripts/main/Scripts/Flex%20Your%20FPS.lua")("https://t.me/arceusxscripts")

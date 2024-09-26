@@ -1,0 +1,2 @@
+
+    addscript(16635923073, "Current Game","apply aura", "Uploaded by Sinity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/apply%20aura521.lua", "https://scriptblox.com/script/2x-Luck-zee's-RNG-In-dev-apply-aura-IN-WORK-STILL-14074")

@@ -22,3 +22,29 @@ addscript(13775256536, "Current Game","Marco Auto Play", "Uploaded by Muimi on s
                                     
     addscriptexist(13775256536, "Record Macro", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Record%20Macro729.lua", "https://scriptblox.com/script/ENDLESS-MODE-Toilet-Tower-Defense-Record-Macro-10032")
                                     
+    addscriptexist(13775256536, "AutoFarm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20And%20More398.lua", "https://scriptblox.com/script/EP-76-PART-2-Toilet-Tower-Defense-AutoFarm-And-More-16146")
+                                    
+    addscriptexist(13775256536, "Marketplace Scam", "Uploaded by starscream on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Marketplace%20Scam965.lua", "https://scriptblox.com/script/EP-71-Toilet-Tower-Defense-Marketplace-Scam-11073")
+                                    
+    addscriptexist(13775256536, "Skibidi td auto grab eggs the hunt", "Uploaded by Singularity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20td%20auto%20grab%20eggs%20the%20hunt873.lua", "https://scriptblox.com/script/EASTER-EVENT-Toilet-Tower-Defense-Skibidi-td-auto-grab-eggs-the-hunt-11394")
+                                    
+    addscriptexist(13775256536, "Auto Upgrade Auto Skip Wave  Mobile Script", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Upgrade%20Auto%20Skip%20Wave%20%20Mobile%20Script596.lua", "https://scriptblox.com/script/APRIL-FOOLS-Toilet-Tower-Defense-Auto-Upgrade-Auto-Skip-Wave-Mobile-Script-11985")
+                                    
+    addscriptexist(13775256536, "Auto Vote Record Macro", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Vote%20Record%20Macro755.lua", "https://scriptblox.com/script/EP-70-PART-3-Toilet-Tower-Defense-Auto-Vote-Record-Macro-10563")
+                                    
+    addscriptexist(13775256536, "Auto Upgrade and Auto Skip Wave", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Upgrade%20and%20Auto%20Skip%20Wave580.lua", "https://scriptblox.com/script/ST-PATRICKS-Toilet-Tower-Defense-Auto-Upgrade-and-Auto-Skip-Wave-11257")
+                                    
+    addscriptexist(13775256536, "Auto Ubgrade s", "Uploaded by Phoenixxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Ubgrade%20s54.lua", "https://scriptblox.com/script/EASTER-EVENT-Toilet-Tower-Defense-Auto-Ubgrade-s-11528")
+                                    
+    addscriptexist(13775256536, "The Best Op Script Auto Farm", "Uploaded by proxsharkx67 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Op%20Script%20Auto%20Farm492.lua", "https://scriptblox.com/script/EP-74-PART-1-Toilet-Tower-Defense-The-Best-Op-Script-Auto-Farm-14614")
+                                    
+    addscriptexist(13775256536, "Auto farm OP SCRIPT WORKING ON SOLARA", "Uploaded by scripts121212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20OP%20SCRIPT%20WORKING%20ON%20SOLARA434.lua", "https://scriptblox.com/script/EP-74-PART-1-Toilet-Tower-Defense-Auto-farm-OP-SCRIPT-WORKING-ON-SOLARA-14833")
+                                    
+    addscriptexist(13775256536, "Dupe Units", "Uploaded by starscream on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20Units345.lua", "https://scriptblox.com/script/EP-70-PART-3-Toilet-Tower-Defense-Dupe-Units-10635")
+                                    
+    addscriptexist(13775256536, "MACRO SCRIPT FOR CLOCK EVENT", "Uploaded by alterinn6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MACRO%20SCRIPT%20FOR%20CLOCK%20EVENT271.lua", "https://scriptblox.com/script/EP-74-PART-1-Toilet-Tower-Defense-MACRO-SCRIPT-FOR-CLOCK-EVENT-14564")
+                                    
+    addscriptexist(13775256536, "DUPE UNITS AND TRADE SCAM HUB", "Uploaded by znajomy883 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DUPE%20UNITS%20AND%20TRADE%20SCAM%20HUB464.lua", "https://scriptblox.com/script/REWIND-Toilet-Tower-Defense-DUPE-UNITS-AND-TRADE-SCAM-HUB-13802")
+                                    
+    addscriptexist(13775256536, "AUTO GAME MAIN SCRIPT", "Uploaded by znajomy883 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20GAME%20MAIN%20SCRIPT266.lua", "https://scriptblox.com/script/REWIND-Toilet-Tower-Defense-AUTO-GAME-MAIN-SCRIPT-13803")
+                                    

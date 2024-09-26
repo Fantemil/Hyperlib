@@ -1,0 +1,2 @@
+
+    addscript(13250355855, "Current Game","Skibidi Hub", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20Hub465.lua", "https://scriptblox.com/script/Playable-SCPs-Reworked-Skibidi-Hub-Op-Script-insta-kill-all-16896")

@@ -1,0 +1,2 @@
+
+    addscript(13560136243, "Current Game","Suger Bear X", "Uploaded by matvalleyvalues on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Suger%20Bear%20X619.lua", "https://scriptblox.com/script/Official-Russian-Alphabet-Lore-RP-Suger-Bear-X-10952")

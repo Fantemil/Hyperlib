@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hanzakun/Roblox-Scripts/main/Doomspire%20Brickbattle.lua"))()

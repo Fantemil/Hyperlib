@@ -1,0 +1,2 @@
+
+    addscript(15475382342, "Current Game","Inf coins", "Uploaded by Lmao_00 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20coins949.lua", "https://scriptblox.com/script/Get-eaten-by-Freddy-Fazbear-Inf-coins-11618")

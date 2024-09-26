@@ -1,0 +1,2 @@
+
+    addscript(14238596528, "Current Game","script", "Uploaded by wsupgus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script623.lua", "https://scriptblox.com/script/Giga-Mansion-Tycoon-script-17037")

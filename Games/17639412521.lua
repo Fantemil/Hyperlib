@@ -1,0 +1,8 @@
+
+    addscript(17639412521, "Current Game","oneshot all mob", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/oneshot%20all%20mob791.lua", "https://scriptblox.com/script/RE:-XL-(RELEASE)-oneshot-all-mob-14622")
+    addscriptexist(17639412521, "Autofarm all chests and FREE VIP SERVER  works on solara", "Uploaded by Swalii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20all%20chests%20and%20FREE%20VIP%20SERVER%20%20works%20on%20solara964.lua", "https://scriptblox.com/script/RE:-XL-(REVAMP-)-Autofarm-all-chests-and-FREE-VIP-SERVER-15363")
+                                    
+    addscriptexist(17639412521, "Autobuy and Autodelete items so autofarm requiem for example", "Uploaded by Swalii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autobuy%20and%20Autodelete%20items%20so%20autofarm%20requiem%20for%20example576.lua", "https://scriptblox.com/script/RE:-XL-(REVAMP-)-Autobuy-and-Autodelete-items-so-autofarm-requiem-for-example-15368")
+                                    
+    addscriptexist(17639412521, "Autofarm Auto Quest", "Uploaded by PzVIIIMaus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Auto%20Quest194.lua", "https://scriptblox.com/script/RE:-XL-(RELEASE)-Autofarm-Auto-Quest-14805")
+                                    

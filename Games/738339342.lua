@@ -18,3 +18,5 @@ addscriptexist(738339342, "GUI V3 remake", "Uploaded by Ruinins on scriptblox.co
                                 
 addscriptexist(738339342, "fe gui v3", "Uploaded by antoniotemjordan877 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20gui%20v3244.lua", "https://scriptblox.com/script/ANNIVERSARY!-Flood-Escape-2-fe-gui-v3-8378")
                                 
+    addscriptexist(738339342, "WAVES x FASTEST FE AUTOFARM", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WAVES%20x%20FASTEST%20FE%20AUTOFARM924.lua", "https://scriptblox.com/script/ABANDONED-HARBOUR-Flood-Escape-2-WAVES-x-FASTEST-FE-AUTOFARM-11219")
+                                    

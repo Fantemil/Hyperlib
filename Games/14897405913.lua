@@ -4,3 +4,7 @@
                                     
     addscriptexist(14897405913, "Free script", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20script187.lua", "https://scriptblox.com/script/UPD-Lumberjack-Simulator-Free-script-10232")
                                     
+    addscriptexist(14897405913, "the hunt   autofarm", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/the%20hunt%20%20%20autofarm58.lua", "https://scriptblox.com/script/Lumberjack-Simulator-the-hunt-autofarm-11315")
+                                    
+    addscriptexist(14897405913, "Auto Rebirth", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rebirth422.lua", "https://scriptblox.com/script/Lumberjack-Simulator-Auto-Rebirth-11497")
+                                    

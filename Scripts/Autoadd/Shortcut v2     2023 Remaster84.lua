@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Tech-187/Lua-scripts/main/Shortcut__v2_src2.lua'),true))()

@@ -1,0 +1,2 @@
+
+    addscript(12061127, "Current Game","Get Badge", "Uploaded by IMakeBestScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Badge258.lua", "https://scriptblox.com/script/The-Simpsons-Escape-Jail-Obby!-Get-Badge-16640")

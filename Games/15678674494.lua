@@ -1,0 +1,2 @@
+
+    addscript(15678674494, "Current Game","Azura X3 Hub  1 Game ", "Uploaded by xootzie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azura%20X3%20Hub%20%201%20Game%20819.lua", "https://scriptblox.com/script/W.I.P-or-Voice-Vortex-New-t-2024-Auto-Obby-11097")

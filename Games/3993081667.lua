@@ -1,0 +1,2 @@
+
+    addscript(3993081667, "Current Game","auto complete", "Uploaded by trellurr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20complete3.lua", "https://scriptblox.com/script/THE-IMPOSSIBLE-OBBY-auto-complete-14598")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-CUSTOMIZATION-DRIFT-RNG/refs/heads/main/Op%20script"))()

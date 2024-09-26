@@ -1,0 +1,2 @@
+
+    addscript(2882332175, "Current Game","autofarm", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm564.lua", "https://scriptblox.com/script/be-dead-forever-simulator-simple-autofarm-10688")

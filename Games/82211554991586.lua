@@ -1,0 +1,2 @@
+
+    addscript(82211554991586, "Current Game","Inf money insta kill and much more", "Uploaded by ItsNotTomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money%20insta%20kill%20and%20much%20more262.lua", "https://scriptblox.com/script/NEW-CODE-Project-Polaro-Inf-money-insta-kill-and-much-more-17692")

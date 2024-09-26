@@ -1,0 +1,1 @@
+require(game.ReplicatedStorage.Notification).new("<Color=White>New title unlocked: Equal to the Heavens<Color=/>"):Display()

@@ -1,0 +1,4 @@
+
+    addscript(18657277219, "Current Game","Place Unit Mobile", "Uploaded by RipMasterRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Place%20Unit%20Mobile7.lua", "https://scriptblox.com/script/EP-77-PART-1-Camera-Tower-Defense-Reborn-Place-Unit-Mobile-or-Solara-17096")
+    addscriptexist(18657277219, "Place Units In The Game", "Uploaded by RipMasterRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Place%20Units%20In%20The%20Game931.lua", "https://scriptblox.com/script/ASTRO-Camera-Tower-Defense-Reborn-All-Free-Units-16885")
+                                    

@@ -20,3 +20,23 @@ addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com
                                     
     addscriptexist(1240123653, "Dsc Mike", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20Mike247.lua", "https://scriptblox.com/script/Zombie-Attack-Dsc-Mike-10257")
                                     
+    addscriptexist(1240123653, "RylorHub Autofarm", "Uploaded by xkyxal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RylorHub%20Autofarm633.lua", "https://scriptblox.com/script/Zombie-Attack-LynethHub-Autofarm-15923")
+                                    
+    addscriptexist(1240123653, "Open Source Script PROJETO LKB", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20Script%20PROJETO%20LKB741.lua", "https://scriptblox.com/script/Zombie-Attack-Open-Source-Script-PROJETO-LKB-17628")
+                                    
+    addscriptexist(1240123653, "Projeto LKB I Update", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20LKB%20I%20Update974.lua", "https://scriptblox.com/script/Zombie-Attack-Projeto-LKB-I-Update-17631")
+                                    
+    addscriptexist(1240123653, "script named meow", "Uploaded by districtora9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20named%20meow818.lua", "https://scriptblox.com/script/Zombie-Attack-script-named-meow-17755")
+                                    
+    addscriptexist(1240123653, "Auto farm", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm983.lua", "https://scriptblox.com/script/Zombie-Attack-Auto-farm-10748")
+                                    
+    addscriptexist(1240123653, "FIXED Etronix", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIXED%20Etronix15.lua", "https://scriptblox.com/script/Zombie-Attack-Etronix-16485")
+                                    
+    addscriptexist(1240123653, "Etronix Hub", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etronix%20Hub170.lua", "https://scriptblox.com/script/Zombie-Attack-Etronix-Hub-15455")
+                                    
+    addscriptexist(1240123653, "OP Script", "Uploaded by maggotry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script658.lua", "https://scriptblox.com/script/Zombie-Attack-OP-Script-11752")
+                                    
+    addscriptexist(1240123653, "Kill Aura Autofarm Silent Aim ESPs MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Autofarm%20Silent%20Aim%20ESPs%20MORE545.lua", "https://scriptblox.com/script/Zombie-Attack-Kill-Aura-Autofarm-Silent-Aim-ESPs-MORE-10900")
+                                    
+    addscriptexist(1240123653, "Projeto LKB I New Gen", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20LKB%20I%20New%20Gen975.lua", "https://scriptblox.com/script/Zombie-Attack-Projeto-LKB-I-New-Gen-15535")
+                                    

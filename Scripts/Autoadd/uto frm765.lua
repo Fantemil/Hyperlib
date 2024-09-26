@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KaisGithubD/freakyware3/main/FreakyWare%20Babft%20Obf.lua",true))()

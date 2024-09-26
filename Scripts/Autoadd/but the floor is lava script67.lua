@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/FLOOR-2-DOORS-but-the-floor-is-lava-script-18989"))()

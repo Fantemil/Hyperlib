@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-LINK-OMG-RNG-In-Dev-/main/Op%20script"))()

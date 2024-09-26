@@ -1,0 +1,2 @@
+
+    addscript(15832202930, "Current Game","Place Unit", "Uploaded by RipMasterRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Place%20Unit924.lua", "https://scriptblox.com/script/NEW-Skibidi-Defense-X-Place-Unit-16920")

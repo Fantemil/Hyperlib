@@ -1,0 +1,2 @@
+
+    addscript(16097368264, "Current Game","JmHolidae HUB 15", "Uploaded by jmholidae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JmHolidae%20HUB%2015486.lua", "https://scriptblox.com/script/Cash-Clicker-Julio-Hub-15313")

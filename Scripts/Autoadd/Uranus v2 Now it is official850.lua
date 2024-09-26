@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MangyGuitar/Uranus-V2/main/Uranus-v2.lua'))()

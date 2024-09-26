@@ -1,0 +1,2 @@
+
+    addscript(15910329784, "Current Game","simple auto", "Uploaded by silly_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20auto271.lua", "https://scriptblox.com/script/andx2728FREE-Spin-For-Free!-andx1F911-simple-auto-15849")

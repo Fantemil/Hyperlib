@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SubnauticaLaserMain/API-Deobfuscated/main/API-Updated-To-V5.lua', true))()

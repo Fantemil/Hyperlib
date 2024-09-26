@@ -1,0 +1,2 @@
+
+    addscript(13822562292, "Current Game","AutoFarm", "Uploaded by DarrenWatkinsJr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm690.lua", "https://scriptblox.com/script/6-NEW-CARS!Midnight-Chasers:-Highway-Racing-AutoFarm-13819")

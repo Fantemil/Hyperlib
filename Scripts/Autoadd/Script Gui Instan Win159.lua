@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rah-Md/ScriptBarryPrison/main/Loader.lua"))()

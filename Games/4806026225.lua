@@ -1,2 +1,4 @@
 
 addscript(4806026225, "Current Game","Script AntiAFK Autofarm MOB MULTIPLIE", "Uploaded by kjumelive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20AntiAFK%20Autofarm%20MOB%20MULTIPLIE491.lua", "https://scriptblox.com/script/Defender's-Depot-Tower-Defense-Script-AntiAFK-Autofarm-MOB-MULTIPLIE-4019")
+    addscriptexist(4806026225, "Auto Crates Auto Start Farm", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Crates%20Auto%20Start%20Farm533.lua", "https://scriptblox.com/script/Defender's-Depot-Classic-Tower-Defense-Auto-Crates-Auto-Start-Farm-12385")
+                                    

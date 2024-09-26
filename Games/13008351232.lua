@@ -1,0 +1,2 @@
+
+    addscript(13008351232, "Current Game","Kill aura for the mc copies open src", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20aura%20for%20the%20mc%20copies%20open%20src886.lua", "https://scriptblox.com/script/Minecraft-andx1F600andx1F62Candx1F601andx1F602-Kill-aura-for-the-mc-copies-15764")

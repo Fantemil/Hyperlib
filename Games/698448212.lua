@@ -12,3 +12,13 @@ addscript(698448212, "Current Game","RoBeats Script Autoplay", "Uploaded by Lets
                                 
     addscriptexist(698448212, "Robeats autoplayer", "Uploaded by TRGTJHTKJFYLYUYKMN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robeats%20autoplayer700.lua", "https://scriptblox.com/script/RoBeats!-Music-+-Rhythm-+-RPG-robeats-9134")
                                     
+    addscriptexist(698448212, "Autoplay Script NOT MINE", "Uploaded by woops on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoplay%20Script%20NOT%20MINE875.lua", "https://scriptblox.com/script/THE-GAMES-RoBeats!-Music-+-Rhythm-+-RPG-Robeats-Script-NOT-MINE-16620")
+                                    
+    addscriptexist(698448212, "Robeats Auto Play", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Robeats%20Auto%20Play372.lua", "https://scriptblox.com/script/RoBeats!-Music-+-Rhythm-+-RPG-Robeats-Auto-Play-11640")
+                                    
+    addscriptexist(698448212, "OP Autoplay", "Uploaded by Elinity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autoplay444.lua", "https://scriptblox.com/script/THE-GAMES-RoBeats!-Music-+-Rhythm-+-RPG-OP-Autoplay-17055")
+                                    
+    addscriptexist(698448212, "Autoplayer OP", "Uploaded by wokhard213 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoplayer%20OP735.lua", "https://scriptblox.com/script/RoBeats!-Music-+-Rhythm-+-RPG-Autoplayer-OP-16362")
+                                    
+    addscriptexist(698448212, "ROBEATS SCRIPT WORKS ON SOLARA AND MOBILE", "Uploaded by victorisverymad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBEATS%20SCRIPT%20WORKS%20ON%20SOLARA%20AND%20MOBILE542.lua", "https://scriptblox.com/script/THE-GAMES-RoBeats!-Music-+-Rhythm-+-RPG-ROBEATS-SCRIPT-WORKS-ON-SOLARA-AND-MOBILE-16996")
+                                    

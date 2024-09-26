@@ -176,3 +176,143 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "MatHub", "Uploaded by MatL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MatHub542.lua", "https://scriptblox.com/script/Murder-Mystery-2-MatHub-10293")
                                     
+    addscriptexist(142823291, "No key mm cheat", "Uploaded by haroldjesus2510 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20key%20mm%20cheat231.lua", "https://scriptblox.com/script/Murder-Mystery-2-No-key-mm-cheat-14685")
+                                    
+    addscriptexist(142823291, "JUANKO  MM", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20%20MM795.lua", "https://scriptblox.com/script/Murder-Mystery-2-JUANKO-MM-12735")
+                                    
+    addscriptexist(142823291, "OP God Hub Unlock Inventory Break Sheriff Gun Auto Farm Best", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20God%20Hub%20Unlock%20Inventory%20Break%20Sheriff%20Gun%20Auto%20Farm%20Best509.lua", "https://scriptblox.com/script/Murder-Mystery-2-OP-God-Hub-Unlock-Inventory-Break-Sheriff-Gun-Auto-Farm-Best-17997")
+                                    
+    addscriptexist(142823291, "Noclip Fly Kill All", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noclip%20Fly%20Kill%20All288.lua", "https://scriptblox.com/script/Murder-Mystery-2-Noclip-Fly-Kill-All-10466")
+                                    
+    addscriptexist(142823291, "idk", "Uploaded by Sweatmod3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/idk73.lua", "https://scriptblox.com/script/Murder-Mystery-2-idk-14790")
+                                    
+    addscriptexist(142823291, "Kill All and Esp", "Uploaded by Phoenixxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20and%20Esp711.lua", "https://scriptblox.com/script/Murder-Mystery-2-Kill-All-and-Esp-11955")
+                                    
+    addscriptexist(142823291, "KillAura and ClickKill", "Uploaded by bobmichealson8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KillAura%20and%20ClickKill948.lua", "https://scriptblox.com/script/Murder-Mystery-2-KillAura-and-ClickKill-15392")
+                                    
+    addscriptexist(142823291, "Mm Admin panel", "Uploaded by ENRAGED_TUBERS95 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mm%20Admin%20panel842.lua", "https://scriptblox.com/script/Murder-Mystery-2-Mm-Admin-panel-12900")
+                                    
+    addscriptexist(142823291, "Etronix Free Version", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etronix%20Free%20Version124.lua", "https://scriptblox.com/script/Murder-Mystery-2-Etronix-Free-Version-15374")
+                                    
+    addscriptexist(142823291, "MM Best Coin Farm", "Uploaded by Kryptide on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Best%20Coin%20Farm569.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Best-Coin-Farm-12620")
+                                    
+    addscriptexist(142823291, "Normal script", "Uploaded by Gokus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Normal%20script815.lua", "https://scriptblox.com/script/Murder-Mystery-2-Normal-script-15247")
+                                    
+    addscriptexist(142823291, "MM AUTO SHOOT", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20AUTO%20SHOOT818.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-AUTO-SHOOT-15532")
+                                    
+    addscriptexist(142823291, "ByteHub", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ByteHub301.lua", "https://scriptblox.com/script/Murder-Mystery-2-ByteHub-10357")
+                                    
+    addscriptexist(142823291, "Hades", "Uploaded by grandmaster_olo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hades848.lua", "https://scriptblox.com/script/Murder-Mystery-2-Hades-12388")
+                                    
+    addscriptexist(142823291, "Overdrive H MM", "Uploaded by quroxxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overdrive%20H%20MM29.lua", "https://scriptblox.com/script/Murder-Mystery-2-Overdrive-H-MM-15035")
+                                    
+    addscriptexist(142823291, "Best MM script", "Uploaded by Grindingonthagame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20MM%20script563.lua", "https://scriptblox.com/script/Murder-Mystery-2-Best-MM-script-10866")
+                                    
+    addscriptexist(142823291, "new best mm script", "Uploaded by luascripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/new%20best%20mm%20script959.lua", "https://scriptblox.com/script/Murder-Mystery-2-new-best-mm-script-15222")
+                                    
+    addscriptexist(142823291, "Spray so much mm", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spray%20so%20much%20mm358.lua", "https://scriptblox.com/script/Murder-Mystery-2-Spray-so-much-mm-13907")
+                                    
+    addscriptexist(142823291, "OP Solara supported mm script features in desc", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Solara%20supported%20mm%20script%20features%20in%20desc938.lua", "https://scriptblox.com/script/Murder-Mystery-2-OP-Solara-supported-mm-script-features-in-desc-14993")
+                                    
+    addscriptexist(142823291, "nexus updated  best script ", "Uploaded by SmoxHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nexus%20updated%20%20best%20script%20425.lua", "https://scriptblox.com/script/Murder-Mystery-2-nexus-updated-15270")
+                                    
+    addscriptexist(142823291, "Bao Hub", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bao%20Hub260.lua", "https://scriptblox.com/script/Murder-Mystery-2-Bao-Hub-10574")
+                                    
+    addscriptexist(142823291, "Free script mm", "Uploaded by haroldjesus2510 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20script%20mm38.lua", "https://scriptblox.com/script/Murder-Mystery-2-Free-script-mm-14687")
+                                    
+    addscriptexist(142823291, "MM SCRIPT INSTANT KILL AUTO EASTER EVENT", "Uploaded by rrcreations on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20SCRIPT%20INSTANT%20KILL%20AUTO%20EASTER%20EVENT353.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-SCRIPT-INSTANT-KILL-AUTO-EASTER-EVENT-12877")
+                                    
+    addscriptexist(142823291, "Ghost Hub MM", "Uploaded by teamfatguiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20Hub%20MM857.lua", "https://scriptblox.com/script/Murder-Mystery-2-Ghost-Hub-MM-12476")
+                                    
+    addscriptexist(142823291, "OP solara executor all u fix mm scrip", "Uploaded by KING_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20solara%20executor%20all%20u%20fix%20mm%20scrip482.lua", "https://scriptblox.com/script/Murder-Mystery-2-OP-14310")
+                                    
+    addscriptexist(142823291, "foggyhub piano edition mm", "Uploaded by F0G0TT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/foggyhub%20piano%20edition%20mm598.lua", "https://scriptblox.com/script/Murder-Mystery-2-foggyhub-piano-edition-mm-15284")
+                                    
+    addscriptexist(142823291, "NEW Starry OP Best Script Hub", "Uploaded by Suno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Starry%20OP%20Best%20Script%20Hub653.lua", "https://scriptblox.com/script/Murder-Mystery-2-NEW-Starry-OP-Best-Script-Hub-17868")
+                                    
+    addscriptexist(142823291, "Kill All Fling All op script", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20Fling%20All%20op%20script178.lua", "https://scriptblox.com/script/Murder-Mystery-2-Kill-All-Fling-All-op-script-11253")
+                                    
+    addscriptexist(142823291, "Trolling", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Trolling123.lua", "https://scriptblox.com/script/Murder-Mystery-2-Trolling-12860")
+                                    
+    addscriptexist(142823291, "GhostHub", "Uploaded by crucifixnew on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GhostHub184.lua", "https://scriptblox.com/script/Murder-Mystery-2-GhostHub-MM-13413")
+                                    
+    addscriptexist(142823291, "Roblox Mm scirpt Vynixus", "Uploaded by Sigmafil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Mm%20scirpt%20Vynixus760.lua", "https://scriptblox.com/script/Murder-Mystery-2-Roblox-Mm-scirpt-Vynixus-13775")
+                                    
+    addscriptexist(142823291, "Symphony Hub Premium Bypass", "Uploaded by nextix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Symphony%20Hub%20Premium%20Bypass238.lua", "https://scriptblox.com/script/Murder-Mystery-2-Symphony-Hub-Premium-Bypass-10964")
+                                    
+    addscriptexist(142823291, "AtherHub", "Uploaded by Athergaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AtherHub352.lua", "https://scriptblox.com/script/Murder-Mystery-2-AtherHub-18013")
+                                    
+    addscriptexist(142823291, "Auto Complete Beachball Quest", "Uploaded by bla22lols on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete%20Beachball%20Quest778.lua", "https://scriptblox.com/script/Murder-Mystery-2-auto-beachball-quest-15333")
+                                    
+    addscriptexist(142823291, "Fe GRUPO", "Uploaded by LOOOOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20GRUPO656.lua", "https://scriptblox.com/script/Murder-Mystery-2-Fe-GRUPO-12381")
+                                    
+    addscriptexist(142823291, "Yuhh amazing yuhhhhh", "Uploaded by Shity_Guy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yuhh%20amazing%20yuhhhhh512.lua", "https://scriptblox.com/script/Murder-Mystery-2-Yuhh-amazing-yuhhhhh-15408")
+                                    
+    addscriptexist(142823291, "Roles Checker I Open Source", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roles%20Checker%20I%20Open%20Source651.lua", "https://scriptblox.com/script/Murder-Mystery-2-Roles-Checker-I-Open-Source-17951")
+                                    
+    addscriptexist(142823291, "Blindness", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blindness992.lua", "https://scriptblox.com/script/Murder-Mystery-2-Blindness-15098")
+                                    
+    addscriptexist(142823291, "Silent Aim ans Esp", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20ans%20Esp31.lua", "https://scriptblox.com/script/Murder-Mystery-2-Silent-Aim-ans-Esp-10433")
+                                    
+    addscriptexist(142823291, "AshbornnHub Lite", "Uploaded by Ashbornn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AshbornnHub%20Lite571.lua", "https://scriptblox.com/script/Murder-Mystery-2-AshbornnHub-Lite-15391")
+                                    
+    addscriptexist(142823291, "Change Spray Size", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20Spray%20Size275.lua", "https://scriptblox.com/script/Murder-Mystery-2-Change-Spray-Size-11083")
+                                    
+    addscriptexist(142823291, "mm best script silent aim auto kill all gun grabber etc", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mm%20best%20script%20silent%20aim%20auto%20kill%20all%20gun%20grabber%20etc117.lua", "https://scriptblox.com/script/Murder-Mystery-2-mm-best-script-silent-aim-auto-kill-all-gun-grabber-etc-14894")
+                                    
+    addscriptexist(142823291, "AutoFarm", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm963.lua", "https://scriptblox.com/script/Murder-Mystery-2-AutoFarm-11623")
+                                    
+    addscriptexist(142823291, "Xhub", "Uploaded by AuyX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xhub598.lua", "https://scriptblox.com/script/Murder-Mystery-2-Xhub-13473")
+                                    
+    addscriptexist(142823291, "Ski Hub", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ski%20Hub635.lua", "https://scriptblox.com/script/Murder-Mystery-2-Ski-Hub-12882")
+                                    
+    addscriptexist(142823291, "FoggyHub mm", "Uploaded by F0G0TT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FoggyHub%20mm876.lua", "https://scriptblox.com/script/Murder-Mystery-2-FoggyHub-mm-14795")
+                                    
+    addscriptexist(142823291, "HighlightHub MM SCRIPT Admin script", "Uploaded by dreamxd2333 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HighlightHub%20MM%20SCRIPT%20Admin%20script522.lua", "https://scriptblox.com/script/Murder-Mystery-2-HighlightHub-MM-SCRIPT-Admin-script-12846")
+                                    
+    addscriptexist(142823291, "old germany all players", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/old%20germany%20all%20players665.lua", "https://scriptblox.com/script/Murder-Mystery-2-old-germany-all-players-14118")
+                                    
+    addscriptexist(142823291, "Auto Farm Chams", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Chams622.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Chams-11474")
+                                    
+    addscriptexist(142823291, "omen hub", "Uploaded by corruptlouie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/omen%20hub382.lua", "https://scriptblox.com/script/Murder-Mystery-2-omen-hub-15385")
+                                    
+    addscriptexist(142823291, "Source Code", "Uploaded by Kazuyaxdd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Source%20Code919.lua", "https://scriptblox.com/script/Murder-Mystery-2-Source-Code-13965")
+                                    
+    addscriptexist(142823291, "Noclip Coin Farm Fly OP script", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noclip%20Coin%20Farm%20Fly%20OP%20script224.lua", "https://scriptblox.com/script/Murder-Mystery-2-Noclip-Coin-Farm-Fly-OP-script-11665")
+                                    
+    addscriptexist(142823291, "Etronix  Free Version", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etronix%20%20Free%20Version285.lua", "https://scriptblox.com/script/Murder-Mystery-2-Etronix-Free-Version-15335")
+                                    
+    addscriptexist(142823291, "Silent Aim and Player Esp", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20and%20Player%20Esp729.lua", "https://scriptblox.com/script/Murder-Mystery-2-Silent-Aim-and-Player-Esp-11768")
+                                    
+    addscriptexist(142823291, "Instant Golden", "Uploaded by Co_okiekSong on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20Golden909.lua", "https://scriptblox.com/script/Murder-Mystery-2-04-By-Cookiek-No-key-with-me-10628")
+                                    
+    addscriptexist(142823291, "Private script", "Uploaded by SkidiCas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Private%20script802.lua", "https://scriptblox.com/script/Murder-Mystery-2-Private-script-15212")
+                                    
+    addscriptexist(142823291, "FroZen Hub V1   easy to use", "Uploaded by FrostbiteDevelopment on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FroZen%20Hub%20V1%20%20%20easy%20to%20use822.lua", "https://scriptblox.com/script/Murder-Mystery-2-FroZen-Hub-V1-easy-to-use-12052")
+                                    
+    addscriptexist(142823291, "Best MM script Highlighthub", "Uploaded by dreamxd2333 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20MM%20script%20Highlighthub997.lua", "https://scriptblox.com/script/Murder-Mystery-2-Best-MM-script-Highlighthub-12971")
+                                    
+    addscriptexist(142823291, "SymphonyHub source", "Uploaded by dreamxd2333 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SymphonyHub%20source944.lua", "https://scriptblox.com/script/Murder-Mystery-2-SymphonyHub-source-13512")
+                                    
+    addscriptexist(142823291, "Auto Farm Coins Anti Afk", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Coins%20Anti%20Afk118.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Coins-Anti-Afk-11445")
+                                    
+    addscriptexist(142823291, "MM Faker", "Uploaded by tycoonman95 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20Faker60.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-Faker-13763")
+                                    
+    addscriptexist(142823291, "AshbornnHub Solara Supported", "Uploaded by Ashbornn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AshbornnHub%20Solara%20Supported543.lua", "https://scriptblox.com/script/Murder-Mystery-2-AshbornnHub-Solara-Supported-14583")
+                                    
+    addscriptexist(142823291, "Best free script mm", "Uploaded by klayoseas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20free%20script%20mm320.lua", "https://scriptblox.com/script/Murder-Mystery-2-Best-free-script-mm-15026")
+                                    
+    addscriptexist(142823291, "Thunder Client Lite", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20Lite664.lua", "https://scriptblox.com/script/Murder-Mystery-2-Thunder-Client-Lite-14292")
+                                    
+    addscriptexist(142823291, "MM ECLIPSE HUB INSTANT KILL AUTO FARM", "Uploaded by rrcreations on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MM%20ECLIPSE%20HUB%20INSTANT%20KILL%20AUTO%20FARM834.lua", "https://scriptblox.com/script/Murder-Mystery-2-MM-ECLIPSE-HUB-INSTANT-KILL-AUTO-FARM-12983")
+                                    
+    addscriptexist(142823291, "Mm Op Setup Script", "Uploaded by Noahfrf69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mm%20Op%20Setup%20Script318.lua", "https://scriptblox.com/script/Murder-Mystery-2-Mm-Op-Setup-Script-15539")
+                                    
+    addscriptexist(142823291, "Auto Farm Coins Egg Farm Auto Collect Rare", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Coins%20Egg%20Farm%20Auto%20Collect%20Rare340.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-Coins-Egg-Farm-Auto-Collect-Rare-11235")
+                                    
+    addscriptexist(142823291, "AutoFarm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20And%20More751.lua", "https://scriptblox.com/script/Murder-Mystery-2-AutoFarm-And-More-15398")
+                                    
+    addscriptexist(142823291, "Pepsi Hub mm supports solara", "Uploaded by tygartmarci on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pepsi%20Hub%20mm%20supports%20solara885.lua", "https://scriptblox.com/script/Murder-Mystery-2-Pepsi-Hub-mm-supports-solara-15000")
+                                    
+    addscriptexist(142823291, "Auto Farm and More", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20More666.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-and-More-11895")
+                                    

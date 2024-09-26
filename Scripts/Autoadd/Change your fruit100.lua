@@ -1,0 +1,1 @@
+local args = { [1] = { [1] = "EquipAura_Request", [2] = 28 } } game:GetService("ReplicatedStorage").RemoteEvent:FireServer(unpack(args))

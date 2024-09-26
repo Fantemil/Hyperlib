@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercortent.com/KindIhave/ChibaHubcomeback/main/Chiba-Doors.txt"),true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubAnimeVanguards/main/Anime%20Vanguard%20OP"))()

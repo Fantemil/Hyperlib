@@ -1,0 +1,2 @@
+
+    addscript(6153709, "Current Game","Teleport Hub solara supported", "Uploaded by ThorTheMain* on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20Hub%20solara%20supported176.lua", "https://scriptblox.com/script/Nuclear-Blast-Testing-Facility-andx2622andxFE0Fandx1F4A3-Teleport-Hub-solara-supported-15902")

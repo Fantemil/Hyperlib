@@ -1,0 +1,2 @@
+
+    addscript(14905728989, "Current Game","6 FREE INSTANT ITEMS SKRIPT", "Uploaded by lula on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/6%20FREE%20INSTANT%20ITEMS%20SKRIPT394.lua", "https://scriptblox.com/script/FREE-UGC!-Max-Mara-Coats-Adventure-6-FREE-INSTANT-ITEMS-x-KOATS-11842")

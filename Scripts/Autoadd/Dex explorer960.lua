@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hosvile/DEX-Explorer/main/Loader.lua"))()

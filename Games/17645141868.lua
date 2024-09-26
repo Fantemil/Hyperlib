@@ -1,0 +1,2 @@
+
+    addscript(17645141868, "Current Game","join my discord for more scripts auto farm", "Uploaded by Jamjam0139 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/join%20my%20discord%20for%20more%20scripts%20auto%20farm202.lua", "https://scriptblox.com/script/Bubble-Champions-join-my-discord-16988")

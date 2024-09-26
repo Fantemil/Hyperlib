@@ -42,3 +42,21 @@ addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "ht
                                     
     addscriptexist(662417684, "GUI", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI217.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-GUI-9866")
                                     
+    addscriptexist(662417684, "Lheny hub", "Uploaded by mehmettaha7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lheny%20hub553.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Lheny-hub-17366")
+                                    
+    addscriptexist(662417684, "Block Hub", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20Hub820.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Get-3-times-14925")
+                                    
+    addscriptexist(662417684, "Mythic Hub", "Uploaded by Mythic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mythic%20Hub350.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Mythic-Hub-12542")
+                                    
+    addscriptexist(662417684, "ZhenX  Block  Morph Script", "Uploaded by dankhaxer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZhenX%20%20Block%20%20Morph%20Script582.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-ZhenX-Block-Morph-Script-18420")
+                                    
+    addscriptexist(662417684, "Fixed    GUI", "Uploaded by nora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fixed%20%20%20%20GUI560.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Fixed-GUI-18859")
+                                    
+    addscriptexist(662417684, "Block BerryHub", "Uploaded by ZexusBerry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Block%20BerryHub841.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Block-BerryHub-17341")
+                                    
+    addscriptexist(662417684, "Quasar Hub", "Uploaded by QWER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quasar%20Hub709.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Quasar-Hub-10424")
+                                    
+    addscriptexist(662417684, "Battle Ground Script", "Uploaded by SQLinjection on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20Ground%20Script987.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Battle-Ground-Script-17864")
+                                    
+    addscriptexist(662417684, "GET RANDOM ITEMS", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20RANDOM%20ITEMS487.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-GET-RANDOM-ITEMS-18442")
+                                    

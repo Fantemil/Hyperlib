@@ -1,0 +1,2 @@
+
+    addscript(17673014761, "Current Game","Instan Skip Wave other", "Uploaded by RipMasterRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instan%20Skip%20Wave%20other542.lua", "https://scriptblox.com/script/TRADE!-Champion-Defenders-TDS-Instan-Skip-Wave-other-16785")

@@ -8,3 +8,7 @@ addscriptexist(5104202731, "SWFL Grind any JOB autofarm", "Uploaded by FXXAIMAN 
                                 
 addscriptexist(5104202731, "repost of Southwest Florida Beta gui", "Uploaded by yqcec on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/repost%20of%20Southwest%20Florida%20Beta%20gui336.lua", "https://scriptblox.com/script/Southwest-Florida-Beta-repost-of-Southwest-Florida-Beta-gui-6541")
                                 
+    addscriptexist(5104202731, "South west Flordia OP Inf money SCRIPT", "Uploaded by karjuniorfast on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/South%20west%20Flordia%20OP%20Inf%20money%20SCRIPT22.lua", "https://scriptblox.com/script/Southwest-Florida-Beta-South-west-Flordia-OP-Inf-money-SCRIPT-18831")
+                                    
+    addscriptexist(5104202731, "Advanced autofarm", "Uploaded by urkstar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Advanced%20autofarm304.lua", "https://scriptblox.com/script/Southwest-Florida-Beta-Advanced-autofarm-13999")
+                                    

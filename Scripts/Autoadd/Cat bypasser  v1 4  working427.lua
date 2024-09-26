@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shadow62x/catbypasser/main/weBack1"))()

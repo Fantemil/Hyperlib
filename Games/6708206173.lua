@@ -20,3 +20,13 @@ addscriptexist(6708206173, "Etonameless", "Uploaded by kagenoucid553 on scriptbl
                                 
     addscriptexist(6708206173, "Syntax Hub V2", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syntax%20Hub%20V2828.lua", "https://scriptblox.com/script/Rate-My-Avatar-Syntax-Hub-V2-10249")
                                     
+    addscriptexist(6708206173, "TROLL GUI", "Uploaded by Scriptour_Group on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROLL%20GUI342.lua", "https://scriptblox.com/script/Rate-My-Avatar-TROLL-GUI-GUI-16252")
+                                    
+    addscriptexist(6708206173, "Sus Missile Script by Menace FIXED", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sus%20Missile%20Script%20by%20Menace%20FIXED567.lua", "https://scriptblox.com/script/Rate-My-Avatar-Sus-Missile-Script-by-Menace-15247")
+                                    
+    addscriptexist(6708206173, "Sus Script by Menace FIXED", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sus%20Script%20by%20Menace%20FIXED694.lua", "https://scriptblox.com/script/Rate-My-Avatar-Sus-Script-by-Menace-14023")
+                                    
+    addscriptexist(6708206173, "Reddo Lightto ando Greeno Lightto", "Uploaded by a55af82d82574 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reddo%20Lightto%20ando%20Greeno%20Lightto258.lua", "https://scriptblox.com/script/Rate-My-Avatar-Reddo-Lightto-ando-Greeno-Lightto-13973")
+                                    
+    addscriptexist(6708206173, "both video player", "Uploaded by shikhosinar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/both%20video%20player113.lua", "https://scriptblox.com/script/Rate-My-Avatar-both-video-player-17323")
+                                    

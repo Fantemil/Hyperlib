@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/feed-the-noob-like-crazy-/main/Op%20script%20Made%20By%3A%20KAITO_FYP"))()

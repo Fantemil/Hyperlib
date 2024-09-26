@@ -1,0 +1,2 @@
+
+    addscript(13674003149, "Current Game","Grass enjoyer Gui", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Grass%20enjoyer%20Gui828.lua", "https://scriptblox.com/script/eat-the-ground-Grass-enjoyer-Gui-15438")

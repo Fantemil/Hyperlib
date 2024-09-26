@@ -1,0 +1,7 @@
+game:GetService("RunService").Heartbeat:Connect(function() 
+    game.ReplicatedStorage.Remotes.CashButton:FireServer()
+    game.ReplicatedStorage.Remotes.CashButton:FireServer()
+    game.ReplicatedStorage.Remotes.CashButton:FireServer()
+    game.ReplicatedStorage.Remotes.CashButton:FireServer()
+    game.ReplicatedStorage.Remotes.CashButton:FireServer()
+end)

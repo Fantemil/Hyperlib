@@ -1,0 +1,2 @@
+
+    addscript(4936063761, "Current Game","Auto Shots", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Shots99.lua", "https://scriptblox.com/script/TURBO-TOWER-BATTLES-NO-COOLDOWN-WEAPONS-Auto-Shots-14085")

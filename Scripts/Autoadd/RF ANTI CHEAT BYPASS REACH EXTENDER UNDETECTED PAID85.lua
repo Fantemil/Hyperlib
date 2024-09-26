@@ -1,0 +1,1 @@
+Join server to purchase https://discord.gg/WbHnhFFFnR

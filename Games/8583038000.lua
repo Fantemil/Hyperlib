@@ -1,0 +1,2 @@
+
+    addscript(8583038000, "Current Game","Bacon Hub Best And New", "Uploaded by Baconhack_26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bacon%20Hub%20Best%20And%20New148.lua", "https://scriptblox.com/script/Dog!-andx1F628-Bacon-Hub-Best-And-New-15949")

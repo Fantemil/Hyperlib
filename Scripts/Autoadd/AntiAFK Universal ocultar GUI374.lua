@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Alexisisback/Universal/main/Anti-AFK?token=GHSAT0AAAAAACN7OFQY7P4YW7O4DAXNQZQCZOGLZOA')))()

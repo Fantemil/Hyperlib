@@ -1,0 +1,2 @@
+
+    addscript(9220209012, "Current Game","Fast Farm", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Farm933.lua", "https://scriptblox.com/script/Animal-Attack-Fast-Farm-15903")

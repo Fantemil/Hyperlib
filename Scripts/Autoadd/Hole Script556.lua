@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/d2c423bbc94bcd93ebabdd9f71a0bd77/raw/4a70b09924036b7b346a37438ad1002ab3d0b4cd/The%2520Hole%2520Script!"))()

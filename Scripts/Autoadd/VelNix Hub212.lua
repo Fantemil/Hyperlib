@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Orealated/VelNix/main/VelNixHub%20VelNix.gg%20Loader.Luau", true))();

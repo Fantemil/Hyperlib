@@ -1,0 +1,2 @@
+
+    addscript(17269794243, "Current Game","Op Script Instant Get All Auras", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script%20Instant%20Get%20All%20Auras683.lua", "https://scriptblox.com/script/Fly-Rng-Op-Script-Instant-Get-All-Auras-16758")

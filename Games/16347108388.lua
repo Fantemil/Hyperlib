@@ -1,0 +1,2 @@
+
+    addscript(16347108388, "Current Game","Roblox FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20FE%20kill%20all%20script411.lua", "https://scriptblox.com/script/Toilet-Infection-Roblox-FE-kill-all-script-16233")

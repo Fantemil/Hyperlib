@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Prison-Life-Tiger-admin-v3-13501"))()

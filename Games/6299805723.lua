@@ -46,3 +46,19 @@ addscriptexist(6299805723, "Banana hub cracked", "Uploaded by FoilWithFood on sc
                                     
     addscriptexist(6299805723, "op script", "Uploaded by Lufi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script126.lua", "https://scriptblox.com/script/CODE-+-x7-Anime-Fighters-Simulator-op-script-9400")
                                     
+    addscriptexist(6299805723, "Auto Farm Nearest and Anti AFK", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Nearest%20and%20Anti%20AFK247.lua", "https://scriptblox.com/script/x2-Heavenly-+-x5-Anime-Fighters-Simulator-Auto-Farm-Nearest-and-Anti-AFK-10769")
+                                    
+    addscriptexist(6299805723, "Auto Hatch and Auto Farm", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Hatch%20and%20Auto%20Farm825.lua", "https://scriptblox.com/script/x2-Heavenly-Anime-Fighters-Simulator-Auto-Hatch-and-Auto-Farm-10437")
+                                    
+    addscriptexist(6299805723, "Auto Tap", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Tap456.lua", "https://scriptblox.com/script/EVENT-+-Boosts-Anime-Fighters-Simulator-Auto-Tap-11694")
+                                    
+    addscriptexist(6299805723, "Auto Tap Walkspeed Coin Magnet", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Tap%20Walkspeed%20Coin%20Magnet843.lua", "https://scriptblox.com/script/UPD-59-+-x6-Drop-Anime-Fighters-Simulator-Auto-Tap-Walkspeed-Coin-Magnet-11258")
+                                    
+    addscriptexist(6299805723, "Auto Dungeon Auto Time Trial Auto Skip Room", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dungeon%20Auto%20Time%20Trial%20Auto%20Skip%20Room351.lua", "https://scriptblox.com/script/EVENT-+-Boosts-Anime-Fighters-Simulator-Auto-Dungeon-Auto-Time-Trial-Auto-Skip-Room-11723")
+                                    
+    addscriptexist(6299805723, "Autofarm Auto Click Damage", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Auto%20Click%20Damage845.lua", "https://scriptblox.com/script/UPD-59-+-x6-Drop-Anime-Fighters-Simulator-Autofarm-Auto-Click-Damage-11245")
+                                    
+    addscriptexist(6299805723, "Auto Farm and Auto Hatch", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Hatch568.lua", "https://scriptblox.com/script/Winter-UPD-+-x7-Anime-Fighters-Simulator-Auto-Farm-and-Auto-Hatch-10324")
+                                    
+    addscriptexist(6299805723, "Op Script", "Uploaded by fastxpepe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script408.lua", "https://scriptblox.com/script/Upd-63-+-x2-Heavenly-Anime-Fighters-Simulator-Op-Script-12154")
+                                    

@@ -1,0 +1,2 @@
+--- You can finde the Link to our Key here: https://discord.gg/NBaYtbeXuN ---
+--- We also searching for devs to make more scripts!!!! ---

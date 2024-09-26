@@ -6,3 +6,11 @@ addscriptexist(4991214437, "Town Script  Moonlight Hub", "Uploaded by Globe on r
                                 
 addscriptexist(4991214437, "Thrasher", "Uploaded by clarqwynfferrer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thrasher646.lua", "https://scriptblox.com/script/town-Thrasher-8371")
                                 
+    addscriptexist(4991214437, "BLATANT HEAD HITBOX", "Uploaded by guma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLATANT%20HEAD%20HITBOX680.lua", "https://scriptblox.com/script/town-HEAD-HITBOX-13297")
+                                    
+    addscriptexist(4991214437, "PlotCopy v3", "Uploaded by arandomuser0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlotCopy%20v3550.lua", "https://scriptblox.com/script/town-PlotCopy-v3-18564")
+                                    
+    addscriptexist(4991214437, "ARSON", "Uploaded by DIZZY_Productions on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARSON998.lua", "https://scriptblox.com/script/town-ARSON-15014")
+                                    
+    addscriptexist(4991214437, "no recoil script", "Uploaded by guma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20recoil%20script6.lua", "https://scriptblox.com/script/town-no-recoil-script-13267")
+                                    

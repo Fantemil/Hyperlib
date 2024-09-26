@@ -1,0 +1,2 @@
+
+    addscript(568350650, "Current Game","Lag ServerCRASH", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20ServerCRASH183.lua", "https://scriptblox.com/script/Fashion-Famous:-New-Wings-Lag-Server-11629")

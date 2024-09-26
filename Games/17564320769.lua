@@ -1,0 +1,2 @@
+
+    addscript(17564320769, "Current Game","SUPPORTED SOLARA AND MOBILE", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPPORTED%20SOLARA%20AND%20MOBILE90.lua", "https://scriptblox.com/script/Allblox-Battles-SUPPORTED-SOLARA-AND-MOBILE-14428")

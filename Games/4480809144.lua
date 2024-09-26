@@ -1,0 +1,2 @@
+
+    addscript(4480809144, "Current Game","ESP and Get All Items", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20and%20Get%20All%20Items395.lua", "https://scriptblox.com/script/Granny:-Multiplayer-ESP-and-Get-All-Items-18629")

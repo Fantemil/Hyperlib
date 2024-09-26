@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Bac0nHck/Scripts/blob/main/BridgeSimulator?raw=true"))("t.me/arceusxscripts")

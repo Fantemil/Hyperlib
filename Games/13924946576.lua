@@ -8,3 +8,5 @@ addscriptexist(13924946576, "Overpowered gui", "Uploaded by rylen on scriptblox.
                                 
 addscriptexist(13924946576, "Automatic win", "Uploaded by Rayz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatic%20win132.lua", "https://scriptblox.com/script/dingus-Automatic-win-8848")
                                 
+    addscriptexist(13924946576, "Esp and auto win", "Uploaded by Master on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20and%20auto%20win606.lua", "https://scriptblox.com/script/dingus-Esp-and-auto-win-12823")
+                                    

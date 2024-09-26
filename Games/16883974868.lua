@@ -1,0 +1,2 @@
+
+    addscript(16883974868, "Current Game","Script Request", "Uploaded by BigHeadMinion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request356.lua", "https://scriptblox.com/script/2X-LUCK-Jule's-RNG-Script-Request-13530")

@@ -1,0 +1,2 @@
+
+    addscript(5373028495, "Current Game","radio fling", "Uploaded by UN83991956 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/radio%20fling627.lua", "https://scriptblox.com/script/LGBTQ+-Hangout-radio-fling-14419")

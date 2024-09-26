@@ -50,3 +50,23 @@ addscriptexist(5956785391, "Lazy HUB", "Uploaded by nazyunioni on scriptblox.com
                                 
     addscriptexist(5956785391, "Slayer OP SCRIPT", "Uploaded by cloudman4416 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slayer%20OP%20SCRIPT452.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Slayer-OP-SCRIPT-10253")
                                     
+    addscriptexist(5956785391, "PREMIUM SHARK HUB SCRIPT  SLAYER", "Uploaded by trxshkkz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PREMIUM%20SHARK%20HUB%20SCRIPT%20%20SLAYER486.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-PREMIUM-SHARK-HUB-SCRIPT-SLAYER-16680")
+                                    
+    addscriptexist(5956785391, "OTHER SCRIPT DUNGEON", "Uploaded by trxshkkz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OTHER%20SCRIPT%20DUNGEON677.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-OTHER-SCRIPT-DUNGEON-16695")
+                                    
+    addscriptexist(5956785391, "BlindnessHub", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlindnessHub557.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-slayer-15606")
+                                    
+    addscriptexist(5956785391, "Global Aura Autofarm Dungeon and Map", "Uploaded by PzVIIIMaus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Global%20Aura%20Autofarm%20Dungeon%20and%20Map240.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Global-Aura-Autofarm-Dungeon-and-Map-14468")
+                                    
+    addscriptexist(5956785391, "Frosties ReUpload", "Uploaded by FrostLua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frosties%20ReUpload397.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Frosties-ReUpload-17147")
+                                    
+    addscriptexist(5956785391, "Script   No Key", "Uploaded by StilesScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20%20No%20Key940.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Script-No-Key-15226")
+                                    
+    addscriptexist(5956785391, "SCRIPT FARM MUGEN AND MAPS", "Uploaded by trxshkkz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20FARM%20MUGEN%20AND%20MAPS18.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-SCRIPT-FARM-MUGEN-AND-MAPS-16696")
+                                    
+    addscriptexist(5956785391, "best   script", "Uploaded by _luh99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20%20%20script975.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-best-script-15290")
+                                    
+    addscriptexist(5956785391, "Frosties Script Best HUB", "Uploaded by FrostLua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frosties%20Script%20Best%20HUB328.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-Frosties-Script-16386")
+                                    
+    addscriptexist(5956785391, "zelph", "Uploaded by zxzelph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zelph281.lua", "https://scriptblox.com/script/Update-1.5-Project-Slayers-zelph-12176")
+                                    

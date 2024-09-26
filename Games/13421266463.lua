@@ -1,0 +1,2 @@
+
+    addscript(13421266463, "Current Game","Instant ugc", "Uploaded by Baconboss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20ugc963.lua", "https://scriptblox.com/script/Paradise-RP-Instant-ugc-14718")

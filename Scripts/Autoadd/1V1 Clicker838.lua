@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ECCSco/ECCS-V3/main/1V1%20Clicker"))("Copyright ERROR_CODE ECCS Co")

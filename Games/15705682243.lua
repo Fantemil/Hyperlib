@@ -1,0 +1,4 @@
+
+    addscript(15705682243, "Current Game","World Hub Script", "Uploaded by SungWoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Hub%20Script336.lua", "https://scriptblox.com/script/Tapping-Legends-Final-Script-17917")
+    addscriptexist(15705682243, "World Hub Scripts", "Uploaded by MHutao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Hub%20Scripts189.lua", "https://scriptblox.com/script/andx1F9B8HERO-Tapping-Legends-Final-World-Hub-Scripts-15976")
+                                    

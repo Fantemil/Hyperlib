@@ -1,0 +1,2 @@
+
+    addscript(15167065620, "Current Game","Auto coins", "Uploaded by MRSCRIPT5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20coins522.lua", "https://scriptblox.com/script/Super-Pets!-Auto-coins-18623")

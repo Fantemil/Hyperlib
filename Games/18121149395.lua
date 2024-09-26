@@ -1,0 +1,2 @@
+
+    addscript(18121149395, "Current Game","Simple unlimited VIP fuel", "Uploaded by luxion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20unlimited%20VIP%20fuel620.lua", "https://scriptblox.com/script/Flying-Boot-Race-Simulator-Simple-unlimited-VIP-fuel-16701")

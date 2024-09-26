@@ -1,0 +1,2 @@
+
+    addscript(15085457086, "Current Game","Spawn any towers fixed", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spawn%20any%20towers%20fixed853.lua", "https://scriptblox.com/script/Piggy:-Base-Defense-(UPDATE)-Spawn-any-towers-14228")

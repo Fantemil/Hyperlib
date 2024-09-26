@@ -1,0 +1,2 @@
+
+    addscript(17858616001, "Current Game","Auto Finish", "Uploaded by dark42342 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Finish397.lua", "https://scriptblox.com/script/99percent-QUIT-OBBY-Auto-Finish-14649")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/blueman5/1bed1b4d58d17c1682ef931a79cea77a/raw/27b3c95680343ad65260f81d3e881e85da090014/townplotcopierv3",true))()

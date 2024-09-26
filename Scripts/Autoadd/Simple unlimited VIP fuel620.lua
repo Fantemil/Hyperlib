@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vylo-dev/SoulSociety/main/Boot%20Race%20Sim'))()

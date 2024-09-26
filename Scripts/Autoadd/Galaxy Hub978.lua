@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CrismonPetrasion/HWID/main/GalaxyHub.lua"))()

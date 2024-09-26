@@ -4,3 +4,7 @@ addscriptexist(10534865425, "RaCo0oN Hub AutoBall AutoEggs Teleports", "Uploaded
                                 
 addscriptexist(10534865425, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub126.lua", "https://scriptblox.com/script/HOOP-SIMULATOR!-MaddHub-6734")
                                 
+    addscriptexist(10534865425, "Ball in Hoop", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ball%20in%20Hoop443.lua", "https://scriptblox.com/script/Hoop-Simulator!-Ball-in-Hoop-11081")
+                                    
+    addscriptexist(10534865425, "LN HUB", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LN%20HUB732.lua", "https://scriptblox.com/script/Hoop-Simulator!-LN-HUB-12993")
+                                    

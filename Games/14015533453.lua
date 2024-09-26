@@ -1,0 +1,2 @@
+
+    addscript(14015533453, "Current Game","Best Auto Farm Script", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Script497.lua", "https://scriptblox.com/script/Anime-Realms-Simulator-UPD-0.5-Best-Auto-Farm-Script-13222")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sunsworn1020903/sunsworn1020903/main/KillAura"))()

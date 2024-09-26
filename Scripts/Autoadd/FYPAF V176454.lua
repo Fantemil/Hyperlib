@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CaseohCASEOH/Scripts/main/FYFP%20SCRIPT"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rdx222f/Ugc-Sniper-Goblin/main/Sniper-Skidibi-Ugc.lua"))()

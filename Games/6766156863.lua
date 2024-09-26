@@ -16,3 +16,11 @@ addscriptexist(6766156863, "OP  sim", "Uploaded by et1ty on scriptblox.com", "ht
                                     
     addscriptexist(6766156863, "best script for", "Uploaded by noob4346 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20for982.lua", "https://scriptblox.com/script/Strongman-Simulator-best-script-for-9947")
                                     
+    addscriptexist(6766156863, "Collb event Very OP", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collb%20event%20Very%20OP953.lua", "https://scriptblox.com/script/Strongman-Simulator-Reincarnated-as-a-Sword-Collb-event-uto-Frm-Very-OP-12246")
+                                    
+    addscriptexist(6766156863, "AutoFarm And Auto Take Best", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20And%20Auto%20Take%20Best678.lua", "https://scriptblox.com/script/5x-Anime-Event-Strongman-Simulator-AutoFarm-And-Auto-Take-Best-12410")
+                                    
+    addscriptexist(6766156863, "Steroids", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Steroids417.lua", "https://scriptblox.com/script/Easter-buff-Strongman-Simulator-Lightening-items-11877")
+                                    
+    addscriptexist(6766156863, "Autorebirth Auto Farm Energy", "Uploaded by ZefAnia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autorebirth%20Auto%20Farm%20Energy431.lua", "https://scriptblox.com/script/The-Hunt-Strongman-Simulator-Autorebirth-Auto-Farm-Energy-11724")
+                                    

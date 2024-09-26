@@ -1,0 +1,2 @@
+
+    addscript(16489337548, "Current Game","Basic Autofarm Auto Hatch Auto Coins Auto Fish Auto Dungeon", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basic%20Autofarm%20Auto%20Hatch%20Auto%20Coins%20Auto%20Fish%20Auto%20Dungeon284.lua", "https://scriptblox.com/script/Aura-RNG-Basic-Autofarm-Auto-Hatch-Auto-Coins-Auto-Fish-11949")

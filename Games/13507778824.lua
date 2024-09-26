@@ -1,0 +1,2 @@
+
+    addscript(13507778824, "Current Game","Auto drop", "Uploaded by Nanolol13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20drop993.lua", "https://scriptblox.com/script/Jackpot-Tycoon-Auto-drop-14388")

@@ -1,0 +1,2 @@
+-- Made by SumitScripts
+loadstring(game:HttpGet("https://pastebin.com/raw/pdhvLJsE"))()

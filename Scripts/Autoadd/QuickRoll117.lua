@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fl-f/releases/main/Case RNG.lua"))

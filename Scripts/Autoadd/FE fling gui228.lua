@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Orangecatgamer696969/Fling-gui/main/README.md", true)) ()

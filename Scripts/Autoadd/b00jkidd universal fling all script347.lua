@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/b00jkidd/56216989fe84ced1ffdd19339d5e8b6d/raw/af1d76a7f7c8f5dbacee9e9496e244aba888b5ff/fling%2520all"))()

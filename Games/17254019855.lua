@@ -1,0 +1,2 @@
+
+    addscript(17254019855, "Current Game","free ugc", "Uploaded by robloxthis001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20ugc814.lua", "https://scriptblox.com/script/IKEA:-The-Co-Worker-free-ugc-15290")

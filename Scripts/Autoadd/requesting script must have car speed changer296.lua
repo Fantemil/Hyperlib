@@ -1,0 +1,1 @@
+print("give me a script for it pls")

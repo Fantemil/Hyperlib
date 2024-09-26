@@ -1,0 +1,2 @@
+
+    addscript(18702549822, "Current Game","Good Autofarmer Solara Support", "Uploaded by Hisako on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20Autofarmer%20Solara%20Support495.lua", "https://scriptblox.com/script/Saber-Training-Simulator-Good-Autofarmer-Solara-Support-17925")

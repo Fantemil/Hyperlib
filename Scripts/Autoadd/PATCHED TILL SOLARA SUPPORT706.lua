@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dementiaenjoyer/eclipse.lol/main/pf.lua"))()

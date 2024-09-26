@@ -1,0 +1,2 @@
+
+    addscript(18891217864, "Current Game","OP OPTIONS", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20OPTIONS221.lua", "https://scriptblox.com/script/Cross-Glass-Bridge-to-RICH!-OP-OPTIONS-18500")

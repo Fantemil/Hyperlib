@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/MichaelIsDumb69/michaeling-hub/main/source"))()

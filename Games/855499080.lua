@@ -6,3 +6,7 @@ addscript(855499080, "Current Game","SKYWARS Script OP", "Uploaded by KabutoVias
                                 
     addscriptexist(855499080, "Roblox UI script dropdown", "Uploaded by mawinck06 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20UI%20script%20dropdown183.lua", "https://scriptblox.com/script/SKYWARS-Roblox-UI-script-dropdown-9403")
                                     
+    addscriptexist(855499080, "Hitbox size Free", "Uploaded by Master on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20size%20Free909.lua", "https://scriptblox.com/script/SKYWARS-Hitbox-size-Free-12819")
+                                    
+    addscriptexist(855499080, "TNG", "Uploaded by SmoxHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TNG438.lua", "https://scriptblox.com/script/SKYWARS-TNG-12588")
+                                    

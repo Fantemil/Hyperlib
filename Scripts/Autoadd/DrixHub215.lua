@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GumballGame777/DRIX-HUB/main/1"))()

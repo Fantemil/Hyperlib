@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MazeBlox/MazeHub/main/Scripts/Tower%20of%20Hell"))()

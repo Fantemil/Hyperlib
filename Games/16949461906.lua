@@ -1,0 +1,2 @@
+
+    addscript(16949461906, "Current Game","Fast Auto Click", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Auto%20Click30.lua", "https://scriptblox.com/script/ClickerWorld200K!-Fast-Auto-Click-15059")

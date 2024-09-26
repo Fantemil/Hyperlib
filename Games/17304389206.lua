@@ -1,0 +1,2 @@
+
+    addscript(17304389206, "Current Game","Get All Zub Hub", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Zub%20Hub868.lua", "https://scriptblox.com/script/Find-The-Sunshines-Get-All-13209")

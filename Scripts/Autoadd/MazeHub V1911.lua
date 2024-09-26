@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MazeBlox/MazeHub/main/Scripts/Slap%20Battles"))()

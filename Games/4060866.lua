@@ -1,0 +1,4 @@
+
+    addscript(4060866, "Current Game","SCRIPTED LEAKS OP Autofarm", "Uploaded by Scripted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTED%20LEAKS%20OP%20Autofarm126.lua", "https://scriptblox.com/script/UPDATE!-Toytale-RP-SCRIPTED-LEAKS-OP-Autofarm-13778")
+    addscriptexist(4060866, "request for", "Uploaded by Catullah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20for469.lua", "https://scriptblox.com/script/CODE-Toytale-RP-request-for-13600")
+                                    

@@ -1,0 +1,4 @@
+
+    addscript(15477056945, "Current Game","infinite strength infinite rebirths", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20strength%20infinite%20rebirths298.lua", "https://scriptblox.com/script/Toe-Wrestle-Simulator-infinite-strength-infinite-rebirths-12639")
+    addscriptexist(15477056945, "Hub", "Uploaded by SederYTTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub927.lua", "https://scriptblox.com/script/Toe-Wrestle-Simulator-Hub-11558")
+                                    

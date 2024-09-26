@@ -8,3 +8,5 @@ addscript(10675066724, "Current Game","Autofarm and more", "Uploaded by sara_ on
                                 
     addscriptexist(10675066724, "Auto Obby Auto Collect etc", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Obby%20Auto%20Collect%20etc258.lua", "https://scriptblox.com/script/Slime-Tower-Tycoon-NEW!-Auto-Obby-Auto-Collect-etc-6207")
                                 
+    addscriptexist(10675066724, "rise of wraith", "Uploaded by Wraith on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rise%20of%20wraith313.lua", "https://scriptblox.com/script/Slime-Tower-Tycoon-rise-of-wraith-12396")
+                                    

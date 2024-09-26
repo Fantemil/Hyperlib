@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/mumblejumber600/superrollscript/main/superrollscript"))()

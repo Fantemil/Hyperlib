@@ -1,0 +1,2 @@
+
+    addscript(4539184430, "Current Game","Champion Script Easy UGC", "Uploaded by Xc0Munity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Champion%20Script%20Easy%20UGC393.lua", "https://scriptblox.com/script/Speed-Champions-Champion-Script-Easy-UGC-13281")

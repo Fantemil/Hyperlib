@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VateqS/MinionHub/main/egg_empire_v2"))()

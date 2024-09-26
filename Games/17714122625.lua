@@ -1,0 +1,2 @@
+
+    addscript(17714122625, "Current Game","BeanBotWare", "Uploaded by milkyboy0247 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeanBotWare976.lua", "https://scriptblox.com/script/BACK-Dah-Aim-Trainer-BeanBotWare-14024")

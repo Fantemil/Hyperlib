@@ -48,3 +48,25 @@ addscriptexist(3956818381, "Decent Script", "Uploaded by GuyFromFortnite on scri
                                     
     addscriptexist(3956818381, "Op Autofarm", "Uploaded by AlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Autofarm317.lua", "https://scriptblox.com/script/Ninja-Legends-Op-Autofarm-10140")
                                     
+    addscriptexist(3956818381, "Ninja  script", "Uploaded by Crispy_chicken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20%20script664.lua", "https://scriptblox.com/script/Ninja-Legends-Ninja-script-11274")
+                                    
+    addscriptexist(3956818381, "Ninja  Script OP", "Uploaded by Noahfrf69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20%20Script%20OP143.lua", "https://scriptblox.com/script/Ninja-Legends-Ninja-Script-OP-15596")
+                                    
+    addscriptexist(3956818381, "blacktrap work on solara ninja no key old script", "Uploaded by Basic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/blacktrap%20work%20on%20solara%20ninja%20no%20key%20old%20script743.lua", "https://scriptblox.com/script/Ninja-Legends-blacktrap-ninja-no-key-14858")
+                                    
+    addscriptexist(3956818381, "caveira hub", "Uploaded by Caveira1010 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/caveira%20hub56.lua", "https://scriptblox.com/script/Ninja-Legends-caveira-hub-17724")
+                                    
+    addscriptexist(3956818381, "OP Chi Farm", "Uploaded by allanogwwogw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Chi%20Farm924.lua", "https://scriptblox.com/script/Ninja-Legends-DO-NOT-EXECUTE-10998")
+                                    
+    addscriptexist(3956818381, "Get Element All", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Element%20All396.lua", "https://scriptblox.com/script/andx26A1Ninja-Legends-Get-Element-All-15776")
+                                    
+    addscriptexist(3956818381, "W Script OP", "Uploaded by Pocky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/W%20Script%20OP995.lua", "https://scriptblox.com/script/Ninja-Legends-W-Script-OP-12895")
+                                    
+    addscriptexist(3956818381, "Ninja  HiraganaDev Hub", "Uploaded by HiraganaDev_1337 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20%20HiraganaDev%20Hub924.lua", "https://scriptblox.com/script/Ninja-Legends-Ninja-BEST-SCRIPT-HiraganaDev-Hub-14610")
+                                    
+    addscriptexist(3956818381, "BoB Hub", "Uploaded by ZexusBerry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BoB%20Hub471.lua", "https://scriptblox.com/script/Ninja-Legends-BoB-Hub-11359")
+                                    
+    addscriptexist(3956818381, "Ninja  OP SCRIPT AND FE", "Uploaded by Noahfrf69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20%20OP%20SCRIPT%20AND%20FE764.lua", "https://scriptblox.com/script/Ninja-Legends-Ninja-OP-SCRIPT-AND-FE-17620")
+                                    
+    addscriptexist(3956818381, "Auto Farm Auto Kill Unlock Islands", "Uploaded by snipcola on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Kill%20Unlock%20Islands108.lua", "https://scriptblox.com/script/Ninja-Legends-Auto-Farm-Auto-Kill-Unlock-Islands-18075")
+                                    

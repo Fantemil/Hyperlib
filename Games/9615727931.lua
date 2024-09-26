@@ -1,0 +1,2 @@
+
+    addscript(9615727931, "Current Game","get all egg no gui", "Uploaded by Basic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20egg%20no%20gui219.lua", "https://scriptblox.com/script/350-Find-The-Eggs-get-all-egg-14844")

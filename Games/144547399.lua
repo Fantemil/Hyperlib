@@ -1,2 +1,4 @@
 
 addscript(144547399, "Current Game","Skip to end quick op", "Uploaded by EviIAlienWare on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20to%20end%20quick%20op618.lua", "https://scriptblox.com/script/Super-Fun-Obby-840-Stages!-Skip-to-end-quick-op-7981")
+    addscriptexist(144547399, "Get Badge", "Uploaded by IMakeBestScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Badge844.lua", "https://scriptblox.com/script/Super-Fun-Obby-840-Stages!-Get-Badge-16643")
+                                    

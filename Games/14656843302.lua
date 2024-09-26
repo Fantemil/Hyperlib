@@ -1,0 +1,2 @@
+
+    addscript(14656843302, "Current Game","Zephyr UGXC M4th Rac3", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20UGXC%20M4th%20Rac3196.lua", "https://scriptblox.com/script/UGC-Math-Race-Zephyr-UGXC-M4th-Rac3-17760")

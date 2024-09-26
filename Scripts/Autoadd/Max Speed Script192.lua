@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PurpleCone/gojo-max-speed/main/gojo%20max%20speed.txt"))()

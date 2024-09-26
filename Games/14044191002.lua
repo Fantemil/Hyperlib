@@ -1,0 +1,2 @@
+
+    addscript(14044191002, "Current Game","Get The Best Sword In The Game For FREE", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20The%20Best%20Sword%20In%20The%20Game%20For%20FREE55.lua", "https://scriptblox.com/script/(100K-Visits-Event)-Silly-RPG!-Get-The-Best-Sword-In-The-Game-For-FREE-17830")

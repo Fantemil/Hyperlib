@@ -1,0 +1,2 @@
+
+    addscript(15316702408, "Current Game","Ore ESP and Teleport", "Uploaded by Seby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ore%20ESP%20and%20Teleport271.lua", "https://scriptblox.com/script/The-RPG-Mines-Otherworldly0.92beta-Ore-ESP-and-Teleport-15248")

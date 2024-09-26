@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripterbacon/Test-Script/main/The%20Long%20Drive.Lua"))()

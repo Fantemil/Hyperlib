@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KaizerQuasar/Project-Quasar/main/Lucky-Lucky.lua"))()

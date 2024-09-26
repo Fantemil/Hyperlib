@@ -1,0 +1,2 @@
+
+    addscript(228181322, "Current Game","2024  FREE INSTANT ELDER", "Uploaded by reconsyde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2024%20%20FREE%20INSTANT%20ELDER37.lua", "https://scriptblox.com/script/Age-of-Inverts!-Dinosaur-Simulator-FREE-INSTANT-ELDER-12787")

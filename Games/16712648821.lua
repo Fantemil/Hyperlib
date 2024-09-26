@@ -1,0 +1,2 @@
+
+    addscript(16712648821, "Current Game","LN Hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LN%20Hub587.lua", "https://scriptblox.com/script/Chainsaw-Anime-Racing-2-LN-Hub-14215")

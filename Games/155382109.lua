@@ -6,3 +6,7 @@ addscriptexist(155382109, "SAKTKIA", "Uploaded by htb1526 on scriptblox.com", "h
                                 
 addscriptexist(155382109, "OP", "Uploaded by XtraHack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP196.lua", "https://scriptblox.com/script/Survive-and-Kill-the-Killers-in-Area-51-!!!-OP-7895")
                                 
+    addscriptexist(155382109, "stormg", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stormg937.lua", "https://scriptblox.com/script/Survive-and-Kill-the-Killers-in-Area-51-!!!-stormg-14005")
+                                    
+    addscriptexist(155382109, "darkrai x", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/darkrai%20x972.lua", "https://scriptblox.com/script/Survive-and-Kill-the-Killers-in-Area-51-!!!-darkrai-x-11001")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(17353288270, "Current Game","Script reque", "Uploaded by rizzlerohio0871 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20reque484.lua", "https://scriptblox.com/script/Reopen-Update-ST-:-Blockade-Reboot-Script-reque-14366")

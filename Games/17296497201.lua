@@ -1,0 +1,2 @@
+
+    addscript(17296497201, "Current Game","Finish  Instantly", "Uploaded by Zuke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Finish%20%20Instantly1.lua", "https://scriptblox.com/script/Skibid-Obby-(New)-Finish-Instantly-12630")

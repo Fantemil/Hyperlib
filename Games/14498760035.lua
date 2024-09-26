@@ -4,3 +4,5 @@
                                     
     addscriptexist(14498760035, "Inf Stats", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Stats648.lua", "https://scriptblox.com/script/Block-Digging-Simulator-Inf-Stats-9829")
                                     
+    addscriptexist(14498760035, "best script join group", "Uploaded by scripterhax on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20join%20group723.lua", "https://scriptblox.com/script/Block-Digging-Simulator-best-script-join-group-13695")
+                                    

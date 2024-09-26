@@ -1,0 +1,2 @@
+
+    addscript(108179506814548, "Current Game","INSANE HUB", "Uploaded by Bjarnos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSANE%20HUB593.lua", "https://scriptblox.com/script/Content-Deleted-INSANE-HUB-18084")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iamnewcodethis2/SimpleIncremental/main/FirstRelease/New/Sex.lua",true))()

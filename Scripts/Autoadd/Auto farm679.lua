@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Henry887/Strongest-Punch-Simulator-GUI/main/gui.lua", true))()

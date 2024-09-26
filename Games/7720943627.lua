@@ -1,0 +1,2 @@
+
+    addscript(7720943627, "Current Game","Get Every  Script", "Uploaded by Orealated on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Every%20%20Script549.lua", "https://scriptblox.com/script/Car-Crash-Test-Get-Every-Script-14083")

@@ -1,0 +1,4 @@
+
+    addscript(16733754732, "Current Game","Best Auto Farm and Many Features", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20and%20Many%20Features863.lua", "https://scriptblox.com/script/Anime-Islands-UPDATE-1-Best-Auto-Farm-and-Many-Features-12332")
+    addscriptexist(16733754732, "Best SCRIPT", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20SCRIPT358.lua", "https://scriptblox.com/script/Anime-Islands-UPDATE-2-Best-SCRIPT-12366")
+                                    

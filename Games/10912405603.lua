@@ -1,0 +1,4 @@
+
+    addscript(10912405603, "Current Game","Sokuri Hub  PAID ", "Uploaded by hereforreal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sokuri%20Hub%20%20PAID%2012.lua", "https://scriptblox.com/script/ICE-MAGIC-+-DEVIL-MISSIONS-Clover-Retribution-sokuri-hub-join-now-17141")
+    addscriptexist(10912405603, "FREE God Mode Auto Farm", "Uploaded by Berkay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20God%20Mode%20Auto%20Farm733.lua", "https://scriptblox.com/script/COOKING-MAGIC-+-CODES-Clover-Retribution-FREE-God-Mode-Auto-Farm-17474")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Funswapper/Funswapper-Script/main/Launcher.lua", true))()

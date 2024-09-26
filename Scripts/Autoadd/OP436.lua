@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/Anime_Speed_Race_GUI/main/README.md"),true))()

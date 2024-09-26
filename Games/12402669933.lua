@@ -6,3 +6,5 @@ addscriptexist(12402669933, "AutoBuy And AutoFarm Script OP", "Uploaded by 5pick
                                 
 addscriptexist(12402669933, "OP Script GUI", "Uploaded by 56_Clubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20GUI433.lua", "https://scriptblox.com/script/Apocalypse-Tycoon-OP-Script-GUI-7856")
                                 
+    addscriptexist(12402669933, "Spam paycheck", "Uploaded by Devion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spam%20paycheck439.lua", "https://scriptblox.com/script/Apocalypse-Tycoon-Spam-paycheck-11223")
+                                    

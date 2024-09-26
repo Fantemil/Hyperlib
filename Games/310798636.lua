@@ -1,0 +1,2 @@
+
+    addscript(310798636, "Current Game","typicl  script", "Uploaded by d4rkfordevil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/typicl%20%20script279.lua", "https://scriptblox.com/script/A-Typical-Neighborhood-typicl-script-17406")

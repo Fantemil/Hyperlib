@@ -1,0 +1,1 @@
+while true do wait()local args = { [1] = { [1] = "Server", [2] = "RoundManager", [3] = "UpdateScore" }, [2] = { [1] = 350 } } game:GetService("ReplicatedStorage").RF:InvokeServer(unpack(args)) end

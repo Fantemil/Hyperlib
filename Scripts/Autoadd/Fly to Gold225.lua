@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://waza-scripts.vercel.app/script/BuildABoat"))()

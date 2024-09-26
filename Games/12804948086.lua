@@ -1,0 +1,2 @@
+
+    addscript(12804948086, "Current Game","Gui Script", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20Script11.lua", "https://scriptblox.com/script/World's-Craziest-game-Gui-Script-13932")

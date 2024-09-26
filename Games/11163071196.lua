@@ -1,0 +1,2 @@
+
+    addscript(11163071196, "Current Game","inf money", "Uploaded by hallworld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money743.lua", "https://scriptblox.com/script/start-a-business-to-get-your-dad-back-inf-money-15211")

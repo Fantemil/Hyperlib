@@ -14,3 +14,15 @@ addscript(192800, "Current Game","statement GUI", "Uploaded by V3rmScriptsUpload
                                 
 addscriptexist(192800, "Vip Item Buyer For Work At A Pizza Palce", "Uploaded by hussain on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vip%20Item%20Buyer%20For%20Work%20At%20A%20Pizza%20Palce415.lua", "https://rscripts.net/script/vip-item-buyer-for-work-at-a-pizza-palce-3547")
                                 
+    addscriptexist(192800, "uto Frm", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm58.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-uto-Frm-12101")
+                                    
+    addscriptexist(192800, "K00pkiddv888", "Uploaded by donusmelih on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pkiddv888254.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-K00pkiddv888-18183")
+                                    
+    addscriptexist(192800, "music plyer", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/music%20plyer340.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-pizz-plce-fe-udio-10859")
+                                    
+    addscriptexist(192800, "FE control npc", "Uploaded by adamarsanoukaev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20control%20npc168.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-FE-control-npc-13683")
+                                    
+    addscriptexist(192800, "K00pkidd v89 It s", "Uploaded by donusmelih on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pkidd%20v89%20It%20s968.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-K00pkidd-v89-It-s-18185")
+                                    
+    addscriptexist(192800, "Put sound", "Uploaded by imposteurbleu123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Put%20sound425.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-udio-plyer-pizz-plce-11131")
+                                    

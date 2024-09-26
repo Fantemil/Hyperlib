@@ -1,0 +1,2 @@
+
+    addscript(14237585680, "Current Game","Xenon HUB", "Uploaded by Agatha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xenon%20HUB494.lua", "https://scriptblox.com/script/(EPISODE-THREE)-Interliminality-(ALPHA-1.1.5)-Xenon-HUB-13490")

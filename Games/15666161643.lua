@@ -1,0 +1,2 @@
+
+    addscript(15666161643, "Current Game","auto complete game", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20complete%20game455.lua", "https://scriptblox.com/script/RAGE-QUIT-OBBY-auto-complete-game-12723")

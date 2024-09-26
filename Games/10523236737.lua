@@ -1,2 +1,6 @@
 
     addscript(10523236737, "Current Game","Slenderman OP script", "Uploaded by TheCreatorID on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slenderman%20OP%20script797.lua", "https://scriptblox.com/script/Multiverse-Battlegrounds-script-10199")
+    addscriptexist(10523236737, "Roblox FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20FE%20kill%20all%20script941.lua", "https://scriptblox.com/script/Multiverse-Battlegrounds-Roblox-FE-kill-all-script-14788")
+                                    
+    addscriptexist(10523236737, "Overpowered Kill Everyone Autofarm", "Uploaded by FlamesW on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overpowered%20Kill%20Everyone%20Autofarm23.lua", "https://scriptblox.com/script/Multiverse-Battlegrounds-Overpowered-Kill-Everyone-Autofarm-15911")
+                                    

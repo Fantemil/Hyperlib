@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/9bd14f4b5a04e0580038571ffeff2e7e/raw/cd8571078ff718c8dfcbe36829ce3d322487131f/Roblox%20Dress%20To%20Impress%20Classic"))()

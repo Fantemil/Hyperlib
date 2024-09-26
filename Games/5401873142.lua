@@ -1,0 +1,2 @@
+
+    addscript(5401873142, "Current Game","SCHOOLHOUSE SCRIPT", "Uploaded by libraryuimain2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCHOOLHOUSE%20SCRIPT427.lua", "https://scriptblox.com/script/Baldi's-Basics-(FIXED)-SCHOOLHOUSE-SCRIPT-12155")

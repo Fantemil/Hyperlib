@@ -1,0 +1,2 @@
+
+    addscript(18279101245, "Current Game","ESP and INSTA", "Uploaded by FelSSJ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20and%20INSTA670.lua", "https://scriptblox.com/script/Find-The-Snacks-130!andx1F36B-ESP-15777")

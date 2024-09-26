@@ -1,0 +1,2 @@
+
+    addscript(17437306797, "Current Game","Auto  Fast", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20%20Fast360.lua", "https://scriptblox.com/script/FREE-LIMITED-LEGOVALK-SPIN-FOR-UGC!-Auto-Fast-13243")

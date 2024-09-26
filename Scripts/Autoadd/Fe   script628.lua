@@ -1,0 +1,5 @@
+xpcall(function()
+loadstring(game:HttpGet("https://github.com/Stang001/pulawat/blob/main/BladeBall.lua?raw=true"))()
+end,function()
+warn("Script error!")
+end)

@@ -14,3 +14,9 @@ addscriptexist(2474168535, "V165 Silent Aim Animal ESP Rob Aura", "Uploaded by E
                                 
     addscriptexist(2474168535, "Aimbot Dsc mikeexc", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20Dsc%20mikeexc725.lua", "https://scriptblox.com/script/Westbound-Aimbot-Dsc-mikeexc-9891")
                                     
+    addscriptexist(2474168535, "WestWare Prototype", "Uploaded by Sebi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WestWare%20Prototype708.lua", "https://scriptblox.com/script/Westbound-WestWare-Prototype-16704")
+                                    
+    addscriptexist(2474168535, "Cyhy Hub  God Mode Teleport Behind Players Noclip", "Uploaded by cyhyhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyhy%20Hub%20%20God%20Mode%20Teleport%20Behind%20Players%20Noclip852.lua", "https://scriptblox.com/script/Westbound-Script-18388")
+                                    
+    addscriptexist(2474168535, "RylorHub", "Uploaded by xkyxal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RylorHub802.lua", "https://scriptblox.com/script/Westbound-RylorHub-16244")
+                                    

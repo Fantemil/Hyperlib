@@ -20,3 +20,7 @@ addscriptexist(14437001043, "OP features", "Uploaded by 12slash25 on scriptblox.
                                     
     addscriptexist(14437001043, "Horror Game GUI V3", "Uploaded by nixelpixel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horror%20Game%20GUI%20V3846.lua", "https://scriptblox.com/script/UPD-Residence-Massacre-Horror-Game-GUI-V3-10052")
                                     
+    addscriptexist(14437001043, "Best  masscare script", "Uploaded by Pixeluted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20masscare%20script770.lua", "https://scriptblox.com/script/Residence-Massacre-Best-masscare-script-10726")
+                                    
+    addscriptexist(14437001043, "Closet utility script", "Uploaded by mxthqus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Closet%20utility%20script6.lua", "https://scriptblox.com/script/Residence-Massacre-Closet-utility-script-12796")
+                                    

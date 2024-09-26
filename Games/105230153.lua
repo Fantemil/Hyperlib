@@ -1,0 +1,2 @@
+
+    addscript(105230153, "Current Game","Get Badge", "Uploaded by IMakeBestScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Badge322.lua", "https://scriptblox.com/script/Robox-Obby-999M+-ROBOX-Get-Badge-16645")

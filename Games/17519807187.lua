@@ -1,0 +1,2 @@
+
+    addscript(17519807187, "Current Game","Auto  Star And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20%20Star%20And%20More851.lua", "https://scriptblox.com/script/FREE-UGC-Collect-Stars-For-Ugc-Auto-Star-And-More-13478")

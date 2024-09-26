@@ -1,0 +1,2 @@
+
+    addscript(15670434910, "Current Game","INF Stats and OP Eggs", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Stats%20and%20OP%20Eggs145.lua", "https://scriptblox.com/script/Eating-Battle-Simulator-INF-Stats-and-OP-Eggs-11010")

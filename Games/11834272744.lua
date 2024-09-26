@@ -1,0 +1,2 @@
+
+    addscript(11834272744, "Current Game","Change colors gui", "Uploaded by OuterTrees on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20colors%20gui353.lua", "https://scriptblox.com/script/Nations-Roleplay-2-Change-colors-gui-13144")

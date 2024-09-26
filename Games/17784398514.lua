@@ -1,0 +1,2 @@
+
+    addscript(17784398514, "Current Game","Script more summon", "Uploaded by fromthegrok on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20more%20summon553.lua", "https://scriptblox.com/script/NEW-MAPS-+-SALE-Toilet-Tower-Defense-Modded-Script-more-summon-14792")

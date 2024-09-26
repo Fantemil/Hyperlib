@@ -1,0 +1,2 @@
+
+    addscript(17300798098, "Current Game","Yin Hub", "Uploaded by Cici on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yin%20Hub541.lua", "https://scriptblox.com/script/FREE-Spin-For-Free!-Yin-Hub-17953")

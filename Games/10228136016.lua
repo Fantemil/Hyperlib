@@ -1,0 +1,2 @@
+
+    addscript(10228136016, "Current Game","darkdex working if ur executor is UD", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/darkdex%20working%20if%20ur%20executor%20is%20UD570.lua", "https://scriptblox.com/script/CREATIVEFallen-Survival-darkdex-working-if-ur-executor-is-UD-17495")

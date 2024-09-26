@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pryxo/RandomScripts/main/Sprinting%20Simulator"))()

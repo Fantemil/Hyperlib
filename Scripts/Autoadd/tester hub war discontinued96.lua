@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Testerhubplayer/Ability-wars/main/Ability_wars.lua"))()

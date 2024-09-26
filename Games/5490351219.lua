@@ -8,3 +8,5 @@ addscript(5490351219, "Current Game","a script", "Uploaded by bigblackbaIls on s
                                 
 addscriptexist(5490351219, "MADNESS Auto farm", "Uploaded by newblooodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MADNESS%20Auto%20farm467.lua", "https://scriptblox.com/script/100X-CLICKER-MADNESS!-Madness-Aut-farm-7183")
                                 
+    addscriptexist(5490351219, "No Gui Extreme Fast Click", "Uploaded by RIOT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Gui%20Extreme%20Fast%20Click885.lua", "https://scriptblox.com/script/100X-Clicker-Madness!-No-Gui-Extreme-Fast-Click-15193")
+                                    

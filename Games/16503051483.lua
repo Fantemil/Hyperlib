@@ -1,0 +1,2 @@
+
+    addscript(16503051483, "Current Game","Auto Collect", "Uploaded by gore on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect481.lua", "https://scriptblox.com/script/Treehouse-Tycoon-Auto-Collect-11265")

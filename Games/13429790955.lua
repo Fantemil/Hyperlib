@@ -1,0 +1,2 @@
+
+    addscript(13429790955, "Current Game","Hitbox", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox618.lua", "https://scriptblox.com/script/Murderers-vs-Sheriffs-2-Hitbox-15579")

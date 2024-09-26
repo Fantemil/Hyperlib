@@ -1,0 +1,2 @@
+
+    addscript(13000007654, "Current Game","Instant ugc", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20ugc724.lua", "https://scriptblox.com/script/Singapore-Wanderland-FREE-UGC-Instant-ugc-12154")

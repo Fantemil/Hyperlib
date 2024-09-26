@@ -1,0 +1,2 @@
+
+    addscript(9807221718, "Current Game","Free units Read desc", "Uploaded by Nooby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20units%20Read%20desc165.lua", "https://scriptblox.com/script/(free-upgrade-robot!!1)-tower-defense-but-bad-Free-unit-Read-desc-12380")

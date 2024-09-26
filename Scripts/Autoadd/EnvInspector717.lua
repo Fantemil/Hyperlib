@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MakerScript/UniversalScript/refs/heads/main/EnvInspector.lua"))()

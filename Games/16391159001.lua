@@ -1,0 +1,2 @@
+
+    addscript(16391159001, "Current Game","RustWare", "Uploaded by TheGoatedTeeYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RustWare928.lua", "https://scriptblox.com/script/Rustified-RustWare-14867")

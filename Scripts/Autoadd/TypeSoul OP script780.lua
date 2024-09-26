@@ -1,0 +1,1 @@
+discord.gg/vexium -- script is paid

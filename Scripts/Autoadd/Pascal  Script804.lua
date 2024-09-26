@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pascaldercoole1/Open-Source-Scripts/main/FreeIslands'))()

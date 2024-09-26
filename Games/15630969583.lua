@@ -1,0 +1,2 @@
+
+    addscript(15630969583, "Current Game","Inf win inf speed", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20win%20inf%20speed512.lua", "https://scriptblox.com/script/Rocket-Wings-Simulator-Inf-win-inf-speed-12380")

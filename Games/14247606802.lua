@@ -1,0 +1,4 @@
+
+    addscript(14247606802, "Current Game","Blackking", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackking528.lua", "https://scriptblox.com/script/Curse-Battlegrounds-Blacking-battleground-16898")
+    addscriptexist(14247606802, "Op script and inf awaken", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20and%20inf%20awaken365.lua", "https://scriptblox.com/script/Curse-Battlegrounds-Op-script-and-inf-awaken-16893")
+                                    

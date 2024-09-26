@@ -1,0 +1,2 @@
+
+    addscript(13682880624, "Current Game","become the best plyer or smth", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/become%20the%20best%20plyer%20or%20smth575.lua", "https://scriptblox.com/script/UPDATE-Slide-Down-A-Hill-become-the-best-plyer-or-smth-17383")

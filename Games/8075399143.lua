@@ -1,0 +1,6 @@
+
+    addscript(8075399143, "Current Game","Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More479.lua", "https://scriptblox.com/script/The-Time-of-Ninja-(UPDATE-0-BETA-TEST)-Auto-Farm-And-More-17195")
+    addscriptexist(8075399143, "autafarm chakra fast", "Uploaded by tiam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autafarm%20chakra%20fast142.lua", "https://scriptblox.com/script/The-Time-of-Ninja-(UPDATE-0-BETA-TEST)-autarm-chakra-fast-16901")
+                                    
+    addscriptexist(8075399143, "inf chakra for bobo peps", "Uploaded by tiam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20chakra%20for%20bobo%20peps25.lua", "https://scriptblox.com/script/The-Time-of-Ninja-(UPDATE-0-BETA-TEST)-inf-chakra-for-goy-peps-16902")
+                                    

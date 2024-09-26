@@ -1,0 +1,2 @@
+
+    addscript(6890234264, "Current Game","collect all and walkspeed changer", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/collect%20all%20and%20walkspeed%20changer815.lua", "https://scriptblox.com/script/Agar.io-collect-all-and-walkspeed-changer-11973")

@@ -1,0 +1,2 @@
+
+    addscript(17330290242, "Current Game","Simple Silent Aim", "Uploaded by Linemaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Silent%20Aim945.lua", "https://scriptblox.com/script/A2-Simple-Silent-Aim-12841")

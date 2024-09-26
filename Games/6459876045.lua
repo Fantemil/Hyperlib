@@ -1,0 +1,4 @@
+
+    addscript(6459876045, "Current Game","Rochips Script Universl", "Uploaded by elliotaguirre2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rochips%20Script%20Universl788.lua", "https://scriptblox.com/script/Come-stare-at-a-golden-rat-(part-2)-Rochips-Script-18494")
+    addscriptexist(6459876045, "Mence Hub Script", "Uploaded by elliotaguirre2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mence%20Hub%20Script149.lua", "https://scriptblox.com/script/Come-stare-at-a-golden-rat-(part-2)-Mence-Hub-Script-18540")
+                                    

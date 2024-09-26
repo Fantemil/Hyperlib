@@ -1,0 +1,2 @@
+
+    addscript(12076775711, "Current Game","Prim Script", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prim%20Script524.lua", "https://scriptblox.com/script/NEW-CODE-Primal-Pursuit-Prim-Script-17815")

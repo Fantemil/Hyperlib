@@ -1,0 +1,2 @@
+
+    addscript(15910411454, "Current Game","DELETE THIS UPLOAD", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DELETE%20THIS%20UPLOAD175.lua", "https://scriptblox.com/script/Mega-Domino-Playground-Nuke-Server-and-get-infinite-money-16183")

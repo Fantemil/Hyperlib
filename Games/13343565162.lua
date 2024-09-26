@@ -1,0 +1,2 @@
+
+    addscript(13343565162, "Current Game","Auto Collect And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20And%20More534.lua", "https://scriptblox.com/script/New-UGC-Froggie-Pond-Tycoon-Auto-Collect-And-More-12758")

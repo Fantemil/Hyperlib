@@ -1,2 +1,4 @@
 
 addscript(13424441880, "Current Game","Free Characters place", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Characters%20place514.lua", "https://scriptblox.com/script/FERGUS-Piggy-Tower-Defense-Free-Characters-place-7797")
+    addscriptexist(13424441880, "Spawn Any Troops FIXED", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spawn%20Any%20Troops%20FIXED160.lua", "https://scriptblox.com/script/MATCHMAKING-Piggy-Tower-Defense-Spawn-Any-Towe-14227")
+                                    

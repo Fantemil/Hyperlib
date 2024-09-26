@@ -6,3 +6,5 @@ addscriptexist(13326256431, "All Gear n VIP Room and more", "Uploaded by KhSaeed
                                 
 addscriptexist(13326256431, "VIP Room n All Weapons and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Room%20n%20All%20Weapons%20and%20more507.lua", "https://scriptblox.com/script/Obby-But-You-Can't-Jump-VIP-Room-n-All-Weapons-and-more-7672")
                                 
+    addscriptexist(13326256431, "Ln hub aka Lumin Hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub%20aka%20Lumin%20Hub124.lua", "https://scriptblox.com/script/Obby-But-You-Can't-Jump-Ln-hub-aka-Lumin-Hub-15324")
+                                    

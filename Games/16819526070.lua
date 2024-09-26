@@ -1,0 +1,2 @@
+
+    addscript(16819526070, "Current Game","", "Uploaded by reav on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/631.lua", "https://scriptblox.com/script/PIECE-RNG-"RPG-SIMULATOR"-RPG-Simulator-15561")

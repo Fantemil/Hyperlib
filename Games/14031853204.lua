@@ -1,0 +1,2 @@
+
+    addscript(14031853204, "Current Game","FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20kill%20all%20script691.lua", "https://scriptblox.com/script/Russian-Civil-War-FE-kill-all-script-17313")

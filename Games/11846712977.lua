@@ -1,0 +1,4 @@
+
+    addscript(11846712977, "Current Game","Script n9", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20n9721.lua", "https://scriptblox.com/script/Generic-Tycoon-Game-Script-n9-17120")
+    addscriptexist(11846712977, "Auto TP Collect Growables", "Uploaded by SpineZik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20TP%20Collect%20Growables200.lua", "https://scriptblox.com/script/Generic-Tycoon-Game-Auto-TP-Collect-Growables-17758")
+                                    

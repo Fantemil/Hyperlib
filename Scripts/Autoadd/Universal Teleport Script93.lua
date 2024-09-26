@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kazuapad/kazuscripts/main/kazutp.txt"))();

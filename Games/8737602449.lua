@@ -50,3 +50,15 @@ addscriptexist(8737602449, "PLS DONATE ANTI AFK SCRIPT", "Uploaded by 0kxn on rs
                                 
 addscriptexist(8737602449, "Nuke Donation ClientSided not ServerSided", "Uploaded by scriptingprocess on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nuke%20Donation%20ClientSided%20not%20ServerSided885.lua", "https://scriptblox.com/script/PLS-DONATE-Nuke-Donation-ClientSided-not-ServerSided-7796")
                                 
+    addscriptexist(8737602449, "Fake Donation NEW", "Uploaded by solidfahad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Donation%20NEW777.lua", "https://scriptblox.com/script/PLS-DONATE-Fake-NEW-10768")
+                                    
+    addscriptexist(8737602449, "ShifeHub V5 10 GAMES", "Uploaded by Shife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShifeHub%20V5%2010%20GAMES574.lua", "https://scriptblox.com/script/PLS-DONATE-ShifeHub-V5-10-GAMES-10328")
+                                    
+    addscriptexist(8737602449, "szze autofarm", "Uploaded by dotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/szze%20autofarm908.lua", "https://scriptblox.com/script/PLS-DONATE-szze-autofarm-11262")
+                                    
+    addscriptexist(8737602449, "Server Hop", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Hop121.lua", "https://scriptblox.com/script/PLS-DONATE-Server-Hop-12861")
+                                    
+    addscriptexist(8737602449, "Teleport ball to LOBBY", "Uploaded by LitSobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20ball%20to%20LOBBY19.lua", "https://scriptblox.com/script/PLS-DONATE-Bring-ball-to-the-lobby-10625")
+                                    
+    addscriptexist(8737602449, "Brookhaven", "Uploaded by saisthersnito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven14.lua", "https://scriptblox.com/script/PLS-DONATE-Brookhaven-19022")
+                                    

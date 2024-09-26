@@ -1,0 +1,4 @@
+
+    addscript(8573962925, "Current Game","Error 404 Sans FE", "Uploaded by 4X96X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Error%20404%20Sans%20FE757.lua", "https://scriptblox.com/script/Alternate-Battlegrounds-Error-404-Sans-FE-15193")
+    addscriptexist(8573962925, "no stamina drain", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20stamina%20drain25.lua", "https://scriptblox.com/script/Alternate-Battlegrounds-no-stamina-drain-17731")
+                                    

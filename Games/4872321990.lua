@@ -10,3 +10,5 @@ addscriptexist(4872321990, "Islands Schemtica  RRCreations", "Uploaded by BloodB
                                 
 addscriptexist(4872321990, "OP LAND SCRIPT", "Uploaded by rrcreations on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20LAND%20SCRIPT504.lua", "https://scriptblox.com/script/Islands-OP-LAND-SCRIPT-7953")
                                 
+    addscriptexist(4872321990, "Pascal  Script", "Uploaded by RATlO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pascal%20%20Script804.lua", "https://scriptblox.com/script/Islands-Pascal-Script-16626")
+                                    

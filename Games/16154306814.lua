@@ -1,0 +1,2 @@
+
+    addscript(16154306814, "Current Game","Infinite Robux and admin commands", "Uploaded by swag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Robux%20and%20admin%20commands772.lua", "https://scriptblox.com/script/PLS-DONATE-UNLIMITED-Infinite-Robux-and-admin-commands-12473")

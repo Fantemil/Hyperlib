@@ -1,0 +1,2 @@
+
+    addscript(12684368460, "Current Game","INF RESERCH", "Uploaded by NeXo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20RESERCH273.lua", "https://scriptblox.com/script/Build-a-bunker-to-survive-zombies-tycoon-inf-reserch-15168")

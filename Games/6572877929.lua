@@ -1,0 +1,2 @@
+
+    addscript(6572877929, "Current Game","Skibidi Hub", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20Hub634.lua", "https://scriptblox.com/script/READ-DESC-Rojutsu-Blox-Skibidi-Hub-17623")

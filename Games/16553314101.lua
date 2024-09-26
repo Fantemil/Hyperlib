@@ -1,0 +1,2 @@
+
+    addscript(16553314101, "Current Game","Op script Inf Money and Inf Potions", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20Inf%20Money%20and%20Inf%20Potions635.lua", "https://scriptblox.com/script/LINK-OMG-RNG(In-Dev)-Op-script-Inf-Money-and-Inf-Potions-16544")

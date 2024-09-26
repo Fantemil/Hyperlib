@@ -1,0 +1,2 @@
+
+    addscript(3203685552, "Current Game","Zephyr  ALPHA", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20%20ALPHA261.lua", "https://scriptblox.com/script/BEAR-(Alpha)-Zephyr-ALPHA-11607")

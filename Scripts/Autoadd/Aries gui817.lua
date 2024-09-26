@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LarryX4D/Aries-GUI/main/Aries%20GUI.lua"))()

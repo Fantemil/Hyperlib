@@ -16,3 +16,7 @@ addscript(6229116934, "Current Game","op script mags reach aimlock speed never l
                                 
     addscriptexist(6229116934, "Hoopz Gui", "Uploaded by blxnks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoopz%20Gui465.lua", "https://scriptblox.com/script/Hoopz-VEHICLES-(Basketball)-Hoopz-Gui-4874")
                                 
+    addscriptexist(6229116934, "Script for H o o p z", "Uploaded by mustafasbuisnessema on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20for%20H%20o%20o%20p%20z62.lua", "https://scriptblox.com/script/Hoopz-CLANS-(Basketball)-Script-for-H-o-o-p-z-18298")
+                                    
+    addscriptexist(6229116934, "Op Gui", "Uploaded by zaee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Gui899.lua", "https://scriptblox.com/script/Hoopz-CLANS-(Basketball)-Op-Gui-14109")
+                                    

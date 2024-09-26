@@ -1,2 +1,4 @@
 
 addscript(12995749346, "Current Game","Naruto But Every Second 1 Chakra", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Naruto%20But%20Every%20Second%201%20Chakra575.lua", "https://rscripts.net/script/naruto-but-every-second-1-chakra-3838")
+    addscriptexist(12995749346, "OP AUTOFARM", "Uploaded by filthydsr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM969.lua", "https://scriptblox.com/script/UPD2.2Naruto-But-Every-Second-+1-Chakra-OP-AUTOFARM-10948")
+                                    

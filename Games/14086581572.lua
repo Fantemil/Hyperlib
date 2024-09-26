@@ -6,3 +6,5 @@ addscriptexist(14086581572, "1 FREE GUI", "Uploaded by Nicuse on scriptblox.com"
                                 
 addscriptexist(14086581572, "Script REMOVE ANTICHEAT TP TO END", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20REMOVE%20ANTICHEAT%20TP%20TO%20END376.lua", "https://scriptblox.com/script/400-Altitorture-2-Player-Obby-Script-REMOVE-ANTICHEAT-TP-TO-END-6905")
                                 
+    addscriptexist(14086581572, "Teleport Hub solara supported", "Uploaded by ThorTheMain* on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20Hub%20solara%20supported395.lua", "https://scriptblox.com/script/Altitorture-2-Player-Obby-Teleport-Hub-solara-supported-15881")
+                                    

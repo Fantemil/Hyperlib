@@ -1,0 +1,3 @@
+-- patched
+-- source: https://pastebin.com/raw/yPZzcPS4
+-- no you cannot fix it (maybe)

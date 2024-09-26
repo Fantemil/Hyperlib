@@ -1,0 +1,2 @@
+
+    addscript(14708545931, "Current Game","Ouxie Hub OP fixed", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ouxie%20Hub%20OP%20fixed318.lua", "https://scriptblox.com/script/Blade-Soccer-Ouxie-Hub-OP-fixed-12543")

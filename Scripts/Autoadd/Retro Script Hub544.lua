@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/DeathPoppyTech/retro-script-hub/main/source'))()

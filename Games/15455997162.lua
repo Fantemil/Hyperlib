@@ -1,0 +1,2 @@
+
+    addscript(15455997162, "Current Game","Auto  Dice", "Uploaded by jpepiclol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20%20Dice370.lua", "https://scriptblox.com/script/Roll-the-Dice!-10000Rbx-Auto-Dice-12116")

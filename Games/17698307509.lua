@@ -1,0 +1,2 @@
+
+    addscript(17698307509, "Current Game","LDS HUB", "Uploaded by LDS_Hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LDS%20HUB40.lua", "https://scriptblox.com/script/Be-a-Tornado-LDS-HUB-14599")

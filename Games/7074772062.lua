@@ -1,0 +1,2 @@
+
+    addscript(7074772062, "Current Game","Save your arts in screenshot", "Uploaded by OuterTrees on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Save%20your%20arts%20in%20screenshot918.lua", "https://scriptblox.com/script/BIG-UPDATE!-Speed-Draw!-Save-your-arts-in-screenshot-13685")

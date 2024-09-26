@@ -1,0 +1,2 @@
+
+    addscript(16572004551, "Current Game","Inf gems", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20gems603.lua", "https://scriptblox.com/script/Training-Simulator-Inf-gems-13621")

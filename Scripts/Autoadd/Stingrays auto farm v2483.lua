@@ -1,0 +1,3 @@
+COPY THIS INTO NEW TAB TO ACCESS THE SCRIPT
+https://link-hub.net/1174972/stingray-auto-farm
+(V3 RELEASED SOON)

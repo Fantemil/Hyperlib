@@ -1,0 +1,2 @@
+
+    addscript(17003365237, "Current Game","OP SCRIPT", "Uploaded by Showcase12345678910 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT577.lua", "https://scriptblox.com/script/Lebron-Clicker!-SECRETS-OP-SCRIPT-14793")

@@ -1,0 +1,2 @@
+
+    addscript(10758405460, "Current Game","KILLJOY", "Uploaded by fkit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILLJOY143.lua", "https://scriptblox.com/script/KILLJOY:-INFECTION-ALPHA-KILLJOY-18712")

@@ -24,3 +24,11 @@ addscriptexist(8916037983, "source code", "Uploaded by botbrostopusing on script
                                     
     addscriptexist(8916037983, "SSploits", "Uploaded by sponsoparnordvpn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SSploits107.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-SSploits-7955")
                                     
+    addscriptexist(8916037983, "Artist drawing print", "Uploaded by medbays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Artist%20drawing%20print616.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Artist-drawing-print-17637")
+                                    
+    addscriptexist(8916037983, "Artist Discord Bot Autogenerate Art", "Uploaded by kledi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Artist%20Discord%20Bot%20Autogenerate%20Art521.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Artist-Discord-Bot-Autogenerate-Art-14661")
+                                    
+    addscriptexist(8916037983, "Auto draw", "Uploaded by Jay_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20draw139.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-Auto-draw-14733")
+                                    
+    addscriptexist(8916037983, "TROLL SCRIPT UNIVERSAL FLING DUPE BYP CHAT", "Uploaded by Waters on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROLL%20SCRIPT%20UNIVERSAL%20FLING%20DUPE%20BYP%20CHAT90.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-TROLL-SCRIPT-UNIVERSAL-FLING-DUPE-BYP*-CHAT-17028")
+                                    

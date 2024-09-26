@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NhatMjnhSSH/suho-hub/refs/heads/main/WORLDSUHOHUB.lua"))()

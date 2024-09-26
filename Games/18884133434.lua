@@ -1,0 +1,2 @@
+
+    addscript(18884133434, "Current Game","polaro and ultim script", "Uploaded by ItsNotTomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/polaro%20and%20ultim%20script830.lua", "https://scriptblox.com/script/Pokemon-or-Project-ULTIMA-NEW-CODES-polaro-and-script-17636")

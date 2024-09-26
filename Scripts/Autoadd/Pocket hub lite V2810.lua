@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ali-droidlol/Pocket-hub-lite/main/Pocket%20hub%20lite"))()

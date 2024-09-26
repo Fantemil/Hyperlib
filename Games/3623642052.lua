@@ -1,0 +1,2 @@
+
+    addscript(3623642052, "Current Game","free badges", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20badges40.lua", "https://scriptblox.com/script/Classic-Hangman-free-badges-13559")

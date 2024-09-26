@@ -1,0 +1,2 @@
+
+    addscript(8815018120, "Current Game","Auto win", "Uploaded by Jamjam0139 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20win256.lua", "https://scriptblox.com/script/TOH-but-with-rising-lava-Auto-win-14595")

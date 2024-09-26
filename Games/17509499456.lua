@@ -1,0 +1,2 @@
+
+    addscript(17509499456, "Current Game","Farm fast Made by Serversadzz", "Uploaded by serversadzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20fast%20Made%20by%20Serversadzz28.lua", "https://scriptblox.com/script/Tank-Evolution-Simulator-(RELEASE)-Farm-fast-Made-by-Serversadzz-13808")

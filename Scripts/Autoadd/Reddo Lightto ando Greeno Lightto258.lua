@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ChainGotStucked/a55af82d82574/main/Red%20Light%20Green%20Light%20Script%20by%20Menace"))()

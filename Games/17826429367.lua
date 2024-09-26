@@ -1,0 +1,2 @@
+
+    addscript(17826429367, "Current Game","OP SCRIPT", "Uploaded by Showcase12345678910 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT372.lua", "https://scriptblox.com/script/UPD-Skibidi-Aura-Simulator-OP-SCRIPT-14827")

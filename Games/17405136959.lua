@@ -1,0 +1,2 @@
+
+    addscript(17405136959, "Current Game","Get Ult Moves FIXED", "Uploaded by Stellar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Ult%20Moves%20FIXED474.lua", "https://scriptblox.com/script/KJ-Moveset-Remake-NEW-AWAKENING-Get-Ult-Moves-FIXED-15870")

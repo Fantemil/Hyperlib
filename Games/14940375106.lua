@@ -1,0 +1,4 @@
+
+    addscript(14940375106, "Current Game","Faster than the tp script", "Uploaded by kassemabdo841 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Faster%20than%20the%20tp%20script525.lua", "https://scriptblox.com/script/SPYING-Classic-Nations-Faster-script-18754")
+    addscriptexist(14940375106, "The newest auto collect script for the game", "Uploaded by kassemabdo841 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20newest%20auto%20collect%20script%20for%20the%20game683.lua", "https://scriptblox.com/script/SPYING-Classic-Nations-The-newest-auto-collect-script-for-the-game-18699")
+                                    

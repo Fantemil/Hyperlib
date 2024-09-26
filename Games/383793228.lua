@@ -2,3 +2,5 @@
 addscript(383793228, "Current Game","INF MONEY", "Uploaded by VoidSkids on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY147.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Baby-INF-MONEY-3942")
     addscriptexist(383793228, "infinite money with one click", "Uploaded by skyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20money%20with%20one%20click763.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Baby-infinite-money-with-one-click-6245")
                                 
+    addscriptexist(383793228, "bring plyers inf money kill plyers nked plyers", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bring%20plyers%20inf%20money%20kill%20plyers%20nked%20plyers251.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Baby-bring-plyers-inf-money-kill-plyers-nked-plyers-12368")
+                                    

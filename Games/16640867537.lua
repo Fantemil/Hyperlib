@@ -1,0 +1,2 @@
+
+    addscript(16640867537, "Current Game","Free 3 instant ugc", "Uploaded by Baconboss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%203%20instant%20ugc76.lua", "https://scriptblox.com/script/Visa-Live-at-le-Louvre-Free-3-instant-ugc-13499")

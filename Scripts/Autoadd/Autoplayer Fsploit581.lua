@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fsploit/Funkyfriday-new/main/How-to-funky-friday-script-new", true))()

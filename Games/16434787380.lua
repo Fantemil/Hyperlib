@@ -1,0 +1,4 @@
+
+    addscript(16434787380, "Current Game","OP", "Uploaded by function on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP600.lua", "https://scriptblox.com/script/Every-Second-You-Get-+1-Speed-But-You're-On-a-Bike-utofrm-Wins-nd-Rebirths-15556")
+    addscriptexist(16434787380, "Best Script Zub Hub", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script%20Zub%20Hub49.lua", "https://scriptblox.com/script/Every-Second-You-Get-+1-Speed-But-You're-On-a-Bike-uto-13179")
+                                    

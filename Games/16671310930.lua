@@ -1,0 +1,2 @@
+
+    addscript(16671310930, "Current Game","Inf Money Script USE ONCE", "Uploaded by king02noob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20Script%20USE%20ONCE442.lua", "https://scriptblox.com/script/Disco's-RNG-Update-In-Dev-SORRY-FOR-REQUEST-BUT-THIS-GAME-14968")

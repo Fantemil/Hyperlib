@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/voidy434343/z_script/main/Alt%20Control.lua'))()

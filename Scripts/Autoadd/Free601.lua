@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Pop%20Bubbles%20for%20UGC"))()

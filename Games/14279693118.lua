@@ -1,0 +1,2 @@
+
+    addscript(14279693118, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2613.lua", "https://scriptblox.com/script/OP-TOWER-Skibi-Defense-Demonic-HUB-V2-10421")

@@ -1,0 +1,1 @@
+script request like autoplayer thats it

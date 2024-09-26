@@ -1,0 +1,2 @@
+
+    addscript(17463473767, "Current Game","script", "Uploaded by Maulanaharwono on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script622.lua", "https://scriptblox.com/script/NEW-Mafia-Boss-scriptp-15622")

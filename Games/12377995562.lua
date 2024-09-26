@@ -1,2 +1,4 @@
 
     addscript(12377995562, "Current Game","Auto kill trollers npc expect player", "Uploaded by Baldman282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20kill%20trollers%20npc%20expect%20player343.lua", "https://scriptblox.com/script/Trollge-Incident-Fights-Reborn-Auto-kill-trollers-npc-expect-player-9357")
+    addscriptexist(12377995562, "Auto farm and inf ability", "Uploaded by Abysall_hunter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20and%20inf%20ability306.lua", "https://scriptblox.com/script/Patch2-Trollge-Incident-Fights-Reborn-Auto-farm-and-inf-ability-17370")
+                                    

@@ -1,0 +1,2 @@
+--Join Discord For script--
+--https://discord.gg/yrrr8QKt--

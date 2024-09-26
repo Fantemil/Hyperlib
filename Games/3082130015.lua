@@ -1,0 +1,2 @@
+
+    addscript(3082130015, "Current Game","Roblox FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20FE%20kill%20all%20script777.lua", "https://scriptblox.com/script/Ninja-Magic-Roblox-FE-kill-all-script-15132")

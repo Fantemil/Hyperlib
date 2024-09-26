@@ -30,3 +30,9 @@ addscriptexist(7952502098, "Auto Win", "Uploaded by a_nerd on scriptblox.com", "
                                     
     addscriptexist(7952502098, "Farming Tiles ESP Godmode", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farming%20Tiles%20ESP%20Godmode329.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Farming-Tiles-ESP-Godmode-10226")
                                     
+    addscriptexist(7952502098, "Reveal all panes", "Uploaded by SCREEPSTU on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reveal%20all%20panes869.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Reveal-all-es-15821")
+                                    
+    addscriptexist(7952502098, "Teleport to End Zub Hub", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20End%20Zub%20Hub357.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Teleport-to-End-13062")
+                                    
+    addscriptexist(7952502098, "Godmode Autofarm Tile ESP", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode%20Autofarm%20Tile%20ESP480.lua", "https://scriptblox.com/script/Impossible-Glass-Bridge-Obby!-(Squid-Game)-Godmode-Autofarm-Tile-ESP-12287")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZekzV2/IncenseV1/main/IncenseV1.txt"))()

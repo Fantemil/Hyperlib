@@ -1,0 +1,2 @@
+
+    addscript(245440965, "Current Game","Kick All", "Uploaded by yyxeno6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kick%20All779.lua", "https://scriptblox.com/script/Shipping-Lanes-Kick-All-16821")

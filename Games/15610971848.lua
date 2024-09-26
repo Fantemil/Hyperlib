@@ -1,0 +1,2 @@
+
+    addscript(15610971848, "Current Game","INFAuto Rebirth and More", "Uploaded by CharlesLec16F1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFAuto%20Rebirth%20and%20More972.lua", "https://scriptblox.com/script/Sword-Training-Simulator-INF-and-auto-rebirth-and-More-14682")

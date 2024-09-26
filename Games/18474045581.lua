@@ -1,0 +1,2 @@
+
+    addscript(18474045581, "Current Game","Vernox Working On SolaraWave", "Uploaded by SpineZik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vernox%20Working%20On%20SolaraWave364.lua", "https://scriptblox.com/script/Find-The-Cats-95-Vernox-Working-On-Solara-17819")

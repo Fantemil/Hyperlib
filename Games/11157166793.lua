@@ -1,0 +1,4 @@
+
+    addscript(11157166793, "Current Game","Spectrum For  Game", "Uploaded by Spectrum69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spectrum%20For%20%20Game278.lua", "https://scriptblox.com/script/Ant-War-HONEYPOT-ANT-and-LOOTING-Spectrum-For-Game-15562")
+    addscriptexist(11157166793, "Very simple and basic kill aura", "Uploaded by Spectrum69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20simple%20and%20basic%20kill%20aura516.lua", "https://scriptblox.com/script/Ant-War-HONEYPOT-ANT-and-LOOTING-Very-simple-and-basic-kill-aura-14586")
+                                    

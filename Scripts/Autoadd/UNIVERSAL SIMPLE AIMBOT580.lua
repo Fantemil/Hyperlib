@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Niviana1/universal/main/main/aimbotv1.lua'))()

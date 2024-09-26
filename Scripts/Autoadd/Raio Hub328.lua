@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GlopGlopLinduh/barbaridades-da-vida/main/Brasil%20Ilha%20Bela"))()

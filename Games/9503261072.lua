@@ -1,0 +1,2 @@
+
+    addscript(9503261072, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2810.lua", "https://scriptblox.com/script/SKINS-Tower-Defense-X:-BETA-Demonic-HUB-V2-10559")

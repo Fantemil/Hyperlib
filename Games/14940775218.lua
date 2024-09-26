@@ -1,0 +1,2 @@
+
+    addscript(14940775218, "Current Game","Projeto LKB I Script 0C72NX72HX83N", "Uploaded by 7FN38VNS9VL38GJDQ09Z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20LKB%20I%20Script%200C72NX72HX83N805.lua", "https://scriptblox.com/script/FPS-No-Scope-Arcade-(2021)-Projeto-LKB-I-Script-0C72NX72HX83N-12412")

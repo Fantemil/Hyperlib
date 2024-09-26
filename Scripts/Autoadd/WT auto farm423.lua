@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Adidsus/rb/blob/194b7151863d8635b13b1a4972c2fed338bb6639/wartyccon.lua", true))()

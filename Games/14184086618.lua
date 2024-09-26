@@ -70,3 +70,17 @@ addscriptexist(14184086618, "unclock everything ll the s op win frm remove killp
                                     
     addscriptexist(14184086618, "Instnt Finish Frm Trophies", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instnt%20Finish%20Frm%20Trophies533.lua", "https://scriptblox.com/script/Obby-But-You're-On-a-Bike-Instnt-Finish-Frm-Trophies-9381")
                                     
+    addscriptexist(14184086618, "LN hub k Lumin hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LN%20hub%20k%20Lumin%20hub722.lua", "https://scriptblox.com/script/W35-Obby-But-You're-On-a-Bike-LN-hub-k-Lumin-hub-15178")
+                                    
+    addscriptexist(14184086618, "FroZen Hub Esy to use", "Uploaded by FrostbiteDevelopment on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FroZen%20Hub%20Esy%20to%20use723.lua", "https://scriptblox.com/script/UPD-Obby-But-You're-On-a-Bike-FroZen-Hub-Esy-to-use-11968")
+                                    
+    addscriptexist(14184086618, "Skip Worlds I W38", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20Worlds%20I%20W38902.lua", "https://scriptblox.com/script/W37-Obby-But-You're-On-a-Bike-Skip-ll-Worlds-I-W27-15611")
+                                    
+    addscriptexist(14184086618, "Equip ny", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Equip%20ny37.lua", "https://scriptblox.com/script/W36-Obby-But-You're-On-a-Bike-Equip-ny-15379")
+                                    
+    addscriptexist(14184086618, "Skip Everything Zub Hub", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20Everything%20Zub%20Hub232.lua", "https://scriptblox.com/script/W28-Obby-But-You're-On-a-Bike-Skip-ll-Worlds-13063")
+                                    
+    addscriptexist(14184086618, "OP Script I guess", "Uploaded by JaimeGN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20I%20guess182.lua", "https://scriptblox.com/script/W16-Obby-But-You're-On-a-Bike-Tor-IsMe-Script-10386")
+                                    
+    addscriptexist(14184086618, "Get ll s OP no key needed", "Uploaded by NotMyscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20ll%20s%20OP%20no%20key%20needed830.lua", "https://scriptblox.com/script/W36-Obby-But-You're-On-a-Bike-Get-ll-s-OP-no-key-needed-15350")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(7227293156, "Current Game","OP", "Uploaded by roygod02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP730.lua", "https://scriptblox.com/script/Tower-of-Hell-OP-17926")

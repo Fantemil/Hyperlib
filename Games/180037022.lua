@@ -6,3 +6,5 @@ addscript(180037022, "Current Game","loser", "Uploaded by antoniodallypro on scr
                                 
     addscriptexist(180037022, "Script  GET ALL EMERALDS  RINGS  OPEN SOURCE", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20%20GET%20ALL%20EMERALDS%20%20RINGS%20%20OPEN%20SOURCE840.lua", "https://scriptblox.com/script/Fix-Update-1-Sonic-Ultimate-RPG-Script-or-GET-ALL-EMERALDS-and-RINGS-OPEN-SOURCE-3857")
                                 
+    addscriptexist(180037022, "Turns into hyper", "Uploaded by ulandaygabriel764 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Turns%20into%20hyper790.lua", "https://scriptblox.com/script/VFX-Update-Sonic-Ultimate-RPG-Turns-into-hyper-10932")
+                                    

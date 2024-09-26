@@ -1,0 +1,2 @@
+
+    addscript(14368557094, "Current Game","Caxst Hud", "Uploaded by Script_Roblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Caxst%20Hud193.lua", "https://scriptblox.com/script/UPD-Blade-Ball-Caxst-Hud-10707")

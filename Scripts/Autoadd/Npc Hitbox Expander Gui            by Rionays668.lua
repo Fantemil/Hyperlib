@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/coqs/fried-chicken/main/chicken1"))()

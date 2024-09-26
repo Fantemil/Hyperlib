@@ -1,0 +1,2 @@
+
+    addscript(17334603733, "Current Game","simple   script", "Uploaded by Default_sims on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20%20%20script474.lua", "https://scriptblox.com/script/Saber-Battle-Simulator-simple-script-15460")

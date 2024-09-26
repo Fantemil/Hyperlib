@@ -1,0 +1,4 @@
+
+    addscript(17659529447, "Current Game","Instant UGC", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC820.lua", "https://scriptblox.com/script/AVNU:-Where-Music-Meets-Ft.-Mimi-Webb-Instant-UGC-13814")
+    addscriptexist(17659529447, "No more stocks", "Uploaded by Baconboss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20more%20stocks799.lua", "https://scriptblox.com/script/AVNU:-Where-Music-Meets-Ft.-Mimi-Webb-Instant-get-ugc-13837")
+                                    

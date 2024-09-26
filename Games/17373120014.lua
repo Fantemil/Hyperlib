@@ -1,0 +1,2 @@
+
+    addscript(17373120014, "Current Game","Executor Theme For Codex", "Uploaded by tfoeofficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Executor%20Theme%20For%20Codex383.lua", "https://scriptblox.com/script/Team-Tsploit-Main-Place-Executor-Theme-For-Codex-13179")

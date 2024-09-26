@@ -1,0 +1,2 @@
+
+    addscript(15687212155, "Current Game","FAKE CEO", "Uploaded by Uranus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAKE%20CEO399.lua", "https://scriptblox.com/script/LABOR-STRIKES-Airplane-Factory-Simulator-FAKE-CEO-14022")

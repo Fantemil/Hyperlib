@@ -1,0 +1,2 @@
+
+    addscript(4975865235, "Current Game","OperaHUB", "Uploaded by vxsty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OperaHUB819.lua", "https://scriptblox.com/script/UPDATE-Mechanical-Ascension-X-OperaHUB-11011")

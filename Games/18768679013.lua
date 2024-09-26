@@ -1,0 +1,2 @@
+
+    addscript(18768679013, "Current Game","XenonHUB Work solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XenonHUB%20Work%20solara833.lua", "https://scriptblox.com/script/Every-Click-+1-Speed-XenonHUB-18024")

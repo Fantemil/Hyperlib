@@ -1,0 +1,2 @@
+
+    addscript(6918986816, "Current Game","Funny", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funny656.lua", "https://scriptblox.com/script/Be-A-Duck!-Funny-15242")

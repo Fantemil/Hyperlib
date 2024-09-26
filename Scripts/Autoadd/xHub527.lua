@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dreams7906/Scripts/main/Project%20Polaro%20Pokemon",true))()

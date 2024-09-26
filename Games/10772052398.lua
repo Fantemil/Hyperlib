@@ -1,2 +1,4 @@
 
 addscript(10772052398, "Current Game","AUTO CRATE SCRIPT", "Uploaded by sturpeegg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20CRATE%20SCRIPT233.lua", "https://scriptblox.com/script/Defender's-Depot-2-Tower-Defense-AUTO-CRATE-SCRIPT-7019")
+    addscriptexist(10772052398, "Collect Crates Auto Start Autofarm", "Uploaded by LTX_Lite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20Crates%20Auto%20Start%20Autofarm598.lua", "https://scriptblox.com/script/Defender's-Depot-2-Tower-Defense-Collect-Crates-Auto-Start-Autofarm-16577")
+                                    

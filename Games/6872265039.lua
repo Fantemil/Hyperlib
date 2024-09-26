@@ -108,3 +108,67 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Spin Bot", "Uploaded by 5iREx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20Bot728.lua", "https://scriptblox.com/script/BedWars-LUCKYBLOCK-Spin-Bot-10198")
                                     
+    addscriptexist(6872265039, "Render Intents  script", "Uploaded by LynoConfigs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Render%20Intents%20%20script41.lua", "https://scriptblox.com/script/BedWars-TOURNAMENTS!-Render-Intents-script-18926")
+                                    
+    addscriptexist(6872265039, "Fly and Inf Jumps and Auto Bank", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20and%20Inf%20Jumps%20and%20Auto%20Bank313.lua", "https://scriptblox.com/script/BedWars-EPILOGUE-Fly-and-Inf-Jumps-and-Auto-Bank-11287")
+                                    
+    addscriptexist(6872265039, "SKI HUB V10 REALSED  Vape Edit", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKI%20HUB%20V10%20REALSED%20%20Vape%20Edit219.lua", "https://scriptblox.com/script/BedWars-TRITON-KIT-SKI-HUB-V10-REALSED-Vape-Edit-15288")
+                                    
+    addscriptexist(6872265039, "ghostware", "Uploaded by anwarmathly6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ghostware826.lua", "https://scriptblox.com/script/BedWars-TRITON-KIT-ghostware-14902")
+                                    
+    addscriptexist(6872265039, "VXPE V4 lite hub", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VXPE%20V4%20lite%20hub72.lua", "https://scriptblox.com/script/BedWars-SUMMER-SHOWDOWN-VXPE-V4-lite-hub-14886")
+                                    
+    addscriptexist(6872265039, "AetherClient Discontinued", "Uploaded by johnsonfxhh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AetherClient%20Discontinued962.lua", "https://scriptblox.com/script/BedWars-Match-Mechanics-AetherClient-15561")
+                                    
+    addscriptexist(6872265039, "SetEmote", "Uploaded by InfiniteScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SetEmote266.lua", "https://scriptblox.com/script/BedWars-Freiya-SetEmote-11815")
+                                    
+    addscriptexist(6872265039, "render vape v4", "Uploaded by maxeyspector1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/render%20vape%20v4767.lua", "https://scriptblox.com/script/BedWars-Epilogue-render-vape-v4-16024")
+                                    
+    addscriptexist(6872265039, "Spin Bot and Speed Up", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20Bot%20and%20Speed%20Up713.lua", "https://scriptblox.com/script/BedWars-Evelynn-Contract-Spin-Bot-and-Speed-Up-10664")
+                                    
+    addscriptexist(6872265039, "Auto Toxic", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Toxic594.lua", "https://scriptblox.com/script/BedWars-THE-HUNT-Auto-Toxic-11323")
+                                    
+    addscriptexist(6872265039, "Ranked", "Uploaded by fw_yxgjay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ranked43.lua", "https://scriptblox.com/script/BedWars-Ranked-Ranked-17583")
+                                    
+    addscriptexist(6872265039, "OP Bed wars Roblox GUI 2024", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Bed%20wars%20Roblox%20GUI%20202493.lua", "https://scriptblox.com/script/BedWars-ARENA-LTM-OP-Script-16831")
+                                    
+    addscriptexist(6872265039, "voidware vape v4", "Uploaded by maxeyspector1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/voidware%20vape%20v4227.lua", "https://scriptblox.com/script/BedWars-Epilogue-voidware-vape-v4-15982")
+                                    
+    addscriptexist(6872265039, "SKI HUB  FIXED FR FR Vape edit", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKI%20HUB%20%20FIXED%20FR%20FR%20Vape%20edit124.lua", "https://scriptblox.com/script/BedWars-QuickPlay-SKI-HUB-FIXED-FR-FR-Vape-edit-15335")
+                                    
+    addscriptexist(6872265039, "Bedwars old private vape", "Uploaded by The_script_user on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20old%20private%20vape471.lua", "https://scriptblox.com/script/BedWarsPenguin-Survival-Bedwars-old-private-vape-13319")
+                                    
+    addscriptexist(6872265039, "Spin Bot Speed", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spin%20Bot%20Speed252.lua", "https://scriptblox.com/script/BedWars-Evelynn-Contract-Spin-Bot-Speed-10748")
+                                    
+    addscriptexist(6872265039, "OP  SCRIPT", "Uploaded by skyuwu1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20SCRIPT290.lua", "https://scriptblox.com/script/BedWars-QuickPlay-OP-SCRIPT-15381")
+                                    
+    addscriptexist(6872265039, "Auto Forge and No Fall", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Forge%20and%20No%20Fall445.lua", "https://scriptblox.com/script/BedWars-Season-X-Auto-Forge-and-No-Fall-12281")
+                                    
+    addscriptexist(6872265039, "Vape V4 Full wave support", "Uploaded by Viper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vape%20V4%20Full%20wave%20support642.lua", "https://scriptblox.com/script/BedWars-Season-X-Vape-V4-Full-wave-support-12271")
+                                    
+    addscriptexist(6872265039, "cocosploit", "Uploaded by Jams on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cocosploit50.lua", "https://scriptblox.com/script/BedWars-SUMMER-SHOWDOWN-cocosploit-14490")
+                                    
+    addscriptexist(6872265039, "Bedwars etruia script", "Uploaded by The_script_user on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bedwars%20etruia%20script20.lua", "https://scriptblox.com/script/BedWarsPenguin-Survival-Bedwars-etruia-script-13328")
+                                    
+    addscriptexist(6872265039, "COCOKIWI UPDATED V2 SOLARA HELP IN DESC", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COCOKIWI%20UPDATED%20V2%20SOLARA%20HELP%20IN%20DESC521.lua", "https://scriptblox.com/script/BedWars-TRITON-KIT-COCOKIWI-UPDATED-V2-SOLARA-HELP-IN-DESC-14927")
+                                    
+    addscriptexist(6872265039, "Inf Jumps Auto Toxic Chat Spam", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Jumps%20Auto%20Toxic%20Chat%20Spam754.lua", "https://scriptblox.com/script/BedWars-Domination-LTM-Inf-Jumps-Auto-Toxic-Chat-Spam-10968")
+                                    
+    addscriptexist(6872265039, "Raven b4 Unpatched", "Uploaded by Gamer628454 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20b4%20Unpatched131.lua", "https://scriptblox.com/script/BedWars-THE-HUNT-Raven-b4-REBORN-11434")
+                                    
+    addscriptexist(6872265039, "haha", "Uploaded by hyoweqqqqqq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/haha627.lua", "https://scriptblox.com/script/BedWars-Training-Room-haha-11189")
+                                    
+    addscriptexist(6872265039, "Novoline", "Uploaded by nebulawareconfigs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Novoline362.lua", "https://scriptblox.com/script/BedWars-Epilogue-Nexus-16108")
+                                    
+    addscriptexist(6872265039, "BedWars VAPE V4", "Uploaded by nefy111 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BedWars%20VAPE%20V4714.lua", "https://scriptblox.com/script/BedWarsCLASSIC-+-ANNIVERSARY-BedWars-VAPE-V4-13363")
+                                    
+    addscriptexist(6872265039, "Auto Bank and Inf Jumps", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Bank%20and%20Inf%20Jumps664.lua", "https://scriptblox.com/script/BedWars-NEW-KIT-Auto-Bank-and-Inf-Jumps-10462")
+                                    
+    addscriptexist(6872265039, "cocokiwi", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cocokiwi289.lua", "https://scriptblox.com/script/BedWars-SUMMER-SHOWDOWN-cocokiwi-14887")
+                                    
+    addscriptexist(6872265039, "V4PE V4", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/V4PE%20V454.lua", "https://scriptblox.com/script/BedWars-TRITON-KIT-V4PE-V4-14923")
+                                    
+    addscriptexist(6872265039, "VoidWare", "Uploaded by Littmsn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VoidWare880.lua", "https://scriptblox.com/script/BedWars-SEASON-11-VoidWare-17361")
+                                    
+    addscriptexist(6872265039, "Bed Wars Best Script GodSpolit", "Uploaded by versez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bed%20Wars%20Best%20Script%20GodSpolit252.lua", "https://scriptblox.com/script/BedWars-INFECTED-Bed-Wars-Best-Script-GodSpolit-11802")
+                                    

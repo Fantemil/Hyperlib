@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Troll-People-Obby-V.1/main/Op%20script"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ffedex/scripts/main/HatScript.lua"))()

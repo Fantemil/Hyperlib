@@ -1,0 +1,2 @@
+
+    addscript(16364220821, "Current Game","easy free ugc open source", "Uploaded by Grindingonthagame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/easy%20free%20ugc%20open%20source471.lua", "https://scriptblox.com/script/FIRE-TOPHAT-Rat-Clickers-easy-free-ugc-open-source-11464")

@@ -1,0 +1,2 @@
+
+    addscript(13709819994, "Current Game","FPS and ping", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FPS%20and%20ping425.lua", "https://scriptblox.com/script/Dbk_x-place-FPS-and-ping-14909")

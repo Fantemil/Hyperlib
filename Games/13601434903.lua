@@ -1,2 +1,4 @@
 
     addscript(13601434903, "Current Game","partial godmode", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/partial%20godmode135.lua", "https://scriptblox.com/script/Sorcerer-Battlegrounds-partial-godmode-9967")
+    addscriptexist(13601434903, "Very complete farm gui", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20complete%20farm%20gui736.lua", "https://scriptblox.com/script/Sorcerer-Battlegrounds-Very-complete-farm-gui-13101")
+                                    

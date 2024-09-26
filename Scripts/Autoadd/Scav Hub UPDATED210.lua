@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Scavhub/decayingscript/main/free%20lvl%203'))()

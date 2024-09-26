@@ -4,3 +4,5 @@ addscript(3587619225, "Current Game","Complete Obby Auto Prestige", "Uploaded by
                                 
 addscriptexist(3587619225, "Auto Stage Rebirth and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stage%20Rebirth%20and%20more765.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Auto-Stage-Rebirth-and-more-6973")
                                 
+    addscriptexist(3587619225, "Vgxmod Hub", "Uploaded by Vgxmod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vgxmod%20Hub936.lua", "https://scriptblox.com/script/Mega-Easy-Obby-825-Stages!-Vgxmod-Hub-16760")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(6494523288, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2932.lua", "https://scriptblox.com/script/Blade-Quest-Demonic-HUB-V2-10403")

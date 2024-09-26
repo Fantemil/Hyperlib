@@ -1,0 +1,2 @@
+
+    addscript(16997810531, "Current Game","inf cash and give all admin tools", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20cash%20and%20give%20all%20admin%20tools523.lua", "https://scriptblox.com/script/REVAMPED!-Entitled-Hood-inf-cash-and-give-all-admin-tools-16043")

@@ -1,0 +1,2 @@
+
+    addscript(16095712954, "Current Game","Skibidi Hub", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20Hub579.lua", "https://scriptblox.com/script/DISCONTINUED-Anime-Globe-Defense-Skibidi-Hub-17423")

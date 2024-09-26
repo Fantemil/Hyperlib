@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Micmalthe1/ohio-rizzler/main/rizzler.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WIPEVXVQ22/Furious/refs/heads/main/FuriousHub.txt"))()

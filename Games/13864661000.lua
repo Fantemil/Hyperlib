@@ -38,3 +38,43 @@ addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "ht
                                     
     addscriptexist(13864661000, "OP    Script", "Uploaded by fmapwjq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20%20Script445.lua", "https://scriptblox.com/script/Break-In-2-(Story)-g-Blitz-10011")
                                     
+    addscriptexist(13864661000, "Get Items Script", "Uploaded by Noahfrf69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Items%20Script948.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Get-Items-Script-15597")
+                                    
+    addscriptexist(13864661000, "FroZen Hub Easy to Use", "Uploaded by FrostbiteDevelopment on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FroZen%20Hub%20Easy%20to%20Use506.lua", "https://scriptblox.com/script/Break-In-2-(Story)-FroZen-Hub-Easy-to-Use-11969")
+                                    
+    addscriptexist(13864661000, "Starry OP Script Hub 160 Features", "Uploaded by Suno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starry%20OP%20Script%20Hub%20160%20Features712.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Starry-OP-Script-Hub-160-Features-17869")
+                                    
+    addscriptexist(13864661000, "STARRY IS SO OP WTF", "Uploaded by zaptos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/STARRY%20IS%20SO%20OP%20WTF877.lua", "https://scriptblox.com/script/Break-In-2-(Story)-STARRY-IS-SO-OP-WTF-14939")
+                                    
+    addscriptexist(13864661000, "Server Sided Kick All", "Uploaded by Suno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Sided%20Kick%20All436.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Server-Sided-Kick-All-17778")
+                                    
+    addscriptexist(13864661000, "Ln hub aka Lum Hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub%20aka%20Lum%20Hub425.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Ln-hub-aka-Lum-Hub-15533")
+                                    
+    addscriptexist(13864661000, "OP SCRIPT", "Uploaded by Maulanaharwono on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT611.lua", "https://scriptblox.com/script/Break-In-2-(Story)-OP-SCRIPT-15690")
+                                    
+    addscriptexist(13864661000, "OP script", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script738.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Script-18079")
+                                    
+    addscriptexist(13864661000, "Vgxmod Hub", "Uploaded by Vgxmod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vgxmod%20Hub692.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Vgxmod-Hub-16110")
+                                    
+    addscriptexist(13864661000, "skidder allowed", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/skidder%20allowed408.lua", "https://scriptblox.com/script/Break-In-2-(Story)-skidder-allowed-14043")
+                                    
+    addscriptexist(13864661000, "Adm commands workg", "Uploaded by spiinn559 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adm%20commands%20workg708.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Adm-commands-workg-16725")
+                                    
+    addscriptexist(13864661000, "Delete All And More", "Uploaded by QuePro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Delete%20All%20And%20More268.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Delete-All-And-More-10832")
+                                    
+    addscriptexist(13864661000, "The best script ever", "Uploaded by Gokus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20best%20script%20ever664.lua", "https://scriptblox.com/script/Break-In-2-(Story)-The-best-script-ever-15248")
+                                    
+    addscriptexist(13864661000, "Golden Apple Giver", "Uploaded by pulse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Golden%20Apple%20Giver387.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Golden-Apple-Giver-17783")
+                                    
+    addscriptexist(13864661000, "menu", "Uploaded by Idontknpewho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/menu768.lua", "https://scriptblox.com/script/Break-In-2-(Story)-menu-14422")
+                                    
+    addscriptexist(13864661000, "VERY OP AND FE", "Uploaded by Noahfrf69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20OP%20AND%20FE501.lua", "https://scriptblox.com/script/Break-In-2-(Story)-VERY-OP-AND-FE-17621")
+                                    
+    addscriptexist(13864661000, "adm commands", "Uploaded by spiinn559 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/adm%20commands353.lua", "https://scriptblox.com/script/Break-In-2-(Story)-adm-commands-16777")
+                                    
+    addscriptexist(13864661000, "BYPASS HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BYPASS%20HUB111.lua", "https://scriptblox.com/script/Break-In-2-(Story)-BYPASS-HUB-12738")
+                                    
+    addscriptexist(13864661000, "Serversided adm", "Uploaded by galaxyfounded on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Serversided%20adm84.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Serversided-adm-18649")
+                                    
+    addscriptexist(13864661000, "OP Gui   Blitz No key needed", "Uploaded by NotMyscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui%20%20%20Blitz%20No%20key%20needed73.lua", "https://scriptblox.com/script/Break-In-2-(Story)-OP-Gui-Blitz-No-key-needed-15351")
+                                    

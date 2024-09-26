@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/KEY-SYSTEM-Expedition-to-Antarctica/main/KEYSYSTEM"))()

@@ -1,0 +1,2 @@
+
+    addscript(17623247829, "Current Game","Yuhhh I love it yuhhhhhhhhhh", "Uploaded by Shity_Guy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yuhhh%20I%20love%20it%20yuhhhhhhhhhh347.lua", "https://scriptblox.com/script/Roblox:-Mine_craft-Beta-1.0-Yuhhh-I-love-it-yuhhhhhhhhhh-15345")

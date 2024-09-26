@@ -1,0 +1,4 @@
+
+    addscript(16351911381, "Current Game","Instant 4", "Uploaded by Baconboss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%204247.lua", "https://scriptblox.com/script/The-BBC-Official:-Wonder-Chase-Free-UGC-Update!-Instant-4-14011")
+    addscriptexist(16351911381, "Auto coin", "Uploaded by Kazuyaxdd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20coin869.lua", "https://scriptblox.com/script/The-BBC-Official:-Wonder-Chase-Free-UGC-Update!-Auto-coin-14010")
+                                    

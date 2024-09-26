@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wellingtonbeale/seregapirathub/main/mm2.lua"))()

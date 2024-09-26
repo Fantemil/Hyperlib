@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZekzV2/IncenseV1RPG/main/message%20(51).txt", true))()

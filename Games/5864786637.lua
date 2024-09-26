@@ -1,0 +1,2 @@
+
+    addscript(5864786637, "Current Game","IAT Script", "Uploaded by Allfilm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IAT%20Script534.lua", "https://scriptblox.com/script/In-Another-Time-Kars-Rework-time-Script-11351")

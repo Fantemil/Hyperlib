@@ -1,0 +1,2 @@
+
+    addscript(18215332400, "Current Game","Sans", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sans235.lua", "https://scriptblox.com/script/KENJAKU-REWORK-Rogue-Sorcerer-Sans-19002")

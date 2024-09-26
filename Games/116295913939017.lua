@@ -1,0 +1,2 @@
+
+    addscript(116295913939017, "Current Game","Simple teleport script", "Uploaded by masig4727 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20teleport%20script575.lua", "https://scriptblox.com/script/Plinko-RNG!-Simple-teleport-script-18944")

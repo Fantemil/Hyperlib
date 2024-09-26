@@ -1,0 +1,2 @@
+
+    addscript(16595132567, "Current Game","Auto Roll Fast", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Roll%20Fast870.lua", "https://scriptblox.com/script/UGC-Anime-Spin-RNG-Auto-Roll-Fast-12942")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iamnewcodethis2/A-Dusty-Trip/main/New/Open-Source.lua",true))()

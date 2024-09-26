@@ -1,0 +1,2 @@
+
+    addscript(16159871483, "Current Game","External", "Uploaded by Unnamed_Goose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/External675.lua", "https://scriptblox.com/script/Buckshot-Mayhem-External-17325")

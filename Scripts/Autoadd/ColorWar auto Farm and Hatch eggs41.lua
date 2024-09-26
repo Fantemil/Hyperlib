@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MoxxHub/AutoRank/main/AutoRankFast.lua", true))()

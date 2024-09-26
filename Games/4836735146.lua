@@ -1,0 +1,6 @@
+
+    addscript(4836735146, "Current Game","Kill All Gun Mods Aimbot ALOOTT MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20Gun%20Mods%20Aimbot%20ALOOTT%20MORE29.lua", "https://scriptblox.com/script/Street-Shootout-(Alpha)-Kill-All-Gun-Mods-Aimbot-ALOOTT-MORE-11965")
+    addscriptexist(4836735146, "Free Version OVERPOWERED Kill Player Aimbot ALOT MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Version%20OVERPOWERED%20Kill%20Player%20Aimbot%20ALOT%20MORE909.lua", "https://scriptblox.com/script/Street-Shootout-(Alpha)-Free-Version-OVERPOWERED-Kill-Player-Aimbot-ALOT-MORE-12399")
+                                    
+    addscriptexist(4836735146, "TBO DA HOOD SCRIPT", "Uploaded by SCRIPTABUSER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TBO%20DA%20HOOD%20SCRIPT498.lua", "https://scriptblox.com/script/Street-Shootout-(Alpha)-TBO-DA-HOOD-SCRIPT-18544")
+                                    

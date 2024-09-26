@@ -1,0 +1,2 @@
+
+    addscript(5976465390, "Current Game","auto abuse", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20abuse474.lua", "https://scriptblox.com/script/Obby-For-Actual-Owner-Admin!-auto-abuse-18538")

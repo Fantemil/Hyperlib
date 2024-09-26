@@ -1,0 +1,2 @@
+
+    addscript(17700678729, "Current Game","Fast Money Farm", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Money%20Farm739.lua", "https://scriptblox.com/script/Sell-Bananas-To-Save-Your-Pet-Monkey-Fast-Money-Farm-15550")

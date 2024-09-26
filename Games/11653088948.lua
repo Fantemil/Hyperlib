@@ -1,0 +1,2 @@
+
+    addscript(11653088948, "Current Game","Jurass Block Script", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jurass%20Block%20Script15.lua", "https://scriptblox.com/script/SCORPIOS-REX!-Jurassic-Blocky-Jurass-Block-Script-18058")

@@ -1,0 +1,4 @@
+
+    addscript(15251574108, "Current Game","Auto Collect Coins", "Uploaded by Maxwellaltaccount2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Coins311.lua", "https://scriptblox.com/script/UPDATE!-Find-The-Noobies-Morphs-Auto-Collect-Coins-14269")
+    addscriptexist(15251574108, "I PASTED WRONG SCRIPT autocollect", "Uploaded by pnumboy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20PASTED%20WRONG%20SCRIPT%20autocollect905.lua", "https://scriptblox.com/script/Find-The-Noobies-Morphs-Autocollect-script-11939")
+                                    

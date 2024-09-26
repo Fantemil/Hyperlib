@@ -1,0 +1,2 @@
+
+    addscript(16030389557, "Current Game","Kill ll", "Uploaded by Luka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20ll286.lua", "https://scriptblox.com/script/FREE-UGC-Push-people-off-a-train-(UPDATE-1)-Kill-ll-17688")

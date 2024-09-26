@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kooggy/Scripts/main/Find%20The%20Simpsons.lua"))()

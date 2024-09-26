@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wincoh/scripts/main/%E2%98%AF%EF%B8%8F%5BUPD2.2%5DNaruto%20But%20Every%20Second%20%2B1%20Chakra"))()

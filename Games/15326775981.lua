@@ -1,0 +1,2 @@
+
+    addscript(15326775981, "Current Game","OP Gui", "Uploaded by zaee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui125.lua", "https://scriptblox.com/script/Da-Military-OP-Gui-13869")

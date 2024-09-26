@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NaikoScript/Kat-Plus/main/ScriptEarlyTesting"))()

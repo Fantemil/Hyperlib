@@ -1,0 +1,2 @@
+
+    addscript(17823719213, "Current Game","FAST AUTO FARM AND MORE", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20AUTO%20FARM%20AND%20MORE236.lua", "https://scriptblox.com/script/Anime-League-RELEASE-FAST-AUTO-FARM-AND-MORE-16998")

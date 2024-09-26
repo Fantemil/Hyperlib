@@ -1,0 +1,6 @@
+
+    addscript(10595058975, "Current Game","Sokuri Hub  PAID ", "Uploaded by hereforreal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sokuri%20Hub%20%20PAID%20581.lua", "https://scriptblox.com/script/Balance-Update-Arcane-Lineage-Sokuri-hub-17081")
+    addscriptexist(10595058975, "autododge and autoqte ONLY", "Uploaded by Jackingplane on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autododge%20and%20autoqte%20ONLY172.lua", "https://scriptblox.com/script/Major-Update-Arcane-Lineage-autododge-and-autoqte-ONLY-11086")
+                                    
+    addscriptexist(10595058975, "Dupe RollBack Auto Farm Perfect Block Perfect Skill", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20RollBack%20Auto%20Farm%20Perfect%20Block%20Perfect%20Skill376.lua", "https://scriptblox.com/script/Major-Update-Arcane-Lineage-Dupe-RollBack-Auto-Farm-Perfect-Block-Perfect-Skill-10596")
+                                    

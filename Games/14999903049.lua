@@ -1,2 +1,4 @@
 
     addscript(14999903049, "Current Game","Auto Farm", "Uploaded by StellarHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm675.lua", "https://scriptblox.com/script/UPD-Viral-Simulator-Auto-Farm-9845")
+    addscriptexist(14999903049, "Infinite win Infinite fan Infinite gem", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20win%20Infinite%20fan%20Infinite%20gem706.lua", "https://scriptblox.com/script/UPD-Viral-Simulator-Infinite-win-Infinite-fan-Infinite-gem-12258")
+                                    

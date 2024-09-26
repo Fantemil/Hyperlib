@@ -92,3 +92,75 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "op script   bot  tresure", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20%20%20bot%20%20tresure993.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-op-script-bot-tresure-9354")
                                     
+    addscriptexist(537413528, "Open Source Fst Frm GoldBlock", "Uploaded by DragonZ_TH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20Fst%20Frm%20GoldBlock963.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Open-Source-Fst-Frm-GoldBlock-19008")
+                                    
+    addscriptexist(537413528, "Cyhy Hub  Gold Speed Setting Speed Gold", "Uploaded by cyhyhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyhy%20Hub%20%20Gold%20Speed%20Setting%20Speed%20Gold143.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Script-Bot-Tresure-18387")
+                                    
+    addscriptexist(537413528, "BBH on top", "Uploaded by Basket1347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BBH%20on%20top355.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Bot-er-Hub-17493")
+                                    
+    addscriptexist(537413528, "Ren x bbft keyless  Ptched", "Uploaded by RenivyBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ren%20x%20bbft%20keyless%20%20Ptched109.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Ren-x-bbft-keyless-15493")
+                                    
+    addscriptexist(537413528, "NovBot Revmp  BBH SCRIPT", "Uploaded by NovaKool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NovBot%20Revmp%20%20BBH%20SCRIPT478.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-NovBot-Revmp-17896")
+                                    
+    addscriptexist(537413528, "generte perfect circle by devsoniexpert", "Uploaded by devex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/generte%20perfect%20circle%20by%20devsoniexpert926.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-generte-perfect-circle-by-devsoniexpert-13999")
+                                    
+    addscriptexist(537413528, "Ren x bbft keyless fix", "Uploaded by RenivyBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ren%20x%20bbft%20keyless%20fix566.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Ren-x-bbft-keyless-fix-15522")
+                                    
+    addscriptexist(537413528, "Gold Block 4uto F4rm", "Uploaded by ProBaconHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gold%20Block%204uto%20F4rm357.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Gold-Block-uto-Frm-16102")
+                                    
+    addscriptexist(537413528, "str Hub", "Uploaded by Em4an3el on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/str%20Hub857.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-str-Hub-16712")
+                                    
+    addscriptexist(537413528, "Rocks hub", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocks%20hub490.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Rocks-hub-15209")
+                                    
+    addscriptexist(537413528, "Good to use scripts", "Uploaded by eason1010113 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20to%20use%20scripts126.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Good-to-use-scripts-14389")
+                                    
+    addscriptexist(537413528, "Lumin hub k Ln hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumin%20hub%20k%20Ln%20hub157.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Lumin-hub-k-Ln-hub-16714")
+                                    
+    addscriptexist(537413528, "ProBconHub", "Uploaded by ProBaconHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBconHub523.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-ProBconHub-10975")
+                                    
+    addscriptexist(537413528, "Gold Frm nd More", "Uploaded by Mazon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gold%20Frm%20nd%20More32.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Gold-Frm-nd-More-15077")
+                                    
+    addscriptexist(537413528, "Ohio Script   BBFT Script nd MORE", "Uploaded by kaksakan4112104 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ohio%20Script%20%20%20BBFT%20Script%20nd%20MORE588.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-ll-scripts-in-ne-script-15459")
+                                    
+    addscriptexist(537413528, "BBH GoldFrm V100", "Uploaded by Basket1347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BBH%20GoldFrm%20V100125.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Bot-FstutoFrm-utoFrm-17491")
+                                    
+    addscriptexist(537413528, "BEST  SCRIPT", "Uploaded by YNWMELLY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20SCRIPT70.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-BEST-BOT-SCRIPT-12355")
+                                    
+    addscriptexist(537413528, "TTJY Hub Support Solr", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTJY%20Hub%20Support%20Solr603.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-TTJY-Hub-16164")
+                                    
+    addscriptexist(537413528, "uto  script", "Uploaded by Master on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20%20script952.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-uto-script-12817")
+                                    
+    addscriptexist(537413528, "keyless utofrm", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/keyless%20utofrm838.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-utofrm-10689")
+                                    
+    addscriptexist(537413528, "Fly to Gold", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20to%20Gold225.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-utoFrm-Gold-13684")
+                                    
+    addscriptexist(537413528, "Roblox   Bot  Tresure Script", "Uploaded by kaksakan4112104 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20%20Bot%20%20Tresure%20Script410.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Roblox-Bot-Tresure-Script-14545")
+                                    
+    addscriptexist(537413528, "foggyhub built  bot utofrm", "Uploaded by F0G0TT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/foggyhub%20built%20%20bot%20utofrm271.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-foggyhub-built-bot-utofrm-12645")
+                                    
+    addscriptexist(537413528, "Velocity", "Uploaded by Corrupted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Velocity772.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Velocity-13358")
+                                    
+    addscriptexist(537413528, "Phntom HUB", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phntom%20HUB347.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Phntom-HUB-15453")
+                                    
+    addscriptexist(537413528, "uto frm", "Uploaded by AY21 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20frm765.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-uto-frm-17071")
+                                    
+    addscriptexist(537413528, "therHub", "Uploaded by Athergaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/therHub734.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-therHub-18014")
+                                    
+    addscriptexist(537413528, "Op Script  Infinite money", "Uploaded by Rayz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script%20%20Infinite%20money576.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-UTO-FRM-17779")
+                                    
+    addscriptexist(537413528, "Bbft best utofrm script", "Uploaded by UselessScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bbft%20best%20utofrm%20script462.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Bbft-best-utofrm-script-17384")
+                                    
+    addscriptexist(537413528, "uto Frm Gold", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm%20Gold207.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-uto-Frm-Gold-10970")
+                                    
+    addscriptexist(537413528, "Phntom Hub", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phntom%20Hub98.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Phntom-Hub-14017")
+                                    
+    addscriptexist(537413528, "FSTEST GOLD UTOFRM", "Uploaded by JSpoon26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FSTEST%20GOLD%20UTOFRM573.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-FST-GOLD-UTOFRM-16274")
+                                    
+    addscriptexist(537413528, "GoldFrm Old", "Uploaded by Basket1347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldFrm%20Old114.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-BOT-TRESURE-UTOFRM-16219")
+                                    
+    addscriptexist(537413528, "Cyhy Hub Ez gold set speed shop teleport best script", "Uploaded by cyhyhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyhy%20Hub%20Ez%20gold%20set%20speed%20shop%20teleport%20best%20script824.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Cyhy-Hub-uto-gold-set-speed-shop-teleport-best-script-18680")
+                                    
+    addscriptexist(537413528, "FrekWre Bbft", "Uploaded by wuxulin4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FrekWre%20Bbft172.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-FrekyWre-16785")
+                                    
+    addscriptexist(537413528, "stges list", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stges%20list947.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-stges-list-11174")
+                                    

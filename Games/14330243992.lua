@@ -16,3 +16,7 @@ addscriptexist(14330243992, "sim op script tbh", "Uploaded by wowie on scriptblo
                                     
     addscriptexist(14330243992, "Infinite Wins n Infinite Strength and more", "Uploaded by KhSaeed90 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins%20n%20Infinite%20Strength%20and%20more407.lua", "https://scriptblox.com/script/PVP!-Power-Slap-Simulator-Infinite-Wins-n-Infinite-and-more-7362")
                                     
+    addscriptexist(14330243992, "SCRIPT NAMI HUB", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20NAMI%20HUB709.lua", "https://scriptblox.com/script/Power-Slap-Simulator-SCRIPT-NAMI-HUB-17892")
+                                    
+    addscriptexist(14330243992, "Infinite And Ugc made by Lumin hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20And%20Ugc%20made%20by%20Lumin%20hub642.lua", "https://scriptblox.com/script/Power-Slap-Simulator-Infinite-And-Ugc-made-by-Lumin-hub-15517")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(17287685760, "Current Game","Max Friend Boost", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Max%20Friend%20Boost739.lua", "https://scriptblox.com/script/EVENT-Omega-Rune-Incremental-Max-Friend-Boost-15230")

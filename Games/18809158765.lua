@@ -1,0 +1,2 @@
+
+    addscript(18809158765, "Current Game","Rags  Richest Script", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rags%20%20Richest%20Script489.lua", "https://scriptblox.com/script/Rise-To-Royalty-Rags-Richest-Script-18339")

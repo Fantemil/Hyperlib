@@ -1,0 +1,2 @@
+
+    addscript(9731376817, "Current Game","AUTO FARM", "Uploaded by KETCHIMO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM367.lua", "https://scriptblox.com/script/Collect-The-Body-NO-ME-12556")

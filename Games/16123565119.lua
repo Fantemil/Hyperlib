@@ -1,0 +1,2 @@
+
+    addscript(16123565119, "Current Game","Infinity X  Admin Gui", "Uploaded by Infinity_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinity%20X%20%20Admin%20Gui620.lua", "https://scriptblox.com/script/Ultra-Toilet-Fight-UPDATE-5.5-Infinity-X-13944")

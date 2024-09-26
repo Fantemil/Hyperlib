@@ -6,3 +6,9 @@ addscriptexist(4913581664, "Game Script", "Uploaded by Malique on scriptblox.com
                                 
     addscriptexist(4913581664, "Darkmoon x", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20x921.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Darkmoon-x-10238")
                                     
+    addscriptexist(4913581664, "CARD PANEL HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CARD%20PANEL%20HUB41.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-CARD-PANEL-HUB-12736")
+                                    
+    addscriptexist(4913581664, "CRD Script New", "Uploaded by Baconhack_26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRD%20Script%20New417.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-CRD-14325")
+                                    
+    addscriptexist(4913581664, "Rdite V96", "Uploaded by AMADBarwary999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rdite%20V96795.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Rdite-V96-12831")
+                                    

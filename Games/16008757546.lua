@@ -1,0 +1,2 @@
+
+    addscript(16008757546, "Current Game","Good scrpt no key cuz  felt bad", "Uploaded by IAmOnTablet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20scrpt%20no%20key%20cuz%20%20felt%20bad137.lua", "https://scriptblox.com/script/I-SEE-YOU-Scrpt-11728")

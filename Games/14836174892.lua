@@ -1,0 +1,2 @@
+
+    addscript(14836174892, "Current Game","Simple Auto Grab And Sell", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Auto%20Grab%20And%20Sell23.lua", "https://scriptblox.com/script/Fruit-Incremental!-andx1F34Aandx1F34E-Simple-Auto-Grab-And-Sell-15787")

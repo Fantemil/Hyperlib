@@ -1,0 +1,2 @@
+
+    addscript(7535149098, "Current Game","GUI", "Uploaded by Kryl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI500.lua", "https://scriptblox.com/script/Space-Tycoon-GUI-14248")

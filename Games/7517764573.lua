@@ -1,0 +1,2 @@
+
+    addscript(7517764573, "Current Game","Auto Attack And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Attack%20And%20More509.lua", "https://scriptblox.com/script/Black-Grimoire:-Odyssey-Auto-Attack-And-More-12883")

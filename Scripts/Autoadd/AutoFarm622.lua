@@ -1,0 +1,2 @@
+getgenv().key = "Enter the key you got from the discord here" -- MAKE SURE TO REPLACE THIS WITH THE KEY!!! It will not work unless you put the key here
+loadstring(game:HttpGet("https://raw.githubusercontent.com/railme37509124/Tabby/main/TabbyMaster.lua", true))()

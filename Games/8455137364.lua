@@ -1,0 +1,2 @@
+
+    addscript(8455137364, "Current Game","inf ammo and no camera shake", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20ammo%20and%20no%20camera%20shake49.lua", "https://scriptblox.com/script/The-Backrooms-With-Guns-inf-ammo-and-no-camera-shake-18093")

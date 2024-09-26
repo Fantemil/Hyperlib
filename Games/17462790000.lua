@@ -1,0 +1,4 @@
+
+    addscript(17462790000, "Current Game","infinity money v2 TEST Read desc", "Uploaded by Nooby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinity%20money%20v2%20TEST%20Read%20desc294.lua", "https://scriptblox.com/script/Event-RNG-infinity-money-v2-TEST-Read-desc-15457")
+    addscriptexist(17462790000, "Infinite money", "Uploaded by Nooby on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money170.lua", "https://scriptblox.com/script/Event-RNG-Infinite-money-14328")
+                                    

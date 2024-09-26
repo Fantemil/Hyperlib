@@ -1,0 +1,10 @@
+
+    addscript(17504117264, "Current Game","Give yourslelf Money And Value", "Uploaded by money on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20yourslelf%20Money%20And%20Value47.lua", "https://scriptblox.com/script/UPD-Football-RNG.-Money-and-value-14246")
+    addscriptexist(17504117264, "Get Any Card  i will bypass the anticheat ", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Any%20Card%20%20i%20will%20bypass%20the%20anticheat%20749.lua", "https://scriptblox.com/script/UPD-Football-RNG.-Get-Any-Card-14236")
+                                    
+    addscriptexist(17504117264, "Get prime ronaldo PATCHED", "Uploaded by Spongbob_gayming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20prime%20ronaldo%20PATCHED536.lua", "https://scriptblox.com/script/UPD-Football-RNG.-Get-prime-ronaldo-14210")
+                                    
+    addscriptexist(17504117264, "2X LUCK ADDER AND SKIP Fatball rng", "Uploaded by quackysq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2X%20LUCK%20ADDER%20AND%20SKIP%20Fatball%20rng892.lua", "https://scriptblox.com/script/FUSE-Football-RNG.-2X-LUCK-ADDER-AND-SKIP-Fatball-rng-14636")
+                                    
+    addscriptexist(17504117264, "Equip Any Card Not in inventory USE BEFORE PATCHED", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Equip%20Any%20Card%20Not%20in%20inventory%20USE%20BEFORE%20PATCHED276.lua", "https://scriptblox.com/script/UPD-Football-RNG.-Equip-Any-Card-Not-in-inventory-16884")
+                                    

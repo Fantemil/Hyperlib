@@ -1,2 +1,4 @@
 
 addscript(5610197459, "Current Game","the best     script for now", "Uploaded by a_random_tf2_enjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/the%20best%20%20%20%20%20script%20for%20now343.lua", "https://scriptblox.com/script/gang-up-on-people-simulator-the-best-script-for-now-7743")
+    addscriptexist(5610197459, "Mey  Floor Auto Farm", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mey%20%20Floor%20Auto%20Farm330.lua", "https://scriptblox.com/script/gang-up-on-people-simulator-Mey-Floor-Auto-Farm-11819")
+                                    

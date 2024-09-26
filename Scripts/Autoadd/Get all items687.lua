@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/33e8d94f98ff3ed0b5f5cb59a8c3e248/raw/fdfe0c3edebd46d1523cf76aed0f74b0bb33f012/Therapy%2520script"))()

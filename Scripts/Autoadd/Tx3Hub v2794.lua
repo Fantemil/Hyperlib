@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerReady/Tx3HubV2/main/Games/Tx3HubV2"))()

@@ -14,3 +14,17 @@ addscriptexist(13822889, "idk name", "Uploaded by doshirak528 on scriptblox.com"
                                 
 addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ButterHub729.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-ButterHub-8098")
                                 
+    addscriptexist(13822889, "Op script Works solara", "Uploaded by lykin648 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20Works%20solara448.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Op-script-Works-solara-14400")
+                                    
+    addscriptexist(13822889, "Luware", "Uploaded by BaconHunter1214 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luware533.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Luware-17204")
+                                    
+    addscriptexist(13822889, "Auto Buy and more", "Uploaded by Nanolol13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Buy%20and%20more90.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Auto-Buy-and-more-14413")
+                                    
+    addscriptexist(13822889, "MESSILT", "Uploaded by Yasindldar4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MESSILT179.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-MESSILT-12674")
+                                    
+    addscriptexist(13822889, "luaware lt", "Uploaded by duck_dude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/luaware%20lt3.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-luaware-lt-16997")
+                                    
+    addscriptexist(13822889, "Best GUI", "Uploaded by hotdogidio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20GUI602.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Best-GUI-16268")
+                                    
+    addscriptexist(13822889, "BDG Hub", "Uploaded by xbl_bdg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BDG%20Hub219.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-BDG-Hub-17951")
+                                    

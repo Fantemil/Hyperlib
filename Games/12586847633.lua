@@ -1,0 +1,2 @@
+
+    addscript(12586847633, "Current Game","Tank Spam NRR", "Uploaded by ZxroHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tank%20Spam%20NRR981.lua", "https://scriptblox.com/script/Nations-Roleplay-:-Remastered-Tank-Spam-NRR-12365")

@@ -1,0 +1,4 @@
+
+    addscript(11649080973, "Current Game","trash hub unless you really need to", "Uploaded by broooo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/trash%20hub%20unless%20you%20really%20need%20to981.lua", "https://scriptblox.com/script/RELEASE-Eternal-Piece-rubbish-hub-unless-you-really-need-to-10871")
+    addscriptexist(11649080973, "AUTO FARM AND FREE FRUIT NOTIFIER", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20AND%20FREE%20FRUIT%20NOTIFIER769.lua", "https://scriptblox.com/script/UPDATE-2-Eternal-Piece-AUTO-FARM-AND-FREE-FRUIT-NOTIFIER-12853")
+                                    

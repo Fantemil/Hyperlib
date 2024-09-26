@@ -12,3 +12,5 @@ addscriptexist(6918802270, "Beli Hunter x Hellen Wong", "Uploaded by Androssy on
                                     
     addscriptexist(6918802270, "Script by Legend Handles", "Uploaded by Monkey_OnT0P on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Legend%20Handles378.lua", "https://scriptblox.com/script/DRAGON-HAZE-PIECE-Script-8338")
                                     
+    addscriptexist(6918802270, "zelph", "Uploaded by zxzelph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zelph517.lua", "https://scriptblox.com/script/VENOM-HAZE-PIECE-zelph-12242")
+                                    

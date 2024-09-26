@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nseinkkk/SolaraScript/main/SolaraGUI.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/max96git/max96git-s-stuff/main/sypz/loader.lua",true))()

@@ -36,3 +36,7 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                     
     addscriptexist(1554960397, "Find all Gingerbread", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20all%20Gingerbread672.lua", "https://scriptblox.com/script/XMAS!!!-Car-Dealership-Tycoon-Find-all-Gingerbread-9629")
                                     
+    addscriptexist(1554960397, "Moon Team", "Uploaded by F347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moon%20Team832.lua", "https://scriptblox.com/script/LIMITED!-Car-Dealership-Tycoon-Moon-Team-16181")
+                                    
+    addscriptexist(1554960397, "Dealershrip Barn", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dealershrip%20Barn795.lua", "https://scriptblox.com/script/2B-EVENT!-Car-Dealership-Tycoon-Dealershrip-Barn-17780")
+                                    

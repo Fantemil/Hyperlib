@@ -1,0 +1,2 @@
+
+    addscript(4671157242, "Current Game","macros ig", "Uploaded by tiam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/macros%20ig444.lua", "https://scriptblox.com/script/NEW-KEYSTROKE-CLASS-Black-Magic-UNLEASHED-retribution-macro-idk-13595")

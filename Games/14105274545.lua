@@ -1,0 +1,2 @@
+
+    addscript(14105274545, "Current Game","Inf Points", "Uploaded by ChillyBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Points268.lua", "https://scriptblox.com/script/FIXED-BUG-Skibid-Toilet-Siege-Defense-Inf-money-17570")

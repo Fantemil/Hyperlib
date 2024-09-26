@@ -6,3 +6,5 @@ addscriptexist(740581508, "Entry Point Panel GUI", "Uploaded by providenc on rsc
                                 
     addscriptexist(740581508, "OP Autofarm", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Autofarm588.lua", "https://scriptblox.com/script/Entry-Point-OP-Autofarm-8168")
                                     
+    addscriptexist(740581508, "57 commands OP features", "Uploaded by RawParmesan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/57%20commands%20OP%20features380.lua", "https://scriptblox.com/script/Entry-Point-57-commands-OP-features-16180")
+                                    

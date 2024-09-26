@@ -1,2 +1,6 @@
 
     addscript(11159328933, "Current Game","THE BEST OP SCRIPT AUTO PLAY", "Uploaded by BaconBossScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20BEST%20OP%20SCRIPT%20AUTO%20PLAY600.lua", "https://scriptblox.com/script/FREE-UGC-Kitten-Tycoon!-THE-BEST-OP-SCRIPT-AUTO-PLAY-9538")
+    addscriptexist(11159328933, "Tycoon simple script", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tycoon%20simple%20script328.lua", "https://scriptblox.com/script/FREE-UGC-Kitten-Tycoon!-Tycoon-simple-script-11110")
+                                    
+    addscriptexist(11159328933, "Better and fixed version of Auto Farm", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Better%20and%20fixed%20version%20of%20Auto%20Farm674.lua", "https://scriptblox.com/script/FREE-UGC-Kitten-Tycoon!-Better-and-fixed-version-of-Auto-Farm-12015")
+                                    

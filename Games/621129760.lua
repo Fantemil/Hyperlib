@@ -38,3 +38,17 @@ addscriptexist(621129760, "Tracer  KAT Loads Of Features BEST", "Uploaded by sun
                                 
 addscriptexist(621129760, "Crate Teleporter", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crate%20Teleporter554.lua", "https://scriptblox.com/script/KAT-Crate-Teleporter-6781")
                                 
+    addscriptexist(621129760, "AquawareHUB", "Uploaded by Jeverly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AquawareHUB573.lua", "https://scriptblox.com/script/KAT-QuawareHUB-17843")
+                                    
+    addscriptexist(621129760, "Ka t plus Sound player Raid", "Uploaded by NaikoExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ka%20t%20plus%20Sound%20player%20Raid242.lua", "https://scriptblox.com/script/KAT-plus-Sound-player-Raid-15534")
+                                    
+    addscriptexist(621129760, "KAT FCKER  KNIFE ABILITY TEST ADMIN SCRIPT", "Uploaded by kitt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAT%20FCKER%20%20KNIFE%20ABILITY%20TEST%20ADMIN%20SCRIPT59.lua", "https://scriptblox.com/script/KAT-******-12750")
+                                    
+    addscriptexist(621129760, "Combo", "Uploaded by *fixurusenamesys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Combo783.lua", "https://scriptblox.com/script/KAT-Combo-18693")
+                                    
+    addscriptexist(621129760, "Tbao Hub", "Uploaded by Callme_Baby1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20Hub11.lua", "https://scriptblox.com/script/KAT-Tbao-Hub-17211")
+                                    
+    addscriptexist(621129760, "OP SCRIPT  Owl Hub", "Uploaded by MrHack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20%20Owl%20Hub303.lua", "https://scriptblox.com/script/KAT-OP-SCRIPT-12523")
+                                    
+    addscriptexist(621129760, "Knife Ability test silentaim", "Uploaded by VardyScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20test%20silentaim967.lua", "https://scriptblox.com/script/KAT-silentaim-16624")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/12xQ/Flex-ur-fps-/main/flex%20your%20fps!!.txt"))()

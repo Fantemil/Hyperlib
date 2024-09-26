@@ -1,0 +1,2 @@
+
+    addscript(15218427871, "Current Game","Auto Rebirth And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rebirth%20And%20More493.lua", "https://scriptblox.com/script/e.l.f-UP!-NEW-STORE-Auto-Rebirth-And-More-12859")

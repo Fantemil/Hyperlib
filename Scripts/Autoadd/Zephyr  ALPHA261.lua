@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownlodfc/idk/main/Zephyr%20%7C%20Bear%20%5BALPHA%5D"))()

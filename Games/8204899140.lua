@@ -28,3 +28,29 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                 
     addscriptexist(8204899140, "CurseHub InfJump", "Uploaded by CurseHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CurseHub%20InfJump285.lua", "https://scriptblox.com/script/Football-Fusion-2-CurseHub-9878")
                                     
+    addscriptexist(8204899140, "Gen Hub", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gen%20Hub243.lua", "https://scriptblox.com/script/Football-Fusion-2-Xeon-HUB-12840")
+                                    
+    addscriptexist(8204899140, "Gen HUB Paid", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gen%20HUB%20Paid297.lua", "https://scriptblox.com/script/Football-Fusion-2-Gen-HUB-Paid-12919")
+                                    
+    addscriptexist(8204899140, "BEST FF SCRIPT", "Uploaded by him479030 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FF%20SCRIPT694.lua", "https://scriptblox.com/script/Football-Fusion-2-BEST-FF-SCRIPT-17589")
+                                    
+    addscriptexist(8204899140, "TYRANT HUB v SRC", "Uploaded by vexvex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TYRANT%20HUB%20v%20SRC604.lua", "https://scriptblox.com/script/Football-Fusion-2-VEXTRAL-HUB-FF-15480")
+                                    
+    addscriptexist(8204899140, "FF Bleachhack Working on Solara", "Uploaded by vexxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FF%20Bleachhack%20Working%20on%20Solara510.lua", "https://scriptblox.com/script/Football-Fusion-2-Script-14807")
+                                    
+    addscriptexist(8204899140, "QB Aimbot", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/QB%20Aimbot424.lua", "https://scriptblox.com/script/Football-Fusion-2-QB-Aimbot-14619")
+                                    
+    addscriptexist(8204899140, "Mag script", "Uploaded by dext49328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mag%20script680.lua", "https://scriptblox.com/script/Football-Fusion-2-script-18821")
+                                    
+    addscriptexist(8204899140, "Aki Remake", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aki%20Remake379.lua", "https://scriptblox.com/script/Football-Fusion-2-Aki-Remake-14021")
+                                    
+    addscriptexist(8204899140, "Made By Hasty    Bypass", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Made%20By%20Hasty%20%20%20%20Bypass988.lua", "https://scriptblox.com/script/Football-Fusion-2-Made-By-Hasty-Bypass-14470")
+                                    
+    addscriptexist(8204899140, "Xeon Hub", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xeon%20Hub812.lua", "https://scriptblox.com/script/Football-Fusion-2-Mako-HUB-V4-12797")
+                                    
+    addscriptexist(8204899140, "Saturn HUBS Source Leaked By Hasty", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saturn%20HUBS%20Source%20Leaked%20By%20Hasty534.lua", "https://scriptblox.com/script/Football-Fusion-2-Saturn-HUBS-Source-Leaked-By-Hasty-14250")
+                                    
+    addscriptexist(8204899140, "Meta hub", "Uploaded by izisjehne83 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meta%20hub159.lua", "https://scriptblox.com/script/Football-Fusion-2-Meta-hub-14141")
+                                    
+    addscriptexist(8204899140, "VERY CHEAP PAID FF HUB", "Uploaded by imtalewalker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20CHEAP%20PAID%20FF%20HUB180.lua", "https://scriptblox.com/script/Football-Fusion-2-VERY-CHEAP-PAID-FF-HUB-18418")
+                                    

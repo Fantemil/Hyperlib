@@ -4,3 +4,5 @@ addscript(71315343, "Current Game","unlock all transformations", "Uploaded by To
                                 
 addscriptexist(71315343, "Dragon Ball Rage Script", "Uploaded by Jumble on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20Ball%20Rage%20Script465.lua", "https://rscripts.net/script/dragon-ball-rage-script-3288")
                                 
+    addscriptexist(71315343, "autofarm", "Uploaded by thisaccisbored1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm30.lua", "https://scriptblox.com/script/SEP-20x2-Dragon-Ball-Rage-autofarm-18604")
+                                    

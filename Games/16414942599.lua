@@ -1,0 +1,2 @@
+
+    addscript(16414942599, "Current Game","C078kidd  3", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C078kidd%20%203274.lua", "https://scriptblox.com/script/teamc078kidd-gui-with-music-v3-10701")

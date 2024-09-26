@@ -1,0 +1,2 @@
+
+    addscript(16934255010, "Current Game","neyrone", "Uploaded by squerting on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/neyrone714.lua", "https://scriptblox.com/script/SPINS!-StandBlox-Remade-or-Standoff-2-neyrone-16606")

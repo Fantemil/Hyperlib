@@ -1,0 +1,2 @@
+
+    addscript(15863054876, "Current Game","Parts changer", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parts%20changer115.lua", "https://scriptblox.com/script/Lag-Test-2024-Parts-changer-15842")

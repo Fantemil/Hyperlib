@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AlexScripts1/AlexUniversal/main/AlexUniversalScript"))();

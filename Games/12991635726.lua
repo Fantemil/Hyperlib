@@ -1,0 +1,2 @@
+
+    addscript(12991635726, "Current Game","UGC LIMITED Script Auto Sell", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UGC%20LIMITED%20Script%20Auto%20Sell613.lua", "https://scriptblox.com/script/Sneaker-Resell-Simulator-Auto-Sell-10767")

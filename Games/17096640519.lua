@@ -1,0 +1,2 @@
+
+    addscript(17096640519, "Current Game","uto open", "Uploaded by Netflix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20open475.lua", "https://scriptblox.com/script/nextbots-rng-uto-open-12360")

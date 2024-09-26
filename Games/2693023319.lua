@@ -4,3 +4,5 @@ addscript(2693023319, "Current Game","Get Coins and Wins", "Uploaded by Tamachir
                                     
     addscriptexist(2693023319, "Iskiie Free", "Uploaded by iskiie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Iskiie%20Free88.lua", "https://scriptblox.com/script/Expedition-Antarctica-Iskiie-Free-9631")
                                     
+    addscriptexist(2693023319, "Scripts from Minion", "Uploaded by ScriptsfromMinion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts%20from%20Minion618.lua", "https://scriptblox.com/script/Expedition-Antarctica-Scripts-from-Minion-11905")
+                                    

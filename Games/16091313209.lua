@@ -1,0 +1,2 @@
+
+    addscript(16091313209, "Current Game","inf power and autofarm", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20power%20and%20autofarm661.lua", "https://scriptblox.com/script/PAC-MAN-SIMULATOR!-OPEN-BETA-inf-power-and-autofarm-18059")

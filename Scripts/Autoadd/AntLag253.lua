@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TwoXiter/XiterSx/main/Ant-Lag.lua"))()

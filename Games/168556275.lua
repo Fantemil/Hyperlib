@@ -1,2 +1,4 @@
 
 addscript(168556275, "Current Game","Dex v4", "Uploaded by abdulrezzakyb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dex%20v4707.lua", "https://scriptblox.com/script/Baseplate-Dex-v4-3498")
+    addscriptexist(168556275, "CHAT BYPASSER 2024 DISCORD IN DESC JOIN FOR MORE", "Uploaded by kafatopuoyunlari on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHAT%20BYPASSER%202024%20DISCORD%20IN%20DESC%20JOIN%20FOR%20MORE387.lua", "https://scriptblox.com/script/Baseplate-Chat-Bypasser-2024-Universal-17878")
+                                    

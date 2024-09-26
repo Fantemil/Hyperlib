@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/6ce/Roblox-Phenom-Silent-Aims/main/BounceBot.lua",true))()

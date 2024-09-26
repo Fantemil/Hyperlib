@@ -1,0 +1,2 @@
+
+    addscript(15410077867, "Current Game","auto win and rebirth", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20win%20and%20rebirth569.lua", "https://scriptblox.com/script/New!!-Super-Hero-Obby-auto-win-and-rebirth-10941")

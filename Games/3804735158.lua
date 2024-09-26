@@ -1,0 +1,2 @@
+
+    addscript(3804735158, "Current Game","Roblox  gui", "Uploaded by textingsynthesia8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20%20gui163.lua", "https://scriptblox.com/script/Princess-Tycoon-Roblox-gui-16745")

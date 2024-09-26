@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OrzScript/Orz-Panel-1.0/main/OrzPanelV1.5.txt",true))()

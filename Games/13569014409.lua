@@ -1,0 +1,2 @@
+
+    addscript(13569014409, "Current Game","Free UGC Horns", "Uploaded by AndroScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20UGC%20Horns628.lua", "https://scriptblox.com/script/99percent-Lose-Obby-UGC-Free-UGC-Horns-18812")

@@ -1,0 +1,2 @@
+
+    addscript(16905845666, "Current Game","Extremely fast autofarm", "Uploaded by Averageguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Extremely%20fast%20autofarm236.lua", "https://scriptblox.com/script/Eat-The-Universe-Simulator-Extremely-fast-autofarm-13886")

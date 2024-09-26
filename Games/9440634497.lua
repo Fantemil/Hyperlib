@@ -1,0 +1,2 @@
+
+    addscript(9440634497, "Current Game","farming", "Uploaded by imposteurbleu123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farming89.lua", "https://scriptblox.com/script/click-to-get-bigger-Au-11571")

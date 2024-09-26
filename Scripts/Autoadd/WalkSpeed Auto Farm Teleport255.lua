@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/poolist/EzScript/main/STEEP%20STEPS"))()

@@ -1,2 +1,4 @@
 
     addscript(13885546444, "Current Game","BEST AUTO FARM SCRIPT INF TRAIN", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20FARM%20SCRIPT%20INF%20TRAIN118.lua", "https://scriptblox.com/script/NEW-Mowing-Simulator-BEST-AUTO-FARM-SCRIPT-INF-TRAIN-10097")
+    addscriptexist(13885546444, "my gf requested me", "Uploaded by FahriScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/my%20gf%20requested%20me520.lua", "https://scriptblox.com/script/NEW-Mowing-Simulator-my-gf-requested-me-10345")
+                                    

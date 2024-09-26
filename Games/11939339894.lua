@@ -1,0 +1,2 @@
+
+    addscript(11939339894, "Current Game","Urnus", "Uploaded by Uranus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Urnus890.lua", "https://scriptblox.com/script/be-a-dad-and-get-milk-simulator-Urnus-14065")

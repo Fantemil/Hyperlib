@@ -1,0 +1,2 @@
+
+    addscript(15198166649, "Current Game","Hole Script", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hole%20Script556.lua", "https://scriptblox.com/script/The-Hole.-Hole-Script-15231")

@@ -22,3 +22,5 @@ addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com"
                                 
     addscriptexist(7305309231, "OP  Best Auto Farm Script", "Uploaded by MpIsPro12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Best%20Auto%20Farm%20Script596.lua", "https://scriptblox.com/script/Taxi-Boss-GROUPS-OP-Auto-Farm-Script-9442")
                                     
+    addscriptexist(7305309231, "Etronix", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etronix663.lua", "https://scriptblox.com/script/Taxi-Boss-MONACO-Etronix-16606")
+                                    

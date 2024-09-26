@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/script-by/Nx-Crazy/main/Silent-Aim-MM2"))()

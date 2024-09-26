@@ -1,0 +1,2 @@
+
+    addscript(16164895787, "Current Game","Auto Farm OP FREE UGC LIMITED", "Uploaded by Sinity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20OP%20FREE%20UGC%20LIMITED916.lua", "https://scriptblox.com/script/One-Piece:-East-Blue-Brawls-BETA-Auto-Farm-OP-FREE-UGC-LIMITED-12910")

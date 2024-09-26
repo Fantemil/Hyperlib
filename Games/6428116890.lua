@@ -1,0 +1,2 @@
+
+    addscript(6428116890, "Current Game","Jmholidae Hub", "Uploaded by jmholidae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jmholidae%20Hub319.lua", "https://scriptblox.com/script/Planet-Clicker-Jmholidae-Hub-15348")

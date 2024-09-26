@@ -1,2 +1,6 @@
 
     addscript(15060257865, "Current Game","BEST AUTO FARM SCRIPT KILL AURA AUTO FARM AUTO ATTACK", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTO%20FARM%20SCRIPT%20KILL%20AURA%20AUTO%20FARM%20AUTO%20ATTACK271.lua", "https://scriptblox.com/script/Solo-Levelling-+-Upd-11-Z-Piece-BEST-AUTO-FARM-SCRIPT-KILL-AURA-AUTO-FARM-AUTO-ATTACK-10150")
+    addscriptexist(15060257865, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2559.lua", "https://scriptblox.com/script/Solo-Levelling-+-x600-Money-Z-Piece-Demonic-HUB-V2-11228")
+                                    
+    addscriptexist(15060257865, "Auto Farm Auto Dungeon", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Dungeon491.lua", "https://scriptblox.com/script/Solo-Levelling-+-Sea-3-Z-Piece-Auto-Farm-Auto-Dungeon-11634")
+                                    

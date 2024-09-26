@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Waza80/scripts/raw/main/LegendsOfSpeed.lua"))()

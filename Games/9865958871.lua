@@ -4,3 +4,5 @@ addscriptexist(9865958871, "ESP", "Uploaded by THIS_IS_DEV on scriptblox.com", "
                                 
     addscriptexist(9865958871, "Wall Bang Silent Aim EPSs Gun Mods and more", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wall%20Bang%20Silent%20Aim%20EPSs%20Gun%20Mods%20and%20more42.lua", "https://scriptblox.com/script/BETA-BIG-Paintball-2!-Wall-Bang-Silent-Aim-EPSs-Gun-Mods-and-more-8469")
                                     
+    addscriptexist(9865958871, "Owl hub", "Uploaded by MioOrteez8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Owl%20hub301.lua", "https://scriptblox.com/script/BIG-Paintball-2!-Owl-hub-15078")
+                                    

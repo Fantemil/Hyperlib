@@ -1,0 +1,4 @@
+
+    addscript(16457183958, "Current Game","No cooldown      version v1 executing now", "Uploaded by Normalplayer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20cooldown%20%20%20%20%20%20version%20v1%20executing%20now541.lua", "https://scriptblox.com/script/KJ-Gojo-Vs-Toji-Ability-Test-No-cooldown-version-v1-16088")
+    addscriptexist(16457183958, "Budgie Hub", "Uploaded by Hamsterovich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub761.lua", "https://scriptblox.com/script/KJ-and-MegumiGojo-Vs-Toji-Ability-Test-Budgie-Hub-14450")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(4442272183, "Current Game","Auto Farm", "Uploaded by OhMyGodSkibidiRizz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm444.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-18807")

@@ -1,0 +1,2 @@
+-- https://discord.gg/yCFcsVM5mQ
+-- The script is too big to send here so join To obtain it

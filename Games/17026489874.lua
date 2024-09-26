@@ -1,0 +1,2 @@
+
+    addscript(17026489874, "Current Game","Auto Spin And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Spin%20And%20More501.lua", "https://scriptblox.com/script/QUESTS-ROLL-4-FREE-UGC-Auto-Spin-And-More-12980")

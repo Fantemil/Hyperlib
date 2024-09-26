@@ -1,0 +1,2 @@
+
+    addscript(15027718878, "Current Game","Request", "Uploaded by Pedro24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request400.lua", "https://scriptblox.com/script/The-Space-Simulator-Request-18640")

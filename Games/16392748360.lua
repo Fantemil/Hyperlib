@@ -1,0 +1,2 @@
+
+    addscript(16392748360, "Current Game","FIXED  SRO  EXPLOIT HUB UNPATCHABLE", "Uploaded by master_cheater_scrip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIXED%20%20SRO%20%20EXPLOIT%20HUB%20UNPATCHABLE407.lua", "https://scriptblox.com/script/2X-WEEKEND-Slap-Royale-Overdone-Script-18353")

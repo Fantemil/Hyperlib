@@ -1,0 +1,2 @@
+
+    addscript(16634561060, "Current Game","Emperor script", "Uploaded by kamiyanki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emperor%20script531.lua", "https://scriptblox.com/script/SEASON-1-Bubble-Gum-Emperors-Emperror-script-11195")

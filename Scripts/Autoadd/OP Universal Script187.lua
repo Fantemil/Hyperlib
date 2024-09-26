@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubUniversalWithKey/main/Universal%20Script%20With%20Key%20System"))()

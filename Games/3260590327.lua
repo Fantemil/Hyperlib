@@ -34,3 +34,7 @@ addscriptexist(3260590327, "AUTOFARM Militant Scout Farm", "Uploaded by Piesek_Z
                                     
     addscriptexist(3260590327, "TDS Grind Gems", "Uploaded by Alphabet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TDS%20Grind%20Gems508.lua", "https://scriptblox.com/script/FREE-UGC-or-EVENT-Tower-Defense-Simulator-TDS-Grind-Gems-9257")
                                     
+    addscriptexist(3260590327, "Auto upgrade auto sell and more", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20upgrade%20auto%20sell%20and%20more558.lua", "https://scriptblox.com/script/ITEMS-Tower-Defense-Simulator-Auto-upgrade-auto-sell-and-more-13062")
+                                    
+    addscriptexist(3260590327, "Script TDS", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20TDS481.lua", "https://scriptblox.com/script/CROOKS-Tower-Defense-Simulator-Script-TDS-10593")
+                                    

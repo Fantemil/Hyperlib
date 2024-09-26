@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Duckycant/Merge-for-diamond-/main/Merge%20for%20diamond'))() 

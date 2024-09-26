@@ -1,0 +1,2 @@
+
+    addscript(16187934859, "Current Game","SCRIPT GUI", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20GUI941.lua", "https://scriptblox.com/script/Sword-Warrior-Simulator-SCRIPT-GUI-16363")

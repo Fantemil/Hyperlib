@@ -1,0 +1,2 @@
+
+    addscript(16946137996, "Current Game","Auto Farm", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm285.lua", "https://scriptblox.com/script/Bridge-Simulator!-Auto-Farm-12386")

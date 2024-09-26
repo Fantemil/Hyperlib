@@ -1,0 +1,4 @@
+
+    addscript(9873821141, "Current Game","Server Breaking Spam Gamepass Nuke", "Uploaded by Gray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Server%20Breaking%20Spam%20Gamepass%20Nuke24.lua", "https://scriptblox.com/script/UPD-INFECTED-BACKROOMS-Server-Breaking-Spam-Gamepass-Nuke-14262")
+    addscriptexist(9873821141, "W script update", "Uploaded by adrianpicardal7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/W%20script%20update396.lua", "https://scriptblox.com/script/UPD-Backrooms-Infection-W-script-18670")
+                                    

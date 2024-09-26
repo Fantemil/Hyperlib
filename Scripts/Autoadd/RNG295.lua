@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/RNG_Anime_Rarities/main/README.md"),true))()

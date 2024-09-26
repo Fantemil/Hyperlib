@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/catblox1346/BasketScripts/main/AutoFarms/SpeedFarmBabft"))()

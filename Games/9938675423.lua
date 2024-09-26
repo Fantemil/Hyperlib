@@ -1,0 +1,2 @@
+
+    addscript(9938675423, "Current Game","Legend HandlesYT", "Uploaded by KETCHIMO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20HandlesYT931.lua", "https://scriptblox.com/script/Oaklands-EVENT-SoggyWare-12550")

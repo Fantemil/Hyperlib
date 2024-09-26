@@ -1,0 +1,2 @@
+
+    addscript(17352249555, "Current Game","Teleport Hub solara supported", "Uploaded by ThorTheMain* on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20Hub%20solara%20supported400.lua", "https://scriptblox.com/script/ENDLESS-Trespasser-Teleport-Hub-solara-supported-15874")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AbdouGG/Blox-Fruit-aim-lock/main/main"))()

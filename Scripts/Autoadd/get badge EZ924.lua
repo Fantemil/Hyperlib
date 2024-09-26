@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Remotes.AwardEvent2:FireServer()

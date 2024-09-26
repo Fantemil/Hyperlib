@@ -1,0 +1,4 @@
+
+    addscript(18408132742, "Current Game","Auto farm script for a game", "Uploaded by Jamjam0139 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20script%20for%20a%20game673.lua", "https://scriptblox.com/script/NEW!-Money-Clicker-Inc.-Auto-farm-script-for-a-game-16886")
+    addscriptexist(18408132742, "OP GUI Madbuk Scripts", "Uploaded by berishalorezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20Madbuk%20Scripts880.lua", "https://scriptblox.com/script/NEW!-Money-Clicker-Inc.-OP-GUI-Madbuk-Scripts-16895")
+                                    

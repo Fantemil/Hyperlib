@@ -1,0 +1,2 @@
+
+    addscript(10217794885, "Current Game","Free Itens in  Avatar", "Uploaded by CharlesLec16F1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Itens%20in%20%20Avatar20.lua", "https://scriptblox.com/script/Roblox-Career-Center-Free-Itens-in-Avatar-14684")

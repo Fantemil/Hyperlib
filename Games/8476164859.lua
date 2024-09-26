@@ -1,0 +1,2 @@
+
+    addscript(8476164859, "Current Game","Kill All Spawn", "Uploaded by Gray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All%20Spawn540.lua", "https://scriptblox.com/script/SLIME-SURVIVAL-Kill-All-Spawn-14163")

@@ -1,0 +1,4 @@
+
+    addscript(7622046644, "Current Game","OpenSource", "Uploaded by DragonZ_TH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OpenSource785.lua", "https://scriptblox.com/script/Monster-Ghoul-OpenSource-19006")
+    addscriptexist(7622046644, "yall tryna make a script for this", "Uploaded by johntookmymoney on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yall%20tryna%20make%20a%20script%20for%20this49.lua", "https://scriptblox.com/script/Monster-GhoulUPDATE-1-yall-tryna-make-a-script-for-this-14001")
+                                    

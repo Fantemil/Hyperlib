@@ -1,0 +1,2 @@
+
+    addscript(12704490931, "Current Game","Get any ability", "Uploaded by Jay_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20ability5.lua", "https://scriptblox.com/script/X9-LUCK-Jujutsu-Online-Get-any-ability-14796")

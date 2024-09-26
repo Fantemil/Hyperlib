@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Artem7-ops/MyProjects/main/RobloxScripts/free%20admin.lua'))()

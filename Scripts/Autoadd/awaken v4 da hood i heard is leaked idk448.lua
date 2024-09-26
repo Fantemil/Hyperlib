@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nahhhbruhhh12/Awakenv4done/main/Awakenv4"))()

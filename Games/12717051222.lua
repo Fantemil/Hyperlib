@@ -1,0 +1,2 @@
+
+    addscript(12717051222, "Current Game","Infinite CoinsGems And Free Gamepasses", "Uploaded by QuePro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20CoinsGems%20And%20Free%20Gamepasses50.lua", "https://scriptblox.com/script/Mining-Factory-Tycoon-Casual-Strategy-Inf-Currency-And-Free-Passes-12646")

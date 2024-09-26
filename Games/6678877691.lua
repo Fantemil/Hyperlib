@@ -18,3 +18,7 @@ addscriptexist(6678877691, "ZQ Samur4i Paid Cracked", "Uploaded by Jine on scrip
                                 
 addscriptexist(6678877691, "ZQ Teleport To Nobu", "Uploaded by CandyLeanSpam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZQ%20Teleport%20To%20Nobu558.lua", "https://scriptblox.com/script/PvE-ZO-SAMURAI-ZQ-Teleport-To-Nobu-7871")
                                 
+    addscriptexist(6678877691, "Script Request", "Uploaded by DrTacoPieMlg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request750.lua", "https://scriptblox.com/script/ZO-SAMURAI-SWORD-FIGHTING-Script-Request-13616")
+                                    
+    addscriptexist(6678877691, "MaxHub Paid", "Uploaded by maxy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaxHub%20Paid606.lua", "https://scriptblox.com/script/ZO-SAMURAI-SWORD-FIGHTING-MaxHub-Paid-17664")
+                                    

@@ -1,0 +1,4 @@
+
+    addscript(14353185996, "Current Game","Inf  taps", "Uploaded by romckinley14 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20%20taps9.lua", "https://scriptblox.com/script/Top-Tappers-X-Inf-taps-13806")
+    addscriptexist(14353185996, "INf money every game pass", "Uploaded by romckinley14 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INf%20money%20every%20game%20pass364.lua", "https://scriptblox.com/script/Top-Tappers-X-If-money-every-game-pass-13766")
+                                    

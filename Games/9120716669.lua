@@ -1,0 +1,2 @@
+
+    addscript(9120716669, "Current Game","free tools", "Uploaded by sauga77kjk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20tools353.lua", "https://scriptblox.com/script/Insane-Elevator-Testing-free-tools-14100")

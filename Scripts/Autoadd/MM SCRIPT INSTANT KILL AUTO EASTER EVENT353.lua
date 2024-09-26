@@ -1,0 +1,2 @@
+-- CURRENTLY GETTING UPDATED CONSTANTLY! THIS IS NOT BANABLE IT WILL AUTO KICK IF MODS JOIN N ETC , UPDATES EVERYDAY IF IM NOT BUSY .
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pa1nx/MurderMystery2ScriptTESTING/main/TestFile"))()

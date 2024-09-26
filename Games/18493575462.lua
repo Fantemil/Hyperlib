@@ -1,0 +1,2 @@
+
+    addscript(18493575462, "Current Game","Get any Aura FE", "Uploaded by Gawsx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20Aura%20FE219.lua", "https://scriptblox.com/script/Sol's-RNG-MODDED-(AURA-TEST)-Get-any-Aura-FE-16390")

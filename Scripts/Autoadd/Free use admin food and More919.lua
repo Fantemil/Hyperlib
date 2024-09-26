@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-UPD-Toilet-Eating-Simulator/main/Op%20script"))()

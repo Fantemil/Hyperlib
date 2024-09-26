@@ -1,0 +1,4 @@
+
+    addscript(16766379445, "Current Game","Auto farm NPC Peasant USE AUTOCLICK", "Uploaded by ethandazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20NPC%20Peasant%20USE%20AUTOCLICK669.lua", "https://scriptblox.com/script/Swords-of-RNG-(In-dev)-Auto-farm-NPC-Peasant-USE-AUTOCLICK-13697")
+    addscriptexist(16766379445, "Auto farm NPC Zombie USE AUTOCLICK", "Uploaded by ethandazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20NPC%20Zombie%20USE%20AUTOCLICK385.lua", "https://scriptblox.com/script/Swords-of-RNG-(In-dev)-Auto-farm-NPC-Zombie-USE-AUTOCLICK-13698")
+                                    

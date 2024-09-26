@@ -18,3 +18,63 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                     
     addscriptexist(12355337193, "Script by Tbao Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20by%20Tbao%20Hub351.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Script-by-Tbao-Hub-9947")
                                     
+    addscriptexist(12355337193, "Testing", "Uploaded by Taster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Testing170.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Testing-19007")
+                                    
+    addscriptexist(12355337193, "X Ro Best Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20Ro%20Best%20Script296.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-X-Ro-Best-Script-18237")
+                                    
+    addscriptexist(12355337193, "OP AND FUN", "Uploaded by world on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AND%20FUN118.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-OP-AND-FUN-15053")
+                                    
+    addscriptexist(12355337193, "troll enemy", "Uploaded by trellurr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/troll%20enemy263.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-troll-enemy-14663")
+                                    
+    addscriptexist(12355337193, "Murderer  sherrif duel", "Uploaded by rahayutrirayhan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderer%20%20sherrif%20duel651.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Murderer-sherrif-duel-16739")
+                                    
+    addscriptexist(12355337193, "Invisivle Hitbox Extander", "Uploaded by ManImDead_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Invisivle%20Hitbox%20Extander834.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Invisivle-Hitbox-Extander-15494")
+                                    
+    addscriptexist(12355337193, "The Hunt", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hunt153.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-The-Hunt-11336")
+                                    
+    addscriptexist(12355337193, "MD HITBOX", "Uploaded by pejcicvojin8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MD%20HITBOX738.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-MD-HITBOX-15762")
+                                    
+    addscriptexist(12355337193, "VERY OP MD SCRIPT", "Uploaded by world on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VERY%20OP%20MD%20SCRIPT443.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-VERY-OP-MD-SCRIPT-14770")
+                                    
+    addscriptexist(12355337193, "Murderer  sheriff  hitbox script", "Uploaded by Scriptuser69420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murderer%20%20sheriff%20%20hitbox%20script385.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Murderer-sheriff-hitbox-script-14952")
+                                    
+    addscriptexist(12355337193, "Vgxmod Hub", "Uploaded by Vgxmod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vgxmod%20Hub111.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Vgxmod-Hub-16755")
+                                    
+    addscriptexist(12355337193, "M  S  Script Auto Kill All", "Uploaded by THE_VSHUNT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/M%20%20S%20%20Script%20Auto%20Kill%20All292.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-M-S-Script-Auto-Kill-All-13651")
+                                    
+    addscriptexist(12355337193, "OP Script Gui DevHub Support PC And Mobile", "Uploaded by DevHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20Gui%20DevHub%20Support%20PC%20And%20Mobile613.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Script-Gui-DevHub-Support-PC-And-Mobile-17286")
+                                    
+    addscriptexist(12355337193, "Rinns Hub", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinns%20Hub226.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Rinns-Hub-17592")
+                                    
+    addscriptexist(12355337193, "Roblox Script", "Uploaded by ydont024 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20Script944.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Roblox-Script-MD-15937")
+                                    
+    addscriptexist(12355337193, "MURDER  SHERIFF  BEST SCRIPT HITBOX", "Uploaded by sj251703 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURDER%20%20SHERIFF%20%20BEST%20SCRIPT%20HITBOX438.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-MD-BEST-SCRIPT-HITBOX-17890")
+                                    
+    addscriptexist(12355337193, "OP AND SUPER EASY TO USE SOLARA SUPPORTED", "Uploaded by world on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AND%20SUPER%20EASY%20TO%20USE%20SOLARA%20SUPPORTED211.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-OP-AND-SUPER-EASY-TO-USE-15087")
+                                    
+    addscriptexist(12355337193, "SUPPORT SOLARA BIG HITBOX FREE NO KEY", "Uploaded by vermelixq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPPORT%20SOLARA%20BIG%20HITBOX%20FREE%20NO%20KEY334.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Big-Hitbox-Free-Script-NO-KEY-15558")
+                                    
+    addscriptexist(12355337193, "Project ZENO", "Uploaded by Okbye on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20ZENO476.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Project-ZENO-OP-MD-SCRIPT-17785")
+                                    
+    addscriptexist(12355337193, "REVAMP INSANELY OP", "Uploaded by Manny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REVAMP%20INSANELY%20OP293.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-REVAMP-INSANELY-OP-17939")
+                                    
+    addscriptexist(12355337193, "Tbao hub repost", "Uploaded by Idontknowwhyimhack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20hub%20repost694.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Tbao-hub-repost-14539")
+                                    
+    addscriptexist(12355337193, "Tbao hub OP keyless Gui With hitbox", "Uploaded by NotMyscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20hub%20OP%20keyless%20Gui%20With%20hitbox969.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Tbao-hub-OP-keyless-Gui-With-hitbox-15352")
+                                    
+    addscriptexist(12355337193, "Syrex Hub", "Uploaded by gerisx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub730.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Syrex-Hub-17442")
+                                    
+    addscriptexist(12355337193, "MURDER  SHERIFF  HITBOX", "Uploaded by sj251703 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MURDER%20%20SHERIFF%20%20HITBOX7.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-MD-HITBOX-UPDATED-17280")
+                                    
+    addscriptexist(12355337193, "Melon Hub", "Uploaded by melon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melon%20Hub848.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Melon-Hub-16145")
+                                    
+    addscriptexist(12355337193, "Open Source GUI", "Uploaded by Unnamed_Goose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20Source%20GUI154.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-GUI-16622")
+                                    
+    addscriptexist(12355337193, "Inf Jumps and Noclip", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Jumps%20and%20Noclip502.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Inf-Jumps-and-Noclip-10579")
+                                    
+    addscriptexist(12355337193, "Works on any executor pc and mobile script not mine", "Uploaded by crzykairo0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Works%20on%20any%20executor%20pc%20and%20mobile%20script%20not%20mine495.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Works-on-any-executor-pc-and-mobile-17618")
+                                    
+    addscriptexist(12355337193, "Murder  Sheriff  MD    Etronix Script", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Murder%20%20Sheriff%20%20MD%20%20%20%20Etronix%20Script99.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Murder-Sheriff-MD-Etronix-Script-15388")
+                                    
+    addscriptexist(12355337193, "MD OP Script", "Uploaded by syn_script on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MD%20OP%20Script917.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-MD-OP-Script-18216")
+                                    

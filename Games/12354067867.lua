@@ -1,0 +1,2 @@
+
+    addscript(12354067867, "Current Game","Troll", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll478.lua", "https://scriptblox.com/script/3M-Plank-It!-Troll-11886")

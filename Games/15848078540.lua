@@ -1,0 +1,2 @@
+
+    addscript(15848078540, "Current Game","Infinite win", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20win675.lua", "https://scriptblox.com/script/Jump-Clicker-2-Infinite-win-12335")

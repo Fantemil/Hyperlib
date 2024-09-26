@@ -4,3 +4,7 @@ addscriptexist(11729688377, "Cheaters Hub  Booga Booga REBORN", "Uploaded by Mig
                                 
     addscriptexist(11729688377, "Nil Hub Reborn", "Uploaded by YuuScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nil%20Hub%20Reborn708.lua", "https://scriptblox.com/script/Booga-Booga-REBORN-Nil-Hub-Reaborn-9032")
                                     
+    addscriptexist(11729688377, "Nilhub Updated", "Uploaded by Texchy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nilhub%20Updated521.lua", "https://scriptblox.com/script/Valentines!-Booga-Booga-REBORN-Nilhub-Updated-11004")
+                                    
+    addscriptexist(11729688377, "Slideurs Hub", "Uploaded by Mae_luadev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slideurs%20Hub380.lua", "https://scriptblox.com/script/Update!-Booga-Booga-REBORN-Slideurs-Hub-15401")
+                                    

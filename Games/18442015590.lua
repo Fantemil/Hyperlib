@@ -1,0 +1,2 @@
+
+    addscript(18442015590, "Current Game","Auto Lift Best Weight And Auto Hatch Best Egg And Auto Rebir", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Lift%20Best%20Weight%20And%20Auto%20Hatch%20Best%20Egg%20And%20Auto%20Rebir501.lua", "https://scriptblox.com/script/Titan-Simulator-Auto-Lift-Best-Weight-And-Auto-Hatch-Best-Egg-And-Auto-Rebir-17776")

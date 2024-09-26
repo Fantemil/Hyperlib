@@ -1,0 +1,6 @@
+
+    addscript(12317373094, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V270.lua", "https://scriptblox.com/script/RELEASE-Champions-TD-Demonic-HUB-V2-10819")
+    addscriptexist(12317373094, "OP Script Auto Farm Macro Inf Coins Inf Range Attack no CD", "Uploaded by HOLYSHz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20Auto%20Farm%20Macro%20Inf%20Coins%20Inf%20Range%20Attack%20no%20CD845.lua", "https://scriptblox.com/script/RELEASE-Champions-TD-OP-Script-Auto-Farm-Macro-Inf-Coins-Inf-Range-Attack-no-CD-10971")
+                                    
+    addscriptexist(12317373094, "INF COINS AND GEMS", "Uploaded by OmgHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20COINS%20AND%20GEMS658.lua", "https://scriptblox.com/script/RELEASE-Champions-TD-INF-COINS-AND-GEMS-10808")
+                                    

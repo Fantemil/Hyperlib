@@ -40,3 +40,11 @@ addscriptexist(14433762945, "OP SCRIPT FOR GAME", "Uploaded by gus_fring on scri
                                     
     addscriptexist(14433762945, "Flaming Dragons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flaming%20Dragons%20HUB827.lua", "https://scriptblox.com/script/GALAXY-2-Anime-Champions-Simulator-Flaming-Dragons-HUB-9573")
                                     
+    addscriptexist(14433762945, "Freeze Boost OPEN SOURCE", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Boost%20OPEN%20SOURCE314.lua", "https://scriptblox.com/script/UPDATE-Anime-Champions-Simulator-Freeze-Boost-OPEN-SOURCE-12971")
+                                    
+    addscriptexist(14433762945, "Freeze Boosts", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Boosts562.lua", "https://scriptblox.com/script/FUSION-Anime-Champions-Simulator-Freeze-Boosts-12457")
+                                    
+    addscriptexist(14433762945, "Freeze All Boosts", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20All%20Boosts937.lua", "https://scriptblox.com/script/3x-Anime-Champions-Simulator-Freeze-All-Boosts-12410")
+                                    
+    addscriptexist(14433762945, "Auto Open Eggs Teleport To World", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Open%20Eggs%20Teleport%20To%20World110.lua", "https://scriptblox.com/script/UPD-12-Anime-Champions-Simulator-Auto-Open-Eggs-Teleport-To-World-10658")
+                                    

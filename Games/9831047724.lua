@@ -1,0 +1,2 @@
+
+    addscript(9831047724, "Current Game","Collect All Coin", "Uploaded by eeee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20All%20Coin299.lua", "https://scriptblox.com/script/Subway-Surfers-Collect-All-Coin-15968")

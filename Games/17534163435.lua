@@ -1,0 +1,2 @@
+
+    addscript(17534163435, "Current Game","Dungeon", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon421.lua", "https://scriptblox.com/script/Dungeon-RNG-UPD10-Dungeon-17715")

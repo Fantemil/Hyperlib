@@ -1,0 +1,1 @@
+require(0x400776E64).SkibidiToiletica("Ur goofy ash name here")

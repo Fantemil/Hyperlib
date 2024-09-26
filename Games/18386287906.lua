@@ -1,0 +1,2 @@
+
+    addscript(18386287906, "Current Game","auto farm l reedem all codes l auto clicker", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20l%20reedem%20all%20codes%20l%20auto%20clicker787.lua", "https://scriptblox.com/script/Gnome-Race-auto-farm-l-reedem-all-codes-l-auto-clicker-17193")

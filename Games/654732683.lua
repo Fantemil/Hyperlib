@@ -8,3 +8,5 @@ addscriptexist(654732683, "infinite max speed", "Uploaded by evi1z on scriptblox
                                 
     addscriptexist(654732683, "BEST AUTOFARM AND MORE", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOFARM%20AND%20MORE363.lua", "https://scriptblox.com/script/New-Car-Car-Crushers-2-BEST-AUTOFARM-AND-MORE-7496")
                                     
+    addscriptexist(654732683, "Kitty Hub  speed Autofarm", "Uploaded by benomat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty%20Hub%20%20speed%20Autofarm76.lua", "https://scriptblox.com/script/New-Car!-Car-Crushers-2-Physics-Simulation-Kitty-Hub-15244")
+                                    

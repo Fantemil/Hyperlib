@@ -1,0 +1,2 @@
+
+    addscript(17250538604, "Current Game","AutoFarm", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm784.lua", "https://scriptblox.com/script/Tennis-Simulator-AutoFarm-15245")

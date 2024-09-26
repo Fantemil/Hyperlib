@@ -1,0 +1,2 @@
+
+    addscript(15432848623, "Current Game","INSTANT UGC", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20UGC10.lua", "https://scriptblox.com/script/Netflix-Nextworld-EARLY-ACCESS-INSTANT-UGC-13123")

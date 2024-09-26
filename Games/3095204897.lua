@@ -12,3 +12,5 @@ addscript(3095204897, "Current Game","Isle OP Script", "Uploaded by r3d_108 on s
                                 
 addscriptexist(3095204897, "Very OP Script", "Uploaded by skull on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP%20Script705.lua", "https://scriptblox.com/script/Isle-Very-OP-Script-8189")
                                 
+    addscriptexist(3095204897, "Get Any Item read desc", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Any%20Item%20read%20desc479.lua", "https://scriptblox.com/script/Isle-Get-Any-Item-read-desc-14572")
+                                    

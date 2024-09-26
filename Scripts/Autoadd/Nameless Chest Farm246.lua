@@ -1,0 +1,1 @@
+loadString(game:HttpGet("https://raw.githubusercontent.com/NamelessScripts/chest-farm/main/Blox%20Fruits"))()

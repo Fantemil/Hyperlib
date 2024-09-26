@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ossfr/OSS/main/Arsenal.lua"))() 

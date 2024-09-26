@@ -1,0 +1,2 @@
+
+    addscript(18968670487, "Current Game","Auto Pull Lever", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pull%20Lever136.lua", "https://scriptblox.com/script/Ben's-RNG-Auto-Pull-Lever-17556")

@@ -1,0 +1,2 @@
+
+    addscript(84051768679875, "Current Game","Kill Aura Player", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Player486.lua", "https://scriptblox.com/script/LifeCraft-Kill-Aura-Player-18626")

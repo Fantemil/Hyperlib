@@ -1,0 +1,2 @@
+
+    addscript(4520536611, "Current Game","Fitn3ss S1mulator Script", "Uploaded by kamiyanki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fitn3ss%20S1mulator%20Script146.lua", "https://scriptblox.com/script/Fitness-Simulator-Fitn3ss-S1mulator-Script-10915")

@@ -22,3 +22,11 @@ addscriptexist(2534724415, "Vehicle speed Multiplier", "Uploaded by yarikku05 on
                                 
     addscriptexist(2534724415, "Argon Hub ERLC", "Uploaded by aymarko on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argon%20Hub%20ERLC106.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Argon-Hub-ERLC-7859")
                                     
+    addscriptexist(2534724415, "Argon Hub V6 ERLC FREE OP", "Uploaded by stefanpanayotov088 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Argon%20Hub%20V6%20ERLC%20FREE%20OP899.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Argon-Hub-V6-ERLC-FREE-OP-13094")
+                                    
+    addscriptexist(2534724415, "response   script", "Uploaded by nullisgangster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/response%20%20%20script951.lua", "https://scriptblox.com/script/1B-Emergency-Response:-Liberty-County-response-script-18947")
+                                    
+    addscriptexist(2534724415, "Bulwark hub MOBILE SUPPORT", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bulwark%20hub%20MOBILE%20SUPPORT913.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Bulwark-hub-MOBILE-SUPPORT-17359")
+                                    
+    addscriptexist(2534724415, "OP erlc hub", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20erlc%20hub559.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-OP-erlc-hub-17305")
+                                    

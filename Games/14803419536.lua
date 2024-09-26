@@ -1,0 +1,4 @@
+
+    addscript(14803419536, "Current Game","Brookhaven Troll GUI", "Uploaded by ShrekTheKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven%20Troll%20GUI170.lua", "https://scriptblox.com/script/BasePlate-But-You-Cant-Leave-Brookhaven-Troll-GUI-18135")
+    addscriptexist(14803419536, "Fe chat draw Mobile", "Uploaded by ShrekTheKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20chat%20draw%20Mobile663.lua", "https://scriptblox.com/script/BasePlate-But-You-Cant-Leave-Fe-chat-draw-Mobile-18138")
+                                    

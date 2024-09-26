@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/INFECTIOUS-SMILE/main/ScriptsFromMinion.lua"))()

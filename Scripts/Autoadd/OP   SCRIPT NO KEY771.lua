@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TripleScript/TripleHub/main/TripleHub.lua.txt"))()

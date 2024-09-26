@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VienYt/WL-Hub-2.3-BACK/main/WL%20hub%20Last%20Version%20Slashh"))();

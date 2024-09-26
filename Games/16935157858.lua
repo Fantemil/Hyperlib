@@ -1,0 +1,2 @@
+
+    addscript(16935157858, "Current Game","xHub", "Uploaded by xans on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/xHub527.lua", "https://scriptblox.com/script/NEW-CODE-Project-Polaro-xHub-12090")

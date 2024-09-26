@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/REDzHUB/DEX-Explorer/main/Mobile.lua"))()

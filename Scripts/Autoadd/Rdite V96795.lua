@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZOMBIEKING9998/ZOMBIEKING9998/main/Cart%20Ride%20INTO%20Rdite"))()

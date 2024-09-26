@@ -1,0 +1,4 @@
+
+    addscript(5771589008, "Current Game","Fe sit any", "Uploaded by plumcraftcss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20sit%20any15.lua", "https://scriptblox.com/script/game-Castle-executor-Fe-sit-16389")
+    addscriptexist(5771589008, "PlumcraftcsGUIv2 small update add sprint please for like up", "Uploaded by plumcraftcss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PlumcraftcsGUIv2%20small%20update%20add%20sprint%20please%20for%20like%20up963.lua", "https://scriptblox.com/script/game-Castle-executor-PlumcraftcsGUIv2-small-update-add-sprint-16312")
+                                    

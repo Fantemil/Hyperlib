@@ -1,0 +1,1 @@
+V2.0: loadstring(game:HttpGet(('https://raw.githubusercontent.com/hi822010/toggleWare/main/toggleWare'),true))()

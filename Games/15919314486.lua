@@ -1,0 +1,2 @@
+
+    addscript(15919314486, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2837.lua", "https://scriptblox.com/script/UPD-1-Anime-Attackers-Simulator-Demonic-HUB-V2-11040")

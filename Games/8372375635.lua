@@ -1,0 +1,2 @@
+
+    addscript(8372375635, "Current Game","Auto sell", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20sell280.lua", "https://scriptblox.com/script/Dreaming-Simulator-2x-Dreams-Auto-sell-15015")

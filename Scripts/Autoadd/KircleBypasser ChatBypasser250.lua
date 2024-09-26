@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KircleBypasser/Bypass/main/Chat-Bypasser"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xxxxxthefox/ffoe/main/obf_AZ9M9y360Xx7iY5m93868d5z4u0A8Jh98BJvzJe5999G2iGKr04fk2sgtJH1hrD1.lua.txt"))()

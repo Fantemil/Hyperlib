@@ -1,0 +1,2 @@
+
+    addscript(18877143786, "Current Game","INFINITE MONEY OP", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20MONEY%20OP494.lua", "https://scriptblox.com/script/Cross-Invisible-Path-to-RICH!-INFINITE-MONEY-OP-17998")

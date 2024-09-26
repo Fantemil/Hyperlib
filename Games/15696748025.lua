@@ -1,0 +1,2 @@
+
+    addscript(15696748025, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V22.lua", "https://scriptblox.com/script/NEW-Lethal-Tower-Defense-Demonic-HUB-V2-10678")

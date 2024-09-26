@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hiklom/hikka/main/The%20Strongest%20Battleground.lua"))() 

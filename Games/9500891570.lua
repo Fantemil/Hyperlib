@@ -1,2 +1,4 @@
 
 addscript(9500891570, "Current Game","LizardHub V1", "Uploaded by Lizard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LizardHub%20V1803.lua", "https://scriptblox.com/script/Admin-guns!-(35)-LizardHub-V1-3164")
+    addscriptexist(9500891570, "GET ALL  GUNS AND BADGE", "Uploaded by noodlesboss0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20ALL%20%20GUNS%20AND%20BADGE224.lua", "https://scriptblox.com/script/NEW-Admin-guns!-(100)-GET-ALL-GUNS-AND-BADGE-10551")
+                                    

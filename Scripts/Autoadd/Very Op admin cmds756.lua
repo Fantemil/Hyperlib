@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/main/Superhero%20universe%20battleground"))()

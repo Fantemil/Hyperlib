@@ -1,0 +1,2 @@
+
+    addscript(7234087065, "Current Game","UI by GiamgoMC", "Uploaded by LlamaScriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UI%20by%20GiamgoMC415.lua", "https://scriptblox.com/script/Slap-Battles-UI-v1-12403")

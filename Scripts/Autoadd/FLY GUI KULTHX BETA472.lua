@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nizartitwaniii/KulthX-fly-beta/main/fly%20beta%20KulthX"))()

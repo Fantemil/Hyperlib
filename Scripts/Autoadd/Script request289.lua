@@ -1,0 +1,1 @@
+I would like a esp for the egg hunt event since im blind and can never see the eggs

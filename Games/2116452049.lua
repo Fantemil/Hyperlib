@@ -1,0 +1,2 @@
+
+    addscript(2116452049, "Current Game","VietHub", "Uploaded by hsh478769 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VietHub809.lua", "https://scriptblox.com/script/Alphasteve's-one-piece-VietHub-12388")

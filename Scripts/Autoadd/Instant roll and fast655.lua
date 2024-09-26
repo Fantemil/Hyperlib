@@ -1,0 +1,1 @@
+while wait() do game:GetService("ReplicatedStorage").Events.Spin:InvokeServer(true) end

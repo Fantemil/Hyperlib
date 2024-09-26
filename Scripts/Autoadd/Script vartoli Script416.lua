@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/oz490/SOUTH-LONDON-2-WEAK-UP-NEWST-UPDATE/main/README.md"))()

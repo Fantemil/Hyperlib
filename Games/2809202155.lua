@@ -44,3 +44,19 @@ addscriptexist(2809202155, "YBA Stats Viewer with multi language support", "Uplo
                                     
     addscriptexist(2809202155, "MAX Prestige farming script", "Uploaded by senS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MAX%20Prestige%20farming%20script718.lua", "https://scriptblox.com/script/S.M.-REWORK-Your-Bizarre-Adventure-MAX-Prestige-farming-script-7949")
                                     
+    addscriptexist(2809202155, "OP script", "Uploaded by galaxyfounded on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script153.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-OP-script-18647")
+                                    
+    addscriptexist(2809202155, "Item Farm Auto Sell for PC Executors", "Uploaded by PzVIIIMaus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Farm%20Auto%20Sell%20for%20PC%20Executors153.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-Item-Farm-Auto-Sell-for-PC-Executors-13500")
+                                    
+    addscriptexist(2809202155, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2721.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-Demonic-HUB-V2-11946")
+                                    
+    addscriptexist(2809202155, "Yba script", "Uploaded by W_o_U on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yba%20script616.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-Yba-script-13314")
+                                    
+    addscriptexist(2809202155, "Item Autofarm Auto Sell for Mobile Execs", "Uploaded by PzVIIIMaus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Autofarm%20Auto%20Sell%20for%20Mobile%20Execs291.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-Item-Autofarm-Auto-Sell-for-Mobile-Execs-14281")
+                                    
+    addscriptexist(2809202155, "serverhop item farm", "Uploaded by W_o_U on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/serverhop%20item%20farm755.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-serverhop-item-farm-15357")
+                                    
+    addscriptexist(2809202155, "Item Autofarm SOLARA", "Uploaded by Vuffi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Autofarm%20SOLARA196.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-Item-Autofarm-SOLARA-14859")
+                                    
+    addscriptexist(2809202155, "Yba server hop autofarm", "Uploaded by bagre on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yba%20server%20hop%20autofarm2.lua", "https://scriptblox.com/script/Your-Bizarre-Adventure-Yba-server-hop-autofarm-15393")
+                                    

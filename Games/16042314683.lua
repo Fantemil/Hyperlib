@@ -1,0 +1,2 @@
+
+    addscript(16042314683, "Current Game","op", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op451.lua", "https://scriptblox.com/script/EASTER-EVENT-Trenches-Tower-Defence-op-12323")

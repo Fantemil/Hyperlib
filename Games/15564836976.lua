@@ -1,0 +1,2 @@
+
+    addscript(15564836976, "Current Game","Kill aura and kill all", "Uploaded by RIOSETRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20aura%20and%20kill%20all395.lua", "https://scriptblox.com/script/CHAOS-Remastered-OVERHAUL-12-Kill-aura-and-kill-all-11611")

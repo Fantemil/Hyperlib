@@ -4,3 +4,5 @@ addscriptexist(6243699076, "Ken all chapter Control", "Uploaded by ScriptNoKeys 
                                 
 addscriptexist(6243699076, "Ken   New script", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20%20%20New%20script163.lua", "https://scriptblox.com/script/The-Mimic-Ken-New-script-7117")
                                 
+    addscriptexist(6243699076, "TTJY Hub", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTJY%20Hub793.lua", "https://scriptblox.com/script/The-Mimic-TTJY-Hub-15581")
+                                    

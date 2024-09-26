@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BongCloudMaster/CHAIN/main/aimbot.lua"))()

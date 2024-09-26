@@ -1,0 +1,2 @@
+
+    addscript(12627351140, "Current Game","script request", "Uploaded by riverr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request534.lua", "https://scriptblox.com/script/Accurate-Apeirophobia-RP-script-request-14434")

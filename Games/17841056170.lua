@@ -1,0 +1,2 @@
+
+    addscript(17841056170, "Current Game","Autofarm Auto Buy Things Updated", "Uploaded by PzVIIIMaus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Auto%20Buy%20Things%20Updated186.lua", "https://scriptblox.com/script/RELEASE-Pixel-Incremental-2-Autofarm-Auto-Buy-Things-14283")

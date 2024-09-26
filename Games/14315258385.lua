@@ -1,0 +1,4 @@
+
+    addscript(14315258385, "Current Game","AutoFarm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20And%20More812.lua", "https://scriptblox.com/script/Realistic-Street-Soccer-(3-on-3)-AutoFarm-And-More-15615")
+    addscriptexist(14315258385, "Infinite sprint its bad and has many bugs", "Uploaded by Tr00bscript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20sprint%20its%20bad%20and%20has%20many%20bugs377.lua", "https://scriptblox.com/script/Realistic-Street-Soccer-(3-on-3)-Infinite-sprint-its-bad-and-has-many-bugs-16839")
+                                    

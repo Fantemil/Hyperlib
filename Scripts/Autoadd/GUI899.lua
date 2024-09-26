@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://www.system-exodus.com/scripts/misc-releases/ThiefSimulator.lua", true))()
+https://discord.gg/s2kND6Mryf

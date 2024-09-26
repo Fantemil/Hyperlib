@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BlindingLight01/BlindHubUniversal/refs/heads/main/Best%20Universal"))()

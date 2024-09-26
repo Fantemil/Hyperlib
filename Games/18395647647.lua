@@ -1,0 +1,2 @@
+
+    addscript(18395647647, "Current Game","Auto Finish", "Uploaded by subj0el on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Finish26.lua", "https://scriptblox.com/script/1v1s-Obby-RNG-Auto-Finish-18536")

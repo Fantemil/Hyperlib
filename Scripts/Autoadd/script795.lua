@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Scripterbacon/Test-Script/main/a%20dusty%20trip.Lua"))()

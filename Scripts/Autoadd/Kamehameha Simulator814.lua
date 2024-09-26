@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/Kemehameha-Simulator-OP-/main/README.md"),true))()

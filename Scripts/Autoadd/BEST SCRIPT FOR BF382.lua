@@ -1,0 +1,1 @@
+-- buy key and get script here https://discord.gg/RysEGhUeDP

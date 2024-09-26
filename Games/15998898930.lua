@@ -1,0 +1,4 @@
+
+    addscript(15998898930, "Current Game","Demonic HUB VW", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20VW49.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Battles-Simulator-Demonic-HUB-VW-10399")
+    addscriptexist(15998898930, "BEST SCRIPT", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT510.lua", "https://scriptblox.com/script/GRIMOIRES-Anime-Battles-Simulator-BEST-SCRIPT-10494")
+                                    

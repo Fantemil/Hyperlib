@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").BloxbizRemotes.CatalogOnPromptPurchase:InvokeServer(17847272882)

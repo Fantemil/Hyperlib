@@ -1,0 +1,2 @@
+
+    addscript(16230991879, "Current Game","Auto Code", "Uploaded by Muimi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Code585.lua", "https://scriptblox.com/script/JAVA-Coding-Simulator!-Auto-Code-11148")

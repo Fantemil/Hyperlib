@@ -1,0 +1,2 @@
+
+    addscript(5391778736, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2121.lua", "https://scriptblox.com/script/Centipede-Demonic-HUB-V2-11535")

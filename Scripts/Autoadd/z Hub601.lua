@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Diamondd96/z-Hub_new55/main/z%20Huyb",true))()

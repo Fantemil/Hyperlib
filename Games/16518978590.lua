@@ -1,0 +1,2 @@
+
+    addscript(16518978590, "Current Game","Roll giver PATCHED", "Uploaded by Atretus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roll%20giver%20PATCHED749.lua", "https://scriptblox.com/script/Ricky's-RNG-UPDATE-3-Roll-giver-11317")

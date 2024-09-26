@@ -6,3 +6,7 @@ addscript(3177438863, "Current Game","op scirpt NEW", "Uploaded by amcoolguy on 
                                 
 addscriptexist(3177438863, "OP Updated and fixed", "Uploaded by Aidanman14 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Updated%20and%20fixed806.lua", "https://scriptblox.com/script/New-Codes!-Dragon-Blox-OP-Updated-and-fixed-7853")
                                 
+    addscriptexist(3177438863, "Riotscripter script updated", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Riotscripter%20script%20updated172.lua", "https://scriptblox.com/script/Dragon-Blox-Riotscripter-script-updated-13609")
+                                    
+    addscriptexist(3177438863, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2653.lua", "https://scriptblox.com/script/Dragon-Blox-Demonic-HUB-V2-11001")
+                                    

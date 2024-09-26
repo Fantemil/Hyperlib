@@ -14,3 +14,7 @@ addscript(10903978962, "Current Game","Sheep Tycoon Gui", "Uploaded by Doku on s
                                 
 addscriptexist(10903978962, "Sheep Tycoon  Insurgent Hub", "Uploaded by 21xdecay on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sheep%20Tycoon%20%20Insurgent%20Hub188.lua", "https://rscripts.net/script/sheep-tycoon-insurgent-hub-4163")
                                 
+    addscriptexist(10903978962, "Op gui inf boost and wool", "Uploaded by NeXo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20gui%20inf%20boost%20and%20wool266.lua", "https://scriptblox.com/script/Update2-Sheep-Tycoon-Op-gui-inf-boost-and-wool-15332")
+                                    
+    addscriptexist(10903978962, "inf wool", "Uploaded by NeXo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20wool699.lua", "https://scriptblox.com/script/Update2-Sheep-Tycoon-inf-wool-14454")
+                                    

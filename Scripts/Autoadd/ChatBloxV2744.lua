@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Kamalsaras/ChatBloxV2Release/main/ChatBlox'))() 

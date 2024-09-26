@@ -1,0 +1,2 @@
+
+    addscript(16233259884, "Current Game","ruin leaderboard", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ruin%20leaderboard44.lua", "https://scriptblox.com/script/NEW-SLOPE-ruin-leaderboard-14148")

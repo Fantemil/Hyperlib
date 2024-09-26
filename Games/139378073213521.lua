@@ -1,0 +1,4 @@
+
+    addscript(139378073213521, "Current Game","Zephyr V2 Gr4nny R3tro", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20V2%20Gr4nny%20R3tro167.lua", "https://scriptblox.com/script/GRANNY-RETRO-or-SUMMER-Zephyr-V2-Gr4nny-R3tro-17930")
+    addscriptexist(139378073213521, "Zephyr Gr4nny R3tro", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Gr4nny%20R3tro703.lua", "https://scriptblox.com/script/GRANNY-RETRO-or-SUMMER-Zephyr-Gr4nny-R3tro-17896")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZeianRussell/ZeianRussell/main/Rdite%20Script%20%5BNew%5D"))()

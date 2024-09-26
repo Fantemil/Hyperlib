@@ -14,3 +14,15 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                 
     addscriptexist(5130598377, "Expensive HUB", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expensive%20HUB86.lua", "https://scriptblox.com/script/2.7:-Ascensions-A-Universal-Time-Expensive-HUB-7479")
                                     
+    addscriptexist(5130598377, "OP Instnt Kill", "Uploaded by Alon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Instnt%20Kill430.lua", "https://scriptblox.com/script/SUMMER-UPDATE-A-Universal-Time-3.5-OP-Instnt-Kill-15283")
+                                    
+    addscriptexist(5130598377, "Looking for  UT script but one tht works", "Uploaded by jakefrost1932 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Looking%20for%20%20UT%20script%20but%20one%20tht%20works515.lua", "https://scriptblox.com/script/A-Universal-Time-3.0-Looking-for-UT-script-but-one-tht-works-10731")
+                                    
+    addscriptexist(5130598377, "request", "Uploaded by xEno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request493.lua", "https://scriptblox.com/script/SUMMER-UPDATE-A-Universal-Time-3.5-request-15079")
+                                    
+    addscriptexist(5130598377, "ExpensiveHUB best script", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpensiveHUB%20best%20script123.lua", "https://scriptblox.com/script/GEAR-5-A-Universal-Time-3.7-ExpensiveHUB-best-script-17289")
+                                    
+    addscriptexist(5130598377, "Best SCRIPT", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20SCRIPT650.lua", "https://scriptblox.com/script/NEW-UPDATE-A-Universal-Time-3.3-Best-SCRIPT-12632")
+                                    
+    addscriptexist(5130598377, "Expensive Hub", "Uploaded by Alon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expensive%20Hub505.lua", "https://scriptblox.com/script/SUMMER-UPDATE-A-Universal-Time-3.5-Universl-X-Expensive-Hub-15196")
+                                    

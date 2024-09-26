@@ -32,3 +32,19 @@ addscriptexist(3351674303, "Driving Empire Overpowered Autofarm Car Mods Arrest 
                                     
     addscriptexist(3351674303, "Snowflakes Farm", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Snowflakes%20Farm80.lua", "https://scriptblox.com/script/NEW-BRAND-Driving-Empire-Car-Racing-Snowflakes-Farm-9663")
                                     
+    addscriptexist(3351674303, "DE Classic Event", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DE%20Classic%20Event54.lua", "https://scriptblox.com/script/CLASSIC-Driving-Empire-Car-Racing-Classic-Event-13348")
+                                    
+    addscriptexist(3351674303, "Farm  Mods Arrest All", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20%20Mods%20Arrest%20All694.lua", "https://scriptblox.com/script/NEW-Driving-Empire-Car-Racing-Farm-Mods-Arrest-All-11155")
+                                    
+    addscriptexist(3351674303, "Auto Farm Speed", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Speed286.lua", "https://scriptblox.com/script/LIMITED-Driving-Empire-Car-Racing-Auto-Farm-Speed-11781")
+                                    
+    addscriptexist(3351674303, "AUTOFARMS AND  SPEED CHANGER", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARMS%20AND%20%20SPEED%20CHANGER451.lua", "https://scriptblox.com/script/LAMBORGHINI-Driving-Empire-Car-Racing-AUTOFARMS-AND-SPEED-CHANGER-18565")
+                                    
+    addscriptexist(3351674303, "UPDATED BEST Delivery Job Farm Race Farm OTHER STUFF", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20BEST%20Delivery%20Job%20Farm%20Race%20Farm%20OTHER%20STUFF725.lua", "https://scriptblox.com/script/LAND-ROVER-Driving-Empire-Car-Racing-UPDATED-BEST-Delivery-Job-Farm-Race-Farm-OTHER-STUFF-12869")
+                                    
+    addscriptexist(3351674303, "Tix Esp And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tix%20Esp%20And%20More803.lua", "https://scriptblox.com/script/CLASSIC-Driving-Empire-Car-Racing-Tix-Esp-And-More-13303")
+                                    
+    addscriptexist(3351674303, "op script", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script445.lua", "https://scriptblox.com/script/AUDI-Driving-Empire-Car-Racing-op-script-15151")
+                                    
+    addscriptexist(3351674303, "Autofarming", "Uploaded by derek197895 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarming787.lua", "https://scriptblox.com/script/LAMBORGHINI-Driving-Empire-Car-Racing-Autofarming-17512")
+                                    

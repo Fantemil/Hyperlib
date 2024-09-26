@@ -6,3 +6,7 @@ addscript(263761432, "Current Game","ROBLOX Gui", "Uploaded by HyperGamer on scr
                                 
     addscriptexist(263761432, "Horrific Housing", "Uploaded by RayanCrazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Horrific%20Housing663.lua", "https://scriptblox.com/script/Horrific-Housing-Horrific-Housing-4110")
                                 
+    addscriptexist(263761432, "Infinite Tokens n Unlock all ornaments", "Uploaded by vqmpjay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Tokens%20n%20Unlock%20all%20ornaments618.lua", "https://scriptblox.com/script/andx1F334-Horrific-Housing-Infinite-Tokens-n-Unlock-all-ornaments-15849")
+                                    
+    addscriptexist(263761432, "OP Script", "Uploaded by vqmpjay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script403.lua", "https://scriptblox.com/script/Horrific-Housing-Hosuing-hub-16738")
+                                    

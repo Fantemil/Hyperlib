@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vrpeppabrother/Untitled-Gym-Game/main/Script"))()

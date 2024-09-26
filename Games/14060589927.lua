@@ -1,0 +1,2 @@
+
+    addscript(14060589927, "Current Game","GET ANY VEHICLE FREE", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GET%20ANY%20VEHICLE%20FREE691.lua", "https://scriptblox.com/script/Moto-Trackday-Project-S*-ANY-RCYCLE-FREE-18472")

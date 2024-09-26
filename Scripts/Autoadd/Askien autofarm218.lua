@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KirillEee/Askien-Hub/main/Fruit%20Battlegrounds"))()

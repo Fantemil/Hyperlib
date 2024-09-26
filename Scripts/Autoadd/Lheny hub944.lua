@@ -1,0 +1,1 @@
+while true do game:GetService("ReplicatedStorage").Packages._Index:FindFirstChild("sleitnick_knit@1.5.1").knit.Services.TrainService.RE.Train:FireServer() wait(0.001) end

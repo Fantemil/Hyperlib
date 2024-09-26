@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Unknownlodfc/idk/main/Zephyr%20V3%20%7C%20The%20Maze"))()

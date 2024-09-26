@@ -1,0 +1,2 @@
+
+    addscript(15708523495, "Current Game","Free private server", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20private%20server63.lua", "https://scriptblox.com/script/Ninja-Battlegrounds-Fre-gamepass-15562")

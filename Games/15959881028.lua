@@ -1,0 +1,2 @@
+
+    addscript(15959881028, "Current Game","OP Show all players", "Uploaded by reconsyde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Show%20all%20players988.lua", "https://scriptblox.com/script/Placer-Beta-OP-Show-all-players-12874")

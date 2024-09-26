@@ -1,0 +1,2 @@
+
+    addscript(12946805603, "Current Game","auto spawn", "Uploaded by georgecoombe07 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20spawn101.lua", "https://scriptblox.com/script/Blademasters-auto-spawn-13001")

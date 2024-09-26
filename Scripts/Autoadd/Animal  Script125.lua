@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nidizz/Roblox/main/Animal%20Simulator%20Script",true))()

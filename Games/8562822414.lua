@@ -1,0 +1,2 @@
+
+    addscript(8562822414, "Current Game","WIN EVERYTHING", "Uploaded by warlock101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WIN%20EVERYTHING747.lua", "https://scriptblox.com/script/100M-LEGACY-Juke's-Towers-of-Hell-WIN-EVERYTHING-17191")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ant-7802/C00lGui-Rewritten/main/C00lGuiRewritten.lua"))(

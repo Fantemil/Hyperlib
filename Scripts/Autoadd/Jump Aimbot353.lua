@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/LuguinTbX/4d16f81cefcad4adc089167709aaee57/raw/03b1aa25be2c190f76ab3a005fec7327ff45b6b4/Volleyball4.2script.lua", true))()

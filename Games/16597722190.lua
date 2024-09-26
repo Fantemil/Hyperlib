@@ -1,0 +1,2 @@
+
+    addscript(16597722190, "Current Game","autofarm on collector games", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20on%20collector%20games567.lua", "https://scriptblox.com/script/Pet-Explore!-autofarm-on-collector-games-11093")

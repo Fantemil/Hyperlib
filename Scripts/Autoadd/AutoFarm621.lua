@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/Super_Muscle_Simulator_Nice/main/README.md"),true))()

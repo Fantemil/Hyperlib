@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pastecode.dev/raw/41lsm69g/v7.9lollypophub_lulaslollipop",true))()

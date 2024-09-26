@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Tr3xE/NDS-Lunar-Hub/main/Lunar')()

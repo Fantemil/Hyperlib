@@ -1,0 +1,2 @@
+
+    addscript(2650582631, "Current Game","Script request  inf money if possible", "Uploaded by Tocar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request%20%20inf%20money%20if%20possible990.lua", "https://scriptblox.com/script/Toll-Bridge-Simulator-HELICOPTERS!-Script-request-13213")

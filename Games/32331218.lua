@@ -1,0 +1,2 @@
+
+    addscript(32331218, "Current Game","autofarm", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm287.lua", "https://scriptblox.com/script/Mega-Marble-Run-Pit-Read-Desc-autofarm-11116")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tiipolp/attack-on-titan-revolution-autofarm/main/free%20autofarm.lua"))()

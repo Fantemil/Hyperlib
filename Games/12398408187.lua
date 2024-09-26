@@ -1,0 +1,2 @@
+
+    addscript(12398408187, "Current Game","kill all mobs ok nerd", "Uploaded by tiam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kill%20all%20mobs%20ok%20nerd182.lua", "https://scriptblox.com/script/Vyasa-kill-all-mobs-ok-nerd-17870")

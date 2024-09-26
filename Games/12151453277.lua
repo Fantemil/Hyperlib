@@ -1,0 +1,2 @@
+
+    addscript(12151453277, "Current Game","All check points and free wings", "Uploaded by Maevers on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20check%20points%20and%20free%20wings757.lua", "https://scriptblox.com/script/Abyss-World-ANNIVERSARY-All-check-points-and-free-wings-18945")

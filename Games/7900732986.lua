@@ -1,0 +1,2 @@
+
+    addscript(7900732986, "Current Game","Obtain all", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obtain%20all257.lua", "https://scriptblox.com/script/Find-The-Animals-(102)-Obtain-all-of-m-11610")

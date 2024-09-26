@@ -1,0 +1,1 @@
+request script for magic rng

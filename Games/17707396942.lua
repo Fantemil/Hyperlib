@@ -1,0 +1,2 @@
+
+    addscript(17707396942, "Current Game","NO KEY", "Uploaded by TWOPARTGAMER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NO%20KEY48.lua", "https://scriptblox.com/script/Strength-Clash-Simulator-NO-KEY-14964")

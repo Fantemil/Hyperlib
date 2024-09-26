@@ -1,0 +1,4 @@
+
+    addscript(2631572400, "Current Game","GatoHub Auto Farm Eat Drink Teleports and more", "Uploaded by GatoTheCat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GatoHub%20Auto%20Farm%20Eat%20Drink%20Teleports%20and%20more91.lua", "https://scriptblox.com/script/Ancient-Egypt-Roleplay-ALPHA-GatoHub-Auto-Farm-Eat-Drink-Teleports-and-more-12863")
+    addscriptexist(2631572400, "BISAYA HUB Autofarm Script", "Uploaded by eldargaming1231 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BISAYA%20HUB%20Autofarm%20Script431.lua", "https://scriptblox.com/script/Ancient-Egypt-Roleplay-ALPHA-BISAYA-HUB-Autofarm-Script-14069")
+                                    

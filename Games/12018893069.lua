@@ -1,0 +1,2 @@
+
+    addscript(12018893069, "Current Game","Latvix Hub", "Uploaded by liebet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Latvix%20Hub978.lua", "https://scriptblox.com/script/Soccer-Pro-(3v3)-Latvix-Hub-12949")

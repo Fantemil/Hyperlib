@@ -1,0 +1,4 @@
+
+    addscript(12062942034, "Current Game","Therion Autofarm Keyless Crack", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Therion%20Autofarm%20Keyless%20Crack898.lua", "https://scriptblox.com/script/FLAME-FAIRY-Heroes:-Online-World-Therion-Autofarm-Keyless-Crack-19024")
+    addscriptexist(12062942034, "Mobile ScriptHub", "Uploaded by fwrobenssss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20ScriptHub256.lua", "https://scriptblox.com/script/Heroes:-Online-World-Mobile-ScriptHub-12307")
+                                    

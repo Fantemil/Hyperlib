@@ -1,0 +1,2 @@
+
+    addscript(17878111505, "Current Game","Happy hub FREE Script", "Uploaded by z0lupo4ka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20hub%20FREE%20Script285.lua", "https://scriptblox.com/script/andx1F334UPDATE!-Counter-Blox:-Source-2-Happy-hub-FREE-Script-Support-Solara-15732")

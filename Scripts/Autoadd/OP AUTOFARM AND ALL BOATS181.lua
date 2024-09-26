@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/STEALTH-SharkBite-2-script-13895"))()

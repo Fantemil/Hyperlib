@@ -1,0 +1,1 @@
+https://link-center.net/987265/pilgrammed-auto-parry

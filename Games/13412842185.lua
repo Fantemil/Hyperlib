@@ -1,0 +1,2 @@
+
+    addscript(13412842185, "Current Game","SCRIPT REQUEST", "Uploaded by Kjusmal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST869.lua", "https://scriptblox.com/script/Breadwinner-World-SCRIPT-REQUEST-13950")

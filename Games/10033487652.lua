@@ -6,3 +6,5 @@ addscriptexist(10033487652, "Auto Collect Bubbles", "Uploaded by azicity23 on sc
                                 
 addscriptexist(10033487652, "Dupe And Autofarm", "Uploaded by Blade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20And%20Autofarm874.lua", "https://scriptblox.com/script/UPD+X3-Clicker-League-Dupe-And-Autofarm-8100")
                                 
+    addscriptexist(10033487652, "W Script", "Uploaded by Pocky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/W%20Script668.lua", "https://scriptblox.com/script/x1000000-Clicker-League-W-Scruot-12571")
+                                    

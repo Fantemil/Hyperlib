@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-JUGGERNAUT-Super-Toilet-Brawl/main/Op%20script"))()

@@ -1,0 +1,8 @@
+
+    addscript(15338697306, "Current Game","Inf power inf win", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20power%20inf%20win789.lua", "https://scriptblox.com/script/Go-Kart-Race-Simulator-Inf-power-inf-win-12395")
+    addscriptexist(15338697306, "Infinite Power Wins Auto Open Best Eggs", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Power%20Wins%20Auto%20Open%20Best%20Eggs519.lua", "https://scriptblox.com/script/Go-Kart-Race-Simulator-Infinite-Power-Wins-Auto-Open-Best-Eggs-12636")
+                                    
+    addscriptexist(15338697306, "Semi Inf Wins Inf power and more", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Semi%20Inf%20Wins%20Inf%20power%20and%20more619.lua", "https://scriptblox.com/script/Go-Kart-Race-Simulator-Semi-Inf-Wins-Inf-power-and-more-16299")
+                                    
+    addscriptexist(15338697306, "Infinite Wins Infinite Gas Auto Hatch Best Egg", "Uploaded by LTX_Lite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins%20Infinite%20Gas%20Auto%20Hatch%20Best%20Egg487.lua", "https://scriptblox.com/script/Go-Kart-Race-Simulator-Infinite-Wins-Infinite-Gas-Auto-Hatch-Best-Egg-16499")
+                                    

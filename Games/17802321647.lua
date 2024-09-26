@@ -1,0 +1,2 @@
+
+    addscript(17802321647, "Current Game","hub cye", "Uploaded by FelSSJ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hub%20cye486.lua", "https://scriptblox.com/script/Close-Your-Eyes-hub-cye-15987")

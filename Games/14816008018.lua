@@ -6,3 +6,5 @@
                                     
     addscriptexist(14816008018, "infinite Wheel Spins", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Wheel%20Spins489.lua", "https://scriptblox.com/script/UGC-Samurai-Simulator-infinite-Wheel-Spins-9219")
                                     
+    addscriptexist(14816008018, "Free product", "Uploaded by Hekzmmm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20product812.lua", "https://scriptblox.com/script/Anime-Samurai-Simulator-Free-product-17316")
+                                    

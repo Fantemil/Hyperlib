@@ -1,0 +1,4 @@
+
+    addscript(8999652322, "Current Game","Mod Menu Script", "Uploaded by Kqrma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20Menu%20Script732.lua", "https://scriptblox.com/script/Gorilla-Tag-Professional-100-PLAYERS-Mod-Menu-Script-15551")
+    addscriptexist(8999652322, "ShibaGT v1", "Uploaded by Kqrma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShibaGT%20v1444.lua", "https://scriptblox.com/script/Gorilla-Tag-Professional-100-PLAYERS-ShibaGT-v1-18402")
+                                    

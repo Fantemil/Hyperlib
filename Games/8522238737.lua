@@ -1,0 +1,2 @@
+
+    addscript(8522238737, "Current Game","Give Admin Gear and Developer Gear", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20Admin%20Gear%20and%20Developer%20Gear483.lua", "https://scriptblox.com/script/V2.4-Boss-Battle-Sandbox-Give-Admin-Gear-and-Developer-Gear-18960")

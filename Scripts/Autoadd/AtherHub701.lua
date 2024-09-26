@@ -1,0 +1,2 @@
+-- made my athergaming, all bugs are now fixed, dm me if you somehow find one, username: goatofall, dm me the bugs, if you js type numbers in comments idk what that meaans --
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Athergaming/Roblox-Gym-League-Script/main/AtherHub%20Gym%20League%20V1_5.lua"))() 

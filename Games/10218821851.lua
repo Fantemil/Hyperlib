@@ -32,3 +32,23 @@ addscript(10218821851, "Current Game","Vereus", "Uploaded by bop_ on scriptblox.
                                     
     addscriptexist(10218821851, "K00gui v3", "Uploaded by Vazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00gui%20v3218.lua", "https://scriptblox.com/script/Client-Replication-K00gui-v3-10274")
                                     
+    addscriptexist(10218821851, "T00s and K00s", "Uploaded by T00S on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/T00s%20and%20K00s712.lua", "https://scriptblox.com/script/Client-Replication-T00s-and-K00s-16801")
+                                    
+    addscriptexist(10218821851, "K00pgui v3", "Uploaded by jointodayteamwt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pgui%20v3244.lua", "https://scriptblox.com/script/Client-Replication-K00pgui-v3-10493")
+                                    
+    addscriptexist(10218821851, "Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub241.lua", "https://scriptblox.com/script/Client-Replication-Budgie-Hub-15055")
+                                    
+    addscriptexist(10218821851, "Team hwqh8 gui", "Uploaded by Shadow_guy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team%20hwqh8%20gui534.lua", "https://scriptblox.com/script/Client-Replication-Team-hwqh8-gui-14618")
+                                    
+    addscriptexist(10218821851, "loopgui", "Uploaded by llololololoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loopgui352.lua", "https://scriptblox.com/script/Client-Replication-loopgui-12701")
+                                    
+    addscriptexist(10218821851, "y00mkidd gui v1", "Uploaded by TeamHD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/y00mkidd%20gui%20v1261.lua", "https://scriptblox.com/script/Client-Replication-y00mkidd-gui-v1-11750")
+                                    
+    addscriptexist(10218821851, "teamc078kidd sonud script", "Uploaded by Team8x8x8x8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/teamc078kidd%20sonud%20script97.lua", "https://scriptblox.com/script/Client-Replication-teamc078kidd-sonud-script-10650")
+                                    
+    addscriptexist(10218821851, "Moded song update", "Uploaded by Sarper5599 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moded%20song%20update327.lua", "https://scriptblox.com/script/Client-Replication-Moded-song-10431")
+                                    
+    addscriptexist(10218821851, "Team hd gui v1", "Uploaded by TeamHD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team%20hd%20gui%20v1380.lua", "https://scriptblox.com/script/Client-Replication-Team-hd-gui-v1-11483")
+                                    
+    addscriptexist(10218821851, "g00by v2 fe only in this game", "Uploaded by Hekzmmm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/g00by%20v2%20fe%20only%20in%20this%20game999.lua", "https://scriptblox.com/script/Client-Replication-g00by-v2-fe-only-in-this-game-10434")
+                                    

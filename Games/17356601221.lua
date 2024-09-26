@@ -1,0 +1,2 @@
+
+    addscript(17356601221, "Current Game","Skyblock Legacy", "Uploaded by Gray on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skyblock%20Legacy134.lua", "https://scriptblox.com/script/Islands-Archive-BETA-Skyblock-Legacy-13216")

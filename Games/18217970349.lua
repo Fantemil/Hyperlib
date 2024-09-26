@@ -1,0 +1,2 @@
+
+    addscript(18217970349, "Current Game","free UGC", "Uploaded by robloxthis001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20UGC491.lua", "https://scriptblox.com/script/Find-The-Foods-free-UGC-15279")

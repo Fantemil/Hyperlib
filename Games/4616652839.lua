@@ -48,3 +48,11 @@ addscriptexist(4616652839, "NEW Shindo Life INFINITE Jump Script ", "Uploaded by
                                 
 addscriptexist(4616652839, "New Shindo Life Script Platinium Hub", "Uploaded by Drazox on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Shindo%20Life%20Script%20Platinium%20Hub674.lua", "https://rscripts.net/script/new-shindo-life-script-platinium-hub-3072")
                                 
+    addscriptexist(4616652839, "premier hub  join dsc for 100 scripts", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/premier%20hub%20%20join%20dsc%20for%20100%20scripts50.lua", "https://scriptblox.com/script/Shindo-Life-237-premier-hub-join-dsc-for-100-scripts-15904")
+                                    
+    addscriptexist(4616652839, "ESP egg", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20egg69.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-ESP-egg-11314")
+                                    
+    addscriptexist(4616652839, "Script request", "Uploaded by Justsomeuser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request289.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-Script-request-11309")
+                                    
+    addscriptexist(4616652839, "Project Nexus SL Hunt", "Uploaded by Dappz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus%20SL%20Hunt427.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-Project-Nexus-SL-Hunt-11331")
+                                    

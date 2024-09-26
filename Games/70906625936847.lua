@@ -1,0 +1,2 @@
+
+    addscript(70906625936847, "Current Game","Script request", "Uploaded by Josesaucedo397 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request633.lua", "https://scriptblox.com/script/TRADINGGym-Star-Simulator-Script-request-18877")

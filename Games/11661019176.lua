@@ -1,0 +1,2 @@
+
+    addscript(11661019176, "Current Game","life", "Uploaded by harelnave10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/life449.lua", "https://scriptblox.com/script/ALPHA-My-Bike-Life!-life-15149")

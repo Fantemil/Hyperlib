@@ -1,0 +1,2 @@
+
+    addscript(1073806472, "Current Game","Unlock All", "Uploaded by RIOT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20All864.lua", "https://scriptblox.com/script/Train.-Unlock-All-15197")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Sail100/EtruiaConfigStorage/main/etruiav2/Install.lua')))()

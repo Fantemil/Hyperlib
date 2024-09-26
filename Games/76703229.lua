@@ -1,0 +1,2 @@
+
+    addscript(76703229, "Current Game","Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub608.lua", "https://scriptblox.com/script/Push-Dummies-Down-The-Sparta-Hole!-Hub-10457")

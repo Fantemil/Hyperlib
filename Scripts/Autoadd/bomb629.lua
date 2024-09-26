@@ -1,0 +1,1 @@
+can someone bypass the killzone so i can place a stud at a higher place to autofarm? please

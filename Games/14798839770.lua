@@ -1,0 +1,2 @@
+
+    addscript(14798839770, "Current Game","AutoParry BlackHub", "Uploaded by backpackportf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoParry%20BlackHub824.lua", "https://scriptblox.com/script/Blade-Ball-Practice-AutoParry-BlackHub-17681")

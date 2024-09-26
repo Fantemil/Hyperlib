@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/crumies/Pressure-v2/main/script.lua"))()

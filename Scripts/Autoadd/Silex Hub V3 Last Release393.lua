@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kn0a/Silex-Hub/main/plinko-v3.lua"))()

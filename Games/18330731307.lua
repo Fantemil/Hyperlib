@@ -1,0 +1,2 @@
+
+    addscript(18330731307, "Current Game","free robux trail and", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20robux%20trail%20and390.lua", "https://scriptblox.com/script/Kart-Racing-Simulator-free-robux-trail-and-16667")

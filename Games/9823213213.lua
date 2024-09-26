@@ -1,0 +1,2 @@
+
+    addscript(9823213213, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2151.lua", "https://scriptblox.com/script/MOBILE-+-ULQUIORRA-Anime-Ultimate-Battlegrounds-Demonic-HUB-V2-10757")

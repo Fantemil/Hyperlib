@@ -1,0 +1,2 @@
+
+    addscript(6066404016, "Current Game","GUI menu credits RIOSETRO and Bacons Cool", "Uploaded by Lmao_00 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20menu%20credits%20RIOSETRO%20and%20Bacons%20Cool73.lua", "https://scriptblox.com/script/UPGRADES-Daycare-GUI-menu-by-reoster-really-and-bacons-cool-17816")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Opboltejshshskidhdbd/Ps99/main/Strength%20Clash%20Simulator.lua'),true))()

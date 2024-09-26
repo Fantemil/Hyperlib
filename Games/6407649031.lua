@@ -8,3 +8,7 @@ addscript(6407649031, "Current Game","Aimbot esp trigger bot and more", "Uploade
                                 
 addscriptexist(6407649031, "anti aim", "Uploaded by peppermint on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20aim539.lua", "https://scriptblox.com/script/No-Scope-Arcade-anti-aim-7593")
                                 
+    addscriptexist(6407649031, "Wynerd Hub", "Uploaded by ShrekTheKiller on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wynerd%20Hub281.lua", "https://scriptblox.com/script/FPS-No-Scope-Arcade-Wynerd-Hub-18358")
+                                    
+    addscriptexist(6407649031, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2782.lua", "https://scriptblox.com/script/FPS-No-Scope-Arcade-Demonic-HUB-V2-11411")
+                                    

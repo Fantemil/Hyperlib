@@ -1,0 +1,2 @@
+
+    addscript(15146421536, "Current Game","Auto Click and Auto Collect Money", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Click%20and%20Auto%20Collect%20Money167.lua", "https://scriptblox.com/script/Power-Tycoon-Auto-Click-and-Auto-Collect-Money-12014")

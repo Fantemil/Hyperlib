@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/illyamarj/HUB/edit/main/Adopt%20Me'))()

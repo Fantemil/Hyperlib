@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/zephyr10101/pizza-place-audio-player/main/script"))()

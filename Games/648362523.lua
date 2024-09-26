@@ -22,3 +22,21 @@ addscriptexist(648362523, "Breaking Point 250K Coins Per Hour", "Uploaded by Red
                                 
     addscriptexist(648362523, "Dsc mikeexc", "Uploaded by MikeRobloxYTMike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dsc%20mikeexc581.lua", "https://scriptblox.com/script/Breaking-Point-Dsc-mikeexc-9891")
                                     
+    addscriptexist(648362523, "Destroyer hub", "Uploaded by ENRAGED_TUBERS95 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Destroyer%20hub906.lua", "https://scriptblox.com/script/Breaking-Point-Destroyer-hub-12865")
+                                    
+    addscriptexist(648362523, "Devils Hub New Free   Gui", "Uploaded by hassanxzayn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Devils%20Hub%20New%20Free%20%20%20Gui6.lua", "https://scriptblox.com/script/Breaking-Point-Devils-Hub-New-Free-Gui-18043")
+                                    
+    addscriptexist(648362523, "Auto Throw Knife and  Kill Aura", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Throw%20Knife%20and%20%20Kill%20Aura238.lua", "https://scriptblox.com/script/Breaking-Point-Auto-Throw-Knife-and-Kill-Aura-11253")
+                                    
+    addscriptexist(648362523, "Gearz Solara", "Uploaded by Tropxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gearz%20Solara307.lua", "https://scriptblox.com/script/Breaking-Point-Gearz-Solara-15951")
+                                    
+    addscriptexist(648362523, "Aimbot", "Uploaded by jaycobmoore849 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot934.lua", "https://scriptblox.com/script/Breaking-Point-Aimbot-11220")
+                                    
+    addscriptexist(648362523, "Breaklng Plus Autofarm Lag Server  more", "Uploaded by NaikoExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Breaklng%20Plus%20Autofarm%20Lag%20Server%20%20more301.lua", "https://scriptblox.com/script/Breaking-Point-plus-12451")
+                                    
+    addscriptexist(648362523, "SOLARA SUPPORTED", "Uploaded by redrum on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED533.lua", "https://scriptblox.com/script/Breaking-Point-SOLARA-SUPPORTED-14456")
+                                    
+    addscriptexist(648362523, "Jankya", "Uploaded by 42Hrz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jankya494.lua", "https://scriptblox.com/script/Breaking-Point-Jankya-15547")
+                                    
+    addscriptexist(648362523, "BEST OP   SCRIPT KEYLESS WORKS FOR SOLARA", "Uploaded by whyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20OP%20%20%20SCRIPT%20KEYLESS%20WORKS%20FOR%20SOLARA717.lua", "https://scriptblox.com/script/Breaking-Point-BEST-OP-SCRIPT-KEYLESS-WORKS-FOR-SOLARA-18740")
+                                    

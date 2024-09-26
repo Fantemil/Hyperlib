@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/Kaitofyp/Animal-Evolution-Simulator/main/Op%20script"))()

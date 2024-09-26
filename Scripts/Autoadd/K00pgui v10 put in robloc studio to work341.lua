@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RetroGamesAlt/KPYgui-v10/main/Api.sjensoen%5Bput%20it%20in%20roblox%20studio%5D.lua"))()

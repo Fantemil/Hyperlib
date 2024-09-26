@@ -1,0 +1,2 @@
+
+    addscript(16783108069, "Current Game","VEGA X KEYS", "Uploaded by rinnyyk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VEGA%20X%20KEYS332.lua", "https://scriptblox.com/script/DAHOOD-TRYHARD-FITS-Da-Hood-Outfits-VEGA-X-KEYS-12983")

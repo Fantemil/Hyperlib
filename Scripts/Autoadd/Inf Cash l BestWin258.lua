@@ -1,0 +1,2 @@
+game:GetService("ReplicatedStorage"):WaitForChild("CashTransfer1"):FireServer(math.huge, "Cash") -- Inf Cash
+game:GetService("ReplicatedStorage"):WaitForChild("CashTransfer1"):FireServer(9e9, "BestWin") -- Inf Best Win

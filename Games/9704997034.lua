@@ -1,0 +1,2 @@
+
+    addscript(9704997034, "Current Game","UGC LIMITED Auto Farm Script", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UGC%20LIMITED%20Auto%20Farm%20Script763.lua", "https://scriptblox.com/script/UGC-Diner-Simulator-UGC-LIMITED-Auto-Farm-Script-10665")

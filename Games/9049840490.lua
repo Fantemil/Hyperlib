@@ -18,3 +18,7 @@ addscriptexist(9049840490, "auto farm", "Uploaded by Panchito on scriptblox.com"
                                     
     addscriptexist(9049840490, "ponyhumping", "Uploaded by Shangler on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ponyhumping393.lua", "https://scriptblox.com/script/SALE-Sonic-Speed-Simulator-ponyhumping-10236")
                                     
+    addscriptexist(9049840490, "Inf Sunstones", "Uploaded by Jay_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Sunstones988.lua", "https://scriptblox.com/script/SUMMER-Sonic-Speed-Simulator-Inf-Sunstones-14387")
+                                    
+    addscriptexist(9049840490, "THE GAMES Get Badges in", "Uploaded by miner_va on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20GAMES%20Get%20Badges%20in434.lua", "https://scriptblox.com/script/The-Games-Sonic-Speed-Simulator-THE-GAMES-Get-Badges-in-16558")
+                                    

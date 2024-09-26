@@ -780,3 +780,567 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Rinx Hub", "Uploaded by ItsYaBoiRayRay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinx%20Hub971.lua", "https://scriptblox.com/script/Blox-Fruits-Rinx-Hub-10316")
                                     
+    addscriptexist(2753915549, "Mim Blue New", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mim%20Blue%20New979.lua", "https://scriptblox.com/script/Blox-Fruits-Mim-Blue-New-18943")
+                                    
+    addscriptexist(2753915549, "Relz Hub", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Relz%20Hub3.lua", "https://scriptblox.com/script/Blox-Fruits-Relz-Hub-18609")
+                                    
+    addscriptexist(2753915549, "aksh69", "Uploaded by calorerstuff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aksh69160.lua", "https://scriptblox.com/script/Blox-Fruits-aksh69-18816")
+                                    
+    addscriptexist(2753915549, "Min Hub v4", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Hub%20v4842.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Hub-v4-18939")
+                                    
+    addscriptexist(2753915549, "FREE OP AUTOFARM GUI", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20OP%20AUTOFARM%20GUI761.lua", "https://scriptblox.com/script/Blox-Fruits-FREE-OP-AUTOFARM-GUI-18687")
+                                    
+    addscriptexist(2753915549, "Script Mobile UPDATE 21 AUTO FARM FRUIT", "Uploaded by 0x88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Mobile%20UPDATE%2021%20AUTO%20FARM%20FRUIT50.lua", "https://scriptblox.com/script/Blox-Fruits-Script-Mobile-UPDATE-21-AUTO-FARM-FRUIT-17571")
+                                    
+    addscriptexist(2753915549, "Op Full Moon Finder", "Uploaded by ZinPilot on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Full%20Moon%20Finder336.lua", "https://scriptblox.com/script/Blox-Fruits-Op-Fruit-Full-Moon-Finder-17140")
+                                    
+    addscriptexist(2753915549, "Pear Cat Hub", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pear%20Cat%20Hub601.lua", "https://scriptblox.com/script/Blox-Fruits-Pear-Cat-Hub-18450")
+                                    
+    addscriptexist(2753915549, "Script from kaHub", "Uploaded by DUYAP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20from%20kaHub917.lua", "https://scriptblox.com/script/Blox-Fruits-*ka-Hub-Script-18454")
+                                    
+    addscriptexist(2753915549, "Min hub gaming v2", "Uploaded by RIP_HASAKI_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20hub%20gaming%20v2875.lua", "https://scriptblox.com/script/Blox-Fruits-Min-hub-gaming-v2-16111")
+                                    
+    addscriptexist(2753915549, "Shiny Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shiny%20Hub313.lua", "https://scriptblox.com/script/Blox-Fruits-Shiny-Hub-18319")
+                                    
+    addscriptexist(2753915549, "best new  fruit script", "Uploaded by sweet_home_alabama on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20new%20%20fruit%20script1000.lua", "https://scriptblox.com/script/Blox-Fruits-best-new-fruit-script-18745")
+                                    
+    addscriptexist(2753915549, "Org Hub", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Org%20Hub769.lua", "https://scriptblox.com/script/Blox-Fruits-Org-Hub-18370")
+                                    
+    addscriptexist(2753915549, "Milenio X Hub   Script Support Solara", "Uploaded by evolutionxform on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Milenio%20X%20Hub%20%20%20Script%20Support%20Solara641.lua", "https://scriptblox.com/script/Blox-Fruits-Milenio-X-Hub-Script-Support-Solara-13860")
+                                    
+    addscriptexist(2753915549, "BKHAX Hub BEST AUTOFARM", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BKHAX%20Hub%20BEST%20AUTOFARM139.lua", "https://scriptblox.com/script/Blox-Fruits-BKHAX-Hub-BEST-AUTOFARM-14975")
+                                    
+    addscriptexist(2753915549, "Basement Chest Farm", "Uploaded by BasementHubV1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Basement%20Chest%20Farm990.lua", "https://scriptblox.com/script/Blox-Fruits-Basement-Chest-Farm-12393")
+                                    
+    addscriptexist(2753915549, "Neva hub", "Uploaded by Content_boy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neva%20hub913.lua", "https://scriptblox.com/script/Blox-Fruits-Neva-hub-16968")
+                                    
+    addscriptexist(2753915549, "Relz hub", "Uploaded by galaxyfounded on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Relz%20hub467.lua", "https://scriptblox.com/script/Blox-Fruits-Relz-hub-18673")
+                                    
+    addscriptexist(2753915549, "Zoro Hub", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zoro%20Hub305.lua", "https://scriptblox.com/script/Blox-Fruits-Zoro-Hub-17974")
+                                    
+    addscriptexist(2753915549, "Auto Stats Auto Dungeon Teleports", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Stats%20Auto%20Dungeon%20Teleports929.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Stats-Auto-Dungeon-Teleports-11254")
+                                    
+    addscriptexist(2753915549, "Farm Level Auto Stats op script", "Uploaded by ZefAnia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Level%20Auto%20Stats%20op%20script732.lua", "https://scriptblox.com/script/Blox-Fruits-Farm-Level-Auto-Stats-op-script-11824")
+                                    
+    addscriptexist(2753915549, "RelzHub Akar version", "Uploaded by Yahsirroque35nj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RelzHub%20Akar%20version674.lua", "https://scriptblox.com/script/Blox-Fruits-RelzHub-Akar-version-18624")
+                                    
+    addscriptexist(2753915549, "P Hub Script", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P%20Hub%20Script707.lua", "https://scriptblox.com/script/Blox-Fruits-P-Hub-Script-10420")
+                                    
+    addscriptexist(2753915549, "Ninja hub v2", "Uploaded by Rogerrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ninja%20hub%20v2329.lua", "https://scriptblox.com/script/Blox-Fruits-Ninja-hub-v2-15312")
+                                    
+    addscriptexist(2753915549, "KAITUN CAVEIRA HUB", "Uploaded by Caveira1010 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAITUN%20CAVEIRA%20HUB442.lua", "https://scriptblox.com/script/Blox-Fruits-KAITUN-CAVEIRA-HUB-17750")
+                                    
+    addscriptexist(2753915549, "Auto Farm Auto Quest Auto Farm Lvl", "Uploaded by ZefAnia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Quest%20Auto%20Farm%20Lvl989.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Auto-Quest-Auto-Farm-Lvl-11664")
+                                    
+    addscriptexist(2753915549, "BEST  KEYLESS AUTOFARM", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20KEYLESS%20AUTOFARM54.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-KEYLESS-AUTOFARM-14973")
+                                    
+    addscriptexist(2753915549, "Auto Farm Chest Auto Farm Level", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Chest%20Auto%20Farm%20Level842.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Chest-Auto-Farm-Level-11526")
+                                    
+    addscriptexist(2753915549, "Pear Cat Hub   Fruit", "Uploaded by memaybeoxdhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pear%20Cat%20Hub%20%20%20Fruit339.lua", "https://scriptblox.com/script/Blox-Fruits-Pear-Cat-Hub-Fruit-13776")
+                                    
+    addscriptexist(2753915549, "RedzHub", "Uploaded by idroro341 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub680.lua", "https://scriptblox.com/script/Blox-Fruits-RedzHub-12809")
+                                    
+    addscriptexist(2753915549, "BLACKTRAP", "Uploaded by AHAAAAA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BLACKTRAP439.lua", "https://scriptblox.com/script/Blox-Fruits-BLACKTRAP-15600")
+                                    
+    addscriptexist(2753915549, "Auto Farm Chest Auto Stats op script", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Chest%20Auto%20Stats%20op%20script528.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Chest-Auto-Stats-op-script-11292")
+                                    
+    addscriptexist(2753915549, "THE FIRST", "Uploaded by shechter2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20FIRST924.lua", "https://scriptblox.com/script/Blox-Fruits-THE-FIRST-16721")
+                                    
+    addscriptexist(2753915549, "Fast Attack Auto Farm", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Attack%20Auto%20Farm850.lua", "https://scriptblox.com/script/Blox-Fruits-Fast-Attack-Auto-Farm-12032")
+                                    
+    addscriptexist(2753915549, "Auto Set Spawn Point Auto Saber", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Set%20Spawn%20Point%20Auto%20Saber267.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Set-Spawn-Point-Auto-Saber-11117")
+                                    
+    addscriptexist(2753915549, "Stingray Keyless Autofarm UPD 12 MAR", "Uploaded by Celestial_Manta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stingray%20Keyless%20Autofarm%20UPD%2012%20MAR341.lua", "https://scriptblox.com/script/Blox-Fruits-Stingray-Keyless-Autofarm-11278")
+                                    
+    addscriptexist(2753915549, "Chat bypasser GUI", "Uploaded by LitSobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20bypasser%20GUI728.lua", "https://scriptblox.com/script/Blox-Fruits-Chat-bypasser-GUI-10654")
+                                    
+    addscriptexist(2753915549, "W Azure Bounty", "Uploaded by kqzkq02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/W%20Azure%20Bounty485.lua", "https://scriptblox.com/script/Blox-Fruits-W-Azure-Bounty-13629")
+                                    
+    addscriptexist(2753915549, "rEDZ HUB  solara supported", "Uploaded by beratdurak13322 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rEDZ%20HUB%20%20solara%20supported775.lua", "https://scriptblox.com/script/Blox-Fruits-rEDZ-HUB-solara-supported-14489")
+                                    
+    addscriptexist(2753915549, "Auto Farm Solara Mobile", "Uploaded by siryes696969 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Solara%20Mobile101.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Solara-Mobile-15633")
+                                    
+    addscriptexist(2753915549, "Andepzai", "Uploaded by DatFake on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Andepzai516.lua", "https://scriptblox.com/script/Blox-Fruits-Andepzai-17362")
+                                    
+    addscriptexist(2753915549, "Free LuaCrack hub", "Uploaded by ksyu050 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20LuaCrack%20hub709.lua", "https://scriptblox.com/script/Blox-Fruits-Free-LuaCrack-hub-17787")
+                                    
+    addscriptexist(2753915549, "good no key", "Uploaded by atomatommic88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20no%20key556.lua", "https://scriptblox.com/script/Blox-Fruits-good-no-key-11900")
+                                    
+    addscriptexist(2753915549, "NTT HUB", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NTT%20HUB956.lua", "https://scriptblox.com/script/Blox-Fruits-NTT-HUB-18279")
+                                    
+    addscriptexist(2753915549, "BEST SCRIPT FOR BF", "Uploaded by deadcxde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20BF382.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-FOR-BF-17487")
+                                    
+    addscriptexist(2753915549, "auto bounty script", "Uploaded by xero63597 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20bounty%20script288.lua", "https://scriptblox.com/script/Blox-Fruits-auto-bounty-script-12154")
+                                    
+    addscriptexist(2753915549, "Rocks Hub entre em nosso discord join my serve", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocks%20Hub%20entre%20em%20nosso%20discord%20join%20my%20serve117.lua", "https://scriptblox.com/script/Blox-Fruits-Rocks-Hub-entre-em-nosso-discord-join-my-serve-15343")
+                                    
+    addscriptexist(2753915549, "Beta Atreus Hub", "Uploaded by DenDenZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beta%20Atreus%20Hub199.lua", "https://scriptblox.com/script/Blox-Fruits-Beta-Atreus-Hub-12451")
+                                    
+    addscriptexist(2753915549, "Redz Hub Best Script  Fruit", "Uploaded by MrSh4dow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20Best%20Script%20%20Fruit283.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-Best-Script-Fruit-13934")
+                                    
+    addscriptexist(2753915549, "Ro auto farm", "Uploaded by Niallmurray000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ro%20auto%20farm656.lua", "https://scriptblox.com/script/Blox-Fruits-Ro-auto-farm-12945")
+                                    
+    addscriptexist(2753915549, "Khang hub", "Uploaded by ScriptCollector on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Khang%20hub783.lua", "https://scriptblox.com/script/Blox-Fruits-Khang-hub-11273")
+                                    
+    addscriptexist(2753915549, "Test hub", "Uploaded by dqrdark on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Test%20hub41.lua", "https://scriptblox.com/script/Blox-Fruits-Test-hub-17562")
+                                    
+    addscriptexist(2753915549, "POISION", "Uploaded by jwjuwu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POISION280.lua", "https://scriptblox.com/script/Blox-Fruits-POISION-16119")
+                                    
+    addscriptexist(2753915549, "mbm hub fruit finder", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mbm%20hub%20fruit%20finder4.lua", "https://scriptblox.com/script/Blox-Fruits-mbm-hub-find-12369")
+                                    
+    addscriptexist(2753915549, "Royx", "Uploaded by SkaysGamingDaily on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Royx670.lua", "https://scriptblox.com/script/Blox-Fruits-Royx-10548")
+                                    
+    addscriptexist(2753915549, "OP AUTO FARM MOBILE PC EMULADOR", "Uploaded by fastxpepe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20FARM%20MOBILE%20PC%20EMULADOR717.lua", "https://scriptblox.com/script/Blox-Fruits-OP-AUTO-FARM-MOBILE-PC-EMULADOR-12146")
+                                    
+    addscriptexist(2753915549, "Matsune Hub   OP", "Uploaded by Bakon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Matsune%20Hub%20%20%20OP989.lua", "https://scriptblox.com/script/Blox-Fruits-Matsune-Hub-OP-13640")
+                                    
+    addscriptexist(2753915549, "Speed Hub X No Key", "Uploaded by ahmadsgamer2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20No%20Key450.lua", "https://scriptblox.com/script/Blox-Fruits-Speed-Hub-X-No-Key-13826")
+                                    
+    addscriptexist(2753915549, "scibidi hub beta", "Uploaded by loczutakii44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/scibidi%20hub%20beta331.lua", "https://scriptblox.com/script/Blox-Fruits-scibidi-hun-beta-15098")
+                                    
+    addscriptexist(2753915549, "BEST  SCRIPT NO KEY AUTO FARM ETC", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20SCRIPT%20NO%20KEY%20AUTO%20FARM%20ETC476.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-SCRIPT-NO-KEY-AUTO-FARM-ETC-14816")
+                                    
+    addscriptexist(2753915549, "royx hub free", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/royx%20hub%20free172.lua", "https://scriptblox.com/script/Blox-Fruits-royx-hub-free-10348")
+                                    
+    addscriptexist(2753915549, "Cool Script", "Uploaded by Xyzzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20Script325.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-KEYLESS-13861")
+                                    
+    addscriptexist(2753915549, "Dark Hub BF", "Uploaded by Dark12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Hub%20BF637.lua", "https://scriptblox.com/script/Blox-Fruits-Dark-Hub-BF-17893")
+                                    
+    addscriptexist(2753915549, "Auto Farm and Auto Next World", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Next%20World831.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Auto-Next-World-11194")
+                                    
+    addscriptexist(2753915549, "ADMINUS Fruit FinderSniper V2 support solara Read Feature", "Uploaded by BKmD_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADMINUS%20Fruit%20FinderSniper%20V2%20support%20solara%20Read%20Feature718.lua", "https://scriptblox.com/script/Blox-Fruits-ADMINUS-Fruit-Finder-Sniper-support-solara-14268")
+                                    
+    addscriptexist(2753915549, "HohoHub PVP", "Uploaded by Nevcit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HohoHub%20PVP627.lua", "https://scriptblox.com/script/Blox-Fruits-HohoHub-PVP-14580")
+                                    
+    addscriptexist(2753915549, "Brutality V2", "Uploaded by imgoingcrazybrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brutality%20V2795.lua", "https://scriptblox.com/script/Blox-Fruits-Brutality-V2-16445")
+                                    
+    addscriptexist(2753915549, "DONT WORK  SOLARAauto farm and more script no key", "Uploaded by ZUBIA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DONT%20WORK%20%20SOLARAauto%20farm%20and%20more%20script%20no%20key812.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-script-no-key-14730")
+                                    
+    addscriptexist(2753915549, "Auto Farm Level Fast Attack", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Level%20Fast%20Attack185.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Level-Fast-Attack-11873")
+                                    
+    addscriptexist(2753915549, "Crescent Moon V2", "Uploaded by Xyzzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crescent%20Moon%20V2887.lua", "https://scriptblox.com/script/Blox-Fruits-ShooKi-Hub-13307")
+                                    
+    addscriptexist(2753915549, "Speed X NEW", "Uploaded by SkaysGamingDaily on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20X%20NEW759.lua", "https://scriptblox.com/script/Blox-Fruits-Speed-X-NEW-10410")
+                                    
+    addscriptexist(2753915549, "Chest Farm FREE", "Uploaded by Sxedra_Client on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chest%20Farm%20FREE652.lua", "https://scriptblox.com/script/Blox-Fruits-Chest-Farm-FREE-16050")
+                                    
+    addscriptexist(2753915549, "ZEN HUB", "Uploaded by Yesmoto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZEN%20HUB129.lua", "https://scriptblox.com/script/Blox-Fruits-ZEN-HUB-13632")
+                                    
+    addscriptexist(2753915549, "Fruit Finder Next Generation", "Uploaded by Sxedra_Client on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Finder%20Next%20Generation749.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Finder-Next-Generation-12952")
+                                    
+    addscriptexist(2753915549, "SimontyHubLoader", "Uploaded by YTTripleScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SimontyHubLoader23.lua", "https://scriptblox.com/script/Blox-Fruits-SimontyHubLoader-13210")
+                                    
+    addscriptexist(2753915549, "OP God Hub New Auto Farm Auto Fruit Best Script", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20God%20Hub%20New%20Auto%20Farm%20Auto%20Fruit%20Best%20Script627.lua", "https://scriptblox.com/script/Blox-Fruits-OP-God-Hub-New-Auto-Farm-Auto-Fruit-Best-Script-17788")
+                                    
+    addscriptexist(2753915549, "Fruit Farm FREE", "Uploaded by Sxedra_Client on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Farm%20FREE966.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Farm-FREE-15547")
+                                    
+    addscriptexist(2753915549, "BEST FREE AUTOFARM", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FREE%20AUTOFARM424.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-FREE-AUTOFARM-16383")
+                                    
+    addscriptexist(2753915549, "w azure bounty cdk talon", "Uploaded by loczutakii44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/w%20azure%20bounty%20cdk%20talon270.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-chest-night-hub-13109")
+                                    
+    addscriptexist(2753915549, "ShooKi Hub", "Uploaded by Xyzzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ShooKi%20Hub96.lua", "https://scriptblox.com/script/Blox-Fruits-ShooKi-Hub-14182")
+                                    
+    addscriptexist(2753915549, "REDZ SCRIPT WORKING 2024", "Uploaded by RIP_HASAKI_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZ%20SCRIPT%20WORKING%202024101.lua", "https://scriptblox.com/script/Blox-Fruits-REDZ-SCRIPT-WORKING-2024-16112")
+                                    
+    addscriptexist(2753915549, "Min Hub v2", "Uploaded by MrNazuki on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Hub%20v2946.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Hub-v2-17327")
+                                    
+    addscriptexist(2753915549, "ZenHub", "Uploaded by ProTip on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZenHub412.lua", "https://scriptblox.com/script/Blox-Fruits-ZenHub-14089")
+                                    
+    addscriptexist(2753915549, "bean hub REPOST", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bean%20hub%20REPOST620.lua", "https://scriptblox.com/script/Blox-Fruits-bean-hub-REPOST-14976")
+                                    
+    addscriptexist(2753915549, "FASTEST AUTOFARM AND FRUIT FARM", "Uploaded by ZekromHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FASTEST%20AUTOFARM%20AND%20FRUIT%20FARM405.lua", "https://scriptblox.com/script/Blox-Fruits-FASTEST-AUTOFARM-AND-FRUIT-FARM-17519")
+                                    
+    addscriptexist(2753915549, "bounty farm", "Uploaded by nerfmose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bounty%20farm380.lua", "https://scriptblox.com/script/Blox-Fruits-bounty-farm-15378")
+                                    
+    addscriptexist(2753915549, "Phantom HUB", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20HUB915.lua", "https://scriptblox.com/script/Blox-Fruits-Phantom-HUB-15447")
+                                    
+    addscriptexist(2753915549, "CRAZZY HUB", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRAZZY%20HUB844.lua", "https://scriptblox.com/script/Blox-Fruits-CRAZZY-HUB-18381")
+                                    
+    addscriptexist(2753915549, "The Kingzinhu Hub", "Uploaded by The_Kingzinhu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Kingzinhu%20Hub950.lua", "https://scriptblox.com/script/Blox-Fruits-The-Kingzinhu-Hub-18063")
+                                    
+    addscriptexist(2753915549, "Auto Farm Level and Teleports", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Level%20and%20Teleports994.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Level-and-Teleports-12193")
+                                    
+    addscriptexist(2753915549, "Perfect Script For PvP With Safemode Complete version", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Perfect%20Script%20For%20PvP%20With%20Safemode%20Complete%20version13.lua", "https://scriptblox.com/script/Blox-Fruits-Perfect-Script-For-PvP-With-Safemode-Complete-version-15239")
+                                    
+    addscriptexist(2753915549, "Redz Hub KEYLESS", "Uploaded by Nevcit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20KEYLESS661.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-14715")
+                                    
+    addscriptexist(2753915549, "Mbm Hub V2", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mbm%20Hub%20V225.lua", "https://scriptblox.com/script/Blox-Fruits-Mbm-Hub-10801")
+                                    
+    addscriptexist(2753915549, "mbm hub auto chest", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mbm%20hub%20auto%20chest152.lua", "https://scriptblox.com/script/Blox-Fruits-mbm-x-hub-auto-chest-10347")
+                                    
+    addscriptexist(2753915549, "fruit Hub", "Uploaded by Dev9999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20Hub877.lua", "https://scriptblox.com/script/Blox-Fruits-Hub-18091")
+                                    
+    addscriptexist(2753915549, "executor support mbm", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/executor%20support%20mbm246.lua", "https://scriptblox.com/script/Blox-Fruits-executor-support-mbm-11281")
+                                    
+    addscriptexist(2753915549, "EGO HUB", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EGO%20HUB891.lua", "https://scriptblox.com/script/Blox-Fruits-EGO-HUB-14898")
+                                    
+    addscriptexist(2753915549, "Caveira Hub   script", "Uploaded by Caveira1010 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Caveira%20Hub%20%20%20script337.lua", "https://scriptblox.com/script/Blox-Fruits-Caveira-Hub-script-10542")
+                                    
+    addscriptexist(2753915549, "Best   Script Support Solara", "Uploaded by BerTox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20%20Script%20Support%20Solara444.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Script-Support-Solara-16496")
+                                    
+    addscriptexist(2753915549, "Hoho hub script", "Uploaded by Crispy_chicken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20hub%20script883.lua", "https://scriptblox.com/script/Blox-Fruits-Hoho-hub-script-11275")
+                                    
+    addscriptexist(2753915549, "Fruit Auto Farm", "Uploaded by Sibidi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Auto%20Farm729.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Auto-Farm-17786")
+                                    
+    addscriptexist(2753915549, "NeZrut Hub Official", "Uploaded by NeZrut_Official on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NeZrut%20Hub%20Official618.lua", "https://scriptblox.com/script/Blox-Fruits-NeZrut-Hub-Official-18715")
+                                    
+    addscriptexist(2753915549, "PearCat Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PearCat%20Hub102.lua", "https://scriptblox.com/script/Blox-Fruits-PearCat-Hub-18311")
+                                    
+    addscriptexist(2753915549, "Brutality V2 CRACK", "Uploaded by nokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brutality%20V2%20CRACK866.lua", "https://scriptblox.com/script/Blox-Fruits-Brutality-V2-CRACK-16562")
+                                    
+    addscriptexist(2753915549, "Cracked Banana", "Uploaded by imgoingcrazybrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cracked%20Banana690.lua", "https://scriptblox.com/script/Blox-Fruits-Cracked-Banana-14842")
+                                    
+    addscriptexist(2753915549, "Fast Attack Auto Farm  OP", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Attack%20Auto%20Farm%20%20OP384.lua", "https://scriptblox.com/script/Blox-Fruits-Fast-Attack-Auto-Farm-OP-12218")
+                                    
+    addscriptexist(2753915549, "BRUTALITY V2 NO KEY", "Uploaded by SimplyxKenji on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BRUTALITY%20V2%20NO%20KEY435.lua", "https://scriptblox.com/script/Blox-Fruits-BRUTALITY-V2-NO-KEY-16385")
+                                    
+    addscriptexist(2753915549, "ScriptPastebin", "Uploaded by Kalecox55 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScriptPastebin684.lua", "https://scriptblox.com/script/Blox-Fruits-ScriptPastebin-12830")
+                                    
+    addscriptexist(2753915549, "DMS HUB", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DMS%20HUB112.lua", "https://scriptblox.com/script/Blox-Fruits-DMS-HUB-18355")
+                                    
+    addscriptexist(2753915549, "Survive Hub  RAIN FREE ITEMS", "Uploaded by Lazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Survive%20Hub%20%20RAIN%20FREE%20ITEMS551.lua", "https://scriptblox.com/script/Blox-Fruits-Survive-Hub-12264")
+                                    
+    addscriptexist(2753915549, "New OP Aimbot", "Uploaded by Vortex12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Aimbot503.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-OP-Aimbot-15694")
+                                    
+    addscriptexist(2753915549, "XERO HUB AUTO PVP FOR PIRATES ONLY", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XERO%20HUB%20AUTO%20PVP%20FOR%20PIRATES%20ONLY137.lua", "https://scriptblox.com/script/Blox-Fruits-Xero-Hub-FOR-PIRATES-ONLY-18314")
+                                    
+    addscriptexist(2753915549, "4737666199", "Uploaded by malekdra91 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/4737666199921.lua", "https://scriptblox.com/script/Blox-Fruits-4737666199-14144")
+                                    
+    addscriptexist(2753915549, "sem key key less", "Uploaded by Hyper8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sem%20key%20key%20less166.lua", "https://scriptblox.com/script/Blox-Fruits-sem-key-key-less-17900")
+                                    
+    addscriptexist(2753915549, "Auto farm Auto Stats", "Uploaded by Nanolol13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20Auto%20Stats883.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-farm-Auto-Stats-14414")
+                                    
+    addscriptexist(2753915549, "Min Gaming Hub", "Uploaded by ExluZive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Gaming%20Hub687.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Gaming-Hub-17342")
+                                    
+    addscriptexist(2753915549, "Super PvP Script VeryOP TP With SoulGuitar II SafeMode V20", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20PvP%20Script%20VeryOP%20TP%20With%20SoulGuitar%20II%20SafeMode%20V20792.lua", "https://scriptblox.com/script/Blox-Fruits-Super-PvP-Script-VeryOP-TP-With-SoulGuitar-II-SafeMode-V20-15609")
+                                    
+    addscriptexist(2753915549, "autofarm levels", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20levels42.lua", "https://scriptblox.com/script/Blox-Fruits-autofarm-levels-11242")
+                                    
+    addscriptexist(2753915549, "BEST NEW  Ro Script GUI Alchemy Hub V2", "Uploaded by Scriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20NEW%20%20Ro%20Script%20GUI%20Alchemy%20Hub%20V2281.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-NEW-Ro-Script-GUI-Alchemy-Hub-V2-10641")
+                                    
+    addscriptexist(2753915549, "NEW Best Hub", "Uploaded by ExluZive on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20Best%20Hub922.lua", "https://scriptblox.com/script/Blox-Fruits-NEW-Best-Hub-17548")
+                                    
+    addscriptexist(2753915549, "Good Script", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20Script553.lua", "https://scriptblox.com/script/Blox-Fruits-Good-Script-18186")
+                                    
+    addscriptexist(2753915549, "Bacon Hub made by me", "Uploaded by YTTripleScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bacon%20Hub%20made%20by%20me62.lua", "https://scriptblox.com/script/Blox-Fruits-Bacon-Hub-made-by-me-13318")
+                                    
+    addscriptexist(2753915549, "NewVersion SuperScript PvP VeryOP TP With SoulGuitar 20 XD", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NewVersion%20SuperScript%20PvP%20VeryOP%20TP%20With%20SoulGuitar%2020%20XD132.lua", "https://scriptblox.com/script/Blox-Fruits-NewVersion-SuperScript-PvP-VeryOP-TP-With-SoulGuitar-20-XD-15568")
+                                    
+    addscriptexist(2753915549, "Winter hub", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Winter%20hub473.lua", "https://scriptblox.com/script/Blox-Fruits-Winter-hub-14972")
+                                    
+    addscriptexist(2753915549, "Frosts  Hub", "Uploaded by FROSTYT_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frosts%20%20Hub474.lua", "https://scriptblox.com/script/Blox-Fruits-Frosts-Hub-17192")
+                                    
+    addscriptexist(2753915549, "REDZ HUB SCRIPT AUTO FARM LEVEL AND MORE", "Uploaded by DUYAP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDZ%20HUB%20SCRIPT%20AUTO%20FARM%20LEVEL%20AND%20MORE167.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-HUB-SCRIP-Auto-Farm-Level-And-More-18449")
+                                    
+    addscriptexist(2753915549, "Syrex Hub", "Uploaded by gerisx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub323.lua", "https://scriptblox.com/script/Blox-Fruits-Syrex-Hub-17331")
+                                    
+    addscriptexist(2753915549, "MinHubV2", "Uploaded by Samx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinHubV2639.lua", "https://scriptblox.com/script/Blox-Fruits-MinHubV2-13984")
+                                    
+    addscriptexist(2753915549, "AnDepZai Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnDepZai%20Hub532.lua", "https://scriptblox.com/script/Blox-Fruits-AnDepZai-Hub-18320")
+                                    
+    addscriptexist(2753915549, "ExxerityHub", "Uploaded by Palex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExxerityHub640.lua", "https://scriptblox.com/script/Blox-Fruits-ExxerityHub-17964")
+                                    
+    addscriptexist(2753915549, "Auto farm levels", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20levels306.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-farm-levels-11909")
+                                    
+    addscriptexist(2753915549, "SUPER OP FARM", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPER%20OP%20FARM577.lua", "https://scriptblox.com/script/Blox-Fruits-SUPER-OP-FARM-11252")
+                                    
+    addscriptexist(2753915549, "Niveau de ferme automatique REDz HUB et plus", "Uploaded by vanessakitic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Niveau%20de%20ferme%20automatique%20REDz%20HUB%20et%20plus697.lua", "https://scriptblox.com/script/Blox-Fruits-Niveau-de-ferme-automatique-REDz-HUB-et-plus-12926")
+                                    
+    addscriptexist(2753915549, "Auto Farm and Auto Stats", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Stats579.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Auto-Stats-11799")
+                                    
+    addscriptexist(2753915549, "Speed X hub", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20X%20hub709.lua", "https://scriptblox.com/script/Blox-Fruits-Zen-hub-no-key-11278")
+                                    
+    addscriptexist(2753915549, "XERO HUB AUTO PVP FOR MARINES ONLY", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XERO%20HUB%20AUTO%20PVP%20FOR%20MARINES%20ONLY50.lua", "https://scriptblox.com/script/Blox-Fruits-XERO-HUB-AUTO-PVP-FOR-MARINES-ONLY-18316")
+                                    
+    addscriptexist(2753915549, "Auto Farm and Fast Attack", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Fast%20Attack869.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Fast-Attack-11340")
+                                    
+    addscriptexist(2753915549, "all pc executors RedzHub", "Uploaded by Draxhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20pc%20executors%20RedzHub278.lua", "https://scriptblox.com/script/Blox-Fruits-all-pc-executors-RedzHub-18643")
+                                    
+    addscriptexist(2753915549, "Night hub beta", "Uploaded by loczutakii44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Night%20hub%20beta388.lua", "https://scriptblox.com/script/Blox-Fruits-Apple-hub-12374")
+                                    
+    addscriptexist(2753915549, "RedZ Hub", "Uploaded by imgoingcrazybrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZ%20Hub828.lua", "https://scriptblox.com/script/Blox-Fruits-RedZ-Hub-16178")
+                                    
+    addscriptexist(2753915549, "Hiru Prem", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hiru%20Prem986.lua", "https://scriptblox.com/script/Blox-Fruits-Hiru-Prem-18146")
+                                    
+    addscriptexist(2753915549, "Rise New", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20New269.lua", "https://scriptblox.com/script/Blox-Fruits-Rise-New-18815")
+                                    
+    addscriptexist(2753915549, "Apple hub", "Uploaded by arisontvff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apple%20hub805.lua", "https://scriptblox.com/script/Blox-Fruits-Apple-hub-13793")
+                                    
+    addscriptexist(2753915549, "Auto Farm and Auto Quest", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Quest967.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Auto-Quest-12358")
+                                    
+    addscriptexist(2753915549, "dakii hub auto chest back", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dakii%20hub%20auto%20chest%20back490.lua", "https://scriptblox.com/script/Blox-Fruits-dakii-hub-auto-chest-10802")
+                                    
+    addscriptexist(2753915549, "Super PvP Script VeryOP Compatible with Solara SafeMode V43", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20PvP%20Script%20VeryOP%20Compatible%20with%20Solara%20SafeMode%20V43301.lua", "https://scriptblox.com/script/Blox-Fruits-Super-PvP-Script-VeryOP-Compatible-with-Solara-SafeMode-V43-17308")
+                                    
+    addscriptexist(2753915549, "max level in 1 minute Not FE", "Uploaded by LlamaScriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/max%20level%20in%201%20minute%20Not%20FE416.lua", "https://scriptblox.com/script/Blox-Fruits-max-level-in-1-minute-Not-FE-12339")
+                                    
+    addscriptexist(2753915549, "Best Aimbot OP", "Uploaded by shmd9990 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Aimbot%20OP498.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Aimbot-OP-17540")
+                                    
+    addscriptexist(2753915549, "Lunar X Hub Next Gen", "Uploaded by memaybeoxdhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20X%20Hub%20Next%20Gen338.lua", "https://scriptblox.com/script/Blox-Fruits-Lunar-X-Hub-Next-Gen-12976")
+                                    
+    addscriptexist(2753915549, "Coconut Hub", "Uploaded by DemYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coconut%20Hub681.lua", "https://scriptblox.com/script/Blox-Fruits-Coconut-Hub-11015")
+                                    
+    addscriptexist(2753915549, "Universal Nuke Hub", "Uploaded by Samx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Nuke%20Hub8.lua", "https://scriptblox.com/script/Blox-Fruits-Universal-Nuke-Hub-14041")
+                                    
+    addscriptexist(2753915549, "Zap Hub", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zap%20Hub571.lua", "https://scriptblox.com/script/Blox-Fruits-Zap-Hub-18053")
+                                    
+    addscriptexist(2753915549, "RedzHub No Key Autofarm", "Uploaded by xkyxal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedzHub%20No%20Key%20Autofarm60.lua", "https://scriptblox.com/script/Blox-Fruits-RedzHub-No-Key-Autofarm-17214")
+                                    
+    addscriptexist(2753915549, "Sera Hub Auto Bounty", "Uploaded by Lumos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sera%20Hub%20Auto%20Bounty791.lua", "https://scriptblox.com/script/Blox-Fruits-Sera-Hub-Auto-Bounty-12923")
+                                    
+    addscriptexist(2753915549, "SPEED HUBX", "Uploaded by Adrian3LY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPEED%20HUBX608.lua", "https://scriptblox.com/script/Blox-Fruits-SPEED-HUBX-17093")
+                                    
+    addscriptexist(2753915549, "Euphoria Paid Crack and src leak", "Uploaded by nokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Euphoria%20Paid%20Crack%20and%20src%20leak94.lua", "https://scriptblox.com/script/Blox-Fruits-Euphoria-Paid-Crack-and-src-leak-17479")
+                                    
+    addscriptexist(2753915549, "GG", "Uploaded by thienhoa13042012 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GG237.lua", "https://scriptblox.com/script/Blox-Fruits-GG-11127")
+                                    
+    addscriptexist(2753915549, "Test Hub", "Uploaded by darialtt08 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Test%20Hub113.lua", "https://scriptblox.com/script/Blox-Fruits-Test-Hub-17030")
+                                    
+    addscriptexist(2753915549, "Nameless Chest Farm", "Uploaded by kavyanshkhaitan11 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nameless%20Chest%20Farm246.lua", "https://scriptblox.com/script/Blox-Fruits-Nameless-Chest-Farm-11859")
+                                    
+    addscriptexist(2753915549, "m0onys script hub", "Uploaded by VerbalHubOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/m0onys%20script%20hub719.lua", "https://scriptblox.com/script/Blox-Fruits-m0onys-script-hub-17197")
+                                    
+    addscriptexist(2753915549, "autochest", "Uploaded by kavyanshkhaitan11 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autochest571.lua", "https://scriptblox.com/script/Blox-Fruits-autochest-11860")
+                                    
+    addscriptexist(2753915549, "random one piece script", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/random%20one%20piece%20script934.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-op-script-18783")
+                                    
+    addscriptexist(2753915549, "Chest farm", "Uploaded by SaturnX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chest%20farm263.lua", "https://scriptblox.com/script/Blox-Fruits-Chest-farm-17104")
+                                    
+    addscriptexist(2753915549, "Rise Hub", "Uploaded by unknownxyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rise%20Hub553.lua", "https://scriptblox.com/script/Blox-Fruits-Rise-Hub-18511")
+                                    
+    addscriptexist(2753915549, "fruit script OP", "Uploaded by alihazem201111 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20script%20OP455.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-script-OP-18828")
+                                    
+    addscriptexist(2753915549, "Azure v2 fix menu display slow", "Uploaded by lekhacminhnhat0505 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azure%20v2%20fix%20menu%20display%20slow283.lua", "https://scriptblox.com/script/Blox-Fruits-Azure-v2-fix-menu-display-slow-11650")
+                                    
+    addscriptexist(2753915549, "Relz hub   desc", "Uploaded by Hekzmmm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Relz%20hub%20%20%20desc99.lua", "https://scriptblox.com/script/Blox-Fruits-Relz-hub-desc-16814")
+                                    
+    addscriptexist(2753915549, "SCRIPT MERA Hub  fruit vn", "Uploaded by Anhlatubeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20MERA%20Hub%20%20fruit%20vn980.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-MERA-Hub-fruit-vn-17694")
+                                    
+    addscriptexist(2753915549, "Project Pastel Free Sanguine ART Kitsune RACE V4", "Uploaded by Lazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Pastel%20Free%20Sanguine%20ART%20Kitsune%20RACE%20V4904.lua", "https://scriptblox.com/script/Blox-Fruits-Project-Pastel-Free-Sanguine-ART-Kitsune-RACE-V4-13692")
+                                    
+    addscriptexist(2753915549, "Matsune hub V2 NO KEY", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Matsune%20hub%20V2%20NO%20KEY834.lua", "https://scriptblox.com/script/Blox-Fruits-Matsune-hub-V2-NO-KEY-14920")
+                                    
+    addscriptexist(2753915549, "Fruit AutoGrabber", "Uploaded by ROZXINO_OFFICIAL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20AutoGrabber231.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-AutoGrabber-12763")
+                                    
+    addscriptexist(2753915549, "Aimlock Nurk hub MobilePcSupport Solara and Wave", "Uploaded by malware_potato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimlock%20Nurk%20hub%20MobilePcSupport%20Solara%20and%20Wave574.lua", "https://scriptblox.com/script/Blox-Fruits-Aimlock-fruit-Nurk-hub-15908")
+                                    
+    addscriptexist(2753915549, "jhbmfd svkgfbg kyuetvgrbuf fvhn", "Uploaded by mustafasbuisnessema on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/jhbmfd%20svkgfbg%20kyuetvgrbuf%20fvhn636.lua", "https://scriptblox.com/script/Blox-Fruits-script-17982")
+                                    
+    addscriptexist(2753915549, "shh script", "Uploaded by smartthebestbasel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/shh%20script850.lua", "https://scriptblox.com/script/Blox-Fruits-shh-script-15033")
+                                    
+    addscriptexist(2753915549, "New Best", "Uploaded by imgoingcrazybrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Best667.lua", "https://scriptblox.com/script/Blox-Fruits-New-Best-16239")
+                                    
+    addscriptexist(2753915549, "Brutality V4 Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brutality%20V4%20Hub787.lua", "https://scriptblox.com/script/Blox-Fruits-Brutality-V4-Hub-18278")
+                                    
+    addscriptexist(2753915549, "Desemprego Hub", "Uploaded by The_Kingzinhu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Desemprego%20Hub426.lua", "https://scriptblox.com/script/Blox-Fruits-Desemprego-Hub-18065")
+                                    
+    addscriptexist(2753915549, "Auto Farm and Auto Set Spawn Point", "Uploaded by Phoenixxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Set%20Spawn%20Point139.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Auto-Set-Spawn-Point-11574")
+                                    
+    addscriptexist(2753915549, "MinHub Not Mine", "Uploaded by Kyoiru on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MinHub%20Not%20Mine449.lua", "https://scriptblox.com/script/Blox-Fruits-MinHub-Not-Mine-18819")
+                                    
+    addscriptexist(2753915549, "min hub", "Uploaded by Maulanaharwono on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/min%20hub635.lua", "https://scriptblox.com/script/Blox-Fruits-min-hub-15642")
+                                    
+    addscriptexist(2753915549, "Fruit Autofarm No Key", "Uploaded by xkyxal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Autofarm%20No%20Key480.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Autofarm-No-Key-16781")
+                                    
+    addscriptexist(2753915549, "works on solara AUTO MASTERY", "Uploaded by scripts121212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/works%20on%20solara%20AUTO%20MASTERY154.lua", "https://scriptblox.com/script/Blox-Fruits-works-on-solara-AUTO-MASTERY-14706")
+                                    
+    addscriptexist(2753915549, "Redz Hub  OP", "Uploaded by storm_scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20%20OP121.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-OP-17050")
+                                    
+    addscriptexist(2753915549, "OP AUTOFARM INF GEPPO", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20INF%20GEPPO86.lua", "https://scriptblox.com/script/Blox-Fruits-OP-AUTOFARM-INF-GEPPO-11345")
+                                    
+    addscriptexist(2753915549, "HohoHub Main ScriptHAVE KEY", "Uploaded by Nevcit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HohoHub%20Main%20ScriptHAVE%20KEY530.lua", "https://scriptblox.com/script/Blox-Fruits-HohoHub-Main-Script-14740")
+                                    
+    addscriptexist(2753915549, "RinX Script  Fruit", "Uploaded by Sibidi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RinX%20Script%20%20Fruit3.lua", "https://scriptblox.com/script/Blox-Fruits-RinX-Script-Fruit-16104")
+                                    
+    addscriptexist(2753915549, "Op fruit farm", "Uploaded by Crispy_chicken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20fruit%20farm474.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-farm-11264")
+                                    
+    addscriptexist(2753915549, "FTSX HUB NO KEY", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FTSX%20HUB%20NO%20KEY794.lua", "https://scriptblox.com/script/Blox-Fruits-FTSX-HUB-NO-KEY-14887")
+                                    
+    addscriptexist(2753915549, "YKO NEXT LEVEL AUTOFARM", "Uploaded by Illcrashout on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YKO%20NEXT%20LEVEL%20AUTOFARM949.lua", "https://scriptblox.com/script/Blox-Fruits-YKO-NEXT-LEVEL-AUTOFARM-19016")
+                                    
+    addscriptexist(2753915549, "Infinite Energy Open Source", "Uploaded by CheatHub_Exploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Energy%20Open%20Source846.lua", "https://scriptblox.com/script/Blox-Fruits-Infinite-Energy-Open-Source-11385")
+                                    
+    addscriptexist(2753915549, "SOUL GUITAR AUTO Farm LEVEL  RAIN Race V4 KITSUNE OP", "Uploaded by laziumsp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOUL%20GUITAR%20AUTO%20Farm%20LEVEL%20%20RAIN%20Race%20V4%20KITSUNE%20OP448.lua", "https://scriptblox.com/script/Blox-Fruits-SOUL-GUITAR-AUTO-Farm-LEVEL-RAIN-Race-V4-KITSUNE-OP-17974")
+                                    
+    addscriptexist(2753915549, "123lol", "Uploaded by nicholasdaire53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/123lol15.lua", "https://scriptblox.com/script/Blox-Fruits-123lol-18744")
+                                    
+    addscriptexist(2753915549, "HoHo Hub v3", "Uploaded by allanogwwogw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HoHo%20Hub%20v341.lua", "https://scriptblox.com/script/Blox-Fruits-Hobo-Hub-v3-10658")
+                                    
+    addscriptexist(2753915549, "Vhub Update Script", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vhub%20Update%20Script612.lua", "https://scriptblox.com/script/Blox-Fruits-Vhub-Update-Script-10450")
+                                    
+    addscriptexist(2753915549, "mama hub no key", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mama%20hub%20no%20key538.lua", "https://scriptblox.com/script/Blox-Fruits-mama-hub-no-key-14886")
+                                    
+    addscriptexist(2753915549, "Experience Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Experience%20Hub434.lua", "https://scriptblox.com/script/Blox-Fruits-Experience-Hub-18281")
+                                    
+    addscriptexist(2753915549, "FREE AUTOFARM GUI", "Uploaded by amirzuhaidi314 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20AUTOFARM%20GUI582.lua", "https://scriptblox.com/script/Blox-Fruits-FREE-AUTOFARM-GUI-17607")
+                                    
+    addscriptexist(2753915549, "Exploware1 redz hub", "Uploaded by Transptacc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Exploware1%20redz%20hub171.lua", "https://scriptblox.com/script/Blox-Fruits-Exploware1-redz-hub-16824")
+                                    
+    addscriptexist(2753915549, "Fe Max Level Script", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20Max%20Level%20Script89.lua", "https://scriptblox.com/script/Blox-Fruits-Fe-Max-Level-Script-18170")
+                                    
+    addscriptexist(2753915549, "Mago Hub", "Uploaded by MagoScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mago%20Hub475.lua", "https://scriptblox.com/script/Blox-Fruits-Mago-Hub-16486")
+                                    
+    addscriptexist(2753915549, "ADMINUS Devil Fruit Sniper V2", "Uploaded by Adminus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADMINUS%20Devil%20Fruit%20Sniper%20V2853.lua", "https://scriptblox.com/script/Blox-Fruits-ADMINUS-Devil-Fruit-Sniper-V2-11996")
+                                    
+    addscriptexist(2753915549, "Automatically turn on", "Uploaded by shinigamiigaming5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automatically%20turn%20on575.lua", "https://scriptblox.com/script/Blox-Fruits-Automatically-turn-on-13184")
+                                    
+    addscriptexist(2753915549, "MiniGaming Hub for", "Uploaded by Spaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MiniGaming%20Hub%20for425.lua", "https://scriptblox.com/script/Blox-Fruits-MiniGaming-Hub-for-14659")
+                                    
+    addscriptexist(2753915549, "W azure v2 new", "Uploaded by loczutakii44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/W%20azure%20v2%20new630.lua", "https://scriptblox.com/script/Blox-Fruits-W-azure-v2-new-12336")
+                                    
+    addscriptexist(2753915549, "op script Auto Farm Level", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20Auto%20Farm%20Level302.lua", "https://scriptblox.com/script/Blox-Fruits-op-script-Auto-Farm-Level-10906")
+                                    
+    addscriptexist(2753915549, "HaloX", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HaloX81.lua", "https://scriptblox.com/script/Blox-Fruits-HaloX-10549")
+                                    
+    addscriptexist(2753915549, "ultra hub   script keyless", "Uploaded by ultrascripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ultra%20hub%20%20%20script%20keyless697.lua", "https://scriptblox.com/script/Blox-Fruits-ultra-hub-script-keyless-17628")
+                                    
+    addscriptexist(2753915549, "Good   Script", "Uploaded by Akari on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20%20%20Script323.lua", "https://scriptblox.com/script/Blox-Fruits-Good-Script-16850")
+                                    
+    addscriptexist(2753915549, "Auto farm op", "Uploaded by fastxpepe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20op355.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-farm-op-12140")
+                                    
+    addscriptexist(2753915549, "drainware v3", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/drainware%20v32.lua", "https://scriptblox.com/script/Blox-Fruits-drainware-v3-10742")
+                                    
+    addscriptexist(2753915549, "fruit bounty farm", "Uploaded by vqmpjayZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20bounty%20farm513.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-bounty-farm-15374")
+                                    
+    addscriptexist(2753915549, "Czero", "Uploaded by imgoingcrazybrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Czero692.lua", "https://scriptblox.com/script/Blox-Fruits-Czero-16361")
+                                    
+    addscriptexist(2753915549, "Auto Farm chest", "Uploaded by Caveira1010 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20chest558.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-chest-10375")
+                                    
+    addscriptexist(2753915549, "NewVersion PvP Script VeryOP SafeMode TP With SoulGuitar EZ", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NewVersion%20PvP%20Script%20VeryOP%20SafeMode%20TP%20With%20SoulGuitar%20EZ413.lua", "https://scriptblox.com/script/Blox-Fruits-NewVersion-PvP-Script-VeryOP-SafeMode-TP-With-SoulGuitar-EZ-15378")
+                                    
+    addscriptexist(2753915549, "Auto farm Fruit finder etc", "Uploaded by scripts121212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20Fruit%20finder%20etc269.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-farm-Fruit-finder-etc-14834")
+                                    
+    addscriptexist(2753915549, "Auto Chestfarm Solara Support", "Uploaded by HeroReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Chestfarm%20Solara%20Support562.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Chestfarm-Solara-Support-15201")
+                                    
+    addscriptexist(2753915549, "redz9999", "Uploaded by imgoingcrazybrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/redz999920.lua", "https://scriptblox.com/script/Blox-Fruits-redz9999-16116")
+                                    
+    addscriptexist(2753915549, "Hiru Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hiru%20Hub648.lua", "https://scriptblox.com/script/Blox-Fruits-Hiru-Hub-18282")
+                                    
+    addscriptexist(2753915549, "Mbm Hub v3 real", "Uploaded by m1m_minh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mbm%20Hub%20v3%20real393.lua", "https://scriptblox.com/script/Blox-Fruits-Mbm-Hub-v3-real-12371")
+                                    
+    addscriptexist(2753915549, "Matsune hub keyless solara support", "Uploaded by OuterTrees on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Matsune%20hub%20keyless%20solara%20support829.lua", "https://scriptblox.com/script/Blox-Fruits-matsune-Hub-keyless-15806")
+                                    
+    addscriptexist(2753915549, "TNG Hub For PC", "Uploaded by tngaminghack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TNG%20Hub%20For%20PC247.lua", "https://scriptblox.com/script/Blox-Fruits-TNG-Hub-For-PC-18025")
+                                    
+    addscriptexist(2753915549, "Rocks Hub ATT links att", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocks%20Hub%20ATT%20links%20att139.lua", "https://scriptblox.com/script/Blox-Fruits-Rocks-Hub-ATT-links-att-16431")
+                                    
+    addscriptexist(2753915549, "sitink hub", "Uploaded by loczutakii44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sitink%20hub148.lua", "https://scriptblox.com/script/Blox-Fruits-sitink-hub-15039")
+                                    
+    addscriptexist(2753915549, "Fruit Mama Hub", "Uploaded by BaconHunter1214 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Mama%20Hub913.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Mama-Hub-17205")
+                                    
+    addscriptexist(2753915549, "Min Hub V4", "Uploaded by jony on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Hub%20V4864.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Hub-V4-15545")
+                                    
+    addscriptexist(2753915549, "Script Auto Farm Chest", "Uploaded by DUYAP on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Auto%20Farm%20Chest548.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-script-Auto-Farm-Chest-18426")
+                                    
+    addscriptexist(2753915549, "Fastest Auto Farm", "Uploaded by EclipseX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fastest%20Auto%20Farm312.lua", "https://scriptblox.com/script/Blox-Fruits-Fastest-Auto-Farm-17717")
+                                    
+    addscriptexist(2753915549, "Auto Farm Level Fast Attack More Mobile Script", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Level%20Fast%20Attack%20More%20Mobile%20Script367.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Level-Fast-Attack-More-Mobile-Script-11983")
+                                    
+    addscriptexist(2753915549, "Ch s dng nu bn c th hiu ting Vit BLUEMINGAMING HUB", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ch%20s%20dng%20nu%20bn%20c%20th%20hiu%20ting%20Vit%20BLUEMINGAMING%20HUB64.lua", "https://scriptblox.com/script/Blox-Fruits-Ch-s-dng-nu-bn-c-th-hiu-ting-Vit-BLUEMINGAMING-HUB-18318")
+                                    
+    addscriptexist(2753915549, "Super PvP Script VeryOP TP With SoulGuitar II SafeMode V40", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20PvP%20Script%20VeryOP%20TP%20With%20SoulGuitar%20II%20SafeMode%20V40688.lua", "https://scriptblox.com/script/Blox-Fruits-Super-PvP-Script-VeryOP-TP-With-SoulGuitar-II-SafeMode-V40-17061")
+                                    
+    addscriptexist(2753915549, "auto fram for solara and wave", "Uploaded by dev3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20fram%20for%20solara%20and%20wave968.lua", "https://scriptblox.com/script/Blox-Fruits-auto-fram-for-solara-and-wave-18489")
+                                    
+    addscriptexist(2753915549, "mama hub leak by nblm", "Uploaded by Emplic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mama%20hub%20leak%20by%20nblm511.lua", "https://scriptblox.com/script/Blox-Fruits-mama-hub-leak-by-emplic-17259")
+                                    
+    addscriptexist(2753915549, "kaie Hub", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kaie%20Hub580.lua", "https://scriptblox.com/script/Blox-Fruits-*ka-Hub-17699")
+                                    
+    addscriptexist(2753915549, "Super PvP Script VeryOP Compatible with Solara SafeMode V42", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20PvP%20Script%20VeryOP%20Compatible%20with%20Solara%20SafeMode%20V42745.lua", "https://scriptblox.com/script/Blox-Fruits-Super-PvP-Script-VeryOP-Compatible-with-Solara-SafeMode-V42-17216")
+                                    
+    addscriptexist(2753915549, "keyless script for u guys", "Uploaded by robloxthis001 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/keyless%20script%20for%20u%20guys585.lua", "https://scriptblox.com/script/Blox-Fruits-keyless-script-for-u-guys-15284")
+                                    
+    addscriptexist(2753915549, "Whub Update", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Whub%20Update37.lua", "https://scriptblox.com/script/Blox-Fruits-Whub-Update-10488")
+                                    
+    addscriptexist(2753915549, "MODZ BLACK HUB NO KEY", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MODZ%20BLACK%20HUB%20NO%20KEY123.lua", "https://scriptblox.com/script/Blox-Fruits-MODZ-BLACK-HUB-NO-KEY-14884")
+                                    
+    addscriptexist(2753915549, "SCRIPT Rocks Hub ACT", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20Rocks%20Hub%20ACT333.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-Rocks-Hub-ACT-16212")
+                                    
+    addscriptexist(2753915549, "Speed Hub X Best Sea Event No Key", "Uploaded by ahmadsgamer2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20Best%20Sea%20Event%20No%20Key537.lua", "https://scriptblox.com/script/Blox-Fruits-Speed-Hub-X-Best-Sea-Event-No-Key-16135")
+                                    
+    addscriptexist(2753915549, "fruit fruit farm", "Uploaded by gagshxudddgdgsgs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fruit%20fruit%20farm346.lua", "https://scriptblox.com/script/Blox-Fruits-fruit-fruit-farm-10882")
+                                    
+    addscriptexist(2753915549, "DONT USE THIS MY TEST HUB FOR", "Uploaded by PerplexityAi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DONT%20USE%20THIS%20MY%20TEST%20HUB%20FOR193.lua", "https://scriptblox.com/script/Blox-Fruits-DONT-USE-THIS-MY-TEST-HUB-FOR-15500")
+                                    
+    addscriptexist(2753915549, "AUTO FARM  GUN  DF MASTERY FARM  RAID  RACE V4  PVP", "Uploaded by ZUBIA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20%20GUN%20%20DF%20MASTERY%20FARM%20%20RAID%20%20RACE%20V4%20%20PVP302.lua", "https://scriptblox.com/script/Blox-Fruits-AUTO-FARM-14731")
+                                    
+    addscriptexist(2753915549, "HOHO hub crack", "Uploaded by forg11537 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20hub%20crack733.lua", "https://scriptblox.com/script/Blox-Fruits-HOHO-hub-crack-10330")
+                                    
+    addscriptexist(2753915549, "Bounty V1", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bounty%20V1634.lua", "https://scriptblox.com/script/Blox-Fruits-Alone-hub-v2-11276")
+                                    
+    addscriptexist(2753915549, "OP AUTOFARM AUTO FRUIT FINDER AND MORE", "Uploaded by scriptedbymike on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20AUTO%20FRUIT%20FINDER%20AND%20MORE879.lua", "https://scriptblox.com/script/Blox-Fruits-OP-AUTOFARM-AUTO-FRUIT-FINDER-AND-MORE-17415")
+                                    
+    addscriptexist(2753915549, "Annie hub", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Annie%20hub799.lua", "https://scriptblox.com/script/Blox-Fruits-Annie-hub-14899")
+                                    
+    addscriptexist(2753915549, "BEST KEYLESS AUTOFARM", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20KEYLESS%20AUTOFARM538.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-KEYLESS-AUTOFARM-15179")
+                                    
+    addscriptexist(2753915549, "VectorHub", "Uploaded by LOLI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VectorHub173.lua", "https://scriptblox.com/script/Blox-Fruits-VectorHub-12115")
+                                    
+    addscriptexist(2753915549, "Min Blue New", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Blue%20New732.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Blue-New-18994")
+                                    
+    addscriptexist(2753915549, "Hoho Hub Gen V3", "Uploaded by JMBlex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoho%20Hub%20Gen%20V3431.lua", "https://scriptblox.com/script/Blox-Fruits-Hoho-Hub-Gen-V3-17011")
+                                    
+    addscriptexist(2753915549, "Best Auto Chest Farm Script And Webhook System", "Uploaded by Hinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Chest%20Farm%20Script%20And%20Webhook%20System630.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Auto-Chest-Farm-Script-And-Webhook-System-13627")
+                                    
+    addscriptexist(2753915549, "B fad", "Uploaded by mustafasbuisnessema on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/B%20fad861.lua", "https://scriptblox.com/script/Blox-Fruits-B-fad-17981")
+                                    
+    addscriptexist(2753915549, "OP autofarm", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20autofarm856.lua", "https://scriptblox.com/script/Blox-Fruits-OP-autofarm-11272")
+                                    
+    addscriptexist(2753915549, "autofarm kill players auto bounty everything", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20kill%20players%20auto%20bounty%20everything466.lua", "https://scriptblox.com/script/Blox-Fruits-autofarm-kill-players-auto-bounty-everything-11226")
+                                    
+    addscriptexist(2753915549, "Dark Hub BF V2 BETA", "Uploaded by Dark12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20Hub%20BF%20V2%20BETA394.lua", "https://scriptblox.com/script/Blox-Fruits-Dark-Hub-BF-V2-BETA-18389")
+                                    
+    addscriptexist(2753915549, "Auto Bounty 2", "Uploaded by yy1256581 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Bounty%202631.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Bounty-2-11165")
+                                    
+    addscriptexist(2753915549, "thunder z hub", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/thunder%20z%20hub495.lua", "https://scriptblox.com/script/Blox-Fruits-thunder-z-hub-14884")
+                                    
+    addscriptexist(2753915549, "Auto Bounty And More BOUNTY X SEA HUB", "Uploaded by SK_Floppa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Bounty%20And%20More%20BOUNTY%20X%20SEA%20HUB449.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Bounty-And-More-BOUNTY-X-SEA-HUB-18030")
+                                    
+    addscriptexist(2753915549, "Best Free Keyless Script Coconut Hub", "Uploaded by DemYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Free%20Keyless%20Script%20Coconut%20Hub966.lua", "https://scriptblox.com/script/Blox-Fruits-Best-Free-Keyless-Script-Coconut-Hub-10624")
+                                    
+    addscriptexist(2753915549, "Farm Level and Auto Stats", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20Level%20and%20Auto%20Stats336.lua", "https://scriptblox.com/script/Blox-Fruits-Farm-Level-and-Auto-Stats-10649")
+                                    
+    addscriptexist(2753915549, "Phantom Hub", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Hub517.lua", "https://scriptblox.com/script/Blox-Fruits-Phantom-Hub-13083")
+                                    
+    addscriptexist(2753915549, "FARM LEVEL SYSTEM", "Uploaded by fastxpepe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FARM%20LEVEL%20SYSTEM585.lua", "https://scriptblox.com/script/Blox-Fruits-FARM-LEVEL-SYSTEM-12156")
+                                    
+    addscriptexist(2753915549, "Xiter Hub", "Uploaded by Xiter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xiter%20Hub668.lua", "https://scriptblox.com/script/Blox-Fruits-Xiter-Hub-16352")
+                                    
+    addscriptexist(2753915549, "Auto Farm Levels", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Levels695.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Levels-11580")
+                                    
+    addscriptexist(2753915549, "Auto everything", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20everything939.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-everything-11206")
+                                    
+    addscriptexist(2753915549, "Jsjsjs", "Uploaded by sokcerblu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jsjsjs391.lua", "https://scriptblox.com/script/Blox-Fruits-Jsjsjs-13361")
+                                    
+    addscriptexist(2753915549, "WhiteHats Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WhiteHats%20Hub96.lua", "https://scriptblox.com/script/Blox-Fruits-WhiteHats-Hub-18939")
+                                    
+    addscriptexist(2753915549, "Redz hub", "Uploaded by The_script_user on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20hub791.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-hub-13346")
+                                    
+    addscriptexist(2753915549, "Hades Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hades%20Hub330.lua", "https://scriptblox.com/script/Blox-Fruits-Hades-Hub-18281")
+                                    
+    addscriptexist(2753915549, "Cyan", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyan708.lua", "https://scriptblox.com/script/Blox-Fruits-Cyan-18711")
+                                    
+    addscriptexist(2753915549, "Fake Equal to the Heavens le Unlocked", "Uploaded by Neverdz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Equal%20to%20the%20Heavens%20le%20Unlocked398.lua", "https://scriptblox.com/script/Blox-Fruits-Fake-Equal-to-the-Heavens-*le-Unlocked-16730")
+                                    
+    addscriptexist(2753915549, "Auto Farm and Auto Superhuman", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Superhuman594.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-and-Auto-Superhuman-17300")
+                                    
+    addscriptexist(2753915549, "MAMA Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MAMA%20Hub169.lua", "https://scriptblox.com/script/Blox-Fruits-MAMA-Hub-18229")
+                                    
+    addscriptexist(2753915549, "Best fly script ever", "Uploaded by hxhucuduheifch on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20fly%20script%20ever689.lua", "https://scriptblox.com/script/Blox-Fruits-Best-fly-script-ever-15243")
+                                    
+    addscriptexist(2753915549, "real redz hub", "Uploaded by misha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/real%20redz%20hub119.lua", "https://scriptblox.com/script/Blox-Fruits-real-redz-hub-17905")
+                                    
+    addscriptexist(2753915549, "floodware", "Uploaded by xiba on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/floodware333.lua", "https://scriptblox.com/script/Blox-Fruits-floodware-10741")
+                                    
+    addscriptexist(2753915549, "Min Hub OP Gui", "Uploaded by _luh99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Hub%20OP%20Gui579.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Hub-OP-Gui-15284")
+                                    
+    addscriptexist(2753915549, "W Azure True V2", "Uploaded by kqzkq02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/W%20Azure%20True%20V2480.lua", "https://scriptblox.com/script/Blox-Fruits-W-A-z-u-r-e-13254")
+                                    
+    addscriptexist(2753915549, "Thunder Z Hub Very OP", "Uploaded by LlamaScriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Z%20Hub%20Very%20OP919.lua", "https://scriptblox.com/script/Blox-Fruits-Thunder-Z-Hub-Very-OP-10346")
+                                    
+    addscriptexist(2753915549, "Script Notify Fruit Beta", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Notify%20Fruit%20Beta539.lua", "https://scriptblox.com/script/Blox-Fruits-Script-Notify-Fruit-Beta-15586")
+                                    
+    addscriptexist(2753915549, "ORG hub fruit", "Uploaded by Sibidi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ORG%20hub%20fruit523.lua", "https://scriptblox.com/script/Blox-Fruits-ORG-hub-fruit-17221")
+                                    
+    addscriptexist(2753915549, "Hyper hub key less sem key", "Uploaded by Hyper8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20hub%20key%20less%20sem%20key525.lua", "https://scriptblox.com/script/Blox-Fruits-Hyper-hub-key-less-sem-key-17900")
+                                    

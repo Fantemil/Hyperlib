@@ -1,0 +1,2 @@
+
+    addscript(15106261598, "Current Game","Very nice Script", "Uploaded by Pocky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20nice%20Script996.lua", "https://scriptblox.com/script/x100.000-Epic-Tappers-Very-nice-Script-12607")

@@ -1,2 +1,4 @@
 
 addscript(14748549865, "Current Game","Easy ugc OP KILLS FARM", "Uploaded by guss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20ugc%20OP%20KILLS%20FARM104.lua", "https://scriptblox.com/script/FREE-UGC-Don't-Die!-Easy-ugc-OP-KILLS-FARM-7846")
+    addscriptexist(14748549865, "Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More874.lua", "https://scriptblox.com/script/FREE-UGC-Don't-Die!-Auto-Farm-And-More-12341")
+                                    

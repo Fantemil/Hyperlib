@@ -1,0 +1,2 @@
+
+    addscript(17563412486, "Current Game","inf rebirths and money", "Uploaded by ihatelife on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20rebirths%20and%20money909.lua", "https://scriptblox.com/script/Freaky-Simulator-inf-rebirths-and-money-15126")

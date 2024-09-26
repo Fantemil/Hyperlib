@@ -1,0 +1,2 @@
+
+    addscript(15836670104, "Current Game","Auto GUI", "Uploaded by Sebi_Red on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20GUI383.lua", "https://scriptblox.com/script/pengandx27s-Glitch-Per-Difficulty-Chart-Obby-Auto-GUI-15725")

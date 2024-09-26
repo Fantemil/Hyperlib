@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/agreed69-scripts/scripts/main/pizza%20clicker.txt",true))()

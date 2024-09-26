@@ -1,0 +1,2 @@
+
+    addscript(14181236474, "Current Game","Auto Collect And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20And%20More61.lua", "https://scriptblox.com/script/Monster-Battle-Simulator-Auto-Collect-And-More-12730")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitverse.ru/api/repos/stonifam/scripts/raw/branch/master/nds-clockFarm.lua"))()

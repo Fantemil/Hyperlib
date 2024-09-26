@@ -1,0 +1,2 @@
+
+    addscript(8512671362, "Current Game","Roblox FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20FE%20kill%20all%20script330.lua", "https://scriptblox.com/script/4kings-FE-kill-all-script-14543")

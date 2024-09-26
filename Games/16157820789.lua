@@ -1,0 +1,2 @@
+
+    addscript(16157820789, "Current Game","JM HUB", "Uploaded by jmholidae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JM%20HUB644.lua", "https://scriptblox.com/script/Legendary-Tapping-JM-HUB-15548")

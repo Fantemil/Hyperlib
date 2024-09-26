@@ -4,3 +4,7 @@ addscriptexist(11606818992, "Steep Steps  AC  TP Bypass", "Uploaded by notreplic
                                 
     addscriptexist(11606818992, "ZapHub Gui", "Uploaded by Jaguar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20Gui493.lua", "https://scriptblox.com/script/NEW-STEEP-STEPS-ZapHub-Gui-7481")
                                     
+    addscriptexist(11606818992, "WalkSpeed Auto Farm Teleport", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WalkSpeed%20Auto%20Farm%20Teleport255.lua", "https://scriptblox.com/script/STEEP-STEPS-HUNT-WalkSpeed-Auto-Farm-Teleport-11826")
+                                    
+    addscriptexist(11606818992, "Anticheat bypass", "Uploaded by Singularity on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheat%20bypass724.lua", "https://scriptblox.com/script/STEEP-STEPS-HUNT-Anticheat-bypass-11628")
+                                    

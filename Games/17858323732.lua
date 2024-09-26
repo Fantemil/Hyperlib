@@ -1,0 +1,2 @@
+
+    addscript(17858323732, "Current Game","Inf Money", "Uploaded by FelSSJ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money517.lua", "https://scriptblox.com/script/andx2660andxFE0FUpd-Blinko-Inf-Money-15770")
