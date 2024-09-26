@@ -220,3 +220,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "glove giver", "Uploaded by vojtikvokoun on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/glove%20giver294.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Get-all-gloves-18397")
                                     
+    addscriptexist(6403373529, "Sb script new", "Uploaded by alihazem201111 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sb%20script%20new66.lua", "https://scriptblox.com/script/Slap-Battles-Sb-script-new-19043")
+                                    

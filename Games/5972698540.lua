@@ -10,3 +10,5 @@ addscriptexist(5972698540, "Txxicu Scripts", "Uploaded by txxicu on scriptblox.c
                                     
     addscriptexist(5972698540, "yarrrrrrrr", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yarrrrrrrr992.lua", "https://scriptblox.com/script/Easy-Obby-FREE-ADMIN-a-10920")
                                     
+    addscriptexist(5972698540, "Fe touch all stairs Remake", "Uploaded by GoldenCheats on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fe%20touch%20all%20stairs%20Remake54.lua", "https://scriptblox.com/script/Easy-Obby-Fe-touch-all-stairs-Remake-19041")
+                                    

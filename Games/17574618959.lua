@@ -38,3 +38,5 @@
                                     
     addscriptexist(17574618959, "JB FE R15 Tll", "Uploaded by Fundainer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JB%20FE%20R15%20Tll967.lua", "https://scriptblox.com/script/Just-a-baseplate.-JB-FE-R15-Tll-14136")
                                     
+    addscriptexist(17574618959, "fe renim hub v2", "Uploaded by imahuman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20renim%20hub%20v2586.lua", "https://scriptblox.com/script/Just-a-baseplate.-fe-renim-hub-v2-19042")
+                                    
