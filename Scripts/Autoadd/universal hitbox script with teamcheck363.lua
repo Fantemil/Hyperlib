@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Fast-Voider/script/refs/heads/main/README.md")()
