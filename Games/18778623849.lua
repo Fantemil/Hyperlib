@@ -1,0 +1,2 @@
+
+    addscript(18778623849, "Current Game","Farm win toraisme", "Uploaded by Saulgoodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20win%20toraisme370.lua", "https://scriptblox.com/script/Meme-Race-Farm-win-toraisme-19036")

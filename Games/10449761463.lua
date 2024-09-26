@@ -336,3 +336,9 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "SD HUB", "Uploaded by que1s_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SD%20HUB778.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-SD-HUB-16405")
                                     
+    addscriptexist(10449761463, "Garou x Dragon", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Garou%20x%20Dragon818.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Garou-x-Dragon-19031")
+                                    
+    addscriptexist(10449761463, "noulem hub", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/noulem%20hub699.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-*ulem-hub-19034")
+                                    
+    addscriptexist(10449761463, "Phantasm V2", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantasm%20V2533.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Phantasm-V2-19028")
+                                    

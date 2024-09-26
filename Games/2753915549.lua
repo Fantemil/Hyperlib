@@ -1344,3 +1344,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Hyper hub key less sem key", "Uploaded by Hyper8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hyper%20hub%20key%20less%20sem%20key525.lua", "https://scriptblox.com/script/Blox-Fruits-Hyper-hub-key-less-sem-key-17900")
                                     
+    addscriptexist(2753915549, "Zen Next Gen", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zen%20Next%20Gen808.lua", "https://scriptblox.com/script/Blox-Fruits-Zen-Next-Gen-19027")
+                                    

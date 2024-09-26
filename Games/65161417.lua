@@ -1,0 +1,2 @@
+
+    addscript(65161417, "Current Game","DORS FLOOR 2 SCRIPT", "Uploaded by Nxuw_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DORS%20FLOOR%202%20SCRIPT618.lua", "https://scriptblox.com/script/prettyjolly's-Place-DORS-FLOOR-2-SCRIPT-19037")

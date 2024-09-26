@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LorisHost/Files/refs/heads/main/sortexasylumlife.lua"))()

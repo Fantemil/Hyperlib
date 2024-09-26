@@ -10,3 +10,5 @@
                                     
     addscriptexist(12135640403, "Solo lvl", "Uploaded by LOLI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solo%20lvl717.lua", "https://scriptblox.com/script/NEW-ARUAAnime-Dungeon-Fighters-Solo-lvl-12120")
                                     
+    addscriptexist(12135640403, "Killaura", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killaura86.lua", "https://scriptblox.com/script/NEW-SEASSIONAnime-Dungeon-Fighters-Killaura-19035")
+                                    
