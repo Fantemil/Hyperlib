@@ -20,3 +20,5 @@
                                     
     addscriptexist(14004668761, "SANTO RF CRACKED SCRIPT", "Uploaded by aldzscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SANTO%20RF%20CRACKED%20SCRIPT843.lua", "https://scriptblox.com/script/Real-Futbol-24-SANTO-RF-CRACKED-SCRIPT-18638")
                                     
+    addscriptexist(14004668761, "NEW AC RF BYPASS WITH OP FEATURES", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20AC%20RF%20BYPASS%20WITH%20OP%20FEATURES885.lua", "https://scriptblox.com/script/Real-Futbol-24-NEW-AC-RF-BYPASS-WITH-OP-FEATURES-19046")
+                                    
