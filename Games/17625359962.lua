@@ -142,3 +142,5 @@
                                     
     addscriptexist(17625359962, "Device Changer Bypassed Open Src", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Device%20Changer%20Bypassed%20Open%20Src893.lua", "https://scriptblox.com/script/UPD-RIVALS-Device-Changer-Bypassed-Open-Src-17792")
                                     
+    addscriptexist(17625359962, "RYBOWE HUB THE BEST  SCRIPT", "Uploaded by YoSoyNoProfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20THE%20BEST%20%20SCRIPT374.lua", "https://scriptblox.com/script/RIVALS-RYBOWE-HUB-THE-BEST-SCRIPT-19074")
+                                    
