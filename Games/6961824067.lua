@@ -34,3 +34,5 @@ addscriptexist(6961824067, "Simple Time Left Till Next Spin", "Uploaded by EviIA
                                     
     addscriptexist(6961824067, "super throw", "Uploaded by lazoyeison13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/super%20throw42.lua", "https://scriptblox.com/script/Fling-Things-and-People-super-throw-19062")
                                     
+    addscriptexist(6961824067, "DAVID GUI for", "Uploaded by dv7250518 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DAVID%20GUI%20for140.lua", "https://scriptblox.com/script/Fling-Things-and-People-DAVID-GUI-for-19111")
+                                    
