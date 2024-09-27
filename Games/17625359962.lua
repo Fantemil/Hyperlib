@@ -144,3 +144,5 @@
                                     
     addscriptexist(17625359962, "RYBOWE HUB THE BEST  SCRIPT", "Uploaded by YoSoyNoProfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20THE%20BEST%20%20SCRIPT374.lua", "https://scriptblox.com/script/RIVALS-RYBOWE-HUB-THE-BEST-SCRIPT-19074")
                                     
+    addscriptexist(17625359962, "Loud Menu Works on Solara", "Uploaded by FPK_Ceifador on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loud%20Menu%20Works%20on%20Solara286.lua", "https://scriptblox.com/script/RIVALS-Loud-Menu-19081")
+                                    
