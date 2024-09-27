@@ -1,0 +1,2 @@
+
+    addscript(97002417864004, "Current Game","Script", "Uploaded by D1amond on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script164.lua", "https://scriptblox.com/script/Glass-Bridge-For-Admin-(FREE-UGC)-Script-19123")

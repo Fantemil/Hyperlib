@@ -84,3 +84,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "get scripts connected to button element", "Uploaded by melon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20scripts%20connected%20to%20button%20element434.lua", "https://scriptblox.com/script/a-literal-baseplate.-get-scripts-connected-to-button-element-17441")
                                     
+    addscriptexist(4483381587, "FLY OPEN SUCE", "Uploaded by ethanlapez33 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLY%20OPEN%20SUCE300.lua", "https://scriptblox.com/script/a-literal-baseplate.-FLY-OPEN-SUCE-19124")
+                                    
