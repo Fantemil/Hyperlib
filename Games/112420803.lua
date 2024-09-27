@@ -28,3 +28,5 @@ addscript(112420803, "Current Game","CMD Y", "Uploaded by porn on scriptblox.com
                                     
     addscriptexist(112420803, "Shortcut v2     2023 Remaster", "Uploaded by Tech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shortcut%20v2%20%20%20%20%202023%20Remaster84.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-Shortcut-v2-2023-Remaster-16856")
                                     
+    addscriptexist(112420803, "DEX V3 Mobile Universal", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEX%20V3%20Mobile%20Universal610.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-DEX-V3-Mobile-Universal-19072")
+                                    
