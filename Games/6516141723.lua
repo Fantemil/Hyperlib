@@ -230,3 +230,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Auto Claim Gold", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Claim%20Gold135.lua", "https://scriptblox.com/script/DOORS-Auto-Claim-Gold-11114")
                                     
+    addscriptexist(6516141723, "mspaint best", "Uploaded by Saulgoodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mspaint%20best268.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-mspaint-best-19076")
+                                    
