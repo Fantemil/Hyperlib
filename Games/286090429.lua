@@ -274,3 +274,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Mysploit", "Uploaded by LitSobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mysploit920.lua", "https://scriptblox.com/script/Arsenal-Mysploit-14267")
                                     
+    addscriptexist(286090429, "ARSNAL MOBILE SCRIPTS", "Uploaded by Nxuw_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARSNAL%20MOBILE%20SCRIPTS127.lua", "https://scriptblox.com/script/Arsenal-ARSNAL-MOBILE-SCRIPTS-19088")
+                                    

@@ -348,3 +348,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Baldy to sorcerer USE SAITAMA", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baldy%20to%20sorcerer%20USE%20SAITAMA717.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Baldy-to-sorcerer-USE-SAITAMA-19083")
                                     
+    addscriptexist(10449761463, "TSB AIMBOT AUTOCOMBO SAITAMA GAROU GENOS AND MORE", "Uploaded by BronzeScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20AIMBOT%20AUTOCOMBO%20SAITAMA%20GAROU%20GENOS%20AND%20MORE673.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-AIMBOT-AUTOCOMBO-SAITAMA-GAROU-GENOS-AND-MORE-19089")
+                                    
