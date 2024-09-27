@@ -226,3 +226,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Vinq Wink Hub", "Uploaded by vinq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vinq%20Wink%20Hub513.lua", "https://scriptblox.com/script/Slap-Battles-Vinq-Wink-19075")
                                     
+    addscriptexist(6403373529, "GoldEx v1 0", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20v1%20053.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-GoldEx-v1-0-19115")
+                                    

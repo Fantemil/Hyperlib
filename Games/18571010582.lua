@@ -1,2 +1,4 @@
 
     addscript(18571010582, "Current Game","Free Gamepass No Cd And More", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Gamepass%20No%20Cd%20And%20More155.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Free-Gamepass-No-Cd-And-More-19092")
+    addscriptexist(18571010582, "Admin Panel", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel4.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Admin-Panel-19114")
+                                    
