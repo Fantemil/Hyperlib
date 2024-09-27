@@ -12,3 +12,5 @@ addscriptexist(4913581664, "Game Script", "Uploaded by Malique on scriptblox.com
                                     
     addscriptexist(4913581664, "Rdite V96", "Uploaded by AMADBarwary999 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rdite%20V96795.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Rdite-V96-12831")
                                     
+    addscriptexist(4913581664, "Rdite Script", "Uploaded by D1amond on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rdite%20Script899.lua", "https://scriptblox.com/script/Cart-Ride-Into-Rdite!-Rdite-Script-19079")
+                                    

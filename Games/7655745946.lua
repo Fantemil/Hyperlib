@@ -30,3 +30,5 @@ addscriptexist(7655745946, "infinite Spins", "Uploaded by evi1z on scriptblox.co
                                     
     addscriptexist(7655745946, "INF Daily spins", "Uploaded by FaussaireBTB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Daily%20spins763.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-INF-Daily-spins-17830")
                                     
+    addscriptexist(7655745946, "rice hub", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rice%20hub791.lua", "https://scriptblox.com/script/2x-Dunking-Simulator-rice-hub-19080")
+                                    
