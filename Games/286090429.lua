@@ -276,3 +276,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "ARSNAL MOBILE SCRIPTS", "Uploaded by Nxuw_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARSNAL%20MOBILE%20SCRIPTS127.lua", "https://scriptblox.com/script/Arsenal-ARSNAL-MOBILE-SCRIPTS-19088")
                                     
+    addscriptexist(286090429, "Onetap NO BAN", "Uploaded by kunakbaevaidar26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onetap%20NO%20BAN533.lua", "https://scriptblox.com/script/Arsenal-Onetap-NO-BAN-19091")
+                                    

@@ -350,3 +350,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "TSB AIMBOT AUTOCOMBO SAITAMA GAROU GENOS AND MORE", "Uploaded by BronzeScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20AIMBOT%20AUTOCOMBO%20SAITAMA%20GAROU%20GENOS%20AND%20MORE673.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-AIMBOT-AUTOCOMBO-SAITAMA-GAROU-GENOS-AND-MORE-19089")
                                     
+    addscriptexist(10449761463, "Baldy Saitama to True Nosakatan UPDATE", "Uploaded by caseoh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baldy%20Saitama%20to%20True%20Nosakatan%20UPDATE137.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Baldy-Saitama-to-True-Nosakatan-UPDATE-19094")
+                                    
