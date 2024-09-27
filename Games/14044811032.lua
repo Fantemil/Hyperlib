@@ -1,0 +1,2 @@
+
+    addscript(14044811032, "Current Game","Free Cid Character", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Cid%20Character661.lua", "https://scriptblox.com/script/MAHITO-Universal-Battlegrounds-Free-Cid-Character-19117")
