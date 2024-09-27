@@ -8,3 +8,5 @@
                                     
     addscriptexist(17698425045, "roxide Hub", "Uploaded by 42Hrz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roxide%20Hub321.lua", "https://scriptblox.com/script/NEW-OP-STYLES-fight-in-a-school-roxide-Hub-15460")
                                     
+    addscriptexist(17698425045, "Fis OP SCRIPT", "Uploaded by 2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fis%20OP%20SCRIPT376.lua", "https://scriptblox.com/script/EMOTES-fight-in-a-school-Fis-OP-SCRIPT-19127")
+                                    

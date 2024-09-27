@@ -1346,3 +1346,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Zen Next Gen", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zen%20Next%20Gen808.lua", "https://scriptblox.com/script/Blox-Fruits-Zen-Next-Gen-19027")
                                     
+    addscriptexist(2753915549, "OP God Hub Nova Auto Farm Auto Fruit Melhor Script", "Uploaded by niimbow on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20God%20Hub%20Nova%20Auto%20Farm%20Auto%20Fruit%20Melhor%20Script954.lua", "https://scriptblox.com/script/Blox-Fruits-OP-God-Hub-Nova-Auto-Farm-Auto-Fruit-Melhor-Script-19125")
+                                    

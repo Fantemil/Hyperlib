@@ -1,0 +1,2 @@
+
+    addscript(18648507486, "Current Game","Free Kj", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Kj936.lua", "https://scriptblox.com/script/Gojo-Vs-Sukuna-Ability-Test-Free-Kj-19129")
