@@ -14,3 +14,5 @@
                                     
     addscriptexist(12135640403, "SCRIPT KILL AURA OP pvp boss inf and more", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20KILL%20AURA%20OP%20pvp%20boss%20inf%20and%20more623.lua", "https://scriptblox.com/script/NEW-SEASSIONAnime-Dungeon-Fighters-SCRIPT-KILL-AURA-OP-pvp-boss-inf-and-more-19067")
                                     
+    addscriptexist(12135640403, "INSTA KILL OP KILL AURA AND MORE", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTA%20KILL%20OP%20KILL%20AURA%20AND%20MORE612.lua", "https://scriptblox.com/script/NEW-FRUITAnime-Dungeon-Fighters-INSTA-KILL-OP-KILL-AURA-AND-MORE-19095")
+                                    
