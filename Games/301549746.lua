@@ -80,3 +80,5 @@ addscriptexist(301549746, "Enableware", "Uploaded by kitten on scriptblox.com", 
                                     
     addscriptexist(301549746, "Sirex Ware v3 Fix", "Uploaded by randomdude101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirex%20Ware%20v3%20Fix443.lua", "https://scriptblox.com/script/Counter-Blox-Sirex-Ware-v3-Fix-11840")
                                     
+    addscriptexist(301549746, "script changer wave synapse z rebel support", "Uploaded by vampire on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20changer%20wave%20synapse%20z%20rebel%20support697.lua", "https://scriptblox.com/script/Counter-Blox-script-changer-wave-synapse-z-rebel-support-19109")
+                                    
