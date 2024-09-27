@@ -248,3 +248,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "OP solara executor all", "Uploaded by KING_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20solara%20executor%20all395.lua", "https://scriptblox.com/script/Brookhaven-RP-OP-solara-executor-all-14840")
                                     
+    addscriptexist(4924922222, "Music Player", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Music%20Player568.lua", "https://scriptblox.com/script/Brookhaven-RP-Music-Player-19084")
+                                    

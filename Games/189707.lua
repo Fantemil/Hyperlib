@@ -84,3 +84,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "N D Hub", "Uploaded by THE_VSHUNT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/N%20D%20Hub335.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Hub-13642")
                                     
+    addscriptexist(189707, "Zephyr V2 N4tural D1saster SurvivaI", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20V2%20N4tural%20D1saster%20SurvivaI728.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Zephyr-V2-N4tural-D1saster-SurvivaI-19085")
+                                    

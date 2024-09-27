@@ -12,3 +12,5 @@
                                     
     addscriptexist(17679933883, "Op script Inf Cash Inf Spins Inf Gems Rain Blocks and More", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20Inf%20Cash%20Inf%20Spins%20Inf%20Gems%20Rain%20Blocks%20and%20More763.lua", "https://scriptblox.com/script/Merge-for-DIAMONDS!-Op-script-Inf-Cash-Inf-Spins-Inf-Gems-Rain-Blocks-and-More-17944")
                                     
+    addscriptexist(17679933883, "infinite gems and cash", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20gems%20and%20cash95.lua", "https://scriptblox.com/script/Merge-for-DIAMONDS!-infinite-gems-and-cash-19087")
+                                    

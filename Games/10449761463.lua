@@ -344,3 +344,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Kadehub for", "Uploaded by lazoyeison13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kadehub%20for649.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Kadehub-for-19064")
                                     
+    addscriptexist(10449761463, "new phantasm", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/new%20phantasm540.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-new-phantasm-19082")
+                                    
+    addscriptexist(10449761463, "Baldy to sorcerer USE SAITAMA", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Baldy%20to%20sorcerer%20USE%20SAITAMA717.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Baldy-to-sorcerer-USE-SAITAMA-19083")
+                                    
