@@ -24,3 +24,5 @@ addscriptexist(8260276694, "OP Script", "Uploaded by Fumo on scriptblox.com", "h
                                     
     addscriptexist(8260276694, "Auto Farm players", "Uploaded by ozgurqqqppp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20players285.lua", "https://scriptblox.com/script/UPDATE-Ability-Wars-Auto-Farm-players-15822")
                                     
+    addscriptexist(8260276694, "tester hub unfinished combat bot V2", "Uploaded by Tester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/tester%20hub%20unfinished%20combat%20bot%20V2312.lua", "https://scriptblox.com/script/UPDATE-Ability-Wars-tester-hub-unfinished-combat-bot-V2-19180")
+                                    

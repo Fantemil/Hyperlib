@@ -228,3 +228,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "GoldEx v1 0", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20v1%20053.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-GoldEx-v1-0-19115")
                                     
+    addscriptexist(6403373529, "Incognito Hub V1", "Uploaded by lukajijavadzebrawl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Incognito%20Hub%20V1176.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-Incognito-Hub-V1-19185")
+                                    
