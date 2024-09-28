@@ -278,3 +278,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Onetap NO BAN", "Uploaded by kunakbaevaidar26 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Onetap%20NO%20BAN533.lua", "https://scriptblox.com/script/Arsenal-Onetap-NO-BAN-19091")
                                     
+    addscriptexist(286090429, "lizzy ware", "Uploaded by Andrewtorresjn1981 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lizzy%20ware192.lua", "https://scriptblox.com/script/Arsenal-lizzy-ware-19143")
+                                    
