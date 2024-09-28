@@ -6,3 +6,5 @@ addscriptexist(7211666966, "autarm", "Uploaded by poggersman42424 on scriptblox.
                                     
     addscriptexist(7211666966, "Auto win the game", "Uploaded by Jamjam0139 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20win%20the%20game860.lua", "https://scriptblox.com/script/Tower-of-Jump-FREE-HALOS-Auto-win-the-game-14586")
                                     
+    addscriptexist(7211666966, "Auto Farm Script", "Uploaded by pikqq0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Script643.lua", "https://scriptblox.com/script/Tower-of-Jump-FREE-HALOS-Auto-Farm-Script-19189")
+                                    
