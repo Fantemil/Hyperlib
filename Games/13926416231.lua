@@ -10,3 +10,5 @@
                                     
     addscriptexist(13926416231, "Infinite Potions and Auto All", "Uploaded by enchanted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Potions%20and%20Auto%20All216.lua", "https://scriptblox.com/script/Duck-Army!-Infinite-Potions-and-Auto-All-18983")
                                     
+    addscriptexist(13926416231, "Updated For Alien World", "Uploaded by enchanted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated%20For%20Alien%20World557.lua", "https://scriptblox.com/script/UPD-Duck-Army!-Updated-For-Alien-World-19216")
+                                    
