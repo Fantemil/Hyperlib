@@ -1,0 +1,1 @@
+https://discord.gg/mRehYBt7R5 JOIN IT FOR THE SCRIPT AND ALOT MORE!

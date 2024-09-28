@@ -62,3 +62,5 @@ addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonw
                                     
     addscriptexist(6447798030, "Fire Hub Synapse Z or Mobile ONLY", "Uploaded by InfernusScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fire%20Hub%20Synapse%20Z%20or%20Mobile%20ONLY516.lua", "https://scriptblox.com/script/Funky-Friday-Fire-Hub-18850")
                                     
+    addscriptexist(6447798030, "OP    SCRIPT", "Uploaded by chaseortrevor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20%20SCRIPT452.lua", "https://scriptblox.com/script/Funky-Friday-OP-SCRIPT-19137")
+                                    

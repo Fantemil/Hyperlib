@@ -86,3 +86,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "FLY OPEN SUCE", "Uploaded by ethanlapez33 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FLY%20OPEN%20SUCE300.lua", "https://scriptblox.com/script/a-literal-baseplate.-FLY-OPEN-SUCE-19124")
                                     
+    addscriptexist(4483381587, "BEST CHT BYPSSER", "Uploaded by gioo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20CHT%20BYPSSER896.lua", "https://scriptblox.com/script/a-literal-baseplate.-BEST-CHT-BYPSSER-19136")
+                                    
