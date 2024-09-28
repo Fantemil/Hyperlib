@@ -1350,3 +1350,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Fruts Auto Bounty hunting", "Uploaded by castellanosjose2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruts%20Auto%20Bounty%20hunting658.lua", "https://scriptblox.com/script/Blox-Fruits-fruts-19131")
                                     
+    addscriptexist(2753915549, "RitsHub", "Uploaded by likomskkah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RitsHub518.lua", "https://scriptblox.com/script/Blox-Fruits-RitsHub-19172")
+                                    

@@ -282,3 +282,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "ScytheSploits Updated", "Uploaded by powerscripts9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSploits%20Updated276.lua", "https://scriptblox.com/script/Arsenal-ScytheSploits-Updated-19150")
                                     
+    addscriptexist(286090429, "Sun hub V2 Beta", "Uploaded by SunnyLua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sun%20hub%20V2%20Beta787.lua", "https://scriptblox.com/script/Arsenal-Sun-hub-V2-Beta-19169")
+                                    

@@ -146,3 +146,5 @@
                                     
     addscriptexist(17625359962, "Loud Menu Works on Solara", "Uploaded by FPK_Ceifador on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loud%20Menu%20Works%20on%20Solara286.lua", "https://scriptblox.com/script/RIVALS-Loud-Menu-19081")
                                     
+    addscriptexist(17625359962, "Tbao Hub SCRIPT OP", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20Hub%20SCRIPT%20OP570.lua", "https://scriptblox.com/script/RIVALS-Tbao-Hub-SCRIPT-OP-19172")
+                                    
