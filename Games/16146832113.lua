@@ -24,3 +24,5 @@
                                     
     addscriptexist(16146832113, "Auto Farm", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm959.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-Auto-Farm-19134")
                                     
+    addscriptexist(16146832113, "LAITHUB AUTOFARM GEMS PARAGON AND MORE", "Uploaded by likomskkah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LAITHUB%20AUTOFARM%20GEMS%20PARAGON%20AND%20MORE625.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-LAITHUB-AUTOFARM-GEMS-PARAGON-AND-MORE-19166")
+                                    
