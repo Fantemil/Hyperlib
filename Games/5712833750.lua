@@ -24,3 +24,5 @@ addscriptexist(5712833750, "Auto Level n Coin and more", "Uploaded by KhSaeed90 
                                     
     addscriptexist(5712833750, "Dynamic hub Animal", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dynamic%20hub%20Animal887.lua", "https://scriptblox.com/script/Animal-Simulator-Dynamic-hub-ANIMAL-NATURAL-DISASTERS-12799")
                                     
+    addscriptexist(5712833750, "Script Brasileiro ETHUS", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Brasileiro%20ETHUS260.lua", "https://scriptblox.com/script/Animal-Simulator-Script-Brasileiro-ETHUS-19140")
+                                    
