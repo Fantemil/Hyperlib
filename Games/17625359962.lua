@@ -148,3 +148,5 @@
                                     
     addscriptexist(17625359962, "Tbao Hub SCRIPT OP", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20Hub%20SCRIPT%20OP570.lua", "https://scriptblox.com/script/RIVALS-Tbao-Hub-SCRIPT-OP-19172")
                                     
+    addscriptexist(17625359962, "BEST  SCRIPT UNDETECTED AUTOFARM WALLABANG 100 WIN", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20SCRIPT%20UNDETECTED%20AUTOFARM%20WALLABANG%20100%20WIN279.lua", "https://scriptblox.com/script/RIVALS-Incomparable-cheat-19197")
+                                    
