@@ -22,3 +22,5 @@
                                     
     addscriptexist(16146832113, "BEST FREE MACRO AUTO PLAY", "Uploaded by Berkay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FREE%20MACRO%20AUTO%20PLAY996.lua", "https://scriptblox.com/script/RELEASE-Anime-Vanguards-BEST-FREE-MACRO-AUTO-PLAY-18050")
                                     
+    addscriptexist(16146832113, "Auto Farm", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm959.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-Auto-Farm-19134")
+                                    
