@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OrzScript/GoldEx/refs/heads/main/GoldEx_v1.0_RACE_CLICKER.txt",true))()

@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerGui.Interface.Main.adminFrame.Visible = true

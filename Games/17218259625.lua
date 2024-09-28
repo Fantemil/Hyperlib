@@ -12,3 +12,5 @@
                                     
     addscriptexist(17218259625, "Free admin", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20admin804.lua", "https://scriptblox.com/script/Who's-the-Spy-UPDATE-Free-admin-17635")
                                     
+    addscriptexist(17218259625, "admin panel", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20panel430.lua", "https://scriptblox.com/script/Who's-the-Spy-UPDATE-admin-panel-19204")
+                                    

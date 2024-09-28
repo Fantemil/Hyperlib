@@ -20,3 +20,5 @@ addscriptexist(5985232436, "Op script", "Uploaded by Icyscythe on scriptblox.com
                                     
     addscriptexist(5985232436, "Scripts from Minion", "Uploaded by ScriptsfromMinion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts%20from%20Minion975.lua", "https://scriptblox.com/script/Infectious-Smile-Scripts-from-Minion-11617")
                                     
+    addscriptexist(5985232436, "Zephyr lnfectious Smil3", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20lnfectious%20Smil3856.lua", "https://scriptblox.com/script/Infectious-Smile-Zephyr-lnfectious-Smil3-19207")
+                                    
