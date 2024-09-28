@@ -38,3 +38,5 @@ addscriptexist(3260590327, "AUTOFARM Militant Scout Farm", "Uploaded by Piesek_Z
                                     
     addscriptexist(3260590327, "Script TDS", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20TDS481.lua", "https://scriptblox.com/script/CROOKS-Tower-Defense-Simulator-Script-TDS-10593")
                                     
+    addscriptexist(3260590327, "New Op TDS Script", "Uploaded by BlindingLight on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Op%20TDS%20Script762.lua", "https://scriptblox.com/script/BOSS-REWORK-Tower-Defense-Simulator-New-Op-TDS-Script-19155")
+                                    
