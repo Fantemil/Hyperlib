@@ -1,0 +1,2 @@
+
+    addscript(120797319068429, "Current Game","Inf coin and gem toraisme", "Uploaded by Saulgoodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20coin%20and%20gem%20toraisme693.lua", "https://scriptblox.com/script/MAKE-EVERYONE-BALD-TYCOON-HARDCORE-Inf-coin-and-gem-toraisme-19190")

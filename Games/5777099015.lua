@@ -4,3 +4,5 @@ addscript(5777099015, "Current Game","Instant Win n Collect and more", "Uploaded
                                     
     addscriptexist(5777099015, "Get All Cheez", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Cheez764.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-Get-All-14180")
                                     
+    addscriptexist(5777099015, "open src all executors supported", "Uploaded by pianino2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/open%20src%20all%20executors%20supported456.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-open-src-all-executors-supported-19188")
+                                    
