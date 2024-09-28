@@ -356,3 +356,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Custom moveset script", "Uploaded by doyouknowsugma1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20moveset%20script645.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Custom-moveset-script-19141")
                                     
+    addscriptexist(10449761463, "CUSTOM GOJO MOVESET NEW", "Uploaded by doyouknowsugma1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CUSTOM%20GOJO%20MOVESET%20NEW876.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-CUSTOM-GOJO-MOVESET-NEW-19149")
+                                    

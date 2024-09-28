@@ -280,3 +280,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "lizzy ware", "Uploaded by Andrewtorresjn1981 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lizzy%20ware192.lua", "https://scriptblox.com/script/Arsenal-lizzy-ware-19143")
                                     
+    addscriptexist(286090429, "ScytheSploits Updated", "Uploaded by powerscripts9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSploits%20Updated276.lua", "https://scriptblox.com/script/Arsenal-ScytheSploits-Updated-19150")
+                                    
