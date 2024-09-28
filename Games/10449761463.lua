@@ -360,3 +360,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Reaper Custom Moveset", "Uploaded by OneToothEditsEnjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Custom%20Moveset922.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Reaper-Custom-Moveset-19196")
                                     
+    addscriptexist(10449761463, "Saitama to Deku Custom Moveset", "Uploaded by OneToothEditsEnjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saitama%20to%20Deku%20Custom%20Moveset419.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Saitama-to-Deku-Custom-Moveset-19211")
+                                    
+    addscriptexist(10449761463, "Hero Hunter to Kung Fu Panda Custom Moveset", "Uploaded by OneToothEditsEnjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hero%20Hunter%20to%20Kung%20Fu%20Panda%20Custom%20Moveset454.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Hero-Hunter-to-Kung-Fu-Panda-Custom-Moveset-19212")
+                                    

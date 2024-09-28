@@ -38,3 +38,5 @@
                                     
     addscriptexist(14518422161, "Hitbox Expanders", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20Expanders1.lua", "https://scriptblox.com/script/Gunfight-Arena-Hitbox-Expanders-11213")
                                     
+    addscriptexist(14518422161, "Get any weapon Camo changer etc", "Uploaded by h8h8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20weapon%20Camo%20changer%20etc130.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-Get-any-weapon-Camo-changer-etc-19210")
+                                    
