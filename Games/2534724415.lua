@@ -30,3 +30,5 @@ addscriptexist(2534724415, "Vehicle speed Multiplier", "Uploaded by yarikku05 on
                                     
     addscriptexist(2534724415, "OP erlc hub", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20erlc%20hub559.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-OP-erlc-hub-17305")
                                     
+    addscriptexist(2534724415, "Erlc OP Script", "Uploaded by 2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Erlc%20OP%20Script158.lua", "https://scriptblox.com/script/1B-Emergency-Response:-Liberty-County-Erlc-OP-Script-19214")
+                                    

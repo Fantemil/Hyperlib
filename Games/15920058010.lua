@@ -1,0 +1,2 @@
+
+    addscript(15920058010, "Current Game","no fall damage open source", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20fall%20damage%20open%20source505.lua", "https://scriptblox.com/script/FREE-TEST-Sorcery-no-fall-damage-open-source-19213")
