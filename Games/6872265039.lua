@@ -174,3 +174,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Script SOLARA", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20SOLARA436.lua", "https://scriptblox.com/script/BedWars-TOURNAMENTS!-Script-SOLARA-19066")
                                     
+    addscriptexist(6872265039, "solara supported", "Uploaded by dieuking9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/solara%20supported709.lua", "https://scriptblox.com/script/BedWars-ROYALE-solara-supported-19303")
+                                    

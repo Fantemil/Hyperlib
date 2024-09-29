@@ -120,3 +120,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "RBScr1pts HUB  Top 1 working on Solara", "Uploaded by kxaxs777 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBScr1pts%20HUB%20%20Top%201%20working%20on%20Solara887.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-RBScr1pts-HUB-Top-1-working-on-Solara-16016")
                                     
+    addscriptexist(1537690962, "Collects the gold egg for you", "Uploaded by masig4727 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collects%20the%20gold%20egg%20for%20you165.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Collects-the-gold-egg-in-for-u-19300")
+                                    
