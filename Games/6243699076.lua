@@ -6,3 +6,5 @@ addscriptexist(6243699076, "Ken   New script", "Uploaded by ScriptNoKeys on scri
                                 
     addscriptexist(6243699076, "TTJY Hub", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTJY%20Hub793.lua", "https://scriptblox.com/script/The-Mimic-TTJY-Hub-15581")
                                     
+    addscriptexist(6243699076, "Neuron X OP", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neuron%20X%20OP628.lua", "https://scriptblox.com/script/The-Mimic-Neuron-X-OP-19234")
+                                    

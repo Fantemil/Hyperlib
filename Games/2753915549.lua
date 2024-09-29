@@ -1356,3 +1356,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Redz Hub 21 New Dark", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%2021%20New%20Dark870.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-21-New-Dark-19232")
                                     
+    addscriptexist(2753915549, "Min v4 Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20v4%20Hub11.lua", "https://scriptblox.com/script/Blox-Fruits-Min-v4-Hub-19235")
+                                    
