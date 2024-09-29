@@ -80,3 +80,5 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                     
     addscriptexist(12355337193, "Hitbox OP", "Uploaded by cyhyhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20OP828.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Hitbox-OP-19110")
                                     
+    addscriptexist(12355337193, "OP Hitbox Select Type Hitbox", "Uploaded by cyhyhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Hitbox%20Select%20Type%20Hitbox447.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-OP-Hitbox-Select-Type-Hitbox-19239")
+                                    

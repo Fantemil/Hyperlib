@@ -10,3 +10,5 @@ addscript(7540891731, "Current Game"," Light  Light OutlawsHub OP Script", "Uplo
                                     
     addscriptexist(7540891731, "Updated", "Uploaded by SumitScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Updated472.lua", "https://scriptblox.com/script/Red-Light-Green-Light-(FIX)-Updated-10874")
                                     
+    addscriptexist(7540891731, "No Key", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Key933.lua", "https://scriptblox.com/script/Red-Light-Green-Light-(FIX)-No-Key-19242")
+                                    
