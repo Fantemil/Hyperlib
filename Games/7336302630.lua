@@ -6,3 +6,5 @@ addscript(7336302630, "Current Game","octohook", "Uploaded by sigma on scriptblo
                                     
     addscriptexist(7336302630, "Silent Aim OPEN SOURCE", "Uploaded by Linemaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20OPEN%20SOURCE75.lua", "https://scriptblox.com/script/Project-Delta-Silent-Aim-OPEN-SOURCE-15922")
                                     
+    addscriptexist(7336302630, "BBC", "Uploaded by Trollmebelle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BBC881.lua", "https://scriptblox.com/script/Project-Delta-BBC-19251")
+                                    

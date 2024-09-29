@@ -1364,3 +1364,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Cyan Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyan%20Hub373.lua", "https://scriptblox.com/script/Blox-Fruits-Cyan-Hub-19250")
                                     
+    addscriptexist(2753915549, "ROSCRIPTS FRUTS", "Uploaded by castellanosjose2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROSCRIPTS%20FRUTS825.lua", "https://scriptblox.com/script/Blox-Fruits-ROSCRIPTS-FRUTS-19252")
+                                    
+    addscriptexist(2753915549, "Rits Hub FREE", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rits%20Hub%20FREE482.lua", "https://scriptblox.com/script/Blox-Fruits-Rits-Hub-FREE-19255")
+                                    

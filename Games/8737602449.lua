@@ -62,3 +62,5 @@ addscriptexist(8737602449, "Nuke Donation ClientSided not ServerSided", "Uploade
                                     
     addscriptexist(8737602449, "Brookhaven", "Uploaded by saisthersnito on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhaven14.lua", "https://scriptblox.com/script/PLS-DONATE-Brookhaven-19022")
                                     
+    addscriptexist(8737602449, "show the admin button", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/show%20the%20admin%20button464.lua", "https://scriptblox.com/script/PLS-DONATE-admin-spoof-19250")
+                                    
