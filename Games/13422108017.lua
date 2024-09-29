@@ -1,0 +1,2 @@
+
+    addscript(13422108017, "Current Game","hub2 no gui", "Uploaded by Basic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hub2%20no%20gui193.lua", "https://scriptblox.com/script/Find-The-Button-hub2-no-gui-19224")

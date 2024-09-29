@@ -152,3 +152,5 @@
                                     
     addscriptexist(17625359962, "RYBOWE HUB OP ANTI KATANA AIM BOT AND MORE", "Uploaded by rybowe_hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20OP%20ANTI%20KATANA%20AIM%20BOT%20AND%20MORE827.lua", "https://scriptblox.com/script/RIVALS-RYBOWE-HUB-OP-ANTI-KATANA-AIM-BOT-AND-MORE-19206")
                                     
+    addscriptexist(17625359962, "Vanta Hub I OP", "Uploaded by gaba4801 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanta%20Hub%20I%20OP546.lua", "https://scriptblox.com/script/RIVALS-Vanta-Hub-I-OP-19223")
+                                    
