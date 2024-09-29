@@ -1,0 +1,2 @@
+
+    addscript(15498824034, "Current Game","DevilsAdvocate hub", "Uploaded by Devilsadvocate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevilsAdvocate%20hub449.lua", "https://scriptblox.com/script/KIDSMY-WIFE-LEFT-ME-TYCOON-DevilsAdvocate-hub-19287")
