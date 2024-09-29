@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Violettian/KrettivianHub/main/Krettivian%20Peroxide"))()

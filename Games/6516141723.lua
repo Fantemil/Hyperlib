@@ -236,3 +236,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "POV You are seek", "Uploaded by HELP_ME_2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POV%20You%20are%20seek747.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-POV-You-are-seek-19222")
                                     
+    addscriptexist(6516141723, "Auto Skip  Levels", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Skip%20%20Levels977.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Auto-Skip-Levels-19251")
+                                    

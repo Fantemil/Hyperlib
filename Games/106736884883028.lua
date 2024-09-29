@@ -1,0 +1,2 @@
+
+    addscript(106736884883028, "Current Game","Simple Auto Break", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Auto%20Break125.lua", "https://scriptblox.com/script/NEW-Pet-World-Simple-Auto-Break-19251")

