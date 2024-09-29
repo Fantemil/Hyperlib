@@ -1,0 +1,2 @@
+
+    addscript(18415912675, "Current Game","script oo script keyless", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20oo%20script%20keyless447.lua", "https://scriptblox.com/script/CHECK-DESCRIPTION-script-oo-script-keyless-19265")

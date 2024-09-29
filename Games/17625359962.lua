@@ -154,3 +154,5 @@
                                     
     addscriptexist(17625359962, "Vanta Hub I OP", "Uploaded by gaba4801 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanta%20Hub%20I%20OP546.lua", "https://scriptblox.com/script/RIVALS-Vanta-Hub-I-OP-19223")
                                     
+    addscriptexist(17625359962, "Op  Script no key", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20Script%20no%20key81.lua", "https://scriptblox.com/script/RIVALS-Op-Script-no-key-19262")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGe("https://raw.githubusercontent.com/Kaitofyp/-City-RNG-RELEASE-/refs/heads/main/Op%20script"))()
