@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rluac/JannHub/refs/heads/main/awloader.lua"))()

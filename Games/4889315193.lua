@@ -30,3 +30,5 @@ addscriptexist(4889315193, "R3TH PRIV", "Uploaded by kayshawn on scriptblox.com"
                                     
     addscriptexist(4889315193, "Camp Map Script5890", "Uploaded by justatmeasthis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Map%20Script5890579.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Camp-Map-Script-10558")
                                     
+    addscriptexist(4889315193, "Jann Hub I OLD UI", "Uploaded by jackyes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jann%20Hub%20I%20OLD%20UI586.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Jann-Hub-I-OLD-UI-19298")
+                                    

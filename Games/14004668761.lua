@@ -22,3 +22,5 @@
                                     
     addscriptexist(14004668761, "NEW AC RF BYPASS WITH OP FEATURES", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20AC%20RF%20BYPASS%20WITH%20OP%20FEATURES885.lua", "https://scriptblox.com/script/Real-Futbol-24-NEW-AC-RF-BYPASS-WITH-OP-FEATURES-19046")
                                     
+    addscriptexist(14004668761, "NEW AC BYPASS with OP features RF", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20AC%20BYPASS%20with%20OP%20features%20RF699.lua", "https://scriptblox.com/script/Real-Futbol-24-NEW-AC-BYPASS-with-OP-features-RF-19293")
+                                    
