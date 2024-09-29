@@ -1,0 +1,2 @@
+
+    addscript(14445323372, "Current Game","KJ", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ67.lua", "https://scriptblox.com/script/Omni-Battlegrounds-KJ-19313")

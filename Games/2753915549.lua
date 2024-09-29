@@ -1370,3 +1370,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Desierto", "Uploaded by Wiezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Desierto254.lua", "https://scriptblox.com/script/Blox-Fruits-Desierto-19272")
                                     
+    addscriptexist(2753915549, "Lobu Hub", "Uploaded by Wiezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lobu%20Hub325.lua", "https://scriptblox.com/script/Blox-Fruits-Lobu-Hub-19312")
+                                    
