@@ -366,3 +366,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Nosakatan script", "Uploaded by donavinkenthodrick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nosakatan%20script535.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Nosakatan-script-19218")
                                     
+    addscriptexist(10449761463, "Support all executor pc and mobile", "Uploaded by crzykairo0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20all%20executor%20pc%20and%20mobile108.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Support-all-executor-pc-and-mobile-19223")
+                                    
