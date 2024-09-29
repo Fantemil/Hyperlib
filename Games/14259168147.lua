@@ -24,3 +24,5 @@ addscriptexist(14259168147, "auto Greener", "Uploaded by carnshipxvi13 on script
                                     
     addscriptexist(14259168147, "Obf Hub", "Uploaded by ilyyAlex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obf%20Hub55.lua", "https://scriptblox.com/script/2X-Basketball-Legends-Obf-Hub-13831")
                                     
+    addscriptexist(14259168147, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED907.lua", "https://scriptblox.com/script/2X-Basketball-Legends-Basket-Ball-SOLARA-SUPPORTED-19310")
+                                    

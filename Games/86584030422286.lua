@@ -4,3 +4,5 @@
                                     
     addscriptexist(86584030422286, "FREE AUTO CUT", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20AUTO%20CUT718.lua", "https://scriptblox.com/script/Death-Row-FREE-AUTO-CUT-18552")
                                     
+    addscriptexist(86584030422286, "Auto cut", "Uploaded by AWLOID on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20cut604.lua", "https://scriptblox.com/script/Death-Row-Auto-cut-19308")
+                                    

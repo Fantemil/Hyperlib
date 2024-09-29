@@ -56,3 +56,5 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                     
     addscriptexist(8204899140, "Saturn FF Keyless open src", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Saturn%20FF%20Keyless%20open%20src24.lua", "https://scriptblox.com/script/Football-Fusion-2-Saturn-FF-Keyless-open-src-19305")
                                     
+    addscriptexist(8204899140, "BypasserFF Open Src", "Uploaded by BypasserDEVELOPER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BypasserFF%20Open%20Src927.lua", "https://scriptblox.com/script/Football-Fusion-2-BypasserFF-Open-Src-19309")
+                                    
