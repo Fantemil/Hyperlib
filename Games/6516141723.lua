@@ -234,3 +234,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "ICRAFTPE HUB", "Uploaded by Not_omega0megaq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ICRAFTPE%20HUB204.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-ICRAFTPE-HUB-19218")
                                     
+    addscriptexist(6516141723, "POV You are seek", "Uploaded by HELP_ME_2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POV%20You%20are%20seek747.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-POV-You-are-seek-19222")
+                                    

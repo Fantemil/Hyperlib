@@ -1,0 +1,2 @@
+
+    addscript(18504047639, "Current Game","hub", "Uploaded by Basic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hub802.lua", "https://scriptblox.com/script/Find-Buttons!-hub-19217")
