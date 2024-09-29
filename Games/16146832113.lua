@@ -28,3 +28,5 @@
                                     
     addscriptexist(16146832113, "AutoFarm Paragon Raids Gems", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Paragon%20Raids%20Gems537.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-AutoFarm-Paragon-Raids-Gems-19181")
                                     
+    addscriptexist(16146832113, "AUTOFARM RILSAGUI", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOFARM%20RILSAGUI962.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-AUTOFARM-RILSAGUI-19281")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(18957391914, "Current Game","OP Best  Script", "Uploaded by ArquiveHacks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Best%20%20Script653.lua", "https://scriptblox.com/script/UV-LAMP!-The-Skinwalker-OP-Best-Script-19277")

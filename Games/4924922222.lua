@@ -250,3 +250,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Music Player", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Music%20Player568.lua", "https://scriptblox.com/script/Brookhaven-RP-Music-Player-19084")
                                     
+    addscriptexist(4924922222, "TELEPORT", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TELEPORT847.lua", "https://scriptblox.com/script/Brookhaven-RP-TELEPORT-19275")
+                                    

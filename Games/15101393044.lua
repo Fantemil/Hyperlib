@@ -8,3 +8,5 @@
                                     
     addscriptexist(15101393044, "DTI Classic Event", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DTI%20Classic%20Event349.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-Classic-Event-13308")
                                     
+    addscriptexist(15101393044, "ggle Raindow Skin", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ggle%20Raindow%20Skin527.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-ggle-Raindow-Skin-19271")
+                                    

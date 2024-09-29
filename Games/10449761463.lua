@@ -370,3 +370,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Gojo Reverse Curse Technique", "Uploaded by ijustanewbie22 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Reverse%20Curse%20Technique492.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Reverse-Curse-Technique-19230")
                                     
+    addscriptexist(10449761463, "GOJO V2 SCRIPT     HOLLOW PURPLE REVERSAL RED NUKE", "Uploaded by BronzeScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOJO%20V2%20SCRIPT%20%20%20%20%20HOLLOW%20PURPLE%20REVERSAL%20RED%20NUKE816.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-GOJO-V2-SCRIPT-HOLLOW-PURPLE-REVERSAL-RED-NUKE-19270")
+                                    
