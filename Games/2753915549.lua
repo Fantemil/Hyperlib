@@ -1352,3 +1352,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "RitsHub", "Uploaded by likomskkah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RitsHub518.lua", "https://scriptblox.com/script/Blox-Fruits-RitsHub-19172")
                                     
+    addscriptexist(2753915549, "SCRIPT OP", "Uploaded by gioo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20OP273.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-OP-19227")
+                                    
+    addscriptexist(2753915549, "Redz Hub 21 New Dark", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%2021%20New%20Dark870.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-21-New-Dark-19232")
+                                    

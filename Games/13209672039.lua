@@ -6,3 +6,5 @@
                                     
     addscriptexist(13209672039, "INSTANT AUTOFARM inf money kinda  SOURCE", "Uploaded by typzero_SVK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20AUTOFARM%20inf%20money%20kinda%20%20SOURCE168.lua", "https://scriptblox.com/script/(beta)-papers-pls-INSTANT-AUTOFARM-inf-money-kinda-SOURCE-12572")
                                     
+    addscriptexist(13209672039, "Inf money", "Uploaded by MRSCRIPT5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money609.lua", "https://scriptblox.com/script/(beta)-papers-pls-Inf-money-19228")
+                                    

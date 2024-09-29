@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/giogio11223/bloxfruit/refs/heads/main/giodidnotmakethis",true))()

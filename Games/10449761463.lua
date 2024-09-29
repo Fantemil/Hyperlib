@@ -368,3 +368,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Support all executor pc and mobile", "Uploaded by crzykairo0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20all%20executor%20pc%20and%20mobile108.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Support-all-executor-pc-and-mobile-19223")
                                     
+    addscriptexist(10449761463, "Gojo Reverse Curse Technique", "Uploaded by ijustanewbie22 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Reverse%20Curse%20Technique492.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Reverse-Curse-Technique-19230")
+                                    

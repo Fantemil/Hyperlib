@@ -286,3 +286,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Tiger admin v3 more cmds", "Uploaded by Hekzmmm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20admin%20v3%20more%20cmds478.lua", "https://scriptblox.com/script/Prison-Life-Tiger-admin-v3-more-cmds-17446")
                                     
+    addscriptexist(155615604, "Corgiware Script Gui With Over 30 Features", "Uploaded by CorgiScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Corgiware%20Script%20Gui%20With%20Over%2030%20Features970.lua", "https://scriptblox.com/script/Prison-Life-Corgiware-Script-Gui-With-Over-30-Features-19230")
+                                    
