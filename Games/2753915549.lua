@@ -1360,3 +1360,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Min Blue Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Min%20Blue%20Hub640.lua", "https://scriptblox.com/script/Blox-Fruits-Min-Blue-Hub-19238")
                                     
+    addscriptexist(2753915549, "Teach Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teach%20Hub517.lua", "https://scriptblox.com/script/Blox-Fruits-Teach-Hub-19249")
+                                    
+    addscriptexist(2753915549, "Cyan Hub", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cyan%20Hub373.lua", "https://scriptblox.com/script/Blox-Fruits-Cyan-Hub-19250")
+                                    
