@@ -40,3 +40,5 @@
                                     
     addscriptexist(14518422161, "Get any weapon Camo changer etc", "Uploaded by h8h8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20weapon%20Camo%20changer%20etc130.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-Get-any-weapon-Camo-changer-etc-19210")
                                     
+    addscriptexist(14518422161, "Script request", "Uploaded by sklbldi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request647.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-Script-request-19255")
+                                    
