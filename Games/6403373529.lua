@@ -232,3 +232,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Glitch Glove V2", "Uploaded by lukajijavadzebrawl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glitch%20Glove%20V2302.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-Glitch-Glove-V2-19188")
                                     
+    addscriptexist(6403373529, "Free Radio", "Uploaded by lukajijavadzebrawl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Radio237.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-Free-Radio-19283")
+                                    

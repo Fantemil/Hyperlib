@@ -156,3 +156,5 @@
                                     
     addscriptexist(17625359962, "Op  Script no key", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20Script%20no%20key81.lua", "https://scriptblox.com/script/RIVALS-Op-Script-no-key-19262")
                                     
+    addscriptexist(17625359962, "Aim Bot Tracers", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Bot%20Tracers727.lua", "https://scriptblox.com/script/RIVALS-Aim-Bot-Tracers-19281")
+                                    

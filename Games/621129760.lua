@@ -52,3 +52,5 @@ addscriptexist(621129760, "Crate Teleporter", "Uploaded by Partner on scriptblox
                                     
     addscriptexist(621129760, "Knife Ability test silentaim", "Uploaded by VardyScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Ability%20test%20silentaim967.lua", "https://scriptblox.com/script/KAT-silentaim-16624")
                                     
+    addscriptexist(621129760, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED568.lua", "https://scriptblox.com/script/KAT-SOLARA-SUPPORTED-19286")
+                                    

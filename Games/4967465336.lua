@@ -8,3 +8,5 @@ addscriptexist(4967465336, "OP GET ALL ADDON FOR FREE Copy the script before i d
                                     
     addscriptexist(4967465336, "infinite health script", "Uploaded by xyzzr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20health%20script369.lua", "https://scriptblox.com/script/Ray's-Mod-*e-15669")
                                     
+    addscriptexist(4967465336, "Get free all addons Edit", "Uploaded by LPHFN44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20free%20all%20addons%20Edit918.lua", "https://scriptblox.com/script/Ray's-Mod-Get-free-all-addons-19282")
+                                    
