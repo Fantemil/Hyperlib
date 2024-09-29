@@ -4,3 +4,5 @@
                                     
     addscriptexist(17262338236, "DevilsAdvocate hub", "Uploaded by Devilsadvocate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevilsAdvocate%20hub0.lua", "https://scriptblox.com/script/Wordie-DevilsAdvocate-hub-19209")
                                     
+    addscriptexist(17262338236, "OP AUTO WIN", "Uploaded by Seasonal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20WIN919.lua", "https://scriptblox.com/script/Wordie-OP-AUTO-WIN-19221")
+                                    

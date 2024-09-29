@@ -1,0 +1,2 @@
+
+    addscript(124365102176251, "Current Game","Obtain Badges", "Uploaded by kevinmitnickhkr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obtain%20Badges55.lua", "https://scriptblox.com/script/Survive-MALEVOLENT-SUKUNA-NEW-PLAYER-ENDING-Obtain-Badges-19217")

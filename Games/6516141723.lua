@@ -232,3 +232,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "mspaint best", "Uploaded by Saulgoodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mspaint%20best268.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-mspaint-best-19076")
                                     
+    addscriptexist(6516141723, "ICRAFTPE HUB", "Uploaded by Not_omega0megaq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ICRAFTPE%20HUB204.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-ICRAFTPE-HUB-19218")
+                                    
