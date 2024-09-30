@@ -1,0 +1,2 @@
+
+    addscript(12264058682, "Current Game","DevilsAdvocate hub", "Uploaded by Devilsadvocate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DevilsAdvocate%20hub811.lua", "https://scriptblox.com/script/GO-TO-JAIL-AND-MAKE-FRIENDS-TO-ESCAPE-tycoon-DevilsAdvocate-hub-19328")
