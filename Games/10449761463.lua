@@ -374,3 +374,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Auto Kill Player", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kill%20Player87.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-l-19333")
                                     
+    addscriptexist(10449761463, "SUKUNA SCRIPT OP", "Uploaded by doyouknowsugma1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUKUNA%20SCRIPT%20OP274.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-SUKUNA-SCRIPT-OP-19355")
+                                    
+    addscriptexist(10449761463, "Gojo Moveset Super OP", "Uploaded by doyouknowsugma1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Moveset%20Super%20OP557.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Moveset-Super-OP-19351")
+                                    
