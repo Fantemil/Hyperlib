@@ -1,0 +1,2 @@
+
+    addscript(101815021327418, "Current Game","godmode script", "Uploaded by s*twest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/godmode%20script971.lua", "https://scriptblox.com/script/Survive-100-Days-on-a-Desert-Island-godmode-script-19325")
