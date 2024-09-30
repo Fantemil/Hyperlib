@@ -44,3 +44,5 @@
                                     
     addscriptexist(14518422161, "Op   script Free", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20%20script%20Free0.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-Op-script-Free-19259")
                                     
+    addscriptexist(14518422161, "AimBot EspPlayer InfJump", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimBot%20EspPlayer%20InfJump713.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-AimBot-EspPlayer-InfJump-19367")
+                                    

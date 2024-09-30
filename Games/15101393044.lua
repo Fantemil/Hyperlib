@@ -10,3 +10,5 @@
                                     
     addscriptexist(15101393044, "ggle Raindow Skin", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ggle%20Raindow%20Skin527.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-ggle-Raindow-Skin-19271")
                                     
+    addscriptexist(15101393044, "Free Vip Au Farm Au Cash", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Vip%20Au%20Farm%20Au%20Cash517.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-Free-Vip-Au-Farm-Au-Cash-19366")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(10235499475, "Current Game","Script", "Uploaded by D1amond on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script25.lua", "https://scriptblox.com/script/Cart-Ride-Fun-Script-19364")

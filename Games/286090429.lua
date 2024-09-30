@@ -286,3 +286,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Op  script silent aim", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20script%20silent%20aim50.lua", "https://scriptblox.com/script/Arsenal-Op-script-silent-aim-19341")
                                     
+    addscriptexist(286090429, "Esp Fly Infinite jump", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20Fly%20Infinite%20jump946.lua", "https://scriptblox.com/script/Arsenal-Esp-Fly-Infinite-jump-19363")
+                                    
