@@ -140,3 +140,5 @@
                                     
     addscriptexist(8737899170, "Cheat Menu", "Uploaded by 6Foot4Honda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheat%20Menu717.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Cheat-Menu-17428")
                                     
+    addscriptexist(8737899170, "ZapHub The Best PS99 Script Elemental World", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20PS99%20Script%20Elemental%20World644.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZapHub-The-Best-PS99-Script-Elemental-World-19321")
+                                    
