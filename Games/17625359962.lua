@@ -158,3 +158,5 @@
                                     
     addscriptexist(17625359962, "Aim Bot Tracers", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Bot%20Tracers727.lua", "https://scriptblox.com/script/RIVALS-Aim-Bot-Tracers-19281")
                                     
+    addscriptexist(17625359962, "Loud Menu 100 RATE WALLBANG FLY AUTOFARM BEST SCRIPT", "Uploaded by FPK_Ceifador on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loud%20Menu%20100%20RATE%20WALLBANG%20FLY%20AUTOFARM%20BEST%20SCRIPT225.lua", "https://scriptblox.com/script/RIVALS-Loud-Menu-100-RATE-WALLBANG-FLY-AUTOFARM-BEST-SCRIPT-19333")
+                                    

@@ -252,3 +252,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "TELEPORT", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TELEPORT847.lua", "https://scriptblox.com/script/Brookhaven-RP-TELEPORT-19275")
                                     
+    addscriptexist(4924922222, "Fire Hand and Lag Server", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fire%20Hand%20and%20Lag%20Server405.lua", "https://scriptblox.com/script/Brookhaven-RP-Fire-Hand-and-Lag-Server-19335")
+                                    

@@ -242,3 +242,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Game Enhancer", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Enhancer530.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Game-Enhancer-19323")
                                     
+    addscriptexist(6516141723, "Mspaint v2", "Uploaded by San1na on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mspaint%20v2498.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Mspaint-v2-19338")
+                                    

@@ -372,3 +372,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "GOJO V2 SCRIPT     HOLLOW PURPLE REVERSAL RED NUKE", "Uploaded by BronzeScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOJO%20V2%20SCRIPT%20%20%20%20%20HOLLOW%20PURPLE%20REVERSAL%20RED%20NUKE816.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-GOJO-V2-SCRIPT-HOLLOW-PURPLE-REVERSAL-RED-NUKE-19270")
                                     
+    addscriptexist(10449761463, "Auto Kill Player", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Kill%20Player87.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-l-19333")
+                                    
