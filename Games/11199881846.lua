@@ -1,0 +1,2 @@
+
+    addscript(11199881846, "Current Game","loopkill all", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loopkill%20all336.lua", "https://scriptblox.com/script/+1-Win-Roblox-RBX-Glass-Path-Get-Robox-loopkill-all-19314")
