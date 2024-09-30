@@ -284,3 +284,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Sun hub V2 Beta", "Uploaded by SunnyLua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sun%20hub%20V2%20Beta787.lua", "https://scriptblox.com/script/Arsenal-Sun-hub-V2-Beta-19169")
                                     
+    addscriptexist(286090429, "Op  script silent aim", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20script%20silent%20aim50.lua", "https://scriptblox.com/script/Arsenal-Op-script-silent-aim-19341")
+                                    
