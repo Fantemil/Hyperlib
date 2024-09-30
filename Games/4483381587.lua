@@ -94,3 +94,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "UNC TEST", "Uploaded by BypasserDEVELOPER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNC%20TEST78.lua", "https://scriptblox.com/script/a-literal-baseplate.-UNC-TEST-19309")
                                     
+    addscriptexist(4483381587, "MUTIPLE GME OP SCRIPT other script like cht byps nd more", "Uploaded by gioo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MUTIPLE%20GME%20OP%20SCRIPT%20other%20script%20like%20cht%20byps%20nd%20more779.lua", "https://scriptblox.com/script/a-literal-baseplate.-MUTIPLE-GME-OP-SCRIPT-other-script-like-cht-byps-nd-more-19318")
+                                    
