@@ -240,3 +240,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Op  script keyless", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20script%20keyless602.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Op-script-keyless-19261")
                                     
+    addscriptexist(6516141723, "Game Enhancer", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Enhancer530.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Game-Enhancer-19323")
+                                    
