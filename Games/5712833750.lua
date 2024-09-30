@@ -26,3 +26,5 @@ addscriptexist(5712833750, "Auto Level n Coin and more", "Uploaded by KhSaeed90 
                                     
     addscriptexist(5712833750, "Script Brasileiro ETHUS", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Brasileiro%20ETHUS260.lua", "https://scriptblox.com/script/Animal-Simulator-Script-Brasileiro-ETHUS-19140")
                                     
+    addscriptexist(5712833750, "LT FRUITS", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LT%20FRUITS71.lua", "https://scriptblox.com/script/Animal-Simulator-LT-FRUITS-19315")
+                                    

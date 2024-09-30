@@ -316,3 +316,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "Auto Farm and More", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20More666.lua", "https://scriptblox.com/script/Murder-Mystery-2-Auto-Farm-and-More-11895")
                                     
+    addscriptexist(142823291, "Starry OP Best Script Hub SOLARA SUPPORTED", "Uploaded by Suno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starry%20OP%20Best%20Script%20Hub%20SOLARA%20SUPPORTED262.lua", "https://scriptblox.com/script/Murder-Mystery-2-Starry-MM-OP-Best-Script-Hub-SOLARA-SUPPORTED-19315")
+                                    

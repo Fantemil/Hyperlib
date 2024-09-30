@@ -1,0 +1,2 @@
+
+    addscript(17454683451, "Current Game","script", "Uploaded by Blanker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script353.lua", "https://scriptblox.com/script/Marvel-Tycoon-script-19316")
