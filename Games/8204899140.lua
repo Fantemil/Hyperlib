@@ -58,3 +58,5 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                     
     addscriptexist(8204899140, "BypasserFF Open Src", "Uploaded by BypasserDEVELOPER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BypasserFF%20Open%20Src927.lua", "https://scriptblox.com/script/Football-Fusion-2-BypasserFF-Open-Src-19309")
                                     
+    addscriptexist(8204899140, "ff script", "Uploaded by xyas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ff%20script148.lua", "https://scriptblox.com/script/Football-Fusion-2-ff-script-19371")
+                                    
