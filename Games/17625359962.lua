@@ -162,3 +162,5 @@
                                     
     addscriptexist(17625359962, "best ri vals script", "Uploaded by gioo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20ri%20vals%20script511.lua", "https://scriptblox.com/script/RIVALS-best-ri-vals-script-19372")
                                     
+    addscriptexist(17625359962, "RYBOWE HUB THE BEST OP AIM BOT ANTI KATANA AND MORE", "Uploaded by rybowe_hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20THE%20BEST%20OP%20AIM%20BOT%20ANTI%20KATANA%20AND%20MORE895.lua", "https://scriptblox.com/script/RIVALS-RYBOWE-HUB-THE-BEST-OP-AIM-BOT-ANTI-KATANA-AND-MORE-19379")
+                                    
