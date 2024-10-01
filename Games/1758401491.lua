@@ -4,3 +4,5 @@
                                     
     addscriptexist(1758401491, "Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub646.lua", "https://scriptblox.com/script/Public-Bathroom-Simulator-Budgie-Hub-10621")
                                     
+    addscriptexist(1758401491, "Adonis Anti Cheat Bypass", "Uploaded by AndroScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Adonis%20Anti%20Cheat%20Bypass923.lua", "https://scriptblox.com/script/Public-Bathroom-Simulator-Adonis-Anti-Cheat-Bypass-19376")
+                                    
