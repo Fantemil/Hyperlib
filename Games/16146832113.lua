@@ -34,3 +34,5 @@
                                     
     addscriptexist(16146832113, "paragon raids boss farm all", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/paragon%20raids%20boss%20farm%20all626.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-paragon-raids-boss-farm-all-19405")
                                     
+    addscriptexist(16146832113, "solara supported scripts", "Uploaded by dieuking9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/solara%20supported%20scripts453.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-solara-supported-scripts-19421")
+                                    
