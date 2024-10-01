@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeavyHub/HeavyHubTSBG/refs/heads/main/HeavyHubTSBG"))()

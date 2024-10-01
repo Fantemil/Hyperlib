@@ -378,3 +378,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Gojo Moveset Super OP", "Uploaded by doyouknowsugma1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Moveset%20Super%20OP557.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Moveset-Super-OP-19351")
                                     
+    addscriptexist(10449761463, "TSBG Op Gojo And Auto Farm Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSBG%20Op%20Gojo%20And%20Auto%20Farm%20Script480.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSBG-Op-Gojo-And-Auto-Farm-Script-19403")
+                                    

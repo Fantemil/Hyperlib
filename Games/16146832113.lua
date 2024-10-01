@@ -32,3 +32,5 @@
                                     
     addscriptexist(16146832113, "Macro RECORD Auto PLAY Gems FARM UNITS DUPE", "Uploaded by Lazium on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Macro%20RECORD%20Auto%20PLAY%20Gems%20FARM%20UNITS%20DUPE152.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-Macro-RECORD-Auto-PLAY-Gems-FARM-UNITS-DUPE-19384")
                                     
+    addscriptexist(16146832113, "paragon raids boss farm all", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/paragon%20raids%20boss%20farm%20all626.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-paragon-raids-boss-farm-all-19405")
+                                    

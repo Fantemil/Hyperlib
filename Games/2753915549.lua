@@ -1378,3 +1378,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Hutao v2", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hutao%20v2581.lua", "https://scriptblox.com/script/Blox-Fruits-Hutao-v2-19389")
                                     
+    addscriptexist(2753915549, "farm gui", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farm%20gui187.lua", "https://scriptblox.com/script/Blox-Fruits-gui-19406")
+                                    
