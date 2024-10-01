@@ -1376,3 +1376,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto Farm Lvl and Auto Set S Point", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Lvl%20and%20Auto%20Set%20S%20Point285.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Lvl-and-Auto-Set-S*-Point-19353")
                                     
+    addscriptexist(2753915549, "Hutao v2", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hutao%20v2581.lua", "https://scriptblox.com/script/Blox-Fruits-Hutao-v2-19389")
+                                    
