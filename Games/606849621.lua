@@ -142,3 +142,5 @@ addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblo
                                     
     addscriptexist(606849621, "simple script Solara Support", "Uploaded by Kryl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20script%20Solara%20Support662.lua", "https://scriptblox.com/script/Jailbreak-Simple-script-Solara-Support-14337")
                                     
+    addscriptexist(606849621, "Teleport Mobile Script", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20Mobile%20Script776.lua", "https://scriptblox.com/script/Jailbreak-Teleport-Mobile-Script-19400")
+                                    

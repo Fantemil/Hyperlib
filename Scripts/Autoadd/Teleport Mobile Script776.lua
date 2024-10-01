@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Lufixxx/HUB2/refs/heads/main/Jailbreak.txt'))()
