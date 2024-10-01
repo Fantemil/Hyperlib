@@ -4,3 +4,5 @@ addscript(391104146, "Current Game","LPI Kick Ban Delete Anything GUI", "Uploade
                                     
     addscriptexist(391104146, "LPI GUI", "Uploaded by NIGG_ER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LPI%20GUI926.lua", "https://scriptblox.com/script/Let's-Partyinfinity-+Gear-Testing-EditionREAD-THE-DESC-LPI-GUI-12922")
                                     
+    addscriptexist(391104146, "ClodyScript", "Uploaded by jesenbasten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ClodyScript351.lua", "https://scriptblox.com/script/Let's-Partyinfinity-+Gear-Testing-EditionREAD-THE-DESC-ClodyScript-19385")
+                                    
