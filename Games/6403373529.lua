@@ -234,3 +234,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Free Radio", "Uploaded by lukajijavadzebrawl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Radio237.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-Free-Radio-19283")
                                     
+    addscriptexist(6403373529, "Lag gui   credit Caomod", "Uploaded by Saulgoodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20gui%20%20%20credit%20Caomod205.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-Lag-gui-credit-Caomod-19381")
+                                    
