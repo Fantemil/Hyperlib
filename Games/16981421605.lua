@@ -12,3 +12,5 @@
                                     
     addscriptexist(16981421605, "XenonHUB Work Solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XenonHUB%20Work%20Solara220.lua", "https://scriptblox.com/script/2x-EVENT-Reborn-As-Swordsman-XenonHUB-Work-Solara-18024")
                                     
+    addscriptexist(16981421605, "Event Auto Farm And More", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Event%20Auto%20Farm%20And%20More799.lua", "https://scriptblox.com/script/Reborn-As-Swordsman-Event-Auto-Farm-And-More-19412")
+                                    

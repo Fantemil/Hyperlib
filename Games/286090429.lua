@@ -288,3 +288,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Esp Fly Infinite jump", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20Fly%20Infinite%20jump946.lua", "https://scriptblox.com/script/Arsenal-Esp-Fly-Infinite-jump-19363")
                                     
+    addscriptexist(286090429, "Champange X", "Uploaded by zxeno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Champange%20X190.lua", "https://scriptblox.com/script/Arsenal-Champange-X-19413")
+                                    

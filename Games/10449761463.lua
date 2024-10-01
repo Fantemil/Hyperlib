@@ -382,3 +382,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Cool gojo script I found", "Uploaded by doyouknowsugma1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cool%20gojo%20script%20I%20found698.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Cool-gojo-script-I-found-19410")
                                     
+    addscriptexist(10449761463, "Aimbot Walkspeed", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20Walkspeed184.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Aimbot-Walkspeed-19415")
+                                    
