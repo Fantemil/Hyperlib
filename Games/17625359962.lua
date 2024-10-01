@@ -164,3 +164,5 @@
                                     
     addscriptexist(17625359962, "RYBOWE HUB THE BEST OP AIM BOT ANTI KATANA AND MORE", "Uploaded by rybowe_hub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20THE%20BEST%20OP%20AIM%20BOT%20ANTI%20KATANA%20AND%20MORE895.lua", "https://scriptblox.com/script/RIVALS-RYBOWE-HUB-THE-BEST-OP-AIM-BOT-ANTI-KATANA-AND-MORE-19379")
                                     
+    addscriptexist(17625359962, "Aimbot and Wall Check", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20and%20Wall%20Check902.lua", "https://scriptblox.com/script/RIVALS-Aimbot-and-Wall-Check-19392")
+                                    

@@ -26,3 +26,5 @@ addscriptexist(2768379856, "AutoBuild SCP3008", "Uploaded by MrXrer on rscripts.
                                     
     addscriptexist(2768379856, "Keyless SCP  script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyless%20SCP%20%20script277.lua", "https://scriptblox.com/script/3008-2.73-Keyless-SCP-script-19343")
                                     
+    addscriptexist(2768379856, "Admin commands", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20commands437.lua", "https://scriptblox.com/script/3008-2.73-Admin-commands-19394")
+                                    

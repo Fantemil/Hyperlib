@@ -8,3 +8,5 @@
                                     
     addscriptexist(16116270224, "OP Script I Reuploading", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script%20I%20Reuploading451.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-OP-Script-I-Reuploading-19052")
                                     
+    addscriptexist(16116270224, "ESP and Item Aura", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20and%20Item%20Aura745.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-ESP-and-Item-Aura-19393")
+                                    

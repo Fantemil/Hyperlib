@@ -12,3 +12,5 @@
                                     
     addscriptexist(15101393044, "Free Vip Au Farm Au Cash", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Vip%20Au%20Farm%20Au%20Cash517.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-Free-Vip-Au-Farm-Au-Cash-19366")
                                     
+    addscriptexist(15101393044, "dti IDs recommended 18 plus", "Uploaded by Sakura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dti%20IDs%20recommended%2018%20plus926.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-dti-IDs-recommended-18-plus-19395")
+                                    
