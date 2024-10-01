@@ -14,3 +14,5 @@
                                     
     addscriptexist(15135285305, "Skibidi fanum tax rizzler", "Uploaded by SederYTTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20fanum%20tax%20rizzler236.lua", "https://scriptblox.com/script/GEF-UPDATE-Skibidi-fanum-tax-rizzler-12834")
                                     
+    addscriptexist(15135285305, "hub reupd", "Uploaded by Basic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hub%20reupd306.lua", "https://scriptblox.com/script/GEF-hub-19371")
+                                    
