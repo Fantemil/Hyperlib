@@ -1380,3 +1380,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "farm gui", "Uploaded by lioke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farm%20gui187.lua", "https://scriptblox.com/script/Blox-Fruits-gui-19406")
                                     
+    addscriptexist(2753915549, "Synet Hub  Fruit", "Uploaded by ItOnltz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Synet%20Hub%20%20Fruit743.lua", "https://scriptblox.com/script/Blox-Fruits-Synet-Hub-Fruit-19406")
+                                    
