@@ -96,3 +96,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "MUTIPLE GME OP SCRIPT other script like cht byps nd more", "Uploaded by gioo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MUTIPLE%20GME%20OP%20SCRIPT%20other%20script%20like%20cht%20byps%20nd%20more779.lua", "https://scriptblox.com/script/a-literal-baseplate.-MUTIPLE-GME-OP-SCRIPT-other-script-like-cht-byps-nd-more-19318")
                                     
+    addscriptexist(4483381587, "Universl Inf Money", "Uploaded by Leak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universl%20Inf%20Money944.lua", "https://scriptblox.com/script/a-literal-baseplate.-Universl-Inf-Money-19418")
+                                    
