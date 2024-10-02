@@ -1382,3 +1382,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Synet Hub  Fruit", "Uploaded by ItOnltz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Synet%20Hub%20%20Fruit743.lua", "https://scriptblox.com/script/Blox-Fruits-Synet-Hub-Fruit-19406")
                                     
+    addscriptexist(2753915549, "Kings Hub BF", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kings%20Hub%20BF969.lua", "https://scriptblox.com/script/Blox-Fruits-Kings-Hub-BF-19426")
+                                    
+    addscriptexist(2753915549, "Laser HUB OP Auto Farm", "Uploaded by Laser3282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Laser%20HUB%20OP%20Auto%20Farm666.lua", "https://scriptblox.com/script/Blox-Fruits-Laser-HUB-OP-Auto-Farm-19425")
+                                    

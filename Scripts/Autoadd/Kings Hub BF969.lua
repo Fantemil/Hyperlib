@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kings1282/K-NGHUBF/refs/heads/main/KingsHubBF"))()
