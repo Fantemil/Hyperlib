@@ -42,3 +42,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                     
     addscriptexist(4520749081, "matheuzxs hub FIRST SEA BETA NO KEY", "Uploaded by matheuzxs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/matheuzxs%20hub%20FIRST%20SEA%20BETA%20NO%20KEY614.lua", "https://scriptblox.com/script/UPDATE-6-King-Legacy-matheuzxs-FIRST-SEA-BETA-NO-KEY-18646")
                                     
+    addscriptexist(4520749081, "SCRIPT Matheuzxs Hub", "Uploaded by EThus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20Matheuzxs%20Hub173.lua", "https://scriptblox.com/script/UPDATE-6-King-Legacy-SCRIPT-Matheuzxs-Hub-19427")
+                                    

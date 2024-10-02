@@ -44,3 +44,7 @@ addscriptexist(4623386862, "Peppa script", "Uploaded by DRAGONX on scriptblox.co
                                     
     addscriptexist(4623386862, "Op Script", "Uploaded by Icy_HD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script556.lua", "https://scriptblox.com/script/Piggy-open-source-15390")
                                     
+    addscriptexist(4623386862, "bot auto play script", "Uploaded by katakanamere on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bot%20auto%20play%20script923.lua", "https://scriptblox.com/script/Piggy-BUILD-MODE-UPDATE-bot-auto-play-script-19429")
+                                    
+    addscriptexist(4623386862, "survivor auto play script", "Uploaded by katakanamere on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/survivor%20auto%20play%20script994.lua", "https://scriptblox.com/script/Piggy-BUILD-MODE-UPDATE-survivor-auto-play-script-19430")
+                                    
