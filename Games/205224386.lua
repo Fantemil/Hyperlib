@@ -22,3 +22,5 @@
                                     
     addscriptexist(205224386, "op gui", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20gui610.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-op-gui-12650")
                                     
+    addscriptexist(205224386, "really OP I think", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/really%20OP%20I%20think423.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-sneak-thing-19399")
+                                    
