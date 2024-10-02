@@ -236,3 +236,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Lag gui   credit Caomod", "Uploaded by Saulgoodman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20gui%20%20%20credit%20Caomod205.lua", "https://scriptblox.com/script/MAJORUPDATE-Slap-Battles-Lag-gui-credit-Caomod-19381")
                                     
+    addscriptexist(6403373529, "The Exploder v1 use this in arena", "Uploaded by alihazem201111 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Exploder%20v1%20use%20this%20in%20arena238.lua", "https://scriptblox.com/script/Slap-Battles-The-Exploder-v1-use-this-in-arena-19406")
+                                    
