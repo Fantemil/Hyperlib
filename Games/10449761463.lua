@@ -384,3 +384,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Aimbot Walkspeed", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20Walkspeed184.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Aimbot-Walkspeed-19415")
                                     
+    addscriptexist(10449761463, "Unlock KJ More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20KJ%20More649.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Unlock-KJ-More-19423")
+                                    
+    addscriptexist(10449761463, "SUKUNA moveset Not mine", "Uploaded by LPHFN44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUKUNA%20moveset%20Not%20mine516.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-SUKUNA-moveset-Not-mine-19424")
+                                    
