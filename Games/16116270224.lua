@@ -12,3 +12,5 @@
                                     
     addscriptexist(16116270224, "Neuron X", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neuron%20X243.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-Neuron-X-19400")
                                     
+    addscriptexist(16116270224, "Speed h item Aura ESP", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20h%20item%20Aura%20ESP950.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-Speed-h-item-Aura-ESP-19408")
+                                    

@@ -70,3 +70,5 @@ addscriptexist(1224212277, "City 2 FIX Script", "Uploaded by UBERAX on scriptblo
                                     
     addscriptexist(1224212277, "Auto rob", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rob956.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-Auto-rob-16733")
                                     
+    addscriptexist(1224212277, "OP Script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script735.lua", "https://scriptblox.com/script/Mad-City:-Chapter-2-OP-Script-19404")
+                                    
