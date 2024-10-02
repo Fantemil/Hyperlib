@@ -38,3 +38,5 @@ addscriptexist(6961824067, "Simple Time Left Till Next Spin", "Uploaded by EviIA
                                     
     addscriptexist(6961824067, "Op    Script", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20%20%20Script924.lua", "https://scriptblox.com/script/Fling-Things-and-People-Op-Script-19317")
                                     
+    addscriptexist(6961824067, "NEW", "Uploaded by division on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW326.lua", "https://scriptblox.com/script/Fling-Things-and-People-NEW-19421")
+                                    
