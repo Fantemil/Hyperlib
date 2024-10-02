@@ -238,3 +238,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "The Exploder v1 use this in arena", "Uploaded by alihazem201111 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Exploder%20v1%20use%20this%20in%20arena238.lua", "https://scriptblox.com/script/Slap-Battles-The-Exploder-v1-use-this-in-arena-19406")
                                     
+    addscriptexist(6403373529, "The Best New    OP Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20New%20%20%20%20OP%20Script465.lua", "https://scriptblox.com/script/Slap-Battles-The-Best-New-OP-Script-19406")
+                                    
