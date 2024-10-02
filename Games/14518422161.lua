@@ -46,3 +46,5 @@
                                     
     addscriptexist(14518422161, "AimBot EspPlayer InfJump", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AimBot%20EspPlayer%20InfJump713.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-AimBot-EspPlayer-InfJump-19367")
                                     
+    addscriptexist(14518422161, "Aim Bot Esp Team Check", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Bot%20Esp%20Team%20Check20.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-Aim-Bot-Esp-Team-Check-19399")
+                                    

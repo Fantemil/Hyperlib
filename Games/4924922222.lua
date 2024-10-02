@@ -254,3 +254,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Fire Hand and Lag Server", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fire%20Hand%20and%20Lag%20Server405.lua", "https://scriptblox.com/script/Brookhaven-RP-Fire-Hand-and-Lag-Server-19335")
                                     
+    addscriptexist(4924922222, "Anti Afk WalkSpeed Teleport", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Afk%20WalkSpeed%20Teleport743.lua", "https://scriptblox.com/script/Brookhaven-RP-Anti-Afk-WalkSpeed-Teleport-19403")
+                                    

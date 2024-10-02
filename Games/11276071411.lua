@@ -12,3 +12,5 @@
                                     
     addscriptexist(11276071411, "Free UGC f u guys", "Uploaded by bla22lols on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20UGC%20f%20u%20guys637.lua", "https://scriptblox.com/script/UGC-BE-NPC-OR-DIE!-Free-UGC-f-u-guys-15364")
                                     
+    addscriptexist(11276071411, "OP Script", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script763.lua", "https://scriptblox.com/script/300-Be-NPC-or-DIE!-OP-Script-19401")
+                                    
