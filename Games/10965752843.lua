@@ -1,0 +1,2 @@
+
+    addscript(10965752843, "Current Game","Moyai Locker Game Script", "Uploaded by Emage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moyai%20Locker%20Game%20Script603.lua", "https://scriptblox.com/script/-Moyai-Locker-Game-Script-19412")

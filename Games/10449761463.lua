@@ -392,3 +392,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "I found a person mode KJ fake one not mine", "Uploaded by anthonymelendez267 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/I%20found%20a%20person%20mode%20KJ%20fake%20one%20not%20mine784.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-I-found-a-person-mode-KJ-fake-one-not-mine-19405")
                                     
+    addscriptexist(10449761463, "Even BETTER Sukuna Script", "Uploaded by OneToothEditsEnjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Even%20BETTER%20Sukuna%20Script21.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Even-BETTER-Sukuna-Script-19415")
+                                    
