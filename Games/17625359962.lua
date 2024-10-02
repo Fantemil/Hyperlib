@@ -166,3 +166,7 @@
                                     
     addscriptexist(17625359962, "Aimbot and Wall Check", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20and%20Wall%20Check902.lua", "https://scriptblox.com/script/RIVALS-Aimbot-and-Wall-Check-19392")
                                     
+    addscriptexist(17625359962, "Starfall  BETA", "Uploaded by StarsOne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starfall%20%20BETA288.lua", "https://scriptblox.com/script/RIVALS-Starfall-BETA-19411")
+                                    
+    addscriptexist(17625359962, "BEST SCRIPT UNDETECTABLE ALWAYS WIN", "Uploaded by StarsOne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20UNDETECTABLE%20ALWAYS%20WIN297.lua", "https://scriptblox.com/script/RIVALS-BEST-SCRIPT-UNDETECTABLE-ALWAYS-WIN-19409")
+                                    
