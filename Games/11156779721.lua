@@ -4,3 +4,5 @@ addscriptexist(11156779721, "AUTO PICKUP MINE AURA CHOP AURA", "Uploaded by Cosm
                                 
     addscriptexist(11156779721, "RoskoInf script", "Uploaded by MrWinston on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RoskoInf%20script959.lua", "https://scriptblox.com/script/The-Survival-Game-Atlantis!-RoskoInf-script-17889")
                                     
+    addscriptexist(11156779721, "Code  craft   cracked by  me dr rox on discord", "Uploaded by brainhehehaha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Code%20%20craft%20%20%20cracked%20by%20%20me%20dr%20rox%20on%20discord8.lua", "https://scriptblox.com/script/The-Survival-Game-Code-craft-cracked-by-me-dr-rox-on-discord-19465")
+                                    

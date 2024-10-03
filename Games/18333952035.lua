@@ -1,0 +1,2 @@
+
+    addscript(18333952035, "Current Game","Infinite Coins gems pets spins get on leaderboard and more", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20gems%20pets%20spins%20get%20on%20leaderboard%20and%20more121.lua", "https://scriptblox.com/script/Kai-Cenat-Clickers-Infinite-Rebirths-19466")
