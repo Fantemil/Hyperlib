@@ -1,0 +1,2 @@
+
+    addscript(3376769145, "Current Game","INF stats new op script", "Uploaded by VGDUCKY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20stats%20new%20op%20script427.lua", "https://scriptblox.com/script/FORM-Dragon-Ball-Warriors-INF-stats-new-op-script-19453")
