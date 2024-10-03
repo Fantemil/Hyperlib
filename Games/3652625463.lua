@@ -4,3 +4,5 @@ addscriptexist(3652625463, "Lifting Simulator Binary Hub", "Uploaded by BinaryHu
                                 
     addscriptexist(3652625463, "Script Open Source", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Open%20Source148.lua", "https://scriptblox.com/script/Lifting-Simulator-Script-Open-Source-14360")
                                     
+    addscriptexist(3652625463, "auto farm", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm638.lua", "https://scriptblox.com/script/Lifting-Simulator-auto-farm-19431")
+                                    

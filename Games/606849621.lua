@@ -144,3 +144,7 @@ addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblo
                                     
     addscriptexist(606849621, "Teleport Mobile Script", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20Mobile%20Script776.lua", "https://scriptblox.com/script/Jailbreak-Teleport-Mobile-Script-19400")
                                     
+    addscriptexist(606849621, "Tempcode Autofarm Paid", "Uploaded by tempy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tempcode%20Autofarm%20Paid288.lua", "https://scriptblox.com/script/Jailbreak-Tempcode-Autofarm-Paid-19432")
+                                    
+    addscriptexist(606849621, "Tempcode Autofarm Free", "Uploaded by tempy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tempcode%20Autofarm%20Free609.lua", "https://scriptblox.com/script/Jailbreak-Tempcode-Autofarm-19431")
+                                    
