@@ -1,0 +1,2 @@
+
+    addscript(15133985014, "Current Game","rip reach extender", "Uploaded by noov on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rip%20reach%20extender805.lua", "https://scriptblox.com/script/BETA-Freestyle-Football-rip-reach-extender-19461")
