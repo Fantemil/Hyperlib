@@ -394,3 +394,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Even BETTER Sukuna Script", "Uploaded by OneToothEditsEnjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Even%20BETTER%20Sukuna%20Script21.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Even-BETTER-Sukuna-Script-19415")
                                     
+    addscriptexist(10449761463, "Sukuna Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sukuna%20Moveset542.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Sukuna-Moveset-19470")
+                                    

