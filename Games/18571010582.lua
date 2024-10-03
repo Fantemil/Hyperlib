@@ -4,3 +4,5 @@
                                     
     addscriptexist(18571010582, "REUPLOAD Admin Panel By HuskyOrbit53", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REUPLOAD%20Admin%20Panel%20By%20HuskyOrbit53466.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-REUPLOAD-Admin-Panel-By-HuskyOrbit53-19198")
                                     
+    addscriptexist(18571010582, "Admin panel working again", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20panel%20working%20again926.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Admin-panel-working-again-19439")
+                                    
