@@ -1386,3 +1386,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Laser HUB OP Auto Farm", "Uploaded by Laser3282 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Laser%20HUB%20OP%20Auto%20Farm666.lua", "https://scriptblox.com/script/Blox-Fruits-Laser-HUB-OP-Auto-Farm-19425")
                                     
+    addscriptexist(2753915549, "Croco Hub", "Uploaded by Wiezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Croco%20Hub141.lua", "https://scriptblox.com/script/Blox-Fruits-Croco-Hub-19444")
+                                    
