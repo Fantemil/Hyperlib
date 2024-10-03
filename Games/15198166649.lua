@@ -1,2 +1,4 @@
 
     addscript(15198166649, "Current Game","Hole Script", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hole%20Script556.lua", "https://scriptblox.com/script/The-Hole.-Hole-Script-15231")
+    addscriptexist(15198166649, "infinite coins Tora IsMe", "Uploaded by SuperDuperRokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20coins%20Tora%20IsMe616.lua", "https://scriptblox.com/script/DON'T-GET-ELIMINATED-infinite-coins-Tora-IsMe-19456")
+                                    

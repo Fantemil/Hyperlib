@@ -44,3 +44,5 @@
                                     
     addscriptexist(16389395869, "BCKPCK", "Uploaded by GPUXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BCKPCK524.lua", "https://scriptblox.com/script/a-dusty-trip-BACKPACK-BCKPCK-12794")
                                     
+    addscriptexist(16389395869, "Op    Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20%20%20Script89.lua", "https://scriptblox.com/script/a-dusty-trip-MAZE-Op-Script-19460")
+                                    
