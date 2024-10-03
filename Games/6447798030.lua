@@ -64,3 +64,5 @@ addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonw
                                     
     addscriptexist(6447798030, "OP    SCRIPT", "Uploaded by chaseortrevor on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20%20SCRIPT452.lua", "https://scriptblox.com/script/Funky-Friday-OP-SCRIPT-19137")
                                     
+    addscriptexist(6447798030, "Mobile port made by Fsploit", "Uploaded by Fsploit_new on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20port%20made%20by%20Fsploit150.lua", "https://scriptblox.com/script/Funky-Friday-Mobile-port-made-by-Fsploit-19436")
+                                    
