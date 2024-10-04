@@ -1,0 +1,2 @@
+
+    addscript(14178883155, "Current Game","Admin panel", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20panel22.lua", "https://scriptblox.com/script/(Halloween)Basic-slap-battles-Admin-panel-19493")
