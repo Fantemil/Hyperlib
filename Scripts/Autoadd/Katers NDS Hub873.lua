@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://katerhub-inc.github.io/scripts/game/KH-NDS.lua"))()

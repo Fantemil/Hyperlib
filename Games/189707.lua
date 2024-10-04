@@ -90,3 +90,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "Nds V1", "Uploaded by aabbaaii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nds%20V1589.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Nds-V1-19343")
                                     
+    addscriptexist(189707, "Katers NDS Hub", "Uploaded by Katers_BIG_CAT_MAN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Katers%20NDS%20Hub873.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Katers-NDS-Hub-19533")
+                                    
