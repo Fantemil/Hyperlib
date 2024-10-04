@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xezoeyo/universal/refs/heads/main/universalscriptz.txt", true))()
