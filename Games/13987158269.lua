@@ -4,3 +4,5 @@ addscript(13987158269, "Current Game","SUPER OP CASH DUPE AND MORE", "Uploaded b
                                     
     addscriptexist(13987158269, "Infinite money", "Uploaded by xubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money186.lua", "https://scriptblox.com/script/Impossible-Squid-Game!-Glass-Bridge!-Infinite-money-16045")
                                     
+    addscriptexist(13987158269, "Bridge 2 Script", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bridge%202%20Script740.lua", "https://scriptblox.com/script/Impossible-Squid-Game!-Glass-Bridge!-Game-Bridge-2-Script-19520")
+                                    
