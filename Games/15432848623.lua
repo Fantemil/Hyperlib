@@ -1,2 +1,4 @@
 
     addscript(15432848623, "Current Game","INSTANT UGC", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20UGC10.lua", "https://scriptblox.com/script/Netflix-Nextworld-EARLY-ACCESS-INSTANT-UGC-13123")
+    addscriptexist(15432848623, "Collect all Heart By Tora IsMe", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Collect%20all%20Heart%20By%20Tora%20IsMe755.lua", "https://scriptblox.com/script/Netflix-Nextworld-EARLY-ACCESS-Collect-all-Heart-By-Tora-IsMe-19505")
+                                    

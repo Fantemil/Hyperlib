@@ -1,0 +1,2 @@
+
+    addscript(86847069957175, "Current Game","Inf Money by Tora IsMe", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20by%20Tora%20IsMe675.lua", "https://scriptblox.com/script/SUPER-HERO-EVENTTriathlon-Star-Simulator-Inf-Money-by-Tora-IsMe-19507")

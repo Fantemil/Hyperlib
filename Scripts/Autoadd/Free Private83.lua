@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Passes.PrivateServers.Value=true
