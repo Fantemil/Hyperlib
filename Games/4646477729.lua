@@ -2,3 +2,5 @@
     addscript(4646477729, "Current Game","Auto Skip", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Skip303.lua", "https://scriptblox.com/script/Tower-Heroes-EGG-HUNT-Auto-Skip-11955")
     addscriptexist(4646477729, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2902.lua", "https://scriptblox.com/script/Tower-Heroes-CHRISTMAS-Demonic-HUB-V2-10419")
                                     
+    addscriptexist(4646477729, "Pls request INF money or equip or morph or all badges", "Uploaded by eggg7032 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pls%20request%20INF%20money%20or%20equip%20or%20morph%20or%20all%20badges950.lua", "https://scriptblox.com/script/Tower-Heroes-(UPDATE)-Pls-request-INF-money-or-equip-or-morph-or-all-badges-19478")
+                                    

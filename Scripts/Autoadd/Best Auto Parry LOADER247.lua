@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xezoeyo/bladeball/refs/heads/main/bladeballproject.txt", true))()
