@@ -32,3 +32,5 @@
                                     
     addscriptexist(13379208636, "OP AUTOFARM SCRIPT", "Uploaded by Slynn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20SCRIPT155.lua", "https://scriptblox.com/script/UPDATE-1-Attack-on-Titan-Revolution-OP-AUTOFARM-SCRIPT-14907")
                                     
+    addscriptexist(13379208636, "Tekkit AOTR free premium crack", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tekkit%20AOTR%20free%20premium%20crack66.lua", "https://scriptblox.com/script/Attack-on-Titan-Revolution-Tekkit-AOTR-free-premium-crack-19534")
+                                    

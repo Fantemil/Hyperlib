@@ -1,2 +1,4 @@
 
     addscript(18528820416, "Current Game","Free use admin food and More", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20use%20admin%20food%20and%20More919.lua", "https://scriptblox.com/script/UPD-Toilet-Eating-Simulator-Free-use-admin-food-and-More-18078")
+    addscriptexist(18528820416, "Equip Admin Food", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Equip%20Admin%20Food627.lua", "https://scriptblox.com/script/UPD-Toilet-Eating-Simulator-Equip-Admin-Food-19535")
+                                    
