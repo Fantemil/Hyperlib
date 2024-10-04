@@ -4,3 +4,5 @@
                                     
     addscriptexist(11756036029, "WJH", "Uploaded by Mizuhara on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WJH803.lua", "https://scriptblox.com/script/SOLO-LEVELING-+-3X-Anime-Spirits-Script-19260")
                                     
+    addscriptexist(11756036029, "AUTO FARM LEVEL AND MORE", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20LEVEL%20AND%20MORE8.lua", "https://scriptblox.com/script/ITADORI-FULL-POWER-+-X2-GOLDXP-Anime-Spirits-AUTO-FARM-LEVEL-AND-MORE-19487")
+                                    
