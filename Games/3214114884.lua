@@ -10,3 +10,5 @@ addscriptexist(3214114884, " BYPASSED ANTITELEPORT RETURN NEW Kill All Cash Farm
                                     
     addscriptexist(3214114884, "P3bit by riruru", "Uploaded by greenskyisbad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P3bit%20by%20riruru30.lua", "https://scriptblox.com/script/Flag-Wars!-EVENT-P3bit-by-riruru-19518")
                                     
+    addscriptexist(3214114884, "Open source gun mod", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20source%20gun%20mod36.lua", "https://scriptblox.com/script/Flag-Wars!-EVENT-Open-source-gun-mod-19536")
+                                    
