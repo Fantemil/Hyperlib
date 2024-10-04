@@ -1,2 +1,4 @@
 
     addscript(18415912675, "Current Game","script oo script keyless", "Uploaded by RbxScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20oo%20script%20keyless447.lua", "https://scriptblox.com/script/CHECK-DESCRIPTION-script-oo-script-keyless-19265")
+    addscriptexist(18415912675, "Infinite Coins And Diamonds", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Coins%20And%20Diamonds179.lua", "https://scriptblox.com/script/CHECK-DESCRIPTION-Infinite-Coins-And-Diamonds-19514")
+                                    

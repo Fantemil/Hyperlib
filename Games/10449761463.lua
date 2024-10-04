@@ -396,3 +396,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Sukuna Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sukuna%20Moveset542.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Sukuna-Moveset-19470")
                                     
+    addscriptexist(10449761463, "MODIFIED MAX SPEED SCIRPT", "Uploaded by Invertedth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MODIFIED%20MAX%20SPEED%20SCIRPT911.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-MODIFIED-MAX-SPEED-SCIRPT-19513")
+                                    

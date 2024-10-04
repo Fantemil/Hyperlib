@@ -10,3 +10,5 @@
                                     
     addscriptexist(18571010582, "Free EarlyAccess", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20EarlyAccess292.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Free-EarlyAccess-19481")
                                     
+    addscriptexist(18571010582, "battelground gui", "Uploaded by bibird on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/battelground%20gui106.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Gui-19510")
+                                    
