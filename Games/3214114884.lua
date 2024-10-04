@@ -8,3 +8,5 @@ addscriptexist(3214114884, " BYPASSED ANTITELEPORT RETURN NEW Kill All Cash Farm
                                     
     addscriptexist(3214114884, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2476.lua", "https://scriptblox.com/script/Flag-Wars!-Demonic-HUB-V2-11516")
                                     
+    addscriptexist(3214114884, "P3bit by riruru", "Uploaded by greenskyisbad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P3bit%20by%20riruru30.lua", "https://scriptblox.com/script/Flag-Wars!-EVENT-P3bit-by-riruru-19518")
+                                    

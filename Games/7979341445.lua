@@ -6,3 +6,5 @@
                                     
     addscriptexist(7979341445, "Death Spam", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Death%20Spam990.lua", "https://scriptblox.com/script/Worlds-Hardest-Game-Death-Spam-11509")
                                     
+    addscriptexist(7979341445, "Fails stat giver For Badges", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fails%20stat%20giver%20For%20Badges249.lua", "https://scriptblox.com/script/Worlds-Hardest-Game-Fails-stat-giver-For-Badges-19517")
+                                    

