@@ -56,3 +56,5 @@ addscriptexist(4616652839, "New Shindo Life Script Platinium Hub", "Uploaded by 
                                     
     addscriptexist(4616652839, "Project Nexus SL Hunt", "Uploaded by Dappz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus%20SL%20Hunt427.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-Project-Nexus-SL-Hunt-11331")
                                     
+    addscriptexist(4616652839, "script   inf rellscoin", "Uploaded by *s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20%20%20inf%20rellscoin190.lua", "https://scriptblox.com/script/Shindo-Life-238-script-inf-rellscoin-19540")
+                                    
