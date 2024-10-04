@@ -6,3 +6,7 @@
                                     
     addscriptexist(18571010582, "Admin panel working again", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20panel%20working%20again926.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Admin-panel-working-again-19439")
                                     
+    addscriptexist(18571010582, "NoCooldown ReUpload", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NoCooldown%20ReUpload241.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-NoCooldown-ReUpload-19479")
+                                    
+    addscriptexist(18571010582, "Free EarlyAccess", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20EarlyAccess292.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Free-EarlyAccess-19481")
+                                    

