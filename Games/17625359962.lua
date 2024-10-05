@@ -172,3 +172,5 @@
                                     
     addscriptexist(17625359962, "God Mode NEVER LOSE Very OP   VH1", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/God%20Mode%20NEVER%20LOSE%20Very%20OP%20%20%20VH1550.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-God-Mode-NEVER-LOSE-Very-OP-VH1-19582")
                                     
+    addscriptexist(17625359962, "Alluring HUB", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20HUB356.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Alluring-HUB-19616")
+                                    

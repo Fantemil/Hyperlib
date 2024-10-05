@@ -4,3 +4,5 @@
                                     
     addscriptexist(15327728308, "KEYLESS  Bypasses AC", "Uploaded by ashtonh1102 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KEYLESS%20%20Bypasses%20AC188.lua", "https://scriptblox.com/script/Aftermath-KEYLESS-Bypasses-AC-19007")
                                     
+    addscriptexist(15327728308, "Beta Facility Hub", "Uploaded by FacilityHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Beta%20Facility%20Hub424.lua", "https://scriptblox.com/script/FREE-WEEKEND!-Aftermath-Beta-Facility-Hub-19611")
+                                    
