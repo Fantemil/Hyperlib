@@ -18,3 +18,5 @@ addscriptexist(2413927524, "evolved X", "Uploaded by profressionalgaymer on scri
                                     
     addscriptexist(2413927524, "Pateu hub", "Uploaded by Pateuing on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pateu%20hub86.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-Pateu-hub-19158")
                                     
+    addscriptexist(2413927524, "Zephyr Th3 Rak3", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Th3%20Rak3182.lua", "https://scriptblox.com/script/The-Rake-REMASTERED-Zephyr-Th3-Rak3-19594")
+                                    
