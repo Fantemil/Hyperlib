@@ -40,3 +40,5 @@
                                     
     addscriptexist(17574618959, "fe renim hub v2", "Uploaded by imahuman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20renim%20hub%20v2586.lua", "https://scriptblox.com/script/Just-a-baseplate.-fe-renim-hub-v2-19042")
                                     
+    addscriptexist(17574618959, "Gui clone ht", "Uploaded by Eres on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20clone%20ht563.lua", "https://scriptblox.com/script/Just-a-baseplate.-Gui-cn-clone-hts-on-bseplte-19543")
+                                    
