@@ -1,2 +1,4 @@
 
     addscript(18768679013, "Current Game","XenonHUB Work solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XenonHUB%20Work%20solara833.lua", "https://scriptblox.com/script/Every-Click-+1-Speed-XenonHUB-18024")
+    addscriptexist(18768679013, "Auto Farm And More", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More20.lua", "https://scriptblox.com/script/Every-Click-+1-Speed-Auto-Farm-And-More-19628")
+                                    

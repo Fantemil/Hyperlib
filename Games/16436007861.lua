@@ -14,3 +14,5 @@
                                     
     addscriptexist(16436007861, "Reaper Hub", "Uploaded by ReaperScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Hub629.lua", "https://scriptblox.com/script/Warrior-Simulator-BETA-Reaper-Hub-13208")
                                     
+    addscriptexist(16436007861, "Project Tupo", "Uploaded by Tupo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Tupo347.lua", "https://scriptblox.com/script/UPDWeapon-Warrior-Simulator-Project-Tupo-19630")
+                                    

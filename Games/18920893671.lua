@@ -1,0 +1,2 @@
+
+    addscript(18920893671, "Current Game","Auto Farm Auto Upgrade And More", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Upgrade%20And%20More552.lua", "https://scriptblox.com/script/Mining-Tycoon-Update-2!-Auto-Farm-Auto-Upgrade-And-More-19628")

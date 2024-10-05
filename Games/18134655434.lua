@@ -1,0 +1,2 @@
+
+    addscript(18134655434, "Current Game","Unlock All Item Fast Auto Bos And More", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20All%20Item%20Fast%20Auto%20Bos%20And%20More122.lua", "https://scriptblox.com/script/Strongest-Smacker-Simulator-Unlock-All-Item-Fast-Auto-Bos-And-More-19631")

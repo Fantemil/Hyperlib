@@ -36,3 +36,5 @@
                                     
     addscriptexist(16146832113, "solara supported scripts", "Uploaded by dieuking9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/solara%20supported%20scripts453.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-solara-supported-scripts-19421")
                                     
+    addscriptexist(16146832113, "King Hub NEW OP FARM", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20NEW%20OP%20FARM159.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-King-Hub-NEW-OP-FARM-19634")
+                                    

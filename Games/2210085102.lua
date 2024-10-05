@@ -14,3 +14,5 @@ addscriptexist(2210085102, "GUI supports mobile", "Uploaded by Professional on s
                                     
     addscriptexist(2210085102, "2024 GUI", "Uploaded by Thepunchbag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/2024%20GUI118.lua", "https://scriptblox.com/script/Naval-Warfare-2024-GUI-14237")
                                     
+    addscriptexist(2210085102, "open source aa turret aimbot", "Uploaded by yoooooo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/open%20source%20aa%20turret%20aimbot759.lua", "https://scriptblox.com/script/Naval-Warfare-open-source-aa-turret-aimbot-19633")
+                                    

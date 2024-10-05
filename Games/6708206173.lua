@@ -32,3 +32,5 @@ addscriptexist(6708206173, "Etonameless", "Uploaded by kagenoucid553 on scriptbl
                                     
     addscriptexist(6708206173, "GUI Play Videos  Spam Booth Details  and more", "Uploaded by hellohellohell0123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20Play%20Videos%20%20Spam%20Booth%20Details%20%20and%20more640.lua", "https://scriptblox.com/script/Rate-My-Avatar-GUI-Play-Videos-Spam-Booth-Details-and-more-19326")
                                     
+    addscriptexist(6708206173, "Anti Blacklist in RMA", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Blacklist%20in%20RMA868.lua", "https://scriptblox.com/script/Rate-My-Avatar-Anti-Blacklist-in-RMA-19632")
+                                    
