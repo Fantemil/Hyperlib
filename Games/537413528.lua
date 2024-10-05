@@ -168,3 +168,5 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "utofrm by Govemebn800", "Uploaded by Govemeban800 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/utofrm%20by%20Govemebn800504.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-utofrm-by-Govemebn800-19470")
                                     
+    addscriptexist(537413528, "Bot   Tresure script 2024", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bot%20%20%20Tresure%20script%202024978.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Bot-Tresure-script-2024-19584")
+                                    
