@@ -1,2 +1,4 @@
 
     addscript(18969797783, "Current Game","OP SCRIPT AUTO GET STRONG", "Uploaded by VGDUCKY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20AUTO%20GET%20STRONG775.lua", "https://scriptblox.com/script/GYM-Lifting-Legends-Simulator-OP-SCRIPT-AUTO-GET-STRONG-19549")
+    addscriptexist(18969797783, "inf money", "Uploaded by gaxify on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money180.lua", "https://scriptblox.com/script/GYM-Lifting-Legends-Simulator-inf-money-19574")
+                                    

