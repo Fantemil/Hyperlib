@@ -14,3 +14,5 @@ addscriptexist(4566572536, "OP booster for your car", "Uploaded by carterknutter
                                     
     addscriptexist(4566572536, "RylorHub Autofarm", "Uploaded by xkyxal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RylorHub%20Autofarm444.lua", "https://scriptblox.com/script/APOLLO-Vehicle-Legends-andx1F3CEandxFE0F-CARS!-LynethHub-Autofarm-15921")
                                     
+    addscriptexist(4566572536, "S Any car", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/S%20Any%20car423.lua", "https://scriptblox.com/script/PAGANI-Vehicle-Legends-CARS!-S*-Any-car-19608")
+                                    
