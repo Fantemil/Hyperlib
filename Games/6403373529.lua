@@ -244,3 +244,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Edgelord V1 by Incognito Scripts", "Uploaded by lukajijavadzebrawl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edgelord%20V1%20by%20Incognito%20Scripts277.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Edgelord-V1-by-Incognito-Scripts-19599")
                                     
+    addscriptexist(6403373529, "script Solara support", "Uploaded by hsgwhjgggwhw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20Solara%20support386.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-script-Solara-support-19623")
+                                    

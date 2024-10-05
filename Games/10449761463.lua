@@ -398,3 +398,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "MODIFIED MAX SPEED SCIRPT", "Uploaded by Invertedth on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MODIFIED%20MAX%20SPEED%20SCIRPT911.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-MODIFIED-MAX-SPEED-SCIRPT-19513")
                                     
+    addscriptexist(10449761463, "REAPER moveset by Reap", "Uploaded by donavinkenthodrick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REAPER%20moveset%20by%20Reap829.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-REAPER-moveset-by-Reap-19624")
+                                    

@@ -6,3 +6,5 @@
                                     
     addscriptexist(16280073867, "utoFrm", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/utoFrm691.lua", "https://scriptblox.com/script/Build-A-Bridge-Simulator-utoFrm-13534")
                                     
+    addscriptexist(16280073867, "Project Tupo", "Uploaded by Tupo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Tupo504.lua", "https://scriptblox.com/script/Build-A-Bridge-Simulator-Project-Tupo-19621")
+                                    
