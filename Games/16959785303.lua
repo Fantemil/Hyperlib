@@ -1,0 +1,2 @@
+
+    addscript(16959785303, "Current Game","complete  instant", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/complete%20%20instant880.lua", "https://scriptblox.com/script/Obby-But-You-Have-Bones-complete-instant-19566")
