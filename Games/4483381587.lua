@@ -102,3 +102,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "C00lgui 2024", "Uploaded by S0idkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%202024168.lua", "https://scriptblox.com/script/a-literal-baseplate.-C00lgui-2024-19579")
                                     
+    addscriptexist(4483381587, "Universl Script", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universl%20Script611.lua", "https://scriptblox.com/script/a-literal-baseplate.-Universl-Script-19643")
+                                    

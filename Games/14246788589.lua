@@ -1,0 +1,2 @@
+
+    addscript(14246788589, "Current Game","Inf Coins", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Coins3.lua", "https://scriptblox.com/script/Math-Race-for-ROBOX-Inf-Coins-19641")

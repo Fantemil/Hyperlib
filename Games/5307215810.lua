@@ -8,3 +8,5 @@ addscript(5307215810, "Current Game","infinite ammo", "Uploaded by Walmart on sc
                                     
     addscriptexist(5307215810, "rage bot", "Uploaded by bitdancer123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/rage%20bot295.lua", "https://scriptblox.com/script/Randomizer-UPDATE-rage-bot-17680")
                                     
+    addscriptexist(5307215810, "Rinns Hub", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinns%20Hub937.lua", "https://scriptblox.com/script/Randomizer-UPDATE-Rinns-Hub-19644")
+                                    
