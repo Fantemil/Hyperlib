@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Evade-D8rk-Hub-V2-12956"))()
