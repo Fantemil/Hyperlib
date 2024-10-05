@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Find-Buttons-/refs/heads/main/Op%20script"))()

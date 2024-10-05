@@ -34,3 +34,5 @@ addscript(8712817601, "Current Game","Guard Gamepass n Remove Lava and more", "U
                                     
     addscriptexist(8712817601, "Hidden Shortcut Achivement", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hidden%20Shortcut%20Achivement510.lua", "https://scriptblox.com/script/BARRY'S-PRISON-RUN-V2!-(FIRST-PERSON-OBBY!)-Hidden-Shortcut-Achivement-11964")
                                     
+    addscriptexist(8712817601, "gears and morph for FREE  MADE BY KAITO", "Uploaded by naitshortcagampang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gears%20and%20morph%20for%20FREE%20%20MADE%20BY%20KAITO108.lua", "https://scriptblox.com/script/UPGRADE-BARRY'S-PRISON-RUN!-(OBBY)-Barry-run-FREE-gamepass-MADE-BY-KAITO-19597")
+                                    
