@@ -1392,3 +1392,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Sem Key Keyless", "Uploaded by Hyper8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sem%20Key%20Keyless963.lua", "https://scriptblox.com/script/Blox-Fruits-Sem-Key-Keyless-19596")
                                     
+    addscriptexist(2753915549, "min blue", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/min%20blue652.lua", "https://scriptblox.com/script/Blox-Fruits-min-blue-19602")
+                                    

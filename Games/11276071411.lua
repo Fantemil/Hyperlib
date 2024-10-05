@@ -14,3 +14,5 @@
                                     
     addscriptexist(11276071411, "OP Script", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script763.lua", "https://scriptblox.com/script/300-Be-NPC-or-DIE!-OP-Script-19401")
                                     
+    addscriptexist(11276071411, "D1E", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D1E446.lua", "https://scriptblox.com/script/Be-NPC-or-DIE!-D1E-19604")
+                                    
