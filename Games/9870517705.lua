@@ -6,3 +6,5 @@
                                     
     addscriptexist(9870517705, "Frost Hub the best Script", "Uploaded by FoilWithFood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frost%20Hub%20the%20best%20Script15.lua", "https://scriptblox.com/script/Paradox-RELEASE-Frost-Hub-the-best-Script-19560")
                                     
+    addscriptexist(9870517705, "ConcatHub  Freemium", "Uploaded by Sakuan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ConcatHub%20%20Freemium559.lua", "https://scriptblox.com/script/Paradox-RELEASE-Concat(Hub)-or-Freemium-19636")
+                                    
