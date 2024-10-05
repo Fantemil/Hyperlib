@@ -1394,3 +1394,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "min blue", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/min%20blue652.lua", "https://scriptblox.com/script/Blox-Fruits-min-blue-19602")
                                     
+    addscriptexist(2753915549, "Op New Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20New%20Script659.lua", "https://scriptblox.com/script/Blox-Fruits-Op-New-Script-19647")
+                                    

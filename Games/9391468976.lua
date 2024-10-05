@@ -18,3 +18,5 @@
                                     
     addscriptexist(9391468976, "Frosts Jjs Hub", "Uploaded by FROSTYT_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Frosts%20Jjs%20Hub630.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-Frosts-Jjs-Hub-17296")
                                     
+    addscriptexist(9391468976, "TielHub", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TielHub77.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-TielHub-19635")
+                                    
