@@ -4,3 +4,5 @@ addscript(13076380114, "Current Game","Auto Block", "Uploaded by Vikinglaw on sc
                                     
     addscriptexist(13076380114, "Infernokarl Hub", "Uploaded by LitSobi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infernokarl%20Hub380.lua", "https://scriptblox.com/script/Heroes-Battlegrounds-Infernokarl-13689")
                                     
+    addscriptexist(13076380114, "Auto HIt", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20HIt642.lua", "https://scriptblox.com/script/Heroes-Battlegrounds-Auto-HIt-19583")
+                                    

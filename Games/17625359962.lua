@@ -170,3 +170,5 @@
                                     
     addscriptexist(17625359962, "BEST SCRIPT UNDETECTABLE ALWAYS WIN", "Uploaded by StarsOne on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20UNDETECTABLE%20ALWAYS%20WIN297.lua", "https://scriptblox.com/script/RIVALS-BEST-SCRIPT-UNDETECTABLE-ALWAYS-WIN-19409")
                                     
+    addscriptexist(17625359962, "God Mode NEVER LOSE Very OP   VH1", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/God%20Mode%20NEVER%20LOSE%20Very%20OP%20%20%20VH1550.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-God-Mode-NEVER-LOSE-Very-OP-VH1-19582")
+                                    

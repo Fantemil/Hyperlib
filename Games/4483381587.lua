@@ -98,3 +98,7 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "Universl Inf Money", "Uploaded by Leak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universl%20Inf%20Money944.lua", "https://scriptblox.com/script/a-literal-baseplate.-Universl-Inf-Money-19418")
                                     
+    addscriptexist(4483381587, "Glios FE", "Uploaded by S0idkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Glios%20FE802.lua", "https://scriptblox.com/script/a-literal-baseplate.-Glios-FE-19578")
+                                    
+    addscriptexist(4483381587, "C00lgui 2024", "Uploaded by S0idkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00lgui%202024168.lua", "https://scriptblox.com/script/a-literal-baseplate.-C00lgui-2024-19579")
+                                    
