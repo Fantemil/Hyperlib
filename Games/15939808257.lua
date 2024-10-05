@@ -1,0 +1,2 @@
+
+    addscript(15939808257, "Current Game","REQUESTING PLEASE MAKE SCRIPT", "Uploaded by Ruzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUESTING%20PLEASE%20MAKE%20SCRIPT601.lua", "https://scriptblox.com/script/Pixel-Tower-Defense-REQUESTING-PLEASE-MAKE-SCRIPT-19637")
