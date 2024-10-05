@@ -30,3 +30,5 @@
                                     
     addscriptexist(12411473842, "REDACTED", "Uploaded by Snooz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REDACTED285.lua", "https://scriptblox.com/script/Pressure-REDACTED-17898")
                                     
+    addscriptexist(12411473842, "heckbastion", "Uploaded by funni_scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/heckbastion923.lua", "https://scriptblox.com/script/Pressure-heckbastion-19551")
+                                    

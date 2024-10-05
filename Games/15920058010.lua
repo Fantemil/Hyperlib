@@ -4,3 +4,5 @@
                                     
     addscriptexist(15920058010, "Drowned Hub", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drowned%20Hub794.lua", "https://scriptblox.com/script/FREE-TEST-Sorcery-Drowned-Hub-19434")
                                     
+    addscriptexist(15920058010, "releasing inf essence soon", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/releasing%20inf%20essence%20soon77.lua", "https://scriptblox.com/script/FREE-TEST-Sorcery-releasing-inf-essence-soon-19548")
+                                    

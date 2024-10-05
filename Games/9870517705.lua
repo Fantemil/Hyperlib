@@ -1,2 +1,4 @@
 
     addscript(9870517705, "Current Game","Invite for Early Access event", "Uploaded by fraudulent on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Invite%20for%20Early%20Access%20event637.lua", "https://scriptblox.com/script/Paradox-2024-Invite-Eevent-19422")
+    addscriptexist(9870517705, "Drowned hub One Shot mob", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drowned%20hub%20One%20Shot%20mob746.lua", "https://scriptblox.com/script/Paradox-RELEASE-Drowned-hub-One-Shot-mob-19551")
+                                    
