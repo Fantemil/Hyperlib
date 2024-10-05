@@ -24,3 +24,5 @@ addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com"
                                     
     addscriptexist(7305309231, "Etronix", "Uploaded by uerd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Etronix663.lua", "https://scriptblox.com/script/Taxi-Boss-MONACO-Etronix-16606")
                                     
+    addscriptexist(7305309231, "Alluring HUB", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20HUB108.lua", "https://scriptblox.com/script/Taxi-Boss-Alluring-HUB-19619")
+                                    
