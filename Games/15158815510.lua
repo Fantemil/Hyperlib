@@ -1,2 +1,4 @@
 
     addscript(15158815510, "Current Game","Infinite Money Spam Execute like 20 times", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money%20Spam%20Execute%20like%2020%20times889.lua", "https://scriptblox.com/script/Domino-Playground-Infinite-Money-Spam-Execute-like-20-times-19529")
+    addscriptexist(15158815510, "inf coins", "Uploaded by gaxify on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20coins368.lua", "https://scriptblox.com/script/Domino-Playground-inf-coins-19575")
+                                    
