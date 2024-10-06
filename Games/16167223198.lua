@@ -1,0 +1,2 @@
+
+    addscript(16167223198, "Current Game","OPEN SOURCE   kill all", "Uploaded by neutral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20%20%20kill%20all377.lua", "https://scriptblox.com/script/DEAGLE!-Combat-Surf-OPEN-SOURCE-kill-all-19718")

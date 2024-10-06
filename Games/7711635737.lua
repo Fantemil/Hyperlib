@@ -4,3 +4,5 @@ addscriptexist(7711635737, "Normality", "Uploaded by brudda on scriptblox.com", 
                                 
     addscriptexist(7711635737, "ScriptMobile Supported", "Uploaded by zenox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScriptMobile%20Supported54.lua", "https://scriptblox.com/script/Emergency-Hamburg-Script-19640")
                                     
+    addscriptexist(7711635737, "Cheat Pannel EH", "Uploaded by Solarw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheat%20Pannel%20EH537.lua", "https://scriptblox.com/script/Emergency-Hamburg-Cheat-Pannel-EH-19720")
+                                    

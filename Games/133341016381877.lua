@@ -4,3 +4,5 @@
                                     
     addscriptexist(133341016381877, "money farm FAST", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/money%20farm%20FAST674.lua", "https://scriptblox.com/script/UPD-2-MOUNT-RNG-money-farm-FAST-19666")
                                     
+    addscriptexist(133341016381877, "OP Script", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script469.lua", "https://scriptblox.com/script/UPD-2-MOUNT-RNG-OP-Script-19715")
+                                    

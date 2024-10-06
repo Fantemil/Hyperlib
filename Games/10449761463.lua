@@ -408,3 +408,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "KJ FE ND GOJO FE", "Uploaded by meow_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20FE%20ND%20GOJO%20FE796.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-FE-ND-GOJO-FE-19689")
                                     
+    addscriptexist(10449761463, "RYBOWE HUB OP ANTI KATANA AIM BOT AND MORE", "Uploaded by meow_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20OP%20ANTI%20KATANA%20AIM%20BOT%20AND%20MORE874.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-RYBOWE-HUB-OP-ANTI-KATANA-AIM-BOT-AND-MORE-19717")
+                                    
