@@ -4,3 +4,5 @@
                                     
     addscriptexist(18504047639, "Button ESP", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Button%20ESP609.lua", "https://scriptblox.com/script/WORLD-2-Find-Buttons!-Button-ESP-19655")
                                     
+    addscriptexist(18504047639, "OP AUTO NEXT STAGE", "Uploaded by Seasonal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTO%20NEXT%20STAGE101.lua", "https://scriptblox.com/script/WORLD-2-Find-Buttons!-OP-AUTO-NEXT-STAGE-19658")
+                                    
