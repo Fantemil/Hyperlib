@@ -16,3 +16,7 @@ addscriptexist(2210085102, "GUI supports mobile", "Uploaded by Professional on s
                                     
     addscriptexist(2210085102, "open source aa turret aimbot", "Uploaded by yoooooo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/open%20source%20aa%20turret%20aimbot759.lua", "https://scriptblox.com/script/Naval-Warfare-open-source-aa-turret-aimbot-19633")
                                     
+    addscriptexist(2210085102, "Request for script", "Uploaded by Dante7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20for%20script186.lua", "https://scriptblox.com/script/Naval-Warfare-Request-for-script-19668")
+                                    
+    addscriptexist(2210085102, "Request Accepted", "Uploaded by bdftt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20Accepted861.lua", "https://scriptblox.com/script/Naval-Warfare-Request-Accepted-19669")
+                                    

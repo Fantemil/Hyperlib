@@ -1,0 +1,1 @@
+Request for inf coins script if it's possible.
