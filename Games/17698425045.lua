@@ -10,3 +10,5 @@
                                     
     addscriptexist(17698425045, "Fis OP SCRIPT", "Uploaded by 2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fis%20OP%20SCRIPT376.lua", "https://scriptblox.com/script/EMOTES-fight-in-a-school-Fis-OP-SCRIPT-19127")
                                     
+    addscriptexist(17698425045, "Kill Hub", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Hub963.lua", "https://scriptblox.com/script/HALLOWEEN-fight-in-a-school-Kill-Hub-19699")
+                                    

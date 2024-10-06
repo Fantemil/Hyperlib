@@ -1,0 +1,2 @@
+
+    addscript(18334179599, "Current Game","OP TROLL SCRIPT", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20TROLL%20SCRIPT203.lua", "https://scriptblox.com/script/Chained-2-Player-Obby-OP-TROLL-SCRIPT-19700")

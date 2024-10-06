@@ -6,3 +6,5 @@ addscript(2961583129, "Current Game","esp", "Uploaded by xkid on scriptblox.com"
                                     
     addscriptexist(2961583129, "Bomb Script Ocfi Anti Slippery Menu", "Uploaded by ocfi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bomb%20Script%20Ocfi%20Anti%20Slippery%20Menu999.lua", "https://scriptblox.com/script/Pass-the-Bomb!-Bomb-Script-Ocfi-Anti-Slippery-Menu-19422")
                                     
+    addscriptexist(2961583129, "Killa Hub v1", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killa%20Hub%20v197.lua", "https://scriptblox.com/script/Pass-the-Bomb!-Killa-Hub-v1-19702")
+                                    
