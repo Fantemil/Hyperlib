@@ -32,3 +32,5 @@ addscriptexist(8916037983, "source code", "Uploaded by botbrostopusing on script
                                     
     addscriptexist(8916037983, "TROLL SCRIPT UNIVERSAL FLING DUPE BYP CHAT", "Uploaded by Waters on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TROLL%20SCRIPT%20UNIVERSAL%20FLING%20DUPE%20BYP%20CHAT90.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-TROLL-SCRIPT-UNIVERSAL-FLING-DUPE-BYP*-CHAT-17028")
                                     
+    addscriptexist(8916037983, "AUTO DRAW KILLA SCRIPT", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20DRAW%20KILLA%20SCRIPT410.lua", "https://scriptblox.com/script/starving-artists-(DONATION-GAME)-AUTO-DRAW-KILLA-SCRIPT-19711")
+                                    

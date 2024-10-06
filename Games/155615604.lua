@@ -288,3 +288,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Corgiware Script Gui With Over 30 Features", "Uploaded by CorgiScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Corgiware%20Script%20Gui%20With%20Over%2030%20Features970.lua", "https://scriptblox.com/script/Prison-Life-Corgiware-Script-Gui-With-Over-30-Features-19230")
                                     
+    addscriptexist(155615604, "Prizz admin", "Uploaded by Solarw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prizz%20admin186.lua", "https://scriptblox.com/script/Prison-Life-Prizz-admin-19708")
+                                    

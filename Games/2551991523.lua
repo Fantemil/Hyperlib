@@ -10,3 +10,5 @@ addscript(2551991523, "Current Game","OP BROKEN BONES IV FARM", "Uploaded by bea
                                     
     addscriptexist(2551991523, "S O L A R A               INF MONEY", "Uploaded by 0x88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/S%20O%20L%20A%20R%20A%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20INF%20MONEY395.lua", "https://scriptblox.com/script/Broken-Bones-IV-Ragdoll-Sim-S-O-L-A-R-A-INF-MONEY-17761")
                                     
+    addscriptexist(2551991523, "Infinite money", "Uploaded by relevant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money550.lua", "https://scriptblox.com/script/Broken-Bones-IV-Ragdoll-Sim-Infinite-money-19709")
+                                    

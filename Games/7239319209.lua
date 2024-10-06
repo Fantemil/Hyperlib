@@ -6,3 +6,5 @@ addscriptexist(7239319209, "bad script ever", "Uploaded by firstpilot on scriptb
                                     
     addscriptexist(7239319209, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2758.lua", "https://scriptblox.com/script/Ohio.-Demonic-HUB-V2-10993")
                                     
+    addscriptexist(7239319209, "TeTraX", "Uploaded by satxl5m on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TeTraX631.lua", "https://scriptblox.com/script/Ohio.-TeTraX-19713")
+                                    

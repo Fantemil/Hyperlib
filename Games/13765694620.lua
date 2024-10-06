@@ -1,0 +1,2 @@
+
+    addscript(13765694620, "Current Game","Op Script", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script541.lua", "https://scriptblox.com/script/FREE-UGC!!!!-Dettol-Hygiene-Quest-Op-Script-19712")
