@@ -12,3 +12,5 @@
                                     
     addscriptexist(18571010582, "battelground gui", "Uploaded by bibird on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/battelground%20gui106.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Gui-19510")
                                     
+    addscriptexist(18571010582, "admin panel", "Uploaded by Sakura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20panel301.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-admin-panel-19653")
+                                    
