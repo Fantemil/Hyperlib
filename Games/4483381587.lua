@@ -106,3 +106,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "Universl Script lluringHUB", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universl%20Script%20lluringHUB840.lua", "https://scriptblox.com/script/a-literal-baseplate.-Universl-Script-lluringHUB-19658")
                                     
+    addscriptexist(4483381587, "frblxongngs gui", "Uploaded by frblxongng on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/frblxongngs%20gui33.lua", "https://scriptblox.com/script/a-literal-baseplate.-frblxongngs-gui-19720")
+                                    

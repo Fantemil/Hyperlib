@@ -60,3 +60,5 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                     
     addscriptexist(8204899140, "ff script", "Uploaded by xyas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ff%20script148.lua", "https://scriptblox.com/script/Football-Fusion-2-ff-script-19371")
                                     
+    addscriptexist(8204899140, "OP SCRIPT AUTO DEFEND AND SPEED AND EVERYTHING", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20AUTO%20DEFEND%20AND%20SPEED%20AND%20EVERYTHING307.lua", "https://scriptblox.com/script/Football-Fusion-2-OP-SCRIPT-AUTO-DEFEND-AND-SPEED-AND-EVERYTHING-19722")
+                                    
