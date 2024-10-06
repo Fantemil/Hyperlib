@@ -256,3 +256,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Ms paint v2 and some other stuff reupload", "Uploaded by melicowe1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ms%20paint%20v2%20and%20some%20other%20stuff%20reupload258.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Ms-paint-v2-and-some-other-stuff-19690")
                                     
+    addscriptexist(6516141723, "New Op  Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Op%20%20Script699.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-New-Op-Script-19724")
+                                    

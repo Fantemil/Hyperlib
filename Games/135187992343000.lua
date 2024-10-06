@@ -1,0 +1,2 @@
+
+    addscript(135187992343000, "Current Game","Fast Money", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Money797.lua", "https://scriptblox.com/script/Rags-to-Riches-Fast-Money-19725")
