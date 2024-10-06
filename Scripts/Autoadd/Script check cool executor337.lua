@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Iamkhnah/Khanhdzpro/refs/heads/main/CheckCoolExecutor.lua"))()

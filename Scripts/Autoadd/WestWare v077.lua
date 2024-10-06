@@ -1,0 +1,1 @@
+Get the script for free here: https://discord.gg/Me6rhms4
