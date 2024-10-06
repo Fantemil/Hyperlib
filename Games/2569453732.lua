@@ -4,3 +4,5 @@ addscriptexist(2569453732, "Rise Of Nations Script", "Uploaded by uncensorable o
                                 
     addscriptexist(2569453732, "swagpex", "Uploaded by supex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/swagpex127.lua", "https://scriptblox.com/script/Rise-of-Nations-swagpex-15444")
                                     
+    addscriptexist(2569453732, "Script request", "Uploaded by Ultra78 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request64.lua", "https://scriptblox.com/script/Rise-of-Nations-Script-request-19729")
+                                    

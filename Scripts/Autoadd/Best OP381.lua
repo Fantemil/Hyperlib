@@ -1,0 +1,3 @@
+--// Paid script
+-- discord.gg/expensivehub
+--// best aut script, best community
