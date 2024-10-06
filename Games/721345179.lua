@@ -1,0 +1,2 @@
+
+    addscript(721345179, "Current Game","Script", "Uploaded by KFerant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script99.lua", "https://scriptblox.com/script/Epic-Minigames-Script-19689")

@@ -406,3 +406,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Apophenia credits to reap", "Uploaded by Minx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apophenia%20credits%20to%20reap316.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Apophenia-credits-to-reap-19674")
                                     
+    addscriptexist(10449761463, "KJ FE ND GOJO FE", "Uploaded by meow_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20FE%20ND%20GOJO%20FE796.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-FE-ND-GOJO-FE-19689")
+                                    
