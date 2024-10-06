@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RXScript/RX-GUI-Version-1/refs/heads/main/RXGUIV1"))()
