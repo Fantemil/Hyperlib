@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MalvadoScripts/MalvadoScripts-Flag-battles-simulator-script/refs/heads/main/Flag%20battles%20simulator", true))()

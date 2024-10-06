@@ -290,3 +290,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Champange X", "Uploaded by zxeno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Champange%20X190.lua", "https://scriptblox.com/script/Arsenal-Champange-X-19413")
                                     
+    addscriptexist(286090429, "Hitbox epander", "Uploaded by gamerkuoff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20epander806.lua", "https://scriptblox.com/script/Arsenal-Hitbox-epander-19673")
+                                    

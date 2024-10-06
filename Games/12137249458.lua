@@ -4,3 +4,5 @@
                                     
     addscriptexist(12137249458, "GoatedTeeHub V3", "Uploaded by TheGoatedTeeYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoatedTeeHub%20V39.lua", "https://scriptblox.com/script/FPS-Gun-Grounds-FFA-GoatedTeeHub-14826")
                                     
+    addscriptexist(12137249458, "OP Gui Script", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui%20Script504.lua", "https://scriptblox.com/script/FPS-Gun-Grounds-FFA-Gui-Script-19671")
+                                    

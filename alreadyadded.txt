@@ -17971,3 +17971,7 @@ https://scriptblox.com/script/Naval-Warfare-Request-for-script-19668
 https://scriptblox.com/script/Universal-Script-RenHub-Supporting-8-Games-19671
 https://scriptblox.com/script/Naval-Warfare-Request-Accepted-19669
 https://scriptblox.com/script/UPDATE-Slap-Battles-Script-Support-Solara-19670
+https://scriptblox.com/script/FPS-Gun-Grounds-FFA-Gui-Script-19671
+https://scriptblox.com/script/Flag-Battles-Simulator-Op-19672
+https://scriptblox.com/script/Arsenal-Hitbox-epander-19673
+https://scriptblox.com/script/Pressure-Neuron-XYZ-FIX-19671
