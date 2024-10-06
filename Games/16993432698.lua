@@ -8,3 +8,5 @@
                                     
     addscriptexist(16993432698, "AstroX   Game", "Uploaded by xXAdrianXx_Scripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AstroX%20%20%20Game576.lua", "https://scriptblox.com/script/Impossible-Squid-Game!-Glass-Bridge-2-AstroX-Game-18644")
                                     
+    addscriptexist(16993432698, "Win Autofarm", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win%20Autofarm544.lua", "https://scriptblox.com/script/Impossible-Squid-Game!-Glass-Bridge-2-Win-Autofarm-19643")
+                                    

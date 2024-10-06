@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Triad-0112/RobloxRepo/refs/heads/main/Waypoint-Marker"))()
