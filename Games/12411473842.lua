@@ -32,3 +32,5 @@
                                     
     addscriptexist(12411473842, "heckbastion", "Uploaded by funni_scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/heckbastion923.lua", "https://scriptblox.com/script/Pressure-heckbastion-19551")
                                     
+    addscriptexist(12411473842, "Neuron XYZ New", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neuron%20XYZ%20New151.lua", "https://scriptblox.com/script/Pressure-Neuron-XYZ-New-19662")
+                                    

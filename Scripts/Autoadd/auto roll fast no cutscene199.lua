@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cnzins1/scripts/refs/heads/main/autoroll%20jules"))();
