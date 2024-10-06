@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/12xQ/Ragdoll-Engine-/refs/heads/main/Bypass%20Ragdoll%20Engine%20script.txt"))()
