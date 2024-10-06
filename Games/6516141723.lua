@@ -252,3 +252,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Floor 2 Script Released on Delta V3", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Floor%202%20Script%20Released%20on%20Delta%20V3438.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Floor-2-Script-Released-on-Delta-V3-19585")
                                     
+    addscriptexist(6516141723, "The Trial mode EARLY TESTING ALPHA", "Uploaded by softbf395 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Trial%20mode%20EARLY%20TESTING%20ALPHA150.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-The-Trial-mode-EARLY-TESTING-ALPHA-19646")
+                                    

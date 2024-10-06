@@ -28,3 +28,5 @@ addscriptexist(335760407, "TPS React Script BEST IN GK", "Uploaded by skate on s
                                     
     addscriptexist(335760407, "Byte Hub TPS  Mobile and PC", "Uploaded by ByteHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Byte%20Hub%20TPS%20%20Mobile%20and%20PC658.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-Byte-Hub-TPS-Mobile-and-PC-14389")
                                     
+    addscriptexist(335760407, "CRAFTCODE TPS   SCRIPT", "Uploaded by luaon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRAFTCODE%20TPS%20%20%20SCRIPT989.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-CRAFTCODE-TPS-SCRIPT-19647")
+                                    
