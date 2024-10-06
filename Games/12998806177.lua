@@ -1,0 +1,2 @@
+
+    addscript(12998806177, "Current Game","Op aura", "Uploaded by serversadzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20aura144.lua", "https://scriptblox.com/script/UPD-Kill-Streak-Op-aura-19675")

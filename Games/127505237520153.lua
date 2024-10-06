@@ -1,0 +1,2 @@
+
+    addscript(127505237520153, "Current Game","Request", "Uploaded by mastaleaker331 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request784.lua", "https://scriptblox.com/script/KJCT-(HALLOWEEN)-Request-19678")

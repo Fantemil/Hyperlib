@@ -404,3 +404,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Sonic Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20Moveset241.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Sonic-Moveset-19660")
                                     
+    addscriptexist(10449761463, "Apophenia credits to reap", "Uploaded by Minx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apophenia%20credits%20to%20reap316.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Apophenia-credits-to-reap-19674")
+                                    
