@@ -1398,3 +1398,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "min blue new", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/min%20blue%20new873.lua", "https://scriptblox.com/script/Blox-Fruits-min-blue-new-19679")
                                     
+    addscriptexist(2753915549, "TielHub", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TielHub680.lua", "https://scriptblox.com/script/Blox-Fruits-TielHub-19685")
+                                    

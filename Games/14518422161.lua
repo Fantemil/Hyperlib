@@ -48,3 +48,5 @@
                                     
     addscriptexist(14518422161, "Aim Bot Esp Team Check", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aim%20Bot%20Esp%20Team%20Check20.lua", "https://scriptblox.com/script/Gunfight-Arena-or-EVENT-Aim-Bot-Esp-Team-Check-19399")
                                     
+    addscriptexist(14518422161, "OPEN SOURCE   equip any weapon and camo even killstreak guns", "Uploaded by neutral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20%20%20equip%20any%20weapon%20and%20camo%20even%20killstreak%20guns25.lua", "https://scriptblox.com/script/Gunfight-Arena-or-UPDATE-OPEN-SOURCE-equip-any-weapon-19683")
+                                    
