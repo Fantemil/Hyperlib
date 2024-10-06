@@ -248,3 +248,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Op script Support solara", "Uploaded by hhuevic222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20Support%20solara46.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-Op-script-Support-solara-19640")
                                     
+    addscriptexist(6403373529, "WareSt1", "Uploaded by wOStudiosTR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WareSt1996.lua", "https://scriptblox.com/script/UPDATE-Slap-Battles-WareSt1-19659")
+                                    
