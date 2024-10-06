@@ -6,3 +6,5 @@
                                     
     addscriptexist(16288616721, "Free gamepass inf coins free paid items", "Uploaded by RIOSETRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20gamepass%20inf%20coins%20free%20paid%20items885.lua", "https://scriptblox.com/script/Skateboard-Obby-NEW!-Free-gamepass-inf-coins-free-paid-items-12991")
                                     
+    addscriptexist(16288616721, "Wynerd", "Uploaded by AndroScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wynerd490.lua", "https://scriptblox.com/script/W12-Skateboard-Obby-Wynerd-19681")
+                                    

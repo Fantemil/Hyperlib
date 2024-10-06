@@ -176,3 +176,5 @@
                                     
     addscriptexist(17625359962, "OP God Mode NEVER DIE Always Win", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20God%20Mode%20NEVER%20DIE%20Always%20Win322.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-OP-God-Mode-NEVER-DIE-Always-Win-19649")
                                     
+    addscriptexist(17625359962, "auto do quests ll undetected", "Uploaded by meow_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20do%20quests%20ll%20undetected41.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-auto-do-quests-ll-undetected-19682")
+                                    

@@ -8,3 +8,5 @@ addscriptexist(11156779721, "AUTO PICKUP MINE AURA CHOP AURA", "Uploaded by Cosm
                                     
     addscriptexist(11156779721, "Kya Ware Free Version", "Uploaded by EThus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kya%20Ware%20Free%20Version195.lua", "https://scriptblox.com/script/The-Survival-Game-Monkeys!-Kya-Ware-Free-Version-19638")
                                     
+    addscriptexist(11156779721, "aura solutions for", "Uploaded by dumm_dogg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aura%20solutions%20for825.lua", "https://scriptblox.com/script/The-Survival-Game-Monkeys!-aura-solutions-for-19683")
+                                    
