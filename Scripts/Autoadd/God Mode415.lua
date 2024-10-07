@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Damage:FireServer(-math.huge)

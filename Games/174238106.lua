@@ -4,3 +4,5 @@
                                     
     addscriptexist(174238106, "Op inf money", "Uploaded by MRSCRIPT5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20inf%20money896.lua", "https://scriptblox.com/script/RED-VS-BLUE-PLANE-WARS!-Op-inf-money-19728")
                                     
+    addscriptexist(174238106, "God Mode", "Uploaded by Username_Is_Taken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/God%20Mode415.lua", "https://scriptblox.com/script/RED-VS-BLUE-PLANE-WARS!-God-Mode-19788")
+                                    
