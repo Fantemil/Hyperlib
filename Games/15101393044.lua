@@ -14,3 +14,5 @@
                                     
     addscriptexist(15101393044, "dti IDs recommended 18 plus", "Uploaded by Sakura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dti%20IDs%20recommended%2018%20plus926.lua", "https://scriptblox.com/script/Dress-To-Impress-UPDATE-dti-IDs-recommended-18-plus-19395")
                                     
+    addscriptexist(15101393044, "DTI Decal changer FE", "Uploaded by Vladgeocon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DTI%20Decal%20changer%20FE534.lua", "https://scriptblox.com/script/Dress-To-Impress-DTI-Decal-changer-FE-19819")
+                                    
