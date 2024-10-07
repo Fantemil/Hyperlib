@@ -1,2 +1,4 @@
 
     addscript(135187992343000, "Current Game","Fast Money", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Money797.lua", "https://scriptblox.com/script/Rags-to-Riches-Fast-Money-19725")
+    addscriptexist(135187992343000, "ALMOST INFINITE MONEY I GUESS", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALMOST%20INFINITE%20MONEY%20I%20GUESS208.lua", "https://scriptblox.com/script/Rags-to-Riches-ALMOST-INFINITE-MONEY-I-GUESS-19758")
+                                    

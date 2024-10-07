@@ -1,0 +1,2 @@
+
+    addscript(17473920648, "Current Game","OP GUI", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI718.lua", "https://scriptblox.com/script/UPDATE-DOORS-TESTING-OP-GUI-19753")
