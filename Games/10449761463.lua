@@ -418,3 +418,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "reaper moveset", "Uploaded by funni_scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reaper%20moveset916.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-reaper-moveset-19748")
                                     
+    addscriptexist(10449761463, "Dio Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dio%20Moveset584.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Dio-Moveset-19770")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(87477950892341, "Current Game","Instant UGC", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC374.lua", "https://scriptblox.com/script/Mir-Samokata-Instant-UGC-19772")

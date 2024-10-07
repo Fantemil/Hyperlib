@@ -1,0 +1,2 @@
+
+    addscript(132495346586140, "Current Game","Request script", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20script304.lua", "https://scriptblox.com/script/New-World-Swim-League-Request-script-19773")
