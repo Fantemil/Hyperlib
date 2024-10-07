@@ -38,3 +38,5 @@
                                     
     addscriptexist(16146832113, "King Hub NEW OP FARM", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20NEW%20OP%20FARM159.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-King-Hub-NEW-OP-FARM-19634")
                                     
+    addscriptexist(16146832113, "New Op Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Op%20Script935.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-New-Op-Script-19792")
+                                    

@@ -18,3 +18,5 @@
                                     
     addscriptexist(16116270224, "Request", "Uploaded by Jamesparkingd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request428.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-Request-19775")
                                     
+    addscriptexist(16116270224, "d4ndys w0rld script not too op", "Uploaded by lopbbed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/d4ndys%20w0rld%20script%20not%20too%20op851.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-d4ndys-w0rld-script-not-too-op-19790")
+                                    
