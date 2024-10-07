@@ -22,3 +22,5 @@ addscriptexist(2210085102, "GUI supports mobile", "Uploaded by Professional on s
                                     
     addscriptexist(2210085102, "goated", "Uploaded by AstraOutLight on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/goated893.lua", "https://scriptblox.com/script/Naval-Warfare-goated-19749")
                                     
+    addscriptexist(2210085102, "All executor supported", "Uploaded by pianino2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20executor%20supported287.lua", "https://scriptblox.com/script/Naval-Warfare-All-executor-supported-19817")
+                                    
