@@ -412,3 +412,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "DIO moveset", "Uploaded by donavinkenthodrick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIO%20moveset197.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-DIO-moveset-19738")
                                     
+    addscriptexist(10449761463, "Unlock All character", "Uploaded by uvaldocoronell on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20All%20character551.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Unlock-All-character-19747")
+                                    
+    addscriptexist(10449761463, "aimlock tsb op", "Uploaded by samuvalencia886 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aimlock%20tsb%20op93.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-aimlock-tsb-op-19745")
+                                    
