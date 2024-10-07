@@ -4,3 +4,5 @@
                                     
     addscriptexist(11815767793, "Free Private", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Private83.lua", "https://scriptblox.com/script/Ultimate-Battlegrounds-Free-Private-19506")
                                     
+    addscriptexist(11815767793, "Script request", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request305.lua", "https://scriptblox.com/script/Ultimate-Battlegrounds-Script-request-19809")
+                                    

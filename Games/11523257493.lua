@@ -28,3 +28,5 @@
                                     
     addscriptexist(11523257493, "Project Nexus SB", "Uploaded by Dappz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus%20SB601.lua", "https://scriptblox.com/script/Swordburst-3-BOSS-Project-Nexus-SB-11229")
                                     
+    addscriptexist(11523257493, "OP Scripts", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Scripts943.lua", "https://scriptblox.com/script/Swordburst-3-RPG-Adventure-OP-Scripts-19811")
+                                    

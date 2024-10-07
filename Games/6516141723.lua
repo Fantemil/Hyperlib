@@ -264,3 +264,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "FFJ1 HUB", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FFJ1%20HUB254.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-FFJ1-HUB-19798")
                                     
+    addscriptexist(6516141723, "starjug giver", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/starjug%20giver236.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-starjug-s*er-19810")
+                                    
