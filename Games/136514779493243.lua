@@ -1,0 +1,2 @@
+
+    addscript(136514779493243, "Current Game","OP Script", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script479.lua", "https://scriptblox.com/script/Find-the-Button!-FREE-UGC-OP-Script-19769")
