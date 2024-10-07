@@ -16,3 +16,5 @@
                                     
     addscriptexist(16116270224, "ESP  Update 12 09 2024", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20%20Update%2012%2009%202024170.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-ESP-Update-12-09-2024-19677")
                                     
+    addscriptexist(16116270224, "Request", "Uploaded by Jamesparkingd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request428.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-Request-19775")
+                                    
