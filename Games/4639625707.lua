@@ -22,3 +22,5 @@ addscriptexist(4639625707, "Silent Aim Wallbang Open Source", "Uploaded by BeboM
                                     
     addscriptexist(4639625707, "OP Full AutoRebirth", "Uploaded by DragonZ_TH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Full%20AutoRebirth772.lua", "https://scriptblox.com/script/AH-1Z-Viper-War-Tycoon-OP-Full-AutoRebirth-19008")
                                     
+    addscriptexist(4639625707, "script request", "Uploaded by Sharkie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request680.lua", "https://scriptblox.com/script/F-18-Hornet-War-Tycoon-script-request-19805")
+                                    
