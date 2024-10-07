@@ -1,2 +1,4 @@
 
 addscript(12581519500, "Current Game","Roblox But Every Second You Get 1 Jump Power", "Uploaded by HannaeAltae on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20But%20Every%20Second%20You%20Get%201%20Jump%20Power401.lua", "https://rscripts.net/script/roblox-but-every-second-you-get-1-jump-power-4038")
+    addscriptexist(12581519500, "Again Basically Infinite  idk", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Again%20Basically%20Infinite%20%20idk212.lua", "https://scriptblox.com/script/UPDRoblox-But-Every-Second-You-Get-+1-Jump-Power-Again-Basically-Infinite-Speed-idk-19780")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(17692820594, "Current Game","Jujustu battleground Simple script", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jujustu%20battleground%20Simple%20script321.lua", "https://scriptblox.com/script/PS+-UPDATE-Jujutsu-Battlegrounds-Jujustu-battleground-Simple-script-19781")
