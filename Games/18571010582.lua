@@ -14,3 +14,5 @@
                                     
     addscriptexist(18571010582, "admin panel", "Uploaded by Sakura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20panel301.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-admin-panel-19653")
                                     
+    addscriptexist(18571010582, "Bypass anti cheat", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypass%20anti%20cheat851.lua", "https://scriptblox.com/script/Kaizen-Battlegrounds-Bypass-anti-cheat-19747")
+                                    

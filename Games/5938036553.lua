@@ -18,3 +18,5 @@ addscriptexist(5938036553, "OP script", "Uploaded by lykin648 on scriptblox.com"
                                     
     addscriptexist(5938036553, "Hitbox expanders ESP", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20expanders%20ESP197.lua", "https://scriptblox.com/script/FRONTLINES-Hitbox-expanders-ESP-11228")
                                     
+    addscriptexist(5938036553, "Aimbot ESP Jump Power", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20ESP%20Jump%20Power793.lua", "https://scriptblox.com/script/FRONTLINES-Aimbot-ESP-Jump-Power-19750")
+                                    

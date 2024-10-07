@@ -416,3 +416,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "aimlock tsb op", "Uploaded by samuvalencia886 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aimlock%20tsb%20op93.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-aimlock-tsb-op-19745")
                                     
+    addscriptexist(10449761463, "reaper moveset", "Uploaded by funni_scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reaper%20moveset916.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-reaper-moveset-19748")
+                                    
