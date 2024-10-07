@@ -32,3 +32,5 @@ addscriptexist(13827198708, "utoclick frm", "Uploaded by 12slash25 on scriptblox
                                     
     addscriptexist(13827198708, "GoldEx v 1 0", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20v%201%200999.lua", "https://scriptblox.com/script/Pull-a-Sword-GoldEx-v-1-0-19259")
                                     
+    addscriptexist(13827198708, "King Hub OP FRM", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20OP%20FRM155.lua", "https://scriptblox.com/script/Pull-a-Sword-King-Hub-OP-FRM-19816")
+                                    
