@@ -180,3 +180,5 @@
                                     
     addscriptexist(17625359962, "Best Aimbot and Silent Aim Ever LOTS OF OP FEATURES", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Aimbot%20and%20Silent%20Aim%20Ever%20LOTS%20OF%20OP%20FEATURES759.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Best-Aimbot-and-Silent-Aim-Ever-LOTS-OF-OP-FEATURES-19743")
                                     
+    addscriptexist(17625359962, "RYBOWE HUB THE BEST OP  AIMBOT", "Uploaded by YoSoyNoProfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20THE%20BEST%20OP%20%20AIMBOT904.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-RYBOWE-HUB-THE-BEST-OP-AIMBOT-19778")
+                                    

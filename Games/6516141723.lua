@@ -258,3 +258,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "New Op  Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Op%20%20Script699.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-New-Op-Script-19724")
                                     
+    addscriptexist(6516141723, "OP SCRIPT MSPAINT", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20MSPAINT783.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-VERY-OP-SCRIPT-19778")
+                                    

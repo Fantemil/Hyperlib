@@ -4,3 +4,5 @@
                                     
     addscriptexist(13161556479, "free ugc 50000 stocks", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20ugc%2050000%20stocks899.lua", "https://scriptblox.com/script/Escape-Pirate-Cove-free-ugc-50000-stocks-14291")
                                     
+    addscriptexist(13161556479, "Instant UGC", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC169.lua", "https://scriptblox.com/script/Escape-Pirate-Cove-Instant-UGC-19776")
+                                    

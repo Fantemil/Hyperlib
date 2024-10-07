@@ -422,3 +422,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "JUN Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUN%20Moveset869.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-JUN-Moveset-19773")
                                     
+    addscriptexist(10449761463, "ARACAURA script unfinished credits to reap", "Uploaded by Minx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ARACAURA%20script%20unfinished%20credits%20to%20reap743.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-ARACAURA-script-unfinished-credits-to-reap-19779")
+                                    
