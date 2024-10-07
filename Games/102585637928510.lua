@@ -1,0 +1,2 @@
+
+    addscript(102585637928510, "Current Game","NEWEST BACKDOOR GAME JOIN QUICK", "Uploaded by 0vdi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEWEST%20BACKDOOR%20GAME%20JOIN%20QUICK788.lua", "https://scriptblox.com/script/BrackDoories-LOL-NEWEST-BACKDOOR-GAME-JOIN-QUICK-19741")

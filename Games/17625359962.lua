@@ -178,3 +178,5 @@
                                     
     addscriptexist(17625359962, "auto do quests ll undetected", "Uploaded by meow_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20do%20quests%20ll%20undetected41.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-auto-do-quests-ll-undetected-19682")
                                     
+    addscriptexist(17625359962, "Best Aimbot and Silent Aim Ever LOTS OF OP FEATURES", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Aimbot%20and%20Silent%20Aim%20Ever%20LOTS%20OF%20OP%20FEATURES759.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Best-Aimbot-and-Silent-Aim-Ever-LOTS-OF-OP-FEATURES-19743")
+                                    
