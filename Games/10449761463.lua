@@ -410,3 +410,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "RYBOWE HUB OP ANTI KATANA AIM BOT AND MORE", "Uploaded by meow_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20OP%20ANTI%20KATANA%20AIM%20BOT%20AND%20MORE874.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-RYBOWE-HUB-OP-ANTI-KATANA-AIM-BOT-AND-MORE-19717")
                                     
+    addscriptexist(10449761463, "DIO moveset", "Uploaded by donavinkenthodrick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DIO%20moveset197.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-DIO-moveset-19738")
+                                    
