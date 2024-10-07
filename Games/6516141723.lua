@@ -260,3 +260,7 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "OP SCRIPT MSPAINT", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20MSPAINT783.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-VERY-OP-SCRIPT-19778")
                                     
+    addscriptexist(6516141723, "Door OP SCRIPT", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Door%20OP%20SCRIPT299.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Door-OP-SCRIPT-19795")
+                                    
+    addscriptexist(6516141723, "FFJ1 HUB", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FFJ1%20HUB254.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-FFJ1-HUB-19798")
+                                    

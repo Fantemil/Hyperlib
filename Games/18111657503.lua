@@ -1,0 +1,2 @@
+
+    addscript(18111657503, "Current Game","C00kidd script", "Uploaded by snarrjames88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00kidd%20script340.lua", "https://scriptblox.com/script/notme7421's-Place-C00kidd-script-19798")

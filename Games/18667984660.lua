@@ -24,3 +24,5 @@
                                     
     addscriptexist(18667984660, "FAKE FPS", "Uploaded by RIOT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAKE%20FPS956.lua", "https://scriptblox.com/script/Flex-Your-FPS!-FAKE-FPS-16366")
                                     
+    addscriptexist(18667984660, "Ping V1", "Uploaded by aabbaaii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ping%20V1416.lua", "https://scriptblox.com/script/Flex-Your-FPS-And-Ping!-Ping-V1-19797")
+                                    
