@@ -1,0 +1,2 @@
+
+    addscript(17586052747, "Current Game","Gun mods with inf ammo etc", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20mods%20with%20inf%20ammo%20etc622.lua", "https://scriptblox.com/script/All-Set-Skins-Counter-Blox:-Reimagined-V2-Gun-mods-with-inf-ammo-etc-19863")
