@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/catsus1/bladeball-newgeneration/refs/heads/main/bladeballremake", true))()
