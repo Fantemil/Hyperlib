@@ -1,0 +1,16 @@
+check out dsc server: 
+https://discord.gg/RZx4ZCpXRb 
+
+ â¡ï¸
+EXECUTOR ALERT! ð¨
+__
+ð¥ BYPASSER COMMUNITY ð¥
+__
+UNLOCK THE POWER! ðª
+â¨ï¸ FREE EXECUTOR â¨ï¸
+ð¨ï¸ SCRIPTS GALORE! ð
+83% UNCðï¸ (THE EDGE YOU NEED!)
+ð¸ FREE (NO STRINGS ATTACHED!)
+ð£ï¸ CUSTOM EXECUTOR
+ð WEEKLY UPDATES (STAY AHEAD OF THE GAME!)
+ð¸ FREE SCRIPTS (LIMITLESS POSSIBILITIES!)

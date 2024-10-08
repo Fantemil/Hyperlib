@@ -12,3 +12,5 @@
                                     
     addscriptexist(17698425045, "Kill Hub", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Hub963.lua", "https://scriptblox.com/script/HALLOWEEN-fight-in-a-school-Kill-Hub-19699")
                                     
+    addscriptexist(17698425045, "Dep Hub", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dep%20Hub777.lua", "https://scriptblox.com/script/Fight-in-a-School-Dep-Hub-19844")
+                                    
