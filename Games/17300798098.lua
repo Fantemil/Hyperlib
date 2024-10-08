@@ -8,3 +8,5 @@
                                     
     addscriptexist(17300798098, "Enable Admin Panel", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Enable%20Admin%20Panel665.lua", "https://scriptblox.com/script/FREE-Spin-For-Free!-Enable-Admin-Panel-19814")
                                     
+    addscriptexist(17300798098, "Admin panel back", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20panel%20back803.lua", "https://scriptblox.com/script/FREE-Spin-For-Free!-Admin-panel-back-19827")
+                                    
