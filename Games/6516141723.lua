@@ -268,3 +268,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "script worked when i upload NOT MINE", "Uploaded by kamranknitt69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20worked%20when%20i%20upload%20NOT%20MINE247.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-script-worked-when-i-upload-NOT-MINE-19829")
                                     
+    addscriptexist(6516141723, "Door lolhax free", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Door%20lolhax%20free980.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Door-lolhax-free-19873")
+                                    
