@@ -1,0 +1,2 @@
+
+    addscript(17382280326, "Current Game","Script Request", "Uploaded by enzoe1522steamrblx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request458.lua", "https://scriptblox.com/script/The-Robloxia:-Until-Dawn-Remake-Script-Request-19877")
