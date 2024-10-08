@@ -1,0 +1,2 @@
+
+    addscript(15987121531, "Current Game","Admin Features", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Features996.lua", "https://scriptblox.com/script/Basic-Battlegrounds-GOKU-BOSS-+-STARRK-Admin-Features-19848")

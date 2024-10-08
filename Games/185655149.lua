@@ -46,3 +46,5 @@ addscriptexist(185655149, "OP PIZZA FARM FREE", "Uploaded by Verthemillion on sc
                                     
     addscriptexist(185655149, "AuFarm Script", "Uploaded by Rich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AuFarm%20Script497.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-AuFarm-Script-14626")
                                     
+    addscriptexist(185655149, "Gives ability  aufarm without getting banned", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gives%20ability%20%20aufarm%20without%20getting%20banned119.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-Gives-ability-aufarm-without-getting-banned-19854")
+                                    

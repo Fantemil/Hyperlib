@@ -10,3 +10,5 @@ addscriptexist(654732683, "infinite max speed", "Uploaded by evi1z on scriptblox
                                     
     addscriptexist(654732683, "Kitty Hub  speed Autofarm", "Uploaded by benomat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty%20Hub%20%20speed%20Autofarm76.lua", "https://scriptblox.com/script/New-Car!-Car-Crushers-2-Physics-Simulation-Kitty-Hub-15244")
                                     
+    addscriptexist(654732683, "Request Platinum", "Uploaded by Jamesparkingd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20Platinum168.lua", "https://scriptblox.com/script/NEW-Graphics!-Car-Crushers-2-Physics-Sim-Request-Platinum-19847")
+                                    
