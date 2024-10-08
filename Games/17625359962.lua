@@ -184,3 +184,5 @@
                                     
     addscriptexist(17625359962, "GOD MODE OP WITH AIMBOT AND SILENT AIM", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOD%20MODE%20OP%20WITH%20AIMBOT%20AND%20SILENT%20AIM165.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-GOD-MODE-OP-WITH-AIMBOT-AND-SILENT-AIM-19818")
                                     
+    addscriptexist(17625359962, "best free script there is", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20free%20script%20there%20is405.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-best-free-script-there-is-19834")
+                                    
