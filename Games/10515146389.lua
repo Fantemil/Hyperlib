@@ -12,3 +12,5 @@ addscriptexist(10515146389, "No Sword Delay UNPATCHED", "Uploaded by Breadido on
                                     
     addscriptexist(10515146389, "AUTO FARM  x  AUTO SELL x ANTI DIE x AUTO DODGE BOSS", "Uploaded by xpa1nx9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20%20x%20%20AUTO%20SELL%20x%20ANTI%20DIE%20x%20AUTO%20DODGE%20BOSS135.lua", "https://scriptblox.com/script/NEW-Elemental-Dungeons-AUTO-FARM-x-AUTO-SELL-x-ANTI-DIE-x-AUTO-DODGE-BOSS-8407")
                                     
+    addscriptexist(10515146389, "New UPDATED BEST   SCRIPT x MOST OP GUI", "Uploaded by xpa1nx9 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20UPDATED%20BEST%20%20%20SCRIPT%20x%20MOST%20OP%20GUI410.lua", "https://scriptblox.com/script/AWAKENINGS-Elemental-Dungeons-New-UPDATED-BEST-SCRIPT-x-MOST-OP-GUI-19885")
+                                    
