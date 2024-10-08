@@ -62,3 +62,5 @@ addscriptexist(4282985734, "Infinite Stamina", "Uploaded by eggerites on scriptb
                                     
     addscriptexist(4282985734, "ranged hitbox expander", "Uploaded by Guelgamesbr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ranged%20hitbox%20expander215.lua", "https://scriptblox.com/script/Combat-Warriors-ranged-hitbox-expander-10430")
                                     
+    addscriptexist(4282985734, "OP scripts for mobile device", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20scripts%20for%20mobile%20device305.lua", "https://scriptblox.com/script/Combat-Warriors-OP-scripts-for-mobile-device-19829")
+                                    

@@ -4,3 +4,5 @@
                                     
     addscriptexist(16993380837, "OP", "Uploaded by GPUXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP417.lua", "https://scriptblox.com/script/RNG-Gods-alpha-***-12790")
                                     
+    addscriptexist(16993380837, "Script For Mobile", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20For%20Mobile222.lua", "https://scriptblox.com/script/RNG-Gods-Script-For-Mobile-19826")
+                                    

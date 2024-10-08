@@ -20,3 +20,5 @@
                                     
     addscriptexist(9391468976, "TielHub", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TielHub77.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-TielHub-19635")
                                     
+    addscriptexist(9391468976, "Unlock Early Access Characters", "Uploaded by uvaldocoronell on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Early%20Access%20Characters193.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-Unlock-Early-Access-Characters-19825")
+                                    
