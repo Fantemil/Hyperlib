@@ -4,3 +4,5 @@ addscript(13997018456, "Current Game","Basic Aimbot Esp AirHub", "Uploaded by fl
                                     
     addscriptexist(13997018456, "XRo Best Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XRo%20Best%20Script701.lua", "https://scriptblox.com/script/Operations:-Siege-XRo-Best-Script-19821")
                                     
+    addscriptexist(13997018456, "request for script", "Uploaded by ZzzcubeZzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20for%20script532.lua", "https://scriptblox.com/script/Operations:-Siege-request-for-script-19877")
+                                    

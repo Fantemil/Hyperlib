@@ -28,3 +28,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                     
     addscriptexist(5130598377, "Best OP", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP381.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Best-OP-19728")
                                     
+    addscriptexist(5130598377, "TIELHUB", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TIELHUB33.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-TIELHUB-19878")
+                                    

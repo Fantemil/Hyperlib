@@ -430,3 +430,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "TSB Gojo script", "Uploaded by Raga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20Gojo%20script996.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-Gojo-script-19839")
                                     
+    addscriptexist(10449761463, "King Hub TSB", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20TSB927.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-King-Hub-TSB-19879")
+                                    
