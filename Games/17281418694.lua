@@ -4,3 +4,5 @@
                                     
     addscriptexist(17281418694, "Killaura", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killaura933.lua", "https://scriptblox.com/script/RELEASE-Lost-Souls-Killaura-19054")
                                     
+    addscriptexist(17281418694, "XP Farm", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XP%20Farm535.lua", "https://scriptblox.com/script/RELEASE-Lost-Souls-XP-Farm-19867")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(108650546678909, "Current Game","op script l open source", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20l%20open%20source524.lua", "https://scriptblox.com/script/NEW-Scary-Hide-andamp-Seek-op-script-l-open-source-19865")

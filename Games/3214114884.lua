@@ -14,3 +14,5 @@ addscriptexist(3214114884, " BYPASSED ANTITELEPORT RETURN NEW Kill All Cash Farm
                                     
     addscriptexist(3214114884, "Kill all", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20all253.lua", "https://scriptblox.com/script/Flag-Wars!-DOUBLE-XP-Kill-all-19599")
                                     
+    addscriptexist(3214114884, "KILL ALL UNDETECTED", "Uploaded by Jamesparkingd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20ALL%20UNDETECTED83.lua", "https://scriptblox.com/script/Flag-Wars!-DOUBLE-XP-KILL-ALL-19871")
+                                    
