@@ -290,3 +290,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Prizz admin", "Uploaded by Solarw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prizz%20admin186.lua", "https://scriptblox.com/script/Prison-Life-Prizz-admin-19708")
                                     
+    addscriptexist(155615604, "Zephyr Pris0n L1fe", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Pris0n%20L1fe898.lua", "https://scriptblox.com/script/Prison-Life-Zephyr-Pris0n-L1fe-19843")
+                                    
