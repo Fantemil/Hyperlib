@@ -1402,3 +1402,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "new script", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/new%20script28.lua", "https://scriptblox.com/script/Blox-Fruits-new-script-19783")
                                     
+    addscriptexist(2753915549, "Lunax X Hub", "Uploaded by robloxer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunax%20X%20Hub8.lua", "https://scriptblox.com/script/Blox-Fruits-Lunax-X-Hub-19837")
+                                    

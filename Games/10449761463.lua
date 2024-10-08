@@ -428,3 +428,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Limitless legacy script credits to wisp", "Uploaded by Minx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limitless%20legacy%20script%20credits%20to%20wisp512.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Limitless-legacy-script-credits-to-wisp-19833")
                                     
+    addscriptexist(10449761463, "TSB Gojo script", "Uploaded by Raga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20Gojo%20script996.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-Gojo-script-19839")
+                                    

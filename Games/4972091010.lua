@@ -12,3 +12,5 @@ addscript(4972091010, "Current Game","Script OP", "Uploaded by ZaNoob023621 on s
                                     
     addscriptexist(4972091010, "Autofarm Gui", "Uploaded by xkyxal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Gui383.lua", "https://scriptblox.com/script/NEW-andx1F525-Zombie-Uprising-LynethHub-Gui-15939")
                                     
+    addscriptexist(4972091010, "Request script op please  inf money and mod gun", "Uploaded by Yayasmi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20script%20op%20please%20%20inf%20money%20and%20mod%20gun361.lua", "https://scriptblox.com/script/Zombie-Uprising-Request-script-op-please-inf-money-and-mod-gun-19838")
+                                    
