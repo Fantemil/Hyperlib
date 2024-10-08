@@ -44,3 +44,5 @@
                                     
     addscriptexist(17574618959, "VivinneHub", "Uploaded by VivScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VivinneHub104.lua", "https://scriptblox.com/script/Just-a-baseplate.-VivinneHub-19639")
                                     
+    addscriptexist(17574618959, "Vivinne Hub", "Uploaded by VivScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vivinne%20Hub309.lua", "https://scriptblox.com/script/Just-a-baseplate.-Vivinne-Hub-19832")
+                                    

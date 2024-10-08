@@ -6,3 +6,5 @@
                                     
     addscriptexist(17144957461, "Request op script please", "Uploaded by Yayasmi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20op%20script%20please750.lua", "https://scriptblox.com/script/Sword-Legends-Simulator-UPDATE-Request-op-script-please-19828")
                                     
+    addscriptexist(17144957461, "Simple auto click check desc", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20auto%20click%20check%20desc163.lua", "https://scriptblox.com/script/Sword-Legends-Simulator-UPDATE-Simple-auto-click-check-desc-19832")
+                                    

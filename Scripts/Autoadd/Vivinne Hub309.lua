@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/VivianneRoblox/Vivianne-Hub-Source/refs/heads/main/Source'),true))()
