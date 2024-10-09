@@ -4,3 +4,5 @@ addscriptexist(4111023553, "Deepwok3n read desc Multi Scripts", "Uploaded by flo
                                 
     addscriptexist(4111023553, "BEST  Script", "Uploaded by muixeV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20Script251.lua", "https://scriptblox.com/script/Deepwoken-BEST-Script-19792")
                                     
+    addscriptexist(4111023553, "OP HUB", "Uploaded by muixeV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20HUB622.lua", "https://scriptblox.com/script/Deepwoken-OP-HUB-19885")
+                                    
