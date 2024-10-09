@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tunguyen1441/MeraHub/main/meraloader.txt"))()
