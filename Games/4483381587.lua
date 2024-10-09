@@ -110,3 +110,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "imLock", "Uploaded by uvaldocoronell on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/imLock433.lua", "https://scriptblox.com/script/a-literal-baseplate.-imLock-19826")
                                     
+    addscriptexist(4483381587, "op cht bypsser", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20cht%20bypsser976.lua", "https://scriptblox.com/script/a-literal-baseplate.-op-cht-bypsser-19884")
+                                    
