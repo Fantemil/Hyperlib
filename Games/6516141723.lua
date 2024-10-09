@@ -270,3 +270,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Door lolhax free", "Uploaded by LegitL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Door%20lolhax%20free980.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Door-lolhax-free-19873")
                                     
+    addscriptexist(6516141723, "mspaint script", "Uploaded by hackmanroblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mspaint%20script877.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-mspaint-script-19890")
+                                    
