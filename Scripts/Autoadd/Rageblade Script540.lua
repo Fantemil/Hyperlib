@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/vugiakhiem2106/game/-/raw/main/914010731_RoGhoulV2.lua"))()
