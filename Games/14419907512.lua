@@ -10,3 +10,5 @@
                                     
     addscriptexist(14419907512, "UPD SCRIPT", "Uploaded by Maulanaharwono on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPD%20SCRIPT86.lua", "https://scriptblox.com/script/Zombie-game-upd3-Free-pass-club-etc-15643")
                                     
+    addscriptexist(14419907512, "Funny", "Uploaded by Celestina on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funny26.lua", "https://scriptblox.com/script/Zombie-game-upd3-Funny-19930")
+                                    
