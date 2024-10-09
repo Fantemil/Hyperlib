@@ -1,0 +1,2 @@
+
+    addscript(114796728277080, "Current Game","UGC Instant Quest official", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UGC%20Instant%20Quest%20official83.lua", "https://scriptblox.com/script/UGC-SKIBIDI-SEEK-Instant-Quest-official-19891")

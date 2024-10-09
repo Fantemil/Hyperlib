@@ -40,3 +40,5 @@ addscriptexist(893973440, "Semi Universal", "Uploaded by Blade on scriptblox.com
                                     
     addscriptexist(893973440, "YAFTFEM LEGACY", "Uploaded by Imperial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YAFTFEM%20LEGACY23.lua", "https://scriptblox.com/script/Flee-the-Facility-YAFTFEM-11844")
                                     
+    addscriptexist(893973440, "AutoFarm Computers AND MORE", "Uploaded by pcallskeleton on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Computers%20AND%20MORE126.lua", "https://scriptblox.com/script/Flee-the-Facility-Flee-19888")
+                                    
