@@ -112,3 +112,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "op cht bypsser", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20cht%20bypsser976.lua", "https://scriptblox.com/script/a-literal-baseplate.-op-cht-bypsser-19884")
                                     
+    addscriptexist(4483381587, "MUTIPLE GMES 20 plus script plus op cht bypsser", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MUTIPLE%20GMES%2020%20plus%20script%20plus%20op%20cht%20bypsser166.lua", "https://scriptblox.com/script/a-literal-baseplate.-MUTIPLE-GMES-20-plus-script-plus-op-cht-bypsser-19924")
+                                    
