@@ -192,3 +192,5 @@
                                     
     addscriptexist(17625359962, "Literally OverPowered", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Literally%20OverPowered911.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Literally-OverPowered-19887")
                                     
+    addscriptexist(17625359962, "best  script", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20%20script664.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-best-script-19910")
+                                    

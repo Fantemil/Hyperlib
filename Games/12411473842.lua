@@ -36,3 +36,5 @@
                                     
     addscriptexist(12411473842, "Neuron XYZ FIX", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neuron%20XYZ%20FIX497.lua", "https://scriptblox.com/script/Pressure-Neuron-XYZ-FIX-19671")
                                     
+    addscriptexist(12411473842, "New Op Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Op%20Script11.lua", "https://scriptblox.com/script/Pressure-New-Op-Script-19902")
+                                    

@@ -22,3 +22,5 @@ addscriptexist(4588604953, "Moonlight  Best Free Criminality Script", "Uploaded 
                                     
     addscriptexist(4588604953, "FemboysHub Paid Version", "Uploaded by Lisfu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FemboysHub%20Paid%20Version872.lua", "https://scriptblox.com/script/Criminality-FemboysHub-Paid-Version-16435")
                                     
+    addscriptexist(4588604953, "The new best script", "Uploaded by cotykysy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20new%20best%20script508.lua", "https://scriptblox.com/script/Criminality-The-new-best-script-19905")
+                                    
