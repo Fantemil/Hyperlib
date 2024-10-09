@@ -6,3 +6,5 @@
                                     
     addscriptexist(15920058010, "releasing inf essence soon", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/releasing%20inf%20essence%20soon77.lua", "https://scriptblox.com/script/FREE-TEST-Sorcery-releasing-inf-essence-soon-19548")
                                     
+    addscriptexist(15920058010, "INFINITE ESSENCE FREE", "Uploaded by Jamesparkingd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20ESSENCE%20FREE824.lua", "https://scriptblox.com/script/FREE-TEST-Sorcery-INFINITE-ESSENCE-FREE-19904")
+                                    
