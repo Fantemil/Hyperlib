@@ -188,3 +188,5 @@
                                     
     addscriptexist(17625359962, "RYBOWE HUB THE BEST AIM BOT", "Uploaded by YoSoyNoProfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RYBOWE%20HUB%20THE%20BEST%20AIM%20BOT516.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-RYBOWE-HUB-THE-BEST-AIM-BOT-19872")
                                     
+    addscriptexist(17625359962, "Best  aimbot", "Uploaded by samuelmateobrujan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20aimbot462.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Best-aimbot-19886")
+                                    
