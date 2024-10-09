@@ -190,3 +190,5 @@
                                     
     addscriptexist(17625359962, "Best  aimbot", "Uploaded by samuelmateobrujan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20aimbot462.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Best-aimbot-19886")
                                     
+    addscriptexist(17625359962, "Literally OverPowered", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Literally%20OverPowered911.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Literally-OverPowered-19887")
+                                    

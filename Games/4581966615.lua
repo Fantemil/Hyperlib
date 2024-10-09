@@ -14,3 +14,5 @@ addscript(4581966615, "Current Game","just look at description", "Uploaded by Ch
                                     
     addscriptexist(4581966615, "Script SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20SOLARA%20SUPPORTED83.lua", "https://scriptblox.com/script/Anomic-Script-SOLARA-SUPPORTED-18494")
                                     
+    addscriptexist(4581966615, "SCRIPT AUTO PRINTER", "Uploaded by gintheworld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20AUTO%20PRINTER489.lua", "https://scriptblox.com/script/Anomic-SCRIPT-AUTO-PRINTER-19888")
+                                    
