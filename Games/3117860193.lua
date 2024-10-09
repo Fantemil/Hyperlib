@@ -1,0 +1,2 @@
+
+    addscript(3117860193, "Current Game","Auto Get Gun", "Uploaded by Thee_Kingz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Get%20Gun945.lua", "https://scriptblox.com/script/In-Area-51-ALPHA-Auto-Get-Gun-19893")

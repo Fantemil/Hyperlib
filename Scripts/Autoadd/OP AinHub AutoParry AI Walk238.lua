@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-a-i-n/ain-hub-on-top/refs/heads/main/AinHub%20UPDATED.txt", true))()

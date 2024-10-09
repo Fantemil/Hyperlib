@@ -64,3 +64,5 @@ addscriptexist(8737602449, "Nuke Donation ClientSided not ServerSided", "Uploade
                                     
     addscriptexist(8737602449, "show the admin button", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/show%20the%20admin%20button464.lua", "https://scriptblox.com/script/PLS-DONATE-admin-spoof-19250")
                                     
+    addscriptexist(8737602449, "Auto Beg Server Hopper Auto Thanks", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Beg%20Server%20Hopper%20Auto%20Thanks634.lua", "https://scriptblox.com/script/PLS-DONATE-Auto-Beg-Server-Hopper-Auto-Thanks-19898")
+                                    
