@@ -8,3 +8,5 @@
                                     
     addscriptexist(13209672039, "Inf money", "Uploaded by MRSCRIPT5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money609.lua", "https://scriptblox.com/script/(beta)-papers-pls-Inf-money-19228")
                                     
+    addscriptexist(13209672039, "Request script", "Uploaded by Fortniteboy777777 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20script981.lua", "https://scriptblox.com/script/(beta)-papers-pls-Request-script-19918")
+                                    

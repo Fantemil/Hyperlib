@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BreakIn2Funnybro/bi2/refs/heads/main/bi2.lua', true))()

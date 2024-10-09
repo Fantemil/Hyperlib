@@ -436,3 +436,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "FE EMOTEANIMATION FOR", "Uploaded by gintheworld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20EMOTEANIMATION%20FOR436.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FE-EMOTEANIMATION-FOR-19912")
                                     
+    addscriptexist(10449761463, "Tsb toji script", "Uploaded by hackmanroblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsb%20toji%20script500.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Tsb-toji-script-19917")
+                                    

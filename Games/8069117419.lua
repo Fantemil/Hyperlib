@@ -8,3 +8,5 @@ addscript(8069117419, "Current Game","AutoFarm Teleports AutoChest", "Uploaded b
                                 
 addscriptexist(8069117419, "New OP Hub For Demon Soul Simulator", "Uploaded by diglt on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20OP%20Hub%20For%20Demon%20Soul%20Simulator371.lua", "https://rscripts.net/script/new-op-hub-for-demon-soul-simulator-3643")
                                 
+    addscriptexist(8069117419, "Auto Farm Auto Swing Auto Farm Enemy", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Swing%20Auto%20Farm%20Enemy996.lua", "https://scriptblox.com/script/Demon-Soul-Simulator-Auto-Farm-Auto-Swing-Auto-Farm-Enemy-19918")
+                                    

@@ -256,3 +256,7 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Anti Afk WalkSpeed Teleport", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Afk%20WalkSpeed%20Teleport743.lua", "https://scriptblox.com/script/Brookhaven-RP-Anti-Afk-WalkSpeed-Teleport-19403")
                                     
+    addscriptexist(4924922222, "Troll Pannel", "Uploaded by Solarw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20Pannel864.lua", "https://scriptblox.com/script/Brookhaven-RP-Troll-Pannel-19919")
+                                    
+    addscriptexist(4924922222, "Men de el rey c00lkidd", "Uploaded by cbenitos1949 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Men%20de%20el%20rey%20c00lkidd838.lua", "https://scriptblox.com/script/Brookhaven-RP-Men-de-el-rey-c00lkidd-19915")
+                                    
