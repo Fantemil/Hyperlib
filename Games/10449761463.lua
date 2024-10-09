@@ -440,3 +440,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "BetterBypasser Chat Bypass AI ChatBot Hub TSB FREE KEYLESS", "Uploaded by SynergyNetworks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BetterBypasser%20Chat%20Bypass%20AI%20ChatBot%20Hub%20TSB%20FREE%20KEYLESS305.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-BetterBypasser-Chat-Bypass-AI-ChatBot-Hub-TSB-FREE-KEYLESS-19921")
                                     
+    addscriptexist(10449761463, "KJ Client Sided Script Not Mine", "Uploaded by qzrl6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20Client%20Sided%20Script%20Not%20Mine632.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-Client-Sided-Script-Not-Mine-19927")
+                                    
