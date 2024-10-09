@@ -272,3 +272,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "mspaint script", "Uploaded by hackmanroblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mspaint%20script877.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-mspaint-script-19890")
                                     
+    addscriptexist(6516141723, "Noclip FLOOR 2", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Noclip%20FLOOR%202637.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Noclip-FLOOR-2-19911")
+                                    
