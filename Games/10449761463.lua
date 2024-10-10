@@ -444,3 +444,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "FE SERVERSIDED KJ MOVESET ABILITY", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20SERVERSIDED%20KJ%20MOVESET%20ABILITY968.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FE-SERVERSIDED-KJ-MOVESET-ABILITY-19954")
                                     
+    addscriptexist(10449761463, "Custom movesets for tsb", "Uploaded by tazgamerz7867 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20movesets%20for%20tsb865.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Custom-movesets-for-tsb-19962")
+                                    
