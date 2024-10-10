@@ -1,0 +1,2 @@
+
+    addscript(17282136897, "Current Game","annoy players", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/annoy%20players814.lua", "https://scriptblox.com/script/Doors-Sandbox-FREE-PRIVATE-annoy-players-19928")
