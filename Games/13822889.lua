@@ -28,3 +28,5 @@ addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com"
                                     
     addscriptexist(13822889, "BDG Hub", "Uploaded by xbl_bdg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BDG%20Hub219.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-BDG-Hub-17951")
                                     
+    addscriptexist(13822889, "Teleport to people script", "Uploaded by Leka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20people%20script829.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Teleport-to-people-script-19959")
+                                    
