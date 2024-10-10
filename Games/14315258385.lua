@@ -4,3 +4,5 @@
                                     
     addscriptexist(14315258385, "OP GUI Plasma V2 Bypass", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20Plasma%20V2%20Bypass783.lua", "https://scriptblox.com/script/Realistic-Street-Soccer-(3-on-3)-OP-GUI-Plasma-V2-19531")
                                     
+    addscriptexist(14315258385, "RSS AC BYPASS AND MODIFIERS V3", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RSS%20AC%20BYPASS%20AND%20MODIFIERS%20V3437.lua", "https://scriptblox.com/script/Realistic-Street-Soccer-(3-on-3)-RSS-AC-BYPASS-AND-MODIFIERS-V3-19966")
+                                    

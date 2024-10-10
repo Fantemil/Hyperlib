@@ -12,3 +12,5 @@
                                     
     addscriptexist(12177325772, "CH HUB", "Uploaded by vanyakurimov on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CH%20HUB531.lua", "https://scriptblox.com/script/GAMES-Super-League-Soccer-CH-HUB-16979")
                                     
+    addscriptexist(12177325772, "SLS AC BYPASS AND MODIFIERS V3", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SLS%20AC%20BYPASS%20AND%20MODIFIERS%20V3552.lua", "https://scriptblox.com/script/GK-Super-League-Soccer-SLS-AC-BYPASS-AND-MODIFIERS-19971")
+                                    
