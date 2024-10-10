@@ -8,3 +8,5 @@ addscript(9224601490, "Current Game","PrimeExo Hub", "Uploaded by PrimeExo on sc
                                     
     addscriptexist(9224601490, "OP Auto Farm And Auto Skills", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm%20And%20Auto%20Skills713.lua", "https://scriptblox.com/script/DARKXQUAKE-Fruit-Battlegrounds-OP-Auto-Farm-And-Auto-Skills-13074")
                                     
+    addscriptexist(9224601490, "TIELHUB", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TIELHUB319.lua", "https://scriptblox.com/script/MYTHICAL-WOLF-Fruit-Battlegrounds-TIELHUB-19969")
+                                    
