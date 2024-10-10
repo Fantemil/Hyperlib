@@ -1,0 +1,2 @@
+
+    addscript(204990346, "Current Game","Mod tank", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mod%20tank666.lua", "https://scriptblox.com/script/Tiny-Tanks!-Mod-tank-19970")
