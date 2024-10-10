@@ -6,3 +6,7 @@
                                     
     addscriptexist(17419137085, "Inf Rebirth inf  scension", "Uploaded by Kaito_fans on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Rebirth%20inf%20%20scension479.lua", "https://scriptblox.com/script/BACK!-Build-a-Tycoon!-Inf-Rebirth-inf-scension-14777")
                                     
+    addscriptexist(17419137085, "Time Token Multi Upgrde", "Uploaded by BlankNamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Time%20Token%20Multi%20Upgrde154.lua", "https://scriptblox.com/script/Build-a-Tycoon!-Time-Token-Multi-Upgrde-19949")
+                                    
+    addscriptexist(17419137085, "Infinite Money", "Uploaded by BlankNamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money933.lua", "https://scriptblox.com/script/Build-a-Tycoon!-Infinite-Money-19948")
+                                    
