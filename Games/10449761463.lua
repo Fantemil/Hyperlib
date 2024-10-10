@@ -442,3 +442,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "KJ Client Sided Script Not Mine", "Uploaded by qzrl6 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20Client%20Sided%20Script%20Not%20Mine632.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-Client-Sided-Script-Not-Mine-19927")
                                     
+    addscriptexist(10449761463, "FE SERVERSIDED KJ MOVESET ABILITY", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20SERVERSIDED%20KJ%20MOVESET%20ABILITY968.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FE-SERVERSIDED-KJ-MOVESET-ABILITY-19954")
+                                    

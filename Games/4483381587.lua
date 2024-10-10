@@ -116,3 +116,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "100 plus scripts LL SCRIPTS OP", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/100%20plus%20scripts%20LL%20SCRIPTS%20OP794.lua", "https://scriptblox.com/script/a-literal-baseplate.-100-plus-scripts-LL-OP-19937")
                                     
+    addscriptexist(4483381587, "UPDTED 130 PLUS SCRIPTS LL OP S HELL", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDTED%20130%20PLUS%20SCRIPTS%20LL%20OP%20S%20HELL254.lua", "https://scriptblox.com/script/a-literal-baseplate.-UPDTED-130-PLUS-SCRIPTS-LL-OP-S-HELL-19954")
+                                    

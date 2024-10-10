@@ -1,0 +1,2 @@
+
+    addscript(17563379022, "Current Game","Instant UGC", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC500.lua", "https://scriptblox.com/script/UPD13Ninja-Cutter-Simulator-Instant-UGC-19953")

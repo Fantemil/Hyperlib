@@ -1,0 +1,5 @@
+https://discord.gg/JkbsNKqN
+
+JOIN IT FOR THE SCRIPTS.. 
+
+130+ DIFFRENT GAMES! ALL OP 
