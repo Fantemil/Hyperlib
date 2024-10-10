@@ -1,0 +1,2 @@
+
+    addscript(104243526201936, "Current Game","Script request", "Uploaded by Josesaucedo397 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request72.lua", "https://scriptblox.com/script/Wrestling-Legends-UPD1-Script-request-19932")
