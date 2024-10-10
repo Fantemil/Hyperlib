@@ -34,3 +34,5 @@ addscriptexist(13827198708, "utoclick frm", "Uploaded by 12slash25 on scriptblox
                                     
     addscriptexist(13827198708, "King Hub OP FRM", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20OP%20FRM155.lua", "https://scriptblox.com/script/Pull-a-Sword-King-Hub-OP-FRM-19816")
                                     
+    addscriptexist(13827198708, "uto Click uto Rebirth Hlloween Event Frm nd Hlloween", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Click%20uto%20Rebirth%20Hlloween%20Event%20Frm%20nd%20Hlloween885.lua", "https://scriptblox.com/script/Pull-a-Sword-uto-Click-uto-Rebirth-Hlloween-Event-Frm-nd-Hlloween-19944")
+                                    

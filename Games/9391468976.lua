@@ -22,3 +22,5 @@
                                     
     addscriptexist(9391468976, "Unlock Early Access Characters", "Uploaded by uvaldocoronell on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Early%20Access%20Characters193.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-Unlock-Early-Access-Characters-19825")
                                     
+    addscriptexist(9391468976, "Auto Black Flash", "Uploaded by Raga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Black%20Flash638.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-Auto-Black-Flash-19945")
+                                    

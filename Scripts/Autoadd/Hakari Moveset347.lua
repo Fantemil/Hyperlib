@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hamletirl/HakariTSB/refs/heads/main/Main"))()
