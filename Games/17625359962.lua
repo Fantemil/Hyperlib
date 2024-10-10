@@ -196,3 +196,5 @@
                                     
     addscriptexist(17625359962, "Best OP script TONS of OP features", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20script%20TONS%20of%20OP%20features960.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Best-OP-script-TONS-of-OP-features-19934")
                                     
+    addscriptexist(17625359962, "Very OverPowered VERY VERY VERY OP", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OverPowered%20VERY%20VERY%20VERY%20OP542.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Very-OverPowered-VERY-VERY-VERY-OP-19977")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MalvadoScripts/Red-vs-blue-plane-wars-protect/refs/heads/main/Red%20vs%20blue%20plane%20wars", true))()
