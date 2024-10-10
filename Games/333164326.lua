@@ -4,3 +4,5 @@ addscript(333164326, "Current Game","admin house OP", "Uploaded by amcoolguy on 
                                 
     addscriptexist(333164326, "Freeze people roblox cilent", "Uploaded by AHcrasher on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20people%20roblox%20cilent723.lua", "https://scriptblox.com/script/UPD-Admin-House!-Freeze-people-roblox-cilent-18095")
                                     
+    addscriptexist(333164326, "House Script", "Uploaded by LlamaScriptz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/House%20Script966.lua", "https://scriptblox.com/script/Admin-House!-House-Script-19935")
+                                    

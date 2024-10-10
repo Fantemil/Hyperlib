@@ -194,3 +194,5 @@
                                     
     addscriptexist(17625359962, "best  script", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20%20script664.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-best-script-19910")
                                     
+    addscriptexist(17625359962, "Best OP script TONS of OP features", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP%20script%20TONS%20of%20OP%20features960.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Best-OP-script-TONS-of-OP-features-19934")
+                                    

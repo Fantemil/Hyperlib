@@ -4,3 +4,5 @@ addscript(8540168650, "Current Game","jojo best game NOT MINE", "Uploaded by ant
                                 
     addscriptexist(8540168650, "NOT UPDATED", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOT%20UPDATED531.lua", "https://scriptblox.com/script/Stand-Upright:-Rebooted-NOT-UPDATED-18119")
                                     
+    addscriptexist(8540168650, "Azurium HUB", "Uploaded by mituma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azurium%20HUB529.lua", "https://scriptblox.com/script/Stand-Upright:-Rebooted-Azurium-HUB-19933")
+                                    
