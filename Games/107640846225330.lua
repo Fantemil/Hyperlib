@@ -1,0 +1,2 @@
+
+    addscript(107640846225330, "Current Game","Infinite Money", "Uploaded by qovux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money134.lua", "https://scriptblox.com/script/Like-or-Pass-Infinite-Money-19975")

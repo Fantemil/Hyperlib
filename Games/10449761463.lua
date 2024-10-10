@@ -448,3 +448,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "custom movests tsb reuploaded", "Uploaded by tazgamerz7867 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/custom%20movests%20tsb%20reuploaded974.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-custom-movests-tsb-reuploaded-19969")
                                     
+    addscriptexist(10449761463, "Best KJ Script", "Uploaded by cattosoftworks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20KJ%20Script357.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Best-KJ-Script-19976")
+                                    
+    addscriptexist(10449761463, "JJK Hakari Moveset for TSB", "Uploaded by gintheworld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JJK%20Hakari%20Moveset%20for%20TSB710.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-JJK-Hakari-Moveset-for-TSB-19974")
+                                    
