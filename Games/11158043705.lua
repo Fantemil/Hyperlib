@@ -12,3 +12,5 @@
                                     
     addscriptexist(11158043705, "by NxCrazyDev", "Uploaded by nxcrazydev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/by%20NxCrazyDev133.lua", "https://scriptblox.com/script/Baddies-by-NxCrazyDev-18905")
                                     
+    addscriptexist(11158043705, "OP INFINITE MONEY SCRIPT", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20INFINITE%20MONEY%20SCRIPT776.lua", "https://scriptblox.com/script/Baddies-OP-INFINITE-MONEY-SCRIPT-19932")
+                                    
