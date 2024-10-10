@@ -40,3 +40,5 @@
                                     
     addscriptexist(16146832113, "New Op Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Op%20Script935.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-New-Op-Script-19792")
                                     
+    addscriptexist(16146832113, "FARM rizeHub AV", "Uploaded by koslinaks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FARM%20rizeHub%20AV446.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-FARM-rizeHub-AV-19965")
+                                    

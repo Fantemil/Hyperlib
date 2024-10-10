@@ -260,3 +260,11 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Men de el rey c00lkidd", "Uploaded by cbenitos1949 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Men%20de%20el%20rey%20c00lkidd838.lua", "https://scriptblox.com/script/Brookhaven-RP-Men-de-el-rey-c00lkidd-19915")
                                     
+    addscriptexist(4924922222, "Rionays Rochips panel  script", "Uploaded by rionays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rionays%20Rochips%20panel%20%20script778.lua", "https://scriptblox.com/script/Brookhaven-RP-Rionays-Rochips-panel-script-19970")
+                                    
+    addscriptexist(4924922222, "Rionays Salvatore script", "Uploaded by rionays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rionays%20Salvatore%20script223.lua", "https://scriptblox.com/script/Brookhaven-RP-Rionays-Salvatore-script-19963")
+                                    
+    addscriptexist(4924922222, "Rionays Sander X  Script", "Uploaded by rionays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rionays%20Sander%20X%20%20Script616.lua", "https://scriptblox.com/script/Brookhaven-RP-Rionays-Sander-X-Script-19966")
+                                    
+    addscriptexist(4924922222, "Rionays X Imperial Hub Script", "Uploaded by rionays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rionays%20X%20Imperial%20Hub%20Script830.lua", "https://scriptblox.com/script/Brookhaven-RP-Rionays-X-Imperial-Hub-Script-19967")
+                                    
