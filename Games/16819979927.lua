@@ -4,3 +4,5 @@
                                     
     addscriptexist(16819979927, "equip any aura fixed errors", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/equip%20any%20aura%20fixed%20errors833.lua", "https://scriptblox.com/script/Bims-RNG-MAJOR-UDPATE-+-THE-CLASSIC-EVENT-equip-any-aura-14234")
                                     
+    addscriptexist(16819979927, "OP  Aura Changer", "Uploaded by lololihatemen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Aura%20Changer462.lua", "https://scriptblox.com/script/Jim's-RNG-RULER-OF-EVERYTHING-OP-Aura-Changer-19936")
+                                    

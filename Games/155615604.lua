@@ -292,3 +292,5 @@ addscriptexist(155615604, "Wyllan Scripts  v1", "Uploaded by Wyllan_Scripts on s
                                     
     addscriptexist(155615604, "Zephyr Pris0n L1fe", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Pris0n%20L1fe898.lua", "https://scriptblox.com/script/Prison-Life-Zephyr-Pris0n-L1fe-19843")
                                     
+    addscriptexist(155615604, "Zephyr V2 Pris0n L1fe", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20V2%20Pris0n%20L1fe727.lua", "https://scriptblox.com/script/Prison-Life-Zephyr-V2-Pris0n-L1fe-19937")
+                                    
