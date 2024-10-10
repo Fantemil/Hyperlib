@@ -42,3 +42,5 @@ addscriptexist(6961824067, "Simple Time Left Till Next Spin", "Uploaded by EviIA
                                     
     addscriptexist(6961824067, "Best Hub Work Solara", "Uploaded by w1olaxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Hub%20Work%20Solara873.lua", "https://scriptblox.com/script/Fling-Things-and-People-Best-Hub-Work-Solara-19853")
                                     
+    addscriptexist(6961824067, "Killa Hub", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killa%20Hub318.lua", "https://scriptblox.com/script/Fling-Things-and-People-Killa-Hub-19970")
+                                    

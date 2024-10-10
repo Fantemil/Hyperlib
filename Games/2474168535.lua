@@ -22,3 +22,5 @@ addscriptexist(2474168535, "V165 Silent Aim Animal ESP Rob Aura", "Uploaded by E
                                     
     addscriptexist(2474168535, "WestWare v0", "Uploaded by Sebi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WestWare%20v077.lua", "https://scriptblox.com/script/Westbound-WestWare-v0-19692")
                                     
+    addscriptexist(2474168535, "BEST SCRIPT", "Uploaded by Fear_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT632.lua", "https://scriptblox.com/script/Westbound-BEST-SCRIPT-19970")
+                                    

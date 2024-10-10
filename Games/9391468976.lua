@@ -24,3 +24,5 @@
                                     
     addscriptexist(9391468976, "Auto Black Flash", "Uploaded by Raga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Black%20Flash638.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-Auto-Black-Flash-19945")
                                     
+    addscriptexist(9391468976, "King Hub JS", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20JS25.lua", "https://scriptblox.com/script/TEN-SHADOWS-Jujutsu-Shenanigans-King-Hub-JS-19971")
+                                    
