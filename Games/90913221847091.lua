@@ -1,0 +1,2 @@
+
+    addscript(90913221847091, "Current Game","REQUEST", "Uploaded by fwvinny on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST78.lua", "https://scriptblox.com/script/Football-Legends-REQUEST-20020")
