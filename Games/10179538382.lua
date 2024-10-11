@@ -8,3 +8,5 @@ addscriptexist(10179538382, "AC Bypass", "Uploaded by gore on scriptblox.com", "
                                     
     addscriptexist(10179538382, "BRONX SOLARA", "Uploaded by aemos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BRONX%20SOLARA986.lua", "https://scriptblox.com/script/UPDATE-South-Bronx:-The-Trenches-Bronx-Solara-17092")
                                     
+    addscriptexist(10179538382, "Killa lol", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killa%20lol940.lua", "https://scriptblox.com/script/South-Bronx:-The-Trenches-Killa-lol-20018")
+                                    
