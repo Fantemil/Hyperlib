@@ -1,0 +1,2 @@
+
+    addscript(18314395469, "Current Game","Inf Energy", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Energy76.lua", "https://scriptblox.com/script/Evolution-Simulator-Inf-Energy-20000")

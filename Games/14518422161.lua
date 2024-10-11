@@ -52,3 +52,5 @@
                                     
     addscriptexist(14518422161, "OPEN SOURCE equip any weapon and camo even killstreak guns", "Uploaded by neutral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20equip%20any%20weapon%20and%20camo%20even%20killstreak%20guns397.lua", "https://scriptblox.com/script/Gunfight-Arena-or-UPDATE-OPEN-SOURCE-equip-any-weapon-and-camo-even-killstreak-guns-19716")
                                     
+    addscriptexist(14518422161, "get all weapons", "Uploaded by OPSCRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20weapons843.lua", "https://scriptblox.com/script/Gunfight-Arena-or-UPDATE-get-all-weapons-20002")
+                                    
