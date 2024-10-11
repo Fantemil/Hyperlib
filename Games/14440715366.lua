@@ -1,2 +1,4 @@
 
 addscript(14440715366, "Current Game","LEGION   Reach Script", "Uploaded by skate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LEGION%20%20%20Reach%20Script971.lua", "https://scriptblox.com/script/LEGION:-Deprecated-Soccer-LEGION-Reach-Script-7720")
+    addscriptexist(14440715366, "LEGION SCRIPT WORKS FOR ALL PLATFORMS", "Uploaded by luaon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LEGION%20SCRIPT%20WORKS%20FOR%20ALL%20PLATFORMS279.lua", "https://scriptblox.com/script/LEGION:-Deprecated-Soccer-LEGION-SCRIPT-WORKS-FOR-ALL-PLATFORMS-19997")
+                                    

@@ -14,3 +14,5 @@ addscriptexist(654732683, "infinite max speed", "Uploaded by evi1z on scriptblox
                                     
     addscriptexist(654732683, "INFINITE MONEY UNLOCK ALL S SCRIPT", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20MONEY%20UNLOCK%20ALL%20S%20SCRIPT951.lua", "https://scriptblox.com/script/NEW-Graphics!-Car-Crushers-2-Physics-Sim-INFINITE-MONEY-UNLOCK-ALL-S-SCRIPT-19997")
                                     
+    addscriptexist(654732683, "INFINITE MONEY UNLOCK ALL SCRIPT", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20MONEY%20UNLOCK%20ALL%20SCRIPT177.lua", "https://scriptblox.com/script/NEW-Graphics!-Car-Crushers-2-Physics-Sim-INFINITE-MONEY-UNLOCK-ALL-SCRIPT-19998")
+                                    
