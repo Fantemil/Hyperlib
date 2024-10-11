@@ -454,3 +454,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Gojo Hub NEW AND JUST RELEASED", "Uploaded by Illhookyouupman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Hub%20NEW%20AND%20JUST%20RELEASED366.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Hub-NEW-AND-JUST-RELEASED-19988")
                                     
+    addscriptexist(10449761463, "Custom movesets Dr ray Gui remake", "Uploaded by tazgamerz7867 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Custom%20movesets%20Dr%20ray%20Gui%20remake608.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Custom-movesets-Dr-ray-Gui-remake-19994")
+                                    
