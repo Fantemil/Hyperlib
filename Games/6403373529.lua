@@ -266,3 +266,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Hub Solara Support", "Uploaded by hsgwhjgggwhw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20Solara%20Support365.lua", "https://scriptblox.com/script/Slap-Battles-Hub-Solara-Support-19904")
                                     
+    addscriptexist(6403373529, "ULTIMATE BOXER", "Uploaded by donavinkenthodrick on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ULTIMATE%20BOXER661.lua", "https://scriptblox.com/script/Slap-Battles-ULTIMATE-BOXER-19980")
+                                    

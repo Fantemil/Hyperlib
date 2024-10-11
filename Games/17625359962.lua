@@ -198,3 +198,5 @@
                                     
     addscriptexist(17625359962, "Very OverPowered VERY VERY VERY OP", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OverPowered%20VERY%20VERY%20VERY%20OP542.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Very-OverPowered-VERY-VERY-VERY-OP-19977")
                                     
+    addscriptexist(17625359962, "OP Triggerbot ESP    Solara Support", "Uploaded by duxs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Triggerbot%20ESP%20%20%20%20Solara%20Support512.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-OP-Triggerbot-ESP-Solara-Support-19981")
+                                    

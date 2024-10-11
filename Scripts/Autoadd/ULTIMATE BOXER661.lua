@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/linxsithy/SB/refs/heads/main/ultraboxersbv.1.txt"),true))()
