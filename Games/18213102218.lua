@@ -8,3 +8,5 @@
                                     
     addscriptexist(18213102218, "Zyra Hub  Trainig", "Uploaded by Zyra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zyra%20Hub%20%20Trainig626.lua", "https://scriptblox.com/script/World-2-Titan-Training-Simulator-Zyra-Hub-Trainig-17420")
                                     
+    addscriptexist(18213102218, "TTS Script", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TTS%20Script327.lua", "https://scriptblox.com/script/GIFT-Titan-Training-Simulator-TTS-Script-19988")
+                                    
