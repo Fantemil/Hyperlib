@@ -6,3 +6,5 @@
                                     
     addscriptexist(116295913939017, "INF Money Farm", "Uploaded by Seasonal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Money%20Farm548.lua", "https://scriptblox.com/script/Plinko-RNG!-INF-Money-Farm-19560")
                                     
+    addscriptexist(116295913939017, "autism", "Uploaded by cl5_b4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autism433.lua", "https://scriptblox.com/script/Plinko-RNG!-autism-20022")
+                                    
