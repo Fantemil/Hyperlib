@@ -4,3 +4,5 @@
                                     
     addscriptexist(18901165922, "BEST SCRIPT", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT10.lua", "https://scriptblox.com/script/PETS-GO!-NEW-BEST-SCRIPT-20019")
                                     
+    addscriptexist(18901165922, "The Best P Script ZapHub", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20P%20Script%20ZapHub102.lua", "https://scriptblox.com/script/PETS-GO!-NEW-The-Best-GO-Script-ZapHub-20025")
+                                    
