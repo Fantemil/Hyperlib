@@ -16,3 +16,5 @@
                                     
     addscriptexist(11276071411, "D1E", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D1E446.lua", "https://scriptblox.com/script/Be-NPC-or-DIE!-D1E-19604")
                                     
+    addscriptexist(11276071411, "Suppt solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Suppt%20solara305.lua", "https://scriptblox.com/script/Be-NPC-or-DIE!-Suppt-solara-19986")
+                                    
