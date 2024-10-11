@@ -6,3 +6,5 @@ addscript(863266079, "Current Game","Aimbot Heli Crash ESP", "Uploaded by poweri
                                     
     addscriptexist(863266079, "Vitalwtf", "Uploaded by fedarel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vitalwtf931.lua", "https://scriptblox.com/script/Apocalypse-Rising-2-Vitalwtf-16404")
                                     
+    addscriptexist(863266079, "REQUEST", "Uploaded by russiandoggo911 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST66.lua", "https://scriptblox.com/script/Apocalypse-Rising-2-REQUEST-20019")
+                                    
