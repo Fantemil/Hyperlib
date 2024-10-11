@@ -4,3 +4,5 @@ addscript(8619263259, "Current Game","script", "Uploaded by SlOodd0 on scriptblo
                                 
     addscriptexist(8619263259, "Auto TP Orb", "Uploaded by fkit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20TP%20Orb743.lua", "https://scriptblox.com/script/v4.0.2-Critical-Legends-Auto-TP-Orb-19638")
                                     
+    addscriptexist(8619263259, "Request", "Uploaded by FutureQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request738.lua", "https://scriptblox.com/script/v4.0.2-Critical-Legends-Request-20030")
+                                    

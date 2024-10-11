@@ -6,3 +6,5 @@ addscriptexist(7711635737, "Normality", "Uploaded by brudda on scriptblox.com", 
                                     
     addscriptexist(7711635737, "Cheat Pannel EH", "Uploaded by Solarw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheat%20Pannel%20EH537.lua", "https://scriptblox.com/script/Emergency-Hamburg-Cheat-Pannel-EH-19720")
                                     
+    addscriptexist(7711635737, "Car Good Mod", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Good%20Mod914.lua", "https://scriptblox.com/script/Emergency-Hamburg-Car-Good-Mod-20029")
+                                    
