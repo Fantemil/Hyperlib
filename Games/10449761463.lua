@@ -452,3 +452,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "JJK Hakari Moveset for TSB", "Uploaded by gintheworld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JJK%20Hakari%20Moveset%20for%20TSB710.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-JJK-Hakari-Moveset-for-TSB-19974")
                                     
+    addscriptexist(10449761463, "Gojo Hub NEW AND JUST RELEASED", "Uploaded by Illhookyouupman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Hub%20NEW%20AND%20JUST%20RELEASED366.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Hub-NEW-AND-JUST-RELEASED-19988")
+                                    
