@@ -24,3 +24,5 @@
                                     
     addscriptexist(205224386, "really OP I think", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/really%20OP%20I%20think423.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-sneak-thing-19399")
                                     
+    addscriptexist(205224386, "Support solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20solara675.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-Support-solara-19986")
+                                    
