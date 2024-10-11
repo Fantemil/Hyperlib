@@ -1,0 +1,2 @@
+
+    addscript(18901165922, "Current Game","P3TS GO FREE GUI", "Uploaded by koslinaks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P3TS%20GO%20FREE%20GUI590.lua", "https://scriptblox.com/script/PETS-GO!-TODAY-P3TS-GO-FREE-GUI-20011")
