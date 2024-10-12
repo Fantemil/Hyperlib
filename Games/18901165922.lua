@@ -8,3 +8,5 @@
                                     
     addscriptexist(18901165922, "AUTOROLL AND FARM P3TS GO FREE", "Uploaded by koslinaks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOROLL%20AND%20FARM%20P3TS%20GO%20FREE906.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AUTOROLL-AND-FARM-P3TS-GO-FREE-20042")
                                     
+    addscriptexist(18901165922, "Rinns Hub", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinns%20Hub107.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Rinns-Hub-20052")
+                                    

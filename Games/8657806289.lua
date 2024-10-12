@@ -12,3 +12,5 @@ addscript(8657806289, "Current Game","HITBOX", "Uploaded by SUMMER on scriptblox
                                     
     addscriptexist(8657806289, "gun mod", "Uploaded by yd123098 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gun%20mod38.lua", "https://scriptblox.com/script/Dummies-vs-Noobs-gun-mod-16472")
                                     
+    addscriptexist(8657806289, "OP GUN MOD", "Uploaded by OPSCRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUN%20MOD959.lua", "https://scriptblox.com/script/Dummies-vs-Noobs-OP-GUN-MOD-20049")
+                                    

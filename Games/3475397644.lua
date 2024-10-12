@@ -10,3 +10,5 @@ addscriptexist(3475397644, "Sundae Minigame  updated", "Uploaded by KhSaeed90 on
                                     
     addscriptexist(3475397644, "Neuron X OP script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neuron%20X%20OP%20script162.lua", "https://scriptblox.com/script/SEASON-Dragon-Adventures-Fantasy-Pets-Neuron-X-OP-script-19398")
                                     
+    addscriptexist(3475397644, "Auto everything", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20everything512.lua", "https://scriptblox.com/script/EVENT-Dragon-Adventures-Fantasy-Pets-Auto-everything-20048")
+                                    
