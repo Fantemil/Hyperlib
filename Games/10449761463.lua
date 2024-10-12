@@ -466,3 +466,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "TSBG TOJI SCRIPT", "Uploaded by BronzeScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSBG%20TOJI%20SCRIPT13.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSBG-TOJI-SCRIPT-20080")
                                     
+    addscriptexist(10449761463, "Dodge script tsb", "Uploaded by hungryshunget on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dodge%20script%20tsb105.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Dodge-script-tsb-20118")
+                                    

@@ -40,3 +40,5 @@
                                     
     addscriptexist(18901165922, "MEGA Fast Roll and AutoUpgrade with AutoBuy", "Uploaded by PDiddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Fast%20Roll%20and%20AutoUpgrade%20with%20AutoBuy726.lua", "https://scriptblox.com/script/PETS-GO!-NEW-MEGA-Fast-Roll-and-AutoUpgrade-with-AutoBuy-20097")
                                     
+    addscriptexist(18901165922, "The Best Free PGO Script ZapHub", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Free%20PGO%20Script%20ZapHub500.lua", "https://scriptblox.com/script/PETS-GO!-NEW-The-Best-Free-Script-ZapHub-20119")
+                                    
