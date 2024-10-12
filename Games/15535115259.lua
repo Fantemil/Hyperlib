@@ -14,3 +14,5 @@
                                     
     addscriptexist(15535115259, "auto collect remote", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20collect%20remote943.lua", "https://scriptblox.com/script/Launch-Into-Space-Simulator-auto-collect-remote-14576")
                                     
+    addscriptexist(15535115259, "OP SCRIPT", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT589.lua", "https://scriptblox.com/script/Launch-Into-Space-Simulator-OP-SCRIPT-20075")
+                                    

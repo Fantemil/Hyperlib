@@ -10,3 +10,5 @@
                                     
     addscriptexist(116295913939017, "Unlimited Money", "Uploaded by Expjacob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Money284.lua", "https://scriptblox.com/script/Plinko-RNG!-Unlimited-Money-20065")
                                     
+    addscriptexist(116295913939017, "Auto Prestige", "Uploaded by aiSelfMade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Prestige355.lua", "https://scriptblox.com/script/Plinko-RNG!-Auto-Prestige-20080")
+                                    

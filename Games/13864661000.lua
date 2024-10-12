@@ -78,3 +78,5 @@ addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "ht
                                     
     addscriptexist(13864661000, "OP Gui   Blitz No key needed", "Uploaded by NotMyscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Gui%20%20%20Blitz%20No%20key%20needed73.lua", "https://scriptblox.com/script/Break-In-2-(Story)-OP-Gui-Blitz-No-key-needed-15351")
                                     
+    addscriptexist(13864661000, "script mobile and pc", "Uploaded by ariznasri76 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20mobile%20and%20pc733.lua", "https://scriptblox.com/script/Break-In-2-(Story)-script-mobile-and-pc-20076")
+                                    
