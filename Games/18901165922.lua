@@ -6,3 +6,5 @@
                                     
     addscriptexist(18901165922, "The Best P Script ZapHub", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20P%20Script%20ZapHub102.lua", "https://scriptblox.com/script/PETS-GO!-NEW-The-Best-GO-Script-ZapHub-20025")
                                     
+    addscriptexist(18901165922, "AUTOROLL AND FARM P3TS GO FREE", "Uploaded by koslinaks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTOROLL%20AND%20FARM%20P3TS%20GO%20FREE906.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AUTOROLL-AND-FARM-P3TS-GO-FREE-20042")
+                                    

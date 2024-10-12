@@ -460,3 +460,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "SANS MOVESET", "Uploaded by freshgamer430 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SANS%20MOVESET665.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-SANS-MOVESET-20033")
                                     
+    addscriptexist(10449761463, "Moveset More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moveset%20More975.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Moveset-More-20040")
+                                    
