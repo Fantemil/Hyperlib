@@ -10,3 +10,5 @@ addscriptexist(11156779721, "AUTO PICKUP MINE AURA CHOP AURA", "Uploaded by Cosm
                                     
     addscriptexist(11156779721, "aura solutions for", "Uploaded by dumm_dogg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aura%20solutions%20for825.lua", "https://scriptblox.com/script/The-Survival-Game-Monkeys!-aura-solutions-for-19683")
                                     
+    addscriptexist(11156779721, "Auras Solutions", "Uploaded by EThus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auras%20Solutions768.lua", "https://scriptblox.com/script/The-Survival-Game-Monkeys!-Auras-Solutions-20036")
+                                    

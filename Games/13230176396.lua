@@ -1,0 +1,2 @@
+
+    addscript(13230176396, "Current Game","Win", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win617.lua", "https://scriptblox.com/script/No-Jumping-Obby-For-Admin-Complete-20038")

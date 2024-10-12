@@ -200,3 +200,5 @@
                                     
     addscriptexist(17625359962, "OP Triggerbot ESP    Solara Support", "Uploaded by duxs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Triggerbot%20ESP%20%20%20%20Solara%20Support512.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-OP-Triggerbot-ESP-Solara-Support-19981")
                                     
+    addscriptexist(17625359962, "OP WITH AIMBOT AND SILENT AIM God Mode", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20WITH%20AIMBOT%20AND%20SILENT%20AIM%20God%20Mode187.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-OP-WITH-AIMBOT-AND-SILENT-AIM-God-Mode-20037")
+                                    

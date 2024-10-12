@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/Survival/refs/heads/main/Kya-WareFree", true))()
