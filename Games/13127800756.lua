@@ -112,3 +112,5 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "AutoF AutoHatch Webhook with stats", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoF%20AutoHatch%20Webhook%20with%20stats914.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-AutoF-AutoHatch-Webhook-with-stats-19976")
                                     
+    addscriptexist(13127800756, "Auto Candies from Pumpkins and Ghosts", "Uploaded by MACTEP_CKPUnTOB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Candies%20from%20Pumpkins%20and%20Ghosts745.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Pumpkin-and-Ghosts-20114")
+                                    

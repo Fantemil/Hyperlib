@@ -8,3 +8,5 @@
                                     
     addscriptexist(18897546346, "fly script", "Uploaded by amiroune1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fly%20script172.lua", "https://scriptblox.com/script/Make-my-game-famous-fly-script-20086")
                                     
+    addscriptexist(18897546346, "Silent OP SCRIPT key WeLoveYouEclipse", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20OP%20SCRIPT%20key%20WeLoveYouEclipse243.lua", "https://scriptblox.com/script/Make-my-game-famous-Silent-OP-SCRIPT-key-WeLoveYouEclipse-20114")
+                                    

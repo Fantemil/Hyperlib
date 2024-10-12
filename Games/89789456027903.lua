@@ -1,0 +1,2 @@
+
+    addscript(89789456027903, "Current Game","Teleport To Eggs", "Uploaded by cry0n1s1s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20To%20Eggs742.lua", "https://scriptblox.com/script/Clicking-Legends-EVENT-Teleport-To-Eggs-20113")
