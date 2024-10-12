@@ -20,3 +20,13 @@
                                     
     addscriptexist(18901165922, "5x fast auto roll and more", "Uploaded by Isiah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/5x%20fast%20auto%20roll%20and%20more720.lua", "https://scriptblox.com/script/PETS-GO!-NEW-5x-fast-auto-roll-and-more-20078")
                                     
+    addscriptexist(18901165922, "5x roll faster", "Uploaded by Isiah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/5x%20roll%20faster653.lua", "https://scriptblox.com/script/PETS-GO!-NEW-5x-roll-faster-20075")
+                                    
+    addscriptexist(18901165922, "FARM ROLL SPEED HUB GUI FREE", "Uploaded by koslinaks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FARM%20ROLL%20SPEED%20HUB%20GUI%20FREE484.lua", "https://scriptblox.com/script/PETS-GO!-NEW-FARM-ROLL-SPEED-HUB-GUI-FREE-20073")
+                                    
+    addscriptexist(18901165922, "Visual Gem Dupe 10X Roll Speed Auto Coin Destroyer", "Uploaded by BearrX0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20Gem%20Dupe%2010X%20Roll%20Speed%20Auto%20Coin%20Destroyer602.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Visual-Gem-Dupe-10X-Roll-Speed-Auto-Coin-Destroyer-20075")
+                                    
+    addscriptexist(18901165922, "AutoFarm AutoTap", "Uploaded by PDiddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20AutoTap794.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AutoFarm-AutoTap-20080")
+                                    
+    addscriptexist(18901165922, "OP SCRIPT", "Uploaded by Idontkno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT542.lua", "https://scriptblox.com/script/PETS-GO!-NEW-OP-SCRIPT-20084")
+                                    
