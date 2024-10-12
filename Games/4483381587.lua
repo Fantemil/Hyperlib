@@ -124,3 +124,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "ESP TEST", "Uploaded by Amigos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20TEST995.lua", "https://scriptblox.com/script/a-literal-baseplate.-ESP-TEST-20065")
                                     
+    addscriptexist(4483381587, "Universl imbot", "Uploaded by saksfun4s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universl%20imbot434.lua", "https://scriptblox.com/script/a-literal-baseplate.-Universl-imtbot-20072")
+                                    

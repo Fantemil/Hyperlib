@@ -1,0 +1,2 @@
+
+    addscript(18629143858, "Current Game","Script", "Uploaded by lolyuzzl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script135.lua", "https://scriptblox.com/script/High-Realms-TRAVELING-BARD-Script-20074")

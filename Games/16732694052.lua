@@ -1,0 +1,2 @@
+
+    addscript(16732694052, "Current Game","Goomba Hub", "Uploaded by xenococo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Goomba%20Hub730.lua", "https://scriptblox.com/script/NEW-Fisch-Goomba-Hub-20071")
