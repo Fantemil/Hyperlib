@@ -8,3 +8,5 @@
                                     
     addscriptexist(8880590553, "Give all", "Uploaded by Spidermanboy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20all76.lua", "https://scriptblox.com/script/Animal-Evolution-Simulator-Give-all-17708")
                                     
+    addscriptexist(8880590553, "Free Character", "Uploaded by Expjacob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Character814.lua", "https://scriptblox.com/script/Animal-Evolution-Simulator-Free-Character-20057")
+                                    
