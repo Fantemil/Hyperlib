@@ -30,3 +30,7 @@
                                     
     addscriptexist(18901165922, "OP SCRIPT", "Uploaded by Idontkno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT542.lua", "https://scriptblox.com/script/PETS-GO!-NEW-OP-SCRIPT-20084")
                                     
+    addscriptexist(18901165922, "AutoRoll AutoUpgrade", "Uploaded by PDiddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoRoll%20AutoUpgrade546.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AutoRoll-AutoUpgrade-20085")
+                                    
+    addscriptexist(18901165922, "Autofarm by LuminHub", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20by%20LuminHub177.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Autofarm-by-LuminHub-20090")
+                                    

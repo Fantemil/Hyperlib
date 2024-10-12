@@ -202,3 +202,7 @@
                                     
     addscriptexist(17625359962, "OP WITH AIMBOT AND SILENT AIM God Mode", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20WITH%20AIMBOT%20AND%20SILENT%20AIM%20God%20Mode187.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-OP-WITH-AIMBOT-AND-SILENT-AIM-God-Mode-20037")
                                     
+    addscriptexist(17625359962, "Silent OP  SCRIPT", "Uploaded by SilentHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20OP%20%20SCRIPT109.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Silent-OP-SCRIPT-20090")
+                                    
+    addscriptexist(17625359962, "silent aim", "Uploaded by injecting on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/silent%20aim257.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-silent-aim-20091")
+                                    
