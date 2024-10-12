@@ -1,0 +1,2 @@
+
+    addscript(18278138600, "Current Game","All", "Uploaded by Expjacob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All532.lua", "https://scriptblox.com/script/UPD-2-Find-The-Inside-Out-2-All-20099")

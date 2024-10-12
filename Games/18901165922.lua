@@ -34,3 +34,7 @@
                                     
     addscriptexist(18901165922, "Autofarm by LuminHub", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20by%20LuminHub177.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Autofarm-by-LuminHub-20090")
                                     
+    addscriptexist(18901165922, "AutoFarm NoKey", "Uploaded by ypolar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20NoKey660.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AutoFarm-NoKey-20093")
+                                    
+    addscriptexist(18901165922, "Syrex Hub", "Uploaded by gerisx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub286.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Syrex-Hub-20095")
+                                    

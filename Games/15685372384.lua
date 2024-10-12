@@ -1,0 +1,2 @@
+
+    addscript(15685372384, "Current Game","Hitbox", "Uploaded by Ambience on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox379.lua", "https://scriptblox.com/script/UNORTHODOX-ACCOUNTING-Hitbox-20094")
