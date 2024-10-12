@@ -276,3 +276,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Auto Open", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Open921.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Auto-Open-20081")
                                     
+    addscriptexist(6516141723, "Sensation V2", "Uploaded by Hex on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sensation%20V285.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Sensation-V2-20105")
+                                    

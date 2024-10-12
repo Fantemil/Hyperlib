@@ -1,0 +1,1 @@
+/spawn_blackhole_near_@playerusername
