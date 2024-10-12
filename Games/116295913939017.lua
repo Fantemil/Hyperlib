@@ -8,3 +8,5 @@
                                     
     addscriptexist(116295913939017, "autism", "Uploaded by cl5_b4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autism433.lua", "https://scriptblox.com/script/Plinko-RNG!-autism-20022")
                                     
+    addscriptexist(116295913939017, "Unlimited Money", "Uploaded by Expjacob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Money284.lua", "https://scriptblox.com/script/Plinko-RNG!-Unlimited-Money-20065")
+                                    
