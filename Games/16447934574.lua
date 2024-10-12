@@ -8,3 +8,5 @@
                                     
     addscriptexist(16447934574, "PC BloxyHub Gui Less Version OP Tp Ball", "Uploaded by bloxyhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PC%20BloxyHub%20Gui%20Less%20Version%20OP%20Tp%20Ball440.lua", "https://scriptblox.com/script/NEW-Touch-Football-PC-BloxyHub-Gui-Less-Version-OP-Tp-Ball-16229")
                                     
+    addscriptexist(16447934574, "auto goal", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20goal112.lua", "https://scriptblox.com/script/Touch-Football-Tpuch-auto-goal-20122")
+                                    

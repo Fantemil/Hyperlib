@@ -14,3 +14,5 @@
                                     
     addscriptexist(11158043705, "OP INFINITE MONEY SCRIPT", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20INFINITE%20MONEY%20SCRIPT776.lua", "https://scriptblox.com/script/Baddies-OP-INFINITE-MONEY-SCRIPT-19932")
                                     
+    addscriptexist(11158043705, "V2 sigma", "Uploaded by lankydumahh312 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/V2%20sigma411.lua", "https://scriptblox.com/script/Baddies-V2-sigma-20119")
+                                    

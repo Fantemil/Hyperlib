@@ -4,3 +4,5 @@
                                     
     addscriptexist(8286149869, "Get all items", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20items687.lua", "https://scriptblox.com/script/therapy-UPDATE-Get-all-items-14510")
                                     
+    addscriptexist(8286149869, "Synergy Hub", "Uploaded by SynergyNetworks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Synergy%20Hub315.lua", "https://scriptblox.com/script/therapy-Synergy-Hub-20118")
+                                    
