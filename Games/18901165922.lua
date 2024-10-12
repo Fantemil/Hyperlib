@@ -12,3 +12,11 @@
                                     
     addscriptexist(18901165922, "AtherHub", "Uploaded by Athergaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AtherHub910.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AtherHub-20068")
                                     
+    addscriptexist(18901165922, "SPID HUB FREE FARM FOR P3TS GO", "Uploaded by koslinaks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SPID%20HUB%20FREE%20FARM%20FOR%20P3TS%20GO63.lua", "https://scriptblox.com/script/PETS-GO!-NEW-SPID-HUB-FREE-FARM-FOR-P3TS-GO-20074")
+                                    
+    addscriptexist(18901165922, "Auto Farm And More", "Uploaded by Wiezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More646.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Auto-Farm-And-More-20076")
+                                    
+    addscriptexist(18901165922, "Visual Gem Dupe and Visual Ser", "Uploaded by Bearr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Visual%20Gem%20Dupe%20and%20Visual%20Ser130.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Visual-Gem-Dupe-and-Visual-S*er-20079")
+                                    
+    addscriptexist(18901165922, "5x fast auto roll and more", "Uploaded by Isiah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/5x%20fast%20auto%20roll%20and%20more720.lua", "https://scriptblox.com/script/PETS-GO!-NEW-5x-fast-auto-roll-and-more-20078")
+                                    

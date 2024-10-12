@@ -16,3 +16,5 @@ addscript(3623096087, "Current Game","MaddHub", "Uploaded by maddjester on scrip
                                     
     addscriptexist(3623096087, "The Hunt", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hunt460.lua", "https://scriptblox.com/script/Muscle-Legends-The-Hunt-11339")
                                     
+    addscriptexist(3623096087, "Speed hub X", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20hub%20X930.lua", "https://scriptblox.com/script/Muscle-Legends-Speed-hub-X-20080")
+                                    
