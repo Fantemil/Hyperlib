@@ -462,3 +462,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Moveset More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moveset%20More975.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Moveset-More-20040")
                                     
+    addscriptexist(10449761463, "Yuji Moveset by xVicity", "Uploaded by freshgamer430 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yuji%20Moveset%20by%20xVicity328.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Yuji-Moveset-by-xVicity-20072")
+                                    
