@@ -26,3 +26,5 @@ addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com"
                                     
     addscriptexist(7305309231, "Alluring HUB", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20HUB108.lua", "https://scriptblox.com/script/Taxi-Boss-Alluring-HUB-19619")
                                     
+    addscriptexist(7305309231, "Best script 2024", "Uploaded by Fear_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20202449.lua", "https://scriptblox.com/script/Taxi-Boss-Best-script-2024-20118")
+                                    
