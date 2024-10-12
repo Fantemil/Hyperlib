@@ -28,3 +28,5 @@ addscriptexist(192800, "Vip Item Buyer For Work At A Pizza Palce", "Uploaded by 
                                     
     addscriptexist(192800, "Pizz Plce Script", "Uploaded by Hm501 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pizz%20Plce%20Script797.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-pizz-plce-19252")
                                     
+    addscriptexist(192800, "pizz plce", "Uploaded by Hm501 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pizz%20plce375.lua", "https://scriptblox.com/script/Work-at-a-Pizza-Place-pizz-plce-20071")
+                                    

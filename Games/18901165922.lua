@@ -10,3 +10,5 @@
                                     
     addscriptexist(18901165922, "Rinns Hub", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinns%20Hub107.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Rinns-Hub-20052")
                                     
+    addscriptexist(18901165922, "AtherHub", "Uploaded by Athergaming on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AtherHub910.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AtherHub-20068")
+                                    
