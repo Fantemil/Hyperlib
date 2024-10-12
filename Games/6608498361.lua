@@ -20,3 +20,5 @@ addscriptexist(6608498361, "WALLBANG", "Uploaded by Duza_Klapa on scriptblox.com
                                 
 addscriptexist(6608498361, "ESP", "Uploaded by Duza_Klapa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP826.lua", "https://scriptblox.com/script/cursed-tank-simulatorLAST-RESORT-ESP-7106")
                                 
+    addscriptexist(6608498361, "Decrease armor size", "Uploaded by Lucas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Decrease%20armor%20size364.lua", "https://scriptblox.com/script/Cursed-Tank-SimulatorFIRE-SUPPORT-Decrease-armor-size-20103")
+                                    

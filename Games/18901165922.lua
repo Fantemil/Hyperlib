@@ -38,3 +38,5 @@
                                     
     addscriptexist(18901165922, "Syrex Hub", "Uploaded by gerisx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub286.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Syrex-Hub-20095")
                                     
+    addscriptexist(18901165922, "MEGA Fast Roll and AutoUpgrade with AutoBuy", "Uploaded by PDiddy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MEGA%20Fast%20Roll%20and%20AutoUpgrade%20with%20AutoBuy726.lua", "https://scriptblox.com/script/PETS-GO!-NEW-MEGA-Fast-Roll-and-AutoUpgrade-with-AutoBuy-20097")
+                                    
