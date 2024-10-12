@@ -1,2 +1,4 @@
 
     addscript(10679239752, "Current Game","Mythic Hub", "Uploaded by Mythic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mythic%20Hub735.lua", "https://scriptblox.com/script/Furry-Infection-game-Furinfection-Mythic-Hub-12539")
+    addscriptexist(10679239752, "Kill Aura  Kill All And More", "Uploaded by Isiah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20%20Kill%20All%20And%20More378.lua", "https://scriptblox.com/script/Furry-Infection-game-Furinfection-Kill-Aura-Kill-All-And-More-20085")
+                                    

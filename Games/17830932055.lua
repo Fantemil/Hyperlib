@@ -1,0 +1,2 @@
+
+    addscript(17830932055, "Current Game","inf", "Uploaded by gianskibidi3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf481.lua", "https://scriptblox.com/script/Karen-Simulator-inf-20084")
