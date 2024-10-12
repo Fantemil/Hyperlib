@@ -12,3 +12,5 @@ addscriptexist(3475397644, "Sundae Minigame  updated", "Uploaded by KhSaeed90 on
                                     
     addscriptexist(3475397644, "Auto everything", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20everything512.lua", "https://scriptblox.com/script/EVENT-Dragon-Adventures-Fantasy-Pets-Auto-everything-20048")
                                     
+    addscriptexist(3475397644, "adventure halloween script fix", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/adventure%20halloween%20script%20fix794.lua", "https://scriptblox.com/script/EVENT-Dragon-Adventures-Fantasy-Pets-adventure-halloween-script-fix-20054")
+                                    
