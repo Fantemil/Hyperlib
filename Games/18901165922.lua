@@ -60,3 +60,5 @@
                                     
     addscriptexist(18901165922, "trash script not made by me", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/trash%20script%20not%20made%20by%20me816.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Op-not-made-by-me-20166")
                                     
+    addscriptexist(18901165922, "Speed Hub XV2 AUTO ROLL FARM", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20XV2%20AUTO%20ROLL%20FARM822.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Speed-Hub-XV2-AUTO-ROLL-FARM-20180")
+                                    

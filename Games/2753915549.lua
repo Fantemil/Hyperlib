@@ -1418,3 +1418,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "min hub good for farming", "Uploaded by mini_sub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/min%20hub%20good%20for%20farming894.lua", "https://scriptblox.com/script/Blox-Fruits-min-hub-good-for-farming-20170")
                                     
+    addscriptexist(2753915549, "Auto Farm Mob Auto Quest Teleport", "Uploaded by lampard on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Mob%20Auto%20Quest%20Teleport429.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-Farm-Mob-Auto-Quest-Teleport-20181")
+                                    
