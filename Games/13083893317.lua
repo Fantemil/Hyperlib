@@ -6,3 +6,5 @@
                                     
     addscriptexist(13083893317, "Fluxion beta", "Uploaded by imgay222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fluxion%20beta839.lua", "https://scriptblox.com/script/UPD-Life-Sentence-Fluxion-beta-17763")
                                     
+    addscriptexist(13083893317, "Astral Beta", "Uploaded by Zyon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Astral%20Beta986.lua", "https://scriptblox.com/script/Life-Sentence-Astral-Beta-20142")
+                                    
