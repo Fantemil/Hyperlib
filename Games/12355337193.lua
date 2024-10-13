@@ -84,3 +84,5 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                     
     addscriptexist(12355337193, "This function can be used in a variety of ways", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/This%20function%20can%20be%20used%20in%20a%20variety%20of%20ways98.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-This-function-can-be-used-in-a-variety-of-ways-20073")
                                     
+    addscriptexist(12355337193, "Op Script", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Script448.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Op-Script-20130")
+                                    
