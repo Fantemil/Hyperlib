@@ -10,3 +10,5 @@
                                     
     addscriptexist(18897546346, "Silent OP SCRIPT key WeLoveYouEclipse", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20OP%20SCRIPT%20key%20WeLoveYouEclipse243.lua", "https://scriptblox.com/script/Make-my-game-famous-Silent-OP-SCRIPT-key-WeLoveYouEclipse-20114")
                                     
+    addscriptexist(18897546346, "Universal Kick All GUI", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kick%20All%20GUI776.lua", "https://scriptblox.com/script/Make-my-game-famous-Universal-Kick-All-GUI-20152")
+                                    

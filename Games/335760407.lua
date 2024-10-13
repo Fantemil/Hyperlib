@@ -30,3 +30,5 @@ addscriptexist(335760407, "TPS React Script BEST IN GK", "Uploaded by skate on s
                                     
     addscriptexist(335760407, "CRAFTCODE TPS   SCRIPT", "Uploaded by luaon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CRAFTCODE%20TPS%20%20%20SCRIPT989.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-CRAFTCODE-TPS-SCRIPT-19647")
                                     
+    addscriptexist(335760407, "Script for Tps Ultimate", "Uploaded by Soumoulishishi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20for%20Tps%20Ultimate260.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-Script-for-Tps-Ultimate-20150")
+                                    
