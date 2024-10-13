@@ -44,3 +44,7 @@
                                     
     addscriptexist(18901165922, "Really good script keyless", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Really%20good%20script%20keyless213.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Really-good-script-keyless-20127")
                                     
+    addscriptexist(18901165922, "Faster Roll 5x And More", "Uploaded by Isiah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Faster%20Roll%205x%20And%20More284.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Faster-Roll-5x-And-More-20142")
+                                    
+    addscriptexist(18901165922, "Auto Collect All Relics And Auto Fast Roll", "Uploaded by Wiezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20All%20Relics%20And%20Auto%20Fast%20Roll826.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Auto-Collect-All-Relics-And-Auto-Fast-Roll-20143")
+                                    

@@ -1412,3 +1412,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Random op script again to one piece game", "Uploaded by OPSCRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20op%20script%20again%20to%20one%20piece%20game948.lua", "https://scriptblox.com/script/Blox-Fruits-Random-op-script-again-to-one-piece-game-20041")
                                     
+    addscriptexist(2753915549, "KING OF SCRIPTS HUB", "Uploaded by GTVZ_MODDED on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KING%20OF%20SCRIPTS%20HUB935.lua", "https://scriptblox.com/script/Blox-Fruits-KING-OF-SCRIPTS-HUB-20140")
+                                    

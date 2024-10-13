@@ -92,3 +92,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "Katers NDS Hub", "Uploaded by Katers_BIG_CAT_MAN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Katers%20NDS%20Hub873.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Katers-NDS-Hub-19533")
                                     
+    addscriptexist(189707, "op doesnt work on solara sadly again", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20doesnt%20work%20on%20solara%20sadly%20again410.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-op-doesnt-work-on-solara-sadly-again-20138")
+                                    

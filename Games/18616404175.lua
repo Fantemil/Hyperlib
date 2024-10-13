@@ -1,0 +1,2 @@
+
+    addscript(18616404175, "Current Game","Slow Cash Autofarm", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Slow%20Cash%20Autofarm544.lua", "https://scriptblox.com/script/Cars-RNG-NEW-MAP-Slow-Cash-Autofarm-20141")

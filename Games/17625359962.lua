@@ -206,3 +206,5 @@
                                     
     addscriptexist(17625359962, "silent aim", "Uploaded by injecting on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/silent%20aim257.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-silent-aim-20091")
                                     
+    addscriptexist(17625359962, "script i use NOT MINE", "Uploaded by yeetboy7b on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20i%20use%20NOT%20MINE800.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-script-i-use-NOT-MINE-20139")
+                                    
