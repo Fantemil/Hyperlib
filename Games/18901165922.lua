@@ -64,3 +64,7 @@
                                     
     addscriptexist(18901165922, "Anti Mail Stealer", "Uploaded by Zyra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Mail%20Stealer932.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Anti-Mail-Stealer-20183")
                                     
+    addscriptexist(18901165922, "Auto Farm More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20More592.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Auto-Farm-More-20191")
+                                    
+    addscriptexist(18901165922, "Anti Mailstealer", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Mailstealer569.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Anti-Mailstealer-20192")
+                                    
