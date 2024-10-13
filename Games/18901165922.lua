@@ -50,3 +50,7 @@
                                     
     addscriptexist(18901165922, "Find All Relics", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20All%20Relics458.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Find-All-Relics-20146")
                                     
+    addscriptexist(18901165922, "ZipHub P3ts Go Farm", "Uploaded by kimonos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZipHub%20P3ts%20Go%20Farm180.lua", "https://scriptblox.com/script/PETS-GO!-NEW-ZipHub-P3ts-Go-Farm-20149")
+                                    
+    addscriptexist(18901165922, "Speed Hub X free", "Uploaded by kimonos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20free267.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Speed-Hub-X-free-20148")
+                                    
