@@ -8,3 +8,5 @@ addscriptexist(9865958871, "ESP", "Uploaded by THIS_IS_DEV on scriptblox.com", "
                                     
     addscriptexist(9865958871, "Alluring HUB 2", "Uploaded by Alluringlamb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20HUB%202233.lua", "https://scriptblox.com/script/BIG-Paintball-2!-Alluring-HUB-2-19641")
                                     
+    addscriptexist(9865958871, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub899.lua", "https://scriptblox.com/script/BIG-Paintball-2!-Rocket-Hub-20228")
+                                    

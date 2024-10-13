@@ -18,3 +18,5 @@
                                     
     addscriptexist(11276071411, "Suppt solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Suppt%20solara305.lua", "https://scriptblox.com/script/Be-NPC-or-DIE!-Suppt-solara-19986")
                                     
+    addscriptexist(11276071411, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub146.lua", "https://scriptblox.com/script/Be-NPC-or-DIE!-Rocket-Hub-20230")
+                                    

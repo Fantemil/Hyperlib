@@ -210,3 +210,5 @@
                                     
     addscriptexist(17625359962, "Hoya Executor Windows", "Uploaded by CallMeJp3zc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoya%20Executor%20Windows213.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Hoya-Executor-Windows-20147")
                                     
+    addscriptexist(17625359962, "Alluring AI", "Uploaded by alluringlambpl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20AI850.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Alluring-AI-20231")
+                                    

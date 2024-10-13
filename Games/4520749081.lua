@@ -46,3 +46,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                     
     addscriptexist(4520749081, "Auto Farm Auto Skill", "Uploaded by Geradeleks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Skill902.lua", "https://scriptblox.com/script/UPDATE-6-King-Legacy-Auto-Farm-Auto-Skill-19817")
                                     
+    addscriptexist(4520749081, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub416.lua", "https://scriptblox.com/script/UPDATE-6-King-Legacy-Rocket-Hub-20238")
+                                    

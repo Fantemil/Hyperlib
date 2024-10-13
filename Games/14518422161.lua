@@ -54,3 +54,5 @@
                                     
     addscriptexist(14518422161, "get all weapons", "Uploaded by OPSCRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20weapons843.lua", "https://scriptblox.com/script/Gunfight-Arena-or-UPDATE-get-all-weapons-20002")
                                     
+    addscriptexist(14518422161, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub492.lua", "https://scriptblox.com/script/Gunfight-Arena-or-NEW-MODE-Rocket-Hub-20236")
+                                    

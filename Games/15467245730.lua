@@ -8,3 +8,5 @@
                                     
     addscriptexist(15467245730, "Random Ngl", "Uploaded by IamMewingFrFr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Random%20Ngl523.lua", "https://scriptblox.com/script/OP-Battlegrounds-Battleground-10509")
                                     
+    addscriptexist(15467245730, "battleground", "Uploaded by The_strongest_dummy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/battleground679.lua", "https://scriptblox.com/script/OP-Battlegrounds-battleground-20235")
+                                    

