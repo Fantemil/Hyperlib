@@ -48,3 +48,5 @@
                                     
     addscriptexist(18901165922, "Auto Collect All Relics And Auto Fast Roll", "Uploaded by Wiezo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20All%20Relics%20And%20Auto%20Fast%20Roll826.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Auto-Collect-All-Relics-And-Auto-Fast-Roll-20143")
                                     
+    addscriptexist(18901165922, "Find All Relics", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20All%20Relics458.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Find-All-Relics-20146")
+                                    

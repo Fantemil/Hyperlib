@@ -1,0 +1,2 @@
+
+    addscript(9178325092, "Current Game","Request accept", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20accept726.lua", "https://scriptblox.com/script/Cut-The-Grass-RP-Request-accept-20145")

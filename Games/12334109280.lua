@@ -6,3 +6,5 @@ addscript(12334109280, "Current Game","kitten", "Uploaded by kitten on scriptblo
                                     
     addscriptexist(12334109280, "OP napoleonic games", "Uploaded by OPSCRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20napoleonic%20games743.lua", "https://scriptblox.com/script/Guts-andamp-Blackpowder-OP-napoleonic-games-19998")
                                     
+    addscriptexist(12334109280, "OP SCRIPT", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT266.lua", "https://scriptblox.com/script/Guts-andamp-Blackpowder-HEADLESS-HORSEMAN-OP-SCRIPT-20144")
+                                    
