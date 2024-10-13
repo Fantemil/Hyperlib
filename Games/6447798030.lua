@@ -70,3 +70,5 @@ addscriptexist(6447798030, "autoplayer made by Bart3kk", "Uploaded by puringtonw
                                     
     addscriptexist(6447798030, "Auto Play NOT MADE BY ME", "Uploaded by naitshortcagampang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Play%20NOT%20MADE%20BY%20ME383.lua", "https://scriptblox.com/script/Funky-Friday-NOT-MADE-BY-NE-19901")
                                     
+    addscriptexist(6447798030, "Auto Player GUI", "Uploaded by Raga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Player%20GUI400.lua", "https://scriptblox.com/script/Funky-Friday-Auto-Player-GUI-20135")
+                                    

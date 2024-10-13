@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Funky-Friday-that-one-auto-player-but-without-the-viruses-18275", true))();
