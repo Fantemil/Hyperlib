@@ -14,3 +14,5 @@ addscriptexist(2866967438, " KHub  UPDATED  Fishing Simulator Ultimate Script Wo
                                 
     addscriptexist(2866967438, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2405.lua", "https://scriptblox.com/script/(VALENTINES)-Fishing-Simulator-Demonic-HUB-V2-10732")
                                     
+    addscriptexist(2866967438, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED316.lua", "https://scriptblox.com/script/Fishing-Simulator-SOLARA-SUPPORTED-20221")
+                                    

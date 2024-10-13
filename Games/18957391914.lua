@@ -4,3 +4,5 @@
                                     
     addscriptexist(18957391914, "TS Script", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TS%20Script12.lua", "https://scriptblox.com/script/EVENT-The-Skinwalker-Script-19985")
                                     
+    addscriptexist(18957391914, "TS OP Script", "Uploaded by ArquiveHacks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TS%20OP%20Script882.lua", "https://scriptblox.com/script/EVENT-The-Skinwalker-TS-OP-Script-20221")
+                                    

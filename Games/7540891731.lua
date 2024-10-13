@@ -14,3 +14,5 @@ addscript(7540891731, "Current Game"," Light  Light OutlawsHub OP Script", "Uplo
                                     
     addscriptexist(7540891731, "Vaeth Hub Squid Game", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vaeth%20Hub%20Squid%20Game4.lua", "https://scriptblox.com/script/Red-Light-Green-Light-(FIX)-Vaeth-Hub-Squid-Game-19258")
                                     
+    addscriptexist(7540891731, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub131.lua", "https://scriptblox.com/script/Red-Light-Green-Light-(FIX)-Rocket-Hub-20216")
+                                    

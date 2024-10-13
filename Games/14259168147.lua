@@ -26,3 +26,5 @@ addscriptexist(14259168147, "auto Greener", "Uploaded by carnshipxvi13 on script
                                     
     addscriptexist(14259168147, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED907.lua", "https://scriptblox.com/script/2X-Basketball-Legends-Basket-Ball-SOLARA-SUPPORTED-19310")
                                     
+    addscriptexist(14259168147, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub215.lua", "https://scriptblox.com/script/2X-Basketball-Legends-Rocket-Hub-20218")
+                                    

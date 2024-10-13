@@ -10,3 +10,5 @@
                                     
     addscriptexist(16447934574, "auto goal", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20goal112.lua", "https://scriptblox.com/script/Touch-Football-Tpuch-auto-goal-20122")
                                     
+    addscriptexist(16447934574, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub285.lua", "https://scriptblox.com/script/Touch-Football-Rocket-Hub-20220")
+                                    

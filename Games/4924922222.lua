@@ -272,3 +272,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Brookhave  English", "Uploaded by Haider on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhave%20%20English630.lua", "https://scriptblox.com/script/Brookhaven-RP-Brookhave-English-20211")
                                     
+    addscriptexist(4924922222, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub495.lua", "https://scriptblox.com/script/Brookhaven-RP-Rocket-Hub-20224")
+                                    
