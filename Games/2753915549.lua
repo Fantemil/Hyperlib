@@ -1416,3 +1416,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "SCRIPT SOLARA SUPPORTED", "Uploaded by isammahyou on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20SOLARA%20SUPPORTED571.lua", "https://scriptblox.com/script/Blox-Fruits-SCRIPT-SOLARA-SUPPORTED-20160")
                                     
+    addscriptexist(2753915549, "min hub good for farming", "Uploaded by mini_sub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/min%20hub%20good%20for%20farming894.lua", "https://scriptblox.com/script/Blox-Fruits-min-hub-good-for-farming-20170")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(127587127386958, "Current Game","Script request", "Uploaded by sosoez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request564.lua", "https://scriptblox.com/script/MATCHMAKING-Vision-Script-request-20168")

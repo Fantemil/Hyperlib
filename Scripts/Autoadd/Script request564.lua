@@ -1,0 +1,1 @@
+just tired of these kids with lots of elo

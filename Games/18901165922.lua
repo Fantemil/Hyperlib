@@ -58,3 +58,5 @@
                                     
     addscriptexist(18901165922, "ZeroHub FARMING", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeroHub%20FARMING166.lua", "https://scriptblox.com/script/PETS-GO!-NEW-ZeroHub-FARMING-20161")
                                     
+    addscriptexist(18901165922, "trash script not made by me", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/trash%20script%20not%20made%20by%20me816.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Op-not-made-by-me-20166")
+                                    
