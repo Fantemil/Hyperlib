@@ -268,3 +268,7 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Rionays X Imperial Hub Script", "Uploaded by rionays on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rionays%20X%20Imperial%20Hub%20Script830.lua", "https://scriptblox.com/script/Brookhaven-RP-Rionays-X-Imperial-Hub-Script-19967")
                                     
+    addscriptexist(4924922222, "Brookhave lraq", "Uploaded by Haider on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhave%20lraq702.lua", "https://scriptblox.com/script/Brookhaven-RP-Brookhave-lraq-20207")
+                                    
+    addscriptexist(4924922222, "Brookhave  English", "Uploaded by Haider on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Brookhave%20%20English630.lua", "https://scriptblox.com/script/Brookhaven-RP-Brookhave-English-20211")
+                                    
