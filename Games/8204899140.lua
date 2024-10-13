@@ -64,3 +64,5 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                     
     addscriptexist(8204899140, "FIX  Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIX%20%20Rocket%20Hub840.lua", "https://scriptblox.com/script/Football-Fusion-2-FIX-Rocket-Hub-20219")
                                     
+    addscriptexist(8204899140, "FF god script", "Uploaded by NotExe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FF%20god%20script896.lua", "https://scriptblox.com/script/Football-Fusion-2-FF-god-script-20248")
+                                    

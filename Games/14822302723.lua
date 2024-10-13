@@ -10,3 +10,5 @@
                                     
     addscriptexist(14822302723, "Auto parry", "Uploaded by drocbave on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20parry552.lua", "https://scriptblox.com/script/Gun-Ball-Auto-parry-16807")
                                     
+    addscriptexist(14822302723, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub517.lua", "https://scriptblox.com/script/Gun-Ball-Rocket-Hub-20243")
+                                    

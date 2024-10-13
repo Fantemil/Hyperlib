@@ -212,3 +212,5 @@
                                     
     addscriptexist(17625359962, "Alluring AI", "Uploaded by alluringlambpl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20AI850.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Alluring-AI-20231")
                                     
+    addscriptexist(17625359962, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub584.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Rocket-Hub-20244")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZxenoLR/Champion/refs/heads/main/Loader/Loader.luau"))()

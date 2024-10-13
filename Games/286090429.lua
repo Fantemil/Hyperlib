@@ -294,3 +294,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Thunder client For Solara", "Uploaded by San1na on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20client%20For%20Solara491.lua", "https://scriptblox.com/script/Arsenal-Thunder-client-For-Solara-20162")
                                     
+    addscriptexist(286090429, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub714.lua", "https://scriptblox.com/script/Arsenal-Rocket-Hub-20243")
+                                    
