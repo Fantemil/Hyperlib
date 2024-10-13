@@ -62,3 +62,5 @@
                                     
     addscriptexist(18901165922, "Speed Hub XV2 AUTO ROLL FARM", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20XV2%20AUTO%20ROLL%20FARM822.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Speed-Hub-XV2-AUTO-ROLL-FARM-20180")
                                     
+    addscriptexist(18901165922, "Anti Mail Stealer", "Uploaded by Zyra on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Mail%20Stealer932.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Anti-Mail-Stealer-20183")
+                                    
