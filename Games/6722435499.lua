@@ -1,0 +1,2 @@
+
+    addscript(6722435499, "Current Game","BCFR Script INF CASH AND MORE", "Uploaded by Eva_Getwavedotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BCFR%20Script%20INF%20CASH%20AND%20MORE236.lua", "https://scriptblox.com/script/Boulder-County:-First-Responders-BCFR-Script-INF-CASH-AND-MORE-20155")

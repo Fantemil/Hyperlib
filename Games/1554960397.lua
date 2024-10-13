@@ -40,3 +40,5 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                     
     addscriptexist(1554960397, "Dealershrip Barn", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dealershrip%20Barn795.lua", "https://scriptblox.com/script/2B-EVENT!-Car-Dealership-Tycoon-Dealershrip-Barn-17780")
                                     
+    addscriptexist(1554960397, "CDT  Dearlship", "Uploaded by Invisible7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CDT%20%20Dearlship296.lua", "https://scriptblox.com/script/SEASON-13!-Car-Dealership-Tycoon-CDT-Dearlship-20154")
+                                    
