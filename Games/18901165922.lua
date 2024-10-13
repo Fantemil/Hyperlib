@@ -72,3 +72,5 @@
                                     
     addscriptexist(18901165922, "GO Hatch", "Uploaded by MuscleMan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GO%20Hatch218.lua", "https://scriptblox.com/script/PETS-GO!-NEW-GO-20212")
                                     
+    addscriptexist(18901165922, "Best script keyless", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20keyless134.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Best-script-keyless-20246")
+                                    

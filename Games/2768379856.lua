@@ -30,3 +30,5 @@ addscriptexist(2768379856, "AutoBuild SCP3008", "Uploaded by MrXrer on rscripts.
                                     
     addscriptexist(2768379856, "TP ESP Player Mods", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TP%20ESP%20Player%20Mods614.lua", "https://scriptblox.com/script/3008-2.73-TP-ESP-Player-Mods-19933")
                                     
+    addscriptexist(2768379856, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub527.lua", "https://scriptblox.com/script/3008-2.73-Rocket-Hub-20241")
+                                    
