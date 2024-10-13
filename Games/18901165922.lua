@@ -54,3 +54,5 @@
                                     
     addscriptexist(18901165922, "Speed Hub X free", "Uploaded by kimonos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Speed%20Hub%20X%20free267.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Speed-Hub-X-free-20148")
                                     
+    addscriptexist(18901165922, "P3TS GO SPEED HUB X", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P3TS%20GO%20SPEED%20HUB%20X635.lua", "https://scriptblox.com/script/PETS-GO!-NEW-P3TS-GO-SPEED-HUB-X-20146")
+                                    

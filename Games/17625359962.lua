@@ -208,3 +208,5 @@
                                     
     addscriptexist(17625359962, "script i use NOT MINE", "Uploaded by yeetboy7b on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20i%20use%20NOT%20MINE800.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-script-i-use-NOT-MINE-20139")
                                     
+    addscriptexist(17625359962, "Hoya Executor Windows", "Uploaded by CallMeJp3zc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hoya%20Executor%20Windows213.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Hoya-Executor-Windows-20147")
+                                    
