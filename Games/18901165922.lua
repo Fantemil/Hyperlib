@@ -42,3 +42,5 @@
                                     
     addscriptexist(18901165922, "The Best Free PGO Script ZapHub", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Free%20PGO%20Script%20ZapHub500.lua", "https://scriptblox.com/script/PETS-GO!-NEW-The-Best-Free-Script-ZapHub-20119")
                                     
+    addscriptexist(18901165922, "Really good script keyless", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Really%20good%20script%20keyless213.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Really-good-script-keyless-20127")
+                                    

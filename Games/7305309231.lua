@@ -28,3 +28,5 @@ addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com"
                                     
     addscriptexist(7305309231, "Best script 2024", "Uploaded by Fear_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20202449.lua", "https://scriptblox.com/script/Taxi-Boss-Best-script-2024-20118")
                                     
+    addscriptexist(7305309231, "inf money", "Uploaded by primelgcs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money95.lua", "https://scriptblox.com/script/Taxi-Boss-inf-money-20124")
+                                    
