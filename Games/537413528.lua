@@ -172,3 +172,5 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "Egg cnnon nd you cn tke the old tsks", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Egg%20cnnon%20nd%20you%20cn%20tke%20the%20old%20tsks522.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-Egg-cnnon-nd-you-cn-tke-the-old-tsks-19874")
                                     
+    addscriptexist(537413528, "zurium hub", "Uploaded by realxr_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zurium%20hub843.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-zurium-Hub-Free-Script-20201")
+                                    
