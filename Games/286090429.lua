@@ -292,3 +292,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Hitbox epander", "Uploaded by gamerkuoff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20epander806.lua", "https://scriptblox.com/script/Arsenal-Hitbox-epander-19673")
                                     
+    addscriptexist(286090429, "Thunder client For Solara", "Uploaded by San1na on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20client%20For%20Solara491.lua", "https://scriptblox.com/script/Arsenal-Thunder-client-For-Solara-20162")
+                                    

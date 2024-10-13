@@ -30,3 +30,5 @@ addscriptexist(8908228901, "Custom Boat Speed Kill Shark and more", "Uploaded by
                                     
     addscriptexist(8908228901, "Free boat", "Uploaded by Gokus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20boat908.lua", "https://scriptblox.com/script/SharkBite-2-andx1F988-Free-boat-15900")
                                     
+    addscriptexist(8908228901, "OP SCRITP", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRITP231.lua", "https://scriptblox.com/script/UPDATE-SharkBite-2-OP-SCRITP-20163")
+                                    

@@ -468,3 +468,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Dodge script tsb", "Uploaded by hungryshunget on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dodge%20script%20tsb105.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Dodge-script-tsb-20118")
                                     
+    addscriptexist(10449761463, "Unsealed Gojo Moveset", "Uploaded by freshgamer430 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unsealed%20Gojo%20Moveset943.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Unsealed-Gojo-Moveset-20159")
+                                    
