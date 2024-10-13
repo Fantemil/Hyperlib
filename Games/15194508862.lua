@@ -1,0 +1,2 @@
+
+    addscript(15194508862, "Current Game","Inf money", "Uploaded by sploited on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money314.lua", "https://scriptblox.com/script/Untitled-Drift-Game-Inf-money-20198")

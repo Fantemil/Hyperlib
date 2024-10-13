@@ -68,3 +68,5 @@
                                     
     addscriptexist(18901165922, "Anti Mailstealer", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Mailstealer569.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Anti-Mailstealer-20192")
                                     
+    addscriptexist(18901165922, "SpeedHub X and More Function RNG GO", "Uploaded by adverdohuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SpeedHub%20X%20and%20More%20Function%20RNG%20GO915.lua", "https://scriptblox.com/script/PETS-GO!-NEW-SpeedHub-X-and-More-Function-RNG-GO-20196")
+                                    
