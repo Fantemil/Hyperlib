@@ -82,3 +82,9 @@
                                     
     addscriptexist(18901165922, "Lumin Hub", "Uploaded by Aayushkarkee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumin%20Hub503.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Lumin-Hub-20270")
                                     
+    addscriptexist(18901165922, "AthernLumin Hub Go FREE KEYLESS", "Uploaded by Louiepattslfc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AthernLumin%20Hub%20Go%20FREE%20KEYLESS388.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AthernLumin-Hub-Go-FREE-KEYLESS-20287")
+                                    
+    addscriptexist(18901165922, "DUPE PTS GO FRE", "Uploaded by qasabood29 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DUPE%20PTS%20GO%20FRE121.lua", "https://scriptblox.com/script/PETS-GO!-NEW-DUPE-PTS-GO-FRE-20286")
+                                    
+    addscriptexist(18901165922, "speed hub x go keyless anti mailstealer", "Uploaded by qasabood29 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/speed%20hub%20x%20go%20keyless%20anti%20mailstealer756.lua", "https://scriptblox.com/script/PETS-GO!-NEW-speed-hub-x-go-keyless-anti-mailstealer-20285")
+                                    
