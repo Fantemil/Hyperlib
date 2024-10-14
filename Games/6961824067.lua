@@ -46,3 +46,5 @@ addscriptexist(6961824067, "Simple Time Left Till Next Spin", "Uploaded by EviIA
                                     
     addscriptexist(6961824067, "FTAP Script Solara Support", "Uploaded by isnone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FTAP%20Script%20Solara%20Support206.lua", "https://scriptblox.com/script/Fling-Things-and-People-FTAP-Script-Solara-Support-20071")
                                     
+    addscriptexist(6961824067, "Best FTAP script keyless", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20FTAP%20script%20keyless971.lua", "https://scriptblox.com/script/Fling-Things-and-People-Best-FTAP-script-keyless-20289")
+                                    
