@@ -24,3 +24,5 @@ addscript(9874911474, "Current Game","Tha Bronx 2 Script OP", "Uploaded by sades
                                     
     addscriptexist(9874911474, "Crash Script May or may not be working", "Uploaded by VaultBoy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crash%20Script%20May%20or%20may%20not%20be%20working222.lua", "https://scriptblox.com/script/(BIG-UPDATE)-Tha-Bronx-2-Crash-Script-May-or-may-not-be-working-12456")
                                     
+    addscriptexist(9874911474, "XRo Best Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XRo%20Best%20Script642.lua", "https://scriptblox.com/script/(UPDATE)-Tha-Bronx-2-XRo-Best-Script-20251")
+                                    

@@ -474,3 +474,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Jorl Hub", "Uploaded by wm667660 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jorl%20Hub686.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Jorl-Hub-20251")
                                     
+    addscriptexist(10449761463, "NSExpression v2 a3 TSBG", "Uploaded by idontgiveaf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NSExpression%20v2%20a3%20TSBG422.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-NSExpression-v2-a3-TSBG-20252")
+                                    
