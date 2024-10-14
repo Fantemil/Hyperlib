@@ -66,3 +66,5 @@ addscriptexist(4282985734, "Infinite Stamina", "Uploaded by eggerites on scriptb
                                     
     addscriptexist(4282985734, "Auto Parry", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry354.lua", "https://scriptblox.com/script/Combat-Warriors-Auto-Parry-19909")
                                     
+    addscriptexist(4282985734, "Zygarde V2", "Uploaded by Corrupted2222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zygarde%20V2122.lua", "https://scriptblox.com/script/Combat-Warriors-Zygarde-V2-20264")
+                                    

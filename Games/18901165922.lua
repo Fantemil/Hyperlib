@@ -76,3 +76,5 @@
                                     
     addscriptexist(18901165922, "COLLECT ALL RELICS", "Uploaded by R3LIGOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COLLECT%20ALL%20RELICS548.lua", "https://scriptblox.com/script/PETS-GO!-NEW-COLLECT-ALL-RELICS-20261")
                                     
+    addscriptexist(18901165922, "ZeroHub RNG AUTO ROLL FARM", "Uploaded by sers on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeroHub%20RNG%20AUTO%20ROLL%20FARM933.lua", "https://scriptblox.com/script/PETS-GO!-NEW-ZeroHub-RNG-AUTO-ROLL-FARM-20269")
+                                    
