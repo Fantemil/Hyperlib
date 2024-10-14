@@ -1,2 +1,4 @@
 
     addscript(9503261072, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2810.lua", "https://scriptblox.com/script/SKINS-Tower-Defense-X:-BETA-Demonic-HUB-V2-10559")
+    addscriptexist(9503261072, "T0wer d3fn3se X", "Uploaded by Williamtatebetterto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/T0wer%20d3fn3se%20X740.lua", "https://scriptblox.com/script/HELICOPTER-Tower-Defense-X:-BETA-x-20248")
+                                    

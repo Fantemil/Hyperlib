@@ -472,3 +472,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub840.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Script-Hub-20205")
                                     
+    addscriptexist(10449761463, "Jorl Hub", "Uploaded by wm667660 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jorl%20Hub686.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Jorl-Hub-20251")
+                                    

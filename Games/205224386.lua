@@ -28,3 +28,5 @@
                                     
     addscriptexist(205224386, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub686.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-Rocket-Hub-20213")
                                     
+    addscriptexist(205224386, "Anthony Davis Hub", "Uploaded by Katers_BIG_CAT_MAN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anthony%20Davis%20Hub260.lua", "https://scriptblox.com/script/Hide-and-Seek-Extreme-Anthony-Davis-Hub-20250")
+                                    
