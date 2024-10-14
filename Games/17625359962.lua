@@ -218,3 +218,5 @@
                                     
     addscriptexist(17625359962, "anti cheat bypass", "Uploaded by Xason on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20cheat%20bypass647.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-anti-cheat-bypass-20297")
                                     
+    addscriptexist(17625359962, "Silent Rivlas Cracked", "Uploaded by 25ms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Rivlas%20Cracked746.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Silent-Rivlas-Cracked-20291")
+                                    

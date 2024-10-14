@@ -478,3 +478,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Unlock Mov", "Uploaded by ReszX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Mov26.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Unlock-Mov-20255")
                                     
+    addscriptexist(10449761463, "TSB GoJo", "Uploaded by xqzua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20GoJo33.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-GoJo-20290")
+                                    
