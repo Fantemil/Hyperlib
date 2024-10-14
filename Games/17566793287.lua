@@ -1,0 +1,2 @@
+
+    addscript(17566793287, "Current Game","Inf currency", "Uploaded by sploited on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20currency922.lua", "https://scriptblox.com/script/UPD-2.4-Slugterra-Battle-Arena-Inf-currency-20258")

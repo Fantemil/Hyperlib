@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://nightscripts.github.io/Nocturne/Underground War 2/Underground War 2.lua"))()

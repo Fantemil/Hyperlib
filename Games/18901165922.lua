@@ -74,3 +74,5 @@
                                     
     addscriptexist(18901165922, "Best script keyless", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20keyless134.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Best-script-keyless-20246")
                                     
+    addscriptexist(18901165922, "COLLECT ALL RELICS", "Uploaded by R3LIGOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/COLLECT%20ALL%20RELICS548.lua", "https://scriptblox.com/script/PETS-GO!-NEW-COLLECT-ALL-RELICS-20261")
+                                    

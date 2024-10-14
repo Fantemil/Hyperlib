@@ -14,3 +14,5 @@
                                     
     addscriptexist(9791603388, "Under scripting", "Uploaded by Transptacc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Under%20scripting516.lua", "https://scriptblox.com/script/Underground-War-2.0-NUKE-Under-scripting-13671")
                                     
+    addscriptexist(9791603388, "Nocturne UW2", "Uploaded by NightScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nocturne%20UW2427.lua", "https://scriptblox.com/script/Underground-War-2.0-NUKE-Nocturne-UW2-20260")
+                                    
