@@ -88,3 +88,7 @@
                                     
     addscriptexist(18901165922, "speed hub x go keyless anti mailstealer", "Uploaded by qasabood29 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/speed%20hub%20x%20go%20keyless%20anti%20mailstealer756.lua", "https://scriptblox.com/script/PETS-GO!-NEW-speed-hub-x-go-keyless-anti-mailstealer-20285")
                                     
+    addscriptexist(18901165922, "ANTI MAILSTEALER VERIFIED", "Uploaded by Louiepattslfc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ANTI%20MAILSTEALER%20VERIFIED951.lua", "https://scriptblox.com/script/PETS-GO!-NEW-ANTI-MAILSTEALER-VERIFIED-20293")
+                                    
+    addscriptexist(18901165922, "AtherHub Verified", "Uploaded by Louiepattslfc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AtherHub%20Verified838.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AtherHub-Verified-20292")
+                                    

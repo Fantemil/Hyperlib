@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/BladeBallScriptOP/refs/heads/main/Code.lua", true))()

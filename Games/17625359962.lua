@@ -214,3 +214,7 @@
                                     
     addscriptexist(17625359962, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub584.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Rocket-Hub-20244")
                                     
+    addscriptexist(17625359962, "Venox ware Cracked", "Uploaded by 25ms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Venox%20ware%20Cracked302.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Venox-ware-Cracked-20291")
+                                    
+    addscriptexist(17625359962, "anti cheat bypass", "Uploaded by Xason on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20cheat%20bypass647.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-anti-cheat-bypass-20297")
+                                    
