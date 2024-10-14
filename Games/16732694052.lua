@@ -4,3 +4,5 @@
                                     
     addscriptexist(16732694052, "INSTANT GET FISH AND MORE GUI", "Uploaded by Vep1003 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20GET%20FISH%20AND%20MORE%20GUI803.lua", "https://scriptblox.com/script/NEW-Fisch-INSTANT-GET-FISH-AND-MORE-GUI-20175")
                                     
+    addscriptexist(16732694052, "Auto fish", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20fish270.lua", "https://scriptblox.com/script/NEW-Fisch-Auto-fish-20256")
+                                    
