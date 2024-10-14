@@ -1,0 +1,2 @@
+
+    addscript(18460355546, "Current Game","FE kill aura script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20kill%20aura%20script909.lua", "https://scriptblox.com/script/School-Thugs-HALLOWEEN-FE-kill-aura-script-20266")
