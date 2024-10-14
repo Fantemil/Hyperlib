@@ -78,3 +78,7 @@
                                     
     addscriptexist(18901165922, "ZeroHub RNG AUTO ROLL FARM", "Uploaded by sers on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZeroHub%20RNG%20AUTO%20ROLL%20FARM933.lua", "https://scriptblox.com/script/PETS-GO!-NEW-ZeroHub-RNG-AUTO-ROLL-FARM-20269")
                                     
+    addscriptexist(18901165922, "Lumin hub Best Script", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumin%20hub%20Best%20Script964.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Lumin-hub-Best-Script-20273")
+                                    
+    addscriptexist(18901165922, "Lumin Hub", "Uploaded by Aayushkarkee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lumin%20Hub503.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Lumin-Hub-20270")
+                                    

@@ -14,3 +14,5 @@
                                     
     addscriptexist(17698425045, "Dep Hub", "Uploaded by Nahidwin1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dep%20Hub777.lua", "https://scriptblox.com/script/Fight-in-a-School-Dep-Hub-19844")
                                     
+    addscriptexist(17698425045, "FE kill ur script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20kill%20ur%20script590.lua", "https://scriptblox.com/script/BOUNTIES-Fight-in-a-School-FE-kill-ur-script-20270")
+                                    

@@ -24,3 +24,5 @@ addscriptexist(2210085102, "GUI supports mobile", "Uploaded by Professional on s
                                     
     addscriptexist(2210085102, "All executor supported", "Uploaded by pianino2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20executor%20supported287.lua", "https://scriptblox.com/script/Naval-Warfare-All-executor-supported-19817")
                                     
+    addscriptexist(2210085102, "OP   Script GODMODE AND MORE", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20Script%20GODMODE%20AND%20MORE951.lua", "https://scriptblox.com/script/Naval-Warfare-OP-Script-GODMODE-AND-MORE-20267")
+                                    

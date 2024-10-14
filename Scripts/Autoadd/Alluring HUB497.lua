@@ -1,0 +1,2 @@
+-- SCRIPT -https://workink.net/1WIX/m28vktn2
+-- DISCORD - https://discord.gg/a6ptHbkNMx

@@ -1422,3 +1422,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "The Best FREE", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20FREE924.lua", "https://scriptblox.com/script/Blox-Fruits-The-Best-FREE-20257")
                                     
+    addscriptexist(2753915549, "RedZ Hub Official", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZ%20Hub%20Official459.lua", "https://scriptblox.com/script/Blox-Fruits-RedZ-Hub-Official-20271")
+                                    
