@@ -1,0 +1,2 @@
+
+    addscript(16304978305, "Current Game","Unlimited Money", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlimited%20Money938.lua", "https://scriptblox.com/script/Goal-Battles-Unlimited-Money-20280")
