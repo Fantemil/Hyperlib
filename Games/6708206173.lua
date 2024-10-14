@@ -34,3 +34,5 @@ addscriptexist(6708206173, "Etonameless", "Uploaded by kagenoucid553 on scriptbl
                                     
     addscriptexist(6708206173, "Anti Blacklist in RMA", "Uploaded by kagenoucid553 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Blacklist%20in%20RMA868.lua", "https://scriptblox.com/script/Rate-My-Avatar-Anti-Blacklist-in-RMA-19632")
                                     
+    addscriptexist(6708206173, "Stock Tracker", "Uploaded by htauk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stock%20Tracker872.lua", "https://scriptblox.com/script/Rate-My-Avatar-Stock-Tracker-20294")
+                                    
