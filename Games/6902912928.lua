@@ -4,3 +4,5 @@ addscript(6902912928, "Current Game","Epic Player", "Uploaded by Altgame on scri
                                 
     addscriptexist(6902912928, "Fixed infinite points script", "Uploaded by Romi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fixed%20infinite%20points%20script90.lua", "https://scriptblox.com/script/GET-TO-THE-TOP!-NEW-SHOP!-Fixed-Get-points-script-4740")
                                 
+    addscriptexist(6902912928, "Ruin  game", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ruin%20%20game264.lua", "https://scriptblox.com/script/GET-TO-THE-TOP!-NEW-SHOP!-Ruin-game-20254")
+                                    
