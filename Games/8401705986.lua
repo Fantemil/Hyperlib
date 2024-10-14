@@ -1,0 +1,2 @@
+
+    addscript(8401705986, "Current Game","Zephyr Bec0me SCCP 0966", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Bec0me%20SCCP%200966756.lua", "https://scriptblox.com/script/Become-SCP-096-Zephyr-Bec0me-SCCP-0966-20277")
