@@ -12,3 +12,5 @@
                                     
     addscriptexist(18629053284, "Vamp HUB KILLAURA ORBIT SWINGING OP LEVEL FARM INSTA GOD", "Uploaded by vampire on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vamp%20HUB%20KILLAURA%20ORBIT%20SWINGING%20OP%20LEVEL%20FARM%20INSTA%20GOD335.lua", "https://scriptblox.com/script/UPD-Survival-Odyssey-Vamp-HUB-KILLAURA-ORBIT-SWINGING-OP-LEVEL-FARM-INSTA-GOD-17470")
                                     
+    addscriptexist(18629053284, "infinite mojo points autofarm", "Uploaded by dev3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20mojo%20points%20autofarm596.lua", "https://scriptblox.com/script/Survival-Odyssey-infinite-mojo-points-autofarm-20245")
+                                    

@@ -20,3 +20,5 @@
                                     
     addscriptexist(16426795556, "Best for  yuhhhh", "Uploaded by Shity_Guy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20for%20%20yuhhhh52.lua", "https://scriptblox.com/script/Track-and-Field:-Infinite-Best-for-yuhhhh-15097")
                                     
+    addscriptexist(16426795556, "inf speed and never slow", "Uploaded by dev3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20speed%20and%20never%20slow793.lua", "https://scriptblox.com/script/UPDATE-Track-andamp-Field:-Infinite-inf-speed-and-never-slow-20246")
+                                    
