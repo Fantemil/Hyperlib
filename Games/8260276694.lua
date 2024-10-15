@@ -28,3 +28,5 @@ addscriptexist(8260276694, "OP Script", "Uploaded by Fumo on scriptblox.com", "h
                                     
     addscriptexist(8260276694, "FREE GUI", "Uploaded by gintheworld on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20GUI342.lua", "https://scriptblox.com/script/UPDATE-Ability-Wars-FREE-GUI-19920")
                                     
+    addscriptexist(8260276694, "op auto farm", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20auto%20farm260.lua", "https://scriptblox.com/script/UPDATE-Ability-Wars-op-auto-farm-20342")
+                                    
