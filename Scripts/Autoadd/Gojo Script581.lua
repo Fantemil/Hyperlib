@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-Gojo-tsb-script-WORKS-ON-SOLARA-18641"))()
