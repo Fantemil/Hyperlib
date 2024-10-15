@@ -80,3 +80,5 @@ addscriptexist(13864661000, "IceWare", "Uploaded by capi on scriptblox.com", "ht
                                     
     addscriptexist(13864661000, "script mobile and pc", "Uploaded by ariznasri76 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20mobile%20and%20pc733.lua", "https://scriptblox.com/script/Break-In-2-(Story)-script-mobile-and-pc-20076")
                                     
+    addscriptexist(13864661000, "Sum random script that uses remotes the manipulate the game", "Uploaded by Coolguyidk12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sum%20random%20script%20that%20uses%20remotes%20the%20manipulate%20the%20game122.lua", "https://scriptblox.com/script/Break-In-2-(Story)-Sum-random-script-that-uses-remotes-the-manipulate-the-game-20314")
+                                    
