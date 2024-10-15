@@ -6,3 +6,5 @@
                                     
     addscriptexist(16055525893, "All Executor", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Executor491.lua", "https://scriptblox.com/script/RNG-Odyssey-All-Executor-20344")
                                     
+    addscriptexist(16055525893, "All Executor added feature", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Executor%20added%20feature221.lua", "https://scriptblox.com/script/RNG-Odyssey-All-Executor-added-feature-20355")
+                                    
