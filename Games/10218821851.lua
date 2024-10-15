@@ -64,3 +64,5 @@ addscript(10218821851, "Current Game","Vereus", "Uploaded by bop_ on scriptblox.
                                     
     addscriptexist(10218821851, "G00BYD0LAN", "Uploaded by ooa665992 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G00BYD0LAN630.lua", "https://scriptblox.com/script/Client-Replication-G00BYD0LAN-20301")
                                     
+    addscriptexist(10218821851, "c00lgui Reborn Remix gui", "Uploaded by ooa665992 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui%20Reborn%20Remix%20gui525.lua", "https://scriptblox.com/script/Client-Replication-c00lgui-Reborn-Remix-gui-20327")
+                                    
