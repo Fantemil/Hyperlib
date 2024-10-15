@@ -482,3 +482,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Early access for limitless legacy", "Uploaded by ______a on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Early%20access%20for%20limitless%20legacy805.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Early-access-for-limitless-legacy-20305")
                                     
+    addscriptexist(10449761463, "Early access for limitless legacy name check bypass lol", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Early%20access%20for%20limitless%20legacy%20name%20check%20bypass%20lol235.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Early-access-for-limitless-legacy-name-check-bypass-lol-20312")
+                                    

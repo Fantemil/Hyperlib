@@ -1,0 +1,2 @@
+
+    addscript(9802429235, "Current Game","Win", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win104.lua", "https://scriptblox.com/script/you-don't-wanna-see-me-infuriated-Win-20310")
