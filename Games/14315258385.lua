@@ -6,3 +6,5 @@
                                     
     addscriptexist(14315258385, "RSS AC BYPASS AND MODIFIERS V3", "Uploaded by PLASMAScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RSS%20AC%20BYPASS%20AND%20MODIFIERS%20V3437.lua", "https://scriptblox.com/script/Realistic-Street-Soccer-(3-on-3)-RSS-AC-BYPASS-AND-MODIFIERS-V3-19966")
                                     
+    addscriptexist(14315258385, "Script Made By Verbal Hub", "Uploaded by VerbalHubOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Made%20By%20Verbal%20Hub855.lua", "https://scriptblox.com/script/Realistic-Street-Soccer-(3-on-3)-Script-Made-By-Verbal-Hub-20323")
+                                    
