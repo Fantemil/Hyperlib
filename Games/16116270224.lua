@@ -24,3 +24,5 @@
                                     
     addscriptexist(16116270224, "Dandys  FFJ Hub", "Uploaded by forjusticefighter66 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dandys%20%20FFJ%20Hub200.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-Script-V1-FFJ-Hub-20178")
                                     
+    addscriptexist(16116270224, "G0bbyD0llan DW Update 3", "Uploaded by G0bbyD0llan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G0bbyD0llan%20DW%20Update%203390.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-G0bbyD0llan-DW-Update-3-20376")
+                                    

