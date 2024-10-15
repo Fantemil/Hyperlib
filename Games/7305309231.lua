@@ -30,3 +30,5 @@ addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com"
                                     
     addscriptexist(7305309231, "inf money", "Uploaded by primelgcs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money95.lua", "https://scriptblox.com/script/Taxi-Boss-inf-money-20124")
                                     
+    addscriptexist(7305309231, "op script for", "Uploaded by Milocool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script%20for639.lua", "https://scriptblox.com/script/Taxi-Boss-op-script-for-20337")
+                                    

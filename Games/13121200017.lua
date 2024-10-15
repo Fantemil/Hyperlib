@@ -1,0 +1,2 @@
+
+    addscript(13121200017, "Current Game","Servicecom102 Script Request Accepted", "Uploaded by cry0n1s1s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Servicecom102%20Script%20Request%20Accepted279.lua", "https://scriptblox.com/script/SKINS-Transfur:-Holdout-Servicecom102-Script-Request-Accepted-20353")

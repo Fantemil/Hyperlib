@@ -220,3 +220,5 @@
                                     
     addscriptexist(17625359962, "Silent Rivlas Cracked", "Uploaded by 25ms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Rivlas%20Cracked746.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Silent-Rivlas-Cracked-20291")
                                     
+    addscriptexist(17625359962, "Rybowe Hub The best aimbot", "Uploaded by esadsutyemez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rybowe%20Hub%20The%20best%20aimbot897.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Rybowe-Hub-The-best-aimbot-20348")
+                                    

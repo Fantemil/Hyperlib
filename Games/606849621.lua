@@ -148,3 +148,5 @@ addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblo
                                     
     addscriptexist(606849621, "Tempcode Autofarm Free", "Uploaded by tempy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tempcode%20Autofarm%20Free609.lua", "https://scriptblox.com/script/Jailbreak-Tempcode-Autofarm-19431")
                                     
+    addscriptexist(606849621, "Auto rob script", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rob%20script136.lua", "https://scriptblox.com/script/Jailbreak-Auto-rob-script-20354")
+                                    
