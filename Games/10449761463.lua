@@ -480,3 +480,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "TSB GoJo", "Uploaded by xqzua on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TSB%20GoJo33.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-TSB-GoJo-20290")
                                     
+    addscriptexist(10449761463, "Early access for limitless legacy", "Uploaded by ______a on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Early%20access%20for%20limitless%20legacy805.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Early-access-for-limitless-legacy-20305")
+                                    
