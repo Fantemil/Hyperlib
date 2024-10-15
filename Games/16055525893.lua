@@ -4,3 +4,5 @@
                                     
     addscriptexist(16055525893, "OP Auto Farm", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Farm581.lua", "https://scriptblox.com/script/RELEASE-RNG-Odyssey-OP-Auto-Farm-19929")
                                     
+    addscriptexist(16055525893, "All Executor", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All%20Executor491.lua", "https://scriptblox.com/script/RNG-Odyssey-All-Executor-20344")
+                                    

@@ -108,3 +108,5 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                     
     addscriptexist(9872472334, "Evade Auto Farm Candy Halloween Event", "Uploaded by luhh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Candy%20Halloween%20Event548.lua", "https://scriptblox.com/script/Evade-Evade-Auto-Farm-Candy-Halloween-Event-20279")
                                     
+    addscriptexist(9872472334, "script request", "Uploaded by Sharkie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request579.lua", "https://scriptblox.com/script/Evade-script-request-20345")
+                                    

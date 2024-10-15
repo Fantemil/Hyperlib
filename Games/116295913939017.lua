@@ -12,3 +12,5 @@
                                     
     addscriptexist(116295913939017, "Auto Prestige", "Uploaded by aiSelfMade on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Prestige355.lua", "https://scriptblox.com/script/Plinko-RNG!-Auto-Prestige-20080")
                                     
+    addscriptexist(116295913939017, "Op Gui Script", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Gui%20Script942.lua", "https://scriptblox.com/script/KSI-Plinko-RNG!-Op-Gui-Script-20347")
+                                    
