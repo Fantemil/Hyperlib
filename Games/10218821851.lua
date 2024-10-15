@@ -62,3 +62,5 @@ addscript(10218821851, "Current Game","Vereus", "Uploaded by bop_ on scriptblox.
                                     
     addscriptexist(10218821851, "yp00xd gui", "Uploaded by ooa665992 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yp00xd%20gui695.lua", "https://scriptblox.com/script/Client-Replication-Oi-20298")
                                     
+    addscriptexist(10218821851, "G00BYD0LAN", "Uploaded by ooa665992 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G00BYD0LAN630.lua", "https://scriptblox.com/script/Client-Replication-G00BYD0LAN-20301")
+                                    
