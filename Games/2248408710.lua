@@ -20,3 +20,5 @@ addscriptexist(2248408710, "Inf Money But Better", "Uploaded by nescoroco on scr
                                     
     addscriptexist(2248408710, "OP Explode Everything And More", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Explode%20Everything%20And%20More280.lua", "https://scriptblox.com/script/andx1F4A5-Destruction-Simulator-OP-Explode-Everything-And-More-15926")
                                     
+    addscriptexist(2248408710, "INF MONEY", "Uploaded by LxzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY488.lua", "https://scriptblox.com/script/Destruction-Simulator-INF-MONEY-20330")
+                                    

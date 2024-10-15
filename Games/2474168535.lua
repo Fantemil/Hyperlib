@@ -24,3 +24,5 @@ addscriptexist(2474168535, "V165 Silent Aim Animal ESP Rob Aura", "Uploaded by E
                                     
     addscriptexist(2474168535, "BEST SCRIPT", "Uploaded by Fear_God on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT632.lua", "https://scriptblox.com/script/Westbound-BEST-SCRIPT-19970")
                                     
+    addscriptexist(2474168535, "aimbot", "Uploaded by Kawoshin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aimbot788.lua", "https://scriptblox.com/script/Westbound-aimbot-20330")
+                                    

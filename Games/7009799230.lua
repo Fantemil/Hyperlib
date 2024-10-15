@@ -14,3 +14,5 @@ addscriptexist(7009799230, "INF money script", "Uploaded by Seantherandom24 on s
                                 
 addscriptexist(7009799230, "infinite Cash", "Uploaded by evi1z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20Cash729.lua", "https://scriptblox.com/script/Pressure-Wash-Simulator-infinite-Cash-8892")
                                 
+    addscriptexist(7009799230, "INF MONEY", "Uploaded by LxzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY897.lua", "https://scriptblox.com/script/Pressure-Wash-Simulator-INF-MONEY-20332")
+                                    

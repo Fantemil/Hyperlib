@@ -484,3 +484,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Early access for limitless legacy name check bypass lol", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Early%20access%20for%20limitless%20legacy%20name%20check%20bypass%20lol235.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Early-access-for-limitless-legacy-name-check-bypass-lol-20312")
                                     
+    addscriptexist(10449761463, "Jorl Hub       BEST FOR TSB", "Uploaded by wm667660 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jorl%20Hub%20%20%20%20%20%20%20BEST%20FOR%20TSB106.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Jorl-Hub-BEST-FOR-TSB-20329")
+                                    
