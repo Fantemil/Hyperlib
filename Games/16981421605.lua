@@ -14,3 +14,5 @@
                                     
     addscriptexist(16981421605, "Event Auto Farm And More", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Event%20Auto%20Farm%20And%20More799.lua", "https://scriptblox.com/script/Reborn-As-Swordsman-Event-Auto-Farm-And-More-19412")
                                     
+    addscriptexist(16981421605, "Auto Train God mode and Auto Collect", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Train%20God%20mode%20and%20Auto%20Collect662.lua", "https://scriptblox.com/script/Reborn-As-Swordsman-Auto-Train-God-mode-and-Auto-Collect-20335")
+                                    
