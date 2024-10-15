@@ -1,0 +1,2 @@
+
+    addscript(107261061365892, "Current Game","Script request", "Uploaded by ScriptUser101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request728.lua", "https://scriptblox.com/script/stone-miner-simulator-remake-Script-request-20317")

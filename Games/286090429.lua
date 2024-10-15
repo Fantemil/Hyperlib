@@ -298,3 +298,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Alluringaiv2", "Uploaded by alluringlambpl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluringaiv2311.lua", "https://scriptblox.com/script/Arsenal-Alluringaiv2-20288")
                                     
+    addscriptexist(286090429, "Alluring HUB", "Uploaded by alluringlambpl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alluring%20HUB525.lua", "https://scriptblox.com/script/Arsenal-Alluring-HUB-20318")
+                                    
