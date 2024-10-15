@@ -60,3 +60,5 @@ addscriptexist(4616652839, "New Shindo Life Script Platinium Hub", "Uploaded by 
                                     
     addscriptexist(4616652839, "Auto Attack", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Attack950.lua", "https://scriptblox.com/script/Shindo-Life-238-Auto-Attack-19661")
                                     
+    addscriptexist(4616652839, "SolixHub", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub361.lua", "https://scriptblox.com/script/Shindo-Life-238-SolixHub-20361")
+                                    

@@ -1424,3 +1424,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "RedZ Hub Official", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RedZ%20Hub%20Official459.lua", "https://scriptblox.com/script/Blox-Fruits-RedZ-Hub-Official-20271")
                                     
+    addscriptexist(2753915549, "SolixHub", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub32.lua", "https://scriptblox.com/script/Blox-Fruits-SolixHub-20362")
+                                    

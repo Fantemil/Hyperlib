@@ -8,3 +8,5 @@
                                     
     addscriptexist(7449423635, "Exp Hub V1", "Uploaded by Zirvius on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Exp%20Hub%20V1871.lua", "https://scriptblox.com/script/Blox-Fruits-Exp-Hub-V1-16740")
                                     
+    addscriptexist(7449423635, "Ultra", "Uploaded by Aguinaldero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra977.lua", "https://scriptblox.com/script/Blox-Fruits-Ultra-20360")
+                                    

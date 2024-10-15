@@ -44,3 +44,5 @@
                                     
     addscriptexist(16146832113, "NEW GUI", "Uploaded by qasabood29 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20GUI972.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-NEW-GUI-20284")
                                     
+    addscriptexist(16146832113, "SolixHub", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub218.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-SolixHub-20364")
+                                    
