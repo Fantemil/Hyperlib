@@ -8,3 +8,5 @@ addscriptexist(7711635737, "Normality", "Uploaded by brudda on scriptblox.com", 
                                     
     addscriptexist(7711635737, "Car Good Mod", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Car%20Good%20Mod914.lua", "https://scriptblox.com/script/Emergency-Hamburg-Car-Good-Mod-20029")
                                     
+    addscriptexist(7711635737, "EH Kanistay Menu", "Uploaded by iiimsams on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EH%20Kanistay%20Menu95.lua", "https://scriptblox.com/script/Emergency-Hamburg-EH-Kanistay-Menu-20371")
+                                    

@@ -16,3 +16,5 @@ addscriptexist(3398014311, "rt script", "Uploaded by Bxked on scriptblox.com", "
                                     
     addscriptexist(3398014311, "Auto cook", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20cook329.lua", "https://scriptblox.com/script/Restaurant-Tycoon-2-Auto-cook-11409")
                                     
+    addscriptexist(3398014311, "AutoCollect Money Plates Auto Seat", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoCollect%20Money%20Plates%20Auto%20Seat319.lua", "https://scriptblox.com/script/spookfest-Restaurant-Tycoon-2-AutoCollect-Money-Plates-Auto-Seat-20369")
+                                    
