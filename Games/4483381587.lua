@@ -130,3 +130,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "lluring SPY", "Uploaded by alluringlambpl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lluring%20SPY819.lua", "https://scriptblox.com/script/a-literal-baseplate.-lluring-SPY-20199")
                                     
+    addscriptexist(4483381587, "17 scripts plus we dding LOT MORE", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/17%20scripts%20plus%20we%20dding%20LOT%20MORE272.lua", "https://scriptblox.com/script/a-literal-baseplate.-17-scripts-plus-we-dding-LOT-MORE-20301")
+                                    
