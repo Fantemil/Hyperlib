@@ -126,3 +126,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "Auto Dig and Auto Farm", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dig%20and%20Auto%20Farm582.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Auto-Dig-and-Auto-Farm-19507")
                                     
+    addscriptexist(1537690962, "Script HUB NEW made by verbal hub", "Uploaded by VerbalHubOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20HUB%20NEW%20made%20by%20verbal%20hub423.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Script-HUB-NEW-made-by-verbal-hub-20385")
+                                    

@@ -280,3 +280,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "sooounic car", "Uploaded by HELP_ME_2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/sooounic%20car634.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-sooounic-car-20273")
                                     
+    addscriptexist(6516141723, "BAZOOKA FOR", "Uploaded by softbfgrey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BAZOOKA%20FOR642.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-BAZOOKA-FOR-20387")
+                                    
