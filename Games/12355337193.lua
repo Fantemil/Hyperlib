@@ -88,3 +88,5 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                     
     addscriptexist(12355337193, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub711.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-Rocket-Hub-20209")
                                     
+    addscriptexist(12355337193, "SG SCRIPT HUB", "Uploaded by ressielbacurio025 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SG%20SCRIPT%20HUB519.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-SG-SCRIPT-HUB-20418")
+                                    
