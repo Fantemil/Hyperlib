@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Niburu52/hub/refs/heads/main/Anime%20Card%20Battle.txt'))()

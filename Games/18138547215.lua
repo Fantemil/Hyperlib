@@ -8,3 +8,5 @@
                                     
     addscriptexist(18138547215, "Best script", "Uploaded by x_ncu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script300.lua", "https://scriptblox.com/script/MANHWA-Anime-Card-Battle-Best-script-17113")
                                     
+    addscriptexist(18138547215, "Auto Roll Auto Collect Potions and Auto Obby", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Roll%20Auto%20Collect%20Potions%20and%20Auto%20Obby953.lua", "https://scriptblox.com/script/RANKED-Anime-Card-Battle-Auto-Roll-Auto-Collect-Potions-and-Auto-Obby-20410")
+                                    
