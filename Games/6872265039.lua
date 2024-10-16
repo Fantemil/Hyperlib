@@ -178,3 +178,5 @@ addscriptexist(6872265039, "Raven b4", "Uploaded by Mcgamer48ft on scriptblox.co
                                     
     addscriptexist(6872265039, "Aurora v1", "Uploaded by kanyewest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aurora%20v138.lua", "https://scriptblox.com/script/BedWars-ROYALE-Aurora-v1-19484")
                                     
+    addscriptexist(6872265039, "Kill Aura Open Source", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Open%20Source608.lua", "https://scriptblox.com/script/BedWars-Kill-Aura-Open-Source-20434")
+                                    
