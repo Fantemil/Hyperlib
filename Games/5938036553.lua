@@ -24,3 +24,5 @@ addscriptexist(5938036553, "OP script", "Uploaded by lykin648 on scriptblox.com"
                                     
     addscriptexist(5938036553, "Thunder Client  OP Gun Mods WalkSpeed Silent Aim", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20%20OP%20Gun%20Mods%20WalkSpeed%20Silent%20Aim40.lua", "https://scriptblox.com/script/FRONTLINES-Thunder-Client-OP-Gun-Mods-WalkSpeed-Silent-Aim-19883")
                                     
+    addscriptexist(5938036553, "Waza hub Cracked", "Uploaded by 25ms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Waza%20hub%20Cracked917.lua", "https://scriptblox.com/script/FRONTLINES-Waza-hub-Cracked-20427")
+                                    
