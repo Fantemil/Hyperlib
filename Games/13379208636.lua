@@ -34,3 +34,5 @@
                                     
     addscriptexist(13379208636, "Tekkit AOTR free premium crack", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tekkit%20AOTR%20free%20premium%20crack66.lua", "https://scriptblox.com/script/Attack-on-Titan-Revolution-Tekkit-AOTR-free-premium-crack-19534")
                                     
+    addscriptexist(13379208636, "aotr tekkit updated", "Uploaded by xsan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aotr%20tekkit%20updated46.lua", "https://scriptblox.com/script/Attack-on-Titan-Revolution-aotr-tekkit-updated-20382")
+                                    

@@ -82,3 +82,5 @@ addscriptexist(1962086868, "Incoak TOH", "Uploaded by Incoak on scriptblox.com",
                                     
     addscriptexist(1962086868, "Starry OP BEST Script Hub", "Uploaded by Suno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starry%20OP%20BEST%20Script%20Hub199.lua", "https://scriptblox.com/script/Tower-of-Hell-Starry-OP-BEST-Script-Hub-17868")
                                     
+    addscriptexist(1962086868, "Rellahs    2024", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rellahs%20%20%20%202024279.lua", "https://scriptblox.com/script/Tower-of-Hell-Rellahs-2024-20381")
+                                    
