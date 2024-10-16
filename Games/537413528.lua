@@ -174,3 +174,5 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "zurium hub", "Uploaded by realxr_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zurium%20hub843.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-zurium-Hub-Free-Script-20201")
                                     
+    addscriptexist(537413528, "OP UTO FRM SCRIPT NOV", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20UTO%20FRM%20SCRIPT%20NOV609.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-OP-UTO-FRM-SCRIPT-NOV-20413")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MaybeNotMandy/MaybeNotMandy/refs/heads/main/Mandy/Stands/Awakening.lua"))()
