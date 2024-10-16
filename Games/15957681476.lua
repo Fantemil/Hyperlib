@@ -1,0 +1,2 @@
+
+    addscript(15957681476, "Current Game","loopkill all", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loopkill%20all344.lua", "https://scriptblox.com/script/Win-Obby-and-Get-dollarR-(Free-VIP-)-loopkill-all-20388")
