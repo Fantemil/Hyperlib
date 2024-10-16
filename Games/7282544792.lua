@@ -1,0 +1,2 @@
+
+    addscript(7282544792, "Current Game","Gui", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui113.lua", "https://scriptblox.com/script/Tower-But-The-Floor-Is-LAVA-Gui-20389")
