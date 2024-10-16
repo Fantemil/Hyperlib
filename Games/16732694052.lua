@@ -8,3 +8,5 @@
                                     
     addscriptexist(16732694052, "Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More695.lua", "https://scriptblox.com/script/NEW-Fisch-Auto-Farm-And-More-20306")
                                     
+    addscriptexist(16732694052, "REQUEST", "Uploaded by zazaddggjj123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST458.lua", "https://scriptblox.com/script/NEW-Fisch-REQUEST-20405")
+                                    

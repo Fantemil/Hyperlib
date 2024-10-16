@@ -6,3 +6,5 @@
                                     
     addscriptexist(17281418694, "XP Farm", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XP%20Farm535.lua", "https://scriptblox.com/script/RELEASE-Lost-Souls-XP-Farm-19867")
                                     
+    addscriptexist(17281418694, "all executor", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20executor320.lua", "https://scriptblox.com/script/RELEASE-Lost-Souls-all-executor-20406")
+                                    
