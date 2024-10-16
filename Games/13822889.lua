@@ -30,3 +30,5 @@ addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com"
                                     
     addscriptexist(13822889, "Teleport to people script", "Uploaded by Leka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20to%20people%20script829.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Teleport-to-people-script-19959")
                                     
+    addscriptexist(13822889, "Kron Hub NOT MINE OP", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kron%20Hub%20NOT%20MINE%20OP893.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Kron-Hub-NOT-MINE-OP-20422")
+                                    

@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/XenonLoader/Loaders/refs/heads/main/No%20loader/Find%20The%20Planets.lua"))()

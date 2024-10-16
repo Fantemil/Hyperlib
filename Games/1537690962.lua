@@ -128,3 +128,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "Script HUB NEW made by verbal hub", "Uploaded by VerbalHubOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20HUB%20NEW%20made%20by%20verbal%20hub423.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Script-HUB-NEW-made-by-verbal-hub-20385")
                                     
+    addscriptexist(1537690962, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED730.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-SOLARA-SUPPORTED-20424")
+                                    
