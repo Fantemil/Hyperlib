@@ -10,3 +10,5 @@ addscriptexist(7711635737, "Normality", "Uploaded by brudda on scriptblox.com", 
                                     
     addscriptexist(7711635737, "EH Kanistay Menu", "Uploaded by iiimsams on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EH%20Kanistay%20Menu95.lua", "https://scriptblox.com/script/Emergency-Hamburg-EH-Kanistay-Menu-20371")
                                     
+    addscriptexist(7711635737, "RBLXXHEATER Script", "Uploaded by samirruppert on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBLXXHEATER%20Script449.lua", "https://scriptblox.com/script/Emergency-Hamburg-RBLXXHEATER-Script-20432")
+                                    

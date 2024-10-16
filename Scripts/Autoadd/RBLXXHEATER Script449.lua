@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/ParadoxxR3al/ExNH/refs/heads/main/ehscript')))() 

