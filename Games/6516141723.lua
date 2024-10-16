@@ -282,3 +282,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "BAZOOKA FOR", "Uploaded by softbfgrey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BAZOOKA%20FOR642.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-BAZOOKA-FOR-20387")
                                     
+    addscriptexist(6516141723, "Rocket launcher for", "Uploaded by softbfgrey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20launcher%20for173.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Rocket-launcher-for-20407")
+                                    
