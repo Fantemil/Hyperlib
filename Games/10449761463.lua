@@ -488,3 +488,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Jorl Hub           BEST TSB SCRIPT MADE", "Uploaded by wm667660 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jorl%20Hub%20%20%20%20%20%20%20%20%20%20%20BEST%20TSB%20SCRIPT%20MADE225.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Jorl-Hub-BEST-TSB-SCRIPT-MADE-20378")
                                     
+    addscriptexist(10449761463, "Sans Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sans%20Moveset757.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Sans-Moveset-20403")
+                                    

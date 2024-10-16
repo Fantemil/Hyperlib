@@ -96,3 +96,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "on WalkSpeed JumpPower Gravity", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/on%20WalkSpeed%20JumpPower%20Gravity389.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-on-WalkSpeed-JumpPower-Gravity-20223")
                                     
+    addscriptexist(189707, "NZH EQUIP TEAM ETHUS", "Uploaded by EThus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NZH%20EQUIP%20TEAM%20ETHUS286.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-NZH-EQUIP-TEAM-ETHUS-20400")
+                                    
