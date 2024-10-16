@@ -1,0 +1,1 @@
+please script points for the map 

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/700ornohundred/lazer/refs/heads/main/VFX%20Changer%20V1"))()

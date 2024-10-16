@@ -1,0 +1,2 @@
+
+    addscript(16796468251, "Current Game","pls", "Uploaded by gunnerygeneral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pls931.lua", "https://scriptblox.com/script/akadymyh-drajwn-alaskryh-or-4-adhaaf-nqat!-pls-20382")
