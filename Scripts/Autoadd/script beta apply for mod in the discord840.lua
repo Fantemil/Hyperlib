@@ -1,0 +1,1 @@
+Join the discord for the beta and apply for mod: https://discord.gg/MPmuvK6T

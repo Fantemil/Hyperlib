@@ -1,0 +1,2 @@
+
+    addscript(4954096313, "Current Game","script beta apply for mod in the discord", "Uploaded by Coolguyidk12 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20beta%20apply%20for%20mod%20in%20the%20discord840.lua", "https://scriptblox.com/script/Field-Trip-Z-script-beta-apply-for-mod-in-the-discord-20396")

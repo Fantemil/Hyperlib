@@ -1,0 +1,2 @@
+
+    addscript(13468284385, "Current Game","Overpowered", "Uploaded by kevinmitnickhkr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Overpowered330.lua", "https://scriptblox.com/script/Color-Chairs-Overpowered-20394")
