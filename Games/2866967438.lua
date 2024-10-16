@@ -16,3 +16,5 @@ addscriptexist(2866967438, " KHub  UPDATED  Fishing Simulator Ultimate Script Wo
                                     
     addscriptexist(2866967438, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED316.lua", "https://scriptblox.com/script/Fishing-Simulator-SOLARA-SUPPORTED-20221")
                                     
+    addscriptexist(2866967438, "Autoclicker Esp and more", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autoclicker%20Esp%20and%20more351.lua", "https://scriptblox.com/script/Fishing-Simulator-Autoclicker-Esp-and-more-20430")
+                                    
