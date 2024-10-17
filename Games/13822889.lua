@@ -32,3 +32,5 @@ addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com"
                                     
     addscriptexist(13822889, "Kron Hub NOT MINE OP", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kron%20Hub%20NOT%20MINE%20OP893.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Kron-Hub-NOT-MINE-OP-20422")
                                     
+    addscriptexist(13822889, "LuaWare NOT MINE OP", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuaWare%20NOT%20MINE%20OP994.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-LuaWare-NOT-MINE-OP-20452")
+                                    

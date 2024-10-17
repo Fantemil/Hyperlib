@@ -1,0 +1,2 @@
+
+    addscript(77003374793370, "Current Game","Request script with credits", "Uploaded by Billysearry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20script%20with%20credits30.lua", "https://scriptblox.com/script/GREEDY-NOOBS-Request-script-20451")
