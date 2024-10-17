@@ -4,3 +4,5 @@
                                     
     addscriptexist(107640846225330, "Free Paid Troll", "Uploaded by StarProjectz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Paid%20Troll390.lua", "https://scriptblox.com/script/Like-or-Pass-Free-Paid-Troll-20439")
                                     
+    addscriptexist(107640846225330, "game er", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/game%20er968.lua", "https://scriptblox.com/script/Like-or-Pass-game-*er-20459")
+                                    
