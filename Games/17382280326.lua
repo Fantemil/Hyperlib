@@ -4,3 +4,5 @@
                                     
     addscriptexist(17382280326, "ADMIN CHARACTER OP", "Uploaded by enzoe1522steamrblx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADMIN%20CHARACTER%20OP674.lua", "https://scriptblox.com/script/The-Robloxia:-Until-Dawn-Remake-ADMIN-CHARACTER-OP-20292")
                                     
+    addscriptexist(17382280326, "No Cooldown", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Cooldown705.lua", "https://scriptblox.com/script/The-Robloxia:-Until-Dawn-No-Cooldown-20477")
+                                    

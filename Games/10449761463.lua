@@ -494,3 +494,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "FREE AND OP GUI SCRIPT", "Uploaded by wm667660 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20AND%20OP%20GUI%20SCRIPT584.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FREE-AND-OP-GUI-SCRIPT-20459")
                                     
+    addscriptexist(10449761463, "Jun Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jun%20Moveset876.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Jun-Moveset-20474")
+                                    

@@ -92,3 +92,5 @@
                                     
     addscriptexist(18901165922, "AtherHub Verified", "Uploaded by Louiepattslfc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AtherHub%20Verified838.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AtherHub-Verified-20292")
                                     
+    addscriptexist(18901165922, "AutoFarm Inf Coins Unlock Gamepasses Auto Dig Collect Fruits", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Inf%20Coins%20Unlock%20Gamepasses%20Auto%20Dig%20Collect%20Fruits612.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AutoFarm-Inf-Coins-Unlock-Gamepasses-Auto-Dig-Collect-Fruits-20478")
+                                    

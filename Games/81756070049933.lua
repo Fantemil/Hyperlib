@@ -1,0 +1,2 @@
+
+    addscript(81756070049933, "Current Game","Script Request", "Uploaded by king02noob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request892.lua", "https://scriptblox.com/script/Apollo's-RNG-In-Dev-Script-Request-20475")
