@@ -34,3 +34,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                     
     addscriptexist(5130598377, "Shdows hub v5", "Uploaded by Billysearry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shdows%20hub%20v5816.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Shdows-hub-v5-20268")
                                     
+    addscriptexist(5130598377, "op frm Source", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20frm%20Source449.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-op-frm-Source-20455")
+                                    
