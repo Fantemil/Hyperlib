@@ -222,3 +222,5 @@
                                     
     addscriptexist(17625359962, "Rybowe Hub The best aimbot", "Uploaded by esadsutyemez on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rybowe%20Hub%20The%20best%20aimbot897.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-Rybowe-Hub-The-best-aimbot-20348")
                                     
+    addscriptexist(17625359962, "P3bt by riruru", "Uploaded by greenskyisbad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P3bt%20by%20riruru46.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-P3bt-by-riruru-20442")
+                                    
