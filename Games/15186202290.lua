@@ -6,3 +6,5 @@
                                     
     addscriptexist(15186202290, "Skidded script by idk", "Uploaded by chancebyner907 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skidded%20script%20by%20idk733.lua", "https://scriptblox.com/script/Da-Strike-HALLOWEEN-Skidded-script-by-idk-20381")
                                     
+    addscriptexist(15186202290, "Starhook", "Uploaded by chancebyner907 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starhook771.lua", "https://scriptblox.com/script/Da-Strike-HALLOWEEN-Starhook-20438")
+                                    
