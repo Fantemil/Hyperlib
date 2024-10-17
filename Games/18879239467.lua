@@ -1,0 +1,2 @@
+
+    addscript(18879239467, "Current Game","Zephyr Bl00dy Playgr0und", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Bl00dy%20Playgr0und156.lua", "https://scriptblox.com/script/Bloody-playground-Zephyr-Bl00dy-Playgr0und-20465")
