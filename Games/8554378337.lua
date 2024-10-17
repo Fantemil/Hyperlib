@@ -4,3 +4,5 @@ addscriptexist(8554378337, "Leave On Overnight Weapon Fighting Simulator Script 
                                 
     addscriptexist(8554378337, "New Simple Script", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Simple%20Script18.lua", "https://scriptblox.com/script/Free-UGC-Weapon-Fighting-Simulator-New-Simple-Script-8379")
                                     
+    addscriptexist(8554378337, "START FARM COLLECT REWARDS HIDE NAMETAG", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/START%20FARM%20COLLECT%20REWARDS%20HIDE%20NAMETAG492.lua", "https://scriptblox.com/script/Weapon-Fighting-Simulator-START-FARM-COLLECT-REWARDS-HIDE-NAMETAG-20472")
+                                    
