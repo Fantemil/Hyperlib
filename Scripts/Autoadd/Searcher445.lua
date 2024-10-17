@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://alexv.netlify.app/otherscripts/wordbomb.lua"))()
