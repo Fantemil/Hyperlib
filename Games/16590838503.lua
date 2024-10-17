@@ -1,0 +1,2 @@
+
+    addscript(16590838503, "Current Game","Get Everything", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Everything990.lua", "https://scriptblox.com/script/Shark-bite-simulator-Get-Everything-20455")

@@ -34,3 +34,5 @@ addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com"
                                     
     addscriptexist(13822889, "LuaWare NOT MINE OP", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LuaWare%20NOT%20MINE%20OP994.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-LuaWare-NOT-MINE-OP-20452")
                                     
+    addscriptexist(13822889, "LTHUB Mulitple Hubs in one script", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LTHUB%20Mulitple%20Hubs%20in%20one%20script762.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-LTHUB-Mulitple-Hubs-in-one-script-20458")
+                                    

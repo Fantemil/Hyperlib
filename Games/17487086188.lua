@@ -2,3 +2,5 @@
     addscript(17487086188, "Current Game","yuhh baby we are ing", "Uploaded by Shity_Guy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/yuhh%20baby%20we%20are%20ing614.lua", "https://scriptblox.com/script/void-fishing-QUESTS-yuhh-baby-we-are-*ing-16298")
     addscriptexist(17487086188, "SCRIPTED OP Autofarm", "Uploaded by Scripted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTED%20OP%20Autofarm795.lua", "https://scriptblox.com/script/void-fishing-+50percent-SCRIPTED-OP-Autofarm-16108")
                                     
+    addscriptexist(17487086188, "Auto Catch Fish Auto Collect Fruits Auto Boosts", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Catch%20Fish%20Auto%20Collect%20Fruits%20Auto%20Boosts755.lua", "https://scriptblox.com/script/void-fishing-Auto-Catch-Fish-Auto-Collect-Fruits-Auto-Boosts-20457")
+                                    
