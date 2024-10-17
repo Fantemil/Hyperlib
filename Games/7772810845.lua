@@ -1,0 +1,2 @@
+
+    addscript(7772810845, "Current Game","Script Request", "Uploaded by finsee59 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request233.lua", "https://scriptblox.com/script/The-Presentation-Experience-Script-Request-20482")

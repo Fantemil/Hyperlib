@@ -10,3 +10,5 @@ addscript(263761432, "Current Game","ROBLOX Gui", "Uploaded by HyperGamer on scr
                                     
     addscriptexist(263761432, "OP Script", "Uploaded by vqmpjay on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script403.lua", "https://scriptblox.com/script/Horrific-Housing-Hosuing-hub-16738")
                                     
+    addscriptexist(263761432, "Rellahs OP  HOUSlNG GUI 2024", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rellahs%20OP%20%20HOUSlNG%20GUI%202024439.lua", "https://scriptblox.com/script/NEW-MODE-Horrific-Housing-Rellahs-OP-HOUSlNG-GUI-2024-20479")
+                                    
