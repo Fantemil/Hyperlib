@@ -110,3 +110,5 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                     
     addscriptexist(9872472334, "script request", "Uploaded by Sharkie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request579.lua", "https://scriptblox.com/script/Evade-script-request-20345")
                                     
+    addscriptexist(9872472334, "candy farm", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/candy%20farm948.lua", "https://scriptblox.com/script/Evade-candy-farm-20447")
+                                    
