@@ -10,3 +10,5 @@
                                     
     addscriptexist(16732694052, "REQUEST", "Uploaded by zazaddggjj123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST458.lua", "https://scriptblox.com/script/NEW-Fisch-REQUEST-20405")
                                     
+    addscriptexist(16732694052, "Auto Fish", "Uploaded by chum on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish510.lua", "https://scriptblox.com/script/Fisch-Auto-Fish-20530")
+                                    
