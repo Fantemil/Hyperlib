@@ -1434,3 +1434,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "BEST NO1 AUTO FARM", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20NO1%20AUTO%20FARM675.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-NO1-AUTO-FARM-20508")
                                     
+    addscriptexist(2753915549, "Auto trial script", "Uploaded by johnlesterlucresio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20trial%20script988.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-trial-script-20513")
+                                    
