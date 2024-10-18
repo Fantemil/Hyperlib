@@ -1430,3 +1430,7 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Azurehub Keyless", "Uploaded by hydroscript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azurehub%20Keyless428.lua", "https://scriptblox.com/script/Blox-Fruits-Azurehub-Keyless-20485")
                                     
+    addscriptexist(2753915549, "Pcyaw Script", "Uploaded by johnlesterlucresio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pcyaw%20Script457.lua", "https://scriptblox.com/script/Blox-Fruits-Pcyaw-Script-20512")
+                                    
+    addscriptexist(2753915549, "BEST NO1 AUTO FARM", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20NO1%20AUTO%20FARM675.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-NO1-AUTO-FARM-20508")
+                                    
