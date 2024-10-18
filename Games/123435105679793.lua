@@ -1,0 +1,2 @@
+
+    addscript(123435105679793, "Current Game","Lunar vip", "Uploaded by SuperStudioFoornal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20vip153.lua", "https://scriptblox.com/script/Dah-Hood-Lunar-vip-20494")
