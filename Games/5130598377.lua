@@ -36,3 +36,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                     
     addscriptexist(5130598377, "op frm Source", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20frm%20Source449.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-op-frm-Source-20455")
                                     
+    addscriptexist(5130598377, "Level 200 in seconds", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Level%20200%20in%20seconds984.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Level-200-in-seconds-20497")
+                                    
