@@ -1438,3 +1438,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Pcyaw find", "Uploaded by johnlesterlucresio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pcyaw%20find458.lua", "https://scriptblox.com/script/Blox-Fruits-Pcyaw-find-20518")
                                     
+    addscriptexist(2753915549, "Auto farm bones", "Uploaded by onatshoagong on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20bones148.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-farm-bones-20527")
+                                    
