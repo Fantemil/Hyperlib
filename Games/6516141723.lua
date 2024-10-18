@@ -284,3 +284,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "Rocket launcher for", "Uploaded by softbfgrey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20launcher%20for173.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Rocket-launcher-for-20407")
                                     
+    addscriptexist(6516141723, "MsPaint V3", "Uploaded by Luke_Scripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MsPaint%20V3355.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-MsPaint-V3-20517")
+                                    

@@ -36,3 +36,5 @@ addscriptexist(9285238704, "Race Clicker Auto Farm", "Uploaded by AlonE on rscri
                                     
     addscriptexist(9285238704, "GoldEx v 1 0 Rce", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20v%201%200%20Rce558.lua", "https://scriptblox.com/script/Race-Clicker-GoldEx-v-1-0-Rce-19201")
                                     
+    addscriptexist(9285238704, "Auto farm Auto Race Auto speed", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20Auto%20Race%20Auto%20speed523.lua", "https://scriptblox.com/script/Race-Clicker-Auto-farm-Auto-Race-Auto-speed-20514")
+                                    

@@ -1436,3 +1436,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto trial script", "Uploaded by johnlesterlucresio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20trial%20script988.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-trial-script-20513")
                                     
+    addscriptexist(2753915549, "Pcyaw find", "Uploaded by johnlesterlucresio on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pcyaw%20find458.lua", "https://scriptblox.com/script/Blox-Fruits-Pcyaw-find-20518")
+                                    
