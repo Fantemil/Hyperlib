@@ -1440,3 +1440,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Auto farm bones", "Uploaded by onatshoagong on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20bones148.lua", "https://scriptblox.com/script/Blox-Fruits-Auto-farm-bones-20527")
                                     
+    addscriptexist(2753915549, "Redz Hub Support Solara", "Uploaded by moodygaming74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20Support%20Solara270.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-Support-Solara-20544")
+                                    
