@@ -274,3 +274,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub495.lua", "https://scriptblox.com/script/Brookhaven-RP-Rocket-Hub-20224")
                                     
+    addscriptexist(4924922222, "Sanders broockhaven", "Uploaded by Rwety36 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sanders%20broockhaven350.lua", "https://scriptblox.com/script/Brookhaven-RP-Sanders-broockhaven-20548")
+                                    

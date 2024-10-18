@@ -276,3 +276,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Candy Farm Script", "Uploaded by BaconScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Candy%20Farm%20Script136.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Candy-Farm-Script-20535")
                                     
+    addscriptexist(6403373529, "Gianghub sb", "Uploaded by Rwety36 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gianghub%20sb750.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Gianghub-sb-20549")
+                                    

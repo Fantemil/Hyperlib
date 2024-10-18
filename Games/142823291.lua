@@ -320,3 +320,5 @@ addscriptexist(142823291, "Quantumix HUB", "Uploaded by z_nth on scriptblox.com"
                                     
     addscriptexist(142823291, "updated auto farms candy", "Uploaded by SmoxHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/updated%20auto%20farms%20candy217.lua", "https://scriptblox.com/script/Murder-Mystery-2-updated-auto-farms-candy-20441")
                                     
+    addscriptexist(142823291, "farm candy PC  MOBILE  SUPPORT", "Uploaded by SmoxHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/farm%20candy%20PC%20%20MOBILE%20%20SUPPORT744.lua", "https://scriptblox.com/script/Murder-Mystery-2-farm-candy-pc-and-mobile-20547")
+                                    

@@ -1,0 +1,1 @@
+join dsc https://discord.gg/b2MZknYcnb i am currently updating the script to make sure theres no bug, u will find the script in my dsc 
