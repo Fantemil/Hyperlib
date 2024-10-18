@@ -116,3 +116,5 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "halloween event script", "Uploaded by pizzameboy1433 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/halloween%20event%20script244.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-halloween-event-f-20491")
                                     
+    addscriptexist(13127800756, "Halloween event  auto grind", "Uploaded by Comensal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Halloween%20event%20%20auto%20grind850.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Halloween-Auto-f-20500")
+                                    

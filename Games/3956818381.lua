@@ -70,3 +70,5 @@ addscriptexist(3956818381, "Decent Script", "Uploaded by GuyFromFortnite on scri
                                     
     addscriptexist(3956818381, "Auto Farm Auto Kill Unlock Islands", "Uploaded by snipcola on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Kill%20Unlock%20Islands108.lua", "https://scriptblox.com/script/Ninja-Legends-Auto-Farm-Auto-Kill-Unlock-Islands-18075")
                                     
+    addscriptexist(3956818381, "ninja  op script doesnt support solara sadly", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ninja%20%20op%20script%20doesnt%20support%20solara%20sadly773.lua", "https://scriptblox.com/script/Ninja-Legends-ninja-op-script-doesnt-support-solara-sadly-20501")
+                                    
