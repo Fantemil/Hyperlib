@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://getessence.pages.dev/load.lua"))()

@@ -286,3 +286,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "MsPaint V3", "Uploaded by Luke_Scripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MsPaint%20V3355.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-MsPaint-V3-20517")
                                     
+    addscriptexist(6516141723, "ROBHUB X TOOL GIVER", "Uploaded by DarlI_17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBHUB%20X%20TOOL%20GIVER91.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-ROBHUB-X-TOOL-GIVER-20538")
+                                    

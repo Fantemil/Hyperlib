@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/r7pha/robras_escripts/refs/heads/main/rbx-source-scripts"))()

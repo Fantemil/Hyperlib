@@ -26,3 +26,5 @@ addscript(9874911474, "Current Game","Tha Bronx 2 Script OP", "Uploaded by sades
                                     
     addscriptexist(9874911474, "XRo Best Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XRo%20Best%20Script642.lua", "https://scriptblox.com/script/(UPDATE)-Tha-Bronx-2-XRo-Best-Script-20251")
                                     
+    addscriptexist(9874911474, "Essence", "Uploaded by xzzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Essence39.lua", "https://scriptblox.com/script/Tha-Bronx-2-Essence-20542")
+                                    
