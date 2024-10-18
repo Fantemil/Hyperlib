@@ -1,0 +1,2 @@
+
+    addscript(18492109138, "Current Game","blood  kill all", "Uploaded by neutral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/blood%20%20kill%20all639.lua", "https://scriptblox.com/script/Blood-andamp-Gore-(BETA)-blood-kill-all-20525")
