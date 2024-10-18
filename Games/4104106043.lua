@@ -14,3 +14,5 @@ addscriptexist(4104106043, "VIP Room n All Gears", "Uploaded by KhSaeed90 on scr
                                     
     addscriptexist(4104106043, "Fly", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly81.lua", "https://scriptblox.com/script/Insane-Elevator!-Fly-12273")
                                     
+    addscriptexist(4104106043, "Great script les hub", "Uploaded by ariznasri76 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Great%20script%20les%20hub941.lua", "https://scriptblox.com/script/Insane-Elevator!-Great-elevator-scripton-les-hub-20531")
+                                    

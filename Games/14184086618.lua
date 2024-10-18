@@ -84,3 +84,5 @@ addscriptexist(14184086618, "unclock everything ll the s op win frm remove killp
                                     
     addscriptexist(14184086618, "Get ll s OP no key needed", "Uploaded by NotMyscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20ll%20s%20OP%20no%20key%20needed830.lua", "https://scriptblox.com/script/W36-Obby-But-You're-On-a-Bike-Get-ll-s-OP-no-key-needed-15350")
                                     
+    addscriptexist(14184086618, "Wins Frm Get  Set Grvity Collect Crd", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wins%20Frm%20Get%20%20Set%20Grvity%20Collect%20Crd899.lua", "https://scriptblox.com/script/W47-Obby-But-You're-On-a-Bike-Wins-Frm-Get-Set-Grvity-Collect-Crd-20532")
+                                    

@@ -10,3 +10,5 @@
                                     
     addscriptexist(16361480410, "INF REBIRTHS", "Uploaded by 0x88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20REBIRTHS909.lua", "https://scriptblox.com/script/Climb-Race-Simulator-INF-REBIRTHS-17716")
                                     
+    addscriptexist(16361480410, "all executor INF Trophy", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20executor%20INF%20Trophy113.lua", "https://scriptblox.com/script/Climb-Race-Simulator-all-executor-20534")
+                                    
