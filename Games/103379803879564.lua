@@ -1,0 +1,2 @@
+
+    addscript(103379803879564, "Current Game","all executor", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20executor563.lua", "https://scriptblox.com/script/Beta-RNG-Hero-Squad-all-executor-20495")
