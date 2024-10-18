@@ -224,3 +224,5 @@
                                     
     addscriptexist(17625359962, "P3bt by riruru", "Uploaded by greenskyisbad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/P3bt%20by%20riruru46.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-P3bt-by-riruru-20442")
                                     
+    addscriptexist(17625359962, "SUPER OVERPOWERED", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPER%20OVERPOWERED836.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-SUPER-OVERPOWERED-20489")
+                                    

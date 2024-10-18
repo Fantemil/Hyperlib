@@ -272,3 +272,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Edgelord V2 by Incognito Scripts", "Uploaded by lukajijavadzebrawl on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Edgelord%20V2%20by%20Incognito%20Scripts971.lua", "https://scriptblox.com/script/Slap-Battles-Edgelord-V2-by-Incognito-Scripts-20460")
                                     
+    addscriptexist(6403373529, "OP Hub", "Uploaded by hydroscript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Hub352.lua", "https://scriptblox.com/script/Slap-Battles-Hub-20487")
+                                    
