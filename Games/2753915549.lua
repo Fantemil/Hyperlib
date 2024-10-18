@@ -1428,3 +1428,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "HOHO HUB V4  Keyless", "Uploaded by gforcecruzn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/HOHO%20HUB%20V4%20%20Keyless932.lua", "https://scriptblox.com/script/Blox-Fruits-HOHO-HUB-V4-Keyless-20481")
                                     
+    addscriptexist(2753915549, "Azurehub Keyless", "Uploaded by hydroscript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Azurehub%20Keyless428.lua", "https://scriptblox.com/script/Blox-Fruits-Azurehub-Keyless-20485")
+                                    

@@ -10,3 +10,5 @@ addscriptexist(10179538382, "AC Bypass", "Uploaded by gore on scriptblox.com", "
                                     
     addscriptexist(10179538382, "Killa lol", "Uploaded by Badnana on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killa%20lol940.lua", "https://scriptblox.com/script/South-Bronx:-The-Trenches-Killa-lol-20018")
                                     
+    addscriptexist(10179538382, "auto farm request for this game pls", "Uploaded by quxi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20request%20for%20this%20game%20pls386.lua", "https://scriptblox.com/script/South-Bronx:-The-Trenches-auto-farm-request-for-this-game-pls-20484")
+                                    
