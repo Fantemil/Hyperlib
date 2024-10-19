@@ -38,3 +38,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                     
     addscriptexist(5130598377, "Level 200 in seconds", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Level%20200%20in%20seconds984.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Level-200-in-seconds-20497")
                                     
+    addscriptexist(5130598377, "universl  op uto scend open source", "Uploaded by neutral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/universl%20%20op%20uto%20scend%20open%20source130.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Universl-OP-uto-scend-20583")
+                                    

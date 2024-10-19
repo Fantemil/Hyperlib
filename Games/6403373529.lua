@@ -280,3 +280,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "BerryFarm in", "Uploaded by ZexusBerry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BerryFarm%20in905.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-BerryFarm-in-20573")
                                     
+    addscriptexist(6403373529, "Script hub have Autofarm candy support solara", "Uploaded by hhuevic222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20hub%20have%20Autofarm%20candy%20support%20solara77.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Script-hub-have-Autofarm-candy-support-solara-20584")
+                                    

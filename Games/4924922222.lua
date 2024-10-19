@@ -278,3 +278,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Auto Farm More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20More738.lua", "https://scriptblox.com/script/Brookhaven-RP-Auto-Farm-More-20555")
                                     
+    addscriptexist(4924922222, "Auto Farm Candy", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Candy532.lua", "https://scriptblox.com/script/Brookhaven-RP-Auto-Farm-Candy-20580")
+                                    

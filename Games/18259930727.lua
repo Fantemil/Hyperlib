@@ -4,3 +4,5 @@
                                     
     addscriptexist(18259930727, "Inf Money", "Uploaded by NightScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money746.lua", "https://scriptblox.com/script/Better-Meme-Inf-Money-19556")
                                     
+    addscriptexist(18259930727, "moneh", "Uploaded by sewer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/moneh919.lua", "https://scriptblox.com/script/Better-Meme-moneh-20580")
+                                    

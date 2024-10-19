@@ -288,3 +288,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "ROBHUB X TOOL GIVER", "Uploaded by DarlI_17 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBHUB%20X%20TOOL%20GIVER91.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-ROBHUB-X-TOOL-GIVER-20538")
                                     
+    addscriptexist(6516141723, "lean", "Uploaded by sewer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lean916.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-lean-20579")
+                                    

@@ -2,3 +2,5 @@
 addscript(9984770240, "Current Game","Obby But YouRe A Ball Skip LevelNot Gui", "Uploaded by Untoast on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20But%20YouRe%20A%20Ball%20Skip%20LevelNot%20Gui978.lua", "https://rscripts.net/script/obby-but-youre-a-ball-skip-levelnot-gui-3252")
 addscriptexist(9984770240, "Obby But YouRe A Ball GUI  Skip Level  Finish Game", "Uploaded by Untoast on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Obby%20But%20YouRe%20A%20Ball%20GUI%20%20Skip%20Level%20%20Finish%20Game753.lua", "https://rscripts.net/script/obby-but-youre-a-ball-gui-skip-level-finish-game-3258")
                                 
+    addscriptexist(9984770240, "complete", "Uploaded by ktty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/complete855.lua", "https://scriptblox.com/script/Obby-but-you're-a-ball-uto-finish-20587")
+                                    

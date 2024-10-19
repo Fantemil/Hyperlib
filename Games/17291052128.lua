@@ -1,0 +1,2 @@
+
+    addscript(17291052128, "Current Game","all instantly", "Uploaded by 7mrqnygbjqzcnabj1nkv on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20instantly156.lua", "https://scriptblox.com/script/NEW-Find-The-Footballers-110-all-instantly-20576")
