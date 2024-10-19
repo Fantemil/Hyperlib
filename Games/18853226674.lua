@@ -1,0 +1,2 @@
+
+    addscript(18853226674, "Current Game","Rage bot Kill all enemies", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rage%20bot%20Kill%20all%20enemies664.lua", "https://scriptblox.com/script/UPGRADES-Weapon-RNG-Rage-bot-Kill-all-enemies-20628")

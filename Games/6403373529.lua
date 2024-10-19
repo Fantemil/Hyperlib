@@ -290,3 +290,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Hub Script Event I Projeto LKB", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hub%20Script%20Event%20I%20Projeto%20LKB97.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Hub-Script-Event-I-Projeto-LKB-20624")
                                     
+    addscriptexist(6403373529, "SafeZsploit", "Uploaded by topkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SafeZsploit61.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-SafeZsploit-20630")
+                                    
