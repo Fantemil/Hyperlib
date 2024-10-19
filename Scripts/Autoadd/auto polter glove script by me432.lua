@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/K00lGhuy/funny-game-thingy/main/slap%20battles%20auto%20polter%20glove', true))()

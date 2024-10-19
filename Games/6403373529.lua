@@ -282,3 +282,7 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Script hub have Autofarm candy support solara", "Uploaded by hhuevic222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20hub%20have%20Autofarm%20candy%20support%20solara77.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Script-hub-have-Autofarm-candy-support-solara-20584")
                                     
+    addscriptexist(6403373529, "mobile support for my last script auto zombie script thingy", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mobile%20support%20for%20my%20last%20script%20auto%20zombie%20script%20thingy432.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-mobile-support-for-my-last-script-auto-zombie-script-thingy-20612")
+                                    
+    addscriptexist(6403373529, "auto polter glove script by me", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20polter%20glove%20script%20by%20me432.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-auto-polter-glove-script-by-me-20607")
+                                    

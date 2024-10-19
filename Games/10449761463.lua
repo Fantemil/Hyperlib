@@ -496,3 +496,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Jun Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jun%20Moveset876.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Jun-Moveset-20474")
                                     
+    addscriptexist(10449761463, "Fake Update Message Troll", "Uploaded by cattosoftworks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Update%20Message%20Troll663.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Fake-Update-Message-Troll-20606")
+                                    

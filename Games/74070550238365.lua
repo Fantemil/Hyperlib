@@ -6,3 +6,5 @@
                                     
     addscriptexist(74070550238365, "Ball", "Uploaded by souhi14alt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ball359.lua", "https://scriptblox.com/script/Home-Tree-(2024)-*-20333")
                                     
+    addscriptexist(74070550238365, "Project eDx Backdoored skip", "Uploaded by souhi14alt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20eDx%20Backdoored%20skip295.lua", "https://scriptblox.com/script/Home-Tree-(2024)-Project-eDx-Backdoored-skip-20608")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(91282350711571, "Current Game","SCRIPT REQUEST", "Uploaded by tommerlemm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST518.lua", "https://scriptblox.com/script/Mad-City:-Chapter-1-SCRIPT-REQUEST-20605")
