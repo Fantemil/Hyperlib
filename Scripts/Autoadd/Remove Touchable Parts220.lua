@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Mautiku/ehh/main/remove%20touchable%20parts.txt",true))()

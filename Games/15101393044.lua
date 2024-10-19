@@ -16,3 +16,5 @@
                                     
     addscriptexist(15101393044, "DTI Decal changer FE", "Uploaded by Vladgeocon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DTI%20Decal%20changer%20FE534.lua", "https://scriptblox.com/script/Dress-To-Impress-DTI-Decal-changer-FE-19819")
                                     
+    addscriptexist(15101393044, "reset other players stars  0 forever", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reset%20other%20players%20stars%20%200%20forever48.lua", "https://scriptblox.com/script/Dress-To-Impress-reset-other-players-stars-0-forever-20639")
+                                    

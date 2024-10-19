@@ -1,0 +1,2 @@
+
+    addscript(77505463518573, "Current Game","PLUH V1 MOBILE", "Uploaded by therealwither on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PLUH%20V1%20MOBILE923.lua", "https://scriptblox.com/script/Da-Downhill-HALLOWEEN-PLUH-V1-MOBILE-20640")

@@ -26,3 +26,5 @@ addscript(14360719220, "Current Game","Free Elusive Units Place", "Uploaded by d
                                     
     addscriptexist(14360719220, "Place Unit in Game UPD", "Uploaded by RipMasterRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Place%20Unit%20in%20Game%20UPD39.lua", "https://scriptblox.com/script/EP-77!-Bathroom-Tower-Defense-X-Place-Unit-in-Game-UPD-17198")
                                     
+    addscriptexist(14360719220, "OyHubV3", "Uploaded by Oxy1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OyHubV3825.lua", "https://scriptblox.com/script/EP-77-PT-3!-Bathroom-Tower-Defense-X-OyHubV3-20639")
+                                    
