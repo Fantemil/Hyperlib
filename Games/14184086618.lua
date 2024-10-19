@@ -86,3 +86,5 @@ addscriptexist(14184086618, "unclock everything ll the s op win frm remove killp
                                     
     addscriptexist(14184086618, "Wins Frm Get  Set Grvity Collect Crd", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wins%20Frm%20Get%20%20Set%20Grvity%20Collect%20Crd899.lua", "https://scriptblox.com/script/W47-Obby-But-You're-On-a-Bike-Wins-Frm-Get-Set-Grvity-Collect-Crd-20532")
                                     
+    addscriptexist(14184086618, "finish instntly every world", "Uploaded by ktty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/finish%20instntly%20every%20world844.lua", "https://scriptblox.com/script/W47-Obby-But-You're-On-a-Bike-uto-finish-ll-worlds-20590")
+                                    
