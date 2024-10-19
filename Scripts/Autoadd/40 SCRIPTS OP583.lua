@@ -1,0 +1,1 @@
+join for scripts! https://discord.gg/vACkA5SYsZ

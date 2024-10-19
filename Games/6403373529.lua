@@ -286,3 +286,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "auto polter glove script by me", "Uploaded by Shadowy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20polter%20glove%20script%20by%20me432.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-auto-polter-glove-script-by-me-20607")
                                     
+    addscriptexist(6403373529, "Auto Farm CandyCorns I Projeto LKB", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20CandyCorns%20I%20Projeto%20LKB375.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Auto-Farm-CandyCorns-I-Projeto-LKB-20617")
+                                    
