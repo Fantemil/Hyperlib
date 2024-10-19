@@ -1,0 +1,1 @@
+Money Autofarm and anti afk

@@ -1,0 +1,2 @@
+
+    addscript(16083480397, "Current Game","BeeCon Hub", "Uploaded by GPUXS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BeeCon%20Hub96.lua", "https://scriptblox.com/script/Energy-Drink-Simulator-BeeCon-Hub-20567")

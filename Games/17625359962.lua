@@ -226,3 +226,5 @@
                                     
     addscriptexist(17625359962, "SUPER OVERPOWERED", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPER%20OVERPOWERED836.lua", "https://scriptblox.com/script/GAMEMODES-RIVALS-SUPER-OVERPOWERED-20489")
                                     
+    addscriptexist(17625359962, "Cute And Overpowered OP", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cute%20And%20Overpowered%20OP917.lua", "https://scriptblox.com/script/RIVALS-Cute-And-Overpowered-OP-20566")
+                                    
