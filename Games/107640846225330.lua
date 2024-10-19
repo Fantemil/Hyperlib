@@ -8,3 +8,5 @@
                                     
     addscriptexist(107640846225330, "INF MONEY Exec only 1 time", "Uploaded by serversadzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY%20Exec%20only%201%20time654.lua", "https://scriptblox.com/script/Like-or-Pass-INF-MONEY-Exec-only-1-time-20628")
                                     
+    addscriptexist(107640846225330, "ruin game CLOWN ALL", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ruin%20game%20CLOWN%20ALL372.lua", "https://scriptblox.com/script/Like-or-Pass-ruin-game-CLOWN-ALL-20637")
+                                    
