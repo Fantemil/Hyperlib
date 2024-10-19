@@ -4,3 +4,5 @@
                                     
     addscriptexist(16560655288, "Nyexus V", "Uploaded by DoodlingGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nyexus%20V553.lua", "https://scriptblox.com/script/Pillar-Chase-2-Nyexus-V-19240")
                                     
+    addscriptexist(16560655288, "Main Menu", "Uploaded by GPUXS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Main%20Menu148.lua", "https://scriptblox.com/script/Pillar-Chase-2-Main-Menu-20601")
+                                    

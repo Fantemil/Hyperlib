@@ -6,3 +6,5 @@ addscript(11137575513, "Current Game","laziest", "Uploaded by flavorgameryt on s
                                     
     addscriptexist(11137575513, "Script Pack", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Pack748.lua", "https://scriptblox.com/script/The-Chosen-One-Script-Pack-18213")
                                     
+    addscriptexist(11137575513, "Zte hub", "Uploaded by _39Q on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zte%20hub932.lua", "https://scriptblox.com/script/The-Chosen-One-Zte-hub-20603")
+                                    
