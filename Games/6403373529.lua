@@ -278,3 +278,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Gianghub sb", "Uploaded by Rwety36 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gianghub%20sb750.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Gianghub-sb-20549")
                                     
+    addscriptexist(6403373529, "BerryFarm in", "Uploaded by ZexusBerry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BerryFarm%20in905.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-BerryFarm-in-20573")
+                                    

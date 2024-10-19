@@ -1,0 +1,2 @@
+
+    addscript(18274537645, "Current Game","Op", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op546.lua", "https://scriptblox.com/script/Find-The-Football-Clubs-(130)-All-20574")
