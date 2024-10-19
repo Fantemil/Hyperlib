@@ -10,3 +10,5 @@
                                     
     addscriptexist(10598963932, "Skibidi Hub", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20Hub520.lua", "https://scriptblox.com/script/FREE-NIGHTMARE-LUFFY-FRUIT-Cat-Piece-Skibidi-Hub-fix-negative-stat-and-more-17218")
                                     
+    addscriptexist(10598963932, "Admin cmds INF stats", "Uploaded by VGDUCKY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20cmds%20INF%20stats129.lua", "https://scriptblox.com/script/FREE-GEAR-5-REWORK-+-DRAGON-REWORK-Cat-Piece-Admin-cmds-INF-stats-20643")
+                                    

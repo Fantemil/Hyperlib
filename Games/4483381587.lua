@@ -136,3 +136,5 @@ addscriptexist(4483381587, "rcd renimte with ex", "Uploaded by nicn1202ff on scr
                                     
     addscriptexist(4483381587, "50 plus scripts op", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/50%20plus%20scripts%20op401.lua", "https://scriptblox.com/script/a-literal-baseplate.-50-plus-scripts-op-20490")
                                     
+    addscriptexist(4483381587, "strl Hub", "Uploaded by BypasserDEVELOPER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/strl%20Hub160.lua", "https://scriptblox.com/script/a-literal-baseplate.-strl-Hub-20649")
+                                    

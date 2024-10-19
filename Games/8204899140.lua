@@ -66,3 +66,5 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                     
     addscriptexist(8204899140, "FF god script", "Uploaded by NotExe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FF%20god%20script896.lua", "https://scriptblox.com/script/Football-Fusion-2-FF-god-script-20248")
                                     
+    addscriptexist(8204899140, "SCRIPT REQUEST", "Uploaded by jaeseanwhitehouse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST8.lua", "https://scriptblox.com/script/Football-Fusion-2-SCRIPT-REQUEST-20653")
+                                    
