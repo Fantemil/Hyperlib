@@ -34,3 +34,5 @@ addscript(14067600077, "Current Game","OP AUTOFARM", "Uploaded by luffytard77 on
                                     
     addscriptexist(14067600077, "AUTO LOOTBOXES AND AUTO RAID AND AUTOFARMING", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20LOOTBOXES%20AND%20AUTO%20RAID%20AND%20AUTOFARMING217.lua", "https://scriptblox.com/script/TYPE:SOUL-MAJOR-UPDATE-AUTO-LOOTBOXES-AND-AUTO-RAID-12073")
                                     
+    addscriptexist(14067600077, "Free With anti cheat bypassed farm Drowned Hub", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20With%20anti%20cheat%20bypassed%20farm%20Drowned%20Hub236.lua", "https://scriptblox.com/script/TYPE:SOUL-HALLOWEEN-UPDATE-Free-With-anti-cheat-bypassed-farm-Drowned-Hub-20554")
+                                    
