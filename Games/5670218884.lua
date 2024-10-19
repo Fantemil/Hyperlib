@@ -6,3 +6,5 @@ addscriptexist(5670218884, "Fake Atrain", "Uploaded by StudioDummy on scriptblox
                                     
     addscriptexist(5670218884, "BRAND NEW IA Script", "Uploaded by EntonioDMI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BRAND%20NEW%20IA%20Script948.lua", "https://scriptblox.com/script/item-asylum-BRAND-NEW-IA-Script-20212")
                                     
+    addscriptexist(5670218884, "IA Hub", "Uploaded by EntonioDMI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IA%20Hub634.lua", "https://scriptblox.com/script/item-asylum-IA-Hub-20619")
+                                    
