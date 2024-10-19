@@ -14,3 +14,5 @@ addscript(4996049426, "Current Game","Star Tower Defense SO MANY FEATURES", "Upl
                                     
     addscriptexist(4996049426, "Best SCRIPT", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20SCRIPT166.lua", "https://scriptblox.com/script/UPDATE-+-4X-All-Star-Tower-Defense-Best-SCRIPT-12634")
                                     
+    addscriptexist(4996049426, "Script has more than 20 functions", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20has%20more%20than%2020%20functions642.lua", "https://scriptblox.com/script/UPDATE-+-4X-All-Star-Tower-Defense-Script-has-more-than-20-functions-20600")
+                                    
