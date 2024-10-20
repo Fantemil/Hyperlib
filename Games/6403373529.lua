@@ -302,3 +302,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "KVIKS HUB AUTOFARM CANDY AND GRAVE HALLOWEEN", "Uploaded by kviks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KVIKS%20HUB%20AUTOFARM%20CANDY%20AND%20GRAVE%20HALLOWEEN814.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-KVIKS-HUB-AUTOFARM-CANDY-AND-GRAVE-HALLOWEEN-20715")
                                     
+    addscriptexist(6403373529, "OpenHub support solara", "Uploaded by hhuevic222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OpenHub%20support%20solara847.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-OpenHub-support-solara-20724")
+                                    

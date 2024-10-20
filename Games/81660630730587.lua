@@ -1,0 +1,2 @@
+
+    addscript(81660630730587, "Current Game","Script Request", "Uploaded by DieLit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request661.lua", "https://scriptblox.com/script/Line-to-RNG-Script-Request-20726")
