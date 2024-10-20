@@ -50,3 +50,5 @@ addscriptexist(6961824067, "Simple Time Left Till Next Spin", "Uploaded by EviIA
                                     
     addscriptexist(6961824067, "Increase throwing power", "Uploaded by wafzthkin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Increase%20throwing%20power733.lua", "https://scriptblox.com/script/Fling-Things-and-People-Increase-throwing-power-20593")
                                     
+    addscriptexist(6961824067, "Vanish ", "Uploaded by SinoXde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanish%20605.lua", "https://scriptblox.com/script/Fling-Things-and-People-Super-20716")
+                                    

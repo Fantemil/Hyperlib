@@ -12,3 +12,5 @@
                                     
     addscriptexist(16732694052, "Auto Fish", "Uploaded by chum on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish510.lua", "https://scriptblox.com/script/Fisch-Auto-Fish-20530")
                                     
+    addscriptexist(16732694052, "OP FAST FISHING AND MORE GUI", "Uploaded by *69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FAST%20FISHING%20AND%20MORE%20GUI415.lua", "https://scriptblox.com/script/Fisch-OP-FAST-FISHING-AND-MORE-GUI-20714")
+                                    
