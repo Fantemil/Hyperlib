@@ -19330,3 +19330,5 @@ https://scriptblox.com/script/Universal-Script-ServerRaidDelta-20706
 https://scriptblox.com/script/Universal-Script-Player-teleport-20706
 https://scriptblox.com/script/HALLOWEEN-Hotdog-Eating-Simulator-all-executor-20710
 https://scriptblox.com/script/Universal-Script-Pear-Hub-20708
+https://scriptblox.com/script/Universal-Script-zephyr-discord-20712
+https://scriptblox.com/script/Bloody-playground-Zephyr-V2-Bl00dy-Playgr0und-20711
