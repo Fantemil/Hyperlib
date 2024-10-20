@@ -94,3 +94,5 @@
                                     
     addscriptexist(18901165922, "AutoFarm Inf Coins Unlock Gamepasses Auto Dig Collect Fruits", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Inf%20Coins%20Unlock%20Gamepasses%20Auto%20Dig%20Collect%20Fruits612.lua", "https://scriptblox.com/script/PETS-GO!-NEW-AutoFarm-Inf-Coins-Unlock-Gamepasses-Auto-Dig-Collect-Fruits-20478")
                                     
+    addscriptexist(18901165922, "BEST KEYLESS SCRIPT BANANA HUB", "Uploaded by roge4087 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20KEYLESS%20SCRIPT%20BANANA%20HUB261.lua", "https://scriptblox.com/script/PETS-GO!-NEW-BEST-KEYLESS-SCRIPT-BANANA-HUB-20670")
+                                    
