@@ -1,0 +1,2 @@
+
+    addscript(18153851914, "Current Game","SIGMA IN CA", "Uploaded by idfkok5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SIGMA%20IN%20CA921.lua", "https://scriptblox.com/script/Classic-Arena-BOSS-SIGMA-IN-20688")

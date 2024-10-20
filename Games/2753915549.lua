@@ -1444,3 +1444,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Toshy Hub", "Uploaded by ToshyVHS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toshy%20Hub321.lua", "https://scriptblox.com/script/Blox-Fruits-Toshy-Hub-20661")
                                     
+    addscriptexist(2753915549, "Demon Hub New", "Uploaded by GPUXS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Hub%20New724.lua", "https://scriptblox.com/script/Blox-Fruits-Demon-Hub-20687")
+                                    

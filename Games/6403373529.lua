@@ -294,3 +294,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Auto Hallow Jack", "Uploaded by BaconScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Hallow%20Jack467.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Auto-Hallow-Jack-20633")
                                     
+    addscriptexist(6403373529, "Best script for event Solara support", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20for%20event%20Solara%20support639.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Best-script-for-event-Solara-support-20686")
+                                    
