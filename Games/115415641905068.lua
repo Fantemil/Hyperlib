@@ -1,0 +1,2 @@
+
+    addscript(115415641905068, "Current Game","FREE SCRIPT NO KEY", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20SCRIPT%20NO%20KEY49.lua", "https://scriptblox.com/script/RELEASE-Anime-Revolution-X-FREE-SCRIPT-NO-KEY-20728")
