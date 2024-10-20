@@ -234,3 +234,7 @@
                                     
     addscriptexist(17625359962, "Insanely Powerful Unstoppable Precision ALL EXECUTORS", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insanely%20Powerful%20Unstoppable%20Precision%20ALL%20EXECUTORS143.lua", "https://scriptblox.com/script/RIVALS-Insanely-Powerful-Unstoppable-Precision-ALL-EXECUTORS-20694")
                                     
+    addscriptexist(17625359962, "THE BEST AIMBOT", "Uploaded by YoSoyNoProfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20BEST%20AIMBOT791.lua", "https://scriptblox.com/script/RIVALS-THE-BEST-AIMBOT-20719")
+                                    
+    addscriptexist(17625359962, "Dominate with Precision ESP and Aimbot Mastery", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dominate%20with%20Precision%20ESP%20and%20Aimbot%20Mastery226.lua", "https://scriptblox.com/script/RIVALS-Dominate-with-Precision-ESP-and-Aimbot-Mastery-20719")
+                                    
