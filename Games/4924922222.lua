@@ -282,3 +282,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "AUTO COLETA DOCE", "Uploaded by GTVZ_MODDED on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20COLETA%20DOCE107.lua", "https://scriptblox.com/script/Brookhaven-RP-AUTO-COLETA-DOCE-20620")
                                     
+    addscriptexist(4924922222, "Event Cmds", "Uploaded by GPUXS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Event%20Cmds577.lua", "https://scriptblox.com/script/Brookhaven-RP-Cmds-20695")
+                                    

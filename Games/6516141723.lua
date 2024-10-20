@@ -290,3 +290,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "lean", "Uploaded by sewer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lean916.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-lean-20579")
                                     
+    addscriptexist(6516141723, "Neuron XYZ", "Uploaded by GodOfSkidding on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Neuron%20XYZ348.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-Neuron-XYZ-20693")
+                                    

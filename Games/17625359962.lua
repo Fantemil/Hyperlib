@@ -232,3 +232,5 @@
                                     
     addscriptexist(17625359962, "Simple Esp", "Uploaded by sentinels on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Esp92.lua", "https://scriptblox.com/script/RIVALS-Simple-Esp-20676")
                                     
+    addscriptexist(17625359962, "Insanely Powerful Unstoppable Precision ALL EXECUTORS", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insanely%20Powerful%20Unstoppable%20Precision%20ALL%20EXECUTORS143.lua", "https://scriptblox.com/script/RIVALS-Insanely-Powerful-Unstoppable-Precision-ALL-EXECUTORS-20694")
+                                    
