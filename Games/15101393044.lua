@@ -20,3 +20,5 @@
                                     
     addscriptexist(15101393044, "DTI MONEY AUFARM", "Uploaded by glowxfy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DTI%20MONEY%20AUFARM427.lua", "https://scriptblox.com/script/Dress-To-Impress-DTI-MONEY-AUFARM-20682")
                                     
+    addscriptexist(15101393044, "DTI GUI FREE VIP AUFARM TROLLING AND MORE WORKS ON SOLARA", "Uploaded by John_Moses on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DTI%20GUI%20FREE%20VIP%20AUFARM%20TROLLING%20AND%20MORE%20WORKS%20ON%20SOLARA199.lua", "https://scriptblox.com/script/Dress-To-Impress-DTI-GUI-FREE-VIP-AUFARM-TROLLING-AND-MORE-WORKS-ON-SOLARA-20703")
+                                    

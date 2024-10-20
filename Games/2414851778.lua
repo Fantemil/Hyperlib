@@ -30,3 +30,5 @@ addscriptexist(2414851778, "AuroraWare", "Uploaded by hereforreal on scriptblox.
                                     
     addscriptexist(2414851778, "New Script Update", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20Update727.lua", "https://scriptblox.com/script/AURAS-Dungeon-Quest!-RPG-Adventure-New-Script-Update-14137")
                                     
+    addscriptexist(2414851778, "quest request script god mode or forcefield I pay 2k", "Uploaded by Yayasmi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/quest%20request%20script%20god%20mode%20or%20forcefield%20I%20pay%202k729.lua", "https://scriptblox.com/script/DUNGEON-Dungeon-Quest!-RPG-Adventure-quest-request-script-god-mode-or-forcefield-I-pay-2k-20704")
+                                    
