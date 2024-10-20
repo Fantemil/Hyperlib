@@ -6,3 +6,5 @@ addscriptexist(9281034297, "Perfect Shoot n Max Upgrade and more", "Uploaded by 
                                 
     addscriptexist(9281034297, "AutoFarm", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm43.lua", "https://scriptblox.com/script/Goal-Kick-Simulator-AutoFarm-16832")
                                     
+    addscriptexist(9281034297, "Op Menu", "Uploaded by GPUXS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Menu173.lua", "https://scriptblox.com/script/Goal-Kick-Simulator-Op-Menu-20679")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(12607125294, "Current Game","script request", "Uploaded by cylexs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request791.lua", "https://scriptblox.com/script/PUBLIC-testing-dzielnica-script-request-20677")

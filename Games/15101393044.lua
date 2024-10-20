@@ -18,3 +18,5 @@
                                     
     addscriptexist(15101393044, "reset other players stars  0 forever", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/reset%20other%20players%20stars%20%200%20forever48.lua", "https://scriptblox.com/script/Dress-To-Impress-reset-other-players-stars-0-forever-20639")
                                     
+    addscriptexist(15101393044, "DTI MONEY AUFARM", "Uploaded by glowxfy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DTI%20MONEY%20AUFARM427.lua", "https://scriptblox.com/script/Dress-To-Impress-DTI-MONEY-AUFARM-20682")
+                                    
