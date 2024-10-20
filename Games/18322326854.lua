@@ -1,0 +1,2 @@
+
+    addscript(18322326854, "Current Game","All", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/All449.lua", "https://scriptblox.com/script/Find-The-Celebrities-All-20699")

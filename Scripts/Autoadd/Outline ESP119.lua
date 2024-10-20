@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Telxr/Outline-ESP/refs/heads/main/Outline%20Esp")))()
