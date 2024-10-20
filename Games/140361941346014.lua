@@ -1,0 +1,2 @@
+
+    addscript(140361941346014, "Current Game","Auto Farm", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm855.lua", "https://scriptblox.com/script/Find-the-Ghosts-66!-Auto-Farm-20717")

@@ -304,3 +304,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Thunder Client V2 no key", "Uploaded by 25ms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20V2%20no%20key842.lua", "https://scriptblox.com/script/Arsenal-Thunder-Client-V2-no-key-20631")
                                     
+    addscriptexist(286090429, "Vapa v2", "Uploaded by BriefBassoon117 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vapa%20v2131.lua", "https://scriptblox.com/script/Arsenal-Vapa-v2-20716")
+                                    
