@@ -1,0 +1,2 @@
+
+    addscript(18217992859, "Current Game","all executor", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20executor66.lua", "https://scriptblox.com/script/HALLOWEEN-Hotdog-Eating-Simulator-all-executor-20710")
