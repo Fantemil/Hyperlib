@@ -1,2 +1,4 @@
 
 addscript(3025990139, "Current Game","ultra mega yummy script", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ultra%20mega%20yummy%20script917.lua", "https://scriptblox.com/script/FREE-LIMITED-Unboxing-Simulator-ultra-mega-yummy-script-7498")
+    addscriptexist(3025990139, "Auto Collect Quest", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20Quest160.lua", "https://scriptblox.com/script/Unboxing-Simulator-Auto-Collect-Quest-20717")
+                                    

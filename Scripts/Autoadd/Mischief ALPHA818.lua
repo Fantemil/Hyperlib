@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sino1507/DW-Mischief/main/main.lua'))()

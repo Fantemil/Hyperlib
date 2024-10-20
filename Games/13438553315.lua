@@ -18,3 +18,5 @@ addscriptexist(13438553315, "Dw Op Script V2", "Uploaded by ZaNoob023621 on scri
                                     
     addscriptexist(13438553315, "Scav hub solara support", "Uploaded by Idonthavename on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scav%20hub%20solara%20support680.lua", "https://scriptblox.com/script/Decaying-Winter-Scav-hub-13723")
                                     
+    addscriptexist(13438553315, "Mischief ALPHA", "Uploaded by SinoXde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mischief%20ALPHA818.lua", "https://scriptblox.com/script/Decaying-Winter-Mischief-ALPHA-20713")
+                                    
