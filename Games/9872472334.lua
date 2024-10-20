@@ -114,3 +114,5 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                     
     addscriptexist(9872472334, "Evade Candy Farm", "Uploaded by Whattyshsjsksksjsjs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Candy%20Farm608.lua", "https://scriptblox.com/script/Evade-Evade-Candy-Farm-20491")
                                     
+    addscriptexist(9872472334, "Fast Collect Anti Die No Key", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Collect%20Anti%20Die%20No%20Key894.lua", "https://scriptblox.com/script/Evade-Fast-Collect-Anti-Die-No-Key-20659")
+                                    

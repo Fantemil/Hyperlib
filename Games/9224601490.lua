@@ -10,3 +10,5 @@ addscript(9224601490, "Current Game","PrimeExo Hub", "Uploaded by PrimeExo on sc
                                     
     addscriptexist(9224601490, "TIELHUB", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TIELHUB319.lua", "https://scriptblox.com/script/MYTHICAL-WOLF-Fruit-Battlegrounds-TIELHUB-19969")
                                     
+    addscriptexist(9224601490, "Imp Hub", "Uploaded by Data0292 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Imp%20Hub445.lua", "https://scriptblox.com/script/MYTHICAL-WOLF-Fruit-Battlegrounds-Imp-Hub-20656")
+                                    

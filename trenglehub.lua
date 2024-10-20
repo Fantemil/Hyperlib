@@ -1,6 +1,6 @@
 
 lastupdate = "GMT +0: 02.02.2024 19:08:52"
-lastupdate = "GMT +0: 19.10.2024 23:03:19"
+lastupdate = "GMT +0: 20.10.2024 00:03:42"
 
 
 

@@ -76,3 +76,5 @@ addscriptexist(292439477, "Phantom Forces  Gun Mods OPEN SOURCE", "Uploaded by S
                                     
     addscriptexist(292439477, " lite", "Uploaded by San1na on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20lite133.lua", "https://scriptblox.com/script/M60-REVAMP-Phantom-Forces-*-lite-19340")
                                     
+    addscriptexist(292439477, "OP   REDACTED", "Uploaded by therealwither on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20REDACTED733.lua", "https://scriptblox.com/script/M60-Revamp!-Phantom-Forces-OP-REDACTED-20662")
+                                    

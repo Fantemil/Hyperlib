@@ -1442,3 +1442,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Redz Hub Support Solara", "Uploaded by moodygaming74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20Support%20Solara270.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-Support-Solara-20544")
                                     
+    addscriptexist(2753915549, "Toshy Hub", "Uploaded by ToshyVHS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Toshy%20Hub321.lua", "https://scriptblox.com/script/Blox-Fruits-Toshy-Hub-20661")
+                                    

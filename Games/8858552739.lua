@@ -1,0 +1,2 @@
+
+    addscript(8858552739, "Current Game","Inf money Totally doesnt kick G", "Uploaded by Or3oz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money%20Totally%20doesnt%20kick%20G632.lua", "https://scriptblox.com/script/Make-Me-Money!-FREE-Inf-money-Totally-doesnt-kick-G-20658")
