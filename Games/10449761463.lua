@@ -498,3 +498,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Fake Update Message Troll", "Uploaded by cattosoftworks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Update%20Message%20Troll663.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Fake-Update-Message-Troll-20606")
                                     
+    addscriptexist(10449761463, "Gojo Moveset for TSB", "Uploaded by danieltoft88 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gojo%20Moveset%20for%20TSB427.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Gojo-Moveset-for-TSB-20719")
+                                    

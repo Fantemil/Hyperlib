@@ -20,3 +20,5 @@
                                     
     addscriptexist(15281176914, "Undetected Op Script", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Undetected%20Op%20Script690.lua", "https://scriptblox.com/script/Update-RNG-Fights-Undetected-Op-Script-18978")
                                     
+    addscriptexist(15281176914, "Script Req", "Uploaded by bdftt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Req343.lua", "https://scriptblox.com/script/RNG-Fights-Script-Req-20717")
+                                    

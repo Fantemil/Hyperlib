@@ -1,0 +1,2 @@
+
+    addscript(10192723897, "Current Game","could anybody make a script on this game", "Uploaded by 1_hearts4you_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/could%20anybody%20make%20a%20script%20on%20this%20game68.lua", "https://scriptblox.com/script/HALLOWEEN-SCP:-Facility-Breach-could-anybody-make-a-script-on-this-game-20717")

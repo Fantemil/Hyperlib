@@ -1,0 +1,2 @@
+
+    addscript(13885755299, "Current Game","Script request", "Uploaded by mat3usfern4ndes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request464.lua", "https://scriptblox.com/script/Aetherfall-Battlegrounds-Script-request-20723")
