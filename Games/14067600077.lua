@@ -36,3 +36,5 @@ addscript(14067600077, "Current Game","OP AUTOFARM", "Uploaded by luffytard77 on
                                     
     addscriptexist(14067600077, "Free With anti cheat bypassed farm Drowned Hub", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20With%20anti%20cheat%20bypassed%20farm%20Drowned%20Hub236.lua", "https://scriptblox.com/script/TYPE:SOUL-HALLOWEEN-UPDATE-Free-With-anti-cheat-bypassed-farm-Drowned-Hub-20554")
                                     
+    addscriptexist(14067600077, "ConcatHub  Freemium  25 Games", "Uploaded by Sakuan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ConcatHub%20%20Freemium%20%2025%20Games503.lua", "https://scriptblox.com/script/TYPE:SOUL-HALLOWEEN-UPDATE-Concat(Hub)-or-Freemium-or-25+-Games-20673")
+                                    

@@ -230,3 +230,5 @@
                                     
     addscriptexist(17625359962, "Amazing OP script", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Amazing%20OP%20script223.lua", "https://scriptblox.com/script/RIVALS-Amazing-OP-script-20667")
                                     
+    addscriptexist(17625359962, "Simple Esp", "Uploaded by sentinels on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Esp92.lua", "https://scriptblox.com/script/RIVALS-Simple-Esp-20676")
+                                    

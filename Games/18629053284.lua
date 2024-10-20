@@ -14,3 +14,5 @@
                                     
     addscriptexist(18629053284, "infinite mojo points autofarm", "Uploaded by dev3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20mojo%20points%20autofarm596.lua", "https://scriptblox.com/script/Survival-Odyssey-infinite-mojo-points-autofarm-20245")
                                     
+    addscriptexist(18629053284, "loot giver", "Uploaded by dev3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loot%20giver296.lua", "https://scriptblox.com/script/Survival-Odyssey-loot-giver-20672")
+                                    
