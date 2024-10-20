@@ -22,3 +22,5 @@
                                     
     addscriptexist(14044547200, "Bypasser UTG", "Uploaded by ergifelplani on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypasser%20UTG437.lua", "https://scriptblox.com/script/untitled-tag-game-recode-Bypasser-UTG-19292")
                                     
+    addscriptexist(14044547200, "Best script for Halloween event", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20for%20Halloween%20event86.lua", "https://scriptblox.com/script/untitled-tag-game-recode-Best-script-for-Halloween-event-20735")
+                                    

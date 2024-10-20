@@ -12,3 +12,5 @@ addscript(735030788, "Current Game","FARM CANDY AND AUTO COLLECT CHEST", "Upload
                                     
     addscriptexist(735030788, "Request", "Uploaded by MariaSilentHill on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request399.lua", "https://scriptblox.com/script/RoyaleHigh-Falling-Leaves-Festival!-Request-20634")
                                     
+    addscriptexist(735030788, "Request Script", "Uploaded by MariaSilentHill on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20Script82.lua", "https://scriptblox.com/script/RoyaleHigh-Falling-Leaves-Festival!-Request-Script-20732")
+                                    

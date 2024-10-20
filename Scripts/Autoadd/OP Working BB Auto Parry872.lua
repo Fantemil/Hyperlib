@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ezScriptsz/Blade-Ball/refs/heads/main/ScriptHub", true))()
