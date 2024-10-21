@@ -308,3 +308,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "Projeto Hub", "Uploaded by matus_1019 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20Hub829.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Projeto-Hub-20770")
                                     
+    addscriptexist(6403373529, "ADMIN GUI FULL WORK NOT FIXED", "Uploaded by kviks on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ADMIN%20GUI%20FULL%20WORK%20NOT%20FIXED896.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-ADMIN-GUI-FULL-WORK-NOT-FIXED-20790")
+                                    
