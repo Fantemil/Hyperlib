@@ -10,3 +10,5 @@
                                     
     addscriptexist(107640846225330, "ruin game CLOWN ALL", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ruin%20game%20CLOWN%20ALL372.lua", "https://scriptblox.com/script/Like-or-Pass-ruin-game-CLOWN-ALL-20637")
                                     
+    addscriptexist(107640846225330, "Suppt Wave and solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Suppt%20Wave%20and%20solara738.lua", "https://scriptblox.com/script/Like-or-Pass-Suppt-Wave-and-solara-20807")
+                                    

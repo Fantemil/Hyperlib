@@ -130,3 +130,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED730.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-SOLARA-SUPPORTED-20424")
                                     
+    addscriptexist(1537690962, "Atlas Beta v09", "Uploaded by Chris8889 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Atlas%20Beta%20v09548.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Atlas-Beta-20806")
+                                    
