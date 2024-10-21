@@ -502,3 +502,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Best auto kyoto", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20auto%20kyoto532.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Best-auto-kyoto-20722")
                                     
+    addscriptexist(10449761463, "Mobile Shiftlock best no ragdoll bug", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mobile%20Shiftlock%20best%20no%20ragdoll%20bug729.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Mobile-Shiftlock-best-no-ragdoll-bug-20771")
+                                    
