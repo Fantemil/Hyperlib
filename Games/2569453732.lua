@@ -6,3 +6,5 @@ addscriptexist(2569453732, "Rise Of Nations Script", "Uploaded by uncensorable o
                                     
     addscriptexist(2569453732, "Script request", "Uploaded by Ultra78 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request64.lua", "https://scriptblox.com/script/Rise-of-Nations-Script-request-19729")
                                     
+    addscriptexist(2569453732, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED578.lua", "https://scriptblox.com/script/Rise-of-Nations-SOLARA-SUPPORTED-20747")
+                                    
