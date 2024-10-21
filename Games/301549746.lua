@@ -86,3 +86,5 @@ addscriptexist(301549746, "Enableware", "Uploaded by kitten on scriptblox.com", 
                                     
     addscriptexist(301549746, "Rellah   Client BETA", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rellah%20%20%20Client%20BETA742.lua", "https://scriptblox.com/script/Counter-Blox-Rellah-Client-BETA-20457")
                                     
+    addscriptexist(301549746, "Raven Ware cbro script", "Uploaded by unixetp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20Ware%20cbro%20script980.lua", "https://scriptblox.com/script/Counter-Blox-Raven-Ware-cbro-script-20780")
+                                    

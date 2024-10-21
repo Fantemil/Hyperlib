@@ -98,3 +98,5 @@
                                     
     addscriptexist(18901165922, "BEST FREE KEYLESS SCRIPT BANANA HUB", "Uploaded by roge4087 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FREE%20KEYLESS%20SCRIPT%20BANANA%20HUB553.lua", "https://scriptblox.com/script/PETS-GO!-NEW-BEST-FREE-KEYLESS-SCRIPT-BANANA-HUB-20777")
                                     
+    addscriptexist(18901165922, "Ultimate Auto Farm Unlocker AFK Mode Auto Use OP Script", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20Auto%20Farm%20Unlocker%20AFK%20Mode%20Auto%20Use%20OP%20Script525.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Ultimate-Auto-Farm-Unlocker-AFK-Mode-Auto-Use-OP-Script-20782")
+                                    

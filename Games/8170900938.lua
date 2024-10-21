@@ -14,3 +14,7 @@ addscriptexist(8170900938, "Blade Style REUPLOADED", "Uploaded by LunarUI on scr
                                     
     addscriptexist(8170900938, "Old Sounds", "Uploaded by Prascle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Old%20Sounds895.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-November-01-Sounds-16170")
                                     
+    addscriptexist(8170900938, "Dragon style", "Uploaded by chasefamily0811 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20style974.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Dragon-style-20780")
+                                    
+    addscriptexist(8170900938, "Ghost style", "Uploaded by chasefamily0811 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20style190.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Ghost-style-20783")
+                                    

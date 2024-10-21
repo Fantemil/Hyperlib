@@ -6,3 +6,5 @@ addscript(5777099015, "Current Game","Instant Win n Collect and more", "Uploaded
                                     
     addscriptexist(5777099015, "open src all executors supported", "Uploaded by pianino2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/open%20src%20all%20executors%20supported456.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-open-src-all-executors-supported-19188")
                                     
+    addscriptexist(5777099015, "Zephyr Ch33se Escap3", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Ch33se%20Escap338.lua", "https://scriptblox.com/script/Cheese-Escape-Horror-Zephye-Ch33se-Escap3-20778")
+                                    
