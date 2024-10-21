@@ -18,3 +18,5 @@ addscriptexist(8170900938, "Blade Style REUPLOADED", "Uploaded by LunarUI on scr
                                     
     addscriptexist(8170900938, "Ghost style", "Uploaded by chasefamily0811 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ghost%20style190.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Ghost-style-20783")
                                     
+    addscriptexist(8170900938, "Parker style", "Uploaded by Rylee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parker%20style659.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Parker-style-20800")
+                                    

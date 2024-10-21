@@ -26,3 +26,5 @@
                                     
     addscriptexist(16116270224, "G0bbyD0llan DW Update 3", "Uploaded by G0bbyD0llan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/G0bbyD0llan%20DW%20Update%203390.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-G0bbyD0llan-DW-Update-3-20376")
                                     
+    addscriptexist(16116270224, "Fake Diddy", "Uploaded by onetoothedisALT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Diddy36.lua", "https://scriptblox.com/script/Dandy's-World-ALPHA-Fake-Diddy-20798")
+                                    
