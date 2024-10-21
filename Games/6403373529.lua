@@ -306,3 +306,5 @@ addscriptexist(6403373529, "Fake Rob Script Back", "Uploaded by WaterGamer on sc
                                     
     addscriptexist(6403373529, "ManHub4 Support solara", "Uploaded by hhuevic222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ManHub4%20Support%20solara902.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-ManHub4-Support-solara-20754")
                                     
+    addscriptexist(6403373529, "Projeto Hub", "Uploaded by matus_1019 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20Hub829.lua", "https://scriptblox.com/script/HALLOWEEN-Slap-Battles-Projeto-Hub-20770")
+                                    

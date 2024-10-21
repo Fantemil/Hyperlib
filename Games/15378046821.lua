@@ -1,0 +1,2 @@
+
+    addscript(15378046821, "Current Game","auto complete", "Uploaded by ktty on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20complete62.lua", "https://scriptblox.com/script/EPIC'-Glitch-Per-Difficulty-Chart-Obby-auto-complete-20771")

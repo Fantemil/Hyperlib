@@ -42,3 +42,5 @@ addscriptexist(1240123653, "Free Wins", "Uploaded by gabitoshb on scriptblox.com
                                     
     addscriptexist(1240123653, "Update Script", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Update%20Script1.lua", "https://scriptblox.com/script/Zombie-Attack-Update-Script-I-Projeto-LKB-20629")
                                     
+    addscriptexist(1240123653, "Projeto Hub", "Uploaded by matus_1019 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20Hub597.lua", "https://scriptblox.com/script/Zombie-Attack-Hub-20772")
+                                    
