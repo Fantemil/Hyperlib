@@ -1,0 +1,2 @@
+
+    addscript(5600963870, "Current Game","Script request", "Uploaded by maled721 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request157.lua", "https://scriptblox.com/script/Shark-Evolution-Script-request-20761")
