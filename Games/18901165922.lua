@@ -96,3 +96,5 @@
                                     
     addscriptexist(18901165922, "BEST KEYLESS SCRIPT BANANA HUB", "Uploaded by roge4087 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20KEYLESS%20SCRIPT%20BANANA%20HUB261.lua", "https://scriptblox.com/script/PETS-GO!-NEW-BEST-KEYLESS-SCRIPT-BANANA-HUB-20670")
                                     
+    addscriptexist(18901165922, "BEST FREE KEYLESS SCRIPT BANANA HUB", "Uploaded by roge4087 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FREE%20KEYLESS%20SCRIPT%20BANANA%20HUB553.lua", "https://scriptblox.com/script/PETS-GO!-NEW-BEST-FREE-KEYLESS-SCRIPT-BANANA-HUB-20777")
+                                    
