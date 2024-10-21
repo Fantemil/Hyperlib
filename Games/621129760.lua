@@ -54,3 +54,5 @@ addscriptexist(621129760, "Crate Teleporter", "Uploaded by Partner on scriptblox
                                     
     addscriptexist(621129760, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED568.lua", "https://scriptblox.com/script/KAT-SOLARA-SUPPORTED-19286")
                                     
+    addscriptexist(621129760, "THE BEST FREE GUI SCRIPT LOTS OF FEATURES", "Uploaded by Real_King on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20BEST%20FREE%20GUI%20SCRIPT%20LOTS%20OF%20FEATURES123.lua", "https://scriptblox.com/script/KAT-THE-BEST-FREE-GUI-SCRIPT-LOTS-OF-FEATURES-20766")
+                                    
