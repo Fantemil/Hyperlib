@@ -1,0 +1,2 @@
+
+    addscript(18463280776, "Current Game","FASTEST AUTO FARM SCRIPT", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FASTEST%20AUTO%20FARM%20SCRIPT335.lua", "https://scriptblox.com/script/DEFENSE-One-Punch-Fighters-X-FASTEST-AUTO-FARM-SCRIPT-20795")
