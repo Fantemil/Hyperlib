@@ -1,0 +1,2 @@
+
+    addscript(73155138469579, "Current Game","Admin character", "Uploaded by The_strongest_dummy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20character90.lua", "https://scriptblox.com/script/KJ-Odyssey-CRAB-+-TSUNAMI-Admin-character-20797")
