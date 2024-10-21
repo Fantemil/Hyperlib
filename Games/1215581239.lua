@@ -16,3 +16,5 @@ addscriptexist(1215581239, "Doomspire Brickbattle AUTO KILL ALL", "Uploaded by b
                                     
     addscriptexist(1215581239, "Emplic", "Uploaded by Emplic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emplic710.lua", "https://scriptblox.com/script/Doomspire-Brickbattle-Emplic-14506")
                                     
+    addscriptexist(1215581239, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED239.lua", "https://scriptblox.com/script/Doomspire-Brickbattle-SOLARA-SUPPORTED-20739")
+                                    

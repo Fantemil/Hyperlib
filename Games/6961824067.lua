@@ -52,3 +52,5 @@ addscriptexist(6961824067, "Simple Time Left Till Next Spin", "Uploaded by EviIA
                                     
     addscriptexist(6961824067, "Vanish ", "Uploaded by SinoXde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vanish%20605.lua", "https://scriptblox.com/script/Fling-Things-and-People-Super-20716")
                                     
+    addscriptexist(6961824067, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED336.lua", "https://scriptblox.com/script/Fling-Things-and-People-SOLARA-SUPPORTED-20743")
+                                    

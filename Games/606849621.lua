@@ -150,3 +150,5 @@ addscriptexist(606849621, "OP  AUTO ARREST", "Uploaded by omo836916 on scriptblo
                                     
     addscriptexist(606849621, "Auto rob script", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20rob%20script136.lua", "https://scriptblox.com/script/Jailbreak-Auto-rob-script-20354")
                                     
+    addscriptexist(606849621, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED409.lua", "https://scriptblox.com/script/Jailbreak-SOLARA-SUPPORTED-20744")
+                                    

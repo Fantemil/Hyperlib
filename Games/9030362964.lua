@@ -1,0 +1,2 @@
+
+    addscript(9030362964, "Current Game","Auto Score", "Uploaded by MagmaFiendRightArm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Score605.lua", "https://scriptblox.com/script/Field-Goal-Simulator-Auto-Score-20734")
