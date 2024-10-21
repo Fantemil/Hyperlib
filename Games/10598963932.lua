@@ -12,3 +12,5 @@
                                     
     addscriptexist(10598963932, "Admin cmds INF stats", "Uploaded by VGDUCKY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20cmds%20INF%20stats129.lua", "https://scriptblox.com/script/FREE-GEAR-5-REWORK-+-DRAGON-REWORK-Cat-Piece-Admin-cmds-INF-stats-20643")
                                     
+    addscriptexist(10598963932, "Inf geli diamond max stats and more op script", "Uploaded by VGDUCKY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20geli%20diamond%20max%20stats%20and%20more%20op%20script351.lua", "https://scriptblox.com/script/FREE-GEAR-5-REWORK-+-DRAGON-REWORK-Cat-Piece-Inf-geli-diamond-max-stats-and-more-op-script-20804")
+                                    
