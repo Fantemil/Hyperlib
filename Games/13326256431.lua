@@ -8,3 +8,5 @@ addscriptexist(13326256431, "VIP Room n All Weapons and more", "Uploaded by KhSa
                                 
     addscriptexist(13326256431, "Ln hub aka Lumin Hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ln%20hub%20aka%20Lumin%20Hub124.lua", "https://scriptblox.com/script/Obby-But-You-Can't-Jump-Ln-hub-aka-Lumin-Hub-15324")
                                     
+    addscriptexist(13326256431, "Instant win easy mode", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20win%20easy%20mode450.lua", "https://scriptblox.com/script/Obby-But-You-Can't-Jump-Instant-win-easy-mode-20757")
+                                    

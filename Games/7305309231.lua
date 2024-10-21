@@ -38,3 +38,5 @@ addscriptexist(7305309231, "Taboss", "Uploaded by adhikalaks2 on scriptblox.com"
                                     
     addscriptexist(7305309231, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED700.lua", "https://scriptblox.com/script/Taxi-Boss-SOLARA-SUPPORTED-20749")
                                     
+    addscriptexist(7305309231, "Fast auto farm script SOLARA CELERY SUPPORTED", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20auto%20farm%20script%20SOLARA%20CELERY%20SUPPORTED681.lua", "https://scriptblox.com/script/Taxi-Boss-Fast-auto-farm-script-SOLARA-CELERY-SUPPORTED-20755")
+                                    

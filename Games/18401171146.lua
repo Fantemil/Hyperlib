@@ -6,3 +6,5 @@
                                     
     addscriptexist(18401171146, "SUPPORTED SOLARA VERSION", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUPPORTED%20SOLARA%20VERSION714.lua", "https://scriptblox.com/script/HALLOWEEN-UPD-10-Anime-Strike-Simulator-SUPPORTED-SOLARA-ATED-19294")
                                     
+    addscriptexist(18401171146, "UPDATE  NEW", "Uploaded by R3LIGOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATE%20%20NEW700.lua", "https://scriptblox.com/script/UPD-13-NEW-Anime-Strike-Simulator-UPDATE-NEW-20759")
+                                    
