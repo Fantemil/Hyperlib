@@ -1,0 +1,2 @@
+
+    addscript(16080296014, "Current Game","Script Request", "Uploaded by yeurr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request375.lua", "https://scriptblox.com/script/UPD-3-Souls-Tycoon-Script-Request-20723")

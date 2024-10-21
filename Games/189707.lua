@@ -98,3 +98,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "NZH EQUIP TEAM ETHUS", "Uploaded by EThus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NZH%20EQUIP%20TEAM%20ETHUS286.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-NZH-EQUIP-TEAM-ETHUS-20400")
                                     
+    addscriptexist(189707, "Bring all parts", "Uploaded by SederYTTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bring%20all%20parts979.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Bring-all-parts-20724")
+                                    

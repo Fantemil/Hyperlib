@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sederyttv-scripter/Natural-disasters/refs/heads/main/Madebysederyttv"))()

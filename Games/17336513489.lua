@@ -4,3 +4,5 @@
                                     
     addscriptexist(17336513489, "POTIONS FAST SPIN AUTO CLAIM   NO SPIN ANIMATION", "Uploaded by DoraScript_Hubb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/POTIONS%20FAST%20SPIN%20AUTO%20CLAIM%20%20%20NO%20SPIN%20ANIMATION639.lua", "https://scriptblox.com/script/Character-RNG-FAST-SPIN-AUTO-CLAIM-NO-SPIN-ANIMATION-15030")
                                     
+    addscriptexist(17336513489, "Support Solara XenonHUB", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20Solara%20XenonHUB213.lua", "https://scriptblox.com/script/Character-RNG-Support-Solara-XenonHUB-20721")
+                                    

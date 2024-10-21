@@ -16,3 +16,5 @@
                                     
     addscriptexist(15535115259, "OP SCRIPT", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT589.lua", "https://scriptblox.com/script/Launch-Into-Space-Simulator-OP-SCRIPT-20075")
                                     
+    addscriptexist(15535115259, "support solara XenonHUB", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/support%20solara%20XenonHUB492.lua", "https://scriptblox.com/script/Launch-Into-Space-Simulator-support-solara-XenonHUB-20721")
+                                    
