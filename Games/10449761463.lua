@@ -506,3 +506,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "JORL HUB JOIN OUR DISCORD SERVER  BIGGEST UPDATE YET", "Uploaded by wm667660 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JORL%20HUB%20JOIN%20OUR%20DISCORD%20SERVER%20%20BIGGEST%20UPDATE%20YET273.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-JORL-HUB-JOIN-OUR-DISCORD-SERVER-BIGGEST-UPDATE-YET-20794")
                                     
+    addscriptexist(10449761463, "SUKUNA Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SUKUNA%20Moveset690.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-SUKUNA-Moveset-20847")
+                                    
