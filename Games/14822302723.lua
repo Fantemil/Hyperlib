@@ -12,3 +12,5 @@
                                     
     addscriptexist(14822302723, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub517.lua", "https://scriptblox.com/script/Gun-Ball-Rocket-Hub-20243")
                                     
+    addscriptexist(14822302723, "Admin auto block work on all", "Uploaded by The_strongest_dummy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20auto%20block%20work%20on%20all367.lua", "https://scriptblox.com/script/Gun-Ball-Admin-auto-block-work-on-all-20862")
+                                    

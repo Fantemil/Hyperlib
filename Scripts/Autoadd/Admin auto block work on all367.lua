@@ -1,0 +1,1 @@
+Like https://discord.gg/5XAvygdk get the script from it

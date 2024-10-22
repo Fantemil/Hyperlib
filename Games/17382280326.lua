@@ -6,3 +6,5 @@
                                     
     addscriptexist(17382280326, "No Cooldown", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Cooldown705.lua", "https://scriptblox.com/script/The-Robloxia:-Until-Dawn-No-Cooldown-20477")
                                     
+    addscriptexist(17382280326, "choose Charecters while in lobby", "Uploaded by enzoe1522 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/choose%20Charecters%20while%20in%20lobby763.lua", "https://scriptblox.com/script/The-Robloxia:-Until-Dawn-choose-Charecters-while-in-lobby-20861")
+                                    
