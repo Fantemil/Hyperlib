@@ -48,3 +48,5 @@
                                     
     addscriptexist(17574618959, "130 plus gmes every single one op updted very op", "Uploaded by gioevan1122 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/130%20plus%20gmes%20every%20single%20one%20op%20updted%20very%20op248.lua", "https://scriptblox.com/script/Just-a-baseplate.-130-plus-gmes-every-single-one-op-updted-very-op-19983")
                                     
+    addscriptexist(17574618959, "fe clovr", "Uploaded by imahuman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20clovr634.lua", "https://scriptblox.com/script/Just-a-baseplate.-fe-clovr-20858")
+                                    
