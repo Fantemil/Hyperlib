@@ -22,3 +22,5 @@
                                     
     addscriptexist(15002061926, "BEST   SCRIPT", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20%20SCRIPT847.lua", "https://scriptblox.com/script/Death-Ball-BEST-SCRIPT-15232")
                                     
+    addscriptexist(15002061926, "Ultimate OP Auto Parry Instant Win Auto Walk Best Script", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20OP%20Auto%20Parry%20Instant%20Win%20Auto%20Walk%20Best%20Script699.lua", "https://scriptblox.com/script/Death-Ball-Ultimate-OP-Auto-Parry-Instant-Win-Auto-Walk-Best-Script-20880")
+                                    
