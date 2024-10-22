@@ -1,0 +1,2 @@
+
+    addscript(133285013565306, "Current Game","Lheny hub", "Uploaded by mehmettaha7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lheny%20hub560.lua", "https://scriptblox.com/script/RNG-x5000-Advanced-Lifting-Simulator-Lheny-hub-20831")
