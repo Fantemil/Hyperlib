@@ -70,3 +70,5 @@ addscriptexist(8204899140, "Kirby", "Uploaded by sdhhf on scriptblox.com", "http
                                     
     addscriptexist(8204899140, "Yon hub", "Uploaded by beratdurak13322 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yon%20hub939.lua", "https://scriptblox.com/script/Football-Fusion-2-Yon-hub-20787")
                                     
+    addscriptexist(8204899140, "BEST SCRIPT EVER", "Uploaded by NotExe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20EVER36.lua", "https://scriptblox.com/script/Football-Fusion-2-BEST-SCRIPT-EVER-20810")
+                                    

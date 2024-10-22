@@ -176,3 +176,5 @@ addscriptexist(537413528, "Cndy Frm Open Source", "Uploaded by Bac0nH1ckOff on s
                                     
     addscriptexist(537413528, "OP UTO FRM SCRIPT NOV", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20UTO%20FRM%20SCRIPT%20NOV609.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-OP-UTO-FRM-SCRIPT-NOV-20413")
                                     
+    addscriptexist(537413528, "Gold Grind Tween", "Uploaded by R3LIGOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gold%20Grind%20Tween129.lua", "https://scriptblox.com/script/Build-A-Boat-For-Treasure-BBFT-GOLD-FRM-20812")
+                                    

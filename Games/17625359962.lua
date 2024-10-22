@@ -238,3 +238,5 @@
                                     
     addscriptexist(17625359962, "Dominate with Precision ESP and Aimbot Mastery", "Uploaded by Wscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dominate%20with%20Precision%20ESP%20and%20Aimbot%20Mastery226.lua", "https://scriptblox.com/script/RIVALS-Dominate-with-Precision-ESP-and-Aimbot-Mastery-20719")
                                     
+    addscriptexist(17625359962, "BEST  SCRIPT NO KEY", "Uploaded by yeetuscleetus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20SCRIPT%20NO%20KEY851.lua", "https://scriptblox.com/script/RIVALS-BEST-SCRIPT-20809")
+                                    
