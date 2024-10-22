@@ -42,3 +42,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                     
     addscriptexist(5130598377, "zurium", "Uploaded by Mat* on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zurium347.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-zurium-20700")
                                     
+    addscriptexist(5130598377, "request script inst bn", "Uploaded by Choira on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20script%20inst%20bn287.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-request-script-inst-bn-20820")
+                                    
