@@ -102,3 +102,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "AUTO FARM GUI", "Uploaded by neonware on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20GUI824.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-AUTO-FARM-GUI-20860")
                                     
+    addscriptexist(189707, "Anti fall damage", "Uploaded by 0vdi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20fall%20damage529.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Anti-fall-damage-20882")
+                                    
