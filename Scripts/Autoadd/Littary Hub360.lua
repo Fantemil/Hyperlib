@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Synapse888/lit-hub./refs/heads/main/source.lua", true))()
