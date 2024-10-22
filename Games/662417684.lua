@@ -62,3 +62,5 @@ addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "ht
                                     
     addscriptexist(662417684, "Zephyr L4cky BIocks Battlegr0unds", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20L4cky%20BIocks%20Battlegr0unds663.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Zephyr-L4cky-BIocks-Battlegr0unds-19572")
                                     
+    addscriptexist(662417684, "Expand hitboxes and more", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expand%20hitboxes%20and%20more671.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Expand-hitboxes-and-more-20849")
+                                    

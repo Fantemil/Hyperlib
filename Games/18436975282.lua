@@ -4,3 +4,5 @@
                                     
     addscriptexist(18436975282, "Simple Script", "Uploaded by NotKey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script859.lua", "https://scriptblox.com/script/Cat-Clicker-Simple-Script-20757")
                                     
+    addscriptexist(18436975282, "Kat clickr", "Uploaded by nikoladhima123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kat%20clickr44.lua", "https://scriptblox.com/script/Cat-Clicker-Kitty-20848")
+                                    
