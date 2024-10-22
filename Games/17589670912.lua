@@ -14,3 +14,5 @@
                                     
     addscriptexist(17589670912, "TP TO AURA SOLARA SUPPORTED", "Uploaded by NeXo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TP%20TO%20AURA%20SOLARA%20SUPPORTED557.lua", "https://scriptblox.com/script/NEW-Find-The-Auras-215-TP-TO-SOLARA-SUPPORTED-14747")
                                     
+    addscriptexist(17589670912, "no key no menu script", "Uploaded by pon1234ds on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20key%20no%20menu%20script177.lua", "https://scriptblox.com/script/OMG-Find-The-Auras-434-no-key-no-menu-script-20835")
+                                    

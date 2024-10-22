@@ -8,3 +8,5 @@ addscript(7336302630, "Current Game","octohook", "Uploaded by sigma on scriptblo
                                     
     addscriptexist(7336302630, "BBC", "Uploaded by Trollmebelle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BBC881.lua", "https://scriptblox.com/script/Project-Delta-BBC-19251")
                                     
+    addscriptexist(7336302630, "No key  free script best free script for this game", "Uploaded by Trollmebelle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20key%20%20free%20script%20best%20free%20script%20for%20this%20game921.lua", "https://scriptblox.com/script/Project-Delta-BBC-20832")
+                                    
