@@ -46,3 +46,5 @@
                                     
     addscriptexist(16146832113, "SolixHub", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub218.lua", "https://scriptblox.com/script/UPDATE-0.5-Anime-Vanguards-SolixHub-20364")
                                     
+    addscriptexist(16146832113, "FAST SUMMON UNIT", "Uploaded by R3LIGOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20SUMMON%20UNIT939.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Vanguards-FAST-SUMMON-20826")
+                                    
