@@ -8,3 +8,5 @@
                                     
     addscriptexist(18695865484, "1 fps", "Uploaded by Obunga on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1%20fps775.lua", "https://scriptblox.com/script/Big-Update-Flex-Your-Ping-And-FPS!-1-fps-18615")
                                     
+    addscriptexist(18695865484, "fps script not private", "Uploaded by Zempchik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fps%20script%20not%20private298.lua", "https://scriptblox.com/script/Big-Update-Flex-Your-Ping-And-FPS!-fps-script-not-private-20851")
+                                    

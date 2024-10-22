@@ -32,3 +32,5 @@ addscriptexist(2534724415, "Vehicle speed Multiplier", "Uploaded by yarikku05 on
                                     
     addscriptexist(2534724415, "Erlc OP Script", "Uploaded by 2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Erlc%20OP%20Script158.lua", "https://scriptblox.com/script/1B-Emergency-Response:-Liberty-County-Erlc-OP-Script-19214")
                                     
+    addscriptexist(2534724415, "AirFlow FLING ALL", "Uploaded by zenox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirFlow%20FLING%20ALL626.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-AirFlow-20852")
+                                    
