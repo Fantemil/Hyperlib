@@ -28,3 +28,5 @@
                                     
     addscriptexist(17129858194, "Zenon Hub", "Uploaded by Stellar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zenon%20Hub990.lua", "https://scriptblox.com/script/SOUL-WARRIOR-Realm-Rampage-Zenon-Hub-17639")
                                     
+    addscriptexist(17129858194, "no m1 cooldown and more", "Uploaded by Emplic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20m1%20cooldown%20and%20more538.lua", "https://scriptblox.com/script/GHOST-SHINOBI-+-DIO-MOVES-Realm-Rampage-no-cooldown-and-more-20867")
+                                    
