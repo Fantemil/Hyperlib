@@ -16,3 +16,5 @@
                                     
     addscriptexist(17589670912, "no key no menu script", "Uploaded by pon1234ds on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/no%20key%20no%20menu%20script177.lua", "https://scriptblox.com/script/OMG-Find-The-Auras-434-no-key-no-menu-script-20835")
                                     
+    addscriptexist(17589670912, "No key menu script", "Uploaded by Leonard67432 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20key%20menu%20script293.lua", "https://scriptblox.com/script/OMG-Find-The-Auras-434-No-key-menu-script-20846")
+                                    

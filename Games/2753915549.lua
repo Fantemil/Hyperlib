@@ -1448,3 +1448,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "ZTE HUB", "Uploaded by hnam93879 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZTE%20HUB78.lua", "https://scriptblox.com/script/Blox-Fruits-ZTE-HUB-20765")
                                     
+    addscriptexist(2753915549, "Redz hub  fruit", "Uploaded by calist908 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20hub%20%20fruit308.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-hub-fruit-20844")
+                                    

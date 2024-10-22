@@ -240,3 +240,5 @@
                                     
     addscriptexist(17625359962, "BEST  SCRIPT NO KEY", "Uploaded by yeetuscleetus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20SCRIPT%20NO%20KEY851.lua", "https://scriptblox.com/script/RIVALS-BEST-SCRIPT-20809")
                                     
+    addscriptexist(17625359962, "Silent Aim Working on All Executors OPEN SOURCED BY BOLTS", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20Working%20on%20All%20Executors%20OPEN%20SOURCED%20BY%20BOLTS160.lua", "https://scriptblox.com/script/RIVALS-Silent-Aim-Working-on-All-Executors-OPEN-SOURCED-BY-BOLTS-20840")
+                                    
