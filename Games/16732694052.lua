@@ -14,3 +14,5 @@
                                     
     addscriptexist(16732694052, "OP FAST FISHING AND MORE GUI", "Uploaded by *69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FAST%20FISHING%20AND%20MORE%20GUI415.lua", "https://scriptblox.com/script/Fisch-OP-FAST-FISHING-AND-MORE-GUI-20714")
                                     
+    addscriptexist(16732694052, "Auto Fish More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish%20More856.lua", "https://scriptblox.com/script/Fisch-Auto-Fish-More-20816")
+                                    

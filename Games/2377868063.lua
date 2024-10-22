@@ -12,3 +12,5 @@ addscriptexist(2377868063, "AdvanceTech", "Uploaded by YellowGreg on scriptblox.
                                     
     addscriptexist(2377868063, "Astro Public Server Crasher Silent Aim Kill All More", "Uploaded by Lucid_Spectre on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Astro%20Public%20Server%20Crasher%20Silent%20Aim%20Kill%20All%20More736.lua", "https://scriptblox.com/script/Strucid-Astro-Public-Server-Crasher-Silent-Aim-Kill-All-More-16218")
                                     
+    addscriptexist(2377868063, "Silent Aim Hitbox ETC", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20Hitbox%20ETC93.lua", "https://scriptblox.com/script/Strucid-Silent-Aim-Hitbox-ETC-20814")
+                                    
