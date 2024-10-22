@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nikoladhima/Madness-Clicker/refs/heads/main/Madness-Clicker%20Source"))()
