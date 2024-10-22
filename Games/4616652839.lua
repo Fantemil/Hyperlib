@@ -62,3 +62,5 @@ addscriptexist(4616652839, "New Shindo Life Script Platinium Hub", "Uploaded by 
                                     
     addscriptexist(4616652839, "SolixHub", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub361.lua", "https://scriptblox.com/script/Shindo-Life-238-SolixHub-20361")
                                     
+    addscriptexist(4616652839, "The Auto Attack script Auto farm Jin farm Boss farm", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Auto%20Attack%20script%20Auto%20farm%20Jin%20farm%20Boss%20farm216.lua", "https://scriptblox.com/script/Shindo-Life-238-The-Auto-Attack-script-Auto-farm-Jin-farm-Boss-farm-20864")
+                                    

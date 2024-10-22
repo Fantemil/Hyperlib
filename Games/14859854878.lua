@@ -1,0 +1,2 @@
+
+    addscript(14859854878, "Current Game","Found all Ananas", "Uploaded by Zous on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Found%20all%20Ananas274.lua", "https://scriptblox.com/script/albhth-an-alananas-or-alarb-Found-all-Ananas-20863")
