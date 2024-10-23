@@ -1,0 +1,2 @@
+
+    addscript(10660791703, "Current Game","Auto win", "Uploaded by Sonwy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20win563.lua", "https://scriptblox.com/script/cart-ride-around-nothing-Auto-win-20906")
