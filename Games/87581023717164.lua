@@ -1,0 +1,2 @@
+
+    addscript(87581023717164, "Current Game","Remove Bus And Moving Walls", "Uploaded by FreeRobloxScripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Remove%20Bus%20And%20Moving%20Walls1.lua", "https://scriptblox.com/script/CUIDADO-CHA-CHA-CHA-HALLOWEEN!-Remove-Bus-And-Moving-Walls-20914")
