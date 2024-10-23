@@ -306,3 +306,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Vapa v2", "Uploaded by BriefBassoon117 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vapa%20v2131.lua", "https://scriptblox.com/script/Arsenal-Vapa-v2-20716")
                                     
+    addscriptexist(286090429, "Keybrew Hub", "Uploaded by cvrlolxd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keybrew%20Hub983.lua", "https://scriptblox.com/script/Arsenal-Keybrew-Hub-20912")
+                                    
