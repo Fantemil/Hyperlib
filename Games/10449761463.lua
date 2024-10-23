@@ -514,3 +514,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Mahito Custom Moveset", "Uploaded by onetoothedisALT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mahito%20Custom%20Moveset648.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Mahito-Custom-Moveset-20927")
                                     
+    addscriptexist(10449761463, "Change Awakening Name", "Uploaded by awiblu2024 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20Awakening%20Name244.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Change-Awakening-Name-20933")
+                                    
