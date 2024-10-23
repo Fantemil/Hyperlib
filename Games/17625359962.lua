@@ -244,3 +244,5 @@
                                     
     addscriptexist(17625359962, "Best Aimbots", "Uploaded by FacilityHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Aimbots472.lua", "https://scriptblox.com/script/RIVALS-Best-Aimbots-20870")
                                     
+    addscriptexist(17625359962, "Op  Script SILENT AIM WALKSPEED AUTOKILL INF JUMP AND MORE", "Uploaded by Darkvz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20Script%20SILENT%20AIM%20WALKSPEED%20AUTOKILL%20INF%20JUMP%20AND%20MORE359.lua", "https://scriptblox.com/script/RIVALS-Op-Script-SILENT-AIM-ESP-AUTOKILL-INF-JUMP-AND-MORE-20906")
+                                    
