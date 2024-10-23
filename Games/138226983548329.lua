@@ -1,0 +1,2 @@
+
+    addscript(138226983548329, "Current Game","If u wanna gojo admin character join server", "Uploaded by The_strongest_dummy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/If%20u%20wanna%20gojo%20admin%20character%20join%20server225.lua", "https://scriptblox.com/script/KJ-Mayhem-If-u-wanna-gojo-admin-character-join-server-20885")

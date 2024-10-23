@@ -30,3 +30,5 @@ addscript(112420803, "Current Game","CMD Y", "Uploaded by porn on scriptblox.com
                                     
     addscriptexist(112420803, "DEX V3 Mobile Universal", "Uploaded by NewMatheusDC on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEX%20V3%20Mobile%20Universal610.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-DEX-V3-Mobile-Universal-19072")
                                     
+    addscriptexist(112420803, "Chaos v1 TESTING", "Uploaded by Fred1x on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chaos%20v1%20TESTING420.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-Chaos-v1-TESTING-20888")
+                                    
