@@ -12,3 +12,5 @@
                                     
     addscriptexist(107640846225330, "Suppt Wave and solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Suppt%20Wave%20and%20solara738.lua", "https://scriptblox.com/script/Like-or-Pass-Suppt-Wave-and-solara-20807")
                                     
+    addscriptexist(107640846225330, "Auto money", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20money295.lua", "https://scriptblox.com/script/Like-or-Pass-Auto-money-20890")
+                                    

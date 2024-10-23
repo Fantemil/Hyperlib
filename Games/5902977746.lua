@@ -4,3 +4,5 @@ addscript(5902977746, "Current Game","AutoFish Teleports", "Uploaded by weiny on
                                     
     addscriptexist(5902977746, "World Hub Script", "Uploaded by SungWoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Hub%20Script447.lua", "https://scriptblox.com/script/BOUNTIES!-Ultimate-Tower-Defense-World-Hub-Script-17919")
                                     
+    addscriptexist(5902977746, "Ashed UTD Macro", "Uploaded by Ashed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ashed%20UTD%20Macro19.lua", "https://scriptblox.com/script/UPDATE!-Ultimate-Tower-Defense-Ashed-UTD-Macro-20889")
+                                    

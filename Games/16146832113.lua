@@ -48,3 +48,5 @@
                                     
     addscriptexist(16146832113, "FAST SUMMON UNIT", "Uploaded by R3LIGOfficial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FAST%20SUMMON%20UNIT939.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Vanguards-FAST-SUMMON-20826")
                                     
+    addscriptexist(16146832113, "Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More615.lua", "https://scriptblox.com/script/UPDATE-1-Anime-Vanguards-Auto-Farm-And-More-20890")
+                                    
