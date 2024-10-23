@@ -142,3 +142,5 @@
                                     
     addscriptexist(8737899170, "ZapHub The Best PS99 Script Elemental World", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20PS99%20Script%20Elemental%20World644.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZapHub-The-Best-PS99-Script-Elemental-World-19321")
                                     
+    addscriptexist(8737899170, "The Best Free PS99 Script ZapHub October", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Free%20PS99%20Script%20ZapHub%20October718.lua", "https://scriptblox.com/script/Pet-Simulator-99!-The-Best-Free-PS99-Script-ZapHub-20893")
+                                    
