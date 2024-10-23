@@ -4,3 +4,5 @@
                                     
     addscriptexist(10595058975, "Dupe RollBack Auto Farm Perfect Block Perfect Skill", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20RollBack%20Auto%20Farm%20Perfect%20Block%20Perfect%20Skill376.lua", "https://scriptblox.com/script/Major-Update-Arcane-Lineage-Dupe-RollBack-Auto-Farm-Perfect-Block-Perfect-Skill-10596")
                                     
+    addscriptexist(10595058975, "Script Request", "Uploaded by MariaSilentHill on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request410.lua", "https://scriptblox.com/script/Balance-Update-Arcane-Lineage-Script-Request-20904")
+                                    

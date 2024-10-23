@@ -10,3 +10,5 @@
                                     
     addscriptexist(7449423635, "Ultra", "Uploaded by Aguinaldero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultra977.lua", "https://scriptblox.com/script/Blox-Fruits-Ultra-20360")
                                     
+    addscriptexist(7449423635, "Extra Hub", "Uploaded by Aguinaldero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Extra%20Hub422.lua", "https://scriptblox.com/script/Blox-Fruits-Extra-Hub-20899")
+                                    
