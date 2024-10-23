@@ -1,0 +1,2 @@
+
+    addscript(118329604221979, "Current Game","Inf money", "Uploaded by https on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money100.lua", "https://scriptblox.com/script/School-Canteen-Line-Inf-money-20911")
