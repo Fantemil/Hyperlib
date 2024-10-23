@@ -286,3 +286,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Get Candy Corn", "Uploaded by FreeRobloxScripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Candy%20Corn733.lua", "https://scriptblox.com/script/Brookhaven-RP-Get-Candy-Corn-20785")
                                     
+    addscriptexist(4924922222, "Get Halloween cars", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Halloween%20cars40.lua", "https://scriptblox.com/script/Brookhaven-RP-Get-Halloween-cars-20914")
+                                    

@@ -26,3 +26,5 @@ addscriptexist(4639625707, "Silent Aim Wallbang Open Source", "Uploaded by BeboM
                                     
     addscriptexist(4639625707, "Best Script", "Uploaded by FacilityHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script205.lua", "https://scriptblox.com/script/NEW-SHIP-War-Tycoon-s-Best-Script-20871")
                                     
+    addscriptexist(4639625707, "RBLXXHEATER", "Uploaded by samirruppert on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBLXXHEATER97.lua", "https://scriptblox.com/script/NEW-SHIP-War-Tycoon-RBLXXHEATER-20913")
+                                    
