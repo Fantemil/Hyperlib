@@ -104,3 +104,5 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "Anti fall damage", "Uploaded by 0vdi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20fall%20damage529.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Anti-fall-damage-20882")
                                     
+    addscriptexist(189707, "Solara Crown Script FE", "Uploaded by Kyuu7UIB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solara%20Crown%20Script%20FE847.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Solara-Crown-Script-FE-20923")
+                                    

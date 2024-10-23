@@ -1,0 +1,2 @@
+
+    addscript(3404168302, "Current Game","Zephyr Ragd0ll Test1ng", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Ragd0ll%20Test1ng617.lua", "https://scriptblox.com/script/Ragdoll-Testing-Zephyr-Ragd0ll-Test1ng-20922")
