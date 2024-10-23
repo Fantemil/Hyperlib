@@ -16,3 +16,5 @@
                                     
     addscriptexist(16732694052, "Auto Fish More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Fish%20More856.lua", "https://scriptblox.com/script/Fisch-Auto-Fish-More-20816")
                                     
+    addscriptexist(16732694052, "Auto cast auto shake auto reel freeze character", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20cast%20auto%20shake%20auto%20reel%20freeze%20character821.lua", "https://scriptblox.com/script/Fisch-Auto-cast-auto-shake-auto-reel-freeze-character-20935")
+                                    
