@@ -1,0 +1,2 @@
+
+    addscript(8316538794, "Current Game","Script request", "Uploaded by Bob70 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request667.lua", "https://scriptblox.com/script/Medieval-War-Simulator-Script-request-20953")
