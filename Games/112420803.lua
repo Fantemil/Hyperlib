@@ -34,3 +34,5 @@ addscript(112420803, "Current Game","CMD Y", "Uploaded by porn on scriptblox.com
                                     
     addscriptexist(112420803, "ALRIGHT ATP JUST HERE CHAOS", "Uploaded by Fred1x on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ALRIGHT%20ATP%20JUST%20HERE%20CHAOS277.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-ALRIGHT-ATP-JUST-HERE-CHAOS-20896")
                                     
+    addscriptexist(112420803, "Chaos TESTING AGAIn", "Uploaded by Fred1x on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chaos%20TESTING%20AGAIn529.lua", "https://scriptblox.com/script/Kohls-Admin-House-NBC-Updated-Chaos-TESTING-AGAIn-20956")
+                                    
