@@ -46,3 +46,5 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                     
     addscriptexist(1554960397, "Auto Pumpkin Fast No Key", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pumpkin%20Fast%20No%20Key367.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-Auto-Pumpkin-Fast-No-Key-20689")
                                     
+    addscriptexist(1554960397, "Equip  Auto Drive With No Race Auto Farm Auto Race", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Equip%20%20Auto%20Drive%20With%20No%20Race%20Auto%20Farm%20Auto%20Race236.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-Equip-Auto-Drive-With-No-Race-Auto-Farm-Auto-Race-20985")
+                                    
