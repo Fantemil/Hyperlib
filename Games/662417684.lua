@@ -64,3 +64,5 @@ addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "ht
                                     
     addscriptexist(662417684, "Expand hitboxes and more", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expand%20hitboxes%20and%20more671.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Expand-hitboxes-and-more-20849")
                                     
+    addscriptexist(662417684, "ILDK HUB GUI", "Uploaded by ILDK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ILDK%20HUB%20GUI709.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-ILDK-HUB-GUI-20979")
+                                    
