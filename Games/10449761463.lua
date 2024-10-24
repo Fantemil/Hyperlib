@@ -520,3 +520,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "RG Hub", "Uploaded by rayruss081 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RG%20Hub435.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-RG-Hub-20951")
                                     
+    addscriptexist(10449761463, "Infinite Yield but obfuscated", "Uploaded by hungryshunget on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Yield%20but%20obfuscated282.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Infinite-Yield-but-obfuscated-20959")
+                                    
+    addscriptexist(10449761463, "LOL", "Uploaded by dragosrusuiulian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOL855.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-LOL-20960")
+                                    
