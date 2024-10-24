@@ -20,3 +20,5 @@
                                     
     addscriptexist(16732694052, "fix lag", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fix%20lag56.lua", "https://scriptblox.com/script/Fisch-fix-lag-20952")
                                     
+    addscriptexist(16732694052, "Works on all executers", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Works%20on%20all%20executers516.lua", "https://scriptblox.com/script/Fisch-Works-on-all-executers-20951")
+                                    
