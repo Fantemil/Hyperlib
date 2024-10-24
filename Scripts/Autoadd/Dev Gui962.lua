@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RileyBeeRBLX4/scripts/refs/heads/main/DevGui.lua"))();
