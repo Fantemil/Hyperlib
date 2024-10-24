@@ -19615,3 +19615,6 @@ https://scriptblox.com/script/Emergency-Response:-Liberty-County-Fling-All-And-C
 https://scriptblox.com/script/Universal-Script-Dirs-Hib-20938
 https://scriptblox.com/script/Universal-Script-BEST-RIVALS-SCRIPT-20939
 https://scriptblox.com/script/Arsenal-Vexon-Script-20940
+https://scriptblox.com/script/Universal-Script-makes-hookfunction-require-a-secret-key-20940
+https://scriptblox.com/script/Universal-Script-makes-hookfunction-require-a-key-20940
+https://scriptblox.com/script/PETS-GO!-NEW-AtherHub-20940
