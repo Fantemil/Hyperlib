@@ -6,3 +6,5 @@
                                     
     addscriptexist(14498760035, "best script join group", "Uploaded by scripterhax on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20join%20group723.lua", "https://scriptblox.com/script/Block-Digging-Simulator-best-script-join-group-13695")
                                     
+    addscriptexist(14498760035, "Simple script", "Uploaded by https on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20script944.lua", "https://scriptblox.com/script/Block-Digging-Simulator-Simple-script-20943")
+                                    

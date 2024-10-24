@@ -310,3 +310,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Vexon Roblox Script  ggf9vUxYHcyd", "Uploaded by Vexon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vexon%20Roblox%20Script%20%20ggf9vUxYHcyd387.lua", "https://scriptblox.com/script/Arsenal-Vexon-Script-20940")
                                     
+    addscriptexist(286090429, "Ventoro  Best Script", "Uploaded by zxeno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ventoro%20%20Best%20Script677.lua", "https://scriptblox.com/script/Arsenal-Ventoro-Best-Script-20941")
+                                    
