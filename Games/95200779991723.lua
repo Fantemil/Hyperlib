@@ -1,0 +1,2 @@
+
+    addscript(95200779991723, "Current Game","lag server", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/lag%20server572.lua", "https://scriptblox.com/script/Train-Vs-Car-99-lag-server-20949")
