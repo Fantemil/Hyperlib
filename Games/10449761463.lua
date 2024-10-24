@@ -516,3 +516,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Change Awakening Name", "Uploaded by awiblu2024 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Change%20Awakening%20Name244.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Change-Awakening-Name-20933")
                                     
+    addscriptexist(10449761463, "Some Cool Garou MoveSet", "Uploaded by 21carti on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Some%20Cool%20Garou%20MoveSet792.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Some-Cool-Garou-MoveSet-20948")
+                                    
