@@ -524,3 +524,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "LOL", "Uploaded by dragosrusuiulian on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LOL855.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-LOL-20960")
                                     
+    addscriptexist(10449761463, "Limitless Legacy Script", "Uploaded by Sunshine_Hackers on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limitless%20Legacy%20Script333.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Limitless-Legacy-Script-20995")
+                                    
