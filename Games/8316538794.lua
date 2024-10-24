@@ -4,3 +4,5 @@
                                     
     addscriptexist(8316538794, "Admin Panel", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Panel317.lua", "https://scriptblox.com/script/Medieval-War-Simulator-Admin-Panel-20962")
                                     
+    addscriptexist(8316538794, "Private Server Commands Gui", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Private%20Server%20Commands%20Gui517.lua", "https://scriptblox.com/script/Medieval-War-Simulator-Private-Server-Commands-Gui-20977")
+                                    
