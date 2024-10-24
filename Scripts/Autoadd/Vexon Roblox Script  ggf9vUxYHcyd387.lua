@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Vexonnn/Arsenal-Script/refs/heads/main/Arsenal%20Script"))()

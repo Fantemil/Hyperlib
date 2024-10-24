@@ -34,3 +34,5 @@ addscriptexist(2534724415, "Vehicle speed Multiplier", "Uploaded by yarikku05 on
                                     
     addscriptexist(2534724415, "AirFlow FLING ALL", "Uploaded by zenox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirFlow%20FLING%20ALL626.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-AirFlow-20852")
                                     
+    addscriptexist(2534724415, "Fling All And Car Fly And More", "Uploaded by zenox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20All%20And%20Car%20Fly%20And%20More239.lua", "https://scriptblox.com/script/Emergency-Response:-Liberty-County-Fling-All-And-Car-Fly-And-More-20937")
+                                    

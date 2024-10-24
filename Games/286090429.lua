@@ -308,3 +308,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Keybrew Hub", "Uploaded by cvrlolxd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keybrew%20Hub983.lua", "https://scriptblox.com/script/Arsenal-Keybrew-Hub-20912")
                                     
+    addscriptexist(286090429, "Vexon Roblox Script  ggf9vUxYHcyd", "Uploaded by Vexon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vexon%20Roblox%20Script%20%20ggf9vUxYHcyd387.lua", "https://scriptblox.com/script/Arsenal-Vexon-Script-20940")
+                                    
