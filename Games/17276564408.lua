@@ -1,0 +1,2 @@
+
+    addscript(17276564408, "Current Game","Crystal hammer and Destroy aura", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Crystal%20hammer%20and%20Destroy%20aura199.lua", "https://scriptblox.com/script/SMASH-Things!-Crystal-hammer-and-Destroy-aura-20950")

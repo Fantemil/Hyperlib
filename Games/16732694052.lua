@@ -18,3 +18,5 @@
                                     
     addscriptexist(16732694052, "Auto cast auto shake auto reel freeze character", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20cast%20auto%20shake%20auto%20reel%20freeze%20character821.lua", "https://scriptblox.com/script/Fisch-Auto-cast-auto-shake-auto-reel-freeze-character-20935")
                                     
+    addscriptexist(16732694052, "fix lag", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fix%20lag56.lua", "https://scriptblox.com/script/Fisch-fix-lag-20952")
+                                    

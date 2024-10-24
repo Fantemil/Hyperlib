@@ -16,3 +16,5 @@
                                     
     addscriptexist(107640846225330, "Get money", "Uploaded by https on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20money668.lua", "https://scriptblox.com/script/Like-or-Pass-Get-money-20891")
                                     
+    addscriptexist(107640846225330, "inf money", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money891.lua", "https://scriptblox.com/script/Like-or-Pass-inf-money-20954")
+                                    
