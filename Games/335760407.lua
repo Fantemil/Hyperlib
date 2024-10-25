@@ -34,3 +34,5 @@ addscriptexist(335760407, "TPS React Script BEST IN GK", "Uploaded by skate on s
                                     
     addscriptexist(335760407, "Windows Hub Tps script mobile", "Uploaded by luaon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Windows%20Hub%20Tps%20script%20mobile542.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-Windows-Hub-Tps-script-mobile-20994")
                                     
+    addscriptexist(335760407, "Windows Hub Mobile", "Uploaded by luaon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Windows%20Hub%20Mobile463.lua", "https://scriptblox.com/script/TPS:-Street-Soccer-Windows-Hub-Mobile-20986")
+                                    

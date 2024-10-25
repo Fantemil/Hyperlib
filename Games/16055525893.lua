@@ -14,3 +14,5 @@
                                     
     addscriptexist(16055525893, "Simple Script", "Uploaded by NotKey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script197.lua", "https://scriptblox.com/script/RNG-Odyssey-Simple-Script-21006")
                                     
+    addscriptexist(16055525893, "support solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/support%20solara452.lua", "https://scriptblox.com/script/RNG-Odyssey-support-solara-20984")
+                                    
