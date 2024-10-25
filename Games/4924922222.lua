@@ -288,3 +288,5 @@ addscriptexist(4924922222, "JUANKO HUB", "Uploaded by JUANKO_MODS_YT on scriptbl
                                     
     addscriptexist(4924922222, "Get Halloween cars", "Uploaded by SimpleScripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Halloween%20cars40.lua", "https://scriptblox.com/script/Brookhaven-RP-Get-Halloween-cars-20914")
                                     
+    addscriptexist(4924922222, "Extreme Egg Hunt Script", "Uploaded by chanceybolgiano on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Extreme%20Egg%20Hunt%20Script69.lua", "https://scriptblox.com/script/Brookhaven-RP-Extreme-Egg-Hunt-Script-21012")
+                                    

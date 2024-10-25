@@ -20,3 +20,5 @@ addscriptexist(8170900938, "Blade Style REUPLOADED", "Uploaded by LunarUI on scr
                                     
     addscriptexist(8170900938, "Parker style", "Uploaded by Rylee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Parker%20style659.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Parker-style-20800")
                                     
+    addscriptexist(8170900938, "Tiger style Replaces brute not fisticuffs", "Uploaded by Rylee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20style%20Replaces%20brute%20not%20fisticuffs822.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Tiger-style-Replaces-brute-not-fisticuffs-21014")
+                                    
