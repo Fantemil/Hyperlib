@@ -38,3 +38,5 @@ addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com"
                                     
     addscriptexist(13822889, "Kron Hub  New Release", "Uploaded by ItsXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kron%20Hub%20%20New%20Release847.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Kron-Hub-New-Release-21047")
                                     
+    addscriptexist(13822889, "Sinister Finder Script  Auto Hop  UI", "Uploaded by ItsXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sinister%20Finder%20Script%20%20Auto%20Hop%20%20UI67.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Sinister-Finder-Script-Auto-Hop-UI-21048")
+                                    

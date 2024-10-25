@@ -4,3 +4,5 @@
                                     
     addscriptexist(15910411454, "Inf Money", "Uploaded by pulse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money486.lua", "https://scriptblox.com/script/Mega-Domino-Playground-Money-Giver-19598")
                                     
+    addscriptexist(15910411454, "OP Hub Many Features", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Hub%20Many%20Features191.lua", "https://scriptblox.com/script/Mega-Domino-Playground-OP-Hub-21050")
+                                    

@@ -134,3 +134,5 @@ addscriptexist(1537690962, "Pepsi 2", "Uploaded by Default_sims on scriptblox.co
                                     
     addscriptexist(1537690962, "Kron Hub", "Uploaded by KronDev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kron%20Hub395.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Kron-Hub-20936")
                                     
+    addscriptexist(1537690962, "Kron Hub  Bss New Release", "Uploaded by ItsXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kron%20Hub%20%20Bss%20New%20Release709.lua", "https://scriptblox.com/script/Bee-Swarm-Simulator-Kron-Hub-Bss-New-Release-21051")
+                                    
