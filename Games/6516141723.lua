@@ -294,3 +294,5 @@ addscriptexist(6516141723, "entity spawner", "Uploaded by huntervankoevering on 
                                     
     addscriptexist(6516141723, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED481.lua", "https://scriptblox.com/script/FLOOR-2-DOORS-SOLARA-SUPPORTED-20740")
                                     
+    addscriptexist(6516141723, "Auto Farm More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20More871.lua", "https://scriptblox.com/script/DOORS-Auto-Farm-More-21001")
+                                    

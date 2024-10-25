@@ -10,3 +10,5 @@ addscriptexist(6243699076, "Ken   New script", "Uploaded by ScriptNoKeys on scri
                                     
     addscriptexist(6243699076, "Rael Hub", "Uploaded by Laelmano24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rael%20Hub551.lua", "https://scriptblox.com/script/The-Mimic-Rael-Hub-20921")
                                     
+    addscriptexist(6243699076, "Keyless script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyless%20script438.lua", "https://scriptblox.com/script/HALLOWEEN-The-Mimic-Keyless-script-21000")
+                                    
