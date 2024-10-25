@@ -8,3 +8,5 @@ addscriptexist(8054462345, "MichaelS Zombies Knife Kill Aura Zombies ESP No Reco
                                 
     addscriptexist(8054462345, "Knife Aura", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Knife%20Aura160.lua", "https://scriptblox.com/script/Michael's-Zombies-Knife-Aura-10799")
                                     
+    addscriptexist(8054462345, "REQUEST I BEG YOU", "Uploaded by cavemanstoopid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST%20I%20BEG%20YOU307.lua", "https://scriptblox.com/script/Michael's-Zombies-HALLOW'S-EVE-REQUEST-I-BEG-YOU-21001")
+                                    

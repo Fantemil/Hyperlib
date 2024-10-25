@@ -12,3 +12,5 @@
                                     
     addscriptexist(16447934574, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub285.lua", "https://scriptblox.com/script/Touch-Football-Rocket-Hub-20220")
                                     
+    addscriptexist(16447934574, "Zephyr T0uch F00tball", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20T0uch%20F00tball664.lua", "https://scriptblox.com/script/Touch-Football-Zephyr-T0uch-F00tball-21002")
+                                    

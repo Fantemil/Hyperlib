@@ -246,3 +246,5 @@
                                     
     addscriptexist(17625359962, "Op  Script SILENT AIM WALKSPEED AUTOKILL INF JUMP AND MORE", "Uploaded by Darkvz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20%20Script%20SILENT%20AIM%20WALKSPEED%20AUTOKILL%20INF%20JUMP%20AND%20MORE359.lua", "https://scriptblox.com/script/RIVALS-Op-Script-SILENT-AIM-ESP-AUTOKILL-INF-JUMP-AND-MORE-20906")
                                     
+    addscriptexist(17625359962, "Silent Aim l Open Source l Supports all executor l", "Uploaded by z0lupo4ka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20l%20Open%20Source%20l%20Supports%20all%20executor%20l583.lua", "https://scriptblox.com/script/RIVALS-Silent-Aim-l-Open-Source-l-Supports-all-executor-l-20999")
+                                    
