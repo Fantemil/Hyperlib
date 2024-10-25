@@ -248,3 +248,5 @@
                                     
     addscriptexist(17625359962, "Silent Aim l Open Source l Supports all executor l", "Uploaded by z0lupo4ka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20l%20Open%20Source%20l%20Supports%20all%20executor%20l583.lua", "https://scriptblox.com/script/RIVALS-Silent-Aim-l-Open-Source-l-Supports-all-executor-l-20999")
                                     
+    addscriptexist(17625359962, "Silent Aim Chams Aimbot", "Uploaded by Fams on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20Chams%20Aimbot895.lua", "https://scriptblox.com/script/RIVALS-Silent-Aim-Chams-Aimbot-21031")
+                                    

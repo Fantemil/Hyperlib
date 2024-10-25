@@ -102,3 +102,5 @@
                                     
     addscriptexist(18901165922, "Reaper Hub", "Uploaded by ReaperScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reaper%20Hub757.lua", "https://scriptblox.com/script/PETS-GO!-NEW-Reaper-Hub-20879")
                                     
+    addscriptexist(18901165922, "UPDATED KEYLESS SCRIPT BANANA HUB", "Uploaded by roge4087 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20KEYLESS%20SCRIPT%20BANANA%20HUB639.lua", "https://scriptblox.com/script/PETS-GO!-NEW-UPDATED-KEYLESS-SCRIPT-BANANA-HUB-21033")
+                                    
