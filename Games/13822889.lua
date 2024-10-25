@@ -36,3 +36,5 @@ addscriptexist(13822889, "ButterHub", "Uploaded by jjtcoleman on scriptblox.com"
                                     
     addscriptexist(13822889, "LTHUB Mulitple Hubs in one script", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LTHUB%20Mulitple%20Hubs%20in%20one%20script762.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-LTHUB-Mulitple-Hubs-in-one-script-20458")
                                     
+    addscriptexist(13822889, "Kron Hub  New Release", "Uploaded by ItsXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kron%20Hub%20%20New%20Release847.lua", "https://scriptblox.com/script/Lumber-Tycoon-2-Kron-Hub-New-Release-21047")
+                                    

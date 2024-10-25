@@ -250,3 +250,5 @@
                                     
     addscriptexist(17625359962, "Silent Aim Chams Aimbot", "Uploaded by Fams on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20Chams%20Aimbot895.lua", "https://scriptblox.com/script/RIVALS-Silent-Aim-Chams-Aimbot-21031")
                                     
+    addscriptexist(17625359962, "Enhancing Aimbot Script", "Uploaded by ItsXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Enhancing%20Aimbot%20Script75.lua", "https://scriptblox.com/script/RIVALS-Enhancing-Aimbot-Script-21045")
+                                    
