@@ -104,3 +104,5 @@
                                     
     addscriptexist(18901165922, "UPDATED KEYLESS SCRIPT BANANA HUB", "Uploaded by roge4087 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20KEYLESS%20SCRIPT%20BANANA%20HUB639.lua", "https://scriptblox.com/script/PETS-GO!-NEW-UPDATED-KEYLESS-SCRIPT-BANANA-HUB-21033")
                                     
+    addscriptexist(18901165922, "The Best Free PGO Script ZapHub Halloween Update", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Free%20PGO%20Script%20ZapHub%20Halloween%20Update589.lua", "https://scriptblox.com/script/PETS-GO!-NEW-The-Best-Free-PGO-Script-ZapHub-21037")
+                                    

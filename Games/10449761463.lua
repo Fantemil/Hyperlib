@@ -534,3 +534,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Free KJ", "Uploaded by moodygaming74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20KJ156.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Free-KJ-21014")
                                     
+    addscriptexist(10449761463, "FE  Fake Animation", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20%20Fake%20Animation44.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FE-Fake-Animation-21037")
+                                    
