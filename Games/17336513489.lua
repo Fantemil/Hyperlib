@@ -6,3 +6,5 @@
                                     
     addscriptexist(17336513489, "Support Solara XenonHUB", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20Solara%20XenonHUB213.lua", "https://scriptblox.com/script/Character-RNG-Support-Solara-XenonHUB-20721")
                                     
+    addscriptexist(17336513489, "support solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/support%20solara272.lua", "https://scriptblox.com/script/Character-RNG-support-solara-21043")
+                                    

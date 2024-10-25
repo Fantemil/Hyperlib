@@ -26,3 +26,5 @@ addscriptexist(4855457388, "D3MONF4LL FREE", "Uploaded by CandyLean on scriptblo
                                     
     addscriptexist(4855457388, "Demon Fall  Solara Supported", "Uploaded by L4BIB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demon%20Fall%20%20Solara%20Supported811.lua", "https://scriptblox.com/script/Demonfall-Demon-Fall-Solara-Supported-14677")
                                     
+    addscriptexist(4855457388, "Free Solixhub Script 2024", "Uploaded by solixhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Solixhub%20Script%202024497.lua", "https://scriptblox.com/script/Demonfall-Free-Solixhub-Script-2024-21039")
+                                    

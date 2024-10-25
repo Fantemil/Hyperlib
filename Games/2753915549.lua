@@ -1458,3 +1458,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Redz Hub For Solara", "Uploaded by moodygaming74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Redz%20Hub%20For%20Solara295.lua", "https://scriptblox.com/script/Blox-Fruits-Redz-Hub-For-Solara-21013")
                                     
+    addscriptexist(2753915549, "New Free SolixHub Script 2024", "Uploaded by solixhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Free%20SolixHub%20Script%20202419.lua", "https://scriptblox.com/script/Blox-Fruits-New-Free-SolixHub-Script-2024-21042")
+                                    

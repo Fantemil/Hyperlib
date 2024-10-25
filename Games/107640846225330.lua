@@ -18,3 +18,5 @@
                                     
     addscriptexist(107640846225330, "inf money", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money891.lua", "https://scriptblox.com/script/Like-or-Pass-inf-money-20954")
                                     
+    addscriptexist(107640846225330, "suppt solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/suppt%20solara212.lua", "https://scriptblox.com/script/Like-or-Pass-suppt-solara-21043")
+                                    

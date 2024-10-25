@@ -94,3 +94,5 @@ addscriptexist(301549746, "Enableware", "Uploaded by kitten on scriptblox.com", 
                                     
     addscriptexist(301549746, "EqueHub", "Uploaded by IIIuHIIIuJIa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EqueHub792.lua", "https://scriptblox.com/script/Counter-Blox-EqueHub-21029")
                                     
+    addscriptexist(301549746, "Free SolixHub 2024", "Uploaded by solixhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20SolixHub%20202482.lua", "https://scriptblox.com/script/Counter-Blox-Free-SolixHub-2024-21038")
+                                    
