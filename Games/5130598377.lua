@@ -44,3 +44,5 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                     
     addscriptexist(5130598377, "request script inst bn", "Uploaded by Choira on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20script%20inst%20bn287.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-request-script-inst-bn-20820")
                                     
+    addscriptexist(5130598377, "VIP Server Joiner", "Uploaded by mobulamantyke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Server%20Joiner377.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Stingry-Crcker-FREE-PRIVTE-SERVER-20987")
+                                    

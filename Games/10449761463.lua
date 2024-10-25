@@ -528,3 +528,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Elysium OP Paid Script", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elysium%20OP%20Paid%20Script529.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Elysium-OP-Paid-Script-21020")
                                     
+    addscriptexist(10449761463, "MAHITO Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MAHITO%20Moveset607.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-MAHITO-Moveset-20985")
+                                    
