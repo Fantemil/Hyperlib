@@ -1,0 +1,2 @@
+
+    addscript(133301076624038, "Current Game","Auto", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto17.lua", "https://scriptblox.com/script/King-of-the-Cannon-Auto-21019")

@@ -526,3 +526,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Limitless Legacy Script", "Uploaded by Sunshine_Hackers on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Limitless%20Legacy%20Script333.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Limitless-Legacy-Script-20995")
                                     
+    addscriptexist(10449761463, "Elysium OP Paid Script", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Elysium%20OP%20Paid%20Script529.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Elysium-OP-Paid-Script-21020")
+                                    
