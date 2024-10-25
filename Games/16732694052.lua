@@ -22,3 +22,5 @@
                                     
     addscriptexist(16732694052, "Works on all executers", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Works%20on%20all%20executers516.lua", "https://scriptblox.com/script/Fisch-Works-on-all-executers-20951")
                                     
+    addscriptexist(16732694052, "InfiniteWare Solara Support", "Uploaded by Mojo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniteWare%20Solara%20Support744.lua", "https://scriptblox.com/script/Fisch-InfiniteWare-Solara-Support-21024")
+                                    

@@ -66,3 +66,5 @@ addscriptexist(662417684, "Script n7", "Uploaded by R_10 on scriptblox.com", "ht
                                     
     addscriptexist(662417684, "ILDK HUB GUI", "Uploaded by ILDK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ILDK%20HUB%20GUI709.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-ILDK-HUB-GUI-20979")
                                     
+    addscriptexist(662417684, "Zephyr V2 L4cky Bl0cks Battlegr0unds", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20V2%20L4cky%20Bl0cks%20Battlegr0unds356.lua", "https://scriptblox.com/script/LUCKY-BLOCKS-Battlegrounds-Zephyr-V2-L4cky-Bl0cks-Battlegr0unds-21022")
+                                    

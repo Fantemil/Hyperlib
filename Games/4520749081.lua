@@ -48,3 +48,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                     
     addscriptexist(4520749081, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub416.lua", "https://scriptblox.com/script/UPDATE-6-King-Legacy-Rocket-Hub-20238")
                                     
+    addscriptexist(4520749081, "scripts", "Uploaded by waffahantta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/scripts267.lua", "https://scriptblox.com/script/King-Legacy-scripts-21023")
+                                    
