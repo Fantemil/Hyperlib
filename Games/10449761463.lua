@@ -530,3 +530,7 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "MAHITO Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MAHITO%20Moveset607.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-MAHITO-Moveset-20985")
                                     
+    addscriptexist(10449761463, "KJ Moveset", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20Moveset37.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-Moveset-21011")
+                                    
+    addscriptexist(10449761463, "Free KJ", "Uploaded by moodygaming74 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20KJ156.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Free-KJ-21014")
+                                    

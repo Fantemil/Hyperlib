@@ -1,0 +1,2 @@
+
+    addscript(2965881766, "Current Game","Best script for", "Uploaded by yuragab960 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20for186.lua", "https://scriptblox.com/script/Fang!-Brawl-Blox-Best-script-for-21016")

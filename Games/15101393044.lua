@@ -24,3 +24,5 @@
                                     
     addscriptexist(15101393044, "Keyless script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyless%20script618.lua", "https://scriptblox.com/script/Dress-To-Impress-Keyless-script-20824")
                                     
+    addscriptexist(15101393044, "Script Event", "Uploaded by 01_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Event939.lua", "https://scriptblox.com/script/Dress-To-Impress-Script-Event-21009")
+                                    
