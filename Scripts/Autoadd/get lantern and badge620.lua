@@ -1,0 +1,6 @@
+game.Players.LocalPlayer.Character.HumanoidRootPart.CFrame = CFrame.new(708, 176, 526)
+task.wait(.5)
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("RequestTool"):FireServer("Shovel")
+task.wait(.1)
+game:GetService("ReplicatedStorage"):WaitForChild("Remotes"):WaitForChild("DigRemote"):FireServer(1,true)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBABA/script/refs/heads/main/web.lua"))()

@@ -50,3 +50,5 @@
                                     
     addscriptexist(17574618959, "fe clovr", "Uploaded by imahuman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20clovr634.lua", "https://scriptblox.com/script/Just-a-baseplate.-fe-clovr-20858")
                                     
+    addscriptexist(17574618959, "Vivinne Hub V2", "Uploaded by VivianneRoblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vivinne%20Hub%20V2860.lua", "https://scriptblox.com/script/Just-a-baseplate.-Vivinne-Hub-V2-21005")
+                                    

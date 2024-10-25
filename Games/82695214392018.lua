@@ -1,0 +1,2 @@
+
+    addscript(82695214392018, "Current Game","get lantern and badge", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20lantern%20and%20badge620.lua", "https://scriptblox.com/script/The-Haunt-get-lantern-and-badge-21010")

@@ -12,3 +12,5 @@
                                     
     addscriptexist(16055525893, "Fast attack and Autofarm", "Uploaded by DOIT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20attack%20and%20Autofarm676.lua", "https://scriptblox.com/script/RNG-Odyssey-Fast-attack-and-Autofarm-20460")
                                     
+    addscriptexist(16055525893, "Simple Script", "Uploaded by NotKey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Script197.lua", "https://scriptblox.com/script/RNG-Odyssey-Simple-Script-21006")
+                                    

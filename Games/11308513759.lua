@@ -1,0 +1,2 @@
+
+    addscript(11308513759, "Current Game","Void player script", "Uploaded by Foeky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Void%20player%20script473.lua", "https://scriptblox.com/script/Boys-and-Girls-Hangout-Club-RP!-Void-player-script-21008")
