@@ -8,3 +8,5 @@ addscript(11137575513, "Current Game","laziest", "Uploaded by flavorgameryt on s
                                     
     addscriptexist(11137575513, "Zte hub", "Uploaded by _39Q on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zte%20hub932.lua", "https://scriptblox.com/script/The-Chosen-One-Zte-hub-20603")
                                     
+    addscriptexist(11137575513, "VPLI hub beta 50 complete", "Uploaded by trkebyebyetrke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VPLI%20hub%20beta%2050%20complete436.lua", "https://scriptblox.com/script/The-Chosen-One-VPLI-hub-20992")
+                                    

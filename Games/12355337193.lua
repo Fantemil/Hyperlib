@@ -90,3 +90,5 @@ addscriptexist(12355337193, "Cpsvirs V1     key less", "Uploaded by Mr_pop_cat o
                                     
     addscriptexist(12355337193, "SG SCRIPT HUB", "Uploaded by ressielbacurio025 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SG%20SCRIPT%20HUB519.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-SG-SCRIPT-HUB-20418")
                                     
+    addscriptexist(12355337193, "FreakBob Muder  Sheriff Solara Supported", "Uploaded by milkyboy0247 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreakBob%20Muder%20%20Sheriff%20Solara%20Supported732.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-Duels-FreakBob-Muder-Sheriff-Solara-Supported-20994")
+                                    
