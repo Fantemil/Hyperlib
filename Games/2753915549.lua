@@ -1454,3 +1454,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "Fluent UI library toggle button", "Uploaded by jhonbacunawa123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fluent%20UI%20library%20toggle%20button837.lua", "https://scriptblox.com/script/Blox-Fruits-Fluent-UI-library-toggle-button-20923")
                                     
+    addscriptexist(2753915549, "New RedZ", "Uploaded by jaydensmithsigma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20RedZ770.lua", "https://scriptblox.com/script/Blox-Fruits-New-RedZ-20991")
+                                    
