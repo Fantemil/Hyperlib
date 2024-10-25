@@ -4,3 +4,5 @@ addscript(4585085581, "Current Game","Shinobi Storm Script  Unlock All Character
                                 
     addscriptexist(4585085581, "Roblox FE auto kill all", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Roblox%20FE%20auto%20kill%20all556.lua", "https://scriptblox.com/script/KID-KAKASHI-+-XBOX-Shinobi-Storm-Roblox-FE-auto-kill-all-16882")
                                     
+    addscriptexist(4585085581, "Last script request", "Uploaded by mat3usfern4ndes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Last%20script%20request904.lua", "https://scriptblox.com/script/Shinobi-Storm-Last-script-request-21058")
+                                    

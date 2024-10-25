@@ -38,3 +38,5 @@ addscript(14067600077, "Current Game","OP AUTOFARM", "Uploaded by luffytard77 on
                                     
     addscriptexist(14067600077, "ConcatHub  Freemium  25 Games", "Uploaded by Sakuan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ConcatHub%20%20Freemium%20%2025%20Games503.lua", "https://scriptblox.com/script/TYPE:SOUL-HALLOWEEN-UPDATE-Concat(Hub)-or-Freemium-or-25+-Games-20673")
                                     
+    addscriptexist(14067600077, "Killa Hub", "Uploaded by sivirusnape on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Killa%20Hub820.lua", "https://scriptblox.com/script/TYPE:SOUL-HALLOWEEN-UPDATE-Killa-Hub-21062")
+                                    
