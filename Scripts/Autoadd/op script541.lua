@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/magnetic-simulator-24624'))()
+loadstring(game:HttpGet(('https://pastefy.app/b6lgDkxK/raw'),true))()

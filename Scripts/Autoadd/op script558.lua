@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/hodrich/ChillX/main/77_PVES6PJII.lua'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bloxyhub-script/bloxyhub/main/Loader"))()

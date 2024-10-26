@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/Hegejfvsjw/script56/main/script.lua'))()
+loadstring(game:HttpGet('https://syrexhub.netlify.app/raw/syrexhub'))()

@@ -1,3 +1,1 @@
-getgenv().visualizer = true
-
-loadstring(game:HttpGet("https://raw.githubusercontent.com/1f0yt/community/main/RedCircleBlock"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Marco8642/science/main/dealership%20tycoon"))()

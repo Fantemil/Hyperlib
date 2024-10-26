@@ -1,1 +1,6 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/PizzeriaTycoon'))()
+loadstring(game:HttpGet("https://pastefy.app/Zcw2CN9l/raw"))()
+
+while true do
+wait("0")
+game:GetService("ReplicatedStorage").Events.Claim:FireServer("Claim")
+end

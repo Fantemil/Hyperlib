@@ -1,4 +1,6 @@
---[[
-	WARNING: Heads up! This script has not been verified by ScriptBlox. Use at your own risk!
-]]
-loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/AnimeStars'))()
+if game.CreatorType == Enum.CreatorType.User then
+game.Players.LocalPlayer.UserId = game.CreatorId
+end
+if game.CreatorType == Enum.CreatorType.Group then
+game.Players.LocalPlayer.UserId = game:GetService("GroupService"):GetGroupInfoAsync(game.CreatorId).Owner.Id
+end

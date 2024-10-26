@@ -1,2 +1,1 @@
---Go to website : https://bit.ly/3Sywi4b
---Get Script : https://pastebin.com/raw/jKk3Hvjj
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExploiterGuy/FBC/refs/heads/main/Protected_3899199320920773.txt"))()

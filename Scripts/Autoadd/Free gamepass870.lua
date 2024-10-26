@@ -1,1 +1,1 @@
-getrenv()._G.Premium = true
+loadstring(game:HttpGet('https://raw.githubusercontent.com/ToraScript/Script/main/AnimeStars'))()
