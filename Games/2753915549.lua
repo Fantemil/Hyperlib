@@ -1460,3 +1460,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "New Free SolixHub Script 2024", "Uploaded by solixhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Free%20SolixHub%20Script%20202419.lua", "https://scriptblox.com/script/Blox-Fruits-New-Free-SolixHub-Script-2024-21042")
                                     
+    addscriptexist(2753915549, "OP AUTOFARM FREE", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20FREE215.lua", "https://scriptblox.com/script/Blox-Fruits-OP-AUTOFARM-FREE-21073")
+                                    
