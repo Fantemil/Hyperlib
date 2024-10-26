@@ -1462,3 +1462,5 @@ addscriptexist(2753915549, "WORK LEVEL 2550", "Uploaded by Jine on scriptblox.co
                                     
     addscriptexist(2753915549, "OP AUTOFARM FREE", "Uploaded by Nicuse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20FREE215.lua", "https://scriptblox.com/script/Blox-Fruits-OP-AUTOFARM-FREE-21073")
                                     
+    addscriptexist(2753915549, "BEST   FRUIT AUTO FARM", "Uploaded by ochgerel955 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20%20FRUIT%20AUTO%20FARM567.lua", "https://scriptblox.com/script/Blox-Fruits-BEST-FRUIT-AUTO-FARM-21104")
+                                    

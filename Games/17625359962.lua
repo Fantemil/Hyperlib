@@ -252,3 +252,5 @@
                                     
     addscriptexist(17625359962, "Enhancing Aimbot Script", "Uploaded by ItsXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Enhancing%20Aimbot%20Script75.lua", "https://scriptblox.com/script/RIVALS-Enhancing-Aimbot-Script-21045")
                                     
+    addscriptexist(17625359962, "Silent HUB  Script AIMBOT ESP MOVEMENT", "Uploaded by adurite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20HUB%20%20Script%20AIMBOT%20ESP%20MOVEMENT85.lua", "https://scriptblox.com/script/RIVALS-Silent-HUB-Script-AIMBOT-ESP-MOVEMENT-21102")
+                                    
