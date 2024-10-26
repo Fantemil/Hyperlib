@@ -1,0 +1,4 @@
+
+    addscript(13436905139, "Current Game","Reach For any r6 soccer game do not support solara", "Uploaded by sheluvxage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reach%20For%20any%20r6%20soccer%20game%20do%20not%20support%20solara976.lua", "https://scriptblox.com/script/MPS-4-a-side-Reach-For-any-r6-soccer-game-do-not-support-solara-18211")
+    addscriptexist(13436905139, "Solara OP Unmovable ball script", "Uploaded by Emplic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solara%20OP%20Unmovable%20ball%20script40.lua", "https://scriptblox.com/script/UPDATEMPS-4-a-side-Solara-OP-Unmovable-ball-script-15557")
+                                    

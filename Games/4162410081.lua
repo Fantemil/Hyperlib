@@ -1,0 +1,2 @@
+
+    addscript(4162410081, "Current Game","Pi Hub   win", "Uploaded by ax_milin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Pi%20Hub%20%20%20win969.lua", "https://scriptblox.com/script/Longest-Answer-Wins-NEW-QUESTIONS-Pi-Hub-win-17090")

@@ -1,0 +1,2 @@
+
+    addscript(7411558263, "Current Game","SERVER BREAKER", "Uploaded by IMakeBestScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SERVER%20BREAKER75.lua", "https://scriptblox.com/script/Pass-The-Bomb-SERVER-BREAKER-15153")

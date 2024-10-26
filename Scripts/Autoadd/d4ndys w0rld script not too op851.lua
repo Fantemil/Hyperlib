@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DismissedTriang/Triangle/refs/heads/main/DandyWorld%20Script%20by%20triang"))()

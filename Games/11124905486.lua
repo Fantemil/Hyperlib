@@ -10,3 +10,5 @@ addscriptexist(11124905486, "reduced knockbck", "Uploaded by Tomato on scriptblo
                                     
     addscriptexist(11124905486, "Reduced KnockBck", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reduced%20KnockBck854.lua", "https://scriptblox.com/script/Shoot-Players-Off-A-Map-Simulator-Reduced-KnockBck-9611")
                                     
+    addscriptexist(11124905486, "Open source", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Open%20source531.lua", "https://scriptblox.com/script/UPD-Shoot-Players-Off-A-Map-Simulator-Open-source-17423")
+                                    

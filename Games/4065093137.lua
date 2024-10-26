@@ -1,0 +1,2 @@
+
+    addscript(4065093137, "Current Game","ILDK HUB", "Uploaded by ILDK on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ILDK%20HUB541.lua", "https://scriptblox.com/script/eat-sand-ILDK-HUB-20535")

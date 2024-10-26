@@ -1,0 +1,2 @@
+
+    addscript(13795828434, "Current Game","Instant UGC", "Uploaded by Kaito_fans on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC236.lua", "https://scriptblox.com/script/FREE-UGC!-The-Vents-HORROR-Instant-UGC-13263")

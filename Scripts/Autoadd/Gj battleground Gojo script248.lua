@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-BEST-FE-GOJO-MOVESET-SCRIPT-17671"))()

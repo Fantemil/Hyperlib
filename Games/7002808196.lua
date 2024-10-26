@@ -1,0 +1,2 @@
+
+    addscript(7002808196, "Current Game","Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub872.lua", "https://scriptblox.com/script/Fall-in-Funnel-Simulator-Budgie-Hub-13604")

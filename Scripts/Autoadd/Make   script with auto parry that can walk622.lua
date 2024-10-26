@@ -1,0 +1,1 @@
+With auto parry that can walk bc i found someone post a script like that and i think they deleted it it has auto parry and ai walking

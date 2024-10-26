@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XenonLUA/XenonHUB/main/Script/Fruit%20Seas.lua"))()

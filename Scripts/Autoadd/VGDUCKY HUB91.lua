@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duckycant/Hub/refs/heads/main/obf_aFbRle55K8RlQxR0R3YKP68Q53YdKVl2p2uxf19JFEejuX9Kr8Yo766dw8ANWBcL.lua.txt"))()

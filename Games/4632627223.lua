@@ -1,0 +1,2 @@
+
+    addscript(4632627223, "Current Game","REQUEST SCRIPT", "Uploaded by Smurfone003 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST%20SCRIPT776.lua", "https://scriptblox.com/script/Black-Grimoire:-Legacy-REQUEST-SCRIPT-20046")

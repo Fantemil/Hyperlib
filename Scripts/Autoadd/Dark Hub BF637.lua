@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark12982/Dark-Hub/main/Blox%20Fruits"))()

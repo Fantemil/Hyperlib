@@ -1,0 +1,4 @@
+
+    addscript(15428225119, "Current Game","Highlight ESP for the Monsters", "Uploaded by AladinSverkel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20ESP%20for%20the%20Monsters153.lua", "https://scriptblox.com/script/DESCENT-Highlight-ESP-for-the-Monsters-12405")
+    addscriptexist(15428225119, "Highlight ESP for all Item Drops", "Uploaded by AladinSverkel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Highlight%20ESP%20for%20all%20Item%20Drops231.lua", "https://scriptblox.com/script/DESCENT-Highlight-ESP-for-all-Item-Drops-12401")
+                                    

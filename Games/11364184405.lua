@@ -1,0 +1,2 @@
+
+    addscript(11364184405, "Current Game","Auto Rebirth Script", "Uploaded by C0dedlegacy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rebirth%20Script758.lua", "https://scriptblox.com/script/Super-Fun-Obby-725-Stages-Auto-Rebirth-Script-13598")

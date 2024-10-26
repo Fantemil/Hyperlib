@@ -1,0 +1,2 @@
+
+    addscript(11217941123, "Current Game","Op script", "Uploaded by kiranga054 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script506.lua", "https://scriptblox.com/script/stupid-idiot-cafe-MOPPING-Op-script-19130")

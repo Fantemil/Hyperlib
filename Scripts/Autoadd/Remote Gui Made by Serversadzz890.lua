@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ServerSad/5203ac8b238aa0ce4ba3811c3ef17cd4/raw/6077d09ab35776943592004f8b6a4ff7341e550f/Remote%2520gui%2520(usefull)"))()

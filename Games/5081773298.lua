@@ -1,0 +1,2 @@
+
+    addscript(5081773298, "Current Game","Free product", "Uploaded by Fence on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20product505.lua", "https://scriptblox.com/script/No-Scope-Sniping-Free-product-19071")

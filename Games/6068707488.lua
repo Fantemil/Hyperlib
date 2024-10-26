@@ -1,0 +1,2 @@
+
+    addscript(6068707488, "Current Game","Control Suite", "Uploaded by Lisfu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Control%20Suite993.lua", "https://scriptblox.com/script/Navy-Simulator-Control-Suite-16446")

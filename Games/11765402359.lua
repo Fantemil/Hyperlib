@@ -1,0 +1,4 @@
+
+    addscript(11765402359, "Current Game","get all tix", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20all%20tix445.lua", "https://scriptblox.com/script/EVENT-Clip-It-get-all-tix-13294")
+    addscriptexist(11765402359, "Find All Token And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20All%20Token%20And%20More39.lua", "https://scriptblox.com/script/ROBLOX-CLASSIC-Clip-It-Find-All-Token-And-More-13428")
+                                    

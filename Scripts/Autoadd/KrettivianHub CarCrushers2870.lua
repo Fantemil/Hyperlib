@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Violettian/KrettivianHub/refs/heads/main/CarCrushers2"))()

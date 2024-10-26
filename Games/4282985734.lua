@@ -46,3 +46,25 @@ addscriptexist(4282985734, "Infinite Stamina", "Uploaded by eggerites on scriptb
                                 
     addscriptexist(4282985734, "ROBLOX AIMBOT", "Uploaded by ethanlaffon123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ROBLOX%20AIMBOT770.lua", "https://scriptblox.com/script/Combat-Warriors-ROBLOX-AIMBOT-9197")
                                     
+    addscriptexist(4282985734, "ProjectHarpia", "Uploaded by HeroReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProjectHarpia335.lua", "https://scriptblox.com/script/Combat-Warriors-ProjectHarpia-16179")
+                                    
+    addscriptexist(4282985734, "InfiniX", "Uploaded by hosvile on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/InfiniX972.lua", "https://scriptblox.com/script/Combat-Warriors-InfiniX-16532")
+                                    
+    addscriptexist(4282985734, "Nice", "Uploaded by SPEEDWAVE on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nice108.lua", "https://scriptblox.com/script/Combat-Warriors-Nice-19001")
+                                    
+    addscriptexist(4282985734, "Streamable AP", "Uploaded by zwag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Streamable%20AP445.lua", "https://scriptblox.com/script/Combat-Warriors-Streamable-AP-16588")
+                                    
+    addscriptexist(4282985734, "Stratos Hub", "Uploaded by HeroReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stratos%20Hub914.lua", "https://scriptblox.com/script/Combat-Warriors-Stratos-Hub-17601")
+                                    
+    addscriptexist(4282985734, "Hitbox Expander UPD2", "Uploaded by wokhard213 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20Expander%20UPD2398.lua", "https://scriptblox.com/script/Combat-Warriors-Hitbox-Expander-UPD2-16433")
+                                    
+    addscriptexist(4282985734, "Comb warrior op script", "Uploaded by FreakyBoySkibdi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Comb%20warrior%20op%20script24.lua", "https://scriptblox.com/script/Combat-Warriors-Comb-warrior-op-script-16551")
+                                    
+    addscriptexist(4282985734, "ranged hitbox expander", "Uploaded by Guelgamesbr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ranged%20hitbox%20expander215.lua", "https://scriptblox.com/script/Combat-Warriors-ranged-hitbox-expander-10430")
+                                    
+    addscriptexist(4282985734, "OP scripts for mobile device", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20scripts%20for%20mobile%20device305.lua", "https://scriptblox.com/script/Combat-Warriors-OP-scripts-for-mobile-device-19829")
+                                    
+    addscriptexist(4282985734, "Auto Parry", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Parry354.lua", "https://scriptblox.com/script/Combat-Warriors-Auto-Parry-19909")
+                                    
+    addscriptexist(4282985734, "Zygarde V2", "Uploaded by Corrupted2222 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zygarde%20V2122.lua", "https://scriptblox.com/script/Combat-Warriors-Zygarde-V2-20264")
+                                    

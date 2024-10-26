@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/callme39Q/Lua/refs/heads/main/Zte%20Hub"))()

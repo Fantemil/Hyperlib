@@ -1,0 +1,1 @@
+print("https://discord.gg/ne3mr626 This is the discord")

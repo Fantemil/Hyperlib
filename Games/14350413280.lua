@@ -1,0 +1,2 @@
+
+    addscript(14350413280, "Current Game","Money Farm", "Uploaded by BeboMods on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Farm415.lua", "https://scriptblox.com/script/UPD-Ice-Fishing-Simulator-Money-Farm-18624")

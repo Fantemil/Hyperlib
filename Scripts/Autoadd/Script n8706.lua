@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/lucasr125/public-scripts/main/NTL%E3%81%8C1%E6%97%A5%E3%81%A7%E4%BD%9C%E3%81%A3%E3%81%9F%E9%89%84%E9%81%93%E3%82%B2%E3%83%BC%E3%83%A0%5BRide%20the%20train%20to%20Cactus%5D.lua)))();

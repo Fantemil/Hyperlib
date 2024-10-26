@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kortigadulfo/pepsihub/main/mm2.lua"))()

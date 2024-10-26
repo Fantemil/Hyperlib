@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZorSonMods/SyniX-HUB-BUILD-BOAT-FOR-TREASURE/main/script"))()

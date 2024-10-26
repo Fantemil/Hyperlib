@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/MasterTownship/Script-Roblox/main/Bathroom%20Tower%20Defense%20X.lua')))()

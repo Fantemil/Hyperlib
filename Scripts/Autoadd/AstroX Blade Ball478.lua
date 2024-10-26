@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/AstroX/main/Loader.lua", true))()

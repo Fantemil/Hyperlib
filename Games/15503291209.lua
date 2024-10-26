@@ -1,0 +1,2 @@
+
+    addscript(15503291209, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2634.lua", "https://scriptblox.com/script/Super-Power-Grinding-Simulator-Demonic-HUB-V2-10957")

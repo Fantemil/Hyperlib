@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/AnimalSimulator/refs/heads/main/LTFRUITS1.9", true))()

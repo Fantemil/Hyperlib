@@ -1,0 +1,2 @@
+
+    addscript(2262441883, "Current Game","PianoClient", "Uploaded by 42Hrz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PianoClient633.lua", "https://scriptblox.com/script/Electric-State-DarkRP(Beta)-PianoClient-15549")

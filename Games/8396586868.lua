@@ -8,3 +8,7 @@ addscriptexist(8396586868, "opg scirpt nd u need figure it out", "Uploaded by zo
                                 
     addscriptexist(8396586868, "Flming Drgons HUB", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flming%20Drgons%20HUB33.lua", "https://scriptblox.com/script/REVAMP-+-x2-DROPS-A-0ne-Piece-Game-Flming-Drgons-HUB-9572")
                                     
+    addscriptexist(8396586868, "mke  Collect egg request", "Uploaded by broooo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mke%20%20Collect%20egg%20request660.lua", "https://scriptblox.com/script/SUITS!-+-BOOSTS!-A-0ne-Piece-Game-Mke-request-11564")
+                                    
+    addscriptexist(8396586868, "Script requests egg Hunt", "Uploaded by broooo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20requests%20egg%20Hunt54.lua", "https://scriptblox.com/script/BIG-QOL-A-0ne-Piece-Game-Script-requests-Hunt-egg-11343")
+                                    

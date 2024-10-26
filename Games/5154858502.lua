@@ -12,3 +12,9 @@ addscriptexist(5154858502, "Ranxware V2 Overpowered Script Hub", "Uploaded by As
                                 
 addscriptexist(5154858502, "Ken  Vs", "Uploaded by ScriptNoKeys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ken%20%20Vs565.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-Halloween-Event-Ken-Vs-8492")
                                 
+    addscriptexist(5154858502, "MVS script", "Uploaded by VardyScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MVS%20script454.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-VS-UNPO*R-ONE-16483")
+                                    
+    addscriptexist(5154858502, "Rinns Hub", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinns%20Hub328.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-Rinns-Hub-14104")
+                                    
+    addscriptexist(5154858502, "Best script op Kill all", "Uploaded by For92ad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20script%20op%20Kill%20all738.lua", "https://scriptblox.com/script/Murderers-vs.-Sheriffs-Best-script-op-Kill-all-20419")
+                                    

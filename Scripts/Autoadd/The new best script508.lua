@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/loadlua/temp-criminology/main/criminology.lua"))()

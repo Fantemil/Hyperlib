@@ -1,0 +1,1 @@
+Join discord server fir script

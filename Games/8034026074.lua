@@ -1,0 +1,2 @@
+
+    addscript(8034026074, "Current Game","INSTANT WIN", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20WIN50.lua", "https://scriptblox.com/script/Easy-Glass-Bridge-(Possible-Squid-Game)-INSTANT-WIN-18017")

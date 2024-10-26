@@ -1,0 +1,2 @@
+
+    addscript(13852550482, "Current Game","SCRIPT REQUEST", "Uploaded by Noperkey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST34.lua", "https://scriptblox.com/script/Lee:-Rpg-v.4.0.4-SCRIPT-REQUEST-13436")

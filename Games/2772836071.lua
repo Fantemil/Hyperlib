@@ -1,0 +1,2 @@
+
+    addscript(2772836071, "Current Game","Works", "Uploaded by zaee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Works511.lua", "https://scriptblox.com/script/Drop-Offs-Works-14169")

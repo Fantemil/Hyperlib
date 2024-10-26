@@ -1,0 +1,1 @@
+game:GetService("Players").LocalPlayer.PlayerGui["Npc Quest"].Enabled=true

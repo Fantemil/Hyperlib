@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toocoldhub/Sxth-Hub-V2/main/TheV2Finale"))()

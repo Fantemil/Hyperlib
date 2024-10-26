@@ -1,0 +1,2 @@
+
+    addscript(18254034839, "Current Game","Auto Win Auto Farm Stats", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Auto%20Farm%20Stats175.lua", "https://scriptblox.com/script/NEW-Track-Race-Auto-Win-Auto-Farm-Stats-19869")

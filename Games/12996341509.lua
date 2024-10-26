@@ -1,0 +1,2 @@
+
+    addscript(12996341509, "Current Game","give urself THE WAND", "Uploaded by sashadudnik232 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/give%20urself%20THE%20WAND729.lua", "https://scriptblox.com/script/area-51-but-find-coils-to-survive-give-urself-THE-WAND-knock-out-the-whole-lobby-12827")

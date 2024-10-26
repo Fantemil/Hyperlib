@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Opboltejshshskidhdbd/Scripts/blob/main/Sisyphus%20simulator"))()

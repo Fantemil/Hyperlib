@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/XenonLoader/Loaders/refs/heads/main/No%20loader/Hotdog%20Eating%20Simulator.lua"))()

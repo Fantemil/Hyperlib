@@ -1,0 +1,2 @@
+
+    addscript(17167990958, "Current Game","Rock  FROG HUB v1", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rock%20%20FROG%20HUB%20v1300.lua", "https://scriptblox.com/script/+X30-Cid+Stylish-and-Digging-Sand!!Rock-Fruit-Rock-FROG-HUB-v1-15589")

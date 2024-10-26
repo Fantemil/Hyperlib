@@ -10,3 +10,7 @@ addscript(12109643, "Current Game","Fe Bike Need Hat", "Uploaded by ahmedosama23
                                 
     addscriptexist(12109643, "Anti Fling", "Uploaded by ahmedosama23ana4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Fling682.lua", "https://scriptblox.com/script/Fencing-Anti-Fling-4033")
                                 
+    addscriptexist(12109643, "Made By Chatgpt Script", "Uploaded by P3rfum33w on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Made%20By%20Chatgpt%20Script503.lua", "https://scriptblox.com/script/Fencing-Made-By-Chatgpt-Script-18241")
+                                    
+    addscriptexist(12109643, "ToolDraw", "Uploaded by Onlyscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ToolDraw541.lua", "https://scriptblox.com/script/Fencing-ToolDraw-19442")
+                                    

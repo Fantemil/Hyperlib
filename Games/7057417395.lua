@@ -1,0 +1,4 @@
+
+    addscript(7057417395, "Current Game","Telekinesis Script", "Uploaded by subb on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Telekinesis%20Script37.lua", "https://scriptblox.com/script/when-the-Telekinesis-Script-17497")
+    addscriptexist(7057417395, "Fling all script Universal", "Uploaded by sorcusrandom on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fling%20all%20script%20Universal862.lua", "https://scriptblox.com/script/when-the-Fling-all-script-Universal-17690")
+                                    

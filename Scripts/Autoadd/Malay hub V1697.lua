@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OpscriptPRO/OP-script/main/Malayhub"))()

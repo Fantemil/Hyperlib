@@ -1,0 +1,2 @@
+
+    addscript(18114111714, "Current Game","c00lkid GUI for", "Uploaded by HybridXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lkid%20GUI%20for763.lua", "https://scriptblox.com/script/Sword-FFA-c00lkid-GUI-for-19800")

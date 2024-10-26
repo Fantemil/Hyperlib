@@ -1,0 +1,2 @@
+
+    addscript(11694980678, "Current Game","Infinite Money PATCHED", "Uploaded by RIOSETRO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money%20PATCHED290.lua", "https://scriptblox.com/script/UPD!-Barboskiny-Infinite-Money-11603")

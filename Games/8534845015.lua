@@ -8,3 +8,7 @@ addscriptexist(8534845015, "One For All Farmer", "Uploaded by FlamesW on scriptb
                                 
 addscriptexist(8534845015, "AutoSell Items", "Uploaded by ChrisIsTaken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoSell%20Items123.lua", "https://scriptblox.com/script/Toji-Sakura-Stand-AutoSell-Items-7598")
                                 
+    addscriptexist(8534845015, "Op autofarm and teleports", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20autofarm%20and%20teleports190.lua", "https://scriptblox.com/script/Roland-Sakura-Stand-Op-autofarm-and-teleports-13097")
+                                    
+    addscriptexist(8534845015, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2463.lua", "https://scriptblox.com/script/ICHIGO-Sakura-Stand-Demonic-HUB-V2-12265")
+                                    

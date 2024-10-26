@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SleepyVibe/Key-System/main/Main.lua"))() 

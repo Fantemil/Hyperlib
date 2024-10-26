@@ -1,0 +1,2 @@
+
+    addscript(5936525656, "Current Game","Abyss Script", "Uploaded by Allfilm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Abyss%20Script947.lua", "https://scriptblox.com/script/Hollow-Abyss:-Shattered-Volition-Abyss-Script-12507")

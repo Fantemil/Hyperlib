@@ -1,0 +1,2 @@
+
+    addscript(5042337448, "Current Game","Auto Lift Weight", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Lift%20Weight693.lua", "https://scriptblox.com/script/Lifting-Simulator!-Auto-Lift-16069")

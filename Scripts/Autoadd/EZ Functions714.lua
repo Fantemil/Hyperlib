@@ -1,0 +1,1 @@
+local EZFunctions = loadstring(game:HttpGet("https://ez-scripts.xyz/Utilities/EZ%20Functions"))()

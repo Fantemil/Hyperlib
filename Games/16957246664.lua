@@ -1,0 +1,2 @@
+
+    addscript(16957246664, "Current Game","Free Rebirth", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Rebirth734.lua", "https://scriptblox.com/script/Limited-Jumps-Obby-Free-Rebirth-13549")

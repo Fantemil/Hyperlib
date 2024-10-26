@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/synscripts/scripts/main/syn/MVSD.lua'))()

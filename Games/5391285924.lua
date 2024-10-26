@@ -1,0 +1,2 @@
+
+    addscript(5391285924, "Current Game","Script request", "Uploaded by Iamhim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request919.lua", "https://scriptblox.com/script/The-Escape-(Story)-Script-request-20343")

@@ -1,0 +1,2 @@
+
+    addscript(11854016673, "Current Game","Script OP UNDETECTABLE", "Uploaded by 4X96X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20OP%20UNDETECTABLE404.lua", "https://scriptblox.com/script/(ERROR-Assist)-Sans-Funny-Boss-Rush-Script-OP-UNDETECTABLE-18697")

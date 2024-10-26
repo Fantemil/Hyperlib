@@ -1,0 +1,2 @@
+
+    addscript(14833592591, "Current Game","Nomoredying v2", "Uploaded by Sami on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nomoredying%20v2124.lua", "https://scriptblox.com/script/Disaster-Island-UPDATE!-****-s-12180")

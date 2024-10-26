@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ihatelife11/tai-sRNGscript.github.io/main/16714905773.lua"))()

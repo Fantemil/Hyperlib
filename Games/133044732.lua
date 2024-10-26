@@ -1,0 +1,4 @@
+
+    addscript(133044732, "Current Game","Autofarm POOP", "Uploaded by Mxxer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20POOP557.lua", "https://scriptblox.com/script/Pooping-Simulator!-Autofarm-POOP-16490")
+    addscriptexist(133044732, "Auto Poop And Auto fert OP", "Uploaded by kevinmitnickhkr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Poop%20And%20Auto%20fert%20OP426.lua", "https://scriptblox.com/script/Pooping-Simulator!-Auto-*-Auto-Shert-19246")
+                                    

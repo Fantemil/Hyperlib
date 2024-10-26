@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/ade1f8efcb4604be34c29476a5baebae4c0ee9d6/ScaryHideSeek"))("t.me/arceusxscripts")

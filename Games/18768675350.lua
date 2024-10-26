@@ -1,0 +1,2 @@
+
+    addscript(18768675350, "Current Game","Support Solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20Solara788.lua", "https://scriptblox.com/script/Every-Click-+1-Jump-Support-Solara-20789")

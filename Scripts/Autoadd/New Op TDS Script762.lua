@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/BlindingLight01/BlindHubTowerDefenseSimulator/refs/heads/main/Tower%20Defense%20Simulator')))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-kj-script-new-and-bypass-15958"))()

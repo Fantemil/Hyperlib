@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1dontgiveaf/NSExpression/main/Outline%20ESP", true))()

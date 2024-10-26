@@ -1,0 +1,2 @@
+
+    addscript(10169939430, "Current Game","Very Op admin cmds", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20Op%20admin%20cmds756.lua", "https://scriptblox.com/script/Superhero-Universe-Battlegrounds-Very-Op-admin-cmds-18333")

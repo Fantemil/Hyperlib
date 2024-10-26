@@ -1,0 +1,2 @@
+
+    addscript(5094651510, "Current Game","SolixHub Demon Fall", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub%20Demon%20Fall763.lua", "https://scriptblox.com/script/Demonfall-SolixHub-Demon-Fall-20362")

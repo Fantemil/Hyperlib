@@ -18,3 +18,9 @@ addscript(9772878203, "Current Game","raise a floppa 2 AUTOFARM", "Uploaded by g
                                 
 addscriptexist(9772878203, "Flopp utofrm", "Uploaded by Bakon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Flopp%20utofrm615.lua", "https://scriptblox.com/script/raise-a-floppa-2-4x-Cash-Flopp-utofrm-7710")
                                 
+    addscriptexist(9772878203, "uto collect gem", "Uploaded by all_with_chatgpt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20collect%20gem573.lua", "https://scriptblox.com/script/gold-update-raise-a-floppa-2-flpp-uto-collect-gems-15812")
+                                    
+    addscriptexist(9772878203, "Simple flopp script", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20flopp%20script542.lua", "https://scriptblox.com/script/gold-update-raise-a-floppa-2-Simple-flopp-script-15096")
+                                    
+    addscriptexist(9772878203, "Simple flopp script with GUI", "Uploaded by Dustin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20flopp%20script%20with%20GUI7.lua", "https://scriptblox.com/script/gold-update-raise-a-floppa-2-Simple-flopp-script-with-GUI-15142")
+                                    

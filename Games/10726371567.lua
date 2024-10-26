@@ -1,0 +1,2 @@
+
+    addscript(10726371567, "Current Game","Get all simps", "Uploaded by mustafasbuisnessema on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20simps164.lua", "https://scriptblox.com/script/Find-The-Simpsons-263-Script-18297")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdminEvilDRagon/Eating-sim/main/EatingSim.lua", true))()

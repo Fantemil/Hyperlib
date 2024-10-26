@@ -1,0 +1,4 @@
+
+    addscript(17847295790, "Current Game","Fast Auto Farm Works in Solara", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Auto%20Farm%20Works%20in%20Solara752.lua", "https://scriptblox.com/script/UPD-1-+-2x-Anime-Ascensions-Simulator-Fast-Auto-Farm-Works-in-Solara-16727")
+    addscriptexist(17847295790, "SCRIPT Nami Hub Working All Executors", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20Nami%20Hub%20Working%20All%20Executors319.lua", "https://scriptblox.com/script/Update-1-Anime-Ascensions-Simulator-SCRIPT-Nami-Hub-Working-All-Executors-16782")
+                                    

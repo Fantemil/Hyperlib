@@ -1,0 +1,2 @@
+
+    addscript(11713882653, "Current Game","very fast auto", "Uploaded by Hamza28 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20fast%20auto580.lua", "https://scriptblox.com/script/Roblox-Cookie-Clicker-SUMMER-EVENT-very-fast-auto-18768")

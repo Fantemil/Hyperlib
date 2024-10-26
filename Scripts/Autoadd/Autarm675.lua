@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lemuri4/lemuriscript/main/leg%20of%20speed.lua"))()

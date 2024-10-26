@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/Ab59mka/refs/heads/main/Slapbattle"))()

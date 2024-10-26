@@ -1,0 +1,1 @@
+while true do local args = { [1] = true, [2] = true } game:GetService("ReplicatedStorage").Events.Spin:InvokeServer(unpack(args)) task.wait(0) end

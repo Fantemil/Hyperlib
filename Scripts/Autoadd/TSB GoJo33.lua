@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FoiLONE/Gojo-Moveset-TSB-by-Raga/main/1725724019929-Gojo.txt"))()

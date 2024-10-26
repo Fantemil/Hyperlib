@@ -1,0 +1,2 @@
+
+    addscript(13713735813, "Current Game","autofarm", "Uploaded by scriptbloxuser22 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm728.lua", "https://scriptblox.com/script/The-Robux-Roulette-autofarm-14470")

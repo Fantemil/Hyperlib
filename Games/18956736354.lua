@@ -1,0 +1,2 @@
+
+    addscript(18956736354, "Current Game","SCRIPT NAMI HUB", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20NAMI%20HUB162.lua", "https://scriptblox.com/script/Anime-Slashing-Simulator-SCRIPT-NAMI-HUB-19904")

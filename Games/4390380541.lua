@@ -4,3 +4,5 @@ addscriptexist(4390380541, "VERY OP AUTO KILL MOB Copy the script before i delet
                                 
     addscriptexist(4390380541, "OP to farm for this game", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20to%20farm%20for%20this%20game132.lua", "https://scriptblox.com/script/Rumble-Quest-OP-to-farm-for-this-game-7854")
                                     
+    addscriptexist(4390380541, "Auto Dungeon", "Uploaded by filthydsr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Dungeon228.lua", "https://scriptblox.com/script/Rumble-Quest-Auto-Dungeon-12244")
+                                    

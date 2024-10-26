@@ -1,0 +1,2 @@
+
+    addscript(15572953527, "Current Game","KPixels", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KPixels264.lua", "https://scriptblox.com/script/The-Oldest-View-KPixels-10389")

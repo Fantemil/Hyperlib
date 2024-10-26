@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pizzameboi/pizzameboi/refs/heads/main/wizardsim'))()

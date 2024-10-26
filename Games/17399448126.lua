@@ -1,0 +1,2 @@
+
+    addscript(17399448126, "Current Game","Auto Farm", "Uploaded by Kazuyaxdd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm486.lua", "https://scriptblox.com/script/COLLECT-STARS-FOR-UGC-Auto-13964")

@@ -1,0 +1,2 @@
+
+    addscript(83648404252370, "Current Game","Inf money inf bp insta kill all badges and much more", "Uploaded by ItsNotTomato on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money%20inf%20bp%20insta%20kill%20all%20badges%20and%20much%20more287.lua", "https://scriptblox.com/script/Pokemon-or-Project-ULTIMA-NEW-CODES-Inf-money-inf-bp-insta-kill-all-badges-and-much-more-17795")

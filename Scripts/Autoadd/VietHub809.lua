@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/viet452009/VietHub/main/Loading.Lua"))()

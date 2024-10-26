@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AxolotlLib/cathub/refs/heads/main/bak%C3%A9.lua"))()

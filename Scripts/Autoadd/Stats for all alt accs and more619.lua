@@ -1,0 +1,1 @@
+https://adiduspl.pl

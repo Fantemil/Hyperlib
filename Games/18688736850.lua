@@ -1,0 +1,2 @@
+
+    addscript(18688736850, "Current Game","Faster farm", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Faster%20farm958.lua", "https://scriptblox.com/script/Longest-Conveyor-Tycoon-Faster-farm-17333")

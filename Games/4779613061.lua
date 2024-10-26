@@ -1,0 +1,2 @@
+
+    addscript(4779613061, "Current Game","Script vartoli Script", "Uploaded by oz49 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20vartoli%20Script416.lua", "https://scriptblox.com/script/South-London-2-HUGE-UPDATE-SOON-Script-vartoli-15814")

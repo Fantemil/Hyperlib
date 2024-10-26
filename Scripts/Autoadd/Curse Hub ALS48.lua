@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubALS/main/Anime%20Last%20Stand"))()

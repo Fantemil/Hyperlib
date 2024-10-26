@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/scarlet1837/a/main/Da%20hood%20aim%20lock"))()

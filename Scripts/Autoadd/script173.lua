@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Zdayee/firebrandw/refs/heads/main/universal"))()

@@ -1,0 +1,2 @@
+
+    addscript(17485365503, "Current Game","Gui Script", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20Script445.lua", "https://scriptblox.com/script/Find-The-Powers-160-Gui-Script-14401")

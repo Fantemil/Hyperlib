@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiam0i/Zub-Hub/main/Xiam0i/Tower%20Of%20Jump"))()

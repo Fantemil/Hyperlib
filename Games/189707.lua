@@ -26,3 +26,83 @@ addscriptexist(189707, "Choose Map NoFall WaterWalk", "Uploaded by weiny on scri
                                     
     addscriptexist(189707, "Six Menu", "Uploaded by ySixx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Six%20Menu320.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Six-Menu-9854")
                                     
+    addscriptexist(189707, "Sky hub", "Uploaded by LilDemonNoob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sky%20hub142.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Sky-hub-18062")
+                                    
+    addscriptexist(189707, "AHHH", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AHHH42.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-AHHH-11279")
+                                    
+    addscriptexist(189707, "Free Hat giver", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Hat%20giver135.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Free-Hat-giver-11472")
+                                    
+    addscriptexist(189707, "ssss", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ssss793.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-ssss-12933")
+                                    
+    addscriptexist(189707, "NDS best script", "Uploaded by Gotbrekingrulestreak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NDS%20best%20script370.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-NDS-best-script-16862")
+                                    
+    addscriptexist(189707, "Tbao Hub", "Uploaded by thaibao7444 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20Hub931.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Tbao-Hub-16822")
+                                    
+    addscriptexist(189707, "Universal Rochips panel v0 3", "Uploaded by Gotbrekingrulestreak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Universal%20Rochips%20panel%20v0%203563.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Universal-Rochips-panel-v0-3-11358")
+                                    
+    addscriptexist(189707, "1X1X1X1 GUI PLS LIKE", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1X1X1X1%20GUI%20PLS%20LIKE589.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-1X1X1X1-GUI-PLS-LIKE-11504")
+                                    
+    addscriptexist(189707, "fe part grabber", "Uploaded by adamarsanoukaev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fe%20part%20grabber256.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-fe-part-grabber-13681")
+                                    
+    addscriptexist(189707, "Kurdish script", "Uploaded by Kurdish_script on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kurdish%20script799.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Kurdish-script-13577")
+                                    
+    addscriptexist(189707, "OP Script", "Uploaded by Nevcit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Script902.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-OP-Script-12371")
+                                    
+    addscriptexist(189707, "c00lgui Fe", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/c00lgui%20Fe882.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-c00lgui-Fe-11212")
+                                    
+    addscriptexist(189707, "get free hunt badge", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20free%20hunt%20badge996.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-get-free-hunt-badge-11298")
+                                    
+    addscriptexist(189707, "Rochips Panel Nds", "Uploaded by Gotbrekingrulestreak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rochips%20Panel%20Nds903.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Rochips-Panel-Nds-12913")
+                                    
+    addscriptexist(189707, "KAWAII MAGNET FIXED VERSION", "Uploaded by nora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KAWAII%20MAGNET%20FIXED%20VERSION192.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-KAWAII-MAGNET-FIXED-VERSION-18857")
+                                    
+    addscriptexist(189707, "No fall damage 2024", "Uploaded by farhatt09 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20fall%20damage%202024875.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-No-fall-damage-2024-16785")
+                                    
+    addscriptexist(189707, "LiverMods", "Uploaded by Master on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LiverMods247.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-LiverMods-12915")
+                                    
+    addscriptexist(189707, "FFF", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FFF450.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-FFF-11473")
+                                    
+    addscriptexist(189707, "NDS Lunar hub  Fixed", "Uploaded by ATT3X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NDS%20Lunar%20hub%20%20Fixed614.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-NDS-Lunar-hub-Fixed-12365")
+                                    
+    addscriptexist(189707, "NDS lunar hub", "Uploaded by ATT3X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NDS%20lunar%20hub148.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-NDS-lunar-hub-12350")
+                                    
+    addscriptexist(189707, "Zephyr Surv1val N4tural D1sasters", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Surv1val%20N4tural%20D1sasters0.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Zephyr-Surv1val-N4tural-D1sasters-18522")
+                                    
+    addscriptexist(189707, "cry", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cry999.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-cry-11476")
+                                    
+    addscriptexist(189707, "asdasdasdasdasdasd", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/asdasdasdasdasdasd425.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-asdasdasdasdasdasd-10918")
+                                    
+    addscriptexist(189707, "Chat bypass", "Uploaded by jointodayteamwt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Chat%20bypass536.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Chat-bypass-15988")
+                                    
+    addscriptexist(189707, "Vgxmod Hub", "Uploaded by Vgxmod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vgxmod%20Hub229.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Vgxmod-Hub-16120")
+                                    
+    addscriptexist(189707, "IncognitoChat V277", "Uploaded by YTeber112 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/IncognitoChat%20V277719.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-IncognitoChat-V2-15778")
+                                    
+    addscriptexist(189707, "Antares Hub", "Uploaded by Dsw1s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Antares%20Hub239.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Antares-Hub-13906")
+                                    
+    addscriptexist(189707, "script SOLARA SUPPORTED", "Uploaded by e1dar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20SOLARA%20SUPPORTED787.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-script-SOLARA-SUPPORTED-15084")
+                                    
+    addscriptexist(189707, "N D Hub", "Uploaded by THE_VSHUNT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/N%20D%20Hub335.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Hub-13642")
+                                    
+    addscriptexist(189707, "Zephyr V2 N4tural D1saster SurvivaI", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20V2%20N4tural%20D1saster%20SurvivaI728.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Zephyr-V2-N4tural-D1saster-SurvivaI-19085")
+                                    
+    addscriptexist(189707, "fling script universal", "Uploaded by wafzthkin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fling%20script%20universal983.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-fling-script-universal-19118")
+                                    
+    addscriptexist(189707, "Nds V1", "Uploaded by aabbaaii on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nds%20V1589.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Nds-V1-19343")
+                                    
+    addscriptexist(189707, "Katers NDS Hub", "Uploaded by Katers_BIG_CAT_MAN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Katers%20NDS%20Hub873.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Katers-NDS-Hub-19533")
+                                    
+    addscriptexist(189707, "op doesnt work on solara sadly again", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20doesnt%20work%20on%20solara%20sadly%20again410.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-op-doesnt-work-on-solara-sadly-again-20138")
+                                    
+    addscriptexist(189707, "on WalkSpeed JumpPower Gravity", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/on%20WalkSpeed%20JumpPower%20Gravity389.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-on-WalkSpeed-JumpPower-Gravity-20223")
+                                    
+    addscriptexist(189707, "NZH EQUIP TEAM ETHUS", "Uploaded by EThus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NZH%20EQUIP%20TEAM%20ETHUS286.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-NZH-EQUIP-TEAM-ETHUS-20400")
+                                    
+    addscriptexist(189707, "Bring all parts", "Uploaded by SederYTTV on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bring%20all%20parts979.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Bring-all-parts-20724")
+                                    
+    addscriptexist(189707, "AUTO FARM GUI", "Uploaded by neonware on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20FARM%20GUI824.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-AUTO-FARM-GUI-20860")
+                                    
+    addscriptexist(189707, "Anti fall damage", "Uploaded by 0vdi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20fall%20damage529.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Anti-fall-damage-20882")
+                                    
+    addscriptexist(189707, "Solara Crown Script FE", "Uploaded by Kyuu7UIB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solara%20Crown%20Script%20FE847.lua", "https://scriptblox.com/script/Natural-Disaster-Survival-Solara-Crown-Script-FE-20923")
+                                    

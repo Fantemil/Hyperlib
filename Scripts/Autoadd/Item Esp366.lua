@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lemuri4/lemuriscript/main/Rainbow%20Friends.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(15147661794, "Current Game","THE GAMES Get Badges in", "Uploaded by miner_va on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20GAMES%20Get%20Badges%20in447.lua", "https://scriptblox.com/script/Horse-Race-Simulator-The-Games-THE-GAMES-Get-Badges-in-16560")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/Nouwpq39xk/refs/heads/main/NewMM2"))()

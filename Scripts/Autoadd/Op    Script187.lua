@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubDevasOfCreation/main/Devas%20Of%20Creation"))()

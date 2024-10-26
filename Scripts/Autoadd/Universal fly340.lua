@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xxtan31/UniversalFly/main/Protected_8004395039106538.lua.txt"))()

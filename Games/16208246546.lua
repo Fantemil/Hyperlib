@@ -1,0 +1,2 @@
+
+    addscript(16208246546, "Current Game","TbaoHub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TbaoHub786.lua", "https://scriptblox.com/script/nico's-nextbots-legacy-TbaoHub-12659")

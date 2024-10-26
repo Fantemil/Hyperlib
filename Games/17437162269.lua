@@ -1,0 +1,2 @@
+
+    addscript(17437162269, "Current Game","op", "Uploaded by Flopa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op735.lua", "https://scriptblox.com/script/Singing-Toilets-Tower-Defense-Update-1!-op-13131")

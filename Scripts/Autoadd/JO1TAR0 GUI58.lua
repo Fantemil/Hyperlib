@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BOSSJKL2/JOTAR0GUI/main/JO1TAR0GUI"))()

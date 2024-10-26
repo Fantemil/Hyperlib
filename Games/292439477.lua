@@ -46,3 +46,35 @@ addscriptexist(292439477, "Phantom Forces AimBot ESP", "Uploaded by Superbia on 
                                 
 addscriptexist(292439477, "Phantom Forces  Gun Mods OPEN SOURCE", "Uploaded by ShyShai on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantom%20Forces%20%20Gun%20Mods%20OPEN%20SOURCE922.lua", "https://rscripts.net/script/phantom-forces-gun-mods-open-source-3344")
                                 
+    addscriptexist(292439477, "OP   ESP", "Uploaded by AimlockDev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20ESP911.lua", "https://scriptblox.com/script/Phantom-Forces-OP-ESP-17347")
+                                    
+    addscriptexist(292439477, "Silent Aim OP and ESP LEGIT", "Uploaded by w4zey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20Aim%20OP%20and%20ESP%20LEGIT209.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-Silent-Aim-OP-and-ESP-LEGIT-15173")
+                                    
+    addscriptexist(292439477, "Eternal", "Uploaded by Eternal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eternal226.lua", "https://scriptblox.com/script/Phantom-Forces-Eternal-17157")
+                                    
+    addscriptexist(292439477, "Force Best Script RN", "Uploaded by Mojo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Force%20Best%20Script%20RN63.lua", "https://scriptblox.com/script/Phantom-Forces-PC-Force-Best-Script-RN-12436")
+                                    
+    addscriptexist(292439477, "AIMBOTESP WORK ON SOLARA", "Uploaded by ZUBIA_SRIPT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBOTESP%20WORK%20ON%20SOLARA468.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-AIMBOT-AND-ESP-14854")
+                                    
+    addscriptexist(292439477, " H A C K", "Uploaded by TheGoatedTeeYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20H%20A%20C%20K426.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-****-H-A-C-K-15121")
+                                    
+    addscriptexist(292439477, "Thunder Client Lite", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20Lite332.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-Thunder-Client-Lite-14293")
+                                    
+    addscriptexist(292439477, "PATCHED TILL SOLARA SUPPORT", "Uploaded by kylosilly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PATCHED%20TILL%20SOLARA%20SUPPORT706.lua", "https://scriptblox.com/script/Phantom-Forces-PC-Eclipse-lol-script-12936")
+                                    
+    addscriptexist(292439477, "AIMBOT WALL CHECK TEAM CHECK ETC SOLARA", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBOT%20WALL%20CHECK%20TEAM%20CHECK%20ETC%20SOLARA686.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-AIMBOT-WALL-CHECK-TEAM-CHECK-ETC-SOLARA-14873")
+                                    
+    addscriptexist(292439477, "SLIENT AIM AND ESP", "Uploaded by SCOOTERISFCOODER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SLIENT%20AIM%20AND%20ESP963.lua", "https://scriptblox.com/script/Phantom-Forces-PC-SLIENT-AIM-AND-ESP-12390")
+                                    
+    addscriptexist(292439477, "Silent aim and ESP", "Uploaded by Michi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent%20aim%20and%20ESP990.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-Silent-aim-and-ESP-13588")
+                                    
+    addscriptexist(292439477, "OP solara executor all", "Uploaded by KING_1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20solara%20executor%20all47.lua", "https://scriptblox.com/script/Keybinds-Update!-Phantom-Forces-PC-OP-solara-executor-all-14897")
+                                    
+    addscriptexist(292439477, "unlock all fe", "Uploaded by bitdancer123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/unlock%20all%20fe335.lua", "https://scriptblox.com/script/Phantom-Forces-unlock-all-fe-17679")
+                                    
+    addscriptexist(292439477, "iHub", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/iHub847.lua", "https://scriptblox.com/script/Phantom-Forces-PC-iHub-11695")
+                                    
+    addscriptexist(292439477, " lite", "Uploaded by San1na on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20lite133.lua", "https://scriptblox.com/script/M60-REVAMP-Phantom-Forces-*-lite-19340")
+                                    
+    addscriptexist(292439477, "OP   REDACTED", "Uploaded by therealwither on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20REDACTED733.lua", "https://scriptblox.com/script/M60-Revamp!-Phantom-Forces-OP-REDACTED-20662")
+                                    

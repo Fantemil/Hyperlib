@@ -18,3 +18,29 @@ addscriptexist(893973440, "Semi Universal", "Uploaded by Blade on scriptblox.com
                                     
     addscriptexist(893973440, "OP Auto Hack Computers", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Auto%20Hack%20Computers963.lua", "https://scriptblox.com/script/Flee-the-Facility-OP-AutoFarm-ESP-NoClip-Infinite-Jump-GUI-7681")
                                     
+    addscriptexist(893973440, "Kaov Hub", "Uploaded by KoryxhaKaov77 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kaov%20Hub78.lua", "https://scriptblox.com/script/Flee-the-Facility-Kaov-Hub-16348")
+                                    
+    addscriptexist(893973440, "Auto Solve Computers and Noclip", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Solve%20Computers%20and%20Noclip817.lua", "https://scriptblox.com/script/Flee-the-Facility-Auto-Solve-Computers-and-Noclip-11236")
+                                    
+    addscriptexist(893973440, "Auto Computers and Player Esp", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Computers%20and%20Player%20Esp610.lua", "https://scriptblox.com/script/Flee-the-Facility-Auto-Computers-and-Player-Esp-10947")
+                                    
+    addscriptexist(893973440, "Tiger eye PC edition", "Uploaded by Kosovo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20eye%20PC%20edition191.lua", "https://scriptblox.com/script/Flee-the-Facility-Tiger-eye-PC-edition-12429")
+                                    
+    addscriptexist(893973440, "99 Hub    By Ewerton99", "Uploaded by Ewerton99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/99%20Hub%20%20%20%20By%20Ewerton99991.lua", "https://scriptblox.com/script/Flee-the-Facility-99-Hub-By-Ewerton99-17349")
+                                    
+    addscriptexist(893973440, "Splashen Hub", "Uploaded by DoodlingGamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Splashen%20Hub520.lua", "https://scriptblox.com/script/Flee-the-Facility-Splashen-Hub-17604")
+                                    
+    addscriptexist(893973440, "feel   2024 best", "Uploaded by MRSCRIPT5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/feel%20%20%202024%20best859.lua", "https://scriptblox.com/script/Flee-the-Facility-feel-2024-best-17611")
+                                    
+    addscriptexist(893973440, "Koala Scripts", "Uploaded by KoalaGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Koala%20Scripts849.lua", "https://scriptblox.com/script/Flee-the-Facility-Koala-Scripts-17343")
+                                    
+    addscriptexist(893973440, "Rinns Hub", "Uploaded by Rinn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rinns%20Hub770.lua", "https://scriptblox.com/script/Flee-the-Facility-Rinns-Hub-18576")
+                                    
+    addscriptexist(893973440, "Aczois", "Uploaded by Aczois on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aczois965.lua", "https://scriptblox.com/script/Flee-the-Facility-Aczois-17755")
+                                    
+    addscriptexist(893973440, "YAFTFEM LEGACY", "Uploaded by Imperial on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/YAFTFEM%20LEGACY23.lua", "https://scriptblox.com/script/Flee-the-Facility-YAFTFEM-11844")
+                                    
+    addscriptexist(893973440, "AutoFarm Computers AND MORE", "Uploaded by pcallskeleton on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Computers%20AND%20MORE126.lua", "https://scriptblox.com/script/Flee-the-Facility-Flee-19888")
+                                    
+    addscriptexist(893973440, "Computer esp", "Uploaded by thebestpersol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Computer%20esp251.lua", "https://scriptblox.com/script/Flee-the-Facility-Computer-esp-20300")
+                                    

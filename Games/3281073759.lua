@@ -1,0 +1,2 @@
+
+    addscript(3281073759, "Current Game","all block drawer cam block canvas", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20block%20drawer%20cam%20block%20canvas772.lua", "https://scriptblox.com/script/Guess-the-drawing!-all-block-drawer-cam-block-canvas-12948")

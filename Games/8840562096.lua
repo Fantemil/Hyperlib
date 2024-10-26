@@ -1,0 +1,2 @@
+
+    addscript(8840562096, "Current Game","ESP TEAM CHECK", "Uploaded by Duza_Klapa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20TEAM%20CHECK779.lua", "https://scriptblox.com/script/Airship-Assault-UPDATE-ESP-TEAM-CHECK-11964")

@@ -1,2 +1,4 @@
 
 addscript(61846006, "Current Game","Super Simon Says  Never Die Always Win As Simon Lag Server", "Uploaded by Andot on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Simon%20Says%20%20Never%20Die%20Always%20Win%20As%20Simon%20Lag%20Server905.lua", "https://rscripts.net/script/super-simon-says-never-die-always-win-as-simon-lag-server-4040")
+    addscriptexist(61846006, "Lag Serv  ModeJump out of chair musicial chairs auto win", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Serv%20%20ModeJump%20out%20of%20chair%20musicial%20chairs%20auto%20win902.lua", "https://scriptblox.com/script/Super-Simon-Says-Lag-Serv-***-ModeJump-out-of-chair-musicial-chairs-auto-win-12387")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Emircxy/Lear/main/Life%20%C4%B0n%20Prison'))()

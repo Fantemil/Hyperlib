@@ -1,0 +1,2 @@
+
+    addscript(6938764986, "Current Game","Auto contracts", "Uploaded by KniazianLuk2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20contracts861.lua", "https://scriptblox.com/script/Airplane-Simulator-Auto-contracts-18892")

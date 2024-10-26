@@ -1,0 +1,2 @@
+
+    addscript(14365161456, "Current Game","ESP OpenSource", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20OpenSource916.lua", "https://scriptblox.com/script/Jaws:-Infested-Waters-ESP-OpenSource-11372")

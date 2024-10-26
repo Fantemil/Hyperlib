@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/XenonLoader/Loaders/refs/heads/main/No%20loader/Every%20Click%20%2B1%20Jump.lua"))()

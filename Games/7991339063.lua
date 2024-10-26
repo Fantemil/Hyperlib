@@ -22,3 +22,7 @@ addscript(7991339063, "Current Game","Rainbow friends OP Script", "Uploaded by l
                                     
     addscriptexist(7991339063, "Item Esp Monster Esp Local Player", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Item%20Esp%20Monster%20Esp%20Local%20Player31.lua", "https://scriptblox.com/script/Rainbow-Friends-Item-Esp-Monster-Esp-Local-Player-9397")
                                     
+    addscriptexist(7991339063, "chapter 2", "Uploaded by roygod02 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/chapter%202313.lua", "https://scriptblox.com/script/Rainbow-Friends-chapter-2-17936")
+                                    
+    addscriptexist(7991339063, "Rocks hub beta", "Uploaded by Scout7ixs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocks%20hub%20beta264.lua", "https://scriptblox.com/script/Rainbow-Friends-Rocks-hub-beta-15087")
+                                    

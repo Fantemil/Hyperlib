@@ -1,0 +1,2 @@
+
+    addscript(16413548961, "Current Game","Unlock Server Shutdown", "Uploaded by dizi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20Server%20Shutdown770.lua", "https://scriptblox.com/script/I-Heard-It-Too-RUN-(Solo-Project)-Unlock-Server-Shutdown-16265")

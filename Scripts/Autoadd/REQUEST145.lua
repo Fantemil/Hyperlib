@@ -1,0 +1,1 @@
+Just looking for a script for this game. Couldnt find any, game doesnt exactly have huge anticheat in it,so any "kill all" would be really nice.

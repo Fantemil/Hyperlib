@@ -1,0 +1,2 @@
+
+    addscript(16141868428, "Current Game","Spam nickname and about and afk", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spam%20nickname%20and%20about%20and%20afk359.lua", "https://scriptblox.com/script/Find-Your-Match-NYC-Spam-nickname-and-about-and-afk-11960")

@@ -14,3 +14,15 @@ addscriptexist(6677985923, "inf money", "Uploaded by pipe on scriptblox.com", "h
                                     
     addscriptexist(6677985923, "INF money", "Uploaded by Seantherandom24 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20money129.lua", "https://scriptblox.com/script/X4-Millionaire-Empire-Tycoon-INF-money-9353")
                                     
+    addscriptexist(6677985923, "infinite money", "Uploaded by jayy0688 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20money729.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-infinite-money-16907")
+                                    
+    addscriptexist(6677985923, "Inf Money", "Uploaded by indonesiangamer777 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money42.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-Inf-Money-18813")
+                                    
+    addscriptexist(6677985923, "Op semi inf money", "Uploaded by Content_boy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20semi%20inf%20money738.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-Op-semi-inf-money-17042")
+                                    
+    addscriptexist(6677985923, "Infinite Money", "Uploaded by fortinaitis73 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money311.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-Infinite-Money-17057")
+                                    
+    addscriptexist(6677985923, "with source code", "Uploaded by jnbf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/with%20source%20code287.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-meow-17523")
+                                    
+    addscriptexist(6677985923, "Cash inf gui", "Uploaded by 0000000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cash%20inf%20gui872.lua", "https://scriptblox.com/script/Millionaire-Empire-Tycoon-Cash-inf-18853")
+                                    

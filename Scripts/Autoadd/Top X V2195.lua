@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GearV4/Top-X-V2/main/Top%20X%20V2%20By%20GearV4"))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imalwibest/Gladiator-Simulator/refs/heads/main/Gladiator%20Main.lua"))()

@@ -12,3 +12,11 @@ addscriptexist(147848991, "Ninj script", "Uploaded by GuyFromFortnite on scriptb
                                 
     addscriptexist(147848991, "mny fetures   prkour ninj", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/mny%20fetures%20%20%20prkour%20ninj922.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-mny-fetures-prkour-ninj-9184")
                                     
+    addscriptexist(147848991, "uto Frm", "Uploaded by RIOT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm768.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-uto-Frm-15726")
+                                    
+    addscriptexist(147848991, "Prkour ninj uto kill script", "Uploaded by Crispy_chicken on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Prkour%20ninj%20uto%20kill%20script222.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-PrKour-ninj-uto-kill-script-11268")
+                                    
+    addscriptexist(147848991, "Emerledwre close keybind is p", "Uploaded by YingAndYang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emerledwre%20close%20keybind%20is%20p17.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-Emerledwre-prkour-ninj-st-gui-14434")
+                                    
+    addscriptexist(147848991, "KILL LL OPEN SOURCE", "Uploaded by RIOT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20LL%20OPEN%20SOURCE402.lua", "https://scriptblox.com/script/Be-A-Parkour-Ninja-KILL-LL-OPEN-SOURCE-15678")
+                                    

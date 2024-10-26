@@ -1,0 +1,2 @@
+
+    addscript(7541029066, "Current Game","inf ammo", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20ammo84.lua", "https://scriptblox.com/script/Squid-Game-with-GUNS-inf-ammo-16746")

@@ -1,0 +1,2 @@
+
+    addscript(14753017334, "Current Game","Touch Pad", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Touch%20Pad385.lua", "https://scriptblox.com/script/obby-for-free-owner-admin-Touch-Pad-18126")

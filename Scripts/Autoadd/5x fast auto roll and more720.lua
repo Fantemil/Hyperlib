@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CrocoHub/Main/refs/heads/main/burial.lua'))()

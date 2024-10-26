@@ -48,3 +48,21 @@ addscriptexist(4616652839, "NEW Shindo Life INFINITE Jump Script ", "Uploaded by
                                 
 addscriptexist(4616652839, "New Shindo Life Script Platinium Hub", "Uploaded by Drazox on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Shindo%20Life%20Script%20Platinium%20Hub674.lua", "https://rscripts.net/script/new-shindo-life-script-platinium-hub-3072")
                                 
+    addscriptexist(4616652839, "premier hub  join dsc for 100 scripts", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/premier%20hub%20%20join%20dsc%20for%20100%20scripts50.lua", "https://scriptblox.com/script/Shindo-Life-237-premier-hub-join-dsc-for-100-scripts-15904")
+                                    
+    addscriptexist(4616652839, "ESP egg", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20egg69.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-ESP-egg-11314")
+                                    
+    addscriptexist(4616652839, "Script request", "Uploaded by Justsomeuser on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request289.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-Script-request-11309")
+                                    
+    addscriptexist(4616652839, "Project Nexus SL Hunt", "Uploaded by Dappz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Nexus%20SL%20Hunt427.lua", "https://scriptblox.com/script/Shindo-Life-The-Hunt-Project-Nexus-SL-Hunt-11331")
+                                    
+    addscriptexist(4616652839, "script   inf rellscoin", "Uploaded by *s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20%20%20inf%20rellscoin190.lua", "https://scriptblox.com/script/Shindo-Life-238-script-inf-rellscoin-19540")
+                                    
+    addscriptexist(4616652839, "Auto Attack", "Uploaded by DeNy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Attack950.lua", "https://scriptblox.com/script/Shindo-Life-238-Auto-Attack-19661")
+                                    
+    addscriptexist(4616652839, "SolixHub", "Uploaded by jotao on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SolixHub361.lua", "https://scriptblox.com/script/Shindo-Life-238-SolixHub-20361")
+                                    
+    addscriptexist(4616652839, "The Auto Attack script Auto farm Jin farm Boss farm", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Auto%20Attack%20script%20Auto%20farm%20Jin%20farm%20Boss%20farm216.lua", "https://scriptblox.com/script/Shindo-Life-238-The-Auto-Attack-script-Auto-farm-Jin-farm-Boss-farm-20864")
+                                    
+    addscriptexist(4616652839, "Free   Script SolixHub", "Uploaded by solixhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20%20%20Script%20SolixHub288.lua", "https://scriptblox.com/script/Shindo-Life-238-Free-Script-SolixHub-21040")
+                                    

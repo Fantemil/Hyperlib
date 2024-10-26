@@ -1,0 +1,4 @@
+
+    addscript(15755895375, "Current Game","Auto Check Point And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Check%20Point%20And%20More537.lua", "https://scriptblox.com/script/UGC!-Doodle-Obby-Auto-Check-Point-And-More-12800")
+    addscriptexist(15755895375, "Infinite Toad", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Toad811.lua", "https://scriptblox.com/script/Doodle-Obby-Infinite-Toad-17933")
+                                    

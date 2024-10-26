@@ -1,0 +1,2 @@
+
+    addscript(3522803956, "Current Game","Request script troll of girls", "Uploaded by Billysearry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20script%20troll%20of%20girls312.lua", "https://scriptblox.com/script/De-Pride-Isle-Sanatorium-Request-script-troll-of-girls-20171")

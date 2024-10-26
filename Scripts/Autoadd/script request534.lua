@@ -1,0 +1,3 @@
+--[[
+i would really want a script for this game that disables the anticheat in the game for the admin morphs. some admin morphs' anticheat can easily be bypassed by flying into the morph pad with high speeds, but some will not allow you to become the morph no matter what. what the anticheat does is simply kick you from the game, although i want a script that disables the anticheat so you can become all of the morphs without being kicked. thank you :)
+]]

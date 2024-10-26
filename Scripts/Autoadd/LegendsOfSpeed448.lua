@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/Legends_Of_Speed/main/README.md"),true))()

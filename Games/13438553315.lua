@@ -10,3 +10,13 @@ addscriptexist(13438553315, "Dw Op Script V2", "Uploaded by ZaNoob023621 on scri
                                     
     addscriptexist(13438553315, "Sases Script Hub", "Uploaded by midknightaprotogen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sases%20Script%20Hub478.lua", "https://scriptblox.com/script/Decaying-Winter-Sases-Script-Hub-7694")
                                     
+    addscriptexist(13438553315, "Scav hub", "Uploaded by Idonthavename on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scav%20hub329.lua", "https://scriptblox.com/script/Decaying-Winter-Scav-hub-13799")
+                                    
+    addscriptexist(13438553315, "Scav Hub UPDATED", "Uploaded by Idonthavename on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scav%20Hub%20UPDATED210.lua", "https://scriptblox.com/script/Decaying-Winter-Scav-Hub-UPDATED-14491")
+                                    
+    addscriptexist(13438553315, "Scav Hub Cracked Best Script works on solara", "Uploaded by nokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scav%20Hub%20Cracked%20Best%20Script%20works%20on%20solara151.lua", "https://scriptblox.com/script/Decaying-Winter-Scav-Hub-Cracked-Best-Script-works-on-solara-17185")
+                                    
+    addscriptexist(13438553315, "Scav hub solara support", "Uploaded by Idonthavename on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scav%20hub%20solara%20support680.lua", "https://scriptblox.com/script/Decaying-Winter-Scav-hub-13723")
+                                    
+    addscriptexist(13438553315, "Mischief ALPHA", "Uploaded by SinoXde on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mischief%20ALPHA818.lua", "https://scriptblox.com/script/Decaying-Winter-Mischief-ALPHA-20713")
+                                    

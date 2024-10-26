@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.PlayerGui.NpcQuest.Enabled=true

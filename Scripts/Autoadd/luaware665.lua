@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/lua-ware/luawarev2/main/Launcher.lua"),true))()

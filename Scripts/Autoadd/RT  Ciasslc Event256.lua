@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/1d514e28b035cf37b61a335267909801/raw/cfbd0a41f88dd7fbccfe918ac68993078eca0737/Roblox%2520CLASSIC%2520%25F0%259F%2598%258E%2520Restaurant%2520Tycoon%25202"))()

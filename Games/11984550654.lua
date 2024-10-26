@@ -1,0 +1,2 @@
+
+    addscript(11984550654, "Current Game","Inf Money", "Uploaded by Zous on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money381.lua", "https://scriptblox.com/script/alrbya-kshth-(rwl-blay)-Saudi-Kashtah-Inf-Money-20866")

@@ -1,0 +1,2 @@
+
+    addscript(17070338269, "Current Game","Quick Roll", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Quick%20Roll389.lua", "https://scriptblox.com/script/Fudge's-RNG-EQUIPPING-Quick-Roll-15033")

@@ -1,0 +1,1 @@
+The script is in >>>>> https://discord.gg/GNa2BcJXzb

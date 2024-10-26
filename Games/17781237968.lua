@@ -1,0 +1,8 @@
+
+    addscript(17781237968, "Current Game","NEW VERSION ON PROFILE", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NEW%20VERSION%20ON%20PROFILE673.lua", "https://scriptblox.com/script/Tycoon-But-One-Dropper-RELEASE-free-luck-boost-16690")
+    addscriptexist(17781237968, "UPD Script n10", "Uploaded by R_10 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPD%20Script%20n10960.lua", "https://scriptblox.com/script/UPDATE-1-Tycoon-But-One-Dropper-UPD-Script-n10-17426")
+                                    
+    addscriptexist(17781237968, "FIXED free luck boost", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIXED%20free%20luck%20boost608.lua", "https://scriptblox.com/script/Tycoon-But-One-Dropper-RELEASE-FIXED-free-luck-boost-17128")
+                                    
+    addscriptexist(17781237968, "GUI first OP auto farm I u will be in top if u use correctly", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20first%20OP%20auto%20farm%20I%20u%20will%20be%20in%20top%20if%20u%20use%20correctly666.lua", "https://scriptblox.com/script/Tycoon-But-One-Dropper-RELEASE-GUI-first-OP-auto-farm-I-u-will-be-in-top-if-u-use-correctly-17310")
+                                    

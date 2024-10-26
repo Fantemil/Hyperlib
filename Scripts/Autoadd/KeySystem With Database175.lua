@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Opboltejshshskidhdbd/Main/refs/heads/main/DbKeySystem.lua"))()

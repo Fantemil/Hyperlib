@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/RexISAwake/FootballFusion-FF2-Open-Src/refs/heads/main/Source%20Code')))()

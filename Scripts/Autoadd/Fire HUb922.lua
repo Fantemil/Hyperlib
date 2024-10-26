@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NotMooDy0/FireHub/refs/heads/main/Firehub"))()

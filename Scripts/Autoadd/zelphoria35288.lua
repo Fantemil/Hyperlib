@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync('https://raw.githubusercontent.com/Essenly/NoName-Hub/main/init.lua'))()

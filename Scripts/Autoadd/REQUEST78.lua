@@ -1,0 +1,3 @@
+--Would appreciate if someone could make a script for this game. 
+--I could pay for it as well. 
+--https://discordapp.com/users/419335738866401290/

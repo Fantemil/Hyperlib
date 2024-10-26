@@ -1,0 +1,2 @@
+
+    addscript(4786930269, "Current Game","Request script Girls city trolling", "Uploaded by Billysearry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20script%20Girls%20city%20trolling751.lua", "https://scriptblox.com/script/Eden-Orphan-Home-Request-script-Girls-city-trolling-20172")

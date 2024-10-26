@@ -1,0 +1,2 @@
+
+    addscript(16884010485, "Current Game","Script", "Uploaded by VateQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script219.lua", "https://scriptblox.com/script/Survive-Flight-871-ZOMBIE-mode-UPDATE-Script-16398")

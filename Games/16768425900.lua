@@ -1,0 +1,2 @@
+
+    addscript(16768425900, "Current Game","Patched", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Patched571.lua", "https://scriptblox.com/script/Kaizen-Battleground-FREE-KJ-17397")

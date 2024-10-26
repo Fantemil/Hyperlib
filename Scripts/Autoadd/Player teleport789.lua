@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://github.com/Telxr/Teleportica/blob/main/Telepo")))()

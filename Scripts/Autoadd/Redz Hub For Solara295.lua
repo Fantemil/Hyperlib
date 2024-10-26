@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/redz9999999/MultiScriptsAtOnceForSolara/refs/heads/main/EveryExecuterSupport"))()

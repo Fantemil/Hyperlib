@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Beat-obby-for-prize-Fly-gui-v3-20075"))()

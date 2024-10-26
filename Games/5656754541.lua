@@ -1,0 +1,2 @@
+
+    addscript(5656754541, "Current Game","request for script", "Uploaded by zaixuanzhang2728 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20for%20script911.lua", "https://scriptblox.com/script/World-Tower-Defense-v1.11.1-request-for-script-19657")

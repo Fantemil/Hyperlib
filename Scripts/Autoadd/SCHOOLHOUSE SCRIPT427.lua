@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Libraryu/Script-main/main/Script-Upload/Baldi's%20Basics%20(FIXED)")))()

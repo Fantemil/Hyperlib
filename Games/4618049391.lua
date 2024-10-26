@@ -1,0 +1,2 @@
+
+    addscript(4618049391, "Current Game","Auo Farm", "Uploaded by zhanzhengOL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auo%20Farm990.lua", "https://scriptblox.com/script/Update-V3.10-T-ang-County-Hebei-Auo-Farm-15577")

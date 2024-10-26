@@ -1,0 +1,2 @@
+
+    addscript(7817016260, "Current Game","Esp roles on what people is", "Uploaded by Rypxc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20roles%20on%20what%20people%20is304.lua", "https://scriptblox.com/script/Bloxston-Mystery-Esp-roles-on-what-people-is-14163")

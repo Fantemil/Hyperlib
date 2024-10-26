@@ -1,0 +1,2 @@
+
+    addscript(15136798574, "Current Game","Private Script No Stealies", "Uploaded by ItsSimplyGav on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Private%20Script%20No%20Stealies731.lua", "https://scriptblox.com/script/UPD-Oven-Tycoon-Private-Script-No-Stealies-10972")

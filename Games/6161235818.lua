@@ -1,2 +1,4 @@
 
 addscript(6161235818, "Current Game","Twisted Space Hub Autofarm", "Uploaded by Lucasfin000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Twisted%20Space%20Hub%20Autofarm739.lua", "https://scriptblox.com/script/Twisted-BETA-Twisted-Space-Hub-Autofarm-6123")
+    addscriptexist(6161235818, "Script Request", "Uploaded by schnabeltier on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request530.lua", "https://scriptblox.com/script/Twisted-BETA-Script-Request-20995")
+                                    

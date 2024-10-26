@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/swe7z/ordep-menu/main/init.lua", true))()

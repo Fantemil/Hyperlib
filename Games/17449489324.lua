@@ -1,0 +1,2 @@
+
+    addscript(17449489324, "Current Game","Request for Script", "Uploaded by Dante7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20for%20Script131.lua", "https://scriptblox.com/script/Alpha-Killstreak-Request-for-Script-19833")

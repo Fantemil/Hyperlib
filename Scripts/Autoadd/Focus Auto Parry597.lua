@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Miliudqq/Script/main/Ball%20(2)"))()

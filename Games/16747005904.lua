@@ -1,0 +1,2 @@
+
+    addscript(16747005904, "Current Game","AZURE MODDED UPDATED VERSION", "Uploaded by skeptical on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AZURE%20MODDED%20UPDATED%20VERSION760.lua", "https://scriptblox.com/script/(Free-Macro)-Dah-Aim-Trainer-AZURE-MODDED-UPDATED-VERSION-17842")

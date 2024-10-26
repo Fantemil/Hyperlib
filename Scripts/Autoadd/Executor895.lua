@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SubnauticaLaserMain/Executor/main/executor-test-alpha.lua', true))()

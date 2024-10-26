@@ -1,0 +1,2 @@
+
+    addscript(16327726828, "Current Game","Best Inf Power and Many Features", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Inf%20Power%20and%20Many%20Features420.lua", "https://scriptblox.com/script/Sword-Legends-Simulator-NEW-Best-Inf-Power-and-Many-Features-12827")

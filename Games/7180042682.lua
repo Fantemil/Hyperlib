@@ -12,3 +12,7 @@ addscriptexist(7180042682, "Find The Jammer Items Farm Event MT", "Uploaded by O
                                 
 addscriptexist(7180042682, "Autofarm autohop", "Uploaded by Smug on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20autohop487.lua", "https://scriptblox.com/script/BATTLESHIP!-Military-Tycoon-Autofarm-autohop-5910")
                                 
+    addscriptexist(7180042682, "OP FEATURES MrJack Script", "Uploaded by MrJack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FEATURES%20MrJack%20Script974.lua", "https://scriptblox.com/script/PATRIOT-Military-Tycoontm-OP-FEATURES-12334")
+                                    
+    addscriptexist(7180042682, "OP BEST SCRIPT", "Uploaded by nullisgangster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20BEST%20SCRIPT584.lua", "https://scriptblox.com/script/DESTROYER-Military-Tycoon-(r)-OP-BEST-SCRIPT-17722")
+                                    

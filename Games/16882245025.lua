@@ -1,0 +1,2 @@
+
+    addscript(16882245025, "Current Game","request", "Uploaded by subornunimpressively on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request809.lua", "https://scriptblox.com/script/UPD-3.8-Unknown-RNG-request-13616")

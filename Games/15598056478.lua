@@ -1,0 +1,4 @@
+
+    addscript(15598056478, "Current Game","NOCLIP V2 RECODE", "Uploaded by realbilly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NOCLIP%20V2%20RECODE42.lua", "https://scriptblox.com/script/EDITOR-Beat-Bounce-(Geometry-Dash)-NOCLIP-V2-RECODE-16840")
+    addscriptexist(15598056478, "Ez Complete", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Complete415.lua", "https://scriptblox.com/script/EDITOR-Beat-Bounce-(Geometry-Dash)-Ez-Complete-15229")
+                                    

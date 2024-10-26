@@ -1,0 +1,2 @@
+
+    addscript(17426134305, "Current Game","Inf win", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20win508.lua", "https://scriptblox.com/script/UGC-Pro-Soccer-Simulator-Inf-win-13699")

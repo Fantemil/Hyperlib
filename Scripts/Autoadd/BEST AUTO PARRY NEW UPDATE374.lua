@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/3345-a-i-n/blade-ball-ONTOP/refs/heads/main/bladeball-update"))()

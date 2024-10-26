@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/System2466S/ChatBypassers/main/Community"))();

@@ -1,0 +1,2 @@
+
+    addscript(16721806812, "Current Game","Best farM", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20farM143.lua", "https://scriptblox.com/script/UPD-Tongue-Battles-Best-farM-12986")

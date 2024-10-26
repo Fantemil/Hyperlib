@@ -1,0 +1,2 @@
+
+Please refrain from utilizing any scripts provided by Demonic Hub. These scripts exhibit uniformity in features and functionalities, indicative of a lack of diversity and originality. It is advisable to exercise caution as Demonic Hub appears to prioritize financial gain over quality and innovation. Therefore, it is recommended to avoid employing any scripts originating from Demonic Hub.

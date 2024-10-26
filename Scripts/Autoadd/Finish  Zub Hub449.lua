@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiam0i/Zub-Hub/main/Xiam0i/Easy%20Stud%20Jumps%20Obby"))()

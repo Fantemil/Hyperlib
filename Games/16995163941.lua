@@ -1,0 +1,2 @@
+
+    addscript(16995163941, "Current Game","Auto Collect All Crates", "Uploaded by Qovux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Collect%20All%20Crates231.lua", "https://scriptblox.com/script/UPD2-Chest-Rng-BETA-Automatically-Picks-up-best-every-second-12655")

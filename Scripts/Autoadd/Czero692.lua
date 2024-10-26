@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobloxProjectX/Keyless-Blox-Fruits-Script/main/Xero.txt"))()

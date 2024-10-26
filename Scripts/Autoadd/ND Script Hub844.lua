@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(https://raw.githubusercontent.com/nikoladhima/ND-ScriptHub/refs/heads/main/ND-ScriptHub"))()

@@ -1,0 +1,2 @@
+
+    addscript(18474809260, "Current Game","fast wins farm", "Uploaded by proo63101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fast%20wins%20farm811.lua", "https://scriptblox.com/script/Frisbee-Simulator-fast-wins-farm-20996")

@@ -1,0 +1,1 @@
+This game dosn't have scripts, so maybe a request

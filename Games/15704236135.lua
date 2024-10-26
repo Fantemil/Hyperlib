@@ -1,0 +1,2 @@
+
+    addscript(15704236135, "Current Game","Best Auto Farm Script", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Script38.lua", "https://scriptblox.com/script/NEW-TestAnime-Quest-Best-Auto-Farm-Script-12798")

@@ -1,0 +1,2 @@
+
+    addscript(79803644947164, "Current Game","Admin Character", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Character696.lua", "https://scriptblox.com/script/JK-Battleground-Member-request-Admin-Character-20276")

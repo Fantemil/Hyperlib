@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZaHando15/PlantWare-Scripts/refs/heads/main/Dti%20UI?token=GHSAT0AAAAAACYTCK26DPPJAU47ICVZGHF2ZYEKXMQ"))()

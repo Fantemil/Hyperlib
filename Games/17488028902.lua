@@ -1,0 +1,4 @@
+
+    addscript(17488028902, "Current Game","Get all items", "Uploaded by ZazaHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20all%20items687.lua", "https://scriptblox.com/script/100K-EVENT-Depthless-RPG-Get-all-items-16953")
+    addscriptexist(17488028902, "Kill aura God mode Teleport  More", "Uploaded by ZazaHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20aura%20God%20mode%20Teleport%20%20More131.lua", "https://scriptblox.com/script/100K-EVENT-Depthless-RPG-Kill-aura-n-sh-16954")
+                                    

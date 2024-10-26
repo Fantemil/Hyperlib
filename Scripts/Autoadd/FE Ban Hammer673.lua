@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xcv10k/BanHammer/main/Protected"))()

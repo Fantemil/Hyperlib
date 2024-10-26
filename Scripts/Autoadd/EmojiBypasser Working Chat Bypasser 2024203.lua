@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/v3rmie/EmojiBypasser/main/main.lua",true))()

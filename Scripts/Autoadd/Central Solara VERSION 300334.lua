@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Centralsolara/CentralSolara/refs/heads/main/Solara%20%7C%20HUB"))()

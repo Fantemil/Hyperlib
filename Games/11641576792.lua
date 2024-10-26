@@ -1,0 +1,2 @@
+
+    addscript(11641576792, "Current Game","instant auto mission auto parry", "Uploaded by laderite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/instant%20auto%20mission%20auto%20parry980.lua", "https://scriptblox.com/script/Demon-Hunter-instant-auto-mission-auto-parry-17202")

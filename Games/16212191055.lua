@@ -1,0 +1,2 @@
+
+    addscript(16212191055, "Current Game","bypass equip limit", "Uploaded by wynnech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bypass%20equip%20limit339.lua", "https://scriptblox.com/script/Fortune-Fighters-ALPHA-bypass-equip-limit-16265")

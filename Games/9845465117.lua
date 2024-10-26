@@ -10,3 +10,5 @@ addscript(9845465117, "Current Game","Amaterasu hub leaked unreleased scripts in
                                 
     addscriptexist(9845465117, "Sleepy Farm Yes Put Script In Auto Exec", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sleepy%20Farm%20Yes%20Put%20Script%20In%20Auto%20Exec641.lua", "https://scriptblox.com/script/UPDATE-1-AU:Reborn-Sleepy-Farm-Yes-Put-Script-In-Auto-Exec-4966")
                                 
+    addscriptexist(9845465117, "NS HUB", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NS%20HUB247.lua", "https://scriptblox.com/script/SHANKS-AU:R-Best-Auto-FARM-11639")
+                                    

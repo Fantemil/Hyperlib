@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Niburu52/hub/refs/heads/main/Weapon%20Fighting%20Simulator.txt'))()

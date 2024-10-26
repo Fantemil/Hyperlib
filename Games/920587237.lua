@@ -52,3 +52,23 @@ addscriptexist(920587237, "Money changer", "Uploaded by EviIAlienWare on scriptb
                                     
     addscriptexist(920587237, "AUTO BOOTH", "Uploaded by moder98552 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20BOOTH783.lua", "https://scriptblox.com/script/Adopt-Me!-AUTO-BOOTH-9795")
                                     
+    addscriptexist(920587237, "Auto Hide", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Hide129.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Hide-10504")
+                                    
+    addscriptexist(920587237, "Auto Hide and Anti AFK", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Hide%20and%20Anti%20AFK281.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Hide-and-Anti-AFK-11730")
+                                    
+    addscriptexist(920587237, "Anti Afk Cpu Limiter Auto Hide more", "Uploaded by ZefAnia on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20Afk%20Cpu%20Limiter%20Auto%20Hide%20more870.lua", "https://scriptblox.com/script/Adopt-Me!-Anti-Afk-Cpu-Limiter-Auto-Hide-more-11806")
+                                    
+    addscriptexist(920587237, "Farm money 99999", "Uploaded by fastxpepe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Farm%20money%2099999100.lua", "https://scriptblox.com/script/Adopt-Me!-Farm-money-99999-12141")
+                                    
+    addscriptexist(920587237, "Auto Farm  Baby Farm", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20%20Baby%20Farm355.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Farm-Baby-Farm-11370")
+                                    
+    addscriptexist(920587237, "summer state fair minigame auto grind", "Uploaded by estebanflores85 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/summer%20state%20fair%20minigame%20auto%20grind732.lua", "https://scriptblox.com/script/SUMMER-Adopt-Me!-summer-state-fair-minigame-auto-grind-14369")
+                                    
+    addscriptexist(920587237, "Auto farm best gui", "Uploaded by lucaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20best%20gui43.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-farm-best-gui-11463")
+                                    
+    addscriptexist(920587237, "Walkspeed and Jump Power", "Uploaded by Phoenixxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Walkspeed%20and%20Jump%20Power654.lua", "https://scriptblox.com/script/Adopt-Me!-Walkspeed-and-Jump-Power-11948")
+                                    
+    addscriptexist(920587237, "Auto Farm Baby Farm Teleport", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Baby%20Farm%20Teleport792.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Farm-Baby-Farm-Teleport-10734")
+                                    
+    addscriptexist(920587237, "Auto Farm and Auto Buy", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20and%20Auto%20Buy706.lua", "https://scriptblox.com/script/Adopt-Me!-Auto-Farm-and-Auto-Buy-10550")
+                                    

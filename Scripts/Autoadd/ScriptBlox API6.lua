@@ -1,0 +1,1 @@
+return loadstring(game:HttpGet("https://nicuse.xyz/scripts/scriptblox_api"))()

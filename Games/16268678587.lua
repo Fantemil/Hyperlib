@@ -1,0 +1,4 @@
+
+    addscript(16268678587, "Current Game","county new version", "Uploaded by brainhehehaha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/county%20new%20version350.lua", "https://scriptblox.com/script/Mano-County-State-of-Pennsylvania-county-new-version-17642")
+    addscriptexist(16268678587, "county  made by me", "Uploaded by brainhehehaha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/county%20%20made%20by%20me495.lua", "https://scriptblox.com/script/Mano-County-State-of-Pennsylvania-county-open-source-made-by-me-17512")
+                                    

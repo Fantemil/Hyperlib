@@ -1,0 +1,2 @@
+GET THE SCRIPT AT https://link-hub.net/1174972/script-hub-v1
+FOR SUPPORT DM LUNZZ ON DISCORD

@@ -1,0 +1,2 @@
+
+    addscript(15366292058, "Current Game","hax idk", "Uploaded by ROZXINO_OFFICIAL on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/hax%20idk486.lua", "https://scriptblox.com/script/City-DEMO-hax-idk-15228")

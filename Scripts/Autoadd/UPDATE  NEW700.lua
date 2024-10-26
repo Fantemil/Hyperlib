@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/RSenix3/PrestineHub/refs/heads/main/AnimeStrikeSim'))()

@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a5945467f3b9388503ca653c0ea49cba.lua"))()
+
+--join https://discord.gg/xploits for more >3

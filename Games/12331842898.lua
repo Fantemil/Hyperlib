@@ -1,0 +1,2 @@
+
+    addscript(12331842898, "Current Game","Wonga1", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wonga1283.lua", "https://scriptblox.com/script/+1-Blocks-Every-Second-infinite-yield-11288")

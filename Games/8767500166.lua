@@ -1,0 +1,2 @@
+
+    addscript(8767500166, "Current Game","AirFlow", "Uploaded by zenox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AirFlow646.lua", "https://scriptblox.com/script/Blackout:-Revival-AirFlow-20479")

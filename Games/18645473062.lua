@@ -1,0 +1,2 @@
+
+    addscript(18645473062, "Current Game","Script Request", "Uploaded by Beaver on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request730.lua", "https://scriptblox.com/script/UPD9Cultivation-Simulator-Script-Request-20993")

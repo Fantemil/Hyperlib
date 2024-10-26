@@ -1,0 +1,2 @@
+
+    addscript(16125758204, "Current Game","Support Solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20Solara850.lua", "https://scriptblox.com/script/Monster-Slayer-Support-Solara-20920")

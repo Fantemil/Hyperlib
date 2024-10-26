@@ -1,0 +1,2 @@
+
+    addscript(2674451148, "Current Game","Silent", "Uploaded by Linemaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Silent558.lua", "https://scriptblox.com/script/Aim-H4X-(Bot-Aim-Trainer)-Silent-12478")

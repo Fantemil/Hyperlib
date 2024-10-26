@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/catblox1346/BasketsBuildaBoatGui/main/basket_fastestautofarmv1.0"),true))()

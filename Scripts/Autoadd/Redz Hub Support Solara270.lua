@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/redz9999999/RedzHub/refs/heads/main/BloxFruits/solara"))()

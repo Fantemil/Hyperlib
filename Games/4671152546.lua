@@ -1,0 +1,2 @@
+
+    addscript(4671152546, "Current Game","Infectious Gamemode OP", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infectious%20Gamemode%20OP883.lua", "https://scriptblox.com/script/Sanic-Chase-Infectious-Gamemode-OP-18118")

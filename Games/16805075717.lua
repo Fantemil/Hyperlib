@@ -1,0 +1,2 @@
+
+    addscript(16805075717, "Current Game","inf damage", "Uploaded by relevant on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20damage267.lua", "https://scriptblox.com/script/UPD-Get-Big-Simulator-inf-damage-13271")

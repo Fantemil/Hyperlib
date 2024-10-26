@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ServerSad/4abf2f2af3459d05f1d9b25ac06185a9/raw/3631150da52cfc7942ad9555029cd29a1a710d5b/Brigde%2520Duels%2520hub"))()

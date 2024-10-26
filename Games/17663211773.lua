@@ -1,0 +1,2 @@
+
+    addscript(17663211773, "Current Game","INF WINS plus More", "Uploaded by King_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20WINS%20plus%20More662.lua", "https://scriptblox.com/script/+1-Car-Every-Click-INF-WINS-plus-More-18326")

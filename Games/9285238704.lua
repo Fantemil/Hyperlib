@@ -24,3 +24,17 @@ addscriptexist(9285238704, "Race Clicker Auto Farm", "Uploaded by AlonE on rscri
                                     
     addscriptexist(9285238704, "Best   Script", "Uploaded by perfectusmim on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20%20Script571.lua", "https://scriptblox.com/script/UPD-Race-Clicker-Best-Script-8440")
                                     
+    addscriptexist(9285238704, "RceX v1 dot 0 dot 2", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RceX%20v1%20dot%200%20dot%202749.lua", "https://scriptblox.com/script/x3-Race-Clicker-X-v1-dot-0-dot-2-11376")
+                                    
+    addscriptexist(9285238704, "Auto clicker", "Uploaded by 0000000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20clicker211.lua", "https://scriptblox.com/script/FALL-Race-Clicker-Auto-clicker-18765")
+                                    
+    addscriptexist(9285238704, "Race s", "Uploaded by GPUXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Race%20s992.lua", "https://scriptblox.com/script/FREE-PETRace-Clicker-Race-s-12796")
+                                    
+    addscriptexist(9285238704, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L645.lua", "https://scriptblox.com/script/UPDRace-Clicker-Project-L-12514")
+                                    
+    addscriptexist(9285238704, "Tbao Hub", "Uploaded by thaibao7444 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20Hub951.lua", "https://scriptblox.com/script/3XRace-Clicker-Tbao-Hub-15568")
+                                    
+    addscriptexist(9285238704, "GoldEx v 1 0 Rce", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20v%201%200%20Rce558.lua", "https://scriptblox.com/script/Race-Clicker-GoldEx-v-1-0-Rce-19201")
+                                    
+    addscriptexist(9285238704, "Auto farm Auto Race Auto speed", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20Auto%20Race%20Auto%20speed523.lua", "https://scriptblox.com/script/Race-Clicker-Auto-farm-Auto-Race-Auto-speed-20514")
+                                    

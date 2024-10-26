@@ -1,0 +1,2 @@
+
+    addscript(17109142105, "Current Game","Alysum", "Uploaded by jayripppp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alysum491.lua", "https://scriptblox.com/script/Da-Battles-UPDATE!-Alysum-13548")

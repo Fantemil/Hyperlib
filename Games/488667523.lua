@@ -1,0 +1,2 @@
+
+    addscript(488667523, "Current Game","Script Request", "Uploaded by zemqq on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request310.lua", "https://scriptblox.com/script/Those-Who-Remain-Request-For-17966")

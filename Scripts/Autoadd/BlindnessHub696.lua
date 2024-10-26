@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/washingtontrichkid2/Newgay/main/CounterBlox"))()

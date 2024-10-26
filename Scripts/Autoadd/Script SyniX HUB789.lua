@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZorSonMods/SyniX-HUB/main/Airsoft%20FE"))()

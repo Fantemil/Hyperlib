@@ -1,0 +1,2 @@
+
+    addscript(16733629201, "Current Game","Sortex lua", "Uploaded by SORTEX_300 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sortex%20lua807.lua", "https://scriptblox.com/script/Asylum-Life-Sortex-lua-19034")

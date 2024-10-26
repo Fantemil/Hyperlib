@@ -1,0 +1,4 @@
+
+    addscript(124700121029896, "Current Game","Inf Sunflowers while playing", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Sunflowers%20while%20playing389.lua", "https://scriptblox.com/script/Garden-Defense!-Inf-Sunflowers-while-playing-20354")
+    addscriptexist(124700121029896, "Loop place  any plant in game", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Loop%20place%20%20any%20plant%20in%20game557.lua", "https://scriptblox.com/script/Garden-Defense!-Loop-s*-in-any-plant-in-game-20357")
+                                    

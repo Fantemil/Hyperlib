@@ -1,0 +1,2 @@
+
+    addscript(14480774282, "Current Game","Free Gamepass", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Gamepass434.lua", "https://scriptblox.com/script/Math-Traps-Free-Gamepass-20952")

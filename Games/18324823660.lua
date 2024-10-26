@@ -1,0 +1,2 @@
+
+    addscript(18324823660, "Current Game","Auto", "Uploaded by zexlol12345 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto173.lua", "https://scriptblox.com/script/Sneaker-RNG-Halloween-SCRIPT-20434")

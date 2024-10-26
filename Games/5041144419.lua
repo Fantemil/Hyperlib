@@ -8,3 +8,9 @@ addscriptexist(5041144419, "S3CPRP", "Uploaded by CandyLean on scriptblox.com", 
                                     
     addscriptexist(5041144419, "OP script", "Uploaded by xipster33 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script156.lua", "https://scriptblox.com/script/SCP:-Roleplay-OP-script-9788")
                                     
+    addscriptexist(5041144419, "Scp", "Uploaded by shelbus99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scp762.lua", "https://scriptblox.com/script/SCP:-Roleplay-Scp-14112")
+                                    
+    addscriptexist(5041144419, "GUI with tons of features NOT FOR MOBILE", "Uploaded by gamgamcoolg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20with%20tons%20of%20features%20NOT%20FOR%20MOBILE584.lua", "https://scriptblox.com/script/SCP:-Roleplay-GUI-with-tons-of-features-17564")
+                                    
+    addscriptexist(5041144419, "OPEN SOURCE Report all players", "Uploaded by hi_grind on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OPEN%20SOURCE%20Report%20all%20players99.lua", "https://scriptblox.com/script/SCP:-Roleplay-OPEN-SOURCE-Report-all-players-20408")
+                                    

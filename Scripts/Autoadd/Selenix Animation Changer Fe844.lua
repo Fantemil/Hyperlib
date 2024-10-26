@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/WaveStorag/Selenix/main/SelenixAnimChanger1dot3"))()

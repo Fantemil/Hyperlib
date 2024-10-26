@@ -1,0 +1,2 @@
+
+    addscript(418961739, "Current Game","Autofarm Gui OP", "Uploaded by BlobbyTea on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Gui%20OP859.lua", "https://scriptblox.com/script/DYNAMIC-ICE-+-REVAMPS-Fairy-Tail:-Magic-Brawl-Autofarm-Gui-OP-12815")

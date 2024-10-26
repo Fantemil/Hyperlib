@@ -1,0 +1,2 @@
+
+    addscript(18506632178, "Current Game","Auto Win", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win170.lua", "https://scriptblox.com/script/COFFEE-Tsunami!-Auto-Win-17266")

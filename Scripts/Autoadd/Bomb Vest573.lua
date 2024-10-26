@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icalock/Server/refs/heads/main/bomb%20vest.txt"))()

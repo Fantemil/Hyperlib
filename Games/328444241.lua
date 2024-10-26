@@ -1,0 +1,2 @@
+
+    addscript(328444241, "Current Game","esp and  notifier", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/esp%20and%20%20notifier367.lua", "https://scriptblox.com/script/Slender-esp-and-notifier-17851")

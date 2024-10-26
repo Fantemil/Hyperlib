@@ -1,0 +1,2 @@
+
+    addscript(12196278347, "Current Game","Best gui Beta", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20gui%20Beta180.lua", "https://scriptblox.com/script/Refinery-Caves-2-Best-gui-15048")

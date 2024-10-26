@@ -8,3 +8,19 @@
                                     
     addscriptexist(15002061926, "CHEAP GEMS", "Uploaded by WyvX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CHEAP%20GEMS86.lua", "https://scriptblox.com/script/Death-Ball-CHEAP-GEMS-9770")
                                     
+    addscriptexist(15002061926, "Mega Auto Parry", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Auto%20Parry710.lua", "https://scriptblox.com/script/Death-Ball-THE-HUNT-Mega-Auto-Parry-11801")
+                                    
+    addscriptexist(15002061926, " Auto Parry By me", "Uploaded by NAHIDWIN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Auto%20Parry%20By%20me70.lua", "https://scriptblox.com/script/Death-Ball-script-by-me-Op-Last-one-work-2024-12359")
+                                    
+    addscriptexist(15002061926, "Meow hub", "Uploaded by Atomic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Meow%20hub463.lua", "https://scriptblox.com/script/Death-Ball-Meow-hub-12125")
+                                    
+    addscriptexist(15002061926, "OP GodHub Auto Parry AI Follow Bot FREE", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GodHub%20Auto%20Parry%20AI%20Follow%20Bot%20FREE576.lua", "https://scriptblox.com/script/Death-Ball-OP-GodHub-Auto-Parry-AI-Follow-Bot-FREE-17764")
+                                    
+    addscriptexist(15002061926, "Mega Auto Parry  Esp Dodge", "Uploaded by Bingoo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mega%20Auto%20Parry%20%20Esp%20Dodge207.lua", "https://scriptblox.com/script/RNG-AURA-Death-Ball-Mega-Auto-Parry-Esp-Dodge-11232")
+                                    
+    addscriptexist(15002061926, "NATIVE NEW OP SCRIPT", "Uploaded by Coolest on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NATIVE%20NEW%20OP%20SCRIPT582.lua", "https://scriptblox.com/script/Death-Ball-NATIVE-NEW-OP-SCRIPT-17732")
+                                    
+    addscriptexist(15002061926, "BEST   SCRIPT", "Uploaded by ZenOnRobloxYT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20%20SCRIPT847.lua", "https://scriptblox.com/script/Death-Ball-BEST-SCRIPT-15232")
+                                    
+    addscriptexist(15002061926, "Ultimate OP Auto Parry Instant Win Auto Walk Best Script", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ultimate%20OP%20Auto%20Parry%20Instant%20Win%20Auto%20Walk%20Best%20Script699.lua", "https://scriptblox.com/script/Death-Ball-Ultimate-OP-Auto-Parry-Instant-Win-Auto-Walk-Best-Script-20880")
+                                    

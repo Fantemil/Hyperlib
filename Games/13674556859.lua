@@ -1,0 +1,2 @@
+
+    addscript(13674556859, "Current Game","Lazy obbier gui", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lazy%20obbier%20gui255.lua", "https://scriptblox.com/script/DOODE's-Glitch-Per-Difficulty-Chart-Obby-Lazy-obbier-gui-15449")

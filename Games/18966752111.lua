@@ -1,0 +1,2 @@
+
+    addscript(18966752111, "Current Game","X Ro Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20Ro%20Script872.lua", "https://scriptblox.com/script/Counter-Blox:-Source-2-X-Ro-Script-18645")

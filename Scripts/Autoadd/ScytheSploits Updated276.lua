@@ -1,0 +1,1 @@
+get our arsenal script from https://discord.gg/xpCQWmvSaN

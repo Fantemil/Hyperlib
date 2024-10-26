@@ -16,3 +16,11 @@ addscriptexist(402122991, "THE DARKONES   GUI", "Uploaded by TheDarkone on scrip
                                 
 addscriptexist(402122991, "THE SCROLL OF THE ANCIENTS   GUI", "Uploaded by TheDarkone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20SCROLL%20OF%20THE%20ANCIENTS%20%20%20GUI739.lua", "https://scriptblox.com/script/Redwood-Prison-THE-SCROLL-OF-THE-ANCIENTS-GUI-8512")
                                 
+    addscriptexist(402122991, "THE ELITE DARKONE SOLDIER", "Uploaded by TheDarkone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20ELITE%20DARKONE%20SOLDIER417.lua", "https://scriptblox.com/script/Redwood-Prison-THE-ELITE-DARKONE-SOLDIER-11452")
+                                    
+    addscriptexist(402122991, "The Amplifier Script", "Uploaded by TheDarkone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Amplifier%20Script530.lua", "https://scriptblox.com/script/Redwood-Prison-The-Amplifier-Script-15385")
+                                    
+    addscriptexist(402122991, "Dark one red wood  script", "Uploaded by Hekzmmm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dark%20one%20red%20wood%20%20script677.lua", "https://scriptblox.com/script/Redwood-Prison-Dark-one-red-wood-script-17581")
+                                    
+    addscriptexist(402122991, "Darkone darkware script", "Uploaded by sethmorris1213 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkone%20darkware%20script738.lua", "https://scriptblox.com/script/Redwood-Prison-Darkone-darkwear-script-16257")
+                                    

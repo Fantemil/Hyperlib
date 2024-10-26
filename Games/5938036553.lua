@@ -10,3 +10,19 @@ addscriptexist(5938036553, "FRONTLINES  Hitbox Extender", "Uploaded by ShyShai o
                                 
 addscriptexist(5938036553, "OP script", "Uploaded by lykin648 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script356.lua", "https://scriptblox.com/script/FRONTLINES-OP-script-8860")
                                 
+    addscriptexist(5938036553, "ESP Script", "Uploaded by Pixeluted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESP%20Script21.lua", "https://scriptblox.com/script/FRONTLINES-ESP-Script-12358")
+                                    
+    addscriptexist(5938036553, "Ez Krampus", "Uploaded by GDejvid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ez%20Krampus196.lua", "https://scriptblox.com/script/FRONTLINES-Ez-Krampus-15915")
+                                    
+    addscriptexist(5938036553, "Thunder Client Lite", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20Lite260.lua", "https://scriptblox.com/script/FRONTLINES-Thunder-Client-Lite-14265")
+                                    
+    addscriptexist(5938036553, "Hitbox expanders ESP", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20expanders%20ESP197.lua", "https://scriptblox.com/script/FRONTLINES-Hitbox-expanders-ESP-11228")
+                                    
+    addscriptexist(5938036553, "Aimbot ESP Jump Power", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aimbot%20ESP%20Jump%20Power793.lua", "https://scriptblox.com/script/FRONTLINES-Aimbot-ESP-Jump-Power-19750")
+                                    
+    addscriptexist(5938036553, "Waza  Keyless working", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Waza%20%20Keyless%20working945.lua", "https://scriptblox.com/script/FRONTLINES-Waza-Keyless-working-19791")
+                                    
+    addscriptexist(5938036553, "Thunder Client  OP Gun Mods WalkSpeed Silent Aim", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20%20OP%20Gun%20Mods%20WalkSpeed%20Silent%20Aim40.lua", "https://scriptblox.com/script/FRONTLINES-Thunder-Client-OP-Gun-Mods-WalkSpeed-Silent-Aim-19883")
+                                    
+    addscriptexist(5938036553, "Waza hub Cracked", "Uploaded by 25ms on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Waza%20hub%20Cracked917.lua", "https://scriptblox.com/script/FRONTLINES-Waza-hub-Cracked-20427")
+                                    

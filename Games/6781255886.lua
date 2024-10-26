@@ -1,0 +1,2 @@
+
+    addscript(6781255886, "Current Game","Sonic exe gui", "Uploaded by lucasrodrigues1749l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sonic%20exe%20gui103.lua", "https://scriptblox.com/script/TD-1.0-Sonic-exe-gui-20469")

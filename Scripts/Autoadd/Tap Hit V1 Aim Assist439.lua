@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SkididSkider/Tap-Hit-V1/main/TapHitMain.lua", true))() --made by FE.45--

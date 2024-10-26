@@ -1,0 +1,2 @@
+
+    addscript(16697795034, "Current Game","Rarity giver", "Uploaded by Atretus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rarity%20giver130.lua", "https://scriptblox.com/script/Azure's-RNGEGG-Rarity-giver-11373")

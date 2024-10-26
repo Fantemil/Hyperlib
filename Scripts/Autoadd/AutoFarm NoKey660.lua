@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yPolar0/Project/refs/heads/main/Games/Pets-Go.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(18281921803, "Current Game","Autofarm", "Uploaded by juju_le_belge on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm338.lua", "https://scriptblox.com/script/Run-over-people-with-cars-simulator-autofarm-16671")

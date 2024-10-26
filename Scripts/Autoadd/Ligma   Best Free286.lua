@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RetroGamesAlt/Blade-Ball-Powered-By-Rozxino/main/Project%20Ligma.lua"))()

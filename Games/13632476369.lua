@@ -1,0 +1,2 @@
+
+    addscript(13632476369, "Current Game","C3ndy 3uto f3rm", "Uploaded by Eva_Getwavedotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C3ndy%203uto%20f3rm906.lua", "https://scriptblox.com/script/Work-at-a-Pancake-Place-Cndy-uto-Frm-20346")

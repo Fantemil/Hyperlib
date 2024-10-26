@@ -12,3 +12,25 @@ addscriptexist(2768379856, "AutoBuild SCP3008", "Uploaded by MrXrer on rscripts.
                                 
     addscriptexist(2768379856, "OP SCRIPT WITH ESP", "Uploaded by wirefraude on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20WITH%20ESP897.lua", "https://scriptblox.com/script/3008-2.72-OP-SCRIPT-WITH-ESP-9796")
                                     
+    addscriptexist(2768379856, "Op Gui", "Uploaded by bonmarkson on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Gui342.lua", "https://scriptblox.com/script/3008-2.73-Op-Gui-15357")
+                                    
+    addscriptexist(2768379856, "teleport to player worker esp grab food no fall damage", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/teleport%20to%20player%20worker%20esp%20grab%20food%20no%20fall%20damage156.lua", "https://scriptblox.com/script/3008-2.73-teleport-to-player-worker-esp-grab-food-no-fall-damage-12949")
+                                    
+    addscriptexist(2768379856, "super old script", "Uploaded by Spectrum69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/super%20old%20script649.lua", "https://scriptblox.com/script/3008-2.73-super-old-script-14847")
+                                    
+    addscriptexist(2768379856, "Zenon Hub FIX", "Uploaded by Stellar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zenon%20Hub%20FIX816.lua", "https://scriptblox.com/script/3008-2.73-Zenon-Hub-FIX-16894")
+                                    
+    addscriptexist(2768379856, "script SOLARA SUPPORTED", "Uploaded by e1dar on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20SOLARA%20SUPPORTED658.lua", "https://scriptblox.com/script/3008-2.73-script-SOLARA-SUPPORTED-15104")
+                                    
+    addscriptexist(2768379856, "Tbao Hub", "Uploaded by thaibao7444 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tbao%20Hub890.lua", "https://scriptblox.com/script/3008-2.73-Tbao-Hub-15474")
+                                    
+    addscriptexist(2768379856, "Keyless SCP  script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Keyless%20SCP%20%20script277.lua", "https://scriptblox.com/script/3008-2.73-Keyless-SCP-script-19343")
+                                    
+    addscriptexist(2768379856, "Admin commands", "Uploaded by marjHuB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20commands437.lua", "https://scriptblox.com/script/3008-2.73-Admin-commands-19394")
+                                    
+    addscriptexist(2768379856, "TP ESP Player Mods", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TP%20ESP%20Player%20Mods614.lua", "https://scriptblox.com/script/3008-2.73-TP-ESP-Player-Mods-19933")
+                                    
+    addscriptexist(2768379856, "Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub527.lua", "https://scriptblox.com/script/3008-2.73-Rocket-Hub-20241")
+                                    
+    addscriptexist(2768379856, "op script", "Uploaded by mcclainjonathan70 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script147.lua", "https://scriptblox.com/script/3008-2.73-op-script-20295")
+                                    

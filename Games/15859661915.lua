@@ -1,0 +1,2 @@
+
+    addscript(15859661915, "Current Game","AutoFarm", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm58.lua", "https://scriptblox.com/script/Arcade-Punch-Simulator-AutoFarm-13443")

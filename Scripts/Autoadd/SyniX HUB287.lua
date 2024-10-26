@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZorSonMods/SyniX-HUB-CURSED-ISLANDS-MENU/refs/heads/main/Script"))()

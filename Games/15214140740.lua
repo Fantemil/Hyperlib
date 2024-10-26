@@ -1,0 +1,6 @@
+
+    addscript(15214140740, "Current Game","get infinite money and ruin leaderboard", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20infinite%20money%20and%20ruin%20leaderboard253.lua", "https://scriptblox.com/script/Ultimate-Town-Sandbox-BETA-get-infinite-money-and-ruin-leaderboard-12278")
+    addscriptexist(15214140740, "autofarm and more", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20and%20more237.lua", "https://scriptblox.com/script/Ultimate-Town-Sandbox-BETA-autofarm-and-more-12116")
+                                    
+    addscriptexist(15214140740, "INF MONEY  and more", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20MONEY%20%20and%20more480.lua", "https://scriptblox.com/script/Ultimate-Town-Sandbox-BETA-INF-MONEY-and-more-15635")
+                                    

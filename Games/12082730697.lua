@@ -1,0 +1,2 @@
+
+    addscript(12082730697, "Current Game","Skid AnimationsGUI   GetChildrenGuy ", "Uploaded by GetChildrenGuy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skid%20AnimationsGUI%20%20%20GetChildrenGuy%20393.lua", "https://scriptblox.com/script/Meme-game-a-18403")

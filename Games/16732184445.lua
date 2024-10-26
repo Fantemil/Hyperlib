@@ -1,0 +1,2 @@
+
+    addscript(16732184445, "Current Game","Aura Giver OPEN SOURCE", "Uploaded by liebet on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aura%20Giver%20OPEN%20SOURCE803.lua", "https://scriptblox.com/script/UPD3.5-Ani-RNG-Aura-Giver-OPEN-SOURCE-13136")

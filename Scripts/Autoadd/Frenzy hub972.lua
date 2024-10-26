@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Frenzygs/Frenzyshub/refs/heads/main/frenzyhub.lua')))()

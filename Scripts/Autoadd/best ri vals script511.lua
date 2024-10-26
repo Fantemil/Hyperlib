@@ -1,0 +1,4 @@
+https://discord.gg/srSAqtQZ JOIN FOR OP SCRIPT
+
+
+CREDS TO WHOEVER MADE IT

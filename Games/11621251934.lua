@@ -1,0 +1,2 @@
+
+    addscript(11621251934, "Current Game","Gui", "Uploaded by Averageguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui443.lua", "https://scriptblox.com/script/Ethical-Apple-Farm-Gui-12639")

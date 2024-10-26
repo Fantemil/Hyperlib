@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Universal-Walk-On-Walls-Script!-2753"))()

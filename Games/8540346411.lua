@@ -28,3 +28,5 @@ addscriptexist(8540346411, "Rebirth Champions X AUTO FARMING  MORE FREE GUI SCRI
                                 
     addscriptexist(8540346411, "Genesis Z", "Uploaded by EdxymRBLX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Genesis%20Z893.lua", "https://scriptblox.com/script/PART-2!-Rebirth-Champions-X-Genesis-Z-9139")
                                     
+    addscriptexist(8540346411, "Jmholidae Hub", "Uploaded by jmholidae on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jmholidae%20Hub481.lua", "https://scriptblox.com/script/PART-2!-Rebirth-Champions-X-Jmholidae-Hub-15330")
+                                    

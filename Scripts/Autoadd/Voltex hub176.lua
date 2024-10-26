@@ -1,0 +1,1 @@
+print ("https://discord.gg/6jyt7MawVu")

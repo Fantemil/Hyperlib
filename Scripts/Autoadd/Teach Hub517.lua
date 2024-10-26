@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DarkMuscles/Games/refs/heads/Roblox/Bloxfruits/TeachHub.lua", true))()

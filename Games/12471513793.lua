@@ -1,0 +1,2 @@
+
+    addscript(12471513793, "Current Game","Script ITEM LIMITEDU UGC", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20ITEM%20LIMITEDU%20UGC634.lua", "https://scriptblox.com/script/FREE-UGC-World-of-Trollge-Script-ITEM-LIMITEDU-UGC-10646")

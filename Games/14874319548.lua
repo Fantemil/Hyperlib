@@ -1,0 +1,2 @@
+
+    addscript(14874319548, "Current Game","No Limit UGC", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Limit%20UGC383.lua", "https://scriptblox.com/script/(FREE-UGC)-jeraldo's-home-No-Limit-UGC-10794")

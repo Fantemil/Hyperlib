@@ -1,0 +1,1 @@
+game.ReplicatedStorage.MoneyRequest:FireServer(false, 999e9, "Cash")

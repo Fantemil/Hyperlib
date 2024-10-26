@@ -1,0 +1,2 @@
+
+    addscript(6868593153, "Current Game","anti cheat bypass", "Uploaded by Crazy*er on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20cheat%20bypass341.lua", "https://scriptblox.com/script/Training-Center-Wa*ez-anti-cheat-bypass-15501")

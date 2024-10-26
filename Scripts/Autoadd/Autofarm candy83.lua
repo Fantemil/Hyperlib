@@ -1,0 +1,1 @@
+https://linkvertise.com/924514/auto-farm-candy-script?o=sharing

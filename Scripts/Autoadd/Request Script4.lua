@@ -1,0 +1,1 @@
+Is there anyone who is a good person who can make a script for this game?

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nexus4rbx/NovolineForRoblox/main/NewMainScript.lua", true))()

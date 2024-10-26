@@ -1,0 +1,2 @@
+
+    addscript(4789047554, "Current Game","Smorgs Hub OP", "Uploaded by sammy10990 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Smorgs%20Hub%20OP978.lua", "https://scriptblox.com/script/Prison-Escape-v2-Hub-15847")

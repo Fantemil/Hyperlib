@@ -1,0 +1,2 @@
+
+    addscript(516483782, "Current Game","Script request", "Uploaded by creep on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request668.lua", "https://scriptblox.com/script/Rhythm-Track-Script-request-20540")

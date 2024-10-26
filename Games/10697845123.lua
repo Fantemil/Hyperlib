@@ -1,0 +1,2 @@
+
+    addscript(10697845123, "Current Game","Swing aura", "Uploaded by geremas892 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Swing%20aura27.lua", "https://scriptblox.com/script/silly-sword-game-Swing-aura-20865")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SxedraClient/BloxFruit/main/Fruit-Finder-Sxedra"))()

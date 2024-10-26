@@ -1,0 +1,4 @@
+
+    addscript(10469988463, "Current Game","Requesting Script", "Uploaded by DrTacoPieMlg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Requesting%20Script55.lua", "https://scriptblox.com/script/BOMBLINE-Alpha-Requesting-Script-13417")
+    addscriptexist(10469988463, "X Ro Solara Support", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20Ro%20Solara%20Support456.lua", "https://scriptblox.com/script/BOMBLINE-Alpha-X-Ro-Solara-Support-18155")
+                                    

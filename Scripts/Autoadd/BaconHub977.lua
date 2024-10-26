@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FD2Team/BaconHub/main/Places/6403373529.lua",true))()

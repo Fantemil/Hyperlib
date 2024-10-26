@@ -1,0 +1,2 @@
+
+    addscript(17324251852, "Current Game","ENDL3SS D00RS REN0VATION", "Uploaded by _null on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ENDL3SS%20D00RS%20REN0VATION760.lua", "https://scriptblox.com/script/ENDLESS-DOORS-RENOVATION-ENDL3SS-D00RS-REN0VATION-12988")

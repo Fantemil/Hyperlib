@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Bingooq/HUB/main/Toilet%20Tower%20Defense'))()

@@ -52,3 +52,37 @@ addscriptexist(1962086868, "Incoak TOH", "Uploaded by Incoak on scriptblox.com",
                                     
     addscriptexist(1962086868, "Auto Win Teleport OP Troll Script", "Uploaded by H_Man on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Teleport%20OP%20Troll%20Script853.lua", "https://scriptblox.com/script/Tower-of-Hell-Auto-Win-Teleport-OP-Troll-Script-10310")
                                     
+    addscriptexist(1962086868, "anti furry cheat", "Uploaded by Laera on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anti%20furry%20cheat537.lua", "https://scriptblox.com/script/Tower-of-Hell-anti-furry-cheat-17991")
+                                    
+    addscriptexist(1962086868, "Super OP script from tawer   by silp", "Uploaded by Silp1488 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20OP%20script%20from%20tawer%20%20%20by%20silp399.lua", "https://scriptblox.com/script/Tower-of-Hell-The-best-script-18902")
+                                    
+    addscriptexist(1962086868, "Win Farm Get All Items mode MORE", "Uploaded by LTX_Lite on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win%20Farm%20Get%20All%20Items%20mode%20MORE36.lua", "https://scriptblox.com/script/Tower-of-Hell-Win-Farm-Get-All-Items-*mode-MORE-16019")
+                                    
+    addscriptexist(1962086868, "Skip To End I Open Source", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skip%20To%20End%20I%20Open%20Source385.lua", "https://scriptblox.com/script/Tower-of-Hell-Skip-To-End-I-Open-Source-15892")
+                                    
+    addscriptexist(1962086868, "Tween Win OPENSOURCE", "Uploaded by ovataticool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tween%20Win%20OPENSOURCE133.lua", "https://scriptblox.com/script/Tower-of-Hell-Tween-Win-OPENSOURCE-12919")
+                                    
+    addscriptexist(1962086868, "Scripts from Minion", "Uploaded by ScriptsfromMinion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts%20from%20Minion867.lua", "https://scriptblox.com/script/Tower-of-Hell-Scripts-from-Minion-11448")
+                                    
+    addscriptexist(1962086868, "BYPASS ANTICHEAT OP", "Uploaded by Noahfrf69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BYPASS%20ANTICHEAT%20OP238.lua", "https://scriptblox.com/script/Tower-of-Hell-BYPASS-ANTICHEAT-OP-17622")
+                                    
+    addscriptexist(1962086868, "Vgxmod Hub", "Uploaded by Vgxmod on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vgxmod%20Hub419.lua", "https://scriptblox.com/script/Tower-of-Hell-Vgxmod-Hub-16121")
+                                    
+    addscriptexist(1962086868, "GodMode OPENSOURCE", "Uploaded by ovataticool on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GodMode%20OPENSOURCE391.lua", "https://scriptblox.com/script/Tower-of-Hell-***-Mode-OPEN-SOURCE-12898")
+                                    
+    addscriptexist(1962086868, "RexTop Hub", "Uploaded by GearV4 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RexTop%20Hub439.lua", "https://scriptblox.com/script/Tower-of-Hell-RexTop-Hub-10712")
+                                    
+    addscriptexist(1962086868, "MazeHub V1", "Uploaded by MazeBlox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MazeHub%20V1698.lua", "https://scriptblox.com/script/Tower-of-Hell-MazeHub-V1-11241")
+                                    
+    addscriptexist(1962086868, "ScytheSploits TOH", "Uploaded by CallMeJp3zc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ScytheSploits%20TOH306.lua", "https://scriptblox.com/script/Tower-of-Hell-ScytheSploits-TOH-18746")
+                                    
+    addscriptexist(1962086868, "THE ONLY FLING PLAYER FOR TOH ON ROBLOX", "Uploaded by zaptos on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20ONLY%20FLING%20PLAYER%20FOR%20TOH%20ON%20ROBLOX679.lua", "https://scriptblox.com/script/Tower-of-Hell-THE-ONLY-FLING-PLAYER-FOR-TOH-ON-ROBLOX-14940")
+                                    
+    addscriptexist(1962086868, "autarm wins", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autarm%20wins115.lua", "https://scriptblox.com/script/Tower-of-Hell-autarm-wins-12977")
+                                    
+    addscriptexist(1962086868, "Starry OP BEST Script Hub", "Uploaded by Suno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Starry%20OP%20BEST%20Script%20Hub199.lua", "https://scriptblox.com/script/Tower-of-Hell-Starry-OP-BEST-Script-Hub-17868")
+                                    
+    addscriptexist(1962086868, "Rellahs    2024", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rellahs%20%20%20%202024279.lua", "https://scriptblox.com/script/Tower-of-Hell-Rellahs-2024-20381")
+                                    
+    addscriptexist(1962086868, "Infinite Level And Coin", "Uploaded by FreeRobloxScripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Level%20And%20Coin134.lua", "https://scriptblox.com/script/Tower-of-Hell-Infinite-Level-And-Coin-21114")
+                                    

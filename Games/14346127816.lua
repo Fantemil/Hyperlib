@@ -1,0 +1,2 @@
+
+    addscript(14346127816, "Current Game","auto win", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20win822.lua", "https://scriptblox.com/script/NEW-FREE-LIMITED-1percent-FINISH-auto-win-14441")

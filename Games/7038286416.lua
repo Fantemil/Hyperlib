@@ -1,0 +1,2 @@
+
+    addscript(7038286416, "Current Game","Win", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Win487.lua", "https://scriptblox.com/script/Prison-Escape-Obby-MAXIMUM-SECURITY-Win-19972")

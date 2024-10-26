@@ -1,0 +1,2 @@
+
+    addscript(13076677555, "Current Game","Insta Complete dungeons", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insta%20Complete%20dungeons593.lua", "https://scriptblox.com/script/PAID-BETA-Crusaders-Insta-Complete-dungeons-18846")

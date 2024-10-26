@@ -1,1 +1,1 @@
-loadstring(game:HttpGet('https://raw.githubusercontent.com/spacex02/scripts/main/anime-champions-simulator-25168'))()
+https://direct-link.net/987265/periastron-stars-rpg

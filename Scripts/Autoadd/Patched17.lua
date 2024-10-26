@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").f:InvokeServer("TransferCoinsToTickets",{["Tickets"] = 10000000000,["Name"] = "Product",["Coins"] = -1000000000}

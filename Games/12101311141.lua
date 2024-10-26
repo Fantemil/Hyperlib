@@ -1,0 +1,2 @@
+
+    addscript(12101311141, "Current Game","script request or whatever", "Uploaded by Yuri on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request%20or%20whatever78.lua", "https://scriptblox.com/script/Silly-Billy-or-Friday-Night-Partying-script-request-or-whatever-14385")

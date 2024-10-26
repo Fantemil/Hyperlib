@@ -1,0 +1,2 @@
+
+    addscript(8542259458, "Current Game","Best Blatant Script KillAura Chest Stealer and LOADS MORE", "Uploaded by skuppyv3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Blatant%20Script%20KillAura%20Chest%20Stealer%20and%20LOADS%20MORE640.lua", "https://scriptblox.com/script/SkyWars-Best-Blatant-Script-KillAura-Chest-Stealer-and-LOADS-MORE-20373")

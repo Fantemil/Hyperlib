@@ -1,0 +1,2 @@
+
+    addscript(18309751816, "Current Game","Nomo Hub Extremely Fast Auto Clicker", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nomo%20Hub%20Extremely%20Fast%20Auto%20Clicker466.lua", "https://scriptblox.com/script/+1-Speed-Every-Click-Nomo-Hub-Extremely-Fast-Auto-Clicker-16290")

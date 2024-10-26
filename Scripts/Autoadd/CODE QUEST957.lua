@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Wepogpemv/code-quest-/main/Protected_6011637859828161.lua"))()

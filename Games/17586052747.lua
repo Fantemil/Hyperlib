@@ -1,0 +1,4 @@
+
+    addscript(17586052747, "Current Game","Gun mods with inf ammo etc", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gun%20mods%20with%20inf%20ammo%20etc622.lua", "https://scriptblox.com/script/All-Set-Skins-Counter-Blox:-Reimagined-V2-Gun-mods-with-inf-ammo-etc-19863")
+    addscriptexist(17586052747, "script loader for counter blox", "Uploaded by Zempchik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20loader%20for%20counter%20blox432.lua", "https://scriptblox.com/script/CSGO:-Reimagined-V2-script-loader-for-counter-blox-20887")
+                                    

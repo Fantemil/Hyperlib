@@ -1,0 +1,2 @@
+
+    addscript(13388742673, "Current Game","Syrex Hub", "Uploaded by gerisx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Syrex%20Hub512.lua", "https://scriptblox.com/script/Build-A-Factory!-Syrex-Hub-Your-Fctory-15442")

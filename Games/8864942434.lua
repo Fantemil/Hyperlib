@@ -1,0 +1,2 @@
+
+    addscript(8864942434, "Current Game","OP script", "Uploaded by tigak on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20script529.lua", "https://scriptblox.com/script/Wordly-OP-script-15954")

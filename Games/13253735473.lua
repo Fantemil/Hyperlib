@@ -58,3 +58,11 @@ addscriptexist(13253735473, "NIGHTMARE", "Uploaded by KnownRomanian on scriptblo
                                     
     addscriptexist(13253735473, "AIMBOT SCRIPT", "Uploaded by dreamjowwgoober on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AIMBOT%20SCRIPT1.lua", "https://scriptblox.com/script/Trident-Survival-V2-AIMBOT-SCRIPT-9324")
                                     
+    addscriptexist(13253735473, "Sirex Lite", "Uploaded by randomdude101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirex%20Lite185.lua", "https://scriptblox.com/script/BOATS-Trident-Survival-Sirex-Lite-18189")
+                                    
+    addscriptexist(13253735473, "fartspl", "Uploaded by LTUVR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fartspl379.lua", "https://scriptblox.com/script/NEW-MAP-Trident-Survival-fartspl-14969")
+                                    
+    addscriptexist(13253735473, "esp and hitbox op  legit head and good esp", "Uploaded by Morrisotbbg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/esp%20and%20hitbox%20op%20%20legit%20head%20and%20good%20esp750.lua", "https://scriptblox.com/script/Trident-Survival-V3-esp-and-hitbox-op-***-legit-head-and-good-esp-12304")
+                                    
+    addscriptexist(13253735473, "esp hitbox r shift to close", "Uploaded by Morrisotbbg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/esp%20hitbox%20r%20shift%20to%20close490.lua", "https://scriptblox.com/script/Trident-Survival-V3-esp-hitbox-12283")
+                                    

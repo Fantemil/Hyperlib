@@ -1,0 +1,2 @@
+
+    addscript(5637866415, "Current Game","autofarm script  solara supported", "Uploaded by Blanker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm%20script%20%20solara%20supported651.lua", "https://scriptblox.com/script/2-Player-Assassin-Tycoon-autofarm-script-15986")

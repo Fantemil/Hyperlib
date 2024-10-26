@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Imalwibest/Imalwibest/main/Amine%20Enery%20clash%20simulator.lua'))()

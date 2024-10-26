@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ADSKerOffical/Slap-Battles/main/Random"))()

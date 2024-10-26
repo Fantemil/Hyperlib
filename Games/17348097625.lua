@@ -1,0 +1,2 @@
+
+    addscript(17348097625, "Current Game","Funny  script", "Uploaded by Blanker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funny%20%20script985.lua", "https://scriptblox.com/script/Tsunami-Lava-Rush-Funny-script-19345")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rachs14/Better/refs/heads/main/Anti-lag-TSB"))()

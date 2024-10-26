@@ -1,0 +1,2 @@
+
+    addscript(6878438976, "Current Game","Op inf money read desc", "Uploaded by alvim30ka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20inf%20money%20read%20desc557.lua", "https://scriptblox.com/script/Developer-Inc.-Op-inf-money-read-desc-20619")

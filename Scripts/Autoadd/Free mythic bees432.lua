@@ -1,0 +1,1 @@
+game.Players.LocalPlayer:Kick("Your player file has been deleted due to suspicious account activity")

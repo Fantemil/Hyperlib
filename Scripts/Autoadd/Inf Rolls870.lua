@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Aura-Craft/main/Nameless%20Script"))()

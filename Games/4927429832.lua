@@ -1,0 +1,4 @@
+
+    addscript(4927429832, "Current Game","auto farm pearl quest", "Uploaded by Sweatmod3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20pearl%20quest795.lua", "https://scriptblox.com/script/Wonder-Woman:-The-Themyscira-Experience-auto-farm-14593")
+    addscriptexist(4927429832, "auto farm all type", "Uploaded by Sweatmod3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20all%20type302.lua", "https://scriptblox.com/script/Wonder-Woman:-The-Themyscira-Experience-auto-farm-all-type-14595")
+                                    

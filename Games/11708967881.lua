@@ -1,2 +1,4 @@
 
 addscript(11708967881, "Current Game","Yeet A Friend Script By Greek Salad Team", "Uploaded by Duo on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Yeet%20A%20Friend%20Script%20By%20Greek%20Salad%20Team49.lua", "https://rscripts.net/script/yeet-a-friend-script-by-greek-salad-team-4048")
+    addscriptexist(11708967881, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L860.lua", "https://scriptblox.com/script/Yeet-A-Friend!-Project-L-12377")
+                                    

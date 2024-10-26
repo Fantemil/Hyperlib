@@ -1,0 +1,2 @@
+
+    addscript(18461536252, "Current Game","dh camlock", "Uploaded by wagoneggsonly on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/dh%20camlock699.lua", "https://scriptblox.com/script/CAT-PACK-Dee-Hood-da-camlock-16998")

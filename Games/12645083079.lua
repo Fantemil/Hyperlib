@@ -1,0 +1,2 @@
+
+    addscript(12645083079, "Current Game","Auto farm", "Uploaded by shenzeuliyle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm120.lua", "https://scriptblox.com/script/Giant-Simulator-CLASSIC-Auto-farm-15450")

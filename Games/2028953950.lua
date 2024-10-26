@@ -1,0 +1,2 @@
+
+    addscript(2028953950, "Current Game","KR1B GUI", "Uploaded by Zenazastupnevic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KR1B%20GUI139.lua", "https://scriptblox.com/script/Escape-The-Hospital-Obby-(READ-DESC)-KR1B-GUI-14936")

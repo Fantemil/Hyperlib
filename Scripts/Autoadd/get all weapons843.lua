@@ -1,0 +1,2 @@
+https://discord.gg/KF6k32BD 
+JOIN DISCORD SERVER TO GET IT

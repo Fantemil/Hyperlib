@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ECCSco/ECCS-V3/refs/heads/main/Hug%20Tool%20R6"))("Copyright ERROR_CODE ECCS Co")

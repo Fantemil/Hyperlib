@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Purchase:FireServer(game:GetService("Lighting").Gears.Cheezburger,-9e9)

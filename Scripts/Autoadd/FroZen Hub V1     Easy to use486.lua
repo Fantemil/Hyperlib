@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SyrTop/FroZenHub/main/V1/FroZenV1_LOADER.lua.txt"))()

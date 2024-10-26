@@ -1,0 +1,4 @@
+
+    addscript(12949951201, "Current Game","Bring Goal And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bring%20Goal%20And%20More143.lua", "https://scriptblox.com/script/NHL-Blast-Bring-Goal-And-More-13598")
+    addscriptexist(12949951201, "Auto CheckPoint And more", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20CheckPoint%20And%20more73.lua", "https://scriptblox.com/script/NHL-Blast-Auto-CheckPoint-And-more-13767")
+                                    

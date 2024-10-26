@@ -1,0 +1,3 @@
+-- https://discord.gg/Cs6vJNvREc
+-- features are in the discord
+-- https://discord.gg/Cs6vJNvREc

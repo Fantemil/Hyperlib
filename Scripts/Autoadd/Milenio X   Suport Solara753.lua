@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nearz1/Milenio-X-Hub/main/Key%20System%20On%20Top"))()

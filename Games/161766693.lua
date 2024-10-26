@@ -1,0 +1,2 @@
+
+    addscript(161766693, "Current Game","gui pgft", "Uploaded by ItsSimplyGav on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui%20pgft125.lua", "https://scriptblox.com/script/2-Player-Gun-Factory-Tycoon-gui-pgft-10569")

@@ -1,0 +1,2 @@
+
+    addscript(16537295657, "Current Game","Hunt", "Uploaded by SumitScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hunt388.lua", "https://scriptblox.com/script/The-Hunt:-First-Edition-Hunt-11366")

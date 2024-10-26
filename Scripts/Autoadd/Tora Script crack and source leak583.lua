@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/cracklua/cracks/m/ToraWL")'open source ~25ms'

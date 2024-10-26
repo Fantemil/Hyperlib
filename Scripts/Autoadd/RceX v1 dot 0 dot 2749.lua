@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OrzScript/RaceX/main/RaceX_1.0.2_Obfuscated.txt",true))()

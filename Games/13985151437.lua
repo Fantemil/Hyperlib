@@ -1,0 +1,2 @@
+
+    addscript(13985151437, "Current Game","Sussy Hub", "Uploaded by Lerazz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sussy%20Hub783.lua", "https://scriptblox.com/script/Casual-Stock-BETA-Sussy-Hub-12690")

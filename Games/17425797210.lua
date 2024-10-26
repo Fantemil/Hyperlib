@@ -1,0 +1,4 @@
+
+    addscript(17425797210, "Current Game","Infinite Five Seasons with nocooldown", "Uploaded by Rwal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Five%20Seasons%20with%20nocooldown392.lua", "https://scriptblox.com/script/KJ-Arena-Infinite-Five-Seasons-15589")
+    addscriptexist(17425797210, "Budgie Hub", "Uploaded by Hamsterovich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub929.lua", "https://scriptblox.com/script/KJ-Arena-Budgie-Hub-15738")
+                                    

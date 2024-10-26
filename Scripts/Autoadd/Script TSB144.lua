@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-BEST-TSB-SCRIPT-TAMHUB-GOJO-17125"))()

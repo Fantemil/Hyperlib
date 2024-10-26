@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/audaxide/r/main/scripts/gymleague.lua"))()

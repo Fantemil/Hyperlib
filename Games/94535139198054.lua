@@ -1,0 +1,2 @@
+
+    addscript(94535139198054, "Current Game","K00pgui REQUIRE", "Uploaded by S0idkid on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/K00pgui%20REQUIRE834.lua", "https://scriptblox.com/script/Redish's-chill-starter-place-K00pgui-REQUIRE-19580")

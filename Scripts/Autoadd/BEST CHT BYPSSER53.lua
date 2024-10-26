@@ -1,0 +1,4 @@
+https://discord.gg/QF7k9p8ga5
+
+CREDS TO WHOEVER MADE.. 
+JOIN THE DISCORD FOR IT

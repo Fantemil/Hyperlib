@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/MuhXd/Roblox-mobile-script/blob/main/PartyGame.lua?raw=true" ))();

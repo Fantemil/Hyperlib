@@ -1,0 +1,4 @@
+
+    addscript(102071719445554, "Current Game","C00LKIDD", "Uploaded by ooa665992 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/C00LKIDD454.lua", "https://scriptblox.com/script/Local-de-yp00xdd-C00LKIDD-20334")
+    addscriptexist(102071719445554, "1x1x1x1x1 gui yp00xd by Lua", "Uploaded by ooa665992 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/1x1x1x1x1%20gui%20yp00xd%20by%20Lua471.lua", "https://scriptblox.com/script/Local-de-yp00xdd-1x1x1x1x1-gui-yp00xd-by-Lua-20336")
+                                    

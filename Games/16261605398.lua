@@ -1,0 +1,2 @@
+
+    addscript(16261605398, "Current Game","KILL ALL", "Uploaded by Brick_Playz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KILL%20ALL927.lua", "https://scriptblox.com/script/Airsoft-Battles-KILL-ALL-15761")

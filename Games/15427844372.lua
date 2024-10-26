@@ -1,0 +1,6 @@
+
+    addscript(15427844372, "Current Game","pls make script for  acsension", "Uploaded by omninoobyt1alt1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/pls%20make%20script%20for%20%20acsension904.lua", "https://scriptblox.com/script/(ITEMS!)-Celestial-Ascension-pls-make-script-for-acsension-13148")
+    addscriptexist(15427844372, "every update i will make a script req until i get the script", "Uploaded by omninoobyt1alt1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/every%20update%20i%20will%20make%20a%20script%20req%20until%20i%20get%20the%20script39.lua", "https://scriptblox.com/script/(UPD-49-TRADING!)-Celestial-Ascension-every-update-i-will-make-a-script-req-until-i-get-the-script-14652")
+                                    
+    addscriptexist(15427844372, "Request", "Uploaded by princeko807 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request842.lua", "https://scriptblox.com/script/Celestial-Ascension-Request-19857")
+                                    

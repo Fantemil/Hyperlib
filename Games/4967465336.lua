@@ -4,3 +4,9 @@ addscriptexist(4967465336, "OP GET ALL ADDON FOR FREE Copy the script before i d
                                 
     addscriptexist(4967465336, "Very Op Script Get All Addon", "Uploaded by HelloWorld_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20Op%20Script%20Get%20All%20Addon738.lua", "https://scriptblox.com/script/Ray's-Mod-Very-Op-Script-Get-All-Addon-8796")
                                     
+    addscriptexist(4967465336, "summon secret shrek", "Uploaded by xyzzr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/summon%20secret%20shrek15.lua", "https://scriptblox.com/script/Ray's-Mod-s*-shrek-15672")
+                                    
+    addscriptexist(4967465336, "infinite health script", "Uploaded by xyzzr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/infinite%20health%20script369.lua", "https://scriptblox.com/script/Ray's-Mod-*e-15669")
+                                    
+    addscriptexist(4967465336, "Get free all addons Edit", "Uploaded by LPHFN44 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20free%20all%20addons%20Edit918.lua", "https://scriptblox.com/script/Ray's-Mod-Get-free-all-addons-19282")
+                                    

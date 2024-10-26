@@ -1,0 +1,2 @@
+
+    addscript(3121370344, "Current Game","GUI OP", "Uploaded by nora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20OP228.lua", "https://scriptblox.com/script/Pears-to-Pairs-Card-Game-GUI-OP-18860")

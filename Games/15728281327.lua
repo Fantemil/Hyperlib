@@ -1,0 +1,2 @@
+
+    addscript(15728281327, "Current Game","Drowned hub", "Uploaded by Malfume on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Drowned%20hub235.lua", "https://scriptblox.com/script/RELEASE-Shinobi-Lineage-Drowned-hub-14334")

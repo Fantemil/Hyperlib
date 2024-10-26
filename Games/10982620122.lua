@@ -1,0 +1,10 @@
+
+    addscript(10982620122, "Current Game","added boxattacks godmode", "Uploaded by lollertopka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/added%20boxattacks%20godmode893.lua", "https://scriptblox.com/script/TRIDENT-REWORK-Undertale:-Last-Corridor-i-swear-its-repost-added-box-attacks-god-mode-18690")
+    addscriptexist(10982620122, "SinglePlayer Autofarm", "Uploaded by lollertopka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SinglePlayer%20Autofarm571.lua", "https://scriptblox.com/script/UFR-EVENT-+-BACKBONE-Undertale:-Last-Corridor-SinglePlayer-Autofarm-18946")
+                                    
+    addscriptexist(10982620122, "multiplayer inf dodge fixed", "Uploaded by lollertopka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/multiplayer%20inf%20dodge%20fixed620.lua", "https://scriptblox.com/script/TRIDENT-REWORK-Undertale:-Last-Corridor-multiplayer-inf-dodge-fixed-18616")
+                                    
+    addscriptexist(10982620122, "js my first script", "Uploaded by lollertopka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/js%20my%20first%20script603.lua", "https://scriptblox.com/script/TRIDENT-REWORK-Undertale:-Last-Corridor-js-my-first-script-18393")
+                                    
+    addscriptexist(10982620122, "ty gojo script its really bad", "Uploaded by lollertopka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ty%20gojo%20script%20its%20really%20bad886.lua", "https://scriptblox.com/script/TRIDENT-REWORK-Undertale:-Last-Corridor-*ty-gojo-script-its-really-bad-18405")
+                                    

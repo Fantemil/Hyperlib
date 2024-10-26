@@ -1,0 +1,2 @@
+
+    addscript(10929014800, "Current Game","Banana TP", "Uploaded by pabloscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Banana%20TP94.lua", "https://scriptblox.com/script/Minion-Tycoon-Banana-TP-17091")

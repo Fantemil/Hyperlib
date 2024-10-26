@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://raw.githubusercontent.com/Justaverageguym/Hub/main/Scripts/Regretevator.lua")))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/liebertsx/collection/main/script/non.lua",true))()

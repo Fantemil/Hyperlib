@@ -1,0 +1,2 @@
+
+    addscript(17193646590, "Current Game","Test  Scripts", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Test%20%20Scripts457.lua", "https://scriptblox.com/script/Genesis-Testing-Test-Scripts-12351")

@@ -1,0 +1,2 @@
+
+    addscript(17610920645, "Current Game","INF Money", "Uploaded by luxion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INF%20Money292.lua", "https://scriptblox.com/script/Clone-Army-INF-Money-16448")

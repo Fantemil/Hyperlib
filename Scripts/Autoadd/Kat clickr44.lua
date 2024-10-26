@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nikoladhima/Cat-Clicker/refs/heads/main/Cat-Clicker%20Source"))()

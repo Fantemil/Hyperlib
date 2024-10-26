@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bac0nHck/Scripts/main/Kung%20Fu%20Panda%204%20Obby"))()

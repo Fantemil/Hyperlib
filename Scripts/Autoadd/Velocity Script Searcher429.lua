@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/corrupted2222/corrupted-projects/main/velocity/loader/script-searcher/main.lua"))()

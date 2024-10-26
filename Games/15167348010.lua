@@ -8,3 +8,5 @@
                                     
     addscriptexist(15167348010, "FIRST SCRIPT V5", "Uploaded by ROBLOXSCRIPTS2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIRST%20SCRIPT%20V5518.lua", "https://scriptblox.com/script/EP-68!-Skibidi-Toilet-Tower-Defense-FIRST-SCRIPT-V5-9416")
                                     
+    addscriptexist(15167348010, "defence", "Uploaded by SumitScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/defence570.lua", "https://scriptblox.com/script/EP-68-2!-Skibidi-Toilet-Tower-Defense-defence-10540")
+                                    

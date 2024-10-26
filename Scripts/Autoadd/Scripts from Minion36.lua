@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/THE-HUNT-BARRYS-PRISON-RUN-OBBY/main/Scripts%20from%20Minion"))()

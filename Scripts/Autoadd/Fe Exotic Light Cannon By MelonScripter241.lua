@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MelonsStuff/hub/main/ExoticLC.txt"))()

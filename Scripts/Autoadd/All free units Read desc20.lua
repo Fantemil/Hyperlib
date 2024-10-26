@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/EP-70-PART-2-Bathroom-Tower-Defense-X-of-10465", true))()

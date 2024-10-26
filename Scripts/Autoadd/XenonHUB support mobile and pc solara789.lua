@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/XenonLUA/XenonHUB/refs/heads/main/Script/find%20doors%20morphs.lua"))()

@@ -1,0 +1,12 @@
+
+    addscript(6897167394, "Current Game","Bandits insta kill auto farms and auto collect fruits gui", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bandits%20insta%20kill%20auto%20farms%20and%20auto%20collect%20fruits%20gui776.lua", "https://scriptblox.com/script/RELEASE-Demon-Piece-Bandits-insta-kill-auto-farms-and-auto-collect-fruits-gui-13068")
+    addscriptexist(6897167394, "Xenon HUB", "Uploaded by Agatha on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xenon%20HUB200.lua", "https://scriptblox.com/script/UPDATE-1-Fruit-Seas-Xenon-HUB-13469")
+                                    
+    addscriptexist(6897167394, "Script Request   Other Name Called Demon Piece", "Uploaded by Catullah on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request%20%20%20Other%20Name%20Called%20Demon%20Piece559.lua", "https://scriptblox.com/script/UPDATE-1-Fruit-Seas-Script-Request-Other-Name-Called-Demon-Piece-13445")
+                                    
+    addscriptexist(6897167394, "Best Auto Max Level Script and More", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Max%20Level%20Script%20and%20More682.lua", "https://scriptblox.com/script/UPDATE-1-Fruit-Seas-Best-Auto-Max-Level-Script-and-More-13447")
+                                    
+    addscriptexist(6897167394, "Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More710.lua", "https://scriptblox.com/script/RELEASE-Demon-Piece-Auto-Farm-And-More-12916")
+                                    
+    addscriptexist(6897167394, "Auto Quest and Auto Max Level and FREE FRUIT NOTIFIER", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Quest%20and%20Auto%20Max%20Level%20and%20FREE%20FRUIT%20NOTIFIER164.lua", "https://scriptblox.com/script/RELEASE-Demon-Piece-Auto-Quest-and-Auto-Max-Level-12413")
+                                    

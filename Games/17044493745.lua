@@ -1,0 +1,2 @@
+
+    addscript(17044493745, "Current Game","Best Auto Farm Script", "Uploaded by premscripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Script927.lua", "https://scriptblox.com/script/Extalia-Simulator-Best-Auto-Farm-Script-13005")

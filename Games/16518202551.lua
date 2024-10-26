@@ -1,0 +1,2 @@
+
+    addscript(16518202551, "Current Game","Op script", "Uploaded by tapgameing3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script762.lua", "https://scriptblox.com/script/(2x-And-Error404-Chara)A-bit-balanced-soul-ops-Op-script-17494")

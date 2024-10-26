@@ -1,0 +1,2 @@
+
+    addscript(13736262981, "Current Game","Give All Item", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20All%20Item970.lua", "https://scriptblox.com/script/Destroy-the-bridge-andamp-Crash-trains-Give-All-Item-19059")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamingBears/Scripts/main/PlasmaLoader"))()

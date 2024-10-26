@@ -20,3 +20,15 @@ addscriptexist(4889315193, "R3TH PRIV", "Uploaded by kayshawn on scriptblox.com"
                                 
     addscriptexist(4889315193, "RBLX", "Uploaded by beth1010xx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBLX721.lua", "https://scriptblox.com/script/Total-Roblox-Drama-RBLX-9303")
                                     
+    addscriptexist(4889315193, "SEE VOTES", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SEE%20VOTES918.lua", "https://scriptblox.com/script/Total-Roblox-Drama-SEE-VOTES-18122")
+                                    
+    addscriptexist(4889315193, "Math Mania Autofill", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Math%20Mania%20Autofill426.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Math-Mania-Autofill-18121")
+                                    
+    addscriptexist(4889315193, "Jann Hub  Camp", "Uploaded by jackyes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jann%20Hub%20%20Camp893.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Jann-Hub-10804")
+                                    
+    addscriptexist(4889315193, "votes", "Uploaded by jnbf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/votes139.lua", "https://scriptblox.com/script/Total-Roblox-Drama-votes-15860")
+                                    
+    addscriptexist(4889315193, "Camp Map Script5890", "Uploaded by justatmeasthis on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Camp%20Map%20Script5890579.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Camp-Map-Script-10558")
+                                    
+    addscriptexist(4889315193, "Jann Hub I OLD UI", "Uploaded by jackyes on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jann%20Hub%20I%20OLD%20UI586.lua", "https://scriptblox.com/script/Total-Roblox-Drama-Jann-Hub-I-OLD-UI-19298")
+                                    

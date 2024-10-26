@@ -1,2 +1,4 @@
 
 addscript(10476933477, "Current Game","cash grab game script wanted to kms making", "Uploaded by Novaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/cash%20grab%20game%20script%20wanted%20to%20kms%20making657.lua", "https://scriptblox.com/script/BELUGA-Strong-Ninja-Simulator-cash-grab-game-script-wanted-to-kms-making-4963")
+    addscriptexist(10476933477, "AutoFarm", "Uploaded by Jame on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm429.lua", "https://scriptblox.com/script/andx1F30CVOID-Strong-Ninja-Simulator-AutoFarm-15848")
+                                    

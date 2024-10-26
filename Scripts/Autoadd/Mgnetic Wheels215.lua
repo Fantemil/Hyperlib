@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.PDF.TrackMagnetsOn.Value = true

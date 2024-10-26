@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MrolivesGaming/HexHub/main/_games/WordBomb/publicBeta.lua"))()

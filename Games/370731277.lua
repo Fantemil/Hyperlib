@@ -12,3 +12,5 @@ addscript(370731277, "Current Game","Fling target UPDATE 2", "Uploaded by MakerS
                                 
 addscriptexist(370731277, "New Meepcity Script With Fixed Stuff", "Uploaded by Toddy on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Meepcity%20Script%20With%20Fixed%20Stuff914.lua", "https://rscripts.net/script/new-meepcity-script-with-fixed-stuff-3467")
                                 
+    addscriptexist(370731277, "Freegamepass", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freegamepass599.lua", "https://scriptblox.com/script/MeepCity-Freegamepass-14361")
+                                    

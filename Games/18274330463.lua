@@ -1,0 +1,2 @@
+
+    addscript(18274330463, "Current Game","OxyHubV2", "Uploaded by xdo7478 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OxyHubV226.lua", "https://scriptblox.com/script/Free-KJ-game-(KJ-Moveset)-OxyHubV2-17576")

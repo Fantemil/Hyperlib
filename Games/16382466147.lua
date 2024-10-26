@@ -1,0 +1,2 @@
+
+    addscript(16382466147, "Current Game","script request", "Uploaded by Sharkie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request827.lua", "https://scriptblox.com/script/WAR-MACHINE-TDS:-RPG-script-request-19794")

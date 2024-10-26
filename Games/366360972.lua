@@ -1,0 +1,2 @@
+
+    addscript(366360972, "Current Game","Restored OP Script", "Uploaded by xubs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Restored%20OP%20Script174.lua", "https://scriptblox.com/script/Zombie-Rush:-Testing-Restored-OP-Script-15528")

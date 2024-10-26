@@ -1,0 +1,2 @@
+
+    addscript(14662419251, "Current Game","very useful script on auto click", "Uploaded by nbamwyd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20useful%20script%20on%20auto%20click944.lua", "https://scriptblox.com/script/Desert-Bus-very-useful-script-*on-auto-click-15331")

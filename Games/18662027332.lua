@@ -1,0 +1,2 @@
+
+    addscript(18662027332, "Current Game","OpenSource OP Script", "Uploaded by DragonZ_TH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OpenSource%20OP%20Script102.lua", "https://scriptblox.com/script/Toilet-Defense-RNG-OpenSource-19003")

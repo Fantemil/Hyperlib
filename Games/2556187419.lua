@@ -1,0 +1,4 @@
+
+    addscript(2556187419, "Current Game","XHUB NEW UPDATED", "Uploaded by srdinero123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XHUB%20NEW%20UPDATED949.lua", "https://scriptblox.com/script/Guerra-de-Torres-XHUB-16217")
+    addscriptexist(2556187419, "Battle of Towers Complete Script OP", "Uploaded by Bloxxy20 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Battle%20of%20Towers%20Complete%20Script%20OP342.lua", "https://scriptblox.com/script/Guerra-de-Torres-Battle-of-Towers-Complete-Script-OP-15342")
+                                    

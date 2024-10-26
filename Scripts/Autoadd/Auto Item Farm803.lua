@@ -1,0 +1,2 @@
+getgenv().ItemWanted = "Red apple"--You have to name the item exactly how it's named in game
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HummingBird8/HummingRn/main/AOAutoItembysenS"))()

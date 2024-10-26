@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nearz1/Milenio-X-Hub/main/Universal%20FE"))()

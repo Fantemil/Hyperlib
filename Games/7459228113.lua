@@ -1,0 +1,2 @@
+
+    addscript(7459228113, "Current Game","developer AND rainbow  equip", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/developer%20AND%20rainbow%20%20equip16.lua", "https://scriptblox.com/script/MODDED!-Sol's-RNG-TEST-or-Best-Aura-Test-Place!-developer-AND-rainbow-equip-17189")

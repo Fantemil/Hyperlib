@@ -1,0 +1,1 @@
+print("Please join our server, https://dsc.gg/noxyhub")

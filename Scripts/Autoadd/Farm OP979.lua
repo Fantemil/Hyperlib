@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/OMOScripts/Share-Scripts/main/SB%7C%20SlapFarm_Gui")()

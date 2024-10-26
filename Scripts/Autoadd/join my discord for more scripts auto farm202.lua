@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jam103938/My-script/main/BUBBLE%20CHAMPIONS.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(16427268143, "Current Game","ok is so op", "Uploaded by i_think on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ok%20is%20so%20op594.lua", "https://scriptblox.com/script/ENGINEER-Ability-Wars-Tower-Defense-ok-is-so-op-16427")

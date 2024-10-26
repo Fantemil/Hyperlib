@@ -1,0 +1,2 @@
+
+    addscript(87748982745967, "Current Game","searching for a dev", "Uploaded by noov on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/searching%20for%20a%20dev787.lua", "https://scriptblox.com/script/Test-searching-for-a-dev-21060")

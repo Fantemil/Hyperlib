@@ -1,0 +1,2 @@
+
+    addscript(9156362174, "Current Game","Skibidi Hub", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20Hub335.lua", "https://scriptblox.com/script/UPDATE!-Millionaire-Empire-Tycoon-Skibidi-Hub-17921")

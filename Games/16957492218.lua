@@ -1,0 +1,2 @@
+
+    addscript(16957492218, "Current Game","Script", "Uploaded by D1amond on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script647.lua", "https://scriptblox.com/script/Climb-1000-Ladders-Script-19165")

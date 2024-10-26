@@ -1,0 +1,2 @@
+
+    addscript(18341181766, "Current Game","Inf strength but not inf", "Uploaded by luxion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20strength%20but%20not%20inf216.lua", "https://scriptblox.com/script/Season-Push-Up-Training-Simulator-Inf-strength-but-not-inf-16749")

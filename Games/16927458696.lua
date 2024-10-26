@@ -1,0 +1,2 @@
+
+    addscript(16927458696, "Current Game","Find All Easter", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20All%20Easter248.lua", "https://scriptblox.com/script/Numberblock-EGG-HUNT-2024-UPDATED-50-EGGS-Find-All-Easter-s-20948")

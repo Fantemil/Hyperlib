@@ -1,0 +1,2 @@
+
+    addscript(12931609417, "Current Game","Esp", "Uploaded by KETCHIMO on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp681.lua", "https://scriptblox.com/script/Color-or-Die-Esp-12555")

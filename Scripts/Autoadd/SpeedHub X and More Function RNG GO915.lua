@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nikolusss/sr/refs/heads/main/uniq"))()

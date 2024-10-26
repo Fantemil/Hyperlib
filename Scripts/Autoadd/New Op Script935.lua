@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeavyHub/HeavyHubAnimeVanguard/refs/heads/main/Op%20Anime%20Vanguard"))()

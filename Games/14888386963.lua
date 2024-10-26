@@ -1,0 +1,4 @@
+
+    addscript(14888386963, "Current Game","loop spawn gold loop make holes loop bring zombies", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loop%20spawn%20gold%20loop%20make%20holes%20loop%20bring%20zombies17.lua", "https://scriptblox.com/script/Colony-Survival-(Survivors-Update-)-loop-spawn-gold-loop-make-holes-loop-bring-zombies-12446")
+    addscriptexist(14888386963, "Money Script", "Uploaded by AladinSverkel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Money%20Script85.lua", "https://scriptblox.com/script/Colony-Survival-(Flamethrowers-Update-)-Money-Script-12406")
+                                    

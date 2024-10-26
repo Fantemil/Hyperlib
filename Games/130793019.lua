@@ -20,3 +20,9 @@ addscriptexist(130793019, "menu", "Uploaded by Co0lkidd1197 on scriptblox.com", 
                                 
 addscriptexist(130793019, "CSS ID Objects", "Uploaded by kirillpivtsov1998 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSS%20ID%20Objects239.lua", "https://scriptblox.com/script/Classic-Sonic-Simulator-V12-CSS-ID-Objects-7871")
                                 
+    addscriptexist(130793019, "CSS Revolution", "Uploaded by kirillpivtsov1998 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSS%20Revolution73.lua", "https://scriptblox.com/script/Classic-Sonic-Simulator-V12-CSS-Revolution-16687")
+                                    
+    addscriptexist(130793019, "CSS Script Revolution Auto", "Uploaded by kirillpivtsov1998 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSS%20Script%20Revolution%20Auto644.lua", "https://scriptblox.com/script/Classic-Sonic-Simulator-V12-CSS-Script-Revolution-Auto-17557")
+                                    
+    addscriptexist(130793019, "CSS Newest", "Uploaded by kirillpivtsov1998 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CSS%20Newest127.lua", "https://scriptblox.com/script/Classic-Sonic-Simulator-V12-CSS-Newest-10353")
+                                    

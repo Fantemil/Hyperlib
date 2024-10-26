@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/blueman5/Abilitywars/main/bot",true))()

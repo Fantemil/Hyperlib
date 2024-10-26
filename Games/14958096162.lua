@@ -1,0 +1,2 @@
+
+    addscript(14958096162, "Current Game","Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L95.lua", "https://scriptblox.com/script/Evolve-Era-22.4-Project-L-17474")

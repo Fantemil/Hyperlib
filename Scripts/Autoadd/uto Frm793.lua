@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Lemuri4/lemuriscript/main/Ride%20a%20Cart%20Simulator.lua"))()

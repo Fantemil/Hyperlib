@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-UPDATE-Slap-Battles-/main/Very%20Op%20script"))()

@@ -1,0 +1,2 @@
+
+    addscript(5038415, "Current Game","Troll Reborn", "Uploaded by T00S on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Troll%20Reborn737.lua", "https://scriptblox.com/script/Lumber-Tycoon-Troll-Reborn-15658")

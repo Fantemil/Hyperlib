@@ -1,0 +1,2 @@
+
+    addscript(137740015283291, "Current Game","OP", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP589.lua", "https://scriptblox.com/script/Be-a-Pickaxe-OP-18965")

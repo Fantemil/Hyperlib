@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Obunga-666/Lalol-hub-without-hint/refs/heads/main/Lalol%20hub%20without%20hint"))()

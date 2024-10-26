@@ -1,0 +1,4 @@
+
+    addscript(10149471313, "Current Game","OP GUI Madbuk Scripts", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20GUI%20Madbuk%20Scripts7.lua", "https://scriptblox.com/script/Zombie-Survival-Garry's-Mod-OP-GUI-Madbuk-Scripts-15557")
+    addscriptexist(10149471313, "V2 Even More OP", "Uploaded by thanhtam8765 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/V2%20Even%20More%20OP927.lua", "https://scriptblox.com/script/Zombie-Survival-Garry's-Mod-V2-Even-More-OP-16051")
+                                    

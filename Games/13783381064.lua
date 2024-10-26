@@ -1,0 +1,2 @@
+
+    addscript(13783381064, "Current Game","Inf Money", "Uploaded by money on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money474.lua", "https://scriptblox.com/script/Investor-Simulator-Inf-Money-18769")

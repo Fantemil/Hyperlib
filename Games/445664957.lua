@@ -12,3 +12,7 @@ addscriptexist(445664957, "bag auto farm", "Uploaded by Hydra_ on scriptblox.com
                                 
     addscriptexist(445664957, "Mark bags distance", "Uploaded by Konethorix on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mark%20bags%20distance924.lua", "https://scriptblox.com/script/PARKOUR-Halloween-Mark-bags-distance-9159")
                                     
+    addscriptexist(445664957, "OP Point Script", "Uploaded by kaanduzg1n on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Point%20Script828.lua", "https://scriptblox.com/script/PARKOUR-OP-Point-Script-12306")
+                                    
+    addscriptexist(445664957, "Halloween points farm OPEN SOURCE", "Uploaded by FutureQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Halloween%20points%20farm%20OPEN%20SOURCE118.lua", "https://scriptblox.com/script/PARKOUR-Halloween-points-farm-OPEN-SOURCE-20186")
+                                    

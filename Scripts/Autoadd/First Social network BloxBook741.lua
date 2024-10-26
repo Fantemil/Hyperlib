@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ECCSco/ECCS-V3/main/BloxBook"))("Copyright ERROR_CODE ECCS Co")

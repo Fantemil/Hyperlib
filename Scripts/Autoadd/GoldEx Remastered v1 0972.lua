@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OrzScript/GoldEx/main/GoldEx%20Remastered%20v1.0(Legend%20of%20speed).txt",true))()

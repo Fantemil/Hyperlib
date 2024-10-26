@@ -1,0 +1,1 @@
+loadstring(game:Httpget("https://github.com/HHLKDEVHACKER/Scripts/raw/main/JanHub9.lua"))()

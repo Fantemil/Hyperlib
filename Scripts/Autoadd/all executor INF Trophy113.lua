@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet("https://raw.githubusercontent.com/XenonLoader/Loaders/refs/heads/main/No%20loader/Clim%20Race%20Simulator.lua"))()

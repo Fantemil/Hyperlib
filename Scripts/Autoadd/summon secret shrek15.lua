@@ -1,0 +1,1 @@
+game.ReplicatedStorage.SpawnObject:FireServer("Shrek")

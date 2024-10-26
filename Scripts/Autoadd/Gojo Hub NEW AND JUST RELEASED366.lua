@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/gojohubreborn/Gojo-Hub-Official/refs/heads/main/Strongest%20Battlegrounds", true))()

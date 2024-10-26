@@ -1,0 +1,2 @@
+
+    addscript(1296881293, "Current Game","Instant ugc low stock", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20ugc%20low%20stock239.lua", "https://scriptblox.com/script/GHOST-SHIP!-Warship-Roleplay-or-WW2-Instant-ugc-low-stock-20916")

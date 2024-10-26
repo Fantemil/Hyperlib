@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/nizartitwaniii/KulthX-BAR/main/KulthX%20bar"))()

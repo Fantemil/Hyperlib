@@ -1,0 +1,2 @@
+
+    addscript(5496455308, "Current Game","Anticheat Bypass", "Uploaded by swqely on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anticheat%20Bypass163.lua", "https://scriptblox.com/script/Tower-FL-Anticheat-Bypass-12148")

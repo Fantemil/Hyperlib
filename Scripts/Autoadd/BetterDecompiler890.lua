@@ -1,0 +1,1 @@
+https://github.com/OfficiallyMelon/BetterDecompiler?tab=readme-ov-file#installation

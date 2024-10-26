@@ -1,0 +1,4 @@
+
+    addscript(16745173199, "Current Game","AUTO QUEST AND AUTO LEVEL FARM", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AUTO%20QUEST%20AND%20AUTO%20LEVEL%20FARM112.lua", "https://scriptblox.com/script/UPDATE-1-Hunter-Era-AUTO-QUEST-AND-AUTO-LEVEL-FARM-15654")
+    addscriptexist(16745173199, "WORKS IN SOLARA AND MOBILE", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/WORKS%20IN%20SOLARA%20AND%20MOBILE237.lua", "https://scriptblox.com/script/RELEASE-Hunter-Era-WORKS-IN-SOLARA-AND-MOBILE-15344")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(17204927666, "Current Game","Free Badge Giver", "Uploaded by Partner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Badge%20Giver247.lua", "https://scriptblox.com/script/Guess-The-Word-4-Pics-1-Word-Free-Badge-Giver-13513")

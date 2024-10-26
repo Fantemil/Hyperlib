@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VGXMOD99/Vgxmod-Hub-game-/main/Natural%20Disasters%20.lua.txt"))()

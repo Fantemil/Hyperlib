@@ -1,0 +1,2 @@
+
+    addscript(667372002, "Current Game","Script request", "Uploaded by Bob70 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request797.lua", "https://scriptblox.com/script/AI-War-Red-vs.-Blue-Script-request-21034")

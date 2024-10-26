@@ -1,0 +1,2 @@
+--- If you dont own the script it wont join discord to purchase https://discord.gg/F7PfxpDzBu
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/1ac9b54586a547470e1dd3bdc77ee94c.lua"))()

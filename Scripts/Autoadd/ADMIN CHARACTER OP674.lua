@@ -1,0 +1,1 @@
+vote when i should release script in my discord https://discord.gg/DPGkG2fB

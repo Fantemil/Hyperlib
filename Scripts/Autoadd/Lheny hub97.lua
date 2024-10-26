@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Knockout-Simulator-Lheny-hub-17904"))()

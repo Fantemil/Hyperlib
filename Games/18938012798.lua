@@ -1,0 +1,2 @@
+
+    addscript(18938012798, "Current Game","Incognito Chat V277", "Uploaded by YTeber112 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Incognito%20Chat%20V27742.lua", "https://scriptblox.com/script/IncognitoChat-Hangout-or-UNIVERSAL-V2-17194")

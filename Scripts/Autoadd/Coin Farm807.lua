@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Hiklom/hikka/blob/main/Murder%20Mystery%202.lua"))()

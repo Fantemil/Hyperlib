@@ -1,0 +1,2 @@
+
+    addscript(14763449063, "Current Game","Gui Script", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20Script914.lua", "https://scriptblox.com/script/Wings-Obby-New-Wings!-*ty-Gui-Script-19405")

@@ -1,0 +1,2 @@
+
+    addscript(14847496962, "Current Game","BEST FAST AUTPARRY", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20FAST%20AUTPARRY272.lua", "https://scriptblox.com/script/EventWorld7!Gun-Warriors-BEST-FAST-AUTPARRY-12181")

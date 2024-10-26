@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZenHub103/Zen-Hub-/main/Benders%20Battle%20Arena"))()

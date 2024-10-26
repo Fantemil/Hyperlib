@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Orangecatgamer696969/Goose-Hub/main/Script", true))()

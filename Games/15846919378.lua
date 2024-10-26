@@ -1,0 +1,2 @@
+
+    addscript(15846919378, "Current Game","Script Request Faster Auto Summon please", "Uploaded by Cup1d_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request%20Faster%20Auto%20Summon%20please787.lua", "https://scriptblox.com/script/Five-Nights-TD-APEX-Script-Request-Faster-Auto-Summon-please-20895")

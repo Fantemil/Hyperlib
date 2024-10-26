@@ -1,0 +1,2 @@
+
+    addscript(16935820783, "Current Game","Repair Vehicle and Inf Fuel", "Uploaded by Noctural on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Repair%20Vehicle%20and%20Inf%20Fuel511.lua", "https://scriptblox.com/script/Untitled-Trip-Game-ALPHA-Repair-Vehicle-and-Inf-Fuel-18412")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaksakan/Kak.Hub-Key-System/main/Main/KeySystem/Free/Scripts"))()

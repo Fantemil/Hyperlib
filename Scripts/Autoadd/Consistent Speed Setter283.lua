@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Prexry/Fenx-X/main/speed.lua"))()

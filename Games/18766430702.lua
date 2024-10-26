@@ -1,0 +1,2 @@
+
+    addscript(18766430702, "Current Game","SCRIPT NEW GAME", "Uploaded by NamiHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20NEW%20GAME676.lua", "https://scriptblox.com/script/Anime-Verse-Simulator-SCRIPT-NEW-GAME-18047")

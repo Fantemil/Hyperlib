@@ -1,0 +1,2 @@
+
+    addscript(14079247169, "Current Game","Auto Build B0at And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Build%20B0at%20And%20More152.lua", "https://scriptblox.com/script/MANSIONS-Boat-Empire-Tycoon-Auto-Build-B0at-And-More-12635")

@@ -1,0 +1,1 @@
+local FileShortcuts = loadstring(game:HttpGet("https://github.com/MuhXd/Roblox-mobile-script/blob/main/Functions.lua?raw=true"))(); -- your script under

@@ -1,0 +1,2 @@
+
+    addscript(2913303231, "Current Game","GOD MODE", "Uploaded by robo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GOD%20MODE701.lua", "https://scriptblox.com/script/Obby-Creator-GOD-MODE-18548")

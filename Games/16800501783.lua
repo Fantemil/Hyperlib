@@ -1,0 +1,2 @@
+
+    addscript(16800501783, "Current Game","Super Fast Slime And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Super%20Fast%20Slime%20And%20More2.lua", "https://scriptblox.com/script/RELEASE-Incremental-Adventures-Super-Fast-Slime-And-More-12450")

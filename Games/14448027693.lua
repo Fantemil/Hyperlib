@@ -1,0 +1,2 @@
+
+    addscript(14448027693, "Current Game","Infinite money", "Uploaded by 3ve3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20money344.lua", "https://scriptblox.com/script/Mega-Princess-Tycoon-Infinite-money-15183")

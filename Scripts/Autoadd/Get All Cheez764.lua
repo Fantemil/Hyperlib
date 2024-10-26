@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/c396d2fa8d86e288b90b719d100e9ce6/raw/cb1c1d1e9a7e4dc0711f5c5c3ea4dcc43606c94a/Cheese%2520Escape%2520Script"))()

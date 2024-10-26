@@ -1,0 +1,2 @@
+
+    addscript(16986657774, "Current Game","Simple   script", "Uploaded by Crceck on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20%20%20script479.lua", "https://scriptblox.com/script/(Soon-)-Prisoner-Life-Simple-script-12392")

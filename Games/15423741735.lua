@@ -1,0 +1,4 @@
+
+    addscript(15423741735, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2617.lua", "https://scriptblox.com/script/RELEASE-Bladers:-Rebirth-Demonic-HUB-V2-12013")
+    addscriptexist(15423741735, "Auto Farm Trainer and more features", "Uploaded by x3Fall3nAngel on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Trainer%20and%20more%20features907.lua", "https://scriptblox.com/script/PVP-UPDATE!-Bladers:-Rebirth-Auto-Farm-Trainer-and-more-features-12159")
+                                    

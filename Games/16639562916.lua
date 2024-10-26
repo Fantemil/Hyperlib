@@ -1,0 +1,4 @@
+
+    addscript(16639562916, "Current Game","nightmare mode rewroten", "Uploaded by sauga77kjk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/nightmare%20mode%20rewroten539.lua", "https://scriptblox.com/script/STAY-AT-THE-WORST-HOTEL-EVER-KNOWN-TO-MANKIND-nightmare-mode-rewroten-14290")
+    addscriptexist(16639562916, "very scary or nightmare mode", "Uploaded by sauga77kjk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/very%20scary%20or%20nightmare%20mode768.lua", "https://scriptblox.com/script/STAY-AT-THE-WORST-HOTEL-EVER-KNOWN-TO-MANKIND-very-scary-or-nightmare-mode-14264")
+                                    

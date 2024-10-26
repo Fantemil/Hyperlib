@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CurseOfDarkness/CurseHubDoors/main/Curse%20Hub%20Doors"))()

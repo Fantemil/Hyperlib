@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/etotspia5/Reach-v5.0/main/Reach%20V5.0"))()

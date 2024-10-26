@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/P3nguinMinecraft/WizardSimulatorGUI/main/wizardsimulatorgui.lua"))()

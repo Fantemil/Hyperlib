@@ -18,3 +18,13 @@ addscriptexist(5712833750, "Auto Level n Coin and more", "Uploaded by KhSaeed90 
                                     
     addscriptexist(5712833750, "KL V2", "Uploaded by satorogojo984 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KL%20V2792.lua", "https://scriptblox.com/script/Animal-Simulator-KL-V2-9329")
                                     
+    addscriptexist(5712833750, "Animal  Script", "Uploaded by IkeDc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20%20Script125.lua", "https://scriptblox.com/script/Animal-Simulator-Animal-Script-16318")
+                                    
+    addscriptexist(5712833750, "Animal sim free coin EXP OP fixed", "Uploaded by Yuky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Animal%20sim%20free%20coin%20EXP%20OP%20fixed451.lua", "https://scriptblox.com/script/Animal-Simulator-Animal-sim-free-coin-EXP-OP-fixed-15649")
+                                    
+    addscriptexist(5712833750, "Dynamic hub Animal", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dynamic%20hub%20Animal887.lua", "https://scriptblox.com/script/Animal-Simulator-Dynamic-hub-ANIMAL-NATURAL-DISASTERS-12799")
+                                    
+    addscriptexist(5712833750, "Script Brasileiro ETHUS", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Brasileiro%20ETHUS260.lua", "https://scriptblox.com/script/Animal-Simulator-Script-Brasileiro-ETHUS-19140")
+                                    
+    addscriptexist(5712833750, "LT FRUITS", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LT%20FRUITS71.lua", "https://scriptblox.com/script/Animal-Simulator-LT-FRUITS-19315")
+                                    

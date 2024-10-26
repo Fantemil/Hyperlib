@@ -1,0 +1,2 @@
+
+    addscript(6911148748, "Current Game","Lunar hub v2", "Uploaded by Kabutsujin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lunar%20hub%20v2773.lua", "https://scriptblox.com/script/Car-Driving-Indonesia-Lunar-hub-v2-12376")

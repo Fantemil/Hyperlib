@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NaikoScript/Player-RNG-Plus/main/Script"))()

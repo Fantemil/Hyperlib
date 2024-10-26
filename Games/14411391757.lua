@@ -1,0 +1,2 @@
+
+    addscript(14411391757, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2202.lua", "https://scriptblox.com/script/(INFECTED-BOSS!)-Bathtubs-War-Demonic-HUB-V2-10567")

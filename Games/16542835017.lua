@@ -1,0 +1,2 @@
+
+    addscript(16542835017, "Current Game","Solara Supported", "Uploaded by EnterUsername on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Solara%20Supported715.lua", "https://scriptblox.com/script/NEW-ITEM!-FREE-UGC-SPINNER!-Solara-Supported-18300")

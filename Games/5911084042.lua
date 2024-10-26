@@ -1,0 +1,2 @@
+
+    addscript(5911084042, "Current Game","Kitty Hub", "Uploaded by benomat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty%20Hub164.lua", "https://scriptblox.com/script/Specter-BUNKER-04-Kitty-Hub-15409")

@@ -1,0 +1,2 @@
+
+    addscript(230362888, "Current Game","autofarm", "Uploaded by nick7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/autofarm643.lua", "https://scriptblox.com/script/The-Normal-Elevator-autofarm-10969")

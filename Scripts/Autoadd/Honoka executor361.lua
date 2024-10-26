@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jfdedit3/honoka-executor/main/Honoka%20executor%20byz4trox"))()

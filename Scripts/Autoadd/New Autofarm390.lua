@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MynameIsDoit/Timber2/refs/heads/main/Timber2.lua",true))()

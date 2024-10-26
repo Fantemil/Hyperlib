@@ -1,0 +1,2 @@
+
+    addscript(17309596342, "Current Game","RBScr1pts HUB Working on Solara", "Uploaded by kxaxs777 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RBScr1pts%20HUB%20Working%20on%20Solara950.lua", "https://scriptblox.com/script/(Fixed)-THE-RAKE:-Fan-Made-Edition-RBScr1pts-HUB-Working-on-Solara-16302")

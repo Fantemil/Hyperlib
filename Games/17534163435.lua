@@ -1,0 +1,4 @@
+
+    addscript(17534163435, "Current Game","Dungeon", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dungeon421.lua", "https://scriptblox.com/script/Dungeon-RNG-UPD10-Dungeon-17715")
+    addscriptexist(17534163435, "Auto Farm Auto Dungeon Auto pvp and other Good feature", "Uploaded by DinoZ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Dungeon%20Auto%20pvp%20and%20other%20Good%20feature825.lua", "https://scriptblox.com/script/Event-Dungeon-RNG-Auto-Farm-Auto-Dungeon-Auto-pvp-and-other-Good-feature-20470")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Valysee/Dti-script/refs/heads/main/Dti%20IDs%20v1"))() 

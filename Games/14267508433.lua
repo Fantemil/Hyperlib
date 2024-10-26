@@ -1,0 +1,2 @@
+
+    addscript(14267508433, "Current Game","uto Frm", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm793.lua", "https://scriptblox.com/script/Ride-a-Cart-Simulator-uto-Frm-12947")

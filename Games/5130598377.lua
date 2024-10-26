@@ -14,3 +14,35 @@ addscript(5130598377, "Current Game","A Universal Time NO COOLDOWN Attacks Items
                                 
     addscriptexist(5130598377, "Expensive HUB", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expensive%20HUB86.lua", "https://scriptblox.com/script/2.7:-Ascensions-A-Universal-Time-Expensive-HUB-7479")
                                     
+    addscriptexist(5130598377, "OP Instnt Kill", "Uploaded by Alon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Instnt%20Kill430.lua", "https://scriptblox.com/script/SUMMER-UPDATE-A-Universal-Time-3.5-OP-Instnt-Kill-15283")
+                                    
+    addscriptexist(5130598377, "Looking for  UT script but one tht works", "Uploaded by jakefrost1932 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Looking%20for%20%20UT%20script%20but%20one%20tht%20works515.lua", "https://scriptblox.com/script/A-Universal-Time-3.0-Looking-for-UT-script-but-one-tht-works-10731")
+                                    
+    addscriptexist(5130598377, "request", "Uploaded by xEno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request493.lua", "https://scriptblox.com/script/SUMMER-UPDATE-A-Universal-Time-3.5-request-15079")
+                                    
+    addscriptexist(5130598377, "ExpensiveHUB best script", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ExpensiveHUB%20best%20script123.lua", "https://scriptblox.com/script/GEAR-5-A-Universal-Time-3.7-ExpensiveHUB-best-script-17289")
+                                    
+    addscriptexist(5130598377, "Best SCRIPT", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20SCRIPT650.lua", "https://scriptblox.com/script/NEW-UPDATE-A-Universal-Time-3.3-Best-SCRIPT-12632")
+                                    
+    addscriptexist(5130598377, "Expensive Hub", "Uploaded by Alon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Expensive%20Hub505.lua", "https://scriptblox.com/script/SUMMER-UPDATE-A-Universal-Time-3.5-Universl-X-Expensive-Hub-15196")
+                                    
+    addscriptexist(5130598377, "Best OP", "Uploaded by sediksss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20OP381.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Best-OP-19728")
+                                    
+    addscriptexist(5130598377, "TIELHUB", "Uploaded by ANEWSTORI on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TIELHUB33.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-TIELHUB-19878")
+                                    
+    addscriptexist(5130598377, "New Best Op ut Script", "Uploaded by HeavyMachine on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Best%20Op%20ut%20Script247.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-New-Best-Op-ut-Script-19957")
+                                    
+    addscriptexist(5130598377, "Shdows hub v5", "Uploaded by Billysearry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Shdows%20hub%20v5816.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Shdows-hub-v5-20268")
+                                    
+    addscriptexist(5130598377, "op frm Source", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20frm%20Source449.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-op-frm-Source-20455")
+                                    
+    addscriptexist(5130598377, "Level 200 in seconds", "Uploaded by vaxtogood on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Level%20200%20in%20seconds984.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Level-200-in-seconds-20497")
+                                    
+    addscriptexist(5130598377, "universl  op uto scend open source", "Uploaded by neutral on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/universl%20%20op%20uto%20scend%20open%20source130.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Universl-OP-uto-scend-20583")
+                                    
+    addscriptexist(5130598377, "zurium", "Uploaded by Mat* on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/zurium347.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-zurium-20700")
+                                    
+    addscriptexist(5130598377, "request script inst bn", "Uploaded by Choira on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20script%20inst%20bn287.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-request-script-inst-bn-20820")
+                                    
+    addscriptexist(5130598377, "VIP Server Joiner", "Uploaded by mobulamantyke on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/VIP%20Server%20Joiner377.lua", "https://scriptblox.com/script/JUJUTSU-KAISEN-A-Universal-Time-3.8-Stingry-Crcker-FREE-PRIVTE-SERVER-20987")
+                                    

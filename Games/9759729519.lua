@@ -1,0 +1,2 @@
+
+    addscript(9759729519, "Current Game","ProBaconHub", "Uploaded by ProBaconHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBaconHub426.lua", "https://scriptblox.com/script/All-of-Us-Are-Dead-ProBaconHub-10935")

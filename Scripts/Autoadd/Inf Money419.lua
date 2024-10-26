@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Pro69Yes/sussy-Script/main/RaiseAPochitaINFmoney'))()

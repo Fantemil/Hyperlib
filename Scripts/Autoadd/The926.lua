@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events2024.AwardBadge:FireServer()

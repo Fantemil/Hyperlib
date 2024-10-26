@@ -1,0 +1,4 @@
+
+    addscript(18867087533, "Current Game","Free cars etc", "Uploaded by khushdas976 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20cars%20etc978.lua", "https://scriptblox.com/script/CUSTOMIZATION!-DRIFT-RNG-Free-cars-etc-18874")
+    addscriptexist(18867087533, "Inf Money And s any car And Spin Any car", "Uploaded by money on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money%20And%20s%20any%20car%20And%20Spin%20Any%20car621.lua", "https://scriptblox.com/script/CUSTOMIZATION!-DRIFT-RNG-Inf-Mone-And-s*-any-car-And-Spin-Any-car-18836")
+                                    

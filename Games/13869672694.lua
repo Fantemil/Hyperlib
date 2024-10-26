@@ -1,0 +1,4 @@
+
+    addscript(13869672694, "Current Game","Script request like reach", "Uploaded by Showcase12345678910 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request%20like%20reach298.lua", "https://scriptblox.com/script/Badminton-4.2-HALLOWEEN-Script-request-like-reach-21022")
+    addscriptexist(13869672694, "REQUEST", "Uploaded by Showcase12345678910 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST726.lua", "https://scriptblox.com/script/Badminton-4.2-HALLOWEEN-REQUEST-21024")
+                                    

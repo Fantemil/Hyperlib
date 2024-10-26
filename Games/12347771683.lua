@@ -1,0 +1,2 @@
+
+    addscript(12347771683, "Current Game","uto", "Uploaded by OuterTrees on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto601.lua", "https://scriptblox.com/script/Eat-a-Huge-Waffle-uto-10646")

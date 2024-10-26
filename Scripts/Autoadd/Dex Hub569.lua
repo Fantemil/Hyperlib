@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dexploits/DexHub/main/Dex%20Hub.lua"))()

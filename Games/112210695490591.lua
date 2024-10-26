@@ -1,0 +1,2 @@
+
+    addscript(112210695490591, "Current Game","FE kill all script", "Uploaded by weenachuangkud on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20kill%20all%20script156.lua", "https://scriptblox.com/script/Trench-Warfare-FE-kill-all-script-20268")

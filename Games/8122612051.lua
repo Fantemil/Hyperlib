@@ -1,0 +1,2 @@
+
+    addscript(8122612051, "Current Game","Zephyr SIendytubbies S R3dux", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20SIendytubbies%20S%20R3dux610.lua", "https://scriptblox.com/script/Slendytubbies-VS-Redux-Zephyr-SIendytubbies-S-R3dux-20009")

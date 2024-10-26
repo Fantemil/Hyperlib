@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Medieval-Clash!-Perfected-Guest666-script-11367"))()

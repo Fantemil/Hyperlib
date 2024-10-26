@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/UPDATE-Slap-Battles-sb-script-18443"))()

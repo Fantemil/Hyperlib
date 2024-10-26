@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/isshitty/Roblox/main/Scripts/ParkourRebornFly.lua"))()

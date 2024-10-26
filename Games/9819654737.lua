@@ -4,3 +4,5 @@ addscript(9819654737, "Current Game","Open Source GUI", "Uploaded by d1vine_ on 
                                     
     addscriptexist(9819654737, "Best    Script", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20%20%20%20Script465.lua", "https://scriptblox.com/script/SHOP-Raise-A-Sonic-Best-Script-9493")
                                     
+    addscriptexist(9819654737, "Riotscripter Gui", "Uploaded by Goku_Black on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Riotscripter%20Gui629.lua", "https://scriptblox.com/script/Raise-A-Sonic-Riotscripter-Gui-12236")
+                                    

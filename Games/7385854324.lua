@@ -1,0 +1,2 @@
+
+    addscript(7385854324, "Current Game","Infinite Money", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money446.lua", "https://scriptblox.com/script/Adopt-and-Raise-a-Cute-Baby!-Infinite-Money-12367")

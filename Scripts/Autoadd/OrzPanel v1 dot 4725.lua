@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OrzScript/Orz-Panel-1.0/main/Protected_9859560370579470.lua.txt",true))()

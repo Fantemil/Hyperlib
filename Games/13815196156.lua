@@ -1,0 +1,4 @@
+
+    addscript(13815196156, "Current Game","enemies esp", "Uploaded by nbamwyd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/enemies%20esp58.lua", "https://scriptblox.com/script/HELLMET-OPEN-ALPHA-enemies-esp-13248")
+    addscriptexist(13815196156, "inf ammo inf mag no delay lockpick no delay ziptie", "Uploaded by nbamwyd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20ammo%20inf%20mag%20no%20delay%20lockpick%20no%20delay%20ziptie174.lua", "https://scriptblox.com/script/HELLMET-OPEN-ALPHA-inf-ammo-inf-mag-no-delay-lockpick-no-delay-ziptie-13249")
+                                    

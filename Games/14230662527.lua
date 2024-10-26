@@ -1,0 +1,2 @@
+
+    addscript(14230662527, "Current Game","Automated leveling CHECK DESCRIPTION", "Uploaded by 42Hrz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Automated%20leveling%20CHECK%20DESCRIPTION60.lua", "https://scriptblox.com/script/x3-TAIL-Dragon-Soul-or-Anime-Adventure-Automated-leveling-CHECK-DESCRIPTION-15546")

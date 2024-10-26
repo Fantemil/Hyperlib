@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Zombie-game-upd3-Made-By-Kaito_Fyp/main/Op%20script"))()

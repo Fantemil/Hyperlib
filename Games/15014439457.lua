@@ -1,0 +1,2 @@
+
+    addscript(15014439457, "Current Game","Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More342.lua", "https://scriptblox.com/script/UPDDemon-Blade-Auto-Farm-And-More-15369")

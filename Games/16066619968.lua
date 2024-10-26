@@ -1,0 +1,4 @@
+
+    addscript(16066619968, "Current Game","Activate guide for free it costs 150 robux", "Uploaded by Tedy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Activate%20guide%20for%20free%20it%20costs%20150%20robux199.lua", "https://scriptblox.com/script/NEED-MORE-PLAYTIME-Activate-guide-for-free-it-costs-150-robux-18158")
+    addscriptexist(16066619968, "Wynerd hub", "Uploaded by Devilsadvocate on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wynerd%20hub487.lua", "https://scriptblox.com/script/NEED-MORE-PLAYTIME-Wynerd-hub-18178")
+                                    

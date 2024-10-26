@@ -1,2 +1,4 @@
 
 addscript(5780309044, "Current Game","Stands Awakening Event Boss GUI", "Uploaded by 3itx on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Stands%20Awakening%20Event%20Boss%20GUI534.lua", "https://rscripts.net/script/stands-awakening-event-boss-gui-3558")
+    addscriptexist(5780309044, "Mandy SA Script", "Uploaded by mandy_dos_candys on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mandy%20SA%20Script544.lua", "https://scriptblox.com/script/NEW-Reaper-+-BOSS-Stands-Awakening-Mandy-20412")
+                                    

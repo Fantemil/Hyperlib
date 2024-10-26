@@ -1,0 +1,2 @@
+
+    addscript(10525259646, "Current Game","topkek", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/topkek660.lua", "https://scriptblox.com/script/UPDATE!-Jumpstyle-Simulator-topkek-11261")

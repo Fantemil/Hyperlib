@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("raw.githubusercontent.com/BasketballPro2/Pear-Hub/refs/heads/main/Pear%20Hub%20Script")

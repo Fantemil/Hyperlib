@@ -1,0 +1,2 @@
+
+    addscript(15954315563, "Current Game","Script request", "Uploaded by Showcase12345678910 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request838.lua", "https://scriptblox.com/script/Buckshot-Showdown-Script-request-20993")

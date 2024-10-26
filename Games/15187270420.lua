@@ -1,0 +1,2 @@
+
+    addscript(15187270420, "Current Game","KIT V2 mumu and wave", "Uploaded by RAIGINATOR on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KIT%20V2%20mumu%20and%20wave237.lua", "https://scriptblox.com/script/RAIGFORCE-KIT-V2-mumu-and-wave-15665")

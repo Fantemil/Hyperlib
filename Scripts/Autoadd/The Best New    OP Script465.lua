@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeavyHub/HeavyHubSB/refs/heads/main/Heavy%20Hub%20Slap%20Battles"))()

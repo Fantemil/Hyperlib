@@ -1,0 +1,2 @@
+
+    addscript(14532112697, "Current Game","Free Gamepass", "Uploaded by starscream on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Gamepass525.lua", "https://scriptblox.com/script/Toilet-Simulator-Free-Gamepass-10827")

@@ -1,0 +1,2 @@
+
+    addscript(16613805858, "Current Game","Script request", "Uploaded by gianskibidi3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request788.lua", "https://scriptblox.com/script/Build-a-Boat-to-Save-Your-Friend-Script-request-21070")

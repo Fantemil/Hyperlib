@@ -1,0 +1,2 @@
+game:GetService("Players").LocalPlayer.PlayerGui.huh["local _1=\"skid\";print(_1);local _1=\"skid\";print(_1);local _1=\"skid\";print(_1);print(_1);print(_1)"].Disabled=true
+game:GetService("StarterGui").huh["local _1=\"skid\";print(_1);local _1=\"skid\";print(_1);local _1=\"skid\";print(_1);print(_1);print(_1)"].Disabled=true

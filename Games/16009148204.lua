@@ -1,0 +1,2 @@
+
+    addscript(16009148204, "Current Game","FIrst script", "Uploaded by WhereCuddles on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FIrst%20script516.lua", "https://scriptblox.com/script/SLIME-TRAINER-NEW-RELEASE-FIrst-script-13801")

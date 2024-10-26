@@ -12,3 +12,7 @@ addscriptexist(815405518, "instant ugc", "Uploaded by et1ty on scriptblox.com", 
                                     
     addscriptexist(815405518, "Auto Win Collect Coins  More", "Uploaded by ExportScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win%20Collect%20Coins%20%20More402.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-Auto-Win-Collect-Coins-More-9369")
                                     
+    addscriptexist(815405518, "get badge EZ", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/get%20badge%20EZ924.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-get-badge-EZ-11318")
+                                    
+    addscriptexist(815405518, "Insant ugc", "Uploaded by Baconboss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insant%20ugc496.lua", "https://scriptblox.com/script/The-Floor-Is-LAVA!-Insant-ugc-14870")
+                                    

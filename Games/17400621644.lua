@@ -1,0 +1,2 @@
+
+    addscript(17400621644, "Current Game","TR", "Uploaded by ProjectScripter200 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/TR877.lua", "https://scriptblox.com/script/Track-Race-Simulator-TR-19987")

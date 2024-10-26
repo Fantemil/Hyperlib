@@ -1,0 +1,2 @@
+
+    addscript(10834586502, "Current Game","Auto Upgrade Bank", "Uploaded by Heiwaijigun on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Upgrade%20Bank23.lua", "https://scriptblox.com/script/The-Battle-Bricks-Auto-Upgrade-Bank-12329")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/riruru111/Rogue-Demon/refs/heads/main/main_m.txt"))()

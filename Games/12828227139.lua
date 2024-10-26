@@ -1,0 +1,2 @@
+
+    addscript(12828227139, "Current Game","ProBaconHub", "Uploaded by ProBaconHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ProBaconHub478.lua", "https://scriptblox.com/script/War-Machines-ProBaconHub-15461")

@@ -1,0 +1,4 @@
+
+    addscript(9704927237, "Current Game","Best SCRIPT", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20SCRIPT292.lua", "https://scriptblox.com/script/Anime-Switch-RELEASE-Best-SCRIPT-12610")
+    addscriptexist(9704927237, "Fast Clear Dungeon and Auto Skills", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Clear%20Dungeon%20and%20Auto%20Skills852.lua", "https://scriptblox.com/script/Anime-Switch-RELEASE-Fast-Clear-Dungeon-and-Auto-Skills-12614")
+                                    

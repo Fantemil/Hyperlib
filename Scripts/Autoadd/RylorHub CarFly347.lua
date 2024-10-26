@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xlykor/MikeBayraktarCarFly/main/CarFly"))()

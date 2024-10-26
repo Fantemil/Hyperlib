@@ -1,0 +1,2 @@
+
+    addscript(12358157172, "Current Game","Melon Hub", "Uploaded by melon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melon%20Hub348.lua", "https://scriptblox.com/script/Control-Players-Melon-Hub-16978")

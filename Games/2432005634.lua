@@ -1,0 +1,2 @@
+
+    addscript(2432005634, "Current Game","THE HUNT", "Uploaded by Aura on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/THE%20HUNT334.lua", "https://scriptblox.com/script/A-Wolf-Or-Other-THE-HUNT-11404")

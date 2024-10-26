@@ -1,0 +1,2 @@
+
+    addscript(2965497514, "Current Game","The Darkones Pr1son Adventvre GUI", "Uploaded by TheDarkone on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Darkones%20Pr1son%20Adventvre%20GUI228.lua", "https://scriptblox.com/script/Prison-Adventure-The-Darkones-Pr1son-Adventvre-GUI-16797")

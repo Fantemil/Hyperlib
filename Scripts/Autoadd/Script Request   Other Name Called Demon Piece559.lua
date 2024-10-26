@@ -1,0 +1,1 @@
+i hope someone can make script for that game

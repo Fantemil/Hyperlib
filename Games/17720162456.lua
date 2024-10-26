@@ -1,0 +1,2 @@
+
+    addscript(17720162456, "Current Game","request for script", "Uploaded by SK_Floppa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/request%20for%20script735.lua", "https://scriptblox.com/script/GETO-Sorcerer-Tower-Defense-request-for-script-18679")

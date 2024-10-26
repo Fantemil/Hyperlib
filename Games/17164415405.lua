@@ -1,0 +1,2 @@
+
+    addscript(17164415405, "Current Game","BEST SCRIPT", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT206.lua", "https://scriptblox.com/script/SHADOW-GREATSWORD-UGC-RNG-Best-Script-FOR-12586")

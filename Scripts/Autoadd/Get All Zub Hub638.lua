@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Xiam0i/Zub-Hub/main/Xiam0i/Aura%20Craft')))()

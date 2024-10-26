@@ -1,0 +1,2 @@
+
+    addscript(17484339570, "Current Game","Inf Money", "Uploaded by money on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money936.lua", "https://scriptblox.com/script/SLOTS-RNG-NEW-Inf-Money-15938")

@@ -1,0 +1,2 @@
+
+    addscript(15782696762, "Current Game","Infinite Money", "Uploaded by Plutomaster on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Money861.lua", "https://scriptblox.com/script/Domino-Master-Infinite-Money-19530")

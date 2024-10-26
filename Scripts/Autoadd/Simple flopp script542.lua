@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/7a8d83843caca2de2907f3d18113d577/raw/337e42f534580f1f91ff3bd9fdf55ebba5c43c69/Floppa%2520script"))()

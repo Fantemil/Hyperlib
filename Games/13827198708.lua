@@ -24,3 +24,15 @@ addscriptexist(13827198708, "utoclick frm", "Uploaded by 12slash25 on scriptblox
                                     
     addscriptexist(13827198708, "DEMONICHUB V2", "Uploaded by Damech on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DEMONICHUB%20V2797.lua", "https://scriptblox.com/script/UPD-Pull-a-Sword-DEMONICHUB-V2-9499")
                                     
+    addscriptexist(13827198708, "The Hunt", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Hunt505.lua", "https://scriptblox.com/script/Pull-a-Sword-The-Hunt-11410")
+                                    
+    addscriptexist(13827198708, "uto Frm", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Frm689.lua", "https://scriptblox.com/script/Pull-a-Sword-uto-Frm-11453")
+                                    
+    addscriptexist(13827198708, "the hunt utofrm", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/the%20hunt%20utofrm241.lua", "https://scriptblox.com/script/Pull-a-Sword-the-hunt-utofrm-11320")
+                                    
+    addscriptexist(13827198708, "GoldEx v 1 0", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20v%201%200999.lua", "https://scriptblox.com/script/Pull-a-Sword-GoldEx-v-1-0-19259")
+                                    
+    addscriptexist(13827198708, "King Hub OP FRM", "Uploaded by King125 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/King%20Hub%20OP%20FRM155.lua", "https://scriptblox.com/script/Pull-a-Sword-King-Hub-OP-FRM-19816")
+                                    
+    addscriptexist(13827198708, "uto Click uto Rebirth Hlloween Event Frm nd Hlloween", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20Click%20uto%20Rebirth%20Hlloween%20Event%20Frm%20nd%20Hlloween885.lua", "https://scriptblox.com/script/Pull-a-Sword-uto-Click-uto-Rebirth-Hlloween-Event-Frm-nd-Hlloween-19944")
+                                    

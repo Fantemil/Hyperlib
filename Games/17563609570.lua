@@ -1,0 +1,4 @@
+
+    addscript(17563609570, "Current Game","jjpGUI item auto farm item eps", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/jjpGUI%20item%20auto%20farm%20item%20eps621.lua", "https://scriptblox.com/script/UPD-Dragon-Ball-RNG-jjpGUI-item-auto-farm-item-eps-15570")
+    addscriptexist(17563609570, "UPDATED auto farm  item esp  auto code redeem", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/UPDATED%20auto%20farm%20%20item%20esp%20%20auto%20code%20redeem422.lua", "https://scriptblox.com/script/CRAFTING-Dragon-Ball-RNG-UPDATED-auto-farm-item-esp-auto-code-redeem-17160")
+                                    

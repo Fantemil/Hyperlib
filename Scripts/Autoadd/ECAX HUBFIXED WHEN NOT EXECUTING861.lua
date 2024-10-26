@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RScripter/-ECAX-/main/ECAX_V3.lua"))()

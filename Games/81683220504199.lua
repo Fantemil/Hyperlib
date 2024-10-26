@@ -1,0 +1,2 @@
+
+    addscript(81683220504199, "Current Game","inf money", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20money654.lua", "https://scriptblox.com/script/Free-Easy-Obby!-FREE-VIP-inf-money-20945")

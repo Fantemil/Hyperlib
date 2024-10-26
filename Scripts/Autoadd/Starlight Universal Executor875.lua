@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RileyBeeOrion2/Starlight/main/StarlightUniversalExecutor.lua"))()

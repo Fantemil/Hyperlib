@@ -1,0 +1,2 @@
+
+    addscript(15395018036, "Current Game","Auto win and Infinite win", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20win%20and%20Infinite%20win219.lua", "https://scriptblox.com/script/Bow-Simulator-Auto-win-and-Infinite-win-12326")

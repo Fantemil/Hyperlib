@@ -1,0 +1,1 @@
+loadstring("game.Players.LocalPlayer:Kick('Patched Script Dm, Add uaobsazaip for updated script.')")()

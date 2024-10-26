@@ -1,0 +1,4 @@
+
+    addscript(11145865512, "Current Game","Get admingamepass vehicles solara supported", "Uploaded by Joedyjrjj on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20admingamepass%20vehicles%20solara%20supported151.lua", "https://scriptblox.com/script/UPDATE-Car-Driving-Ultimate-Get-admin-vehicles-solara-supported-16444")
+    addscriptexist(11145865512, "Unlock all s", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Unlock%20all%20s313.lua", "https://scriptblox.com/script/NEW-UPDATE-Car-Driving-Ultimate-Have-all-s-paid-15945")
+                                    

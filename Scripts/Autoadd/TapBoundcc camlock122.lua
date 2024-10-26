@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/tapboundcc/tapbound/main/camlock/by%20%23xvsfi'))() -- discord : https://discord.gg/a7SsShVaqe

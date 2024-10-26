@@ -1,0 +1,2 @@
+
+    addscript(15076947052, "Current Game","Spawn Any FIXED", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Spawn%20Any%20FIXED874.lua", "https://scriptblox.com/script/(V2!)-Slap-Battles-Tower-Defense-Spawn-Any-14184")

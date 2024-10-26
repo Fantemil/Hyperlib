@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/SEASON-1!-Car-Dealership-Tycoon-Auto-Race-Fix-5643"))()

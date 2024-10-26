@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SoyAdriYT/AstroX/refs/heads/main/Games/Chest%20Toucher.lua", true))()

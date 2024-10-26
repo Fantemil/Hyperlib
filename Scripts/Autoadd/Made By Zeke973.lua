@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jaymark322/King-Of-The-Hill/main/King%20of%20the%20hill", true))()

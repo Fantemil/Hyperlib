@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Niburu52/hub/refs/heads/main/Demon%20Soul%20Simulator.txt'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Vylo-dev/Femboys/main/Clone%20Army'))()

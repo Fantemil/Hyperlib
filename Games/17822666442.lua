@@ -1,0 +1,2 @@
+
+    addscript(17822666442, "Current Game","all executor", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20executor438.lua", "https://scriptblox.com/script/NEW!-Dunk-Battles!-all-executor-20471")

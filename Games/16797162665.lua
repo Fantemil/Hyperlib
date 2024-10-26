@@ -1,0 +1,2 @@
+
+    addscript(16797162665, "Current Game","Skibidi Hub", "Uploaded by Skripter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Skibidi%20Hub641.lua", "https://scriptblox.com/script/UPD-EP-47-Toilet-Base-Simulator-Skibidi-Hub-17422")

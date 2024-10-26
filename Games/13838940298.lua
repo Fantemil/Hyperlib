@@ -1,0 +1,2 @@
+
+    addscript(13838940298, "Current Game","Auto collect paint buckets Auto farm", "Uploaded by Gawsx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20collect%20paint%20buckets%20Auto%20farm670.lua", "https://scriptblox.com/script/Draw-n'-Spawn!-Auto-collect-paint-buckets-Auto-farm-16281")

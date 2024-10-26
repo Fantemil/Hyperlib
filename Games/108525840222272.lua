@@ -1,0 +1,2 @@
+
+    addscript(108525840222272, "Current Game","Bypasser Scripts Join our dsc", "Uploaded by BypasserDEVELOPER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Bypasser%20Scripts%20Join%20our%20dsc57.lua", "https://scriptblox.com/script/Bypasser_Dev's-Place-Bypasser-Scripts-Join-our-dsc-19847")

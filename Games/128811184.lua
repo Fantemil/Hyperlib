@@ -1,0 +1,2 @@
+
+    addscript(128811184, "Current Game","Inf Money", "Uploaded by WRATH on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money345.lua", "https://scriptblox.com/script/Dam-Tycoon-Inf-Money-15273")

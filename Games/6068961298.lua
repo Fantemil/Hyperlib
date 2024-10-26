@@ -1,0 +1,2 @@
+
+    addscript(6068961298, "Current Game","L HUB Auto Farm Challenges Story Summons", "Uploaded by LHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/L%20HUB%20Auto%20Farm%20Challenges%20Story%20Summons318.lua", "https://scriptblox.com/script/TOAD-SAGE-and-YELLOW-FLASH-Anime-Impact-L-HUB-Auto-Farm-Challenges-Story-Summons-14949")

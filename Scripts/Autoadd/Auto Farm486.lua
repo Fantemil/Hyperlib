@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Imalwibest/Imalwibest/main/%E2%AD%90%20COLLECT%20STARS%20FOR%20UGC"))()

@@ -16,3 +16,7 @@ addscriptexist(8884433153, " KHub  Collect All Pets Ultimate Script Working  202
                                 
 addscriptexist(8884433153, "MaddHub", "Uploaded by maddjester on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MaddHub738.lua", "https://scriptblox.com/script/Collect-All-Pets!-MaddHub-6919")
                                 
+    addscriptexist(8884433153, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L27.lua", "https://scriptblox.com/script/Collect-All-Pets!-Project-L-12356")
+                                    
+    addscriptexist(8884433153, "AutoFarm Auto AutoClaimrewards", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoFarm%20Auto%20AutoClaimrewards728.lua", "https://scriptblox.com/script/Collect-All-Pets!-AutoFarm-Auto-AutoClaimrewards-19968")
+                                    

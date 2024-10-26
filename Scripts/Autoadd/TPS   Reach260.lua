@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/SigmaSploiter1/PlasmaRF24/main/Tps%20Street%20Soccer'))()

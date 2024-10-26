@@ -1,0 +1,2 @@
+
+    addscript(16971485990, "Current Game","Instantly Hatch The Best Egg In The Game", "Uploaded by xMiles_Games on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instantly%20Hatch%20The%20Best%20Egg%20In%20The%20Game546.lua", "https://scriptblox.com/script/Thor-Simulator!-Instantly-Hatch-The-Best-Egg-In-The-Game-17791")

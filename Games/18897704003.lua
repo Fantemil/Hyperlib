@@ -1,0 +1,2 @@
+
+    addscript(18897704003, "Current Game","FE CRASH SERVER", "Uploaded by Termux_404 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20CRASH%20SERVER741.lua", "https://scriptblox.com/script/Baile-Nitro-Fest-FE-CRASH-SERVER-19986")

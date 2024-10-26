@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bowlofrice767/rayfield/main/main.lua'))()

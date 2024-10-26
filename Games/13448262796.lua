@@ -1,0 +1,2 @@
+
+    addscript(13448262796, "Current Game","OxyHubV2", "Uploaded by xdo7478 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OxyHubV2906.lua", "https://scriptblox.com/script/BLACK-Saiyan-Battlegrounds-OxyHubV2-17574")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NUTellaVING/ProjectPastel/main/Games/MemeSea.lua"))()

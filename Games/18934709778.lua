@@ -1,0 +1,2 @@
+
+    addscript(18934709778, "Current Game","inf gs nd speed chnger", "Uploaded by bitdancer123 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20gs%20nd%20speed%20chnger970.lua", "https://scriptblox.com/script/A-Long-Road-ALPHA-inf-gs-nd-speed-chnger-17678")

@@ -1,0 +1,4 @@
+
+    addscript(16095412846, "Current Game","Script Request for inf luck", "Uploaded by maksimbaishev1980 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request%20for%20inf%20luck824.lua", "https://scriptblox.com/script/Studs-RNG!-Script-Request-for-inf-luck-13450")
+    addscriptexist(16095412846, "Coin Grabber", "Uploaded by Berry_ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Coin%20Grabber656.lua", "https://scriptblox.com/script/Stud's-RNG!-Coin-Grabber-11691")
+                                    

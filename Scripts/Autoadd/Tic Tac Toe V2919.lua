@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ECCSco/ECCS-V3/main/Tic%20Tac%20Toe%20V2"))("Copyright ERROR_CODE ECCS Co")

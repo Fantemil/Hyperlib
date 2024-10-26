@@ -1,0 +1,2 @@
+
+    addscript(14752086859, "Current Game","LyzerHub", "Uploaded by LyzerHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LyzerHub382.lua", "https://scriptblox.com/script/UPD15-Anime-Max-Simulator-LYZER-HUB-AUTO-TRIAL-AND-AUTO-FARM-OP-13177")

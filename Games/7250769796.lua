@@ -1,0 +1,2 @@
+
+    addscript(7250769796, "Current Game","Melon Hub", "Uploaded by melon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Melon%20Hub743.lua", "https://scriptblox.com/script/Build-to-Survive!-Melon-Hub-17346")

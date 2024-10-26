@@ -1,0 +1,4 @@
+
+    addscript(16984716324, "Current Game","Auto Build And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Build%20And%20More222.lua", "https://scriptblox.com/script/Sour-Patch-Kids-Mischief-Tycoon-Auto-Build-And-More-14151")
+    addscriptexist(16984716324, "Auto collect money auto drop farm peaches and more", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20collect%20money%20auto%20drop%20farm%20peaches%20and%20more490.lua", "https://scriptblox.com/script/Sour-Patch-Kids-Mischief-Tycoon-Auto-collect-money-auto-drop-farm-peaches-and-more-14848")
+                                    

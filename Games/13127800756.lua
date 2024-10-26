@@ -90,3 +90,31 @@ addscriptexist(13127800756, "ELMER HUB KEYLESS", "Uploaded by makabaho2020 on sc
                                     
     addscriptexist(13127800756, "Dupe Candy Coins and fruits", "Uploaded by LightningHub_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dupe%20Candy%20Coins%20and%20fruits346.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Dupe-Candy-Coins-and-fruits-9830")
                                     
+    addscriptexist(13127800756, "Tuff Hub  Auto Update ", "Uploaded by BKmD_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tuff%20Hub%20%20Auto%20Update%20407.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Tuff-Hub-16177")
+                                    
+    addscriptexist(13127800756, "Tupo Scripts  Solara", "Uploaded by Tupo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tupo%20Scripts%20%20Solara552.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Tupo-Scripts-Solara-14104")
+                                    
+    addscriptexist(13127800756, "Auto F Ginger", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20F%20Ginger126.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-F-Ginger-12389")
+                                    
+    addscriptexist(13127800756, "Auto Click and Auto Claim Gift", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Click%20and%20Auto%20Claim%20Gift608.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Click-and-Auto-Claim-Gift-10683")
+                                    
+    addscriptexist(13127800756, " Someone", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Someone517.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-************-Someone-10937")
+                                    
+    addscriptexist(13127800756, "Tuff Hub AWS Easter Event", "Uploaded by Tuff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tuff%20Hub%20AWS%20Easter%20Event62.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Tuff-Hub-AWS-Easter-Event-11414")
+                                    
+    addscriptexist(13127800756, "Auto Rebith and Auto Spin Wheel", "Uploaded by Phoenixxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Rebith%20and%20Auto%20Spin%20Wheel687.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Rebith-and-Auto-Spin-Wheel-12102")
+                                    
+    addscriptexist(13127800756, "Auto Net Casting", "Uploaded by MACTEP_CKPUnTOB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Net%20Casting261.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Fishing-Comeback-13689")
+                                    
+    addscriptexist(13127800756, "AWS  InfinityWare Op script", "Uploaded by Visionary on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AWS%20%20InfinityWare%20Op%20script136.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Wrestling-InfinityWare-Op-11936")
+                                    
+    addscriptexist(13127800756, "Auto Open Eggs Auto Craft P", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Open%20Eggs%20Auto%20Craft%20P889.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Open-Eggs-Auto-Craft-P-11134")
+                                    
+    addscriptexist(13127800756, "AutoF AutoHatch Webhook with stats", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AutoF%20AutoHatch%20Webhook%20with%20stats914.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-AutoF-AutoHatch-Webhook-with-stats-19976")
+                                    
+    addscriptexist(13127800756, "Auto Candies from Pumpkins and Ghosts", "Uploaded by MACTEP_CKPUnTOB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Candies%20from%20Pumpkins%20and%20Ghosts745.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Auto-Pumpkin-and-Ghosts-20114")
+                                    
+    addscriptexist(13127800756, "halloween event script", "Uploaded by pizzameboy1433 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/halloween%20event%20script244.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-halloween-event-f-20491")
+                                    
+    addscriptexist(13127800756, "Halloween event  auto grind", "Uploaded by Comensal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Halloween%20event%20%20auto%20grind850.lua", "https://scriptblox.com/script/Arm-Wrestle-Simulator-Halloween-Auto-f-20500")
+                                    

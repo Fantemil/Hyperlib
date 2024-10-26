@@ -1,0 +1,2 @@
+
+    addscript(16927961956, "Current Game","copy textbox", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/copy%20textbox971.lua", "https://scriptblox.com/script/Hidden-Dumper-copy-textbox-17062")

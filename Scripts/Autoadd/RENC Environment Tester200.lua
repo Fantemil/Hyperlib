@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/external-naming-convention/RobloxNamingStandard/raw/main/RENCCheckEnv.lua"))()

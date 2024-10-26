@@ -1,0 +1,2 @@
+
+    addscript(15931692073, "Current Game","Scripts from Minion", "Uploaded by ScriptsfromMinion on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts%20from%20Minion143.lua", "https://scriptblox.com/script/FINAL-Ved's-Difficulty-Chart-Obby-Scripts-from-Minion-12296")

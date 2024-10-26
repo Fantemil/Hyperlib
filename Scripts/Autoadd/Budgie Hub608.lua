@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ADSKerOffical/Push-Dummies-In-The-Sparta-Hole/main/FireInTheHole"))()

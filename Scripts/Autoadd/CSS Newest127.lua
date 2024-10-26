@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/GamerOri6004/CSS_Script_Menu_V1.6/main/CSS%20V12%20V2.2%20HOTFIX!"))()

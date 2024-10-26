@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Dark12982/Dark-Hub-Universal/main/MAIN"))()

@@ -1,0 +1,4 @@
+
+    addscript(10228136016, "Current Game","darkdex working if ur executor is UD", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/darkdex%20working%20if%20ur%20executor%20is%20UD570.lua", "https://scriptblox.com/script/CREATIVEFallen-Survival-darkdex-working-if-ur-executor-is-UD-17495")
+    addscriptexist(10228136016, "Ani yt Script Silent Aim Instant Hit Aimbot Esp and more", "Uploaded by Desktop on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ani%20yt%20Script%20Silent%20Aim%20Instant%20Hit%20Aimbot%20Esp%20and%20more693.lua", "https://scriptblox.com/script/Fallen-Survival-Ani-yt-Script-Silent-Aim-Instant-Hit-Aimbot-Esp-and-more-19961")
+                                    

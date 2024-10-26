@@ -1,0 +1,2 @@
+
+    addscript(7142143048, "Current Game","Ywxo Hub Solr", "Uploaded by qrtoyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ywxo%20Hub%20Solr218.lua", "https://scriptblox.com/script/Build-A-Boat-With-Blocks-Ywxo-Hub-Solr-15871")

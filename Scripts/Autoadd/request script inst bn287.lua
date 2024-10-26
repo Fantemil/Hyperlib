@@ -1,0 +1,1 @@
+I need a script that bans me from roblox games specifically universal time

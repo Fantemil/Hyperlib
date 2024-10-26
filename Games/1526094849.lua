@@ -1,0 +1,2 @@
+
+    addscript(1526094849, "Current Game","Very OP", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Very%20OP893.lua", "https://scriptblox.com/script/Build-an-Obby-Very-OP-18080")

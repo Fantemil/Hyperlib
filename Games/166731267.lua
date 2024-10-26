@@ -1,0 +1,2 @@
+
+    addscript(166731267, "Current Game","Autofarm", "Uploaded by valkyrie2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm961.lua", "https://scriptblox.com/script/The-Dropper-130+-LEVELS!-Autofarm-16798")

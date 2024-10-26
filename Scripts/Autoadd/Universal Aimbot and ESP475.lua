@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uchoroid/UniversalAimbotEsp/main/Universal-Aimbot-Esp", true))()

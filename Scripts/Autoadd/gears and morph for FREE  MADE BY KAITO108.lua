@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/-UPGRADE-BARRY-S-PRISON-RUN-OBBY-/refs/heads/main/Op%20script"))()

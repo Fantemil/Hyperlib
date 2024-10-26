@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PolarCheem/Duck-UI/refs/heads/main/Niagra%20Freemium"))()

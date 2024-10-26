@@ -1,0 +1,2 @@
+
+    addscript(18793364535, "Current Game","Fake Vr but only r6", "Uploaded by anthonymelendez267 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fake%20Vr%20but%20only%20r623.lua", "https://scriptblox.com/script/Untitled-Game-Fake-Vr-but-only-r6-17644")

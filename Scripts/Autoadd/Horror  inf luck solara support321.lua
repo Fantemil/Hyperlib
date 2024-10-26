@@ -1,0 +1,1 @@
+while wait(0) do game:GetService("ReplicatedStorage").Events.InventoryEvent:FireServer("Equip","Super Luck Potion","Usable") end

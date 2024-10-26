@@ -1,0 +1,2 @@
+
+    addscript(6505994717, "Current Game","Find every eqq", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20every%20eqq257.lua", "https://scriptblox.com/script/Epic-Egg-Hunt-2024-Find-Every-11593")

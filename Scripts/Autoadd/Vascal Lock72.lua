@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Gwaporoblox/VascalLock/main/README.md"))()

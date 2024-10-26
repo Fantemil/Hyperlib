@@ -1,0 +1,4 @@
+
+    addscript(14737542240, "Current Game","leaked morphs", "Uploaded by waxedbojaina on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/leaked%20morphs169.lua", "https://scriptblox.com/script/Battle-For-Dream-Island-Again-(BETA)-leaked-morphs-13614")
+    addscriptexist(14737542240, "print all morphs", "Uploaded by waxedbojaina on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/print%20all%20morphs481.lua", "https://scriptblox.com/script/Battle-For-Dream-Island-Again-(BETA)-print-all-morphs-13210")
+                                    

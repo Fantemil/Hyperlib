@@ -1,0 +1,2 @@
+
+    addscript(16039690331, "Current Game","Hitbox", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox79.lua", "https://scriptblox.com/script/Secret-Killer-Hitbox-15634")

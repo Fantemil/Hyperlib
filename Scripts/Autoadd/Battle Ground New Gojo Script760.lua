@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/CurseOfDarkness/CurseHubGojo/refs/heads/main/Best%20Gojo%20Script")()

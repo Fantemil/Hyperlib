@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiam0i/Zub-Hub/main/Xiam0i/Impossible%20Glass%20Bridge%20Obby!%20(Squid%20Game)"))()

@@ -1,0 +1,2 @@
+
+    addscript(1499872953, "Current Game","SCRIPT REQUEST", "Uploaded by roupter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST349.lua", "https://scriptblox.com/script/Boku-No-Roblox-SCRIPT-REQUEST-20968")

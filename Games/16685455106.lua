@@ -1,0 +1,2 @@
+
+    addscript(16685455106, "Current Game","Aura Giver patched", "Uploaded by Atretus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Aura%20Giver%20patched212.lua", "https://scriptblox.com/script/48h-Fixing-+-Upd2-Sharx's-RNG-Aura-Giver-11250")

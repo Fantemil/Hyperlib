@@ -1,0 +1,2 @@
+
+    addscript(14564651437, "Current Game","Get any chair etc", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20chair%20etc326.lua", "https://scriptblox.com/script/Death-in-the-Box-Sk-changer-open-src-19803")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/l0ckerV5/Roblox-Scripts/raw/main/The%20Strongest%20Battlegrounds/Custom%20Character/A-Train"))()

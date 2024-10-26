@@ -1,0 +1,4 @@
+
+    addscript(14206387098, "Current Game","OP SCRIPT", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT858.lua", "https://scriptblox.com/script/Cursed-Arena-OP-SCRIPT-11804")
+    addscriptexist(14206387098, "BEST SCRIPT SUPPORT SOLARA", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20SUPPORT%20SOLARA923.lua", "https://scriptblox.com/script/BIG-UPDATE-Cursed-Arena-BEST-SCRIPT-SUPPORT-SOLARA-14490")
+                                    

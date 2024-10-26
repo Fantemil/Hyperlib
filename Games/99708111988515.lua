@@ -1,0 +1,2 @@
+
+    addscript(99708111988515, "Current Game","Rocket Hub", "Uploaded by VIBXS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rocket%20Hub939.lua", "https://scriptblox.com/script/Marvel-Tycoon-Rocket-Hub-20237")

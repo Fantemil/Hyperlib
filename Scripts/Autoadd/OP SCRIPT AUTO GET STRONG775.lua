@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Duckycant/Lifting-sim/refs/heads/main/obf_QwYSIz28cQb8Iq4S617f5MOLS03aqHpYYY0xA9Zzb45nb9s43pk5ALB9AsZbK4Q2.lua.txt"))()

@@ -1,0 +1,4 @@
+
+    addscript(89789456027903, "Current Game","Teleport To Eggs", "Uploaded by cry0n1s1s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleport%20To%20Eggs742.lua", "https://scriptblox.com/script/Clicking-Legends-EVENT-Teleport-To-Eggs-20113")
+    addscriptexist(89789456027903, "Autofarm Script", "Uploaded by cry0n1s1s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Autofarm%20Script850.lua", "https://scriptblox.com/script/Clicking-Legends-EVENT-Autofarm-Script-20164")
+                                    

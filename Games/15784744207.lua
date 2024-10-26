@@ -1,0 +1,2 @@
+
+    addscript(15784744207, "Current Game","Blackking", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Blackking280.lua", "https://scriptblox.com/script/Valley-Prison-Roleplay-Blackking-16901")

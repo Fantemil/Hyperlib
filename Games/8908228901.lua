@@ -18,3 +18,17 @@ addscriptexist(8908228901, "Custom Boat Speed Kill Shark and more", "Uploaded by
                                     
     addscriptexist(8908228901, "Project L", "Uploaded by ProjectL_Owner on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20L163.lua", "https://scriptblox.com/script/RGB-SHARK!-SharkBite-2-Project-L-9341")
                                     
+    addscriptexist(8908228901, "simple script", "Uploaded by Thepunchbag on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/simple%20script193.lua", "https://scriptblox.com/script/SharkBite-2-script-15465")
+                                    
+    addscriptexist(8908228901, "OP AUTOFARM AND ALL BOATS", "Uploaded by p3arrrr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUTOFARM%20AND%20ALL%20BOATS181.lua", "https://scriptblox.com/script/SharkBite-2-OP-14565")
+                                    
+    addscriptexist(8908228901, "S unowned boats updated version two", "Uploaded by tjlaporre79 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/S%20unowned%20boats%20updated%20version%20two833.lua", "https://scriptblox.com/script/SharkBite-2-S*-unowned-boats-18233")
+                                    
+    addscriptexist(8908228901, "S unowned boats updated version Five", "Uploaded by tjlaporre79 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/S%20unowned%20boats%20updated%20version%20Five146.lua", "https://scriptblox.com/script/SharkBite-2-S*-unowned-boats-18455")
+                                    
+    addscriptexist(8908228901, "Give boats op script", "Uploaded by galaxyfounded on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20boats%20op%20script542.lua", "https://scriptblox.com/script/SharkBite-2-Give-boats-op-script-18652")
+                                    
+    addscriptexist(8908228901, "Free boat", "Uploaded by Gokus on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20boat908.lua", "https://scriptblox.com/script/SharkBite-2-andx1F988-Free-boat-15900")
+                                    
+    addscriptexist(8908228901, "OP SCRITP", "Uploaded by Fe_things on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRITP231.lua", "https://scriptblox.com/script/UPDATE-SharkBite-2-OP-SCRITP-20163")
+                                    

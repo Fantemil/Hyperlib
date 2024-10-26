@@ -1,0 +1,4 @@
+
+    addscript(13398230007, "Current Game","6 FREE UGC ITEMS", "Uploaded by bla22lols on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/6%20FREE%20UGC%20ITEMS37.lua", "https://scriptblox.com/script/New-racing-obby-Walmart-Discovered-6-FREE-UGC-ITEMS-15384")
+    addscriptexist(13398230007, "Tora IsMe", "Uploaded by SuperDuperRokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tora%20IsMe767.lua", "https://scriptblox.com/script/Halloween-Event-Walmart-Discovered-Tora-IsMe-19457")
+                                    

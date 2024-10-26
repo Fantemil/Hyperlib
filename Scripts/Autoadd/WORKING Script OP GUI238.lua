@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SubToNeon/bxnks-hub-by-neon/main/BETA.lua"))()

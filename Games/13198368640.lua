@@ -1,0 +1,2 @@
+
+    addscript(13198368640, "Current Game","PST", "Uploaded by IsFullHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PST505.lua", "https://scriptblox.com/script/Punch-Stuff-Tycoon-PST-15041")

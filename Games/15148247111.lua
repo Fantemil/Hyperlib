@@ -1,0 +1,2 @@
+
+    addscript(15148247111, "Current Game","Good script", "Uploaded by llui on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good%20script566.lua", "https://scriptblox.com/script/The-Long-Drive-script-13011")

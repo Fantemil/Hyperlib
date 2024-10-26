@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lollertop/GOJO-ULC-/main/gojoulc%20yesay"))();

@@ -36,3 +36,15 @@ addscriptexist(1554960397, "candy farm", "Uploaded by luigipiper124 on scriptblo
                                     
     addscriptexist(1554960397, "Find all Gingerbread", "Uploaded by luigipiper124 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Find%20all%20Gingerbread672.lua", "https://scriptblox.com/script/XMAS!!!-Car-Dealership-Tycoon-Find-all-Gingerbread-9629")
                                     
+    addscriptexist(1554960397, "Moon Team", "Uploaded by F347 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Moon%20Team832.lua", "https://scriptblox.com/script/LIMITED!-Car-Dealership-Tycoon-Moon-Team-16181")
+                                    
+    addscriptexist(1554960397, "Dealershrip Barn", "Uploaded by Rylorx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dealershrip%20Barn795.lua", "https://scriptblox.com/script/2B-EVENT!-Car-Dealership-Tycoon-Dealershrip-Barn-17780")
+                                    
+    addscriptexist(1554960397, "CDT  Dearlship", "Uploaded by Invisible7 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CDT%20%20Dearlship296.lua", "https://scriptblox.com/script/SEASON-13!-Car-Dealership-Tycoon-CDT-Dearlship-20154")
+                                    
+    addscriptexist(1554960397, "Auto Farm And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More482.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-Auto-Farm-And-More-20623")
+                                    
+    addscriptexist(1554960397, "Auto Pumpkin Fast No Key", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Pumpkin%20Fast%20No%20Key367.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-Auto-Pumpkin-Fast-No-Key-20689")
+                                    
+    addscriptexist(1554960397, "Equip  Auto Drive With No Race Auto Farm Auto Race", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Equip%20%20Auto%20Drive%20With%20No%20Race%20Auto%20Farm%20Auto%20Race236.lua", "https://scriptblox.com/script/HALLOWEEN!-Car-Dealership-Tycoon-Equip-Auto-Drive-With-No-Race-Auto-Farm-Auto-Race-20985")
+                                    

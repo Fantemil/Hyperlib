@@ -1,0 +1,2 @@
+
+    addscript(1579786950, "Current Game","loop auto win", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/loop%20auto%20win990.lua", "https://scriptblox.com/script/Get-Robox-Escape-For-Free-dollarR!-(20percent-OFF!)-loop-auto-win-18502")

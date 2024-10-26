@@ -1,0 +1,2 @@
+
+    addscript(15952219902, "Current Game","Infinite Strongest inf hp", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Strongest%20inf%20hp94.lua", "https://scriptblox.com/script/I'm-the-king-of-the-school-Infinite-Strongest-inf-hp-12268")

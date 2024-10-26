@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BongCloudMaster/meetthegrahams/main/invdisplay.lua"))()

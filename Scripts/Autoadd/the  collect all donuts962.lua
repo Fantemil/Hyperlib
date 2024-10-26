@@ -1,0 +1,22 @@
+local huntp = game:GetService("Players").LocalPlayer.Character
+huntp.HumanoidRootPart.CFrame = CFrame.new(65, 103, -119)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-626, 205, 70)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-1014, 72, -155)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-1932, 953, -708)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-68, 99, -26)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-62, 103, -167)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-257, 8, -44)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-539, 43, 48)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-51, 78, -70)
+wait(.5)
+huntp.HumanoidRootPart.CFrame = CFrame.new(-878, 226, -219)
+--[[or
+game:GetService("ReplicatedStorage").Events2024.AwardBadge:FireServer()]]

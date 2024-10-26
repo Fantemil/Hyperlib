@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/railme37509124/Tabby/main/TabbyMaster.lua", true))()

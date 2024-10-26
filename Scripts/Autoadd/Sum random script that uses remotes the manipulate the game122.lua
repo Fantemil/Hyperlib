@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Testaccount927/Bonzidummy-op-break-in-2-script-v1/refs/heads/main/Bonzidummy"))();

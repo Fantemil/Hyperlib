@@ -10,3 +10,5 @@ addscriptexist(13389049867, "Autofarm script", "Uploaded by VxcScripts on script
                                 
     addscriptexist(13389049867, "op script", "Uploaded by SpaceX on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script619.lua", "https://scriptblox.com/script/1percent-Win-Obby-op-script-9191")
                                     
+    addscriptexist(13389049867, "ThunderHubZ", "Uploaded by Allfilm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ThunderHubZ630.lua", "https://scriptblox.com/script/1percent-Win-Obby-ThunderHubZ-11350")
+                                    

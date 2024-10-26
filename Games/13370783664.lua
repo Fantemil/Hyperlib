@@ -32,3 +32,5 @@ addscriptexist(13370783664, "OP Script   Shock", "Uploaded by Rayz on scriptblox
                                     
     addscriptexist(13370783664, "OrX Hub I New Event", "Uploaded by EinzzCookie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OrX%20Hub%20I%20New%20Event328.lua", "https://scriptblox.com/script/FREE-LIMITED-Anime-Energy-Clash-Simulator-New-Event-8653")
                                     
+    addscriptexist(13370783664, "Alwi hub", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alwi%20hub548.lua", "https://scriptblox.com/script/Anime-Energy-Clash-Simulator-Alwi-hub-13855")
+                                    

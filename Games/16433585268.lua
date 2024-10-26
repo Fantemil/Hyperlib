@@ -1,0 +1,2 @@
+
+    addscript(16433585268, "Current Game","Game Ruiner", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Game%20Ruiner39.lua", "https://scriptblox.com/script/UGC-DON'T-PUSH!-Game-Ruiner-11930")

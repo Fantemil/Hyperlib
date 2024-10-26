@@ -1,0 +1,4 @@
+
+    addscript(14157644155, "Current Game","Inf  and Inf Strength", "Uploaded by Yari on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20%20and%20Inf%20Strength388.lua", "https://scriptblox.com/script/Money-Grab-Simulator-Inf-and-Inf-strength-15034")
+    addscriptexist(14157644155, "Projeto LKB I Script 8J2X73MFVRE4PCQZ", "Uploaded by 7FN38VNS9VL38GJDQ09Z on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20LKB%20I%20Script%208J2X73MFVRE4PCQZ269.lua", "https://scriptblox.com/script/Money-Grab-Simulator-Projeto-LKB-I-Script-8J2X73MFVRE4PCQZ-12419")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(106584694945930, "Current Game","Rc7 Skip code eDx", "Uploaded by souhi14alt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rc7%20Skip%20code%20eDx131.lua", "https://scriptblox.com/script/Obby-Sky-killer-Rc7-Skip-code-eDx-21118")

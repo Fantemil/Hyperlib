@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/venoxcc/universalscripts/main/rivals/venoxrivalsv2'))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/G0bbyD0llan/Ez-hub/main/Fe_Ball_Script"))()

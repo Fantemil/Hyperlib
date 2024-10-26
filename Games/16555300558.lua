@@ -1,0 +1,2 @@
+
+    addscript(16555300558, "Current Game","Infinite Potions", "Uploaded by Qovux on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Potions378.lua", "https://scriptblox.com/script/KraKen's-RNG-EPOCH-3-Infinite-Potions-12658")

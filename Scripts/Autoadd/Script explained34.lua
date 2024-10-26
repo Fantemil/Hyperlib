@@ -1,0 +1,1 @@
+Why script:need for fun or something I'm not here for share not now sorry

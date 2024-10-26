@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Hungtu2121/Loader/main/squicgame'))()

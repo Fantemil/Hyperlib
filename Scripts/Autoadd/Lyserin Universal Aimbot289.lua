@@ -1,0 +1,1 @@
+join our discord server for the script https://discord.gg/5eH6jFE6Kh

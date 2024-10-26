@@ -1,0 +1,2 @@
+
+    addscript(17750024818, "Current Game","Apocalypse", "Uploaded by InfiniteScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Apocalypse133.lua", "https://scriptblox.com/script/Bedwarz-Apocalypse-18073")

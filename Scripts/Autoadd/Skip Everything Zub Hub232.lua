@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Xiam0i/Zub-Hub/main/Xiam0i/Obby%20But%20Your%20On%20A%20Bike"))()
+-- nee script here: https://scriptblox.com/script/W37-Obby-But-You're-On-a-Bike-Skip-ll-Worlds-I-W27-15611

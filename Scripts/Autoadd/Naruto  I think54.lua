@@ -1,0 +1,1 @@
+loadstring(Game:HttpGet('https://raw.githubusercontent.com/DexxterGWM/DexxterScripts-lua_u/loader/Files%20Folder/ScriptBuild.lua'))()

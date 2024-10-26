@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustLevel/working-newbie/main/AOTRtest.lua"))()

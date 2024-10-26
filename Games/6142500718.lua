@@ -1,0 +1,4 @@
+
+    addscript(6142500718, "Current Game","Boombox Hub V1", "Uploaded by teamfatguiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Boombox%20Hub%20V1110.lua", "https://scriptblox.com/script/Free-BoomboxRadio!-Boombox-Hub-V1-12475")
+    addscriptexist(6142500718, "Eternal Ware V2 Boombox", "Uploaded by teamfatguiz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Eternal%20Ware%20V2%20Boombox45.lua", "https://scriptblox.com/script/Free-BoomboxRadio!-Eternal-Ware-V2-Boombox-12474")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(15989427413, "Current Game","Free keyless Script", "Uploaded by TTJY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20keyless%20Script786.lua", "https://scriptblox.com/script/The-Mimic-Classic-Free-keyless-Script-19952")

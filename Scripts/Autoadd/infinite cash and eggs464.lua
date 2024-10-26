@@ -1,0 +1,3 @@
+--[[ inf cash: ]] game:GetService("ReplicatedStorage").Multiplier:FireServer(1000000000000000000) -- add more 0s if you want
+--[[ inf eggs (1): game:GetService("ReplicatedStorage").Remotes.TycoonSystem.UpdateXPValue:FireServer(1000000000000000000) ]]
+--[[ inf eggs (2): ]] local a;a=hookmetamethod(game, "__namecall", function(self,...)if not checkcaller() and tostring(self) == "UpdateXPValue" and getnamecallmethod() == "FireServer" then return a(self,1000000000000000000) end ; return a(self,...) end)

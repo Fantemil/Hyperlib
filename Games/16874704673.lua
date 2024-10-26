@@ -1,0 +1,2 @@
+
+    addscript(16874704673, "Current Game","Instant UGC", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC409.lua", "https://scriptblox.com/script/Outfit-Square-X-adidas-Instant-UGC-13380")

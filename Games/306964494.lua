@@ -6,3 +6,5 @@ addscriptexist(306964494, "L00mianL3gacy", "Uploaded by CandyLean on scriptblox.
                                 
 addscriptexist(306964494, "Ll script", "Uploaded by jadentpetersons on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ll%20script367.lua", "https://scriptblox.com/script/Loomian-Legacy-Ll-script-7838")
                                 
+    addscriptexist(306964494, "INFINITE UMV ENERGY AUTO ARCADE MrJack Script", "Uploaded by MrJack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20UMV%20ENERGY%20AUTO%20ARCADE%20MrJack%20Script227.lua", "https://scriptblox.com/script/UMVArcade-Loomian-Legacy-INFINITE-UMV-ENERGY-12381")
+                                    

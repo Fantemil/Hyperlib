@@ -14,3 +14,7 @@ addscriptexist(6728870912, "Old Auto Chest World Of Stand", "Uploaded by User642
                                 
 addscriptexist(6728870912, "World Of Stand Auto Chest UPDATE Beta", "Uploaded by User642c517b9893a on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/World%20Of%20Stand%20Auto%20Chest%20UPDATE%20Beta855.lua", "https://rscripts.net/script/world-of-stand-auto-chest-update-beta-4238")
                                 
+    addscriptexist(6728870912, "Jojo game Script", "Uploaded by jakefromjakesfarm on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Jojo%20game%20Script82.lua", "https://scriptblox.com/script/World-of-Stands-Jojo-game-Script-17332")
+                                    
+    addscriptexist(6728870912, "auto find arrows", "Uploaded by dev3 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20find%20arrows83.lua", "https://scriptblox.com/script/PT3-World-of-Stands-auto-find-arrows-18492")
+                                    

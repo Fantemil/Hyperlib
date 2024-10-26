@@ -1,0 +1,2 @@
+
+    addscript(18655166135, "Current Game","open src solr supported", "Uploaded by pianino2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/open%20src%20solr%20supported570.lua", "https://scriptblox.com/script/Be-a-Tsunami-uto-frm-19280")

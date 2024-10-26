@@ -1,0 +1,2 @@
+
+    addscript(15991065875, "Current Game","Easy Win", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Win306.lua", "https://scriptblox.com/script/Knockout-Party-NEW-Easy-Win-10351")

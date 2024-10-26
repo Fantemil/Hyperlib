@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/smchko/trypper-on-top/main/Trypper%20on%20top"))()

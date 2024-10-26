@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pleaseful/ExtendedUNC/main/ExtendedUNC.lua'))()

@@ -1,0 +1,2 @@
+
+    addscript(15105797247, "Current Game","Ouxie hub test", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ouxie%20hub%20test356.lua", "https://scriptblox.com/script/Stay-in-the-Circle!-Ouxie-hub-test-12707")

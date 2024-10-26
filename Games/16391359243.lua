@@ -1,0 +1,2 @@
+
+    addscript(16391359243, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2415.lua", "https://scriptblox.com/script/Update-3-Anime-Fusion-X-Demonic-HUB-V2-11028")

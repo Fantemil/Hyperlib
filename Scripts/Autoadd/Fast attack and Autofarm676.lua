@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MynameIsDoit/RNG-Odyssey./refs/heads/main/RNG%20Odyssey.lua"))()

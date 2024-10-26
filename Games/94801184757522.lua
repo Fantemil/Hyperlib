@@ -1,0 +1,2 @@
+
+    addscript(94801184757522, "Current Game","Auto Farm And More", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20And%20More247.lua", "https://scriptblox.com/script/ALPHA-Jujutsu-Piece-Auto-Farm-And-More-18399")

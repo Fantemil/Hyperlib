@@ -1,0 +1,2 @@
+
+    addscript(11635568053, "Current Game","OP Admin Panel and Loopkill All", "Uploaded by Orbs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Admin%20Panel%20and%20Loopkill%20All849.lua", "https://scriptblox.com/script/DOORS-RP-Eat-everyone-OP-Admin-Panel-and-Loopkill-All-20027")

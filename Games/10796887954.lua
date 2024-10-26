@@ -1,0 +1,2 @@
+
+    addscript(10796887954, "Current Game","Script request", "Uploaded by Anonymousb379 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20request51.lua", "https://scriptblox.com/script/HALLOWEEN-Dragon-Ball-R:-Legacy-Script-request-20726")

@@ -1,0 +1,2 @@
+
+    addscript(17055852738, "Current Game","Best Script", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Script385.lua", "https://scriptblox.com/script/Rich-RNG-Best-Script-12712")

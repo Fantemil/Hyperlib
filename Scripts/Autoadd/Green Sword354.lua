@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Icalock/Server/refs/heads/main/Neon%20Green%20Sword.txt", true))()

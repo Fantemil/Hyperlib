@@ -1,0 +1,2 @@
+
+    addscript(18356577018, "Current Game","Inf Clicks", "Uploaded by Hamza28 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Clicks806.lua", "https://scriptblox.com/script/Clicking-Simulator-Inf-Clicks-18764")

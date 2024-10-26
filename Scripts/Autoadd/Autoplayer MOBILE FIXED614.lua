@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Bart3kk/funky-friday-autoplay/main/script.lua'))()

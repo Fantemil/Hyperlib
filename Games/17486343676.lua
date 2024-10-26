@@ -1,0 +1,2 @@
+
+    addscript(17486343676, "Current Game","Kill All", "Uploaded by coyx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20All399.lua", "https://scriptblox.com/script/Too-Many-Weapons-Kill-All-20611")

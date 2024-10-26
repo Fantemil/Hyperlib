@@ -1,0 +1,4 @@
+
+    addscript(106736884883028, "Current Game","Simple Auto Break", "Uploaded by kalas on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simple%20Auto%20Break125.lua", "https://scriptblox.com/script/NEW-Pet-World-Simple-Auto-Break-19251")
+    addscriptexist(106736884883028, "Auto farm GUI for Mobile device", "Uploaded by MONiKA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20GUI%20for%20Mobile%20device608.lua", "https://scriptblox.com/script/F2P-Pet-World-Auto-farm-GUI-for-Mobile-device-19835")
+                                    

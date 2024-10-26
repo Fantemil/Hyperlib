@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/Sxxgj86m/refs/heads/main/Cardealer"))()

@@ -1,0 +1,1 @@
+Kry = loadstring(game:HttpGet('https://raw.githubusercontent.com/RENBex6969/KryFunction-DOCS/main/source.lua'))()

@@ -1,0 +1,1 @@
+-- https://discord.gg/5n9R4HnEAx for script (very easy to join unlike other script and this isn't fake)

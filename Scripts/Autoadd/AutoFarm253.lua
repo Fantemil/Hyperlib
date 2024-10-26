@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/illyamarj/HUB/refs/heads/main/blox%20fruit.txt'))()

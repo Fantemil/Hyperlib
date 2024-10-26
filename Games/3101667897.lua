@@ -54,3 +54,43 @@ addscriptexist(3101667897, "Op autarm script", "Uploaded by Personwholikesscript
                                     
     addscriptexist(3101667897, "Darkmoon X AutoPet Open Source", "Uploaded by DarkMoon_X on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Darkmoon%20X%20AutoPet%20Open%20Source871.lua", "https://scriptblox.com/script/Legends-Of-Speed-Darkmoon-X-Open-Source-10125")
                                     
+    addscriptexist(3101667897, "GoldEx Remastered v1 0", "Uploaded by OrzScript on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GoldEx%20Remastered%20v1%200972.lua", "https://scriptblox.com/script/Legends-Of-Speed-GoldEx-Remastered-v1-0-15573")
+                                    
+    addscriptexist(3101667897, "LN Hub aka Lumin Hub", "Uploaded by LNHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/LN%20Hub%20aka%20Lumin%20Hub940.lua", "https://scriptblox.com/script/Legends-Of-Speed-LN-Hub-aka-Lumin-Hub-15371")
+                                    
+    addscriptexist(3101667897, "Vynixu LOS Script", "Uploaded by nhax on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vynixu%20LOS%20Script560.lua", "https://scriptblox.com/script/Legends-Of-Speed-Vynixu-12527")
+                                    
+    addscriptexist(3101667897, "good script", "Uploaded by nokey on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/good%20script222.lua", "https://scriptblox.com/script/Legends-Of-Speed-good-script-key-is-25ms-17589")
+                                    
+    addscriptexist(3101667897, "auto everything", "Uploaded by bla22lols on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20everything341.lua", "https://scriptblox.com/script/Legends-Of-Speed-auto-level-up-15401")
+                                    
+    addscriptexist(3101667897, "Russian script", "Uploaded by oderi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Russian%20script648.lua", "https://scriptblox.com/script/Legends-Of-Speed-Russian-script-12722")
+                                    
+    addscriptexist(3101667897, "Auto Farm Orbs Auto Hoop", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Orbs%20Auto%20Hoop517.lua", "https://scriptblox.com/script/Legends-Of-Speed-Auto-Farm-Orbs-Auto-Hoop-10540")
+                                    
+    addscriptexist(3101667897, "Inf step", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20step815.lua", "https://scriptblox.com/script/Legends-Of-Speed-Inf-step-13692")
+                                    
+    addscriptexist(3101667897, "Auto Farm Orbs Auto Gems", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Orbs%20Auto%20Gems236.lua", "https://scriptblox.com/script/Legends-Of-Speed-Auto-Farm-Orbs-Auto-Gems-11928")
+                                    
+    addscriptexist(3101667897, "Auto Farm Orbs and Auto Gems", "Uploaded by Phoenixxx on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Orbs%20and%20Auto%20Gems950.lua", "https://scriptblox.com/script/Legends-Of-Speed-Auto-Farm-Orbs-and-Auto-Gems-12195")
+                                    
+    addscriptexist(3101667897, "The hunt", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20hunt119.lua", "https://scriptblox.com/script/Legends-Of-Speed-The-hunt-11324")
+                                    
+    addscriptexist(3101667897, "Auto Farm Gems Auto Steps Auto Rebirth", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Gems%20Auto%20Steps%20Auto%20Rebirth150.lua", "https://scriptblox.com/script/Legends-Of-Speed-Auto-Farm-Gems-Auto-Steps-Auto-Rebirth-11663")
+                                    
+    addscriptexist(3101667897, "Auto Farm Teleports", "Uploaded by SaharaQQ on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Teleports166.lua", "https://scriptblox.com/script/Legends-Of-Speed-Auto-Farm-Teleports-12275")
+                                    
+    addscriptexist(3101667897, "OP FARM", "Uploaded by sametexe on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20FARM498.lua", "https://scriptblox.com/script/Legends-Of-Speed-OP-FARM-13147")
+                                    
+    addscriptexist(3101667897, "Op Scripot", "Uploaded by Pocky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20Scripot432.lua", "https://scriptblox.com/script/Legends-Of-Speed-Op-Scripot-12896")
+                                    
+    addscriptexist(3101667897, "OP Farm Pet Dupe", "Uploaded by Waza80 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20Farm%20Pet%20Dupe951.lua", "https://scriptblox.com/script/Legends-Of-Speed-OP-Farm-Pet-Dupe-13518")
+                                    
+    addscriptexist(3101667897, "Auto Farm Auto Gems and more", "Uploaded by Nanolol13 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm%20Auto%20Gems%20and%20more664.lua", "https://scriptblox.com/script/Legends-Of-Speed-Auto-Farm-Auto-Gems-and-more-15379")
+                                    
+    addscriptexist(3101667897, "Fast Collect Orbs", "Uploaded by DaniXD on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Collect%20Orbs43.lua", "https://scriptblox.com/script/Legends-Of-Speed-Fast-Collect-Orbs-17847")
+                                    
+    addscriptexist(3101667897, "Legend   FX Hub", "Uploaded by ZexusBerry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Legend%20%20%20FX%20Hub866.lua", "https://scriptblox.com/script/Legends-Of-Speed-Legend-FX-11290")
+                                    
+    addscriptexist(3101667897, "work  on solara", "Uploaded by ZUBIA on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/work%20%20on%20solara384.lua", "https://scriptblox.com/script/Legends-Of-Speed-work-solara-14741")
+                                    

@@ -1,0 +1,6 @@
+local hookfunc = clonefunction(hookfunction)
+local setClipboard = setclipboard or toclipboard or set_clipboard or setrbxclipboard or (Clipboard and Clipboard.set)
+hf1 = hookfunc(setClipboard, newcclosure(function(content)
+  print(tostring(content))
+  return hf1(content)
+end))

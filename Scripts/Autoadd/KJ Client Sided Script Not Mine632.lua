@@ -1,0 +1,1 @@
+https://raw.githubusercontent.com/Tariviste/Gojo/main/Source

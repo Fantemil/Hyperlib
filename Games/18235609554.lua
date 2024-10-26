@@ -1,0 +1,2 @@
+
+    addscript(18235609554, "Current Game","spam kill all", "Uploaded by zins on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/spam%20kill%20all822.lua", "https://scriptblox.com/script/Tallest-Highdive-Ever-Obby-spam-kill-all-16329")

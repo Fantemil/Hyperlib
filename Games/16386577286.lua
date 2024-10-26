@@ -1,0 +1,2 @@
+
+    addscript(16386577286, "Current Game","Inf money", "Uploaded by Harry2090 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money654.lua", "https://scriptblox.com/script/Pizzeria-Tycoon-Inf-money-12404")

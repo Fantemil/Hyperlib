@@ -1,0 +1,4 @@
+
+    addscript(18122905280, "Current Game","Give 2M  trophy", "Uploaded by pulse on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%202M%20%20trophy68.lua", "https://scriptblox.com/script/FREE-ADMIN-IQ-Obby-INV-Give-2M-trophy-17897")
+    addscriptexist(18122905280, "admin Script", "Uploaded by MRSCRIPT5 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/admin%20Script470.lua", "https://scriptblox.com/script/FREE-ADMIN-Red-+-Blue-+-Black-EVENT-IQ-Obby-admin-Script-17593")
+                                    

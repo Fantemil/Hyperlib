@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Xenijo/YBA-U/main/Main.lua'))()

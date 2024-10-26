@@ -1,0 +1,1 @@
+-- IN DISCORD BCS PASTEBIN DIDNT WORKS https://discord.gg/a6ptHbkNMx

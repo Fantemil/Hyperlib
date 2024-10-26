@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hl3n/karvxhub/refs/heads/main/KARVBETA"))()

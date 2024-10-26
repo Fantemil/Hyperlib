@@ -1,0 +1,4 @@
+
+    addscript(10410867031, "Current Game","requesting script", "Uploaded by mikeyleofishy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/requesting%20script950.lua", "https://scriptblox.com/script/ARIMA-+-RANKED-Anime-Strike-Beta-requesting-script-19640")
+    addscriptexist(10410867031, "Script requests", "Uploaded by greya520 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20requests375.lua", "https://scriptblox.com/script/ARIMA-+-RANKED-Anime-Strike-Beta-Script-requests-20855")
+                                    

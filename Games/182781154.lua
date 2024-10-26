@@ -1,0 +1,2 @@
+
+    addscript(182781154, "Current Game","Request Script", "Uploaded by Billysearry on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20Script743.lua", "https://scriptblox.com/script/The-Maze-Runner-Request-Script-20171")

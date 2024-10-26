@@ -1,0 +1,2 @@
+
+    addscript(10767556146, "Current Game","Auto Build And More", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Build%20And%20More75.lua", "https://scriptblox.com/script/Dino-Tycoon-Auto-Build-And-More-12918")

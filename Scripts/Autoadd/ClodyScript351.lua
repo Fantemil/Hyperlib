@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Danny-69-dot/DannyScript/main/ProtectedClodyScript.txt"))()

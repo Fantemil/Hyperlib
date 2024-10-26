@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/DIZZYwitha3/ArsenLib/main/ArsonMain.lua"))()

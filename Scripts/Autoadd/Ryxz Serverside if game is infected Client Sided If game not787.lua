@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ali-droidlol/Ryxz-Modded/refs/heads/main/Ryxz",true))()

@@ -24,3 +24,7 @@ addscriptexist(12996550309, "Ln hub Runstar", "Uploaded by No6No6No7 on scriptbl
                                     
     addscriptexist(12996550309, "Infinite Wins", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins837.lua", "https://scriptblox.com/script/NEWRunStar-Simulator-Infinite-Wins-7358")
                                     
+    addscriptexist(12996550309, "Op script Inf wins More", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20Inf%20wins%20More6.lua", "https://scriptblox.com/script/BILLYRunStar-Simulator-Op-script-Inf-wins-More-16535")
+                                    
+    addscriptexist(12996550309, "Infinite Wins More", "Uploaded by Thundy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Wins%20More839.lua", "https://scriptblox.com/script/MILK-BILLYRunStar-Simulator-Infinite-Wins-More-11289")
+                                    

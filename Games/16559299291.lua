@@ -1,0 +1,2 @@
+
+    addscript(16559299291, "Current Game","Instant UGC", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20UGC795.lua", "https://scriptblox.com/script/UGC-Sparkles-Magical-Market-Instant-UGC-18302")

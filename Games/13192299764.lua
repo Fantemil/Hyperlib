@@ -1,0 +1,2 @@
+
+    addscript(13192299764, "Current Game","Auto Sell Fish", "Uploaded by Luvinq_FL0WERS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Sell%20Fish908.lua", "https://scriptblox.com/script/Ultimate-Fishing-Simulator-Auto-Sell-Fish-16063")

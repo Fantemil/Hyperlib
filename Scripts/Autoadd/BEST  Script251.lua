@@ -1,0 +1,1 @@
+paid script: https://discord.gg/jVjgdNKWCk

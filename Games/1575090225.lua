@@ -1,0 +1,2 @@
+
+    addscript(1575090225, "Current Game","JanHub", "Uploaded by fadlstwr72 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JanHub949.lua", "https://scriptblox.com/script/shalyh-mhmd-JanHub-15600")

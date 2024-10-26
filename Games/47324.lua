@@ -1,0 +1,2 @@
+
+    addscript(47324, "Current Game","fight", "Uploaded by wowie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/fight141.lua", "https://scriptblox.com/script/Sword-Fights-on-the-Heights-IV-fight-12944")

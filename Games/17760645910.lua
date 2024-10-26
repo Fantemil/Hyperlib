@@ -1,0 +1,2 @@
+
+    addscript(17760645910, "Current Game","Projeto LKB I  Battle", "Uploaded by Projeto_LKB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projeto%20LKB%20I%20%20Battle388.lua", "https://scriptblox.com/script/Slap-Battles-RNG-10K-VISITS-UPDATE-Projeto-LKB-I-Battle-15538")

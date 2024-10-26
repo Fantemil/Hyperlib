@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/UPD-Backrooms-Infection-W-script-18670"))()

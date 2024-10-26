@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MotionHubBeta/BetaMotion/refs/heads/main/MotionHubBeta"))()

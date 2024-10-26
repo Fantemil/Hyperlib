@@ -58,3 +58,63 @@ addscriptexist(9872472334, "D8rk Hub  Version 10", "Uploaded by D8rk on scriptbl
                                     
     addscriptexist(9872472334, "By Xenon HUB", "Uploaded by yusupsaefullah400 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/By%20Xenon%20HUB589.lua", "https://scriptblox.com/script/Evade-Script-By-XenonHUB-9983")
                                     
+    addscriptexist(9872472334, "X3 race clicker script", "Uploaded by Anhlatubeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X3%20race%20clicker%20script867.lua", "https://scriptblox.com/script/Evade-X3-race-clicker-script-17401")
+                                    
+    addscriptexist(9872472334, "Xp Auto Farm", "Uploaded by Lemur4ik on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xp%20Auto%20Farm828.lua", "https://scriptblox.com/script/Evade-Xp-Auto-Farm-11499")
+                                    
+    addscriptexist(9872472334, "Xp Auto Farm Afk Farm Esp", "Uploaded by Slizalma on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Xp%20Auto%20Farm%20Afk%20Farm%20Esp87.lua", "https://scriptblox.com/script/Evade-Xp-Auto-Farm-Afk-Farm-Esp-11545")
+                                    
+    addscriptexist(9872472334, "Scripts Mobile Roblox 2024", "Uploaded by Mazon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Scripts%20Mobile%20Roblox%202024705.lua", "https://scriptblox.com/script/Evade-Scripts-Mobile-Roblox-2024-15140")
+                                    
+    addscriptexist(9872472334, "NullHub", "Uploaded by iminsane1337 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NullHub706.lua", "https://scriptblox.com/script/Evade-NullHub-14750")
+                                    
+    addscriptexist(9872472334, "RU SCRIPT", "Uploaded by oderi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RU%20SCRIPT931.lua", "https://scriptblox.com/script/Evade-RU-SCRIPT-12720")
+                                    
+    addscriptexist(9872472334, "Test", "Uploaded by Script_Roblox on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Test108.lua", "https://scriptblox.com/script/Evade-Test-12507")
+                                    
+    addscriptexist(9872472334, "Extremely op Script mobile and pc", "Uploaded by ENRAGED_TUBERS95 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Extremely%20op%20Script%20mobile%20and%20pc318.lua", "https://scriptblox.com/script/Evade-Extremely-op-Script-mobile-and-pc-12928")
+                                    
+    addscriptexist(9872472334, "SIMPLICITY Auto Farmer", "Uploaded by pcallskeleton on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SIMPLICITY%20Auto%20Farmer711.lua", "https://scriptblox.com/script/Evade-SIMPLICITY-Auto-Farmer-18986")
+                                    
+    addscriptexist(9872472334, "best script ever", "Uploaded by Yousefsssfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/best%20script%20ever193.lua", "https://scriptblox.com/script/Evade-best-script-ever-18375")
+                                    
+    addscriptexist(9872472334, "OP SCRIPT loadstring", "Uploaded by Scriptblox_Scripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20SCRIPT%20loadstring552.lua", "https://scriptblox.com/script/Evade-OP-SCRIPT-loadstring-17813")
+                                    
+    addscriptexist(9872472334, "Script ardrak hub", "Uploaded by Anhlatubeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20ardrak%20hub161.lua", "https://scriptblox.com/script/Evade-Script-ardrak-hub-17215")
+                                    
+    addscriptexist(9872472334, "script esp and other good and walkspeed", "Uploaded by kingsploit on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20esp%20and%20other%20good%20and%20walkspeed162.lua", "https://scriptblox.com/script/Evade-script-esp-and-other-good-and-walkspeed-16900")
+                                    
+    addscriptexist(9872472334, "darkai X", "Uploaded by Content_boy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/darkai%20X874.lua", "https://scriptblox.com/script/Evade-darkai-X-16976")
+                                    
+    addscriptexist(9872472334, "New Script   Game  ArDrak Hub  Beta", "Uploaded by Anhlatubeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/New%20Script%20%20%20Game%20%20ArDrak%20Hub%20%20Beta735.lua", "https://scriptblox.com/script/Evade-New-Script-Game-ArDrak-Hub-Beta-17301")
+                                    
+    addscriptexist(9872472334, "Teleports and Esp", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Teleports%20and%20Esp904.lua", "https://scriptblox.com/script/Evade-Teleports-and-Esp-11440")
+                                    
+    addscriptexist(9872472334, "Tom Hub", "Uploaded by TbaoHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tom%20Hub750.lua", "https://scriptblox.com/script/Evade-Tom-Hub-15462")
+                                    
+    addscriptexist(9872472334, "Immortaliy and Auto Respawn", "Uploaded by Drakainnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Immortaliy%20and%20Auto%20Respawn621.lua", "https://scriptblox.com/script/VAL-Evade-***-Mode-and-Auto-Respawn-10984")
+                                    
+    addscriptexist(9872472334, "Auto Respawn and AutoFarm", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Respawn%20and%20AutoFarm809.lua", "https://scriptblox.com/script/Evade-Auto-Respawn-and-AutoFarm-11222")
+                                    
+    addscriptexist(9872472334, "Support solara and mobile", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Support%20solara%20and%20mobile444.lua", "https://scriptblox.com/script/Evade-Support-solara-and-mobile-18048")
+                                    
+    addscriptexist(9872472334, "Esp Teleport Extra", "Uploaded by RelikT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Esp%20Teleport%20Extra244.lua", "https://scriptblox.com/script/Evade-Esp-Teleport-Extra-11399")
+                                    
+    addscriptexist(9872472334, "Script Ardrak Hub v7  new", "Uploaded by Anhlatubeo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Ardrak%20Hub%20v7%20%20new448.lua", "https://scriptblox.com/script/Evade-Script-Ardrak-Hub-v7-new-17249")
+                                    
+    addscriptexist(9872472334, "D8rk Hub V2", "Uploaded by D8rk on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/D8rk%20Hub%20V2156.lua", "https://scriptblox.com/script/Evade-D8rk-Hub-V2-12956")
+                                    
+    addscriptexist(9872472334, "BEST SCRIPT FOR  FLY AUTO RESP", "Uploaded by XBoom on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20SCRIPT%20FOR%20%20FLY%20AUTO%20RESP712.lua", "https://scriptblox.com/script/Evade-BEST-SCRIPT-FOR-FLY-AUTO-RESP-19817")
+                                    
+    addscriptexist(9872472334, "Evade Auto Farm Candy Halloween Event", "Uploaded by luhh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Auto%20Farm%20Candy%20Halloween%20Event548.lua", "https://scriptblox.com/script/Evade-Evade-Auto-Farm-Candy-Halloween-Event-20279")
+                                    
+    addscriptexist(9872472334, "script request", "Uploaded by Sharkie on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request579.lua", "https://scriptblox.com/script/Evade-script-request-20345")
+                                    
+    addscriptexist(9872472334, "candy farm", "Uploaded by playvora on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/candy%20farm948.lua", "https://scriptblox.com/script/Evade-candy-farm-20447")
+                                    
+    addscriptexist(9872472334, "Evade Candy Farm", "Uploaded by Whattyshsjsksksjsjs on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20Candy%20Farm608.lua", "https://scriptblox.com/script/Evade-Evade-Candy-Farm-20491")
+                                    
+    addscriptexist(9872472334, "Fast Collect Anti Die No Key", "Uploaded by r4mpage on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fast%20Collect%20Anti%20Die%20No%20Key894.lua", "https://scriptblox.com/script/Evade-Fast-Collect-Anti-Die-No-Key-20659")
+                                    
+    addscriptexist(9872472334, "Evade the best free GUI script lots of features", "Uploaded by Real_King on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Evade%20the%20best%20free%20GUI%20script%20lots%20of%20features236.lua", "https://scriptblox.com/script/Evade-Evade-The-Best-Free-GUI-Script-lots-of-Features-20718")
+                                    

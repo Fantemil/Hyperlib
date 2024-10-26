@@ -1,0 +1,2 @@
+
+    addscript(14618379101, "Current Game","Instant 3 UGC op script", "Uploaded by Kaito_Fyp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%203%20UGC%20op%20script573.lua", "https://scriptblox.com/script/Chupa-Chups-Skate-andamp-Create-FREE-UGC!-Instant-3-UGC-op-script-16685")

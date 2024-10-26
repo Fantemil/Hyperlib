@@ -1,0 +1,2 @@
+
+    addscript(14661965984, "Current Game","killaura", "Uploaded by tiam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/killaura835.lua", "https://scriptblox.com/script/Project-DS-killaura-17836")

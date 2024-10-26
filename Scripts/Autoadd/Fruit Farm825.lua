@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SaturnXclient/BloxFruit/main/FruitFarm%20-%20Free"))()

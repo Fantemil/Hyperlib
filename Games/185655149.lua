@@ -32,3 +32,19 @@ addscriptexist(185655149, "OP PIZZA FARM FREE", "Uploaded by Verthemillion on sc
                                     
     addscriptexist(185655149, "AuBlox Aufarm WEB  UWP", "Uploaded by georgegameplay45 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AuBlox%20Aufarm%20WEB%20%20UWP405.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-AuBlox-Aufarm-ol-9708")
                                     
+    addscriptexist(185655149, "OP AUFARM BETA", "Uploaded by 2011 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20AUFARM%20BETA291.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-OP-AUFARM-18906")
+                                    
+    addscriptexist(185655149, "Hairdresser Aufarm", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hairdresser%20Aufarm682.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-Hairdresser-Aufarm-11651")
+                                    
+    addscriptexist(185655149, "AuFarm WORKS ON SOLARA", "Uploaded by scripts121212 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AuFarm%20WORKS%20ON%20SOLARA960.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-AuFarm-WORKS-ON-SOLARA-14709")
+                                    
+    addscriptexist(185655149, "PHANM HUB", "Uploaded by DYNAMIC_HUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PHANM%20HUB888.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-PHANM-HUB-13900")
+                                    
+    addscriptexist(185655149, "FreakBurg", "Uploaded by GAMELEAN on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FreakBurg239.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-FreakBurg-15617")
+                                    
+    addscriptexist(185655149, "Hairdresser op farm", "Uploaded by lucaz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hairdresser%20op%20farm818.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-Hairdresser-op-farm-11969")
+                                    
+    addscriptexist(185655149, "AuFarm Script", "Uploaded by Rich on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AuFarm%20Script497.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-AuFarm-Script-14626")
+                                    
+    addscriptexist(185655149, "Gives ability  aufarm without getting banned", "Uploaded by Niburu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gives%20ability%20%20aufarm%20without%20getting%20banned119.lua", "https://scriptblox.com/script/Welcome-to-Bloxburg-Gives-ability-aufarm-without-getting-banned-19854")
+                                    

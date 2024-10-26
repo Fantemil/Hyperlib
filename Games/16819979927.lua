@@ -1,0 +1,8 @@
+
+    addscript(16819979927, "Current Game","Give yourself any aura  inf money Open src", "Uploaded by KyloSillyReal on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Give%20yourself%20any%20aura%20%20inf%20money%20Open%20src692.lua", "https://scriptblox.com/script/Bims-RNG-1-Million-Visits-Event-Give-yourself-any-aura-14639")
+    addscriptexist(16819979927, "Get Every Aura FE Support Solara  auto update", "Uploaded by BKmD_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20Every%20Aura%20FE%20Support%20Solara%20%20auto%20update615.lua", "https://scriptblox.com/script/Bims-RNG-1-Million-Visits-Event-Get-Every-Aura-14612")
+                                    
+    addscriptexist(16819979927, "equip any aura fixed errors", "Uploaded by DuckyExploits on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/equip%20any%20aura%20fixed%20errors833.lua", "https://scriptblox.com/script/Bims-RNG-MAJOR-UDPATE-+-THE-CLASSIC-EVENT-equip-any-aura-14234")
+                                    
+    addscriptexist(16819979927, "OP  Aura Changer", "Uploaded by lololihatemen on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20Aura%20Changer462.lua", "https://scriptblox.com/script/Jim's-RNG-RULER-OF-EVERYTHING-OP-Aura-Changer-19936")
+                                    

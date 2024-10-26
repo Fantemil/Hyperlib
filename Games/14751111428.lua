@@ -8,3 +8,5 @@ addscriptexist(14751111428, "tora version", "Uploaded by et1ty on scriptblox.com
                                     
     addscriptexist(14751111428, "DemonicHUB", "Uploaded by alan11agohero on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/DemonicHUB44.lua", "https://scriptblox.com/script/EZ-UGC!-Gladiator-Simulator-DemonicHUB-8829")
                                     
+    addscriptexist(14751111428, "Alwi hub", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Alwi%20hub88.lua", "https://scriptblox.com/script/Summer!-Gladiator-Simulator-Alwi-hub-20768")
+                                    

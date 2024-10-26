@@ -1,0 +1,2 @@
+
+    addscript(14234703115, "Current Game","Request for this", "Uploaded by Bob70 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20for%20this589.lua", "https://scriptblox.com/script/UPD-whizzbang-Request-for-this-21079")

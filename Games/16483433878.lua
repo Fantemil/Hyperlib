@@ -1,0 +1,4 @@
+
+    addscript(16483433878, "Current Game","Invincibility No Enemy Damage", "Uploaded by aunarky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Invincibility%20No%20Enemy%20Damage287.lua", "https://scriptblox.com/script/Block-Tales-Demo-2-*mode-15553")
+    addscriptexist(16483433878, "SCRIPT REQUEST", "Uploaded by elhadadidane on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST740.lua", "https://scriptblox.com/script/Block-Tales-(Demo-1)-SCRIPT-REQUEST-13223")
+                                    

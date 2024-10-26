@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/pablopoep/Universal/main/anti-afk-kick.lua'))()

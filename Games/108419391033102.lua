@@ -1,0 +1,4 @@
+
+    addscript(108419391033102, "Current Game","Script Request", "Uploaded by uikbisnp555 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request298.lua", "https://scriptblox.com/script/Swarm-Survival-(Water-Monster-Update-:3)-Script-Request-21007")
+    addscriptexist(108419391033102, "Request Accepted", "Uploaded by sploited on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20Accepted68.lua", "https://scriptblox.com/script/Swarm-Survival-(Water-Monster-Update-:3)-Request-Accepted-21022")
+                                    

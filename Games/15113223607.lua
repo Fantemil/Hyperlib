@@ -1,0 +1,2 @@
+
+    addscript(15113223607, "Current Game","No Cooldown Mobile", "Uploaded by SkireScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/No%20Cooldown%20Mobile815.lua", "https://scriptblox.com/script/Twinblade!-Mech-Showdown-(Alpha)-No-Cooldown-Mobile-19284")

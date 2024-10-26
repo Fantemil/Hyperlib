@@ -1,0 +1,2 @@
+
+    addscript(483424955, "Current Game","Hd admin loader and ranker require script", "Uploaded by Bbruh5918 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hd%20admin%20loader%20and%20ranker%20require%20script839.lua", "https://scriptblox.com/script/keloyn's-Place-Hd-admin-loader-and-ranker-require-script-20266")

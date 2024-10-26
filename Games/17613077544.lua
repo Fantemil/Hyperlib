@@ -1,0 +1,2 @@
+
+    addscript(17613077544, "Current Game","Free Script", "Uploaded by Cici on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Script518.lua", "https://scriptblox.com/script/FREE-Open-For-Free!-Free-Script-16363")

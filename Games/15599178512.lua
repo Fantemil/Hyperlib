@@ -1,0 +1,2 @@
+
+    addscript(15599178512, "Current Game","SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED757.lua", "https://scriptblox.com/script/HALLOWEEN-West-Chicago-SOLARA-SUPPORTED-20752")

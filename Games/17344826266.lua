@@ -1,0 +1,2 @@
+
+    addscript(17344826266, "Current Game","Best Auto Farm", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm837.lua", "https://scriptblox.com/script/RELEASE-Anime-Odyssey-Simulator-Best-Auto-Farm-13682")

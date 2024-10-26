@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/Testebloxfruit/refs/heads/main/RedzHub2.1?token=GHSAT0AAAAAACW3V5IENOZ5H2DGQCFWL4BEZXYZ25A", true))()

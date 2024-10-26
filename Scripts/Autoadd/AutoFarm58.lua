@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/Arcade_Punch_Simulator/main/README.md"),true))()

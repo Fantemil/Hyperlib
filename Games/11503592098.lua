@@ -1,0 +1,2 @@
+
+    addscript(11503592098, "Current Game","Auto Farm", "Uploaded by ExploitFin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Farm643.lua", "https://scriptblox.com/script/Ants-Eat-Everything-Auto-Farm-20905")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NeZrutOfficial/Key/refs/heads/main/KEY?token=GHSAT0AAAAAACXRIG3SLUGKSUXHCN6QIALMZXN6QAQ"))()

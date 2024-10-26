@@ -1,0 +1,2 @@
+
+    addscript(4539999996, "Current Game","INFINITE MONEY", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20MONEY808.lua", "https://scriptblox.com/script/(LIMITED)-Project-North-V3-INFINITE-MONEY-18561")

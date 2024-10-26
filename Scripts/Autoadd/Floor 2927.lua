@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Nevcit/GOA_HUB/main/Doors"))()

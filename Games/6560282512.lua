@@ -1,0 +1,2 @@
+
+    addscript(6560282512, "Current Game","Wong", "Uploaded by C00l on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Wong79.lua", "https://scriptblox.com/script/Just-a-Rope-Bridge-Wong-10946")

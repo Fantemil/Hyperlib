@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://scriptblox.com/raw/Universal-Script-Krnl-Executor-8368"))()

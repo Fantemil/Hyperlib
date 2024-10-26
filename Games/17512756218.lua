@@ -1,0 +1,2 @@
+
+    addscript(17512756218, "Current Game","roll back for ty game", "Uploaded by money on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/roll%20back%20for%20ty%20game526.lua", "https://scriptblox.com/script/RYUKO-Anime-Protectors-Defense-roll-back-for-*ty-game-16999")

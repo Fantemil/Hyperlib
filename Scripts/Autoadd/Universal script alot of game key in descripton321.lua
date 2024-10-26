@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Zenon-Universal-Lots-of-games-18421"))()

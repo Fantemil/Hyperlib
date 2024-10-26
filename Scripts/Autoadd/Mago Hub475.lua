@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MagoScripts5/MagoHub/main/MagoHub.lua"))()

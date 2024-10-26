@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/zhanzheng666/Roblox/main/Tang%20County%2C%20Hebei'))()

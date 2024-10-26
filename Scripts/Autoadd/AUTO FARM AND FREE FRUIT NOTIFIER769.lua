@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/HenSeu87PofghYT/Eternal-Piece/main/Nameless%20Scripts"))()

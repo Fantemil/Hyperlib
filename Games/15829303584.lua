@@ -1,0 +1,2 @@
+
+    addscript(15829303584, "Current Game","Complete game", "Uploaded by Mewzz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Complete%20game753.lua", "https://scriptblox.com/script/The-Glitch-Obby!-Complete-game-11935")

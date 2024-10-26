@@ -1,0 +1,2 @@
+
+    addscript(11448049451, "Current Game","Godmode", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Godmode476.lua", "https://scriptblox.com/script/Pou-in-Area-51!-Godmode-13608")

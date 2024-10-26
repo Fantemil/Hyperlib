@@ -1,0 +1,2 @@
+
+    addscript(17811009787, "Current Game","free items and shows votes", "Uploaded by bla22lols on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/free%20items%20and%20shows%20votes88.lua", "https://scriptblox.com/script/Roblox-Innovation-Awards-2024-Voting-Hub-free-items-and-shows-votes-15319")

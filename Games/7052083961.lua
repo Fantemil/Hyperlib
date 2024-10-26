@@ -1,0 +1,2 @@
+
+    addscript(7052083961, "Current Game","FREE   SCRIPT", "Uploaded by d4rkfordevil on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FREE%20%20%20SCRIPT486.lua", "https://scriptblox.com/script/Velocity-Online-FREE-SCRIPT-17419")

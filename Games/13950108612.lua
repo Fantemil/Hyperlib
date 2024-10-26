@@ -4,3 +4,5 @@ addscript(13950108612, "Current Game","Keyless OP script", "Uploaded by Jollify1
                                     
     addscriptexist(13950108612, "Good", "Uploaded by urepicmom19 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Good861.lua", "https://scriptblox.com/script/UPDATE-Radiant-Residents-Good-9225")
                                     
+    addscriptexist(13950108612, "F HUB BEST SCRIPT", "Uploaded by F_hub99 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/F%20HUB%20BEST%20SCRIPT456.lua", "https://scriptblox.com/script/GAMEMODES-Radiant-Residents-F-HUB-BEST-SCRIPT-10725")
+                                    

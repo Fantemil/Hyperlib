@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-If-you-dislike-this-script-i-will-eat-myself-18026"))()

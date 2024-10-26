@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/kaksakan/All-n-One/main/Script/Free/Allinone/2024/Roblox"))()

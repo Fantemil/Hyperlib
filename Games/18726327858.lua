@@ -1,0 +1,2 @@
+
+    addscript(18726327858, "Current Game","Luck boost inf time", "Uploaded by kylosillyy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Luck%20boost%20inf%20time876.lua", "https://scriptblox.com/script/Rags-To-Riches-Inf-luck-boost-20669")

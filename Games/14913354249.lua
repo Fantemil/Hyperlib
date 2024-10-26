@@ -1,0 +1,2 @@
+
+    addscript(14913354249, "Current Game","INSTANT UGC Script  LIMITEDU", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INSTANT%20UGC%20Script%20%20LIMITEDU714.lua", "https://scriptblox.com/script/Versace-Update-LensCrafters-Eye-Odyssey-INSTANT-UGC-Script-LIMITEDU-10636")

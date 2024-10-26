@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/NightScripts/02d0e4bf54575608a6afdbea8e22c3e1/raw/eff74db7ef5de6e1cb68feec3cb9bb2fffeaa910/Nocturne_Ninja_Simulator.lua"))()

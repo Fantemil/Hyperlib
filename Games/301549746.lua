@@ -32,3 +32,67 @@ addscriptexist(301549746, "Ik3ac hvh", "Uploaded by ratsssstts on scriptblox.com
                                 
 addscriptexist(301549746, "Enableware", "Uploaded by kitten on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Enableware511.lua", "https://scriptblox.com/script/Counter-Blox-Enableware-7925")
                                 
+    addscriptexist(301549746, "Vamp hub OP AIMBOT KILL ALL", "Uploaded by vampire on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Vamp%20hub%20OP%20AIMBOT%20KILL%20ALL625.lua", "https://scriptblox.com/script/Counter-Blox-Vamp-hub-OP-AIMBOT-KILL-ALL-17469")
+                                    
+    addscriptexist(301549746, "Happy hub FREE Script", "Uploaded by z0lupo4ka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Happy%20hub%20FREE%20Script310.lua", "https://scriptblox.com/script/Counter-Blox-FREE-Script-13728")
+                                    
+    addscriptexist(301549746, "stormy esp and aimbot ect", "Uploaded by Morrisotbbg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/stormy%20esp%20and%20aimbot%20ect377.lua", "https://scriptblox.com/script/Counter-Blox-stormy-esp-and-aimbot-ect-12303")
+                                    
+    addscriptexist(301549746, "BlindnessHub", "Uploaded by WashingtonRichKid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BlindnessHub696.lua", "https://scriptblox.com/script/Counter-Blox-BlindnessHub-15493")
+                                    
+    addscriptexist(301549746, "Galaxy Hub", "Uploaded by Galaxy_Team on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Galaxy%20Hub978.lua", "https://scriptblox.com/script/Counter-Blox-Galaxy-hub-loadstring-version-13194")
+                                    
+    addscriptexist(301549746, "Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2557.lua", "https://scriptblox.com/script/Counter-Blox-Demonic-HUB-V2-10994")
+                                    
+    addscriptexist(301549746, "SOLARA SUPPORTED", "Uploaded by firebrandw on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SOLARA%20SUPPORTED971.lua", "https://scriptblox.com/script/Counter-Blox-SOLARA-SUPPORTED-18496")
+                                    
+    addscriptexist(301549746, "StratWare RECODE OUT NOW", "Uploaded by Stratxgy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/StratWare%20RECODE%20OUT%20NOW460.lua", "https://scriptblox.com/script/Counter-Blox-StratWare-14244")
+                                    
+    addscriptexist(301549746, "solarislol", "Uploaded by toasty_dev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/solarislol206.lua", "https://scriptblox.com/script/Counter-Blox-Solaris-14633")
+                                    
+    addscriptexist(301549746, "midnightcc", "Uploaded by Wuhazu on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/midnightcc206.lua", "https://scriptblox.com/script/Counter-Blox-midnightcc-14998")
+                                    
+    addscriptexist(301549746, "CB f0g0tt script", "Uploaded by F0G0TT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CB%20f0g0tt%20script922.lua", "https://scriptblox.com/script/Counter-Blox-CB-f0g0tt-script-15136")
+                                    
+    addscriptexist(301549746, "Mono Fixed", "Uploaded by randomdude101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Mono%20Fixed762.lua", "https://scriptblox.com/script/Counter-Blox-Mono-Fixed-11838")
+                                    
+    addscriptexist(301549746, "Kill all", "Uploaded by Savka on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20all353.lua", "https://scriptblox.com/script/Counter-Blox-Kill-all-16544")
+                                    
+    addscriptexist(301549746, "AnyxWare", "Uploaded by NubbihaxYTfr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/AnyxWare532.lua", "https://scriptblox.com/script/Counter-Blox-AnyxWare-17663")
+                                    
+    addscriptexist(301549746, "aquacc", "Uploaded by oreol_xyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aquacc13.lua", "https://scriptblox.com/script/Counter-Blox-aquacc-15052")
+                                    
+    addscriptexist(301549746, "Sanity Loader", "Uploaded by Syphic on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sanity%20Loader688.lua", "https://scriptblox.com/script/Counter-Blox-Sanity-Loader-15161")
+                                    
+    addscriptexist(301549746, " Funswapper Skin Changer", "Uploaded by Fvorzek on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/%20Funswapper%20Skin%20Changer335.lua", "https://scriptblox.com/script/Counter-Blox-Funswapper-Skin-Changer-17810")
+                                    
+    addscriptexist(301549746, "Cometware Crack", "Uploaded by randomdude101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Cometware%20Crack620.lua", "https://scriptblox.com/script/Counter-Blox-Cometware-Crack-13549")
+                                    
+    addscriptexist(301549746, "windows hub solara ", "Uploaded by uhxz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/windows%20hub%20solara%20693.lua", "https://scriptblox.com/script/Counter-Blox-solara-script-18716")
+                                    
+    addscriptexist(301549746, "ON RECODE", "Uploaded by oreol_xyz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ON%20RECODE503.lua", "https://scriptblox.com/script/Counter-Blox-BEST-SCRIPT-14597")
+                                    
+    addscriptexist(301549746, "Thunder Client Lite", "Uploaded by Bolts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Thunder%20Client%20Lite212.lua", "https://scriptblox.com/script/Counter-Blox-Thunder-Client-Lite-14294")
+                                    
+    addscriptexist(301549746, "Sirex Ware v3", "Uploaded by First_Dreamer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirex%20Ware%20v3401.lua", "https://scriptblox.com/script/Counter-Blox-Sirex-Ware-v3-14495")
+                                    
+    addscriptexist(301549746, "aqua client", "Uploaded by aquacc on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/aqua%20client373.lua", "https://scriptblox.com/script/Counter-Blox-aqua-client-17404")
+                                    
+    addscriptexist(301549746, "Sirex Ware v3 Fix", "Uploaded by randomdude101 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sirex%20Ware%20v3%20Fix443.lua", "https://scriptblox.com/script/Counter-Blox-Sirex-Ware-v3-Fix-11840")
+                                    
+    addscriptexist(301549746, "script changer wave synapse z rebel support", "Uploaded by vampire on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20changer%20wave%20synapse%20z%20rebel%20support697.lua", "https://scriptblox.com/script/Counter-Blox-script-changer-wave-synapse-z-rebel-support-19109")
+                                    
+    addscriptexist(301549746, "XRo Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/XRo%20Script397.lua", "https://scriptblox.com/script/Counter-Blox-XRo-Script-20023")
+                                    
+    addscriptexist(301549746, "Rellah   Client BETA", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rellah%20%20%20Client%20BETA742.lua", "https://scriptblox.com/script/Counter-Blox-Rellah-Client-BETA-20457")
+                                    
+    addscriptexist(301549746, "Raven Ware cbro script", "Uploaded by unixetp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20Ware%20cbro%20script980.lua", "https://scriptblox.com/script/Counter-Blox-Raven-Ware-cbro-script-20780")
+                                    
+    addscriptexist(301549746, "Raven Ware cbro script UPDATE", "Uploaded by unixetp on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Raven%20Ware%20cbro%20script%20UPDATE940.lua", "https://scriptblox.com/script/Counter-Blox-Raven-Ware-cbro-script-UPDATE-20829")
+                                    
+    addscriptexist(301549746, "RavenWare", "Uploaded by orelgames42 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/RavenWare379.lua", "https://scriptblox.com/script/Counter-Blox-RavenWare-20931")
+                                    
+    addscriptexist(301549746, "EqueHub", "Uploaded by IIIuHIIIuJIa on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/EqueHub792.lua", "https://scriptblox.com/script/Counter-Blox-EqueHub-21029")
+                                    
+    addscriptexist(301549746, "Free SolixHub 2024", "Uploaded by solixhub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20SolixHub%20202482.lua", "https://scriptblox.com/script/Counter-Blox-Free-SolixHub-2024-21038")
+                                    

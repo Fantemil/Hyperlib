@@ -1,0 +1,2 @@
+
+    addscript(13110267312, "Current Game","Simulator  ETHUS HUB", "Uploaded by hercules4328 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Simulator%20%20ETHUS%20HUB541.lua", "https://scriptblox.com/script/Animal-Sim:-Underwater-Simulator-ETHUS-HUB-19184")

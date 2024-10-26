@@ -1,0 +1,6 @@
+
+    addscript(15259246552, "Current Game","GAMEPASS only paid characters Have fun", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GAMEPASS%20only%20paid%20characters%20Have%20fun513.lua", "https://scriptblox.com/script/HAKARI-MOVES-+-HUGE-UPDATE-Sukuna-Battlegrounds-GAMEPASS-only-paid-characters-Have-fun-10783")
+    addscriptexist(15259246552, "Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub356.lua", "https://scriptblox.com/script/KJ-+-HUGE-UPDATE-Sukuna-Battlegrounds-Budgie-Hub-13444")
+                                    
+    addscriptexist(15259246552, "Get any character", "Uploaded by Jay_y on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20any%20character346.lua", "https://scriptblox.com/script/UPDATE-Sukuna-Battlegrounds-Get-any-character-14686")
+                                    

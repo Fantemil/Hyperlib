@@ -1,0 +1,2 @@
+
+    addscript(3978370137, "Current Game","GPO script Vamp hub", "Uploaded by Lany on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/GPO%20script%20Vamp%20hub675.lua", "https://scriptblox.com/script/PIKA-V2-Grand-Piece-Online-GPO-script-Vamp-hub-17623")

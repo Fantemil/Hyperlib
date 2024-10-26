@@ -4,3 +4,5 @@ addscript(9359839118, "Current Game","Gas Station Simulator Autofarm NEW", "Uplo
                                 
     addscriptexist(9359839118, "gui", "Uploaded by Unkn0wn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/gui430.lua", "https://scriptblox.com/script/Mechanic!-Gas-Station-Simulator-gui-4920")
                                 
+    addscriptexist(9359839118, "SCRIPTED LEAKS OP Autofarm", "Uploaded by Scripted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTED%20LEAKS%20OP%20Autofarm893.lua", "https://scriptblox.com/script/Zach's-Service-Station-SCRIPTED-LEAKS-OP-Autofarm-11531")
+                                    

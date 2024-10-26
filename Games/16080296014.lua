@@ -1,0 +1,4 @@
+
+    addscript(16080296014, "Current Game","Script Request", "Uploaded by yeurr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request375.lua", "https://scriptblox.com/script/UPD-3-Souls-Tycoon-Script-Request-20723")
+    addscriptexist(16080296014, "Inf dmg Inf healing etc", "Uploaded by h8h8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20dmg%20Inf%20healing%20etc463.lua", "https://scriptblox.com/script/UPD-3-Souls-Tycoon-Inf-dmg-Inf-healing-etc-20869")
+                                    

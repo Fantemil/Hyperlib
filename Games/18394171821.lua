@@ -1,0 +1,2 @@
+
+    addscript(18394171821, "Current Game","OxyHubV3", "Uploaded by xdo7478 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OxyHubV3601.lua", "https://scriptblox.com/script/FIVE-SEASONS-KJ-Moveset-Remastered-Battlegrounds-OxyHubV3-17622")

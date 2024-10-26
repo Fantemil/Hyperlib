@@ -20,3 +20,11 @@ addscriptexist(3851622790, "Proxima Hub", "Uploaded by reptarz on scriptblox.com
                                 
     addscriptexist(3851622790, "JUANKO  HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/JUANKO%20%20HUB9.lua", "https://scriptblox.com/script/Break-In-(Story)-JUANKO-HUB-9610")
                                     
+    addscriptexist(3851622790, "OP   script", "Uploaded by luidyotavio8 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20%20%20script989.lua", "https://scriptblox.com/script/Break-In-(Story)-OP-script-10491")
+                                    
+    addscriptexist(3851622790, "Emeraledware", "Uploaded by YingAndYang on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Emeraledware990.lua", "https://scriptblox.com/script/Break-In-(Story)-Emeraledware-14445")
+                                    
+    addscriptexist(3851622790, "Russian script", "Uploaded by oderi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Russian%20script997.lua", "https://scriptblox.com/script/Break-In-(Story)-Russian-script-12721")
+                                    
+    addscriptexist(3851622790, "Zephyr Breeak", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20Breeak858.lua", "https://scriptblox.com/script/Break-In-(Story)-Zephyr-Breeak-12383")
+                                    

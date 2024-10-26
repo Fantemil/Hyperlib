@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/BaconScriptHub/BaconHub/main/New-BaconHub.lua.txt'))()

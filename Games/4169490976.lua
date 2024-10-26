@@ -10,3 +10,5 @@ addscriptexist(4169490976, "KANABO SPAM", "Uploaded by TheScriptFinder on script
                                 
 addscriptexist(4169490976, "Freeze Stuff", "Uploaded by aoiloi on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Freeze%20Stuff295.lua", "https://scriptblox.com/script/Mortem-Metallum-Alpha-Freeze-Stuff-7038")
                                 
+    addscriptexist(4169490976, "Team XYZ nuker", "Uploaded by shenzeuliyle on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Team%20XYZ%20nuker947.lua", "https://scriptblox.com/script/Mortem-Metallum-Alpha-Team-XYZ-nuker-14588")
+                                    

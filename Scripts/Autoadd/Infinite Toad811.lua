@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KINGHUB01/Zen-Hub/main/Doodle%20Obby"))()

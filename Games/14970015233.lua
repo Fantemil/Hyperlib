@@ -1,0 +1,2 @@
+
+    addscript(14970015233, "Current Game","Reroll Fruit", "Uploaded by yofriendfromschool1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Reroll%20Fruit762.lua", "https://scriptblox.com/script/Watermelon-GO!-UPD-Reroll-Fruit-11632")

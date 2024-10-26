@@ -1,0 +1,2 @@
+
+    addscript(9358717212, "Current Game","Inf Money", "Uploaded by YNWMELLY on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20Money419.lua", "https://scriptblox.com/script/Raise-a-Pochita-Inf-Money-11142")

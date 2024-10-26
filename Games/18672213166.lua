@@ -1,0 +1,2 @@
+
+    addscript(18672213166, "Current Game","Funny op script", "Uploaded by Blanker on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Funny%20op%20script752.lua", "https://scriptblox.com/script/Star-Wars-Tycoon-Funny-op-script-19373")

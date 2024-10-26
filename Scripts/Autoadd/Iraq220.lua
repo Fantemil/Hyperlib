@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Haider6400/YTA7VC/refs/heads/main/obf_4UH3S4dS384R1p1r9Gqb8VK8kiZ3XY4LQ6K323nnDEPM93ZNBxlDb5rX05SL64X3.lua.txt?token=GHSAT0AAAAAACWBCEEHZWAGDBN67PX2JK6CZXOIV7Q"))()

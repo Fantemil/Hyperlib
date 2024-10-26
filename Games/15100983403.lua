@@ -1,0 +1,2 @@
+
+    addscript(15100983403, "Current Game","Inf s Inf Spins Inf Cash", "Uploaded by EVilDragon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20s%20Inf%20Spins%20Inf%20Cash427.lua", "https://scriptblox.com/script/Gem-Simulator(Free-dollarR)-Inf-s-Inf-Spins-Inf-Cash-16784")

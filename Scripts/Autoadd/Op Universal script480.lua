@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-ScriptHub-V3-Best-Mobile-ScriptHub-Keyless-16115"))()

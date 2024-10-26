@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/Tropxzz/GEARZ-/blob/main/Games/asjdksajdlasjdlakdjalkdjasldjaldjlasjdlasjdlas.lua?raw=true",true))()

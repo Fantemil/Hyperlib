@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Bovanlaarhoven/Primordial/main/src/loader.lua"))()

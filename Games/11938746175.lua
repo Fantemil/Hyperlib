@@ -1,0 +1,2 @@
+
+    addscript(11938746175, "Current Game","bypass sign filter V1 updated July 9th 2024 424PM", "Uploaded by Dinosaurbro on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/bypass%20sign%20filter%20V1%20updated%20July%209th%202024%20424PM877.lua", "https://scriptblox.com/script/Elected-Admin-bypass-sign-filter-15458")

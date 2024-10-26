@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BingusWR/FreakyAnimationScript/refs/heads/main/FreakyRobloxAnimation"))()

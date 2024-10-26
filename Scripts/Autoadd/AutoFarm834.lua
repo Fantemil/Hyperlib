@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/AppleScript001/Parkour_Jumping_Race_Nice/main/README.md"),true))()

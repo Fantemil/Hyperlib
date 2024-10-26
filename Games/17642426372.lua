@@ -1,0 +1,4 @@
+
+    addscript(17642426372, "Current Game","Lyzer Hub Key Crack OP", "Uploaded by qrtoyt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lyzer%20Hub%20Key%20Crack%20OP669.lua", "https://scriptblox.com/script/HAKIS-Anime-Saga-Simulator-Lyzer-Hub-Key-Crack-OP-18853")
+    addscriptexist(17642426372, "The Best Script", "Uploaded by LyzerHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/The%20Best%20Script425.lua", "https://scriptblox.com/script/Anime-Saga-Simulator-The-Best-Script-18840")
+                                    

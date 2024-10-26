@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/euyogi/Prototipo-YogiNotificadorFruta/raw/main/YogiNotificadorFruta.lua"))()

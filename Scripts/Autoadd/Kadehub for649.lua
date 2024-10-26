@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/The-Strongest-Battlegrounds-KadeHub-17629"))()

@@ -1,0 +1,4 @@
+
+    addscript(9823213213, "Current Game","Demonic HUB V2", "Uploaded by Breakersz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Demonic%20HUB%20V2151.lua", "https://scriptblox.com/script/MOBILE-+-ULQUIORRA-Anime-Ultimate-Battlegrounds-Demonic-HUB-V2-10757")
+    addscriptexist(9823213213, "REQUEST", "Uploaded by roupter on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/REQUEST739.lua", "https://scriptblox.com/script/HAKARI-Anime-Ultimate-Battlegrounds-REQUEST-FOR-19214")
+                                    

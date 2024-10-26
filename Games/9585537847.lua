@@ -18,3 +18,7 @@ addscript(9585537847, "Current Game","Auto Raid Update", "Uploaded by Novaz on s
                                 
     addscriptexist(9585537847, "Kill Aura Item Aura Auto Cubits Novice Hub", "Uploaded by Amph on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kill%20Aura%20Item%20Aura%20Auto%20Cubits%20Novice%20Hub64.lua", "https://scriptblox.com/script/SHADOVIS-RPG-GUI-5614")
                                 
+    addscriptexist(9585537847, "auto collect cubits", "Uploaded by barcon on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20collect%20cubits577.lua", "https://scriptblox.com/script/NEW-SHADOVIS-RPG-auto-collect-cubits-18459")
+                                    
+    addscriptexist(9585537847, "script request", "Uploaded by mbored on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/script%20request304.lua", "https://scriptblox.com/script/SHADOVIS-RPG-script-request-19841")
+                                    

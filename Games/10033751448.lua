@@ -1,0 +1,2 @@
+
+    addscript(10033751448, "Current Game","linhmc hub", "Uploaded by linhmcfake2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/linhmc%20hub867.lua", "https://scriptblox.com/script/NUKE!-Build-and-Battle!-linhmc-hub-18647")

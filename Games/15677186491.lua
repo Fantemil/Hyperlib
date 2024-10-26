@@ -1,0 +1,2 @@
+
+    addscript(15677186491, "Current Game","inf levels autofarm", "Uploaded by Bluto on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/inf%20levels%20autofarm380.lua", "https://scriptblox.com/script/Ro-Soulfree-access-inf-levels-autofarm-14183")

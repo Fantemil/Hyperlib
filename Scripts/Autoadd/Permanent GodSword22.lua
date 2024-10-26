@@ -1,0 +1,1 @@
+game:GetService("ReplicatedStorage").Events.purchaseWeapon:InvokeServer("God Sword",0)

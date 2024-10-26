@@ -1,0 +1,1 @@
+loadstring(game:HttpGet"https://raw.githubusercontent.com/The-kingzinhu/Fly-dark/main/voar")()

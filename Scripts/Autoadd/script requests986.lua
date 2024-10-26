@@ -1,0 +1,1 @@
+script requests are auto play

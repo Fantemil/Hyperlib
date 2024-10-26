@@ -1,0 +1,2 @@
+
+    addscript(633217631, "Current Game","If Poits", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/If%20Poits783.lua", "https://scriptblox.com/script/Blox-n-Jump-Trampoline-Park-If-Poits-15265")

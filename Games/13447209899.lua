@@ -1,0 +1,2 @@
+
+    addscript(13447209899, "Current Game","Free Gamepass Gift Gamepass Unlock All Emotes MORE", "Uploaded by zerticzy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Gamepass%20Gift%20Gamepass%20Unlock%20All%20Emotes%20MORE61.lua", "https://scriptblox.com/script/CELL-+-OG-MAP-Z-Battlegrounds-Free-Gamepass-Gift-Gamepass-Unlock-All-Emotes-MORE-12742")

@@ -1,0 +1,2 @@
+
+    addscript(17421018008, "Current Game","uto teleport to checkpoint", "Uploaded by Goodguy29 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/uto%20teleport%20to%20checkpoint113.lua", "https://scriptblox.com/script/Obby-but-you're-a-Spider-uto-teleport-to-checkpoint-20971")

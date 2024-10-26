@@ -1,2 +1,4 @@
 
     addscript(13621938427, "Current Game","Untitled  game", "Uploaded by panupong4402s on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Untitled%20%20game540.lua", "https://scriptblox.com/script/IRON-FIST-untitled-boxing-game-Untitled-game-9153")
+    addscriptexist(13621938427, "Zeke Hub Auto Dodge and Full Counter", "Uploaded by Chickenman on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zeke%20Hub%20Auto%20Dodge%20and%20Full%20Counter250.lua", "https://scriptblox.com/script/HAWK-REWORK-untitled-boxing-game-Zeke-Hub-Auto-Dodge-and-Full-Counter-11731")
+                                    

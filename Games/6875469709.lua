@@ -6,3 +6,5 @@ addscriptexist(6875469709, "Collect Orbs n Upgrade Pet  and more", "Uploaded by 
                                 
     addscriptexist(6875469709, "Op script for   sim DO not try in main acc", "Uploaded by GG_HACKER on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20script%20for%20%20%20sim%20DO%20not%20try%20in%20main%20acc269.lua", "https://scriptblox.com/script/STRONGEST-PUNCH-SIMULATOR-Op-script-for-sim-DO-not-try-in-main-acc-9461")
                                     
+    addscriptexist(6875469709, "Auto farm", "Uploaded by Content_boy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20farm679.lua", "https://scriptblox.com/script/STRONGEST-PUNCH-SIMULATOR-Auto-farm-17031")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(17525285794, "Current Game","CODE QUEST", "Uploaded by wepogpwepogpem on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/CODE%20QUEST957.lua", "https://scriptblox.com/script/Kj-20-20-20-Dropkick-Silly-Jujutsu-Randomizer-CODE-QUEST-16500")

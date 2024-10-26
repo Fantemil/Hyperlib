@@ -1,0 +1,2 @@
+
+    addscript(119565175196447, "Current Game","Instant ugc", "Uploaded by Aaaaaaaaaqqqf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Instant%20ugc434.lua", "https://scriptblox.com/script/FREE-UGC-Pet-Pat-The-Pup-Instant-ugc-19971")

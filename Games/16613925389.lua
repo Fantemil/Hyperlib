@@ -1,0 +1,2 @@
+
+    addscript(16613925389, "Current Game","OxyHubV2", "Uploaded by xdo7478 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OxyHubV2968.lua", "https://scriptblox.com/script/Classic-Battlegrounds-OxyHubV2-17572")

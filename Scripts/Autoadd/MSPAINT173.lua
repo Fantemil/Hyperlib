@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://githubusercontent.com/notpoiu/mspaint/main/main.lua"))()

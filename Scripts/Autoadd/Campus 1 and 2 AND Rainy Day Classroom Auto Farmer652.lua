@@ -1,0 +1,2 @@
+script_key = "Insert Key Here" -- insert your key between the quotation marks [DONT DELETE THE QUOTATION MARKS]
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/d8bf54daa5b358826ce74cab275f9135.lua"))()

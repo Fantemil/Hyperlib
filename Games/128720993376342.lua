@@ -1,0 +1,2 @@
+
+    addscript(128720993376342, "Current Game","Project Ligma Backdoored", "Uploaded by souhi14alt on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Project%20Ligma%20Backdoored91.lua", "https://scriptblox.com/script/mermaid-RP-F3X-Project-Ligma-Backdoored-20529")

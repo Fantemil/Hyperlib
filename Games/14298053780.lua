@@ -1,0 +1,2 @@
+
+    addscript(14298053780, "Current Game","PATCHED OPEN Instant UGC script v11", "Uploaded by sakupenguy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/PATCHED%20OPEN%20Instant%20UGC%20script%20v1181.lua", "https://scriptblox.com/script/US-Open:-Champions-of-the-Court-Tennis-Open-script-instant-8-or-9-ugcs-17916")

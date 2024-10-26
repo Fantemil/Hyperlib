@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/BaconBABA/code/refs/heads/main/kram_life.lua"))()

@@ -1,0 +1,2 @@
+
+    addscript(17501710879, "Current Game","NS HUB", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/NS%20HUB672.lua", "https://scriptblox.com/script/Roller-Skate-Racing-Best-Auto-Farm-Script-13753")

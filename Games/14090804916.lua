@@ -1,0 +1,2 @@
+
+    addscript(14090804916, "Current Game","Insta Win Fight Unlock Full Index Fast Auto Orb", "Uploaded by Pryxo on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Insta%20Win%20Fight%20Unlock%20Full%20Index%20Fast%20Auto%20Orb629.lua", "https://scriptblox.com/script/Sprinting-Simulator-Insta-Win-Fight-Unlock-Full-Index-Fast-Auto-Orb-11963")

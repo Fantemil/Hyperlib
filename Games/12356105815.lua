@@ -1,0 +1,4 @@
+
+    addscript(12356105815, "Current Game","Easy Shop Rob", "Uploaded by ethandazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Easy%20Shop%20Rob536.lua", "https://scriptblox.com/script/Emergency-England-Easy-Shop-Rob-13622")
+    addscriptexist(12356105815, "Gui V1 AutoRob AntiTaser", "Uploaded by ethandazy on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Gui%20V1%20AutoRob%20AntiTaser292.lua", "https://scriptblox.com/script/Emergency-England-Gui-V1-AutoRob-AntiTaser-13719")
+                                    

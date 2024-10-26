@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/CloudHub111/Scripts/main/AimbotGui"))() 

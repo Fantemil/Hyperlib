@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Anti-lag-in-tsb-script-CREDITS-TO-VIKICHARD-HES-A-W-15272"))()

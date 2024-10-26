@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/dqtixz/Slap-Battles-Hallowen-Event-Script-2024/refs/heads/main/Projeto%20LKB%20Open%20Source"))();

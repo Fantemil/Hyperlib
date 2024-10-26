@@ -1,0 +1,2 @@
+
+    addscript(12278405655, "Current Game","Inf money", "Uploaded by Gnnn on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Inf%20money188.lua", "https://scriptblox.com/script/Robot-Battle-Inf-money-18678")

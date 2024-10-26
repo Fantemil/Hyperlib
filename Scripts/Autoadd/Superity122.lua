@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/jaysterrz/superity.lol/main/Loader.lua"))()

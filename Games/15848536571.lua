@@ -1,0 +1,2 @@
+
+    addscript(15848536571, "Current Game","Fly gui", "Uploaded by samuelmateobrujan on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fly%20gui579.lua", "https://scriptblox.com/script/Could-you-donate-to-me-summer-Fly-gui-17076")

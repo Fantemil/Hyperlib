@@ -1,0 +1,2 @@
+
+    addscript(16224795376, "Current Game","Script Get Item LimitedU", "Uploaded by Christopher_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Get%20Item%20LimitedU477.lua", "https://scriptblox.com/script/GLORIOUS-or-SPIN-FOR-FREE-UGC-Script-10598")

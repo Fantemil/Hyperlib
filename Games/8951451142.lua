@@ -1,0 +1,2 @@
+
+    addscript(8951451142, "Current Game","SKY PVP HUB", "Uploaded by JUANKO_MODS_YT on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SKY%20PVP%20HUB493.lua", "https://scriptblox.com/script/SkyWars-SKY-PVP-HUB-12740")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Ryoohwa/TDScript/refs/heads/main/td-script"))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzzMoony/Test/main/negative%20yield%20by%20m0onyy",true))()

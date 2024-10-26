@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/railme37509124/SnowWare/main/bssV2.lua'))()

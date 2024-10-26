@@ -1,0 +1,2 @@
+
+    addscript(120048675279855, "Current Game","Admin Character Infinity", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Character%20Infinity534.lua", "https://scriptblox.com/script/KJCT-Admin-Character-Infinity-20467")

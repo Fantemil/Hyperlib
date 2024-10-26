@@ -1,0 +1,2 @@
+
+    addscript(6825616982, "Current Game","Auto Get okie", "Uploaded by Rio7Rob on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Get%20okie440.lua", "https://scriptblox.com/script/PlayCookiePlay-Obby-For-Cookie-Swirl-C-FANS-Auto-olle-ooki-12544")

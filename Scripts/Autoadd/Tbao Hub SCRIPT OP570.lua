@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Hercules4328/RilvalsGame/refs/heads/main/TbaoHub999"))()

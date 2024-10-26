@@ -1,0 +1,2 @@
+
+    addscript(15122609704, "Current Game","Auto chest", "Uploaded by IsFullHub on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20chest210.lua", "https://scriptblox.com/script/THE-VOICES:TOAB-Enigmatic-Trollverse-BETA-Cups-Giver-12907")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/MITUMAxDev/Azurium/main/loader.lua"))()

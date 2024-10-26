@@ -1,0 +1,1 @@
+print("i cant stop gambling!")

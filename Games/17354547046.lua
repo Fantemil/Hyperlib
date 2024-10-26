@@ -1,0 +1,2 @@
+
+    addscript(17354547046, "Current Game","Infinite Health Damage No CD Everyone", "Uploaded by HuskyOrbit53 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Health%20Damage%20No%20CD%20Everyone792.lua", "https://scriptblox.com/script/JJK-battlegrounds-WEAK-SORCERER-Infinite-Health-Damage-No-CD-Everyone-20218")

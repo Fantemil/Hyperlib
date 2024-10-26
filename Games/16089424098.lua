@@ -1,0 +1,2 @@
+
+    addscript(16089424098, "Current Game","Free", "Uploaded by Bac0nH1ckOff on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free601.lua", "https://scriptblox.com/script/Pop-Bubbles-for-UGC-Free-10485")

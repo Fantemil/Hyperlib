@@ -1,0 +1,4 @@
+
+    addscript(12452509832, "Current Game","all executors supported", "Uploaded by pianino2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/all%20executors%20supported791.lua", "https://scriptblox.com/script/Getting-Over-itRemastered-all-executors-supported-18051")
+    addscriptexist(12452509832, "0ver  it  Remastered", "Uploaded by wafzthkin on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/0ver%20%20it%20%20Remastered646.lua", "https://scriptblox.com/script/Getting-Over-itRemastered-it-Remastered-18057")
+                                    

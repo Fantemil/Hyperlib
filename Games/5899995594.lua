@@ -1,0 +1,2 @@
+
+    addscript(5899995594, "Current Game","Auto Complete", "Uploaded by Fizss on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Complete827.lua", "https://scriptblox.com/script/FREE-SKIPS-Clock's-Difficulty-Chart-Obby-HARD-Auto-Complete-14137")

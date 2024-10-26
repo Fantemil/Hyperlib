@@ -1,0 +1,2 @@
+
+    addscript(16166423027, "Current Game","auto farm xp while playing", "Uploaded by tiam on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/auto%20farm%20xp%20while%20playing585.lua", "https://scriptblox.com/script/LEVELS-Untitled-Parkour-Game-or-Alpha-auto-farm-xp-while-playing-17125")

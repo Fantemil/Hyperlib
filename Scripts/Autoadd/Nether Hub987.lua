@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MamacoAzulOWU/MamacoAzulOWU/main/MamacoAzulOWU-Nether-Hub"))()

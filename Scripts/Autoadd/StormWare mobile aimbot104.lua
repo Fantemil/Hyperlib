@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Sstormxx/StormWare-Mobile-Aimbot/main/Aimbot",true))()

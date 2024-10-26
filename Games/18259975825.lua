@@ -1,0 +1,2 @@
+
+    addscript(18259975825, "Current Game","Hitbox Extender for funny war game", "Uploaded by wg609420 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Hitbox%20Extender%20for%20funny%20war%20game159.lua", "https://scriptblox.com/script/GraveDigger-BETA-Hitbox-Extender-for-funny-war-game-19789")

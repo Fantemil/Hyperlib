@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ArgetnarYT/scripts/main/TengoFps2.lua"))()

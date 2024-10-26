@@ -1,0 +1,2 @@
+
+    addscript(8482713490, "Current Game","Script Request", "Uploaded by lilzapsy1994 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request7.lua", "https://scriptblox.com/script/Forgotten-Memories-Script-Request-19194")

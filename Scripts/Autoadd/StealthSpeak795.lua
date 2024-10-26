@@ -1,0 +1,1 @@
+-- Get the script at: https://discord.gg/gYhqMRBeZV OR dm ballsman3761 or libary.hello to buy.

@@ -1,0 +1,2 @@
+
+    addscript(12510873298, "Current Game","Patched", "Uploaded by IamMewingFrFr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Patched17.lua", "https://scriptblox.com/script/Project:-Newtime-2-Become-rich-lol-11286")

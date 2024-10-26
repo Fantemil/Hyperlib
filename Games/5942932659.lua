@@ -1,0 +1,2 @@
+
+    addscript(5942932659, "Current Game","God Mode and Auto Stuff", "Uploaded by areyoumental110 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/God%20Mode%20and%20Auto%20Stuff876.lua", "https://scriptblox.com/script/Wormface!-God-Mode-and-Auto-Stuff-18763")

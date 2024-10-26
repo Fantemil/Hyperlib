@@ -1,0 +1,1 @@
+i was wondering if someone can make a script for this, fast roll no cd or something of the sort, please and thank you

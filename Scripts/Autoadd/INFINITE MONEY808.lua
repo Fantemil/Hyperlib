@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Aaron999S/Scripts/main/ProjectNorthV3INFMONEY", true))()

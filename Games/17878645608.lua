@@ -1,0 +1,2 @@
+
+    addscript(17878645608, "Current Game","Fruit Script", "Uploaded by murimuri768 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Fruit%20Script705.lua", "https://scriptblox.com/script/Blox-Fruits-Fruit-Script-14203")

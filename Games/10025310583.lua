@@ -1,0 +1,2 @@
+
+    addscript(10025310583, "Current Game","Auto Win", "Uploaded by IMakeBestScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Auto%20Win123.lua", "https://scriptblox.com/script/Bomb-Tag-Survival-Auto-Win-15212")

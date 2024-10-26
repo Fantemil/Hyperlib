@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/bleh2rich/WattyhubPrestiged/main/WattyhubPrestiged.lua'),true))()

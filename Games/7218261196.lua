@@ -1,0 +1,2 @@
+
+    addscript(7218261196, "Current Game","Zephyr    PreRelease", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20%20%20%20PreRelease411.lua", "https://scriptblox.com/script/R6-Euphoria-Ragdoll-DEPRECATED-Zephyr-PreRelease-11882")

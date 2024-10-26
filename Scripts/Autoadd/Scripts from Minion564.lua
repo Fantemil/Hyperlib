@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MinionRoblox/Carry-A-Friend/main/ScriptsFromMinion"))()

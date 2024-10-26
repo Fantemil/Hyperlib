@@ -1,0 +1,2 @@
+
+    addscript(1025000417, "Current Game","Nocturne NS", "Uploaded by NightScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Nocturne%20NS50.lua", "https://scriptblox.com/script/Ninja-Simulator-Nocturne-NS-20070")

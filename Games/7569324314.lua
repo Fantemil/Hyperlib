@@ -1,0 +1,2 @@
+
+    addscript(7569324314, "Current Game","Lag Game FE", "Uploaded by MaybeJohnnyLol on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Lag%20Game%20FE422.lua", "https://scriptblox.com/script/Naruto-RP-Lag-Game-FE-19553")

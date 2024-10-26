@@ -10,3 +10,7 @@ addscriptexist(4490140733, "NEW My Restaurant  Fast Autofarm", "Uploaded by Perf
                                 
 addscriptexist(4490140733, "OP auto farm", "Uploaded by lykin648 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/OP%20auto%20farm992.lua", "https://scriptblox.com/script/My-Restaurant!-OP-auto-farm-8813")
                                 
+    addscriptexist(4490140733, "SCRIPTED LEAKS  OP Autofarm", "Uploaded by Scripted on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SCRIPTED%20LEAKS%20%20OP%20Autofarm563.lua", "https://scriptblox.com/script/My-Restaurant!-SCRIPTED-LEAKS-OP-Autofarm-11087")
+                                    
+    addscriptexist(4490140733, "Rafa  restaurant", "Uploaded by yy1256581 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rafa%20%20restaurant947.lua", "https://scriptblox.com/script/My-Restaurant!-Rafa-restaurant-11554")
+                                    

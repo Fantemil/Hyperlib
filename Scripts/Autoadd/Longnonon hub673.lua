@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(('https://raw.githubusercontent.com/Longnononn/Longnononn/main/longnonon.txt'),true))()

@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Darklovescheese/Random-shit/refs/heads/main/Keysystem.lua"))()

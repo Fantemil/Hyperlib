@@ -8,3 +8,11 @@ addscriptexist(654732683, "infinite max speed", "Uploaded by evi1z on scriptblox
                                 
     addscriptexist(654732683, "BEST AUTOFARM AND MORE", "Uploaded by AaronS on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/BEST%20AUTOFARM%20AND%20MORE363.lua", "https://scriptblox.com/script/New-Car-Car-Crushers-2-BEST-AUTOFARM-AND-MORE-7496")
                                     
+    addscriptexist(654732683, "Kitty Hub  speed Autofarm", "Uploaded by benomat on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kitty%20Hub%20%20speed%20Autofarm76.lua", "https://scriptblox.com/script/New-Car!-Car-Crushers-2-Physics-Simulation-Kitty-Hub-15244")
+                                    
+    addscriptexist(654732683, "Request Platinum", "Uploaded by Jamesparkingd on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Request%20Platinum168.lua", "https://scriptblox.com/script/NEW-Graphics!-Car-Crushers-2-Physics-Sim-Request-Platinum-19847")
+                                    
+    addscriptexist(654732683, "INFINITE MONEY UNLOCK ALL S SCRIPT", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20MONEY%20UNLOCK%20ALL%20S%20SCRIPT951.lua", "https://scriptblox.com/script/NEW-Graphics!-Car-Crushers-2-Physics-Sim-INFINITE-MONEY-UNLOCK-ALL-S-SCRIPT-19997")
+                                    
+    addscriptexist(654732683, "INFINITE MONEY UNLOCK ALL SCRIPT", "Uploaded by Instagram on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/INFINITE%20MONEY%20UNLOCK%20ALL%20SCRIPT177.lua", "https://scriptblox.com/script/NEW-Graphics!-Car-Crushers-2-Physics-Sim-INFINITE-MONEY-UNLOCK-ALL-SCRIPT-19998")
+                                    

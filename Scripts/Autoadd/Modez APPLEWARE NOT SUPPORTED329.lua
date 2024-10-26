@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/no12356/doors-modes-room-and-floor/main/doors%20modes%20and%20floors'))()

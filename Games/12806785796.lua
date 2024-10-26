@@ -1,0 +1,2 @@
+
+    addscript(12806785796, "Current Game","Op hitbo", "Uploaded by Pancho on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Op%20hitbo397.lua", "https://scriptblox.com/script/Murderers-VS-Sheriffs-X-Op-hitbo-15637")

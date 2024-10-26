@@ -1,0 +1,2 @@
+
+    addscript(5709572883, "Current Game","Budgie Hub", "Uploaded by ADSKer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Budgie%20Hub388.lua", "https://scriptblox.com/script/Lift-Legends-Simulator-Hub-11816")

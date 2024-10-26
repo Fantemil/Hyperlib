@@ -1,2 +1,4 @@
 
 addscript(5926001758, "Current Game","Color Block Inf Jump Instant Freeze SpeedHack", "Uploaded by weiny on rscripts.net", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Color%20Block%20Inf%20Jump%20Instant%20Freeze%20SpeedHack464.lua", "https://rscripts.net/script/color-block-inf-jump-instant-freeze-speedhack-3440")
+    addscriptexist(5926001758, "Zephyr  Bl0ck Fixed", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20%20Bl0ck%20Fixed811.lua", "https://scriptblox.com/script/Color-Block-Zephyr-Bl0ck-17669")
+                                    

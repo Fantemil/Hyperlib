@@ -1,0 +1,2 @@
+
+    addscript(15744137588, "Current Game","Best Auto Farm Script", "Uploaded by OhMyGehlee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Best%20Auto%20Farm%20Script359.lua", "https://scriptblox.com/script/Breath-+1-Blade-Slayer-UPD-Best-Auto-Farm-Script-13743")

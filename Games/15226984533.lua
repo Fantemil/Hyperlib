@@ -1,0 +1,2 @@
+
+    addscript(15226984533, "Current Game","Free Ugc Script", "Uploaded by solidfahad on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Free%20Ugc%20Script850.lua", "https://scriptblox.com/script/Sol-de-Janeiro-Universe-Free-Ugc-Script-10476")

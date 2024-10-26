@@ -1,0 +1,1 @@
+local ohTable1 = { ["Value"] = 99999999999999 } game:GetService("ReplicatedStorage").Remotes.GiveMana:FireServer(ohTable1)

