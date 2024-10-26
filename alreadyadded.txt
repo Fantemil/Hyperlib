@@ -19823,3 +19823,5 @@ https://scriptblox.com/script/Public-Beta-Vision-Request-a-script-21075
 https://scriptblox.com/script/Universal-Script-Monke-UI-Library-21077
 https://scriptblox.com/script/UPD-whizzbang-Request-for-this-21079
 https://scriptblox.com/script/Universal-Script-Raig-table-clientsided-and-r6-anims-only-21080
+https://scriptblox.com/script/Doomspire-BrickBattle-(No-CoolDown)-(Uncopylocked)-n00ngui-v2-21082
+https://scriptblox.com/script/Natural-Disaster-Survival-Chat-bypass-21083
