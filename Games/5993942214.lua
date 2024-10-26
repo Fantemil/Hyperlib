@@ -8,3 +8,5 @@ addscriptexist(5993942214, "Double Scripts", "Uploaded by flownexploitss on scri
                                 
 addscriptexist(5993942214, "ESPSILENT AIM BY noobscripter38493", "Uploaded by Mazed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ESPSILENT%20AIM%20BY%20noobscripter38493674.lua", "https://scriptblox.com/script/BUNDLES!-Rush-Point-ESP-SILENT-AIM-7373")
                                 
+    addscriptexist(5993942214, "Script Request", "Uploaded by gkarlojose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20Request643.lua", "https://scriptblox.com/script/NEW-CASE-RUSH-POINT-Script-Request-21101")
+                                    

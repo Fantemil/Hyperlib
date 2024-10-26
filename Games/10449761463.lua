@@ -540,3 +540,9 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Kj for TSB", "Uploaded by TSB_enjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kj%20for%20TSB982.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Kj-for-TSB-21086")
                                     
+    addscriptexist(10449761463, "Phantasm Hub Keyless", "Uploaded by OmarsRobloxScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Phantasm%20Hub%20Keyless196.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Phantasm-Hub-Keyless-21100")
+                                    
+    addscriptexist(10449761463, "KJ Animations Hub FE Keyless", "Uploaded by OmarsRobloxScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20Animations%20Hub%20FE%20Keyless798.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-Animations-Hub-FE-Keyless-21099")
+                                    
+    addscriptexist(10449761463, "KJ FE Keyless", "Uploaded by OmarsRobloxScripts on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/KJ%20FE%20Keyless121.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-KJ-FE-Keyless-21097")
+                                    
