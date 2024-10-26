@@ -97,7 +97,15 @@ function ManagerRefreshGuis()
         end
     end
 end
+function isMobile()
+    local UserInputService = game:GetService("UserInputService")
 
+    if UserInputService.TouchEnabled and not UserInputService.KeyboardEnabled then
+        return true
+    else
+        return false
+    end
+end
 
 if getgenv().hyperlibreload == nil then
     getgenv().hyperlibreload = false
@@ -118,7 +126,6 @@ end
 
 getgenv().gamecount = 0
 getgenv().scriptcount = 0
-lastupdate = "GMT +2: 04.08.2023 12:05:01"
 
 getgenv().hubscripts = {
     allscripts = {}
@@ -126,7 +133,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.5.1"
+version = "Hyperlib V.3.6 (Legacy)"
 getgenv().statusdict = {}
 
 
@@ -150,46 +157,6 @@ function bigRedText(text)
         text .. "</font> ")
     end)
 end
-
-local function formatTimeForUser(lastupdate)
-    local function parseDateTime(dateTimeStr)
-        local gmtOffset, dateStr, timeStr = string.match(dateTimeStr, "GMT ([+-]%d+): (%d+%.%d+%.%d+) (%d+:%d+:%d+)")
-        local day, month, year = string.match(dateStr, "(%d+)%.(%d+)%.(%d+)")
-        local hour, minute, second = string.match(timeStr, "(%d+):(%d+):(%d+)")
-        return os.time({
-            year = tonumber(year),
-            month = tonumber(month),
-            day = tonumber(day),
-            hour = tonumber(hour),
-            min = tonumber(minute),
-            sec = tonumber(second)
-        }) - tonumber(gmtOffset) * 3600 
-    end
-
-    local function getTimezoneOffset()
-        
-        local utcTime = os.time(os.date("!*t"))
-
-        
-        local localTime = os.time()
-
-        
-        local offsetInSeconds = os.difftime(localTime, utcTime)
-
-        
-        local offsetInHours = offsetInSeconds / 3600
-
-        return offsetInHours
-    end
-
-    local userTimezoneOffset = getTimezoneOffset()
-    local parsedTime = parseDateTime(lastupdate)
-    local userTimeInSeconds = parsedTime + userTimezoneOffset * 3600
-
-    
-    local formattedTime = os.date("%A, %B %d %H:%M:%S %Y", userTimeInSeconds)
-    return formattedTime
-end
 function bigGreenItalicText(text)
     pcall(function()
         game:GetService("StarterGui"):SetCore("ChatMakeSystemMessage", {
@@ -212,8 +179,6 @@ function bigGreenItalicText(text)
         text .. "</font> ")
     end)
 end
-
-
 function clearChat()
     local clearMessage = ""
     for i = 1, 20 do
@@ -257,6 +222,49 @@ function bigBlueItalicText(text)
         text .. "</font> ")
     end)
 end
+local function formatTimeForUser(lastupdate)
+    local function parseDateTime(dateTimeStr)
+        local gmtOffset, dateStr, timeStr = string.match(dateTimeStr, "GMT ([+-]%d+): (%d+%.%d+%.%d+) (%d+:%d+:%d+)")
+        local day, month, year = string.match(dateStr, "(%d+)%.(%d+)%.(%d+)")
+        local hour, minute, second = string.match(timeStr, "(%d+):(%d+):(%d+)")
+        return os.time({
+            year = tonumber(year),
+            month = tonumber(month),
+            day = tonumber(day),
+            hour = tonumber(hour),
+            min = tonumber(minute),
+            sec = tonumber(second)
+        }) - tonumber(gmtOffset) * 3600 
+    end
+
+    local function getTimezoneOffset()
+        
+        local utcTime = os.time(os.date("!*t"))
+
+        
+        local localTime = os.time()
+
+        
+        local offsetInSeconds = os.difftime(localTime, utcTime)
+
+        
+        local offsetInHours = offsetInSeconds / 3600
+
+        return offsetInHours
+    end
+
+    local userTimezoneOffset = getTimezoneOffset()
+    local parsedTime = parseDateTime(lastupdate)
+    local userTimeInSeconds = parsedTime + userTimezoneOffset * 3600
+
+    
+    local formattedTime = os.date("%A, %B %d %H:%M:%S %Y", userTimeInSeconds)
+    return formattedTime
+end
+
+
+
+
 
 function addscript(Place, Gamename, title, author, scriptlink, origin)
     getgenv().gamecount = getgenv().gamecount + 1
@@ -342,7 +350,6 @@ end
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 getgenv().Window = Library.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
-
 getgenv().hyperlibgui.ZIndexBehavior = Enum.ZIndexBehavior.Global
 local topZIndex = 2147483647
 
@@ -356,6 +363,7 @@ repeat
     wait(0.1)
 until game:IsLoaded()
 UpdateWindowTitle("Game is loaded!")
+
 
 if game.PlaceId == 13772394625 then
     UpdateWindowTitle("Protecting against Blade Ball Anticheat...")
@@ -396,12 +404,36 @@ getgenv().guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the
         guireloader:UpdateButton("Reloading...")
         wait(1)
         getgenv().hyperlibgui:Destroy()
+        
         getgenv().hyperlibreload = true
         getgenv().hyperlibblock = false
-
+        pcall(function()
+            getgenv().ScreenGui:Destroy()
+        end)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
     end)
 end)
+
+getgenv().hyperlibkill = GeneralSection:NewButton("Kill Hyperlib", "Kills the Hyperlib Gui", function()
+    spawn(function()
+        hyperlibkill:UpdateButton("Closing Hyperlib in 3")
+        wait(1)
+        hyperlibkill:UpdateButton("Closing Hyperlib in 2")
+        wait(1)
+        hyperlibkill:UpdateButton("Closing Hyperlib in 1")
+        wait(1)
+        hyperlibkill:UpdateButton("Goodbye!")
+        wait(1)
+        getgenv().hyperlibgui:Destroy()
+        
+        getgenv().hyperlibreload = false
+        getgenv().hyperlibblock = false
+        pcall(function()
+            getgenv().ScreenGui:Destroy()
+        end)
+    end)
+end)
+
 getgenv().serverhopperlower = GeneralSection:NewButton("Server Hop to empty Server",
     "Hop to another Server thats as empty as it can be", function()
     local PlaceID = game.PlaceId
@@ -669,9 +701,6 @@ function addDashes(num)
     return result
 end
 
-function rprint(text, color)
-    rconsoleprint("\n" .. text, color)
-end
 
 local usercustom = "Welcome to Hyperlib," .. " " .. getLocalPlayerName() .. "!"
 local customlen = characterCount(usercustom)
@@ -688,47 +717,7 @@ bigRedText(addDashes(customlen))
 print(asciiart .. "\n\n" .. version .. "\n\nWelcome " .. getLocalPlayerName() .. "!")
 
 
-if game.PlaceId == 7047488135 then
-    local exclusivemain = Window:NewTab("Exclusive")
-    exscript = exclusivemain:NewSection("Autofarms")
-    exscript:NewButton("Auto Collect Orbs", "Auto Collects all Orbs; get speed SUPER FAST", function()
-        local playerHead = game.Players.LocalPlayer.Character.Head
-        while true do
-            for i, v in pairs(game:GetService("Workspace").OrbSpawns:GetDescendants()) do
-                if v.Name == "TouchInterest" and v.Parent then
-                    firetouchinterest(playerHead, v.Parent, 0)
-                    wait(0.01)
-                    firetouchinterest(playerHead, v.Parent, 1)
-                end
-            end
-        end
-    end)
-    exscript:NewButton("Auto Collect Rings", "Auto Collects all Rings; Can also get you speed", function()
-        local playerHead = game.Players.LocalPlayer.Character.Head
-        while true do
-            for i, v in pairs(game:GetService("Workspace").OrbSpawns:GetDescendants()) do
-                if v.Name == "TouchInterest" and v.Parent then
-                    firetouchinterest(playerHead, v.Parent, 0)
-                    wait(0.01)
-                    firetouchinterest(playerHead, v.Parent, 1)
-                end
-            end
-        end
-    end)
-    exscript:NewButton("Auto Clicker", "Just a simple auto clicker", function()
-        while true do
-            game:GetService("ReplicatedStorage").Remotes.AddSpeed:FireServer()
-            wait(0.01)
-        end
-    end)
-    rebirthex = exclusivemain:NewSection("Rebirth")
-    rebirthex:NewButton("Auto Rebirth", "Automatically rebirths you", function(state)
-        while true do
-            game:GetService("ReplicatedStorage").Remotes.Rebirth:FireServer()
-            wait(0.1)
-        end
-    end)
-end
+
 
 local gameid = game.PlaceId
 local success, result = pcall(function()
@@ -815,8 +804,7 @@ else
         end)
     end
 end
-queue_on_teleport(
-'loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()')
+queue_on_teleport('loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/trenglehub.lua"))()')
 pcall(function()
     if getgenv().hyperlibreload == true then
         getgenv().hyperlibreload = false
@@ -1791,78 +1779,6 @@ local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for 
 
 
 
--- By pkplaysrblx
-
--- Instances:
-
-local ScreenGui = Instance.new("ScreenGui")
-local ImageButton = Instance.new("ImageButton")
-local UICorner = Instance.new("UICorner")
-
---Properties:
-
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
-
-ImageButton.Parent = ScreenGui
-ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
-ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
-ImageButton.BorderSizePixel = 0
-ImageButton.Position = UDim2.new(0.102370687, 0, 0.176282048, 0)
-ImageButton.Size = UDim2.new(0.0581896566, 0, 0.0865384638, 0)
-ImageButton.Image = "rbxassetid://90451194349182"
-ScreenGui.ResetOnSpawn = false
-
-UICorner.Parent = ImageButton
-
--- Scripts:
-
-local function HOQTP_fake_script() -- ImageButton.LocalScript 
-	local script = Instance.new('LocalScript', ImageButton)
-
-	local UIS = game:GetService('UserInputService')
-	local frame = script.Parent
-	local dragToggle = nil
-	local dragSpeed = 0.25
-	local dragStart = nil
-	local startPos = nil
-	
-	local function updateInput(input)
-		local delta = input.Position - dragStart
-		local position = UDim2.new(startPos.X.Scale, startPos.X.Offset + delta.X,
-			startPos.Y.Scale, startPos.Y.Offset + delta.Y)
-		game:GetService('TweenService'):Create(frame, TweenInfo.new(dragSpeed), {Position = position}):Play()
-	end
-	
-	frame.InputBegan:Connect(function(input)
-		if (input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.Touch) then 
-			dragToggle = true
-			dragStart = input.Position
-			startPos = frame.Position
-			input.Changed:Connect(function()
-				if input.UserInputState == Enum.UserInputState.End then
-					dragToggle = false
-				end
-			end)
-		end
-	end)
-	
-	UIS.InputChanged:Connect(function(input)
-		if input.UserInputType == Enum.UserInputType.MouseMovement or input.UserInputType == Enum.UserInputType.Touch then
-			if dragToggle then
-				updateInput(input)
-			end
-		end
-	end)
+if isMobile() == true then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Extensions/mobile.lua"))()
 end
-coroutine.wrap(HOQTP_fake_script)()
-local function UBRBZIO_fake_script() -- ImageButton.LocalScript 
-	local script = Instance.new('LocalScript', ImageButton)
-
-	local TB =  script.Parent
-	
-	TB.MouseButton1Down:Connect(function()
-		Library:ToggleUI()
-	end)
-end
-coroutine.wrap(UBRBZIO_fake_script)()

@@ -290,6 +290,9 @@ function Kavo.CreateLib(kavName, themeList)
         wait(1)
         getgenv().hyperlibgui:Destroy()
         getgenv().hyperlibblock = false
+        pcall(function()
+            getgenv().ScreenGui:Destroy()
+        end)
 
     end)
 
