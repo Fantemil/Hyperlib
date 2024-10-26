@@ -1,0 +1,2 @@
+
+    addscript(11442626954, "Current Game","Sendox Mag Script  keyless", "Uploaded by crack on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Sendox%20Mag%20Script%20%20keyless924.lua", "https://scriptblox.com/script/UPDATE-1-Skillful-Sendox-Mag-Script-keyless-21125")
