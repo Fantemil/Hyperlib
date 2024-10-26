@@ -312,3 +312,5 @@ addscriptexist(286090429, "Aimbot script", "Uploaded by Mthhx on scriptblox.com"
                                     
     addscriptexist(286090429, "Ventoro  Best Script", "Uploaded by zxeno on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Ventoro%20%20Best%20Script677.lua", "https://scriptblox.com/script/Arsenal-Ventoro-Best-Script-20941")
                                     
+    addscriptexist(286090429, "Projectware Aresnal", "Uploaded by Eva_Getwavedotgg on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Projectware%20Aresnal186.lua", "https://scriptblox.com/script/Arsenal-Projectware-21120")
+                                    
