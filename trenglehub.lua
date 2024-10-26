@@ -347,8 +347,8 @@ function sortUni()
     end)
 end
 
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
-getgenv().Window = Library.CreateLib(version, "DarkTheme")
+getgenv().HyperlibLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
+getgenv().Window = getgenv().HyperlibLibrary.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
 getgenv().hyperlibgui.ZIndexBehavior = Enum.ZIndexBehavior.Global
 local topZIndex = 2147483647
@@ -408,7 +408,7 @@ getgenv().guireloader = GeneralSection:NewButton("Reload Hyperlib", "Reloads the
         getgenv().hyperlibreload = true
         getgenv().hyperlibblock = false
         pcall(function()
-            getgenv().ScreenGui:Destroy()
+            getgenv().HyperlibMobileButtonGUI:Destroy()
         end)
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/trenglehub.lua"))()
     end)
@@ -429,10 +429,23 @@ getgenv().hyperlibkill = GeneralSection:NewButton("Kill Hyperlib", "Kills the Hy
         getgenv().hyperlibreload = false
         getgenv().hyperlibblock = false
         pcall(function()
-            getgenv().ScreenGui:Destroy()
+            getgenv().HyperlibMobileButtonGUI:Destroy()
         end)
     end)
 end)
+
+getgenv().mobiletogglestate = false
+getgenv().mobilebuttontoggle = GeneralSection:NewToggle("Mobile GUI Toggle", "Enable/Disable the Mobile GUI Toggle", function(state)
+    if state then
+        if getgenv().mobiletogglestate == false then
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Extensions/mobile.lua"))()
+        end
+    else
+        getgenv().HyberlibMobileButtonGUI:Destroy()
+        mobilebuttontoggle = false
+    end
+end)
+
 
 getgenv().serverhopperlower = GeneralSection:NewButton("Server Hop to empty Server",
     "Hop to another Server thats as empty as it can be", function()
@@ -973,7 +986,7 @@ local Keybinds = Window:NewTab("Keybinds")
 local KeybindsSection = Keybinds:NewSection("Keybinds")
 KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T,
     function()
-        Library:ToggleUI()
+        getgenv().HyperlibLibrary:ToggleUI()
     end)
 
 local SearchTab = Window:NewTab("Search")
@@ -1782,3 +1795,4 @@ local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for 
 if isMobile() == true then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Extensions/mobile.lua"))()
 end
+

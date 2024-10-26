@@ -1,25 +1,26 @@
 bigGreenItalicText("Adding GUI Toggle for Mobile use!")
+getgenv().mobilebuttontoggle = true
 -- By pkplaysrblx
 
 -- Instances:
 
-getgenv().ScreenGui = Instance.new("ScreenGui")
+getgenv().HyperlibMobileButtonGUI = Instance.new("getgenv().HyperlibMobileButtonGUI")
 local ImageButton = Instance.new("ImageButton")
 local UICorner = Instance.new("UICorner")
 
 --Properties:
 
-ScreenGui.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
-ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+getgenv().HyperlibMobileButtonGUI.Parent = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+getgenv().HyperlibMobileButtonGUI.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 
-ImageButton.Parent = ScreenGui
+ImageButton.Parent = getgenv().HyperlibMobileButtonGUI
 ImageButton.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageButton.BorderColor3 = Color3.fromRGB(0, 0, 0)
 ImageButton.BorderSizePixel = 0
 ImageButton.Position = UDim2.new(0.102370687, 0, 0.176282048, 0)
 ImageButton.Size = UDim2.new(0.0581896566, 0, 0.0865384638, 0)
 ImageButton.Image = "rbxassetid://90451194349182"
-ScreenGui.ResetOnSpawn = false
+getgenv().HyperlibMobileButtonGUI.ResetOnSpawn = false
 
 UICorner.Parent = ImageButton
 
@@ -70,7 +71,7 @@ local function UBRBZIO_fake_script() -- ImageButton.LocalScript
     local TB =  script.Parent
     
     TB.MouseButton1Down:Connect(function()
-        Library:ToggleUI()
+        getgenv().Library:ToggleUI()
     end)
 end
 coroutine.wrap(UBRBZIO_fake_script)()
