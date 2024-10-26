@@ -22,3 +22,7 @@ addscriptexist(8170900938, "Blade Style REUPLOADED", "Uploaded by LunarUI on scr
                                     
     addscriptexist(8170900938, "Tiger style Replaces brute not fisticuffs", "Uploaded by Rylee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tiger%20style%20Replaces%20brute%20not%20fisticuffs822.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Tiger-style-Replaces-brute-not-fisticuffs-21014")
                                     
+    addscriptexist(8170900938, "Dragon style morph mod", "Uploaded by Rylee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20style%20morph%20mod411.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Dragon-style-morph-mod-21063")
+                                    
+    addscriptexist(8170900938, "Dragon voice mod", "Uploaded by Rylee on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Dragon%20voice%20mod551.lua", "https://scriptblox.com/script/Right-2-Fight-V0.4.0-Dragon-voice-mod-21064")
+                                    

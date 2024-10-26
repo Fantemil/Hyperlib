@@ -536,3 +536,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "FE  Fake Animation", "Uploaded by allowed on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/FE%20%20Fake%20Animation44.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-FE-Fake-Animation-21037")
                                     
+    addscriptexist(10449761463, "Tsb BuilderFly V1 made by valker038 on roblox also buggy", "Uploaded by earnestolf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsb%20BuilderFly%20V1%20made%20by%20valker038%20on%20roblox%20also%20buggy477.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Tsb-BuilderFly-V1-made-by-valker038-on-roblox-also-buggy-21065")
+                                    
