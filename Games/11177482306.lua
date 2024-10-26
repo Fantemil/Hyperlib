@@ -20,3 +20,5 @@ addscript(11177482306, "Current Game","OP Autofarm", "Uploaded by lobox920 on sc
                                     
     addscriptexist(11177482306, "SW  Underlord", "Uploaded by DexInstri on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/SW%20%20Underlord917.lua", "https://scriptblox.com/script/UPDATE-SOON-Streetz-War-2-SW-Underlord-17633")
                                     
+    addscriptexist(11177482306, "support solara", "Uploaded by XenonHUB on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/support%20solara841.lua", "https://scriptblox.com/script/SUMMER-UPDATE-Streetz-War-2-support-solara-21088")
+                                    
