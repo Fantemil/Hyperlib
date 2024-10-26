@@ -6,3 +6,5 @@ addscriptexist(9825515356, "Admin", "Uploaded by dread on scriptblox.com", "http
                                     
     addscriptexist(9825515356, "kozel lua", "Uploaded by cocacws1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/kozel%20lua737.lua", "https://scriptblox.com/script/Hood-Customs-kozel-lua-12518")
                                     
+    addscriptexist(9825515356, "anticheat bypass", "Uploaded by sleiid2 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/anticheat%20bypass978.lua", "https://scriptblox.com/script/Hood-Customs-anticheat-bypass-21083")
+                                    

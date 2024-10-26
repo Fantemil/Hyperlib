@@ -4,3 +4,5 @@ addscript(5610197459, "Current Game","the best     script for now", "Uploaded by
                                     
     addscriptexist(5610197459, "Zephyr G4ng p 0n P3ople S1mulator", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20G4ng%20p%200n%20P3ople%20S1mulator49.lua", "https://scriptblox.com/script/gang-up-on-people-simulator-Zephyr-G4ng-p-0n-P3ople-S1mulator-20592")
                                     
+    addscriptexist(5610197459, "Zephyr V2 G4ng U4 0n Pe0ple S1mulator", "Uploaded by Zephyr on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Zephyr%20V2%20G4ng%20U4%200n%20Pe0ple%20S1mulator623.lua", "https://scriptblox.com/script/gang-up-on-people-simulator-Zephyr-V2-G4ng-U-0n-Pe0ple-S1mulator-21085")
+                                    

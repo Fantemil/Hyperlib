@@ -538,3 +538,5 @@ addscriptexist(10449761463, "TSB", "Uploaded by collorem on scriptblox.com", "ht
                                     
     addscriptexist(10449761463, "Tsb BuilderFly V1 made by valker038 on roblox also buggy", "Uploaded by earnestolf on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Tsb%20BuilderFly%20V1%20made%20by%20valker038%20on%20roblox%20also%20buggy477.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Tsb-BuilderFly-V1-made-by-valker038-on-roblox-also-buggy-21065")
                                     
+    addscriptexist(10449761463, "Kj for TSB", "Uploaded by TSB_enjoyer on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Kj%20for%20TSB982.lua", "https://scriptblox.com/script/The-Strongest-Battlegrounds-Kj-for-TSB-21086")
+                                    

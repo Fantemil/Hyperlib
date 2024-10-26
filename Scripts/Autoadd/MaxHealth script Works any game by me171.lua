@@ -1,0 +1,1 @@
+game.Players.LocalPlayer.Character.Humanoid.MaxHealth = 1000000
