@@ -84,3 +84,5 @@ addscriptexist(1962086868, "Incoak TOH", "Uploaded by Incoak on scriptblox.com",
                                     
     addscriptexist(1962086868, "Rellahs    2024", "Uploaded by abstract2187 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Rellahs%20%20%20%202024279.lua", "https://scriptblox.com/script/Tower-of-Hell-Rellahs-2024-20381")
                                     
+    addscriptexist(1962086868, "Infinite Level And Coin", "Uploaded by FreeRobloxScripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Infinite%20Level%20And%20Coin134.lua", "https://scriptblox.com/script/Tower-of-Hell-Infinite-Level-And-Coin-21114")
+                                    

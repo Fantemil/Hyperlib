@@ -1,0 +1,2 @@
+
+    addscript(15932734846, "Current Game","Get All Countryball Autofarm", "Uploaded by FreeRobloxScripts1 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Get%20All%20Countryball%20Autofarm723.lua", "https://scriptblox.com/script/Find-The-Countryballs-(97)-0.02-Get-All-Countryball-Autofarm-21107")

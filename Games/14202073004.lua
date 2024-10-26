@@ -12,3 +12,5 @@
                                     
     addscriptexist(14202073004, "X Ro Script", "Uploaded by XRodev on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/X%20Ro%20Script292.lua", "https://scriptblox.com/script/Unnamed-Shooter-X-Ro-Script-18193")
                                     
+    addscriptexist(14202073004, "Script GUI", "Uploaded by Minecraft__Rose on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Script%20GUI773.lua", "https://scriptblox.com/script/Unnamed-Shooter-Script-GUI-21108")
+                                    

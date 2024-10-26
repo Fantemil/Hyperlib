@@ -50,3 +50,5 @@ addscriptexist(4520749081, "WINNABLE", "Uploaded by Jine on scriptblox.com", "ht
                                     
     addscriptexist(4520749081, "scripts", "Uploaded by waffahantta on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/scripts267.lua", "https://scriptblox.com/script/King-Legacy-scripts-21023")
                                     
+    addscriptexist(4520749081, "ArcHub Solara Support", "Uploaded by ThaiAnh on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ArcHub%20Solara%20Support965.lua", "https://scriptblox.com/script/(UPDATE-7)-King-Legacy-ArcHub-21110")
+                                    

@@ -1,0 +1,2 @@
+
+    addscript(131717779815455, "Current Game","Admin Char", "Uploaded by Goku0 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Admin%20Char504.lua", "https://scriptblox.com/script/KJCT-NEW-Admin-Char-21109")
