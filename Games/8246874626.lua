@@ -4,3 +4,5 @@
                                     
     addscriptexist(8246874626, "ToraScripts", "Uploaded by 42Hrz on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/ToraScripts967.lua", "https://scriptblox.com/script/x3-TAIL-Dragon-Soul-or-Anime-Adventure-ToraScripts-15553")
                                     
+    addscriptexist(8246874626, "Imp Hub", "Uploaded by Data0292 on scriptblox.com", "https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Scripts/Autoadd/Imp%20Hub867.lua", "https://scriptblox.com/script/STORY-Dragon-Soul-or-Anime-Adventure-Imp-Hub-21071")
+                                    
