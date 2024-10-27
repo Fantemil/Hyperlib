@@ -133,7 +133,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.6.1 (Legacy)"
+version = "Hyperlib V.3.6.2 (Legacy)"
 getgenv().statusdict = {}
 
 
@@ -435,14 +435,15 @@ getgenv().hyperlibkill = GeneralSection:NewButton("Kill Hyperlib", "Kills the Hy
 end)
 
 getgenv().mobiletogglestate = false
-getgenv().mobilebuttontoggle = GeneralSection:NewToggle("Mobile GUI Toggle", "Enable/Disable the Mobile GUI Toggle", function(state)
-    if state then
-        if getgenv().mobiletogglestate == false then
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/refs/heads/main/Extensions/mobiletoggle.lua"))()
-        end
+getgenv().mobilebuttontoggle = GeneralSection:NewButton("Load Mobile GUI Toggle", "Enable/Disable the Mobile GUI Toggle", function()
+    
+    if getgenv().mobiletogglestate == false then
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/refs/heads/main/Extensions/mobiletoggle.lua"))()
+        getgenv().mobilebuttontoggle:UpdateButton("Unload Mobile GUI Toggle")
     else
         getgenv().HyberlibMobileButtonGUI:Destroy()
         mobilebuttontoggle = false
+        getgenv().mobilebuttontoggle:UpdateButton("Load Mobile GUI Toggle")
     end
 end)
 
