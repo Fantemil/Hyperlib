@@ -4,7 +4,7 @@ getgenv().mobilebuttontoggle = true
 
 -- Instances:
 
-getgenv().HyperlibMobileButtonGUI = Instance.new("getgenv().HyperlibMobileButtonGUI")
+getgenv().HyperlibMobileButtonGUI = Instance.new("ScreenGui")
 local ImageButton = Instance.new("ImageButton")
 local UICorner = Instance.new("UICorner")
 
@@ -71,7 +71,7 @@ local function UBRBZIO_fake_script() -- ImageButton.LocalScript
     local TB =  script.Parent
     
     TB.MouseButton1Down:Connect(function()
-        getgenv().Library:ToggleUI()
+        getgenv().HyperlibLibrary:ToggleUI()
     end)
 end
 coroutine.wrap(UBRBZIO_fake_script)()
