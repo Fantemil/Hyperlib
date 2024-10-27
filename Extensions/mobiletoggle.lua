@@ -1,5 +1,5 @@
 bigGreenItalicText("Adding GUI Toggle for Mobile use!")
-getgenv().mobilebuttontoggle = true
+getgenv().mobiletogglestate = true
 -- By pkplaysrblx
 
 -- Instances:
