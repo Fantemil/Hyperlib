@@ -438,7 +438,7 @@ getgenv().mobiletogglestate = false
 getgenv().mobilebuttontoggle = GeneralSection:NewToggle("Mobile GUI Toggle", "Enable/Disable the Mobile GUI Toggle", function(state)
     if state then
         if getgenv().mobiletogglestate == false then
-            loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Extensions/mobile.lua"))()
+            loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/refs/heads/main/Extensions/mobiletoggle.lua"))()
         end
     else
         getgenv().HyberlibMobileButtonGUI:Destroy()
@@ -1793,6 +1793,6 @@ local universalsearchtextbox = universalsearch:NewTextBox("Search", "Seafch for 
 
 
 if isMobile() == true then
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/main/Extensions/mobile.lua"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/refs/heads/main/Extensions/mobiletoggle.lua"))()
 end
 
