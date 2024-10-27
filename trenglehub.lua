@@ -442,7 +442,7 @@ getgenv().mobilebuttontoggle = GeneralSection:NewButton("Load Mobile GUI Toggle"
         getgenv().mobilebuttontoggle:UpdateButton("Unload Mobile GUI Toggle")
     else
         getgenv().HyberlibMobileButtonGUI:Destroy()
-        mobilebuttontoggle = false
+        mobiletogglestate = false
         getgenv().mobilebuttontoggle:UpdateButton("Load Mobile GUI Toggle")
     end
 end)
