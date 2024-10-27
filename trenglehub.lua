@@ -441,7 +441,7 @@ getgenv().mobilebuttontoggle = GeneralSection:NewButton("Load Mobile GUI Toggle"
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Hyperlib/refs/heads/main/Extensions/mobiletoggle.lua"))()
         getgenv().mobilebuttontoggle:UpdateButton("Unload Mobile GUI Toggle")
     else
-        getgenv().HyberlibMobileButtonGUI:Destroy()
+        getgenv().HyperlibMobileButtonGUI:Destroy()
         mobiletogglestate = false
         getgenv().mobilebuttontoggle:UpdateButton("Load Mobile GUI Toggle")
     end
