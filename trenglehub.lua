@@ -133,7 +133,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.6 (Legacy)"
+version = "Hyperlib V.3.6.1 (Legacy)"
 getgenv().statusdict = {}
 
 
