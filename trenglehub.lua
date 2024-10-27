@@ -133,7 +133,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.6.2 (Legacy)"
+version = "Hyperlib V.3.6.3 (Legacy)"
 getgenv().statusdict = {}
 
 
@@ -529,6 +529,77 @@ getgenv().serverhopperlower = GeneralSection:NewButton("Server Hop to empty Serv
     end)
     bigGreenItalicText("Teleporting to a Server with the lowest amount of players...")
     Teleport()
+end)
+getgenv().serverhopper = GeneralSection:NewButton("Server Hop",
+    "Hop to another random Server", function()
+
+        local PlaceID = game.PlaceId
+        local AllIDs = {}
+        local foundAnything = ""
+        local actualHour = os.date("!*t").hour
+        
+        function TPReturner()
+            local Site
+            if foundAnything == "" then
+                Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+                PlaceID .. '/servers/Public?sortOrder=Asc&limit=100'))
+            else
+                Site = game.HttpService:JSONDecode(game:HttpGet('https://games.roblox.com/v1/games/' ..
+                PlaceID .. '/servers/Public?sortOrder=Asc&limit=100&cursor=' .. foundAnything))
+            end
+            if Site.nextPageCursor and Site.nextPageCursor ~= "null" and Site.nextPageCursor ~= nil then
+                foundAnything = Site.nextPageCursor
+            end
+        
+            local serverList = {}
+            for _, v in pairs(Site.data) do
+                if tonumber(v.maxPlayers) > tonumber(v.playing) then
+                    table.insert(serverList, tostring(v.id))
+                end
+            end
+        
+          
+            if #serverList > 0 then
+                local randomIndex = math.random(1, #serverList) 
+                local randomServerID = serverList[randomIndex]
+                table.insert(AllIDs, randomServerID)
+        
+                pcall(function()
+                    bigGreenItalicText("Teleporting to a random server now!")
+                    game:GetService("TeleportService"):TeleportToPlaceInstance(PlaceID, randomServerID, game.Players.LocalPlayer)
+                end)
+            else
+               
+                if foundAnything ~= "" then
+                    TPReturner()
+                end
+            end
+        end
+        
+        function Teleport()
+            while wait() do
+                pcall(function()
+                    TPReturner()
+                end)
+            end
+        end
+        
+     
+        spawn(function()
+            while true do
+                getgenv().serverhopper:UpdateButton("Teleporting")
+                wait(0.1)
+                getgenv().serverhopper:UpdateButton("Teleporting.")
+                wait(0.1)
+                getgenv().serverhopper:UpdateButton("Teleporting..")
+                wait(0.1)
+                getgenv().serverhopper:UpdateButton("Teleporting...")
+                wait(0.1)
+            end
+        end)
+        
+        bigGreenItalicText("Teleporting to a random server...")
+        Teleport()
 end)
 
 PlayerSection:NewSlider("Walkspeed", "Changes the walkspeed", 250, 16, function(v)
