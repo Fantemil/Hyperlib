@@ -4,8 +4,8 @@
 
 # Welcome to Hyperlib!
 
-Hyperlib is a Project i started for everyone who is tired of always searching for Scripts on YouTube. And that keyless of course because key systems suck! 
-I promise that you will never need a key and i will never obfuscate the main source code.
+Hyperlib is a Project i started for everyone who is tired of always searching for Scripts on YouTube. Now you only need one Script that has all the Scripts you need. And that keyless of course because key systems suck! 
+I promise that you will never need any key or something like that and i will never obfuscate the main source code.
 
 # Features
 ## Implemented:
