@@ -1,5 +1,5 @@
 
-lastupdate = "GMT +0: 02.02.2024 19:08:52"
+
 lastupdate = "GMT +0: 26.10.2024 17:43:33"
 
 
@@ -133,7 +133,7 @@ getgenv().hubscripts = {
 getgenv().uniscripts = {
     allscripts = {}
 }
-version = "Hyperlib V.3.6.4 (Legacy)"
+version = "Hyperlib V.3.6.5 (Legacy)"
 getgenv().statusdict = {}
 
 
@@ -347,11 +347,49 @@ function sortUni()
     end)
 end
 
+function getCurrentPlayerCount()
+    return #game.Players:GetPlayers()
+end
+function getMaxPlayerCount()
+    return game.Players.MaxPlayers
+end
+function getClientPing()
+    local ping = game:GetService("Stats").Network.ServerStatsItem["Data Ping"]:GetValue()
+    return math.floor(ping + 0.5)
+end
+
+local fps = 0
+local lastTick = tick()
+game:GetService("RunService").Heartbeat:Connect(function()
+    local currentTick = tick()
+    fps = 1 / (currentTick - lastTick)
+    lastTick = currentTick
+end)
+
+function getFPS()
+    return math.floor(fps + 0.5)
+end
+
+function getPlaceID()
+    return game.PlaceId
+end
+
+function getPlaceName()
+    return game.Place.Name
+end
+
+function getServerID()
+    return game.JobId
+end
+local function getClientUptime()
+    return tick()
+end
+
+
 getgenv().HyperlibLibrary = loadstring(game:HttpGet("https://raw.githubusercontent.com/Fantemil/Trenglehub/main/Library/kavo-ui.lua"))()
 getgenv().Window = getgenv().HyperlibLibrary.CreateLib(version, "DarkTheme")
 Window = getgenv().Window
 getgenv().hyperlibgui.ZIndexBehavior = Enum.ZIndexBehavior.Global
-local topZIndex = 2147483647
 
 
 repeat
@@ -1100,12 +1138,36 @@ spawn(function()
 end)
 Statstab = Window:NewTab("Informations")
 local StatusSection = Statstab:NewSection("Informations")
-StatusSection:NewLabel("Last Update: " .. formatTimeForUser(lastupdate))
-StatusSection:NewLabel("Script Version: " .. version)
-StatusSection:NewButton("Copy Link to Discord Server", "Copies the Discord Server Link to your clipboard", function()
-    setclipboard("https://discord.gg/dTcjXmKJdT")
-    bigGreenItalicText("Copied Discord Server Link to clipboard!")
+local maxplayers = getMaxPlayerCount()
+local playerlabel = StatusSection:NewLabel("Players: " .. getCurrentPlayerCount() .. "/" .. maxplayers)
+local pinglabel = StatusSection:NewLabel("Ping: " .. getClientPing())
+local fpslabel = StatusSection:NewLabel("FPS: " .. getFPS())
+local placeidlabel = StatusSection:NewLabel("Place ID: " .. getPlaceID())
+local copyplaceidbutton = StatusSection:NewButton("Copy Place ID", "Copies the Place ID to your clipboard", function()
+    setclipboard(tostring(getPlaceID()))
+    bigGreenItalicText("Copied Place ID to clipboard!")
 end)
+local serveridlabel = StatusSection:NewLabel("Server ID: " .. getServerID())
+local copyservidbutton = StatusSection:NewButton("Copy Server ID", "Copies the Server ID to your clipboard", function()
+    setclipboard(tostring(getServerID()))
+    bigGreenItalicText("Copied Server ID to clipboard!")
+end)
+task.spawn(function()
+    while hyperlibblock do
+        playerlabel:UpdateLabel("Players: " .. getCurrentPlayerCount() .. "/" .. maxplayers)
+        wait(5)
+    end
+end)
+task.spawn(function()
+    while hyperlibblock do
+        pinglabel:UpdateLabel("Ping: " .. getClientPing() .. "ms")
+        fpslabel:UpdateLabel("FPS: " .. getFPS())
+        wait(1)
+    end
+end)
+StatusSection:NewLabel("Last Update of Hub: " .. formatTimeForUser(lastupdate))
+StatusSection:NewLabel("Script Version: " .. version)
+
 StatusSection:NewLabel("Script was made and is maintained by fantemil")
 StatusSection:NewLabel("Thanks to pkplaysrblx for helping!")
 
@@ -1113,6 +1175,12 @@ StatusSection:NewButton("Copy GitHub Link", "Copies the GitHub Link to your clip
     setclipboard("https://github.com/Fantemil/Hyperlib")
     bigGreenItalicText("Copied GitHub Link to clipboard!")
 end)
+StatusSection:NewButton("Copy Link to Discord Server", "Copies the Discord Server Link to your clipboard", function()
+    setclipboard("https://discord.gg/dTcjXmKJdT")
+    bigGreenItalicText("Copied Discord Server Link to clipboard!")
+end)
+
+
 local Keybinds = Window:NewTab("Keybinds")
 local KeybindsSection = Keybinds:NewSection("Keybinds")
 KeybindsSection:NewKeybind("Toggle UI", "Press T To toggle the Hyperlib UI (Click to change Keybind)", Enum.KeyCode.T,
