@@ -31,6 +31,8 @@ loadstring(game:HttpGet("https://roxerion.com/api/public/hub/v3"))()
 - 🌐 **Website**: [roxerion.com](https://roxerion.com)
 - 💬 **Discord**: [discord.gg/CR9d6vf5N7](https://discord.gg/CR9d6vf5N7)
 
+[![Discord](https://discord.com/api/guilds/1137820206060798065/widget.png?style=banner2)](https://discord.gg/CR9d6vf5N7)
+
 ---
 
 *Thank you to everyone who used Hyperlib. The journey continues with Roxerion.*
